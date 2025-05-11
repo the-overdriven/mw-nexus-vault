@@ -1,0 +1,95 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 5,
+          "941": 3
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2016-09-18T08:05:20Z",
+          "fileSize": 190,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 44552,
+          "name": "Smarter Casters",
+          "status": "published",
+          "summary": "Replaces every NPC’s spell list with a new set of spells that fit their class more closely in my opinion.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44552-0-1474185593.jpg",
+          "uid": "429496774152",
+          "updatedAt": "2016-09-18T09:53:40Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2015-01-02T12:30:21Z",
+          "fileSize": 5654,
+          "modCategory": {
+            "categoryId": 7,
+            "name": "Items, Objects, and Clothes"
+          },
+          "modId": 43401,
+          "name": "Shadow Hearts Heroines",
+          "status": "published",
+          "summary": "Adds 3 outfits based on Koudelka, Alice and Karin from the Shadow Hearts saga.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43401-1-1420201475.jpg",
+          "uid": "429496773001",
+          "updatedAt": "2015-01-02T12:29:48Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2015-01-02T11:21:32Z",
+          "fileSize": 13675,
+          "modCategory": {
+            "categoryId": 16,
+            "name": "Weapons and Armour"
+          },
+          "modId": 43400,
+          "name": "FFXIII Lightning's Gear",
+          "status": "published",
+          "summary": "Adds Lightning's outfit and gunblade (longsword) from Final Fantasy XIII.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43400-2-1420197010.jpg",
+          "uid": "429496773000",
+          "updatedAt": "2015-01-02T12:41:35Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2014-12-19T20:44:54Z",
+          "fileSize": 2731,
+          "modCategory": {
+            "categoryId": 7,
+            "name": "Items, Objects, and Clothes"
+          },
+          "modId": 43382,
+          "name": "Yuna and Tidus' Outfits",
+          "status": "published",
+          "summary": "Adds 2 new outfits sold by Arrile in Seyda Neen, based on Tidus and Yuna from Final Fantasy X. Yuna's is only for the ladies, and Tidus' is unisex.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43382-1-1419021460.jpg",
+          "uid": "429496772982",
+          "updatedAt": "2014-12-19T20:42:16Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2014-12-18T23:03:19Z",
+          "fileSize": 59428,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 43380,
+          "name": "Magic Diversity -COMPLETE-",
+          "status": "published",
+          "summary": "Magic Diversity's aim is to make your experience as a mage more interesting by giving every magic effect a new, unique HD look (this includes casting animations, magic bolts and",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43380-4-1419674976.png",
+          "uid": "429496772980",
+          "updatedAt": "2016-03-24T16:11:52Z"
+        }
+      ],
+      "totalCount": 5
+    }
+  }
+}

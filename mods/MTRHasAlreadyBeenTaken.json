@@ -1,0 +1,254 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 15
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-26T01:09:41Z",
+          "fileSize": 13,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 53887,
+          "name": "mtrBOBS - Mod Editing Boots of Blinding Speed",
+          "status": "published",
+          "summary": "The only correct way of wearing Boots of Blinding Speed",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53887/53887-1703552772-1683749819.png",
+          "uid": "429496783487",
+          "updatedAt": "2023-12-26T01:09:41Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-01-02T22:14:16Z",
+          "fileSize": 4,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52124,
+          "name": "mtrStateBasedMagicka - MWSE Mod providing State Based Magicka calculation based on Intelligence Willpower and Level",
+          "status": "published",
+          "summary": "A state-based magicka mod implemented in MWSE. Magicka is now calculated based on current intelligence, willpower and level.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52124/52124-1672696609-1723388289.png",
+          "uid": "429496781724",
+          "updatedAt": "2023-01-02T22:14:16Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-06-02T08:12:13Z",
+          "fileSize": 17,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 51430,
+          "name": "mtrQuasiRadiantQuests - Mod adding repeatable radiant quests",
+          "status": "published",
+          "summary": "This mod adds very simple radiant quests for role-playing purposes. In version 0.1 there are only quests for alchemists.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51430/51430-1654157397-779316561.jpeg",
+          "uid": "429496781030",
+          "updatedAt": "2022-06-02T08:12:13Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-29T01:53:10Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 51375,
+          "name": "mtrPermanentQuestCorpsesRandomizer OpenMW omwaddon - Randomizer for Location of Permanent Corpses of Imperial Taxman Processus Vitellius and Skooma Dealer Ernil Omoran Associated with Quests",
+          "status": "published",
+          "summary": "This mod randomizes placement of Processus Vitellius and Ernil Omoran bodies. Requires OpenMW.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51375/51375-1653788940-80734403.jpeg",
+          "uid": "429496780975",
+          "updatedAt": "2022-06-02T01:41:16Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-21T17:18:02Z",
+          "fileSize": 18,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 51282,
+          "name": "mtrCultures - Role-Playing Mod allowing to choose your cultural background during character creation",
+          "status": "published",
+          "summary": "This mod adds character cultures that can be selected after character generation.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51282/51282-1653152908-92790361.jpeg",
+          "uid": "429496780882",
+          "updatedAt": "2022-07-26T17:33:05Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-14T15:24:04Z",
+          "fileSize": 5,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 51231,
+          "name": "mtrQuests - Vanity and Alteration",
+          "status": "published",
+          "summary": "Simple quest mod that could have been a part of vanilla game. To start the quest ask patrons of Dagon Fel's tavern about latest rumors. Requires TR_Data.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51231/51231-1652541611-348480724.jpeg",
+          "uid": "429496780831",
+          "updatedAt": "2022-05-14T15:24:04Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-07T22:33:35Z",
+          "fileSize": 5,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 51172,
+          "name": "mtrQuests - Blood and Faith",
+          "status": "published",
+          "summary": "Simple quest mod that could have been a part of vanilla game. To start the quest ask commoners about latest rumors after you reach level 5.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51172/51172-1652011137-109429141.jpeg",
+          "uid": "429496780772",
+          "updatedAt": "2022-05-07T22:33:35Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-06-22T20:42:26Z",
+          "fileSize": 14,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49996,
+          "name": "mtrLineage - Role-Playing Mod allowing to choose your Ancestors Lineage during Character Creation",
+          "status": "published",
+          "summary": "This mod adds many character lineages that can be selected after character generation.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49996/49996-1624394237-921485783.jpeg",
+          "uid": "429496779596",
+          "updatedAt": "2022-04-21T00:46:10Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-06-02T00:25:50Z",
+          "fileSize": 3,
+          "modCategory": {
+            "categoryId": 14,
+            "name": "Races, Classes, and Birthsigns"
+          },
+          "modId": 49915,
+          "name": "mtrBalancedRaces - Another Race Mod",
+          "status": "published",
+          "summary": "Simple mod changing racial bonuses available in 3 versions - 1. Full, 2. With no skill changes 3. With no skill, weight and height changes",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49915/49915-1622593329-1119837080.jpeg",
+          "uid": "429496779515",
+          "updatedAt": "2021-06-06T22:45:47Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-15T21:49:05Z",
+          "fileSize": 6,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 49781,
+          "name": "mtrDwemerPuzzleBoxRandomizer - Randomizer for Location of Dwemer Puzzle Box within Arkngthand associated with Main Quest",
+          "status": "published",
+          "summary": "This mod randomizes placement of Dwemer Puzzle Box. Made in regular mwscript, so it works in OpenMW too!",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49781/49781-1621115130-997755774.jpeg",
+          "uid": "429496779381",
+          "updatedAt": "2021-05-17T01:55:34Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-06T21:06:41Z",
+          "fileSize": 4,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49697,
+          "name": "mtrDaedricOfferings - Daedra Lords Cultists and Worshippers can leave Offerings at Statues and Shrines in exchange for Restore Attributes Blessings and Cure Disease Blight or Poison",
+          "status": "published",
+          "summary": "Daedric statues now offer favors in exchange for offerings similarly to Imperial and Tribunal shrines.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49697/49697-1620335068-127868834.jpeg",
+          "uid": "429496779297",
+          "updatedAt": "2021-05-07T01:11:53Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-04T22:59:25Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 14,
+            "name": "Races, Classes, and Birthsigns"
+          },
+          "modId": 49677,
+          "name": "mtrBalancedBirthsigns - Another Birthsign Mod",
+          "status": "published",
+          "summary": "Yet another bland birthsign mod.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49677/49677-1620168589-1280385347.jpeg",
+          "uid": "429496779277",
+          "updatedAt": "2021-05-04T22:59:25Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-01T23:16:03Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 10,
+            "name": "New Lands"
+          },
+          "modId": 49632,
+          "name": "mtrTribunalEraser - Mod Erasing Dark Brotherhood Attacks aswell as Mournhold and Almalexia added by Tribunal Expansion",
+          "status": "published",
+          "summary": "Gets rid of Tribunal Expansion.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49632/49632-1619910894-1536139155.jpeg",
+          "uid": "429496779232",
+          "updatedAt": "2021-05-01T23:16:03Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-05-14T03:13:07Z",
+          "fileSize": 25,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 48031,
+          "name": "mtrByTheDivines - Religion Role-Playing Mod allowing to choose Divines to Worship during Character Creation",
+          "status": "published",
+          "summary": "This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48031/48031-1589425309-27668992.png",
+          "uid": "429496777631",
+          "updatedAt": "2022-07-16T06:46:01Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-05-02T19:40:04Z",
+          "fileSize": 2,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 47937,
+          "name": "mtrPermanentQuestCorpsesRandomizer - Randomizer for Location of Permanent Corpses of Imperial Taxman Processus Vitellius and Skooma Dealer Ernil Omoran Associated with Quests",
+          "status": "published",
+          "summary": "This mod randomizes placement of Processus Vitellius and Ernil Omoran bodies. Requires mwse.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47937/47937-1588447872-672365567.png",
+          "uid": "429496777537",
+          "updatedAt": "2020-05-18T06:27:19Z"
+        }
+      ],
+      "totalCount": 15
+    }
+  }
+}

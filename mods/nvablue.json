@@ -1,0 +1,30 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2020-12-25T17:45:20Z",
+          "fileSize": 14,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49156,
+          "name": "Real Weapon Range",
+          "status": "published",
+          "summary": "Adjusts weapon range to match their models and animations",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49156/49156-1608916005-2048766771.png",
+          "uid": "429496778756",
+          "updatedAt": "2020-12-25T17:45:20Z"
+        }
+      ],
+      "totalCount": 1
+    }
+  }
+}

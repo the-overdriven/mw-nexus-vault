@@ -1,0 +1,95 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 5,
+          "1151": 3
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-09-20T23:58:40Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 55236,
+          "name": "More Vivec Ordinators",
+          "status": "published",
+          "summary": "Adds around 20 patrolling Ordinators to Vicec City's exterior.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55236/55236-1726876863-1159453964.png",
+          "uid": "429496784836",
+          "updatedAt": "2024-09-20T23:58:40Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-07-28T14:59:10Z",
+          "fileSize": 4,
+          "modCategory": {
+            "categoryId": 31,
+            "name": "Weapons"
+          },
+          "modId": 55031,
+          "name": "Forks as Weapons",
+          "status": "published",
+          "summary": "Adds the unused Iron Fork weapon into the game alongside an enchanted version.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55031/55031-1722178515-2073150364.png",
+          "uid": "429496784631",
+          "updatedAt": "2024-07-28T14:59:10Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-04-10T23:04:27Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 54439,
+          "name": "Bigger Orcs",
+          "status": "published",
+          "summary": "Increases orc's height and weight for both males and females.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54439/54439-1712790048-573688839.png",
+          "uid": "429496784039",
+          "updatedAt": "2024-04-10T23:04:27Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-16T19:32:22Z",
+          "fileSize": 0,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 53847,
+          "name": "Ocean Light Remover",
+          "status": "published",
+          "summary": "This mod removes blue ocean lights found under the sea and around coasts, these lights are by far the most numerous in the game.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53847/53847-1702754923-19444395.png",
+          "uid": "429496783447",
+          "updatedAt": "2023-12-16T19:32:22Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-07-05T20:39:18Z",
+          "fileSize": 30,
+          "modCategory": {
+            "categoryId": 21,
+            "name": "Animations"
+          },
+          "modId": 53155,
+          "name": "Weapon Animation Variety",
+          "status": "published",
+          "summary": "Changes most weapons damage stats to be the same for all 3 attack types in order to allow you to use all animations while still having the benefit of the \"always use best attack\"",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53155/53155-1688589107-1241480820.png",
+          "uid": "429496782755",
+          "updatedAt": "2023-07-06T12:15:30Z"
+        }
+      ],
+      "totalCount": 5
+    }
+  }
+}

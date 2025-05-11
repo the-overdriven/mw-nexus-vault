@@ -1,0 +1,94 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 5
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-01-08T02:08:30Z",
+          "fileSize": 4,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 53955,
+          "name": "Shrine Restore Health Option - Fixed",
+          "status": "published",
+          "summary": "This is a fixed version of Shrines - Restore Health and Cancel Options by Scrawfunda.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53955/53955-1704679685-707184694.png",
+          "uid": "429496783555",
+          "updatedAt": "2024-01-08T17:49:16Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-20T05:46:16Z",
+          "fileSize": 39,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 53861,
+          "name": "Daedric Offerings",
+          "status": "published",
+          "summary": "This mod allows you to make offerings at Daedric Shrines in exchange for blessings.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53861/53861-1703050863-1375458342.png",
+          "uid": "429496783461",
+          "updatedAt": "2024-01-09T01:06:00Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-13T19:47:04Z",
+          "fileSize": 2,
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 53834,
+          "name": "Seyda Neen Travel - TR",
+          "status": "published",
+          "summary": "Adds a small boat travel network for Seyda Neen.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53834/53834-1702496552-8780105.png",
+          "uid": "429496783434",
+          "updatedAt": "2023-12-14T01:28:58Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-12T03:45:04Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 53825,
+          "name": "Frostmoth Repaired - TotSP",
+          "status": "published",
+          "summary": "Restores Fort Frostmoth after the Bloodmoon main quest - TotSP version.Edit of the vanilla version by Talthybius",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53825/53825-1702352212-518148736.png",
+          "uid": "429496783425",
+          "updatedAt": "2023-12-14T03:44:12Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-09T02:14:23Z",
+          "fileSize": 5,
+          "modCategory": {
+            "categoryId": 5,
+            "name": "Guilds/Factions"
+          },
+          "modId": 53811,
+          "name": "Vampire Hunter Faction",
+          "status": "published",
+          "summary": "Turns Alice's Guild of Vampire Hunters into an actual faction.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53811/53811-1702082819-929287435.png",
+          "uid": "429496783411",
+          "updatedAt": "2024-01-20T03:47:47Z"
+        }
+      ],
+      "totalCount": 5
+    }
+  }
+}

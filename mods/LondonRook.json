@@ -1,0 +1,31 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 1,
+          "101": 2
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2017-05-31T09:12:00Z",
+          "fileSize": 194,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 44981,
+          "name": "Open Mournhold",
+          "status": "published",
+          "summary": "This mod changes the passageways between the different city districts, making the transitions more immersive.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44981-0-1496091836.jpg",
+          "uid": "429496774581",
+          "updatedAt": "2017-05-31T07:21:20Z"
+        }
+      ],
+      "totalCount": 1
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 3
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2019-10-31T15:24:20Z",
+          "fileSize": 72,
+          "modCategory": {
+            "categoryId": 33,
+            "name": "Magic"
+          },
+          "modId": 47269,
+          "name": "Lootable Spellbooks",
+          "status": "published",
+          "summary": "Adds spellbooks to the loot tables so that they can be found in various containers and held by NPCs. Reading a spellbook teaches the player the spell associated with the spellbook,",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47269/47269-1572504452-709317402.png",
+          "uid": "429496776869",
+          "updatedAt": "2022-08-15T12:23:38Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-10-31T15:23:39Z",
+          "fileSize": 4,
+          "modCategory": {
+            "categoryId": 14,
+            "name": "Races, Classes, and Birthsigns"
+          },
+          "modId": 47268,
+          "name": "Vampire and Werewolf Character Generation",
+          "status": "published",
+          "summary": "Prompts the user once (either at the time of character creation or the first time loading a pre-existing save) to ask if they want their character to be a vampire or a werewolf.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47268/47268-1572500573-1445808153.png",
+          "uid": "429496776868",
+          "updatedAt": "2022-09-16T11:40:33Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-10-31T15:23:16Z",
+          "fileSize": 10,
+          "modCategory": {
+            "categoryId": 16,
+            "name": "Weapons and Armour"
+          },
+          "modId": 47267,
+          "name": "Randomize Kagrenac's Tools",
+          "status": "published",
+          "summary": "This mod randomly places all three of Kagrenac's Tools (Wraithguard, Keening, and Sunder) across 10 potential pre-defined key locations within Ghostfence instead of their normal",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47267/47267-1572495909-1415834475.png",
+          "uid": "429496776867",
+          "updatedAt": "2022-08-15T13:14:09Z"
+        }
+      ],
+      "totalCount": 3
+    }
+  }
+}

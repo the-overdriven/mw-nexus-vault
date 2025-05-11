@@ -1,0 +1,30 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-08-01T15:19:38Z",
+          "fileSize": 8,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 55049,
+          "name": "Hit Sound Overhaul",
+          "status": "published",
+          "summary": "Makes all those infernal screams to be played only when characters are about to die.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55049/55049-1722525555-707684662.png",
+          "uid": "429496784649",
+          "updatedAt": "2024-08-01T15:19:38Z"
+        }
+      ],
+      "totalCount": 1
+    }
+  }
+}

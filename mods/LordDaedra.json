@@ -1,0 +1,31 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 1,
+          "101": 6
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2010-04-16T17:48:01Z",
+          "fileSize": 2,
+          "modCategory": {
+            "categoryId": 6,
+            "name": "Body, Face, and Hair"
+          },
+          "modId": 31167,
+          "name": "Freedom Of Aesthetics",
+          "status": "published",
+          "summary": "Unlocks many faces and hairstyles which were present unusable in the initial game (e.g. Ashlander Hairstyles).\nAlso allows you to start the game with a Vampire\\'s Head without",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/31167-1-1271444371.png",
+          "uid": "429496760767",
+          "updatedAt": "2010-04-16T17:52:21Z"
+        }
+      ],
+      "totalCount": 1
+    }
+  }
+}

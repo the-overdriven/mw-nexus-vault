@@ -1,0 +1,270 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 16
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2023-03-24T21:13:15Z",
+          "fileSize": 36563,
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 52547,
+          "name": "Bustling Vivec",
+          "status": "published",
+          "summary": "Street vendors and other items can now be found while visiting Vivec.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52547/52547-1679690690-1245399382.jpeg",
+          "uid": "429496782147",
+          "updatedAt": "2023-03-24T21:13:15Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-03-24T20:39:33Z",
+          "fileSize": 3651,
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 52546,
+          "name": "Battered Molag Mar",
+          "status": "published",
+          "summary": "Gives Molag Mar a worn and weathered atmosphere.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52546/52546-1679690076-188332044.jpeg",
+          "uid": "429496782146",
+          "updatedAt": "2023-03-30T17:56:01Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-03-24T20:30:42Z",
+          "fileSize": 322,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 52545,
+          "name": "Corkbulb Trees",
+          "status": "published",
+          "summary": "A few corkbulb trees will now be found in the Ascadian Isles region. Credit to c0dacan0n/Leyawynn for the original models which I edited a bit.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52545/52545-1679689617-1059993665.jpeg",
+          "uid": "429496782145",
+          "updatedAt": "2023-03-24T20:30:42Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-03-24T20:21:22Z",
+          "fileSize": 2143,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 52544,
+          "name": "Fishmongers Hall",
+          "status": "published",
+          "summary": "Adds a Fishmonger Hall to the St. Olms Brewers and Fishmongers Hall in Vivec. Has a few unique items for sale.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52544/52544-1679689077-1294993833.jpeg",
+          "uid": "429496782144",
+          "updatedAt": "2023-03-24T20:21:22Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-03-24T20:13:52Z",
+          "fileSize": 2345,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 52543,
+          "name": "Tailors and Dyers - Dye Room",
+          "status": "published",
+          "summary": "Adds a dye room to Vivec, St. Olms Tailors and Dyers Hall. That is all.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52543/52543-1679688487-1075966140.jpeg",
+          "uid": "429496782143",
+          "updatedAt": "2023-03-24T20:13:52Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-12-20T01:23:15Z",
+          "fileSize": 11377,
+          "modCategory": {
+            "categoryId": 19,
+            "name": "Creatures"
+          },
+          "modId": 50546,
+          "name": "Sloadic Transports",
+          "status": "published",
+          "summary": "Sloadic Cargo Transports have arrived at Molag Mar. One is docked at the strider port and one will fly a route north of Molag Mar. There is a standard version and a necro version.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50546/50546-1639963010-1756516640.png",
+          "uid": "429496780146",
+          "updatedAt": "2021-12-20T01:23:15Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-03-31T02:48:27Z",
+          "fileSize": 3797,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 49485,
+          "name": "Racer Dust Arms and Armor",
+          "status": "published",
+          "summary": "A new armor shop in Vivec, St. Olms Waistworks. Bonemold, Racer Leather, some weapons and some cloth.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49485/49485-1617158438-585262797.png",
+          "uid": "429496779085",
+          "updatedAt": "2021-03-31T02:48:27Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-03-31T02:23:42Z",
+          "fileSize": 603,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 49484,
+          "name": "Redoran Patrols - Gnisis",
+          "status": "published",
+          "summary": "Adds 2 Redoran Watchman on guard in GnisisUpdate 1.1: Reworked the helmet and added a watchman in Maar Gan and Ald-ruhn",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49484/49484-1617157006-370431110.png",
+          "uid": "429496779084",
+          "updatedAt": "2021-12-20T00:52:14Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-01-31T05:37:20Z",
+          "fileSize": 1665,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 49266,
+          "name": "Telvanni Armors - Slavers and Wizards",
+          "status": "published",
+          "summary": "Adds a slaver and his hand to Tel Aruhn to showcase the armor. Can also buy the armor and cloth from the proper merchants in Tel Aruhn and Tel Branora.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49266/49266-1612071011-513740865.png",
+          "uid": "429496778866",
+          "updatedAt": "2021-03-31T01:58:07Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-01-31T05:25:40Z",
+          "fileSize": 999,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 49265,
+          "name": "Telvanni Dust Adept",
+          "status": "published",
+          "summary": "Adds Telvanni Dust Adept armor to Morrowind. Based on Bethesda concept art.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49265/49265-1612070277-1905298713.png",
+          "uid": "429496778865",
+          "updatedAt": "2021-01-31T05:25:40Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-12-09T05:35:37Z",
+          "fileSize": 2,
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 49125,
+          "name": "Scribs and Rats - Finest Quality",
+          "status": "published",
+          "summary": "Adds a fellow in Ald-ruhn that has rats and scribs. You can't buy them but he will sell the ingredients. He has an unused voice greeting that I like so that is why I made this very",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49125/49125-1607491911-256083580.jpeg",
+          "uid": "429496778725",
+          "updatedAt": "2020-12-09T05:35:37Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-25T02:10:14Z",
+          "fileSize": 16201,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 49074,
+          "name": "Sload and Slavers",
+          "status": "published",
+          "summary": "Adds Sload merchants and Dunmer slavers to several locations of Morrowind. Includes a shop/smith in Molag Mar, Waistworks that sells new bonemold armor, weapons, and some",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49074/49074-1606269361-101060020.png",
+          "uid": "429496778674",
+          "updatedAt": "2021-12-20T01:09:49Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-25T01:49:20Z",
+          "fileSize": 353,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 49073,
+          "name": "Bendu Olo-Templar Armor",
+          "status": "published",
+          "summary": "Adds Templar Armor in the style of the original, seen in early images of Morrowind. Also restores the Imperial that is wearing it in Pelagiad.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49073/49073-1606268572-941879051.png",
+          "uid": "429496778673",
+          "updatedAt": "2020-11-25T01:49:20Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-22T23:41:11Z",
+          "fileSize": 911,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 49065,
+          "name": "Daggerlad",
+          "status": "published",
+          "summary": "Adds armor based on concept art by MK.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49065/49065-1606088203-386077426.png",
+          "uid": "429496778665",
+          "updatedAt": "2021-02-14T01:22:07Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-22T23:22:16Z",
+          "fileSize": 249,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 49064,
+          "name": "Alvur Relds",
+          "status": "published",
+          "summary": "Adds Alvur Relds to Morrowind.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49064/49064-1606087311-363864494.png",
+          "uid": "429496778664",
+          "updatedAt": "2020-11-22T23:22:16Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-22T21:38:29Z",
+          "fileSize": 2,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 49063,
+          "name": "Lights Ald-ruhn",
+          "status": "published",
+          "summary": "Adds minimal lighting to the exterior of the main establishments in Ald-ruhn.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49063/49063-1606080622-1734020888.jpeg",
+          "uid": "429496778663",
+          "updatedAt": "2020-11-22T21:38:29Z"
+        }
+      ],
+      "totalCount": 16
+    }
+  }
+}

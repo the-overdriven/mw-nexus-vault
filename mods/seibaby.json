@@ -1,0 +1,126 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 7
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2023-09-11T21:37:04Z",
+          "fileSize": 19,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 53496,
+          "name": "The Bloody Stones - An Attempt at Levity",
+          "status": "published",
+          "summary": "A long collectathon quest involving mysterious gemstones, vampires, and the pursuit of freedom from the crushing burden of being.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53496/53496-1694467615-390689110.png",
+          "uid": "429496783096",
+          "updatedAt": "2023-09-11T21:37:04Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-24T22:09:46Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 7,
+            "name": "Items, Objects, and Clothes"
+          },
+          "modId": 52937,
+          "name": "Urn Your Blings",
+          "status": "published",
+          "summary": "All those boring urns in ancestral tombs that normally only have Bonemeal in them now occasionally yield some leveled loot. Most commonly, Gravedust, but sometimes a nice little",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52937/52937-1684965741-867924247.png",
+          "uid": "429496782537",
+          "updatedAt": "2023-05-24T22:09:46Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-24T20:20:50Z",
+          "fileSize": 11,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 52934,
+          "name": "Disposition Quest Rewards",
+          "status": "published",
+          "summary": "This mod gives many quest givers a boost in disposition after you complete their quests. Specifically, most of the non-faction affiliated merchants. And a few others.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52934/52934-1684959489-640513094.png",
+          "uid": "429496782534",
+          "updatedAt": "2023-05-24T20:20:50Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-18T22:31:28Z",
+          "fileSize": 6,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 52908,
+          "name": "A Grave Errand",
+          "status": "published",
+          "summary": "This is a small quest addition to the Mages' Guild quest \"A Potion from Skink-in-tree's-shade\" from Edwinna Elbert in Ald'ruhn, potentially restoring some cut content.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52908/52908-1684448905-334435697.png",
+          "uid": "429496782508",
+          "updatedAt": "2023-05-18T22:31:28Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-18T19:31:59Z",
+          "fileSize": 7,
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 52905,
+          "name": "Steal This Book",
+          "status": "published",
+          "summary": "This is a small mod that expands upon the quest \"Steal Chimarvamidium\" from Edwinna Elbert in the Ald'Ruhn Guild of Mages.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52905/52905-1684437882-761749849.png",
+          "uid": "429496782505",
+          "updatedAt": "2023-05-20T17:58:02Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-16T16:40:03Z",
+          "fileSize": 156,
+          "modCategory": {
+            "categoryId": 33,
+            "name": "Magic"
+          },
+          "modId": 52897,
+          "name": "Lootable Spellbooks (Sei's Edit)",
+          "status": "published",
+          "summary": "This is a modified version of Lootable Spellbooks, which adds books that teaches spells. I've added some balance touches in line with my preferences.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52897/52897-1684254247-437217404.png",
+          "uid": "429496782497",
+          "updatedAt": "2023-05-17T23:33:33Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-01-05T23:09:34Z",
+          "fileSize": 31,
+          "modCategory": {
+            "categoryId": 19,
+            "name": "Creatures"
+          },
+          "modId": 52135,
+          "name": "Sei's Dynamic Wildlife",
+          "status": "published",
+          "summary": "With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness,",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52135/52135-1672959436-1617161806.png",
+          "uid": "429496781735",
+          "updatedAt": "2023-01-13T20:06:39Z"
+        }
+      ],
+      "totalCount": 7
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 2
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2022-06-14T14:05:14Z",
+          "fileSize": 6162,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 51495,
+          "name": "Merch's Minor Mods",
+          "status": "published",
+          "summary": "Minor mods which don't necessitate their own page.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51495/51495-1655214724-1723055661.png",
+          "uid": "429496781095",
+          "updatedAt": "2022-06-20T16:14:39Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-11T16:25:38Z",
+          "fileSize": 186646,
+          "modCategory": {
+            "categoryId": 6,
+            "name": "Body, Face, and Hair"
+          },
+          "modId": 51214,
+          "name": "Westly's Faces Refurbished",
+          "status": "published",
+          "summary": "An HD head and hair replacer aiming for a vanilla-like feeling.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51214/51214-1652285162-506787334.jpeg",
+          "uid": "429496780814",
+          "updatedAt": "2022-05-19T07:55:21Z"
+        }
+      ],
+      "totalCount": 2
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 2
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-12-15T18:18:32Z",
+          "fileSize": 9,
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 55586,
+          "name": "Every Armor Matters",
+          "status": "published",
+          "summary": "Now every armor protects you well. Every armor rating is higher than unarmored AR. Iron, chitin, bonemold - wear a protection, which you want.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55586/55586-1734285152-455479330.jpeg",
+          "uid": "429496785186",
+          "updatedAt": "2024-12-15T18:18:32Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-06-27T16:36:53Z",
+          "fileSize": 44,
+          "modCategory": {
+            "categoryId": 31,
+            "name": "Weapons"
+          },
+          "modId": 51546,
+          "name": "Truewind - Weapons and Combat Complete Overhaul",
+          "status": "published",
+          "summary": "Makes most weapons playable, by changing their damage, speed and reach to more suitable. Now you can make a fine use of iron, silver, steel or imperial weaponry. Don't trouble to",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51546/51546-1727967778-1440401342.jpeg",
+          "uid": "429496781146",
+          "updatedAt": "2022-06-27T16:36:53Z"
+        }
+      ],
+      "totalCount": 2
+    }
+  }
+}

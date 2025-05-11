@@ -1,0 +1,64 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 3,
+          "101": 1,
+          "482": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-10-13T04:22:47Z",
+          "fileSize": 68,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 55331,
+          "name": "Saturn's Sensible Weight Solution",
+          "status": "published",
+          "summary": "Lowers weight for nearly all equipment to sensible levels, making item management much easier.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55331/55331-1728793330-124434566.jpeg",
+          "uid": "429496784931",
+          "updatedAt": "2024-10-13T04:22:47Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-10-11T04:05:08Z",
+          "fileSize": 38,
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 55323,
+          "name": "TRAINERS DON'T WANDER (Be still my beating trainer)",
+          "status": "published",
+          "summary": "Makes trainers stand still instead of wandering randomly when using their services! Works with both vanilla and OpenMW!",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55323/55323-1728619898-379345220.png",
+          "uid": "429496784923",
+          "updatedAt": "2024-10-11T04:05:08Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-17T17:47:47Z",
+          "fileSize": 79,
+          "modCategory": {
+            "categoryId": 25,
+            "name": "Audio"
+          },
+          "modId": 53852,
+          "name": "Saturn's SILENT Skill Level Up",
+          "status": "published",
+          "summary": "Silence is golden. This pluginless mod replaces the skill up sound with a muted sound file. You will still see the notification at the bottom of the screen notifying you that your",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53852/53852-1702834928-617667039.jpeg",
+          "uid": "429496783452",
+          "updatedAt": "2023-12-17T17:47:47Z"
+        }
+      ],
+      "totalCount": 3
+    }
+  }
+}

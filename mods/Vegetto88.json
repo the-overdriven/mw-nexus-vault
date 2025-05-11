@@ -1,0 +1,559 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 34,
+          "4187": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2025-03-15T03:24:48Z",
+          "fileSize": 4,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 56186,
+          "name": "OpenMW Water Shader Enhanced (OWSE)",
+          "status": "published",
+          "summary": "OpenMW Water Shaders with dynamic caustics, water foam, volumetric light rays, and realistic fog effects.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56186/56186-1742008992-1512332020.png",
+          "uid": "429496785786",
+          "updatedAt": "2025-05-07T14:07:37Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-05-14T21:52:29Z",
+          "fileSize": 1088,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 54659,
+          "name": "Less Verdant West Gash",
+          "status": "published",
+          "summary": "Tired of navigating through an overgrown jungle every time you venture into the West Gash? Well, \"Less Verdant West Gash\" is here to save your eyes by trimming down the most",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54659/54659-1715722359-1384413044.png",
+          "uid": "429496784259",
+          "updatedAt": "2024-05-15T21:09:21Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-30T18:08:13Z",
+          "fileSize": 1510,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 53907,
+          "name": "Skywind Concept Art Arena",
+          "status": "published",
+          "summary": "Modifies the Vivec Arena to align with the concept art material by RomanDubina, created for Skywind.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53907/53907-1703958237-611791680.jpeg",
+          "uid": "429496783507",
+          "updatedAt": "2025-03-29T13:20:07Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-07-26T21:49:56Z",
+          "fileSize": 1117,
+          "modCategory": {
+            "categoryId": 29,
+            "name": "Overhauls"
+          },
+          "modId": 53277,
+          "name": "Azura's Shrine Overhaul",
+          "status": "published",
+          "summary": "Overhaul of both the exterior and interior of the Shrine of Azura.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53277/53277-1690409032-1572823910.png",
+          "uid": "429496782877",
+          "updatedAt": "2024-01-11T20:47:26Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-04-28T19:42:29Z",
+          "fileSize": 7186,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 52737,
+          "name": "Almalexia's Chamber Overhaul",
+          "status": "published",
+          "summary": "Overhaul of Almalexia's High Chapel in Mournhold, a mod for #ALMSIVI23 challenge.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52737/52737-1682709110-1930928044.png",
+          "uid": "429496782337",
+          "updatedAt": "2024-09-08T13:50:14Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-03-08T22:24:57Z",
+          "fileSize": 4314,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 52474,
+          "name": "Azura Statue Replacer",
+          "status": "published",
+          "summary": "Replace the Azura statue",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52474/52474-1678314267-1837802066.png",
+          "uid": "429496782074",
+          "updatedAt": "2023-04-19T21:49:31Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-03-02T23:32:15Z",
+          "fileSize": 1513,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 52438,
+          "name": "Improved Dunmer Ashpits",
+          "status": "published",
+          "summary": "Improved replacer for Dunmer's Ashpits.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52438/52438-1677804065-972502586.png",
+          "uid": "429496782038",
+          "updatedAt": "2024-03-10T16:48:44Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-04T16:54:27Z",
+          "fileSize": 19417,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 52028,
+          "name": "The Ebonheart Akatosh Statue",
+          "status": "published",
+          "summary": "Replace the Ebonheart statue with a more modern take on it.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52028/52028-1670748536-707841328.png",
+          "uid": "429496781628",
+          "updatedAt": "2022-12-17T18:25:39Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-09-11T15:15:22Z",
+          "fileSize": 4,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 51813,
+          "name": "V.I.P. - Vegetto's Important Patches",
+          "status": "published",
+          "summary": "Small but important things: UV fixes - Add-Ons - Normalmaps - Patches",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51813/51813-1662907793-1191844267.jpeg",
+          "uid": "429496781413",
+          "updatedAt": "2025-02-22T18:44:50Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-02-13T19:37:33Z",
+          "fileSize": 12111,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 50763,
+          "name": "The magic rock of Maar Gan",
+          "status": "published",
+          "summary": "Experience the Maar Gan shrine as the sacred place it should have been.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50763/50763-1645129846-1454003576.png",
+          "uid": "429496780363",
+          "updatedAt": "2022-12-27T17:20:30Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-02-08T21:58:37Z",
+          "fileSize": 89292,
+          "modCategory": {
+            "categoryId": 17,
+            "name": "Modders Resources and Tutorials"
+          },
+          "modId": 50749,
+          "name": "The carpet pack",
+          "status": "published",
+          "summary": "A modder resource pack with a large collection of rugs.Unlike the usual resource of this type, these carpets have a theme and are culture-specific.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50749/50749-1644356765-1605377361.jpeg",
+          "uid": "429496780349",
+          "updatedAt": "2022-02-12T21:23:53Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-01-16T21:51:00Z",
+          "fileSize": 30099,
+          "modCategory": {
+            "categoryId": 19,
+            "name": "Creatures"
+          },
+          "modId": 50660,
+          "name": "Dagoth Ur HD",
+          "status": "published",
+          "summary": "This mod replaces Dagoth Ur assets with modern, higher-quality ones.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50660/50660-1642623871-842716452.png",
+          "uid": "429496780260",
+          "updatedAt": "2022-01-19T20:26:38Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-11-21T16:29:41Z",
+          "fileSize": 2277,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 50455,
+          "name": "Dwemer's Vestiges",
+          "status": "published",
+          "summary": "The mod adds ruins of a dwemer statue close to Nchuleft ruins and Tel Vos. An epic landmark in an otherwise boring part of Morrowind.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50455/50455-1637511338-654681931.jpeg",
+          "uid": "429496780055",
+          "updatedAt": "2021-11-21T16:29:41Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-08-17T23:32:26Z",
+          "fileSize": 3923,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 50151,
+          "name": "Morrowind Swamp Trees",
+          "status": "published",
+          "summary": "Reworks MD Grath trees in Bitter Coast to make them more vanilla friendly.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50151/50151-1629241255-380040650.png",
+          "uid": "429496779751",
+          "updatedAt": "2022-09-17T01:50:35Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-07-29T17:03:05Z",
+          "fileSize": 3351,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 50087,
+          "name": "Nords shut your windows",
+          "status": "published",
+          "summary": "Nord's windows have a wooden shutter, open in the day and closed at night.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50087/50087-1627577908-645793875.png",
+          "uid": "429496779687",
+          "updatedAt": "2024-03-06T16:25:11Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-07-26T18:51:51Z",
+          "fileSize": 195463,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 50080,
+          "name": "Morrowind Definitive Menu Animation",
+          "status": "published",
+          "summary": "The definitive animated menu animation for your Morrowind in 1080 HD.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50080/50080-1627326029-735848242.jpeg",
+          "uid": "429496779680",
+          "updatedAt": "2021-07-26T18:51:51Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-07-11T17:26:27Z",
+          "fileSize": 174805,
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 50037,
+          "name": "Subtle Animated Menu Background  Assemble",
+          "status": "published",
+          "summary": "A subtle animated menu background made of an assemble of Morrowind, ESO online, Legends and Morrowind arts in HD.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50037/50037-1626024619-828936375.png",
+          "uid": "429496779637",
+          "updatedAt": "2021-07-18T16:30:52Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-07-04T19:57:01Z",
+          "fileSize": 16871,
+          "modCategory": {
+            "categoryId": 29,
+            "name": "Overhauls"
+          },
+          "modId": 50020,
+          "name": "Concept Arts plantations",
+          "status": "published",
+          "summary": "A concept arts-based overhaul of the Arvel and Dren plantations.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50020/50020-1625425428-299643602.jpeg",
+          "uid": "429496779620",
+          "updatedAt": "2025-05-09T12:52:23Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-24T14:27:38Z",
+          "fileSize": 11570,
+          "modCategory": {
+            "categoryId": 17,
+            "name": "Modders Resources and Tutorials"
+          },
+          "modId": 49849,
+          "name": "Realistic Ivy community resource pack",
+          "status": "published",
+          "summary": "A community resource pack for all your ivy plants needs: big, small, on shelves, long, short, or in a pot, with or without roots.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49849/49849-1621866047-2107171285.jpeg",
+          "uid": "429496779449",
+          "updatedAt": "2021-05-28T19:40:54Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-22T17:06:42Z",
+          "fileSize": 613,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 49832,
+          "name": "Justice for Khartag (J.F.K.)",
+          "status": "published",
+          "summary": "Changes Khartag Point making it the high peak described in the in-game dialogues.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49832/49832-1621702524-57867037.png",
+          "uid": "429496779432",
+          "updatedAt": "2025-04-06T20:00:00Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-14T18:39:31Z",
+          "fileSize": 253,
+          "modCategory": {
+            "categoryId": 21,
+            "name": "Animations"
+          },
+          "modId": 49767,
+          "name": "Morrowind Animated Hammocks (MAH)",
+          "status": "published",
+          "summary": "Animates the hammocks in boats, or/and caverns, and shacks and the pillows above it when necessary. Different versions for all your hammocks animation tastes.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49767/49767-1621017266-152923961.gif",
+          "uid": "429496779367",
+          "updatedAt": "2023-08-22T18:57:49Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-09T21:35:20Z",
+          "fileSize": 7866,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 49738,
+          "name": "The Corprusarium experience",
+          "status": "published",
+          "summary": "Overhaul of the corprusarium, making it the creepy place it was meant to be.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49738/49738-1620760277-498921393.gif",
+          "uid": "429496779338",
+          "updatedAt": "2024-06-22T16:34:09Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-02T17:59:00Z",
+          "fileSize": 32261,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 49644,
+          "name": "Akulakhan's best chamber",
+          "status": "published",
+          "summary": "A fully animated overhaul of Akulakhan's chamber.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49644/49644-1620763734-506062943.gif",
+          "uid": "429496779244",
+          "updatedAt": "2025-02-08T14:09:55Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-04-25T21:54:15Z",
+          "fileSize": 949,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 49586,
+          "name": "Tel Aruhn shroom gate",
+          "status": "published",
+          "summary": "Add a mushroom entrance to Tel Aruhn underground, making it unique.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49586/49586-1619387943-696036110.jpeg",
+          "uid": "429496779186",
+          "updatedAt": "2021-04-25T21:54:15Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-04-04T13:37:10Z",
+          "fileSize": 11364,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 49510,
+          "name": "Skar Face (Ald Ruhn)",
+          "status": "published",
+          "summary": "Replace the original Skar model and textures in Ald-Ruhn with a new one and replace the Skar interior to match the new exterior.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49510/49510-1617836172-1367421424.png",
+          "uid": "429496779110",
+          "updatedAt": "2025-03-02T17:29:29Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-10-21T18:14:29Z",
+          "fileSize": 6319,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 48966,
+          "name": "CRAG - color replacer for Aendemika Guar",
+          "status": "published",
+          "summary": "Guar color replacer for Aendemika of Vvardenfell.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48966/48966-1603303481-988863398.jpeg",
+          "uid": "429496778566",
+          "updatedAt": "2020-10-22T21:58:55Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-10-19T20:52:43Z",
+          "fileSize": 9478,
+          "modCategory": {
+            "categoryId": 7,
+            "name": "Items, Objects, and Clothes"
+          },
+          "modId": 48959,
+          "name": "This is crate",
+          "status": "published",
+          "summary": "New textures and meshes replacer for our beloved crates.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48959/48959-1603139748-1799609988.jpeg",
+          "uid": "429496778559",
+          "updatedAt": "2024-04-15T20:19:49Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-09-23T23:34:12Z",
+          "fileSize": 9771,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 48867,
+          "name": "We will go to mount Assarnibibi",
+          "status": "published",
+          "summary": "Overhaul the Assarnibibi shrine area. HD and Vanilla version.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48867/48867-1604102085-764261061.jpeg",
+          "uid": "429496778467",
+          "updatedAt": "2021-01-23T12:52:45Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-08-16T01:24:15Z",
+          "fileSize": 165,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 48699,
+          "name": "Urshilaku Spiritual",
+          "status": "published",
+          "summary": "Part of the Summerjam 2020.This mod adds a unique Nerevar shrine to the Urshilaku camp in a lore-friendly way with an authentic Ashlander style.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48699/48699-1597539983-1870030280.jpeg",
+          "uid": "429496778299",
+          "updatedAt": "2025-02-23T09:24:53Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-07-27T21:35:55Z",
+          "fileSize": 78,
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 48627,
+          "name": "The Kagrenac's cursors",
+          "status": "published",
+          "summary": "Change the inventory cursors transforming them into Kagrenac's tools.Lore friendly,  practical, and fitting any menu style.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48627/48627-1595884880-1674620033.jpeg",
+          "uid": "429496778227",
+          "updatedAt": "2023-05-26T13:45:36Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-07-11T18:27:32Z",
+          "fileSize": 714,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 48574,
+          "name": "Here comes the sun... glare",
+          "status": "published",
+          "summary": "A more realistic sun glare.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48574/48574-1594491621-1952628019.jpeg",
+          "uid": "429496778174",
+          "updatedAt": "2020-07-11T18:27:32Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-06-12T13:12:57Z",
+          "fileSize": 22906,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 48320,
+          "name": "R Rebirth Ghostgate",
+          "status": "published",
+          "summary": "This is my attempt to add the incredible concept art made by the RR team in the Ghost fortress mod and merge it into Rebirth.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48320/48320-1591966617-62370577.jpeg",
+          "uid": "429496777920",
+          "updatedAt": "2020-09-18T16:49:37Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-05-25T19:28:25Z",
+          "fileSize": 44050,
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 48136,
+          "name": "Concept Art Palace (Vivec City)",
+          "status": "published",
+          "summary": "The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.The palace is now back to be worthy of God.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48136/48136-1596380511-375108402.jpeg",
+          "uid": "429496777736",
+          "updatedAt": "2025-05-06T21:48:41Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-12T15:58:58Z",
+          "fileSize": 38,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 47805,
+          "name": "The Sanctuary coffeeshop",
+          "status": "published",
+          "summary": "The Sanctuary is my attempt to add a Lore-Friendly Temple Amsterdam style coffee shop in the Lower Waistworks of the Foreign Canton. There you can buy many products to meditate,",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47805/47805-1586707316-1764219171.png",
+          "uid": "429496777405",
+          "updatedAt": "2020-04-12T15:58:58Z"
+        }
+      ],
+      "totalCount": 34
+    }
+  }
+}

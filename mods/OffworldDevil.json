@@ -1,0 +1,222 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 13
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2019-01-26T03:40:37Z",
+          "fileSize": 5262,
+          "modCategory": {
+            "categoryId": 19,
+            "name": "Creatures"
+          },
+          "modId": 46342,
+          "name": "Divine Vivec",
+          "status": "published",
+          "summary": "Pluginless replacer for Lord Vivec.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46342/46342-1548472813-1707023136.png",
+          "uid": "429496775942",
+          "updatedAt": "2020-05-03T21:58:17Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-01-15T03:29:50Z",
+          "fileSize": 44,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 46307,
+          "name": "Bob's TexTweaks",
+          "status": "published",
+          "summary": "Overhauled descriptions for skills and magic effects with first-person character commentary for various message prompts, along with symptom-based disease status, and much more.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46307/46307-1547520636-1400595595.png",
+          "uid": "429496775907",
+          "updatedAt": "2019-04-24T22:40:16Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-07-24T23:13:31Z",
+          "fileSize": 9,
+          "modCategory": {
+            "categoryId": 28,
+            "name": "Patches"
+          },
+          "modId": 45892,
+          "name": "Galleo's Good Clothes - Plugin Edit",
+          "status": "published",
+          "summary": "All Good Clothes plugins combined into one, cleaned with TES3cmd, and reverted to vanilla clothing names.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45892/45892-1532472059-1482403472.png",
+          "uid": "429496775492",
+          "updatedAt": "2023-08-13T03:15:50Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-06-21T03:53:04Z",
+          "fileSize": 6,
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 45806,
+          "name": "Heavy Keys",
+          "status": "published",
+          "summary": "Gives most keys the weight of lockpicks (0.25).",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45806/45806-1529546468-1474820624.png",
+          "uid": "429496775406",
+          "updatedAt": "2018-06-21T05:13:15Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-06-14T01:16:37Z",
+          "fileSize": 61076,
+          "modCategory": {
+            "categoryId": 25,
+            "name": "Audio"
+          },
+          "modId": 45780,
+          "name": "Better Music System - Rebirth Edit",
+          "status": "published",
+          "summary": "Replaces all Buffy music (and the guitar-heavy \"Battle in Oblivion\") with tracks from Morrowind Rebirth.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45780/45780-1529284044-242896399.png",
+          "uid": "429496775380",
+          "updatedAt": "2018-06-19T00:18:30Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-05-30T06:04:22Z",
+          "fileSize": 0,
+          "modCategory": {
+            "categoryId": 15,
+            "name": "Utilities"
+          },
+          "modId": 45725,
+          "name": "Skies IV Cloud Speed INI Installer",
+          "status": "published",
+          "summary": "MIT file for easy, reversible installation of Skies IV's recommended INI tweaks.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45725/45725-1527659778-1454155617.png",
+          "uid": "429496775325",
+          "updatedAt": "2018-05-30T21:16:54Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-05-08T20:27:01Z",
+          "fileSize": 6402,
+          "modCategory": {
+            "categoryId": 25,
+            "name": "Audio"
+          },
+          "modId": 45643,
+          "name": "SuperQuail's Divine Voices",
+          "status": "published",
+          "summary": "Reupload of SuperQuail's The Voice of God series -- all in one download. Includes a patch for Darknut's Greater Dwemer Ruins.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45643/45643-1525809285-1712800587.jpeg",
+          "uid": "429496775243",
+          "updatedAt": "2018-05-08T20:27:01Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-05-04T02:48:34Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 15,
+            "name": "Utilities"
+          },
+          "modId": 45625,
+          "name": "abot's Deleveler",
+          "status": "published",
+          "summary": "Converts all leveled lists to potentially spawn at Level 1. This includes both creatures and items.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45625/45625-1525401124-931778145.png",
+          "uid": "429496775225",
+          "updatedAt": "2018-05-04T02:48:34Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-04-03T04:05:51Z",
+          "fileSize": 1,
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 45561,
+          "name": "Better Clothes Merge Fix",
+          "status": "published",
+          "summary": "Fixes the leg bug from object-merging Better Clothes with other mods that edit pants.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45561/45561-1522726042-1134036506.png",
+          "uid": "429496775161",
+          "updatedAt": "2018-05-13T17:35:59Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-03-18T00:04:30Z",
+          "fileSize": 43818,
+          "modCategory": {
+            "categoryId": 19,
+            "name": "Creatures"
+          },
+          "modId": 45536,
+          "name": "Divine Dagoths",
+          "status": "published",
+          "summary": "Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles and corpse models, four optional plugins for unique Ash",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45536/45536-1634954322-888647934.png",
+          "uid": "429496775136",
+          "updatedAt": "2023-06-12T06:44:53Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-02-19T02:40:15Z",
+          "fileSize": 9,
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 45490,
+          "name": "Bob's TexTweaks - Keys",
+          "status": "published",
+          "summary": "Sorted, location-based key names and a few other tweaks.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45490/45490-1519006809-8908712.png",
+          "uid": "429496775090",
+          "updatedAt": "2018-02-20T18:24:15Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-01-04T00:33:58Z",
+          "fileSize": 2,
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 45403,
+          "name": "No Daedric Drops",
+          "status": "published",
+          "summary": "Replaces the gear of all respawning Dremora and Golden Saints with Bound versions.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45403/45403-1515025941-402015676.png",
+          "uid": "429496775003",
+          "updatedAt": "2019-10-20T22:44:07Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-12-14T10:26:58Z",
+          "fileSize": 1657,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 45368,
+          "name": "Diverse Blood",
+          "status": "published",
+          "summary": "8 new blood textures for NPCs and creatures. 1k quality.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45368/45368-1539479554-1021534936.png",
+          "uid": "429496774968",
+          "updatedAt": "2023-06-19T04:56:30Z"
+        }
+      ],
+      "totalCount": 13
+    }
+  }
+}

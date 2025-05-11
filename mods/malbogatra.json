@@ -1,0 +1,62 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 3
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-20T21:20:18Z",
+          "fileSize": 214482,
+          "modCategory": {
+            "categoryId": 29,
+            "name": "Overhauls"
+          },
+          "modId": 52914,
+          "name": "Rocky Red Mountain",
+          "status": "published",
+          "summary": "This mod makes Red Mountain more rocky.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52914/52914-1684616823-2040696365.jpeg",
+          "uid": "429496782514",
+          "updatedAt": "2023-05-28T21:54:25Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-04-04T07:58:49Z",
+          "fileSize": 77949,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 50947,
+          "name": "Spines of Madness",
+          "status": "published",
+          "summary": "A new look for Sheogorad - a gloomy, deserted and abandoned region on the edge of the inhabited world.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50947/50947-1649016804-1235022376.jpeg",
+          "uid": "429496780547",
+          "updatedAt": "2022-07-30T16:36:04Z"
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-08-07T17:56:44Z",
+          "fileSize": 32042,
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 50109,
+          "name": "Rocky West Gash",
+          "status": "published",
+          "summary": "This mod makes West Gash more rocky.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50109/50109-1628345147-1371181752.jpeg",
+          "uid": "429496779709",
+          "updatedAt": "2021-09-18T00:37:08Z"
+        }
+      ],
+      "totalCount": 3
+    }
+  }
+}

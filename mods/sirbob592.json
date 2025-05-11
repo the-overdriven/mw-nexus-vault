@@ -1,0 +1,32 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 1,
+          "479": 1,
+          "2298": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-02-19T10:44:10Z",
+          "fileSize": 44,
+          "modCategory": {
+            "categoryId": 16,
+            "name": "Weapons and Armour"
+          },
+          "modId": 54174,
+          "name": "More Sensible Vanilla Weapons and Armor",
+          "status": "published",
+          "summary": "A vanilla-adjacent mod that tweaks vanilla weapons and armour to have clearer roles and be more useful. Ever wondered why somebody would ever wear Netch or Nordic Fur armour, or",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54174/54174-1708339303-378075061.png",
+          "uid": "429496783774",
+          "updatedAt": "2025-03-20T07:00:02Z"
+        }
+      ],
+      "totalCount": 1
+    }
+  }
+}
