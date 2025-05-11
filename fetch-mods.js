@@ -10,7 +10,7 @@ if (!uploaderName) {
   process.exit(1)
 }
 
-const outputFile = `mods_${uploaderName}.json`
+const outputFile = `./mods/${uploaderName}.json`
 
 const url = "https://api-router.nexusmods.com/graphql"
 
