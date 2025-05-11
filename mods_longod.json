@@ -1,0 +1,260 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 7,
+          "110": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-05-13T22:52:02Z",
+          "downloads": 2031,
+          "endorsements": 91,
+          "fileSize": 44,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 54636,
+          "name": "Inspect It",
+          "status": "published",
+          "summary": "Inspect a variety of objects.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54636/54636-1715613543-2140875523.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54636/54636-1715613543-2140875523.jpeg",
+          "uid": "429496784236",
+          "updatedAt": "2025-03-02T14:08:17Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3981172/100",
+            "memberId": 3981172,
+            "name": "longod"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-05-01T10:07:50Z",
+          "downloads": 223,
+          "endorsements": 12,
+          "fileSize": 19,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 54521,
+          "name": "Your Name.",
+          "status": "published",
+          "summary": "How do you know the names of the people who live on an island you've never seen?",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54521/54521-1714524333-1590574291.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54521/54521-1714524333-1590574291.jpeg",
+          "uid": "429496784121",
+          "updatedAt": "2024-05-11T16:37:57Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3981172/100",
+            "memberId": 3981172,
+            "name": "longod"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-07-11T16:05:32Z",
+          "downloads": 406,
+          "endorsements": 36,
+          "fileSize": 4485,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 53104,
+          "name": "Hanafuda - Akaviri Playing Cards",
+          "status": "published",
+          "summary": "This mod adds an exotic card game with Hanafuda. You will be able to play card games against various people and you will also be able to bet gold on the game.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53104/53104-1688835473-2069830222.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53104/53104-1688835473-2069830222.png",
+          "uid": "429496782704",
+          "updatedAt": "2023-09-10T15:03:30Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3981172/100",
+            "memberId": 3981172,
+            "name": "longod"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-15T01:40:49Z",
+          "downloads": 192,
+          "endorsements": 23,
+          "fileSize": 5,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52881,
+          "name": "Use What You Used First",
+          "status": "published",
+          "summary": "When using items that has a number of uses or time, if you have same items already used, you can use the one with the least amount of remaining instead.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52881/52881-1684113810-1392194144.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52881/52881-1684113810-1392194144.jpeg",
+          "uid": "429496782481",
+          "updatedAt": "2023-05-15T01:40:49Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3981172/100",
+            "memberId": 3981172,
+            "name": "longod"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-06T16:11:24Z",
+          "downloads": 190,
+          "endorsements": 12,
+          "fileSize": 98,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 52827,
+          "name": "Custom Portrait",
+          "status": "published",
+          "summary": "This mod allows you to replace the character image in the inventory with your favorite portrait image.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52827/52827-1683386963-793779125.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52827/52827-1683386963-793779125.jpeg",
+          "uid": "429496782427",
+          "updatedAt": "2023-05-10T14:43:32Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3981172/100",
+            "memberId": 3981172,
+            "name": "longod"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-04T01:58:47Z",
+          "downloads": 366,
+          "endorsements": 23,
+          "fileSize": 25,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 52801,
+          "name": "DPS Tooltips",
+          "status": "published",
+          "summary": "This mod analytically calculates weapon DPS (damage per second) including enchantment effects and displays it in weapon tooltips. You can know which weapons are actually stronger",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52801/52801-1683164422-572882355.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52801/52801-1683164422-572882355.png",
+          "uid": "429496782401",
+          "updatedAt": "2023-05-04T01:58:47Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3981172/100",
+            "memberId": 3981172,
+            "name": "longod"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-01T01:01:38Z",
+          "downloads": 65,
+          "endorsements": 4,
+          "fileSize": 5,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 52752,
+          "name": "Main Menu Shortcut",
+          "status": "published",
+          "summary": "This mod allows you to press the initial letter of each button on the main menu as a shortcut key (excluding Credit).So you can quickly access the desired item.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52752/52752-1682902255-1460084459.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52752/52752-1682902255-1460084459.jpeg",
+          "uid": "429496782352",
+          "updatedAt": "2023-06-06T17:25:31Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3981172/100",
+            "memberId": 3981172,
+            "name": "longod"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 7
+    }
+  }
+}
