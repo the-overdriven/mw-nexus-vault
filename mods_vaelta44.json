@@ -1,0 +1,49 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2025-03-03T12:21:18Z",
+          "downloads": 1280,
+          "endorsements": 34,
+          "fileSize": 149,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 56121,
+          "name": "The Effigy",
+          "status": "published",
+          "summary": "Unravel a tragic mystery in Cyrodiil.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56121/56121-1741024825-1763150572.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56121/56121-1741024825-1763150572.jpeg",
+          "uid": "429496785721",
+          "updatedAt": "2025-03-10T21:46:15Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/61856301/100",
+            "memberId": 61856301,
+            "name": "cmiq589346"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 1
+    }
+  }
+}

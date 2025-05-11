@@ -1,0 +1,609 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 17
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-10-21T21:40:57Z",
+          "downloads": 369,
+          "endorsements": 22,
+          "fileSize": 25,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 55369,
+          "name": "Sneaky Snatcher",
+          "status": "published",
+          "summary": "A MWSE mod to advance Sneak skill by a MCM-controlled progress percentage when successfully snatching (activating) objects when sneaking undetected",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55369/55369-1729546364-607910622.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55369/55369-1729546364-607910622.png",
+          "uid": "429496784969",
+          "updatedAt": "2024-10-23T22:23:52Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-11-01T07:29:03Z",
+          "downloads": 37183,
+          "endorsements": 138,
+          "fileSize": 42756,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 53673,
+          "name": "Terror of Tel Amur",
+          "status": "published",
+          "summary": "Adds a series of heists and a quest to investigate a mysterious new tower deep in the Molag Amur wilderness",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53673/53673-1698788092-317904590.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53673/53673-1698788092-317904590.png",
+          "uid": "429496783273",
+          "updatedAt": "2023-11-21T03:09:07Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-06-01T01:18:33Z",
+          "downloads": 364,
+          "endorsements": 27,
+          "fileSize": 744,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 52996,
+          "name": "Happenstance Hodokinesis - A Random Events Mod",
+          "status": "published",
+          "summary": "Seek out a shack and a shipwreck south-east of Ebonheart, and discover a peculiar magical cube that will make your adventures more interesting.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52996/52996-1685581440-1583759370.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52996/52996-1685581440-1583759370.png",
+          "uid": "429496782596",
+          "updatedAt": "2023-08-30T21:48:17Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-14T02:08:21Z",
+          "downloads": 11779,
+          "endorsements": 155,
+          "fileSize": 3953,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 52870,
+          "name": "The Vanishing Ash-chirps  - A Quest Mod",
+          "status": "published",
+          "summary": "Deep in the Grazelands, a Khajiit scholar has gone missing while studying the mysterious Ashlander culture. Rumors suggest she sought out a reclusive hermit for answers. Can you",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52870/52870-1684026817-1403705720.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52870/52870-1684026817-1403705720.png",
+          "uid": "429496782470",
+          "updatedAt": "2023-09-10T18:33:20Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-07T18:48:52Z",
+          "downloads": 34634,
+          "endorsements": 223,
+          "fileSize": 5554,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 52832,
+          "name": "A Cold Cell - A Quest Mod",
+          "status": "published",
+          "summary": "Travel to Khuul and investigate the rumors about a smuggling operation nearby. Or perhaps it's more than that?",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52832/52832-1683480225-475859306.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52832/52832-1683480225-475859306.png",
+          "uid": "429496782432",
+          "updatedAt": "2023-09-10T17:00:41Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-11-01T02:50:23Z",
+          "downloads": 5319,
+          "endorsements": 119,
+          "fileSize": 104945,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 51939,
+          "name": "Firemoth Reclaimed",
+          "status": "published",
+          "summary": "This mod overhauls Fort Firemoth with new questline, enemies, atmosphere, and redone locations. Part of Morrowind Modding Madness 2022.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51939/51939-1667268388-529227191.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51939/51939-1667268388-529227191.png",
+          "uid": "429496781539",
+          "updatedAt": "2022-11-08T00:18:14Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-08T18:59:19Z",
+          "downloads": 2256,
+          "endorsements": 151,
+          "fileSize": 117,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 51190,
+          "name": "UI Expansion Better Training Icons",
+          "status": "published",
+          "summary": "This mod replaces UI Expansion training menu icons with sharper, cleaner versions.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51190/51190-1652036192-1059525088.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51190/51190-1652036192-1059525088.png",
+          "uid": "429496780790",
+          "updatedAt": "2022-05-08T18:59:19Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-04-16T18:10:55Z",
+          "downloads": 1697,
+          "endorsements": 106,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 50990,
+          "name": "Magican't - A Magic Chance UI Mod",
+          "status": "published",
+          "summary": "This simple Lua mod empties the magic chance fillbar when you don't have enough magicka to cast the spell.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50990/50990-1650132809-1868457884.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50990/50990-1650132809-1868457884.png",
+          "uid": "429496780590",
+          "updatedAt": "2022-05-08T18:25:05Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-12-10T23:01:14Z",
+          "downloads": 27723,
+          "endorsements": 545,
+          "fileSize": 866,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 50517,
+          "name": "Vapourmist - A Cloud and Mist Mod",
+          "status": "published",
+          "summary": "MWSE-Lua 3D clouds and mist.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50517/50517-1673904607-288924442.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50517/50517-1673904607-288924442.png",
+          "uid": "429496780117",
+          "updatedAt": "2023-10-22T13:40:37Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-06-01T21:42:48Z",
+          "downloads": 3830,
+          "endorsements": 201,
+          "fileSize": 422,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 6,
+            "name": "Body, Face, and Hair"
+          },
+          "modId": 49910,
+          "name": "Vanilla-flavoured Hair - A Hair Mesh Replacer Mod",
+          "status": "published",
+          "summary": "Vanilla-friendly hair replacer. Hairstyles actually make sense now, and the original textures shine bright. If you prefer hair to random nonsense, this one's for ya.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49910/49910-1622590488-1570830202.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49910/49910-1622590488-1570830202.png",
+          "uid": "429496779510",
+          "updatedAt": "2021-06-20T17:30:26Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-15T19:43:42Z",
+          "downloads": 629,
+          "endorsements": 69,
+          "fileSize": 186,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 49780,
+          "name": "Clear Sight - An Interface Hider Mod",
+          "status": "published",
+          "summary": "A simple HUD mod that's on when you need it, and off when you don't.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49780/49780-1621106834-1881821598.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49780/49780-1621106834-1881821598.png",
+          "uid": "429496779380",
+          "updatedAt": "2021-05-16T21:21:58Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-04-04T21:55:56Z",
+          "downloads": 512,
+          "endorsements": 31,
+          "fileSize": 898,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 23,
+            "name": "Companions"
+          },
+          "modId": 49521,
+          "name": "Avni the Ash-hound - A Nix-Hound Companion Mod",
+          "status": "published",
+          "summary": "Travel to Ald Velothi, seek out a Redoran scholar specialising in the native fauna, and gain a Dunmer's best friend.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49521/49521-1617572581-176118192.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49521/49521-1617572581-176118192.png",
+          "uid": "429496779121",
+          "updatedAt": "2023-08-30T21:11:27Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-10-24T22:55:36Z",
+          "downloads": 16924,
+          "endorsements": 344,
+          "fileSize": 570,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 48973,
+          "name": "Heat Haze - A MGE XE Shader Mod",
+          "status": "published",
+          "summary": "Adds a heat haze shader controlled by MGE XE and MWSE-lua.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48973/48973-1603579804-1434635888.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48973/48973-1603579804-1434635888.png",
+          "uid": "429496778573",
+          "updatedAt": "2021-03-23T21:30:38Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-10-16T19:41:59Z",
+          "downloads": 3665,
+          "endorsements": 222,
+          "fileSize": 5974,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 48946,
+          "name": "Glass Domes of Vivec - Moonrain Edition",
+          "status": "published",
+          "summary": "Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48946/48946-1603232446-1298385978.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48946/48946-1603232446-1298385978.png",
+          "uid": "429496778546",
+          "updatedAt": "2021-02-25T02:04:25Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-07-30T02:14:19Z",
+          "downloads": 39451,
+          "endorsements": 670,
+          "fileSize": 32282,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 48636,
+          "name": "Watch the Skies - Dynamic Weather and Sky Effects",
+          "status": "published",
+          "summary": "A weather overhaul with randomised cloud textures, weather changes in interiors, seasonal weather, latitude/season changes etc.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48636/48636-1659660009-1372765052.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48636/48636-1659660009-1372765052.png",
+          "uid": "429496778236",
+          "updatedAt": "2023-12-05T00:10:25Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-06-07T21:56:33Z",
+          "downloads": 17949,
+          "endorsements": 429,
+          "fileSize": 148658,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 48306,
+          "name": "Travel Tooltips - A Travel UI Mod",
+          "status": "published",
+          "summary": "Adds tooltips with location descriptions and maps to travel menu.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48306/48306-1591565939-543956978.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48306/48306-1591565939-543956978.png",
+          "uid": "429496777906",
+          "updatedAt": "2022-07-11T22:33:28Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-05-31T18:04:01Z",
+          "downloads": 49928,
+          "endorsements": 897,
+          "fileSize": 1284760,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 25,
+            "name": "Audio"
+          },
+          "modId": 48255,
+          "name": "AURA - A Sound Overhaul Mod",
+          "status": "published",
+          "summary": "Lua-based sound overhaul. Ambient sounds, interior weather, extended voices, and more. Compatible with TR/PT/SHotN. Easily customisable.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48255/48255-1655153203-1759099991.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48255/48255-1655153203-1759099991.png",
+          "uid": "429496777855",
+          "updatedAt": "2023-10-22T14:25:15Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/1152341/100",
+            "memberId": 1152341,
+            "name": "tewlwolow"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 17
+    }
+  }
+}

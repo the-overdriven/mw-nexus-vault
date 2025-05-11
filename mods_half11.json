@@ -1,0 +1,434 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 12
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2020-06-01T23:18:31Z",
+          "downloads": 10338,
+          "endorsements": 228,
+          "fileSize": 287,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 48279,
+          "name": "Synthesis Series - Creatures and Diseases",
+          "status": "published",
+          "summary": "The premise of my synthesis series is fleshing out two different aspects of the game in a logical and thoughtful way. This first entry covers missing creature variants and",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48279/48279-1591053148-1516321370.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48279/48279-1591053148-1516321370.png",
+          "uid": "429496777879",
+          "updatedAt": "2025-02-06T21:00:30Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-02-29T19:56:40Z",
+          "downloads": 19859,
+          "endorsements": 224,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 47649,
+          "name": "Blight Is Coming",
+          "status": "published",
+          "summary": "Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47649/47649-1583005325-1943968796.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47649/47649-1583005325-1943968796.png",
+          "uid": "429496777249",
+          "updatedAt": "2020-02-29T19:56:40Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-02-10T22:51:01Z",
+          "downloads": 227074,
+          "endorsements": 4840,
+          "fileSize": 6,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 47588,
+          "name": "Expansion Delay",
+          "status": "published",
+          "summary": "This mod fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47588/47588-1581374365-1608782573.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47588/47588-1581374365-1608782573.png",
+          "uid": "429496777188",
+          "updatedAt": "2021-02-04T23:25:03Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-08-12T10:39:41Z",
+          "downloads": 253446,
+          "endorsements": 1922,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 47068,
+          "name": "Half11's Misc Mods",
+          "status": "published",
+          "summary": "Small mods I made that don't warrant their own page on Nexus.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47068/47068-1565605113-953745637.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47068/47068-1565605113-953745637.png",
+          "uid": "429496776668",
+          "updatedAt": "2023-10-29T15:22:02Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-05-07T23:16:18Z",
+          "downloads": 89650,
+          "endorsements": 1442,
+          "fileSize": 4,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 46720,
+          "name": "Dubdilla Location Fix",
+          "status": "published",
+          "summary": "This mod fixes another one of Beth's oversights. One of MW's quests has voiced dialogue that sends you to a totally different location than where the quest actually takes place. I",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46720/46720-1557409497-669842670.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46720/46720-1557409497-669842670.png",
+          "uid": "429496776320",
+          "updatedAt": "2022-12-14T14:03:11Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-07-25T12:39:46Z",
+          "downloads": 107759,
+          "endorsements": 2230,
+          "fileSize": 56,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 45894,
+          "name": "Yet Another Guard Diversity",
+          "status": "published",
+          "summary": "This mod replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45894/45894-1532623900-2052948663.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45894/45894-1532623900-2052948663.png",
+          "uid": "429496775494",
+          "updatedAt": "2025-02-27T14:57:43Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-06-19T15:00:54Z",
+          "downloads": 546,
+          "endorsements": 37,
+          "fileSize": 57954,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 30,
+            "name": "Splash Screens"
+          },
+          "modId": 45800,
+          "name": "Unstretched Splash Screens",
+          "status": "published",
+          "summary": "This mod adds black bars on both sides of the splash screens so that they will no longer be stretched.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45800/45800-1529419718-1809371649.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45800/45800-1529419718-1809371649.png",
+          "uid": "429496775400",
+          "updatedAt": "2018-06-19T15:00:54Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-04-01T14:21:21Z",
+          "downloads": 22613,
+          "endorsements": 317,
+          "fileSize": 3,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 45558,
+          "name": "Blight Storms Restored",
+          "status": "published",
+          "summary": "Restores the function of catching blight disease while out in a blight storm.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45558/45558-1522592032-1660240934.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45558/45558-1522592032-1660240934.png",
+          "uid": "429496775158",
+          "updatedAt": "2020-02-23T13:01:00Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-02-20T18:21:09Z",
+          "downloads": 246,
+          "endorsements": 16,
+          "fileSize": 7,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 45494,
+          "name": "Lore Friendly Birthsign Rebalancing",
+          "status": "published",
+          "summary": "Rebalances 7 out of 13 birthsigns in a way that makes sense, according to the book The Firmament and in accordance with the existing ones. As a bonus the full birthsign",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45494/45494-1519149762-652228055.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45494/45494-1519149762-652228055.jpeg",
+          "uid": "429496775094",
+          "updatedAt": "2018-02-20T18:21:09Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-01-08T23:39:59Z",
+          "downloads": 70782,
+          "endorsements": 2035,
+          "fileSize": 11,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 45410,
+          "name": "The Publicans",
+          "status": "published",
+          "summary": "The Publicans fixes several places in the vanilla game that were set up like inns (where you can rent rooms), but Bethesda still needed to add the option to rent a room.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45410/45410-1515452058-1890284827.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45410/45410-1515452058-1890284827.jpeg",
+          "uid": "429496775010",
+          "updatedAt": "2024-01-17T19:20:38Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-10-02T22:38:16Z",
+          "downloads": 22629,
+          "endorsements": 572,
+          "fileSize": 5,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 45228,
+          "name": "Diseases Restored",
+          "status": "published",
+          "summary": "This mod restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45228/45228-1522609791-604251041.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45228/45228-1522609791-604251041.png",
+          "uid": "429496774828",
+          "updatedAt": "2020-02-23T12:21:23Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-07-31T17:48:32Z",
+          "downloads": 551934,
+          "endorsements": 12070,
+          "fileSize": 3479,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 28,
+            "name": "Patches"
+          },
+          "modId": 45096,
+          "name": "Patch for Purists",
+          "status": "published",
+          "summary": "Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition which attempts to continue where the latest official version of the game left",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45096/45096-1524658434-931520215.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45096/45096-1524658434-931520215.png",
+          "uid": "429496774696",
+          "updatedAt": "2023-09-18T19:13:57Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/36879320/100",
+            "memberId": 36879320,
+            "name": "half11"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 12
+    }
+  }
+}

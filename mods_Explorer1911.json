@@ -1,0 +1,399 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 11
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-23T22:13:20Z",
+          "downloads": 705,
+          "endorsements": 36,
+          "fileSize": 17,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 53881,
+          "name": "Empowered Enchantments by Caleb",
+          "status": "published",
+          "summary": "Most enchantments have been revamped. Many cast on use enchantments are now constant effects, with more appropriate (but not fun sucking) balancing so they aren't TOO crazy. Many",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53881/53881-1703368979-1399779318.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53881/53881-1703368979-1399779318.jpeg",
+          "uid": "429496783481",
+          "updatedAt": "2023-12-23T22:13:20Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-23T18:52:34Z",
+          "downloads": 489,
+          "endorsements": 26,
+          "fileSize": 6,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 53879,
+          "name": "Empowered Potions by Caleb",
+          "status": "published",
+          "summary": "Most potions have been rebalanced to give you more noticeable effects. Plus, alcohol gets a new mechanic to control its consumption. My goal with this mod is to finally get someone",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53879/53879-1703357311-451754174.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53879/53879-1703357311-451754174.jpeg",
+          "uid": "429496783479",
+          "updatedAt": "2023-12-23T18:52:34Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-14T11:52:10Z",
+          "downloads": 157,
+          "endorsements": 6,
+          "fileSize": 0,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 53837,
+          "name": "No NPC Shouting at 0 Alarm",
+          "status": "published",
+          "summary": "Ever stolen Fargoth's earrings and he shouted at you in protest, yet did nothing to stop you? Why is that? Well tons of NPCs, way more than it should be, actually have an Alarm",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53837/53837-1702554257-667848751.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53837/53837-1702554257-667848751.jpeg",
+          "uid": "429496783437",
+          "updatedAt": "2023-12-14T11:52:10Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-06-23T02:08:18Z",
+          "downloads": 27715,
+          "endorsements": 218,
+          "fileSize": 575,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 51527,
+          "name": "Ald'Ruhn Manor Banners",
+          "status": "published",
+          "summary": "Adds new banners displaying the relevant lord's surname to Ald'Ruhn's manor district so you can actually tell what manor is which without having to approach the door.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51527/51527-1655949892-1760093230.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51527/51527-1655949892-1760093230.jpeg",
+          "uid": "429496781127",
+          "updatedAt": "2022-06-23T02:08:18Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-04-13T13:13:08Z",
+          "downloads": 337,
+          "endorsements": 23,
+          "fileSize": 55,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 7,
+            "name": "Items, Objects, and Clothes"
+          },
+          "modId": 50980,
+          "name": "Common_Robe_01 Hood",
+          "status": "published",
+          "summary": "Adds a hood for common_robe_01 and hoodless version of that robe to the game. Includes optional replacer.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50980/50980-1649855082-1589995103.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50980/50980-1649855082-1589995103.jpeg",
+          "uid": "429496780580",
+          "updatedAt": "2022-04-13T20:02:45Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-04-10T15:25:19Z",
+          "downloads": 181,
+          "endorsements": 20,
+          "fileSize": 18,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 6,
+            "name": "Body, Face, and Hair"
+          },
+          "modId": 50971,
+          "name": "SjoringFix",
+          "status": "published",
+          "summary": "Makes Sjoring Hard-Heart wear his steel armor and gives him unique head + hair models.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50971/50971-1649603090-1338909703.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50971/50971-1649603090-1338909703.jpeg",
+          "uid": "429496780571",
+          "updatedAt": "2022-04-10T15:25:19Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-02-14T12:12:09Z",
+          "downloads": 253,
+          "endorsements": 23,
+          "fileSize": 16,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 6,
+            "name": "Body, Face, and Hair"
+          },
+          "modId": 50768,
+          "name": "Uncle Crassius",
+          "status": "published",
+          "summary": "A simple head and hair replacer for Crassius Curio to make him appear more in line with his personality",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50768/50768-1644840318-531654316.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50768/50768-1644840318-531654316.jpeg",
+          "uid": "429496780368",
+          "updatedAt": "2022-02-14T12:12:09Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-08-02T18:19:15Z",
+          "downloads": 98478,
+          "endorsements": 2074,
+          "fileSize": 3352,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 6,
+            "name": "Body, Face, and Hair"
+          },
+          "modId": 50093,
+          "name": "Familiar Faces by Caleb (Updated)",
+          "status": "published",
+          "summary": "An in-depth yet completely vanilla friendly touch up of every head and almost every hair (a few looked okay) in the game. Hopefully breathes new life into the character's",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50093/50093-1678239439-762336082.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50093/50093-1678239439-762336082.png",
+          "uid": "429496779693",
+          "updatedAt": "2023-03-09T16:01:45Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-08-15T23:12:54Z",
+          "downloads": 489,
+          "endorsements": 22,
+          "fileSize": 17,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 48696,
+          "name": "Oblivion-Like Magic Glow",
+          "status": "published",
+          "summary": "A simple static magic glow that is reminiscent of the way magical items would glow in Oblivion.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48696/48696-1597532833-1050148299.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48696/48696-1597532833-1050148299.png",
+          "uid": "429496778296",
+          "updatedAt": "2020-08-15T23:12:54Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-07-31T23:45:28Z",
+          "downloads": 420,
+          "endorsements": 27,
+          "fileSize": 47,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 18,
+            "name": "Bug Fixes"
+          },
+          "modId": 48646,
+          "name": "Silver and Nordic Cuirasses Fixed",
+          "status": "published",
+          "summary": "Some weight fixes and mesh tweaks to make the Silver, Duke's Guard, and Nordic Iron cuirasses flex at the waist like most cuirasses do.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48646/48646-1596238904-1369244516.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48646/48646-1596238904-1369244516.png",
+          "uid": "429496778246",
+          "updatedAt": "2020-08-01T03:26:40Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-07-04T17:03:44Z",
+          "downloads": 166,
+          "endorsements": 9,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 14,
+            "name": "Races, Classes, and Birthsigns"
+          },
+          "modId": 48535,
+          "name": "Firmament Birthsigns",
+          "status": "published",
+          "summary": "A mod that makes the game's birthsigns more in line with what you can read in \"The Firmament\" book found in the Census and Excise office.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48535/48535-1593882150-386526214.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48535/48535-1593882150-386526214.jpeg",
+          "uid": "429496778135",
+          "updatedAt": "2020-07-28T03:33:20Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3201579/100",
+            "memberId": 3201579,
+            "name": "Explorer1911"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 11
+    }
+  }
+}

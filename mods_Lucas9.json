@@ -1,0 +1,470 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 13,
+          "130": 13
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-04-06T16:15:16Z",
+          "downloads": 710,
+          "endorsements": 26,
+          "fileSize": 410,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 54419,
+          "name": "LeFemm Armor for Better FItted Female Armor",
+          "status": "published",
+          "summary": "Compatible versions of LeFemm Armor and LeFemm Armor Redacted for Better Fitted Female Armors.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54419/54419-1712420011-1009149518.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54419/54419-1712420011-1009149518.jpeg",
+          "uid": "429496784019",
+          "updatedAt": "2024-04-06T16:15:16Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-02-24T14:54:31Z",
+          "downloads": 21280,
+          "endorsements": 128,
+          "fileSize": 17,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 17,
+            "name": "Modders Resources and Tutorials"
+          },
+          "modId": 54200,
+          "name": "Morrowind Sharp Resources",
+          "status": "published",
+          "summary": "Files required when following Morrowind Sharp.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54200/54200-1708865120-885222989.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54200/54200-1708865120-885222989.png",
+          "uid": "429496783800",
+          "updatedAt": "2025-05-04T14:17:23Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-02-03T17:07:05Z",
+          "downloads": 702,
+          "endorsements": 42,
+          "fileSize": 340,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 50725,
+          "name": "Well Diversified STOTSP",
+          "status": "published",
+          "summary": "Adds Imperial and Solstheim variants for the well mesh.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50725/50725-1643907895-50781364.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50725/50725-1643907895-50781364.jpeg",
+          "uid": "429496780325",
+          "updatedAt": "2022-02-03T17:07:05Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-01-31T16:08:59Z",
+          "downloads": 2143,
+          "endorsements": 90,
+          "fileSize": 14,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 50715,
+          "name": "Service Requirements Revised",
+          "status": "published",
+          "summary": "Expands on Service Requirements Lore by Dungeom, with numerous tweaks and additions.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50715/50715-1643645312-696605449.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50715/50715-1643645312-696605449.jpeg",
+          "uid": "429496780315",
+          "updatedAt": "2022-05-07T21:24:02Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-10-06T16:29:47Z",
+          "downloads": 3204,
+          "endorsements": 79,
+          "fileSize": 4176,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 50308,
+          "name": "BTB's Game Improvements (Necro Edit) Tweaked",
+          "status": "published",
+          "summary": "Variety of patches for BTB's Game Improvements - Necro Edit.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50308/50308-1633537768-151458315.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50308/50308-1633537768-151458315.jpeg",
+          "uid": "429496779908",
+          "updatedAt": "2022-12-04T15:18:41Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-10-06T16:00:24Z",
+          "downloads": 7264,
+          "endorsements": 124,
+          "fileSize": 1130,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 16,
+            "name": "Weapons and Armour"
+          },
+          "modId": 50307,
+          "name": "OAAB_Data and Community Equipment Integration",
+          "status": "published",
+          "summary": "Ongoing project dedicated to integrating into the game a variety of community-made weapons, armor, and clothing.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50307/50307-1633535938-2076544592.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50307/50307-1633535938-2076544592.jpeg",
+          "uid": "429496779907",
+          "updatedAt": "2022-12-09T22:49:28Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-09-07T19:05:27Z",
+          "downloads": 4708,
+          "endorsements": 255,
+          "fileSize": 34,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 50223,
+          "name": "Magic Icons (Sig Edit)",
+          "status": "published",
+          "summary": "Replaces the vanilla \"magic item\" icon effect.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50223/50223-1631041327-1808821790.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50223/50223-1631041327-1808821790.jpeg",
+          "uid": "429496779823",
+          "updatedAt": "2021-09-07T19:05:27Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-02-26T14:56:37Z",
+          "downloads": 165,
+          "endorsements": 15,
+          "fileSize": 4,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 49343,
+          "name": "Guard Sarethi Manor Add-on - Morag Tong Hit Squad",
+          "status": "published",
+          "summary": "Expands the Redoran quest to guard Athyn Sarethi and the Sarethi Manor from the Morag Tong.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49343/49343-1614351257-2120823056.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49343/49343-1614351257-2120823056.jpeg",
+          "uid": "429496778943",
+          "updatedAt": "2021-02-26T14:56:37Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-02-26T14:44:18Z",
+          "downloads": 190,
+          "endorsements": 13,
+          "fileSize": 11,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 49342,
+          "name": "Redoran Founder's Helm Add-on - Arena Duel",
+          "status": "published",
+          "summary": "Expands the Redoran quest Founder's Helm, allowing you to duel Alvis Teri at the Arena.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49342/49342-1614350490-1334100525.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49342/49342-1614350490-1334100525.jpeg",
+          "uid": "429496778942",
+          "updatedAt": "2021-02-26T14:44:18Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-01-21T15:59:21Z",
+          "downloads": 56971,
+          "endorsements": 481,
+          "fileSize": 3113,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 28,
+            "name": "Patches"
+          },
+          "modId": 49232,
+          "name": "Sigourn's Misc Mods and Patches",
+          "status": "published",
+          "summary": "Compilation of compatibility patches for a variety of mods, edited versions of mods, as well as other minor mods.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49232/49232-1611243208-1941170455.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49232/49232-1611243208-1941170455.jpeg",
+          "uid": "429496778832",
+          "updatedAt": "2024-04-06T15:33:09Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-09T14:24:53Z",
+          "downloads": 3379,
+          "endorsements": 89,
+          "fileSize": 10,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 47788,
+          "name": "Morag Tong Writ Fix",
+          "status": "published",
+          "summary": "Overhauls Morag Tong writs and also adds punishments and rewards for completing your missions, depending on whether you were caught.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47788/47788-1586441643-1067277331.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47788/47788-1586441643-1067277331.png",
+          "uid": "429496777388",
+          "updatedAt": "2020-05-19T18:09:53Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-02T21:54:47Z",
+          "downloads": 2377,
+          "endorsements": 91,
+          "fileSize": 1639,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 47764,
+          "name": "Playable Almalexia Outfit",
+          "status": "published",
+          "summary": "Lets you loot Almalexia's outfit after you kill her.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47764/47764-1585864116-1779684858.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47764/47764-1585864116-1779684858.png",
+          "uid": "429496777364",
+          "updatedAt": "2020-05-13T14:32:08Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-09-19T01:28:09Z",
+          "downloads": 8689,
+          "endorsements": 60,
+          "fileSize": 382,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 46051,
+          "name": "Morrowind Styled",
+          "status": "published",
+          "summary": "Morrowind Styled is a complete retexture of the vanilla game and expansions using Photoshop filters to give it a stylized look. Inspired by PeterBitt's Morrowind Watercolored.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46051/46051-1537320388-1283345542.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46051/46051-1537320388-1283345542.png",
+          "uid": "429496775651",
+          "updatedAt": "2020-03-23T03:23:05Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/14600469/100",
+            "memberId": 14600469,
+            "name": "Lucas9"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 13
+    }
+  }
+}

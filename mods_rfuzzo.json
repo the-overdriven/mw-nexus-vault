@@ -1,0 +1,473 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 13,
+          "952": 19,
+          "2006": 1,
+          "3333": 12,
+          "4187": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-06-03T18:04:05Z",
+          "downloads": 360,
+          "endorsements": 25,
+          "fileSize": 10413,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 17,
+            "name": "Modders Resources and Tutorials"
+          },
+          "modId": 54791,
+          "name": "TES3MAP",
+          "status": "published",
+          "summary": "A small tool to draw a map of all loaded esps. Supports overlays, zooming and exporting the map to png.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54791/54791-1717766092-62555938.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54791/54791-1717766092-62555938.png",
+          "uid": "429496784391",
+          "updatedAt": "2024-06-10T09:45:30Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-05-29T17:15:42Z",
+          "downloads": 189,
+          "endorsements": 15,
+          "fileSize": 2170,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 54755,
+          "name": "Care for a round of Flin - A Morrowind card game mod",
+          "status": "published",
+          "summary": "A mod that adds a real-time card game called \"Flin\".",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54755/54755-1717000322-1526170301.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54755/54755-1717000322-1526170301.png",
+          "uid": "429496784355",
+          "updatedAt": "2024-05-29T17:15:42Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-03-19T19:09:32Z",
+          "downloads": 849,
+          "endorsements": 44,
+          "fileSize": 405,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 54333,
+          "name": "Immersive Vehicles - Sailable boats",
+          "status": "published",
+          "summary": "This mod adds immersive vehicles such as boats, flying mounts, and ground mounts that you can drive or ride around the world.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54333/54333-1710863435-942828333.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54333/54333-1710863435-942828333.png",
+          "uid": "429496783933",
+          "updatedAt": "2024-03-25T07:04:54Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-03-11T15:16:36Z",
+          "downloads": 7414,
+          "endorsements": 258,
+          "fileSize": 6270,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 15,
+            "name": "Utilities"
+          },
+          "modId": 54262,
+          "name": "PLOX - Load order sorter",
+          "status": "published",
+          "summary": "PLOX is a rust re-write of MLOX, a utility tool to sort a modlist topologically according to ordering rules. PLOX also outputs warnings and notes dependent on the mods in your load",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54262/54262-1710169419-1649708038.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54262/54262-1710169419-1649708038.png",
+          "uid": "429496783862",
+          "updatedAt": "2025-05-08T22:34:34Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-02-05T17:09:29Z",
+          "downloads": 4696,
+          "endorsements": 188,
+          "fileSize": 3404,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 54063,
+          "name": "Immersive Travel - MWSE",
+          "status": "published",
+          "summary": "A mod that adds real-time travel with smooth movement on striders, boats, ships, gondolas and river striders (with TR). The mod also has many quality of life features.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54063/54063-1707152643-508263172.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54063/54063-1707152643-508263172.png",
+          "uid": "429496783663",
+          "updatedAt": "2024-03-20T07:38:42Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-02-05T12:27:44Z",
+          "downloads": 366,
+          "endorsements": 30,
+          "fileSize": 62310,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 15,
+            "name": "Utilities"
+          },
+          "modId": 54108,
+          "name": "Conflict Viewer",
+          "status": "published",
+          "summary": "A modern conflict viewer similar to Tes3View.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54108/54108-1707135619-951098283.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54108/54108-1707135619-951098283.png",
+          "uid": "429496783708",
+          "updatedAt": "2024-02-05T19:08:21Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-04T16:42:08Z",
+          "downloads": 252,
+          "endorsements": 21,
+          "fileSize": 3,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52813,
+          "name": "Lockpick Minigame",
+          "status": "published",
+          "summary": "Implements a gothic-like lockpicking minigame.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52813/52813-1683218424-719808506.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52813/52813-1683218424-719808506.png",
+          "uid": "429496782413",
+          "updatedAt": "2023-05-05T07:42:13Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-03T15:17:48Z",
+          "downloads": 536,
+          "endorsements": 27,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52794,
+          "name": "Simple Levelup Skills Persist",
+          "status": "published",
+          "summary": "On levelup, simply carry over unused attributes. If you pick an attribute when leveling up, all skill levelups for that attributes are lost.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52794/52794-1683126986-1600287316.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52794/52794-1683126986-1600287316.png",
+          "uid": "429496782394",
+          "updatedAt": "2023-05-03T15:17:48Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-03T15:00:40Z",
+          "downloads": 471,
+          "endorsements": 30,
+          "fileSize": 4,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 52793,
+          "name": "Pickpocket Minigame",
+          "status": "published",
+          "summary": "Replaces the vanilla pickpocket mechanic with a KCD-inspired minigame.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52793/52793-1683125952-797905108.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52793/52793-1683125952-797905108.png",
+          "uid": "429496782393",
+          "updatedAt": "2023-05-03T15:00:40Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-04-14T17:57:31Z",
+          "downloads": 1407,
+          "endorsements": 31,
+          "fileSize": 6,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 52683,
+          "name": "Immersive Maps",
+          "status": "published",
+          "summary": "A simple mod that disables the vanilla map menu and replaces it with textured maps when you read a map or a guide book. Also Integrates with various Map & Compass map packs.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52683/52683-1681494884-875691636.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52683/52683-1681494884-875691636.png",
+          "uid": "429496782283",
+          "updatedAt": "2023-04-14T17:57:31Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-04T16:36:22Z",
+          "downloads": 199,
+          "endorsements": 24,
+          "fileSize": 4,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 51123,
+          "name": "Immersive Bosmer Corpse Disposal",
+          "status": "published",
+          "summary": "This mod changes the \"dispose corpse\" button to \"eat corpse\" if you are playing as a Bosmer and adds some buffs for eating your felled enemies. Includes some logic for use as an",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51123/51123-1651682087-1545004340.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51123/51123-1651682087-1545004340.png",
+          "uid": "429496780723",
+          "updatedAt": "2022-05-04T16:36:22Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-02T08:24:28Z",
+          "downloads": 14043,
+          "endorsements": 190,
+          "fileSize": 9,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 51087,
+          "name": "MWSE Compare Tooltips",
+          "status": "published",
+          "summary": "This mod adds compare tooltips for looked-at or equipped items against the equipped item of the same category. The mod has multiple MCM options to configure the comparison style.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51087/51087-1651479293-1009400553.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51087/51087-1651479293-1009400553.png",
+          "uid": "429496780687",
+          "updatedAt": "2022-05-02T08:50:58Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-01T14:38:11Z",
+          "downloads": 1152,
+          "endorsements": 77,
+          "fileSize": 4,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 30,
+            "name": "Splash Screens"
+          },
+          "modId": 51076,
+          "name": "MWSE Loading Splash Screens",
+          "status": "published",
+          "summary": "This mod uses MWSE to display splash screens during cell loading instead of freezing the frame as vanilla does.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51076/51076-1651415791-1829645110.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51076/51076-1651415791-1829645110.png",
+          "uid": "429496780676",
+          "updatedAt": "2022-05-01T14:38:11Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/16300749/100",
+            "memberId": 16300749,
+            "name": "rfuzzo"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 13
+    }
+  }
+}

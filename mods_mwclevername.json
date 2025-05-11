@@ -1,0 +1,469 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 13
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2025-02-24T02:22:55Z",
+          "downloads": 53,
+          "endorsements": 1,
+          "fileSize": 0,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 56077,
+          "name": "Detectable Dwemer Puzzle Box",
+          "status": "published",
+          "summary": "Makes the Dwemer puzzle box detectable with the Detect Key effect.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56077/56077-1740353257-1796347404.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56077/56077-1740353257-1796347404.png",
+          "uid": "429496785677",
+          "updatedAt": "2025-02-24T02:22:55Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-14T21:20:51Z",
+          "downloads": 2279,
+          "endorsements": 44,
+          "fileSize": 3911,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 28,
+            "name": "Patches"
+          },
+          "modId": 52058,
+          "name": "Stirk Performance Improver",
+          "status": "published",
+          "summary": "Massively improves FPS in Province: Cyrodiil's pre-alpha version of Stirk by moving all of its kelp forests to a separate grass plugin.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52058/52058-1671052087-1090466579.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52058/52058-1671052087-1090466579.png",
+          "uid": "429496781658",
+          "updatedAt": "2022-12-14T21:20:51Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-13T16:27:18Z",
+          "downloads": 47,
+          "endorsements": 7,
+          "fileSize": 1261,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 17,
+            "name": "Modders Resources and Tutorials"
+          },
+          "modId": 52055,
+          "name": "Bloodmoon Snow Layer for Texture Making",
+          "status": "published",
+          "summary": "Add this as a new layer on top of a landscape texture and set the blending mode to Screen to turn it into a Bloodmoon-style snowy texture.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52055/52055-1670948670-901330139.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52055/52055-1670948670-901330139.png",
+          "uid": "429496781655",
+          "updatedAt": "2022-12-13T16:27:18Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-08T22:55:26Z",
+          "downloads": 85,
+          "endorsements": 22,
+          "fileSize": 1047,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 17,
+            "name": "Modders Resources and Tutorials"
+          },
+          "modId": 52040,
+          "name": "F-Droppable Lights -- Modmaker's Resource",
+          "status": "published",
+          "summary": "Edited vanilla meshes for use in the Construction Set. They drop onto surfaces when you press F, and the camera zooms appropriately when you press T or C.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52040/52040-1670539838-1138163119.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52040/52040-1670539838-1138163119.png",
+          "uid": "429496781640",
+          "updatedAt": "2022-12-08T22:55:26Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-01T17:51:24Z",
+          "downloads": 11846,
+          "endorsements": 200,
+          "fileSize": 2891,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 52010,
+          "name": "Turn Normal Grass and Kelp into Groundcover",
+          "status": "published",
+          "summary": "Renders all the grass, ferns, and kelp in the base game as groundcover instead of statics, which looks better and improves performance. Combine it with any other grass mod for",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52010/52010-1669913404-2124336250.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52010/52010-1669913404-2124336250.png",
+          "uid": "429496781610",
+          "updatedAt": "2023-04-25T05:52:51Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-06-18T11:27:15Z",
+          "downloads": 35,
+          "endorsements": 5,
+          "fileSize": 69,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 17,
+            "name": "Modders Resources and Tutorials"
+          },
+          "modId": 51509,
+          "name": "Blank Class and Levelup Image",
+          "status": "published",
+          "summary": "A blank background for making your own vanilla-style class/levelup images.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51509/51509-1655551461-624495125.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51509/51509-1655551461-624495125.png",
+          "uid": "429496781109",
+          "updatedAt": "2022-06-18T11:27:15Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-06-10T02:35:18Z",
+          "downloads": 73322,
+          "endorsements": 970,
+          "fileSize": 1384,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 51463,
+          "name": "Improved Lights for All Shaders",
+          "status": "published",
+          "summary": "Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods. Compatible with MGE, OpenMW, ReShade, True Lights And Darkness, Enlightened Flames, and",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51463/51463-1654826982-602613374.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51463/51463-1654826982-602613374.jpeg",
+          "uid": "429496781063",
+          "updatedAt": "2025-05-07T22:31:40Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-22T00:17:29Z",
+          "downloads": 262,
+          "endorsements": 21,
+          "fileSize": 3,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 51290,
+          "name": "Short Trip. Short Trip. You Decide",
+          "status": "published",
+          "summary": "Enables every Shipmaster, Caravaner, and Gondolier to take you anywhere on their travel network. Compatible with vanilla and OpenMW.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51290/51290-1653178482-271478694.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51290/51290-1653178482-271478694.png",
+          "uid": "429496780890",
+          "updatedAt": "2022-05-22T00:17:29Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-15T00:16:00Z",
+          "downloads": 49360,
+          "endorsements": 609,
+          "fileSize": 196,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 51236,
+          "name": "Dynamic Distant Buildings for OpenMW",
+          "status": "published",
+          "summary": "Makes distant land more responsive to quest progress. Great House strongholds do not appear in the distance at game start, and the whole Ghostfence vanishes at the end of the main",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51236/51236-1652573718-578443876.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51236/51236-1652573718-578443876.jpeg",
+          "uid": "429496780836",
+          "updatedAt": "2022-05-15T00:16:00Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-02-19T17:34:38Z",
+          "downloads": 66157,
+          "endorsements": 725,
+          "fileSize": 1545,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 50796,
+          "name": "Distant Seafloor for OpenMW",
+          "status": "published",
+          "summary": "Extends the seafloor around Vvardenfell to hide the edge of the world in OpenMW. Compatible with everything.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50796/50796-1655819348-556467995.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50796/50796-1655819348-556467995.png",
+          "uid": "429496780396",
+          "updatedAt": "2022-06-21T13:57:12Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-12-17T18:24:00Z",
+          "downloads": 55222,
+          "endorsements": 911,
+          "fileSize": 445,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 50534,
+          "name": "Cantons on the Global Map",
+          "status": "published",
+          "summary": "Vivec and Molag Mar no longer look like empty water on the global map.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50534/50534-1639771366-876048721.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50534/50534-1639771366-876048721.png",
+          "uid": "429496780134",
+          "updatedAt": "2021-12-17T20:11:31Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-09-07T20:10:53Z",
+          "downloads": 47,
+          "endorsements": 0,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 31,
+            "name": "Weapons"
+          },
+          "modId": 50224,
+          "name": "Adamantium Weapons DON'T Ignore Normal Weapon Resistance",
+          "status": "published",
+          "summary": "Use this mod to override other mods which add the INWR flag to adamantium weapons. Optional plugin for Tamriel Data.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50224/50224-1631045076-1111715542.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50224/50224-1631045076-1111715542.jpeg",
+          "uid": "429496779824",
+          "updatedAt": "2021-09-07T20:10:53Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-01-21T18:17:38Z",
+          "downloads": 139,
+          "endorsements": 11,
+          "fileSize": 2389,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 30,
+            "name": "Splash Screens"
+          },
+          "modId": 49233,
+          "name": "Ogrim splash screen for purists",
+          "status": "published",
+          "summary": "Fixes the Ogrim splash screen so that the piercing placements match the in-game appearance.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49233/49233-1611252766-791637903.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49233/49233-1611252766-791637903.jpeg",
+          "uid": "429496778833",
+          "updatedAt": "2021-01-23T23:16:16Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/102938538/100",
+            "memberId": 102938538,
+            "name": "mwclevername"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 13
+    }
+  }
+}

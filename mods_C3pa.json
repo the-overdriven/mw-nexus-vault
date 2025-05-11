@@ -1,0 +1,469 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 13
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2025-04-12T09:51:05Z",
+          "downloads": 56,
+          "endorsements": 1,
+          "fileSize": 893,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 56342,
+          "name": "Ring a Bell",
+          "status": "published",
+          "summary": "This mod allows you to ring the Sixth House bells using the Sixth House Bell Hammer.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56342/56342-1744450638-1656963743.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56342/56342-1744450638-1656963743.jpeg",
+          "uid": "429496785942",
+          "updatedAt": "2025-04-12T09:51:05Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-12-28T11:08:44Z",
+          "downloads": 477,
+          "endorsements": 40,
+          "fileSize": 3224,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 55671,
+          "name": "Candle Smoke",
+          "status": "published",
+          "summary": "Adds a smoke effect to candles. This mod is an MWSE port of wonderful OpenMW Dynamic Candle Smoke.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55671/55671-1735376161-891540066.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55671/55671-1735376161-891540066.jpeg",
+          "uid": "429496785271",
+          "updatedAt": "2024-12-30T08:26:59Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-09-08T17:28:06Z",
+          "downloads": 130,
+          "endorsements": 8,
+          "fileSize": 497,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 55203,
+          "name": "Ranged Untrap",
+          "status": "published",
+          "summary": "Untrap a door or container from a safe distance using a bow, crossbow, or thrown weapons.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55203/55203-1725816305-1798910013.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55203/55203-1725816305-1798910013.jpeg",
+          "uid": "429496784803",
+          "updatedAt": "2024-09-08T17:28:06Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-09-06T21:24:11Z",
+          "downloads": 731,
+          "endorsements": 26,
+          "fileSize": 2052,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 22,
+            "name": "Cheats and God items"
+          },
+          "modId": 55193,
+          "name": "Command Menu",
+          "status": "published",
+          "summary": "This mod adds a command menu with the following tabs: - General tab - various things to tweak - Player tab - change skills and attributes - Items tab - choose items to add - Spells",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55193/55193-1725654488-1595738106.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55193/55193-1725654488-1595738106.jpeg",
+          "uid": "429496784793",
+          "updatedAt": "2024-10-13T08:58:00Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-05-01T11:44:51Z",
+          "downloads": 2134,
+          "endorsements": 92,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 21,
+            "name": "Animations"
+          },
+          "modId": 54532,
+          "name": "Animated Pickup",
+          "status": "published",
+          "summary": "Animates item pickup from the game world. This change adds more juice to the game and makes picking up items more satisfying. Inspired by a similar feature in Borderlands 2.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54532/54532-1714562224-157828317.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54532/54532-1714562224-157828317.png",
+          "uid": "429496784132",
+          "updatedAt": "2025-01-05T12:26:02Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-09-06T10:55:54Z",
+          "downloads": 522,
+          "endorsements": 43,
+          "fileSize": 574,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 53474,
+          "name": "Zoom",
+          "status": "published",
+          "summary": "This mod allows you to zoom in. You can zoom either by pressing a button (toggle functionality), by holding a button, or by using the mouse scroll. You can select between these",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53474/53474-1693993476-1017792445.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53474/53474-1693993476-1017792445.png",
+          "uid": "429496783074",
+          "updatedAt": "2024-09-12T20:39:43Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-08-22T20:58:32Z",
+          "downloads": 66,
+          "endorsements": 3,
+          "fileSize": 494,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 15,
+            "name": "Utilities"
+          },
+          "modId": 53403,
+          "name": "Live Book Editing",
+          "status": "published",
+          "summary": "This MWSE mod allows you to edit book text for Morrowind books inside a text file and preview your changes in-game.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53403/53403-1692731282-1508705601.gif",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53403/53403-1692731282-1508705601.gif",
+          "uid": "429496783003",
+          "updatedAt": "2024-05-17T18:35:17Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-09-04T17:19:53Z",
+          "downloads": 79,
+          "endorsements": 5,
+          "fileSize": 97,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 51799,
+          "name": "Open the Door",
+          "status": "published",
+          "summary": "This mod opens the door you are looking at if within the activation distance. This saves you time and your spacebar. When a locked or trapped door is encountered a message written",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51799/51799-1662311212-50875183.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51799/51799-1662311212-50875183.png",
+          "uid": "429496781399",
+          "updatedAt": "2023-02-04T14:35:20Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-12-30T16:57:05Z",
+          "downloads": 149,
+          "endorsements": 9,
+          "fileSize": 78,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 29,
+            "name": "Overhauls"
+          },
+          "modId": 50580,
+          "name": "The Inflation",
+          "status": "published",
+          "summary": "The fate of the Empire's economy is in the Nerevarine's hands. The Nerevarine's net worth changes the Inflation rate of the Empire's currency, Septim. Now, enough drama. This mod",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50580/50580-1640871743-947990292.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50580/50580-1640871743-947990292.png",
+          "uid": "429496780180",
+          "updatedAt": "2024-09-10T19:44:10Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-01-01T09:55:51Z",
+          "downloads": 5859,
+          "endorsements": 276,
+          "fileSize": 84,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 33,
+            "name": "Magic"
+          },
+          "modId": 49153,
+          "name": "Magicka Regeneration Suite",
+          "status": "published",
+          "summary": "Ultimate magicka regeneration mod for Morrowind!",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49153/49153-1609427659-1018063805.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49153/49153-1609427659-1018063805.png",
+          "uid": "429496778753",
+          "updatedAt": "2022-09-04T08:53:58Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-08-04T17:38:40Z",
+          "downloads": 8173,
+          "endorsements": 101,
+          "fileSize": 17855,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 48658,
+          "name": "Cephalopod Armor Retexture - Hirez Armors Style",
+          "status": "published",
+          "summary": "This is a retexture for cephalopod armor and robe",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48658/48658-1596557416-650796580.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48658/48658-1596557416-650796580.png",
+          "uid": "429496778258",
+          "updatedAt": "2021-11-12T08:58:55Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-12-07T17:25:37Z",
+          "downloads": 188,
+          "endorsements": 13,
+          "fileSize": 6,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 47365,
+          "name": "Hidden Treasure",
+          "status": "published",
+          "summary": "This mod adds higher quality soul gems to npc enchanters. Before only Elbert Nermarc from Tribunal had restocking supply of 5 grand soul gems. Now you may find common, greater and",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47365/47365-1575737562-1771544130.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47365/47365-1575737562-1771544130.png",
+          "uid": "429496776965",
+          "updatedAt": "2019-12-07T20:38:21Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-09-04T15:25:32Z",
+          "downloads": 391,
+          "endorsements": 28,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 47146,
+          "name": "Misc Mods and Fixes",
+          "status": "published",
+          "summary": "My collection of small mods and fixes.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47146/47146-1613855576-702266203.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47146/47146-1613855576-702266203.png",
+          "uid": "429496776746",
+          "updatedAt": "2023-09-05T09:33:32Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/37172285/100",
+            "memberId": 37172285,
+            "name": "C3pa"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 13
+    }
+  }
+}

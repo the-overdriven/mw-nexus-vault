@@ -1,0 +1,484 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 13,
+          "101": 7,
+          "110": 21,
+          "130": 8,
+          "736": 5,
+          "941": 3,
+          "952": 1,
+          "1151": 18,
+          "1249": 1,
+          "1392": 1,
+          "1704": 33,
+          "1950": 1,
+          "2531": 1,
+          "2590": 1,
+          "2971": 1,
+          "6144": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2021-08-27T18:51:26Z",
+          "downloads": 17618,
+          "endorsements": 452,
+          "fileSize": 689,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 38,
+            "name": "Armour"
+          },
+          "modId": 50187,
+          "name": "Alex's Better Fitted Female Armors",
+          "status": "published",
+          "summary": "Adds a female variant of all basegame armors that fits the hips and waist more and makes armors less bulky.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50187/50187-1630090267-1616796671.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50187/50187-1630090267-1616796671.png",
+          "uid": "429496779787",
+          "updatedAt": "2023-07-28T19:38:12Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-30T04:59:32Z",
+          "downloads": 12650,
+          "endorsements": 328,
+          "fileSize": 0,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 47891,
+          "name": "Alex's Running Without Fatigue",
+          "status": "published",
+          "summary": "Now you can explore all you want without running out of breath when cliffracers show up.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47891/47891-1588222571-1384075241.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47891/47891-1588222571-1384075241.jpeg",
+          "uid": "429496777491",
+          "updatedAt": "2020-04-30T04:59:32Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-30T04:49:03Z",
+          "downloads": 680,
+          "endorsements": 45,
+          "fileSize": 0,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 47890,
+          "name": "Alex's Lower 1st Person Sneak",
+          "status": "published",
+          "summary": "Adjusts the sneaking camera height for 1st person.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47890/47890-1588221389-1346578313.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47890/47890-1588221389-1346578313.jpeg",
+          "uid": "429496777490",
+          "updatedAt": "2020-04-30T04:49:03Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-30T04:32:11Z",
+          "downloads": 718,
+          "endorsements": 39,
+          "fileSize": 0,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 47889,
+          "name": "Alex's Cheaper Enchanting Services",
+          "status": "published",
+          "summary": "Lowers the cost for enchanting services to 10%. 400k? Nah. Now it's 40k.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47889/47889-1588221053-942213658.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47889/47889-1588221053-942213658.jpeg",
+          "uid": "429496777489",
+          "updatedAt": "2020-04-30T04:32:11Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-30T04:25:14Z",
+          "downloads": 7903,
+          "endorsements": 267,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 47888,
+          "name": "Alex's 5 Per Attribute on Levelup",
+          "status": "published",
+          "summary": "Same as the +5 mod for Oblivion but for Morrowind. And clean.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47888/47888-1588220472-1230637644.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47888/47888-1588220472-1230637644.jpeg",
+          "uid": "429496777488",
+          "updatedAt": "2020-04-30T04:25:14Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-30T04:16:40Z",
+          "downloads": 222,
+          "endorsements": 13,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 47887,
+          "name": "Alex's Totally Drunk and Rich Mudcrab Merchant",
+          "status": "published",
+          "summary": "Now the mudcrab merchant buys anything and has plenty of gold for anything you want to sell to it!",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47887/47887-1588220189-393911317.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47887/47887-1588220189-393911317.jpeg",
+          "uid": "429496777487",
+          "updatedAt": "2020-04-30T04:16:40Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-26T08:15:53Z",
+          "downloads": 133,
+          "endorsements": 10,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 47872,
+          "name": "Alex's Green Screen Room",
+          "status": "published",
+          "summary": "Lets you use a green or black screen room to take screenshots in.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47872/47872-1587888432-845442584.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47872/47872-1587888432-845442584.png",
+          "uid": "429496777472",
+          "updatedAt": "2020-04-26T08:15:53Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-13T07:08:58Z",
+          "downloads": 69,
+          "endorsements": 5,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 47814,
+          "name": "Alex's Fedur Quinis - Elegnan's Co-Worker",
+          "status": "published",
+          "summary": "Adds a clothier to Elegnan's shop in Tel Mora who sells the stock of Exquisite Clothing that we all need.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47814/47814-1586761657-651839558.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47814/47814-1586761657-651839558.png",
+          "uid": "429496777414",
+          "updatedAt": "2020-04-13T07:08:58Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-04-12T06:30:24Z",
+          "downloads": 1852,
+          "endorsements": 31,
+          "fileSize": 2014840,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 47804,
+          "name": "Alex's Morrowind Texture Pack",
+          "status": "published",
+          "summary": "Morrowind in 2K but with a twist! Everything looks like it's been painted with a paintbrush.This covers everything in the base game and the expansions.Base game + Bloodmoon +",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47804/47804-1586677714-1731759069.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47804/47804-1586677714-1731759069.jpeg",
+          "uid": "429496777404",
+          "updatedAt": "2020-04-13T16:37:36Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-10-25T13:36:24Z",
+          "downloads": 964,
+          "endorsements": 57,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 47256,
+          "name": "Alex's Bound Longbow with Bound Arrows",
+          "status": "published",
+          "summary": "Bound Longbow Arrows no longer sold separately. Now you get some when you use the spell \"Bound Longbow.\"",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47256/47256-1572010568-969970137.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47256/47256-1572010568-969970137.png",
+          "uid": "429496776856",
+          "updatedAt": "2019-10-25T13:36:24Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-10-23T09:09:15Z",
+          "downloads": 3239,
+          "endorsements": 101,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 26,
+            "name": "ENB Preset"
+          },
+          "modId": 47249,
+          "name": "Alex's Morrowind Reshade Preset",
+          "status": "published",
+          "summary": "My personal Reshade Preset for realistic/volumetric lighting and color correction.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47249/47249-1571821519-1872845284.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47249/47249-1571821519-1872845284.png",
+          "uid": "429496776849",
+          "updatedAt": "2019-10-23T13:53:56Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-10-19T20:45:59Z",
+          "downloads": 688,
+          "endorsements": 43,
+          "fileSize": 0,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 47248,
+          "name": "Alex's Crosshair Replacer",
+          "status": "published",
+          "summary": "Lets you swap the crosshair with a dot or a smooth dot. Non-transparent and transparent versions available!",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47248/47248-1571517700-528253009.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47248/47248-1571517700-528253009.png",
+          "uid": "429496776848",
+          "updatedAt": "2019-10-19T20:45:59Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-10-17T14:59:21Z",
+          "downloads": 827,
+          "endorsements": 54,
+          "fileSize": 37,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 25,
+            "name": "Audio"
+          },
+          "modId": 47239,
+          "name": "Alex's Jumping Sound Replacer",
+          "status": "published",
+          "summary": "The only complaint I've had about Morrowind. Thought I'd look into it. No more jumping that sounds like someone drop-kicked a mic!",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47239/47239-1571324140-738798175.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47239/47239-1571324140-738798175.png",
+          "uid": "429496776839",
+          "updatedAt": "2019-10-17T15:02:15Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/38686655/100",
+            "memberId": 38686655,
+            "name": "AngryKarakuri"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 13
+    }
+  }
+}

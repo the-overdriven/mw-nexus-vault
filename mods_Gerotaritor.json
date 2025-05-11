@@ -1,0 +1,121 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 3,
+          "130": 1,
+          "5609": 1
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2025-05-10T18:23:39Z",
+          "downloads": 47,
+          "endorsements": 2,
+          "fileSize": 48,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 56554,
+          "name": "Improved Global Map Markers - MWSE",
+          "status": "published",
+          "summary": "Adds icons for global map markers.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56554/56554-1746894573-850882047.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56554/56554-1746894573-850882047.png",
+          "uid": "429496786154",
+          "updatedAt": "2025-05-10T18:23:39Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/32922785/100",
+            "memberId": 32922785,
+            "name": "Gerotaritor"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-01-06T22:33:44Z",
+          "downloads": 388,
+          "endorsements": 14,
+          "fileSize": 90,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 24,
+            "name": "User Interface"
+          },
+          "modId": 53947,
+          "name": "Loot Detector - MWSE",
+          "status": "published",
+          "summary": "QOL for those who like to explore/search/looting.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53947/53947-1704580115-1701019327.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53947/53947-1704580115-1701019327.png",
+          "uid": "429496783547",
+          "updatedAt": "2025-04-03T06:09:46Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/32922785/100",
+            "memberId": 32922785,
+            "name": "Gerotaritor"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-22T04:19:45Z",
+          "downloads": 571,
+          "endorsements": 20,
+          "fileSize": 8,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 53870,
+          "name": "MXPS - Morrowind Experience Point System (MWSE) XP",
+          "status": "published",
+          "summary": "MXPS - Morrowind Experience Point System adds a functional and customizable XP system to Morrowind.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53870/53870-1737996936-868838542.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53870/53870-1737996936-868838542.png",
+          "uid": "429496783470",
+          "updatedAt": "2025-01-23T05:40:33Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/32922785/100",
+            "memberId": 32922785,
+            "name": "Gerotaritor"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 3
+    }
+  }
+}

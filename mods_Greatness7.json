@@ -1,0 +1,294 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 8
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-04T16:00:50Z",
+          "downloads": 14009,
+          "endorsements": 573,
+          "fileSize": 14,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 21,
+            "name": "Animations"
+          },
+          "modId": 53779,
+          "name": "Animation Blending",
+          "status": "published",
+          "summary": "Adds animation blending to Morrowind, enabling smooth transitions between animations.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53779/53779-1701620265-390827056.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53779/53779-1701620265-390827056.png",
+          "uid": "429496783379",
+          "updatedAt": "2024-11-24T12:28:20Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-10-04T09:33:18Z",
+          "downloads": 307503,
+          "endorsements": 6433,
+          "fileSize": 5693,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 46069,
+          "name": "Weapon Sheathing",
+          "status": "published",
+          "summary": "Makes unreadied weapons appear on the character's hip or back.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46069/46069-1538638827-645975529.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46069/46069-1538638827-645975529.png",
+          "uid": "429496775669",
+          "updatedAt": "2019-08-10T12:12:10Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-06-01T02:45:10Z",
+          "downloads": 20157,
+          "endorsements": 804,
+          "fileSize": 57,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 45729,
+          "name": "Poison Crafting",
+          "status": "published",
+          "summary": "Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45729/45729-1527812755-2062938209.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45729/45729-1527812755-2062938209.png",
+          "uid": "429496775329",
+          "updatedAt": "2021-10-17T22:37:04Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-03-29T01:03:53Z",
+          "downloads": 5717,
+          "endorsements": 248,
+          "fileSize": 7,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 44857,
+          "name": "Lock Bashing",
+          "status": "published",
+          "summary": "Adds the ability to bash open locked doors and chests, as was an option in previous TES games.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44857-0-1490749092.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44857-0-1490749092.png",
+          "uid": "429496774457",
+          "updatedAt": "2017-03-29T00:53:21Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-02-20T00:19:42Z",
+          "downloads": 11511,
+          "endorsements": 495,
+          "fileSize": 8,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 44808,
+          "name": "mwse Alchemy Filter",
+          "status": "published",
+          "summary": "Enhances the alchemy interface by enabling the ability to filter ingredients based on their magic effects.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44808-0-1487549687.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44808-0-1487549687.png",
+          "uid": "429496774408",
+          "updatedAt": "2018-02-25T23:32:53Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2016-12-24T20:46:54Z",
+          "downloads": 55145,
+          "endorsements": 630,
+          "fileSize": 332,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 44672,
+          "name": "Andrano Ancestral Tomb Remastered",
+          "status": "published",
+          "summary": "An overhaul for the second main quest and its associated dungeon.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44672-8-1482602037.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44672-8-1482602037.png",
+          "uid": "429496774272",
+          "updatedAt": "2016-12-30T03:36:52Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2016-12-17T17:55:49Z",
+          "downloads": 3256,
+          "endorsements": 153,
+          "fileSize": 20182,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 31,
+            "name": "Weapons"
+          },
+          "modId": 44653,
+          "name": "The Wabbajack",
+          "status": "published",
+          "summary": "Adds the legendary Wabbajack artifact!",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44653-0-1482001650.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44653-0-1482001650.png",
+          "uid": "429496774253",
+          "updatedAt": "2017-04-22T01:12:51Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2016-06-17T15:50:24Z",
+          "downloads": 5537,
+          "endorsements": 333,
+          "fileSize": 381,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 44387,
+          "name": "mwse Containers",
+          "status": "published",
+          "summary": "Adds portable containers for the player's convenience.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44387-9-1466177417.jpg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44387-9-1466177417.jpg",
+          "uid": "429496773987",
+          "updatedAt": "2016-11-20T08:37:58Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/64030/100",
+            "memberId": 64030,
+            "name": "Greatness7"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 8
+    }
+  }
+}

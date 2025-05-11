@@ -1,0 +1,332 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 9,
+          "110": 1,
+          "1704": 1,
+          "4462": 3
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2025-05-10T23:11:43Z",
+          "downloads": 29,
+          "endorsements": 2,
+          "fileSize": 29,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 56558,
+          "name": "Animal Articulation - Balmora Temple Quests",
+          "status": "published",
+          "summary": "Adds a Temple questline to Balmora given by Dralval Andrano. Test an unusual potion that enables communication with animals, and lend a hand to several creatures in need.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56558/56558-1746917987-7000077.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56558/56558-1746917987-7000077.jpeg",
+          "uid": "429496786158",
+          "updatedAt": "2025-05-10T23:11:43Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-01-01T09:36:55Z",
+          "downloads": 4965,
+          "endorsements": 78,
+          "fileSize": 173,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 53914,
+          "name": "Playable Game of Ur",
+          "status": "published",
+          "summary": "Adds a playable version of the board game The Royal Game of Ur to Vvardenfell, with betting and practice options against a full AI. Requires assets from the mod \"The Royal Game of",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53914/53914-1704101096-1000045307.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53914/53914-1704101096-1000045307.jpeg",
+          "uid": "429496783514",
+          "updatedAt": "2025-05-05T21:31:58Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-12-11T00:53:04Z",
+          "downloads": 435,
+          "endorsements": 26,
+          "fileSize": 6,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 53820,
+          "name": "Moving Minecarts",
+          "status": "published",
+          "summary": "Makes the five minecart tracks in Vvardenfell usable and rideable. You can either give the minecart a push and watch it go, or ride in it.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53820/53820-1702255270-1516086203.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53820/53820-1702255270-1516086203.jpeg",
+          "uid": "429496783420",
+          "updatedAt": "2023-12-11T00:53:04Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-01-01T18:30:45Z",
+          "downloads": 23916,
+          "endorsements": 228,
+          "fileSize": 21,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 52120,
+          "name": "Vivec Lighthouse Keeper - Questline",
+          "status": "published",
+          "summary": "A 4-part questline that lets you assist the lighthouse keeper at the Vivec Lighthouse south of Ebonheart (requires mod by MwGek). Perform hard work for the keeper, weather a",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52120/52120-1672597100-587543743.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52120/52120-1672597100-587543743.png",
+          "uid": "429496781720",
+          "updatedAt": "2025-04-27T02:41:06Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-23T15:37:08Z",
+          "downloads": 30831,
+          "endorsements": 237,
+          "fileSize": 13,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52093,
+          "name": "Nine-holes",
+          "status": "published",
+          "summary": "Adds playable Nine-holes boards to Vvardenfell, with an AI to challenge you and the option to bet gold.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52093/52093-1671809069-738510358.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52093/52093-1671809069-738510358.png",
+          "uid": "429496781693",
+          "updatedAt": "2023-12-19T01:57:18Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-20T14:05:24Z",
+          "downloads": 21180,
+          "endorsements": 230,
+          "fileSize": 165,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52081,
+          "name": "Thirteen Telvanni - a Dunmeri Card Game",
+          "status": "published",
+          "summary": "Adds a 2-to-4-player, fully playable card game to the world, with betting, available at several taverns and other gathering places. Uses the Telvanni suit and Morag Tong card from",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52081/52081-1671543537-1478553074.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52081/52081-1671543537-1478553074.png",
+          "uid": "429496781681",
+          "updatedAt": "2025-05-05T22:34:06Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-07T10:12:27Z",
+          "downloads": 14010,
+          "endorsements": 115,
+          "fileSize": 49,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 20,
+            "name": "Books and Scrolls"
+          },
+          "modId": 52034,
+          "name": "Writer of the Third Era",
+          "status": "published",
+          "summary": "Allows your character to write books and make money publishing them.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52034/52034-1670408669-86374998.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52034/52034-1670408669-86374998.jpeg",
+          "uid": "429496781634",
+          "updatedAt": "2025-05-05T20:31:52Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-11-04T13:00:29Z",
+          "downloads": 8672,
+          "endorsements": 95,
+          "fileSize": 3,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 22,
+            "name": "Cheats and God items"
+          },
+          "modId": 50381,
+          "name": "Quick Character Creation",
+          "status": "published",
+          "summary": "This is a simple mod that speeds up character creation to the time it takes you to make your character.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50381/50381-1636029403-272164923.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50381/50381-1636029403-272164923.jpeg",
+          "uid": "429496779981",
+          "updatedAt": "2022-03-28T07:19:09Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-05-29T21:01:17Z",
+          "downloads": 8663,
+          "endorsements": 219,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 48228,
+          "name": "Preview Warning for Tamriel Rebuilt (and Building Your Own TR_Preview)",
+          "status": "published",
+          "summary": "Warns you when you enter and leave the unreleased Preview lands of Tamriel Rebuilt. Includes instructions on how to build your own up-to-date TR_Preview using the publicly",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48228/48228-1698809488-2030064942.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48228/48228-1698809488-2030064942.png",
+          "uid": "429496777828",
+          "updatedAt": "2025-05-02T05:49:35Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/24248299/100",
+            "memberId": 24248299,
+            "name": "Dillonn241"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 9
+    }
+  }
+}

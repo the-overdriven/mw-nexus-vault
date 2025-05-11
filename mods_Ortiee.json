@@ -1,0 +1,294 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 8
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-16T16:30:56Z",
+          "downloads": 537,
+          "endorsements": 36,
+          "fileSize": 2763,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 52067,
+          "name": "House Shrines and Statues",
+          "status": "published",
+          "summary": "Working replica shrines and statues that you can place in your home or anywhere else you want to.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52067/52067-1671207764-290810989.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52067/52067-1671207764-290810989.jpeg",
+          "uid": "429496781667",
+          "updatedAt": "2022-12-16T18:42:09Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-12-09T14:55:49Z",
+          "downloads": 666,
+          "endorsements": 47,
+          "fileSize": 310,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 52045,
+          "name": "Morag Tong Mephala Statue",
+          "status": "published",
+          "summary": "Adds a new statue of Mephala to her altar in Vivec.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52045/52045-1670600719-901368726.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52045/52045-1670600719-901368726.jpeg",
+          "uid": "429496781645",
+          "updatedAt": "2022-12-13T17:24:34Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-10-14T16:08:39Z",
+          "downloads": 24482,
+          "endorsements": 191,
+          "fileSize": 13,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 51895,
+          "name": "Temple Shrines Glow",
+          "status": "published",
+          "summary": "Pluginless replacer that adds a warm ambient glow to Tribunal Temple shrines.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51895/51895-1665774289-856392065.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51895/51895-1665774289-856392065.jpeg",
+          "uid": "429496781495",
+          "updatedAt": "2022-10-14T16:08:39Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-09-09T16:59:12Z",
+          "downloads": 9143,
+          "endorsements": 166,
+          "fileSize": 2426,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 51807,
+          "name": "Throat Singing Temple Healers",
+          "status": "published",
+          "summary": "Adds atmospheric throat singing healers to the Tribunal Temples.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51807/51807-1662742184-1474252350.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51807/51807-1662742184-1474252350.jpeg",
+          "uid": "429496781407",
+          "updatedAt": "2022-09-13T15:21:46Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-08-16T20:46:19Z",
+          "downloads": 1274,
+          "endorsements": 88,
+          "fileSize": 546,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 51742,
+          "name": "Unlock All Slaves",
+          "status": "published",
+          "summary": "Adds Master Slave Keys that will unlock any slave, new single keys and necessary dialogue for over 40 slaves that are unfreeable in the base game.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51742/51742-1662204189-745506605.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51742/51742-1662204189-745506605.jpeg",
+          "uid": "429496781342",
+          "updatedAt": "2022-09-03T11:16:13Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-08-10T12:31:58Z",
+          "downloads": 17821,
+          "endorsements": 134,
+          "fileSize": 463,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 9,
+            "name": "Models and Textures"
+          },
+          "modId": 51711,
+          "name": "Vivec's Ash Mask",
+          "status": "published",
+          "summary": "A pluginless texture replacer for Vivec's Ash Mask.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51711/51711-1660133859-180445743.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51711/51711-1660133859-180445743.png",
+          "uid": "429496781311",
+          "updatedAt": "2022-08-11T12:59:03Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-07-22T17:09:13Z",
+          "downloads": 682,
+          "endorsements": 53,
+          "fileSize": 522,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 20,
+            "name": "Books and Scrolls"
+          },
+          "modId": 51642,
+          "name": "Slave Log And Twin Lamps Reports",
+          "status": "published",
+          "summary": "Adds 2 books that list where slaves are being held in Vvardenfell.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51642/51642-1658508888-1494856449.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51642/51642-1658508888-1494856449.jpeg",
+          "uid": "429496781242",
+          "updatedAt": "2022-08-04T03:59:39Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2011-10-15T10:33:31Z",
+          "downloads": 8932,
+          "endorsements": 255,
+          "fileSize": 261,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 2,
+            "name": "Buildings"
+          },
+          "modId": 40702,
+          "name": "Faction Living Quarters",
+          "status": "published",
+          "summary": "Each of the seven guilds three Great Houses in Vvardenfell now offer modest living quarters. Faction members now have somewhere to store a decent amount of stuff and a place to",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/40702-1-1318675546.jpg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/40/40702-1-1318675546.jpg",
+          "uid": "429496770302",
+          "updatedAt": "2022-07-21T19:47:15Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/3047949/100",
+            "memberId": 3047949,
+            "name": "Ortiee"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 8
+    }
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 22,
+          "3474": 15
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2023-11-29T16:45:01Z",
+          "downloads": 616,
+          "endorsements": 46,
+          "fileSize": 12,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 53775,
+          "name": "Balmora Marketplace",
+          "status": "published",
+          "summary": "Adds several food vendors to the Commercial District square of Balmora, making it look more like a market square it's supposed to be.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53775/53775-1701275829-471977624.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53775/53775-1701275829-471977624.png",
+          "uid": "429496783375",
+          "updatedAt": "2023-11-29T16:45:01Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-06-02T16:54:21Z",
+          "downloads": 274,
+          "endorsements": 16,
+          "fileSize": 6229,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 53014,
+          "name": "Dren Plantation - Residence of the Kingpin",
+          "status": "published",
+          "summary": "Overhaul of Dren Plantation, ensuring that the inner logic of the location makes sense, bringing a coherent vision for it, making it more interesting to explore, reworking some",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53014/53014-1685724408-1437280831.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53014/53014-1685724408-1437280831.png",
+          "uid": "429496782614",
+          "updatedAt": "2023-06-02T16:54:21Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-28T17:28:57Z",
+          "downloads": 555,
+          "endorsements": 40,
+          "fileSize": 712,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52964,
+          "name": "Immersive Tables for the Art of Alchemy",
+          "status": "published",
+          "summary": "A fork of Immersive Tables, compatible with the Art of Alchemy",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52964/52964-1685293943-14128434.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52964/52964-1685293943-14128434.png",
+          "uid": "429496782564",
+          "updatedAt": "2023-05-28T17:28:57Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-23T20:09:37Z",
+          "downloads": 3332,
+          "endorsements": 134,
+          "fileSize": 277,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52928,
+          "name": "The Art of Alchemy",
+          "status": "published",
+          "summary": "MWSE-lua complete overhaul of alchemy system, providing it with immersive gameplay, better integration with other systems and sufficient depth and complexity to be interesting on",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52928/52928-1684871829-707190518.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52928/52928-1684871829-707190518.png",
+          "uid": "429496782528",
+          "updatedAt": "2023-05-29T07:58:45Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-05-01T09:56:13Z",
+          "downloads": 1578,
+          "endorsements": 69,
+          "fileSize": 458,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 5,
+            "name": "Guilds/Factions"
+          },
+          "modId": 52759,
+          "name": "Morag Tong Writs",
+          "status": "published",
+          "summary": "Overhaul of Morag Tong assassination quests, making them more interesting via non-linear gameplay, more challanges and opportunities and motivating the usage of relevant skills",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52759/52759-1682928372-1114426008.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52759/52759-1682928372-1114426008.png",
+          "uid": "429496782359",
+          "updatedAt": "2023-05-01T09:56:13Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-04-09T17:42:09Z",
+          "downloads": 381,
+          "endorsements": 36,
+          "fileSize": 5,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52665,
+          "name": "Class Attribute Limit",
+          "status": "published",
+          "summary": "MWSE lua mod, which imposes configurable attribute caps, making the class choice more important and motivating to stay faithful to it.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52665/52665-1681060088-869694332.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52665/52665-1681060088-869694332.png",
+          "uid": "429496782265",
+          "updatedAt": "2023-04-12T18:30:46Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2023-02-28T05:44:38Z",
+          "downloads": 1920,
+          "endorsements": 114,
+          "fileSize": 7,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 52419,
+          "name": "Magnitude of a Cure",
+          "status": "published",
+          "summary": "MWSE-lua mod that adds magnitude to cure effects, making them work similarly to dispel and improve the way alchemy game formulas treat such effects.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52419/52419-1677562485-1615034173.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52419/52419-1677562485-1615034173.png",
+          "uid": "429496782019",
+          "updatedAt": "2023-03-02T10:32:44Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-07-10T17:58:27Z",
+          "downloads": 1275,
+          "endorsements": 55,
+          "fileSize": 6723,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 51571,
+          "name": "Balmora - The City of Contrasts",
+          "status": "published",
+          "summary": "Emergent Gameplay and Visual Storytelling oriented overhaul of Balmora, improving upon the content from the best Balmora mods.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51571/51571-1700592749-1769837928.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51571/51571-1700592749-1769837928.png",
+          "uid": "429496781171",
+          "updatedAt": "2023-12-07T18:44:41Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-06-01T06:32:38Z",
+          "downloads": 2314,
+          "endorsements": 78,
+          "fileSize": 9,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 51412,
+          "name": "Security Expertise",
+          "status": "published",
+          "summary": "MWSE lua mod which allows to create your own locks and traps via security skill and adds trap panels, triggering by stepping on them.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51412/51412-1654060749-569157677.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51412/51412-1654060749-569157677.png",
+          "uid": "429496781012",
+          "updatedAt": "2022-06-01T06:32:38Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-21T19:51:48Z",
+          "downloads": 5916,
+          "endorsements": 106,
+          "fileSize": 11230,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 51285,
+          "name": "Disturbing Dreams",
+          "status": "published",
+          "summary": "MWSE lua mod changing the mechanics of Sixth House attacking the player during the sleep.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51285/51285-1653165702-1563497978.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51285/51285-1653165702-1563497978.png",
+          "uid": "429496780885",
+          "updatedAt": "2023-02-04T20:04:09Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-11T07:24:14Z",
+          "downloads": 12342,
+          "endorsements": 271,
+          "fileSize": 3989,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 29,
+            "name": "Overhauls"
+          },
+          "modId": 51211,
+          "name": "Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod.",
+          "status": "published",
+          "summary": "Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51211/51211-1652250903-2093915486.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51211/51211-1652250903-2093915486.png",
+          "uid": "429496780811",
+          "updatedAt": "2023-03-10T02:13:05Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-05-04T19:38:42Z",
+          "downloads": 5224,
+          "endorsements": 115,
+          "fileSize": 8,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 51128,
+          "name": "Morag Tong Secret Identity",
+          "status": "published",
+          "summary": "MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51128/51128-1651692689-1422737538.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51128/51128-1651692689-1422737538.png",
+          "uid": "429496780728",
+          "updatedAt": "2023-04-08T17:27:33Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-02-11T12:36:17Z",
+          "downloads": 1237,
+          "endorsements": 106,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 19,
+            "name": "Creatures"
+          },
+          "modId": 50757,
+          "name": "Ethereal Ghosts",
+          "status": "published",
+          "summary": "MWSE-lua mod that allows ghost and other incorporeal creatures to pass through closed doors",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50757/50757-1644582536-1456907076.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50757/50757-1644582536-1456907076.png",
+          "uid": "429496780357",
+          "updatedAt": "2022-02-11T12:36:17Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2022-01-23T19:54:29Z",
+          "downloads": 13044,
+          "endorsements": 329,
+          "fileSize": 21,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 50574,
+          "name": "Buying Game",
+          "status": "published",
+          "summary": "MWSE-lua overhaul of trade system with new gameplay and UI functionality for Mercantile skill",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50574/50574-1640599750-1108335048.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50574/50574-1640599750-1108335048.png",
+          "uid": "429496780174",
+          "updatedAt": "2023-03-06T11:51:16Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-28T06:24:38Z",
+          "downloads": 19021,
+          "endorsements": 452,
+          "fileSize": 6,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49086,
+          "name": "Silver Tongue",
+          "status": "published",
+          "summary": "MWSE-lua mod, which enhances speechcraft skill via new gameplay mechanics and UI elements.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49086/49086-1606543984-1228929148.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49086/49086-1606543984-1228929148.png",
+          "uid": "429496778686",
+          "updatedAt": "2022-03-03T09:40:28Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-13T17:20:05Z",
+          "downloads": 25178,
+          "endorsements": 781,
+          "fileSize": 8,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49036,
+          "name": "Alchemical Knowledge",
+          "status": "published",
+          "summary": "MWSE-lua mod, which fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49036/49036-1607579858-1276133992.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49036/49036-1607579858-1276133992.png",
+          "uid": "429496778636",
+          "updatedAt": "2021-11-28T08:50:16Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-11-04T07:29:06Z",
+          "downloads": 3270,
+          "endorsements": 201,
+          "fileSize": 9,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49010,
+          "name": "Class Starting Spells",
+          "status": "published",
+          "summary": "MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49010/49010-1604472351-370367952.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49010/49010-1604472351-370367952.png",
+          "uid": "429496778610",
+          "updatedAt": "2020-11-04T07:29:06Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-10-30T08:09:05Z",
+          "downloads": 10933,
+          "endorsements": 177,
+          "fileSize": 4,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 48989,
+          "name": "Class Skill Limit",
+          "status": "published",
+          "summary": "MWSE lua mod, which imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48989/48989-1604044506-2071681330.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48989/48989-1604044506-2071681330.png",
+          "uid": "429496778589",
+          "updatedAt": "2023-04-18T18:15:52Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-10-23T08:40:17Z",
+          "downloads": 5319,
+          "endorsements": 262,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 48971,
+          "name": "Borrowed Time",
+          "status": "published",
+          "summary": "MWSE lua mod, which prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48971/48971-1603441640-1464414594.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48971/48971-1603441640-1464414594.png",
+          "uid": "429496778571",
+          "updatedAt": "2022-04-05T05:54:24Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-07-03T11:17:09Z",
+          "downloads": 16021,
+          "endorsements": 368,
+          "fileSize": 14,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 48528,
+          "name": "Locks and Traps Detection",
+          "status": "published",
+          "summary": "Makes locks and traps detection a random chance based on the player's Security skill. Requires lates version of MWSE.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48528/48528-1593768223-451825308.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48528/48528-1593768223-451825308.png",
+          "uid": "429496778128",
+          "updatedAt": "2022-04-05T06:02:23Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-06-10T19:40:28Z",
+          "downloads": 11849,
+          "endorsements": 436,
+          "fileSize": 3,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 48317,
+          "name": "Sneaky Strike",
+          "status": "published",
+          "summary": "MWSE-lua mod which modifies critical strike coefficient depending on the weapon you use.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48317/48317-1604660730-1763015666.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48317/48317-1604660730-1763015666.png",
+          "uid": "429496777917",
+          "updatedAt": "2020-11-06T10:17:19Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-05-31T11:45:18Z",
+          "downloads": 13645,
+          "endorsements": 360,
+          "fileSize": 4,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 48251,
+          "name": "Nimble Armor",
+          "status": "published",
+          "summary": "MWSE-lua mod which makes armor contribute to player and npcs evasion modifier as well as allows evading attacks to practice unarmored and light armor skills.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48251/48251-1604557037-700048383.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48251/48251-1604557037-700048383.png",
+          "uid": "429496777851",
+          "updatedAt": "2020-11-05T06:42:10Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/34081875/100",
+            "memberId": 34081875,
+            "name": "VitruvianGuar"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 22
+    }
+  }
+}

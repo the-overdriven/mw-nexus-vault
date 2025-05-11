@@ -1,0 +1,890 @@
+{
+  "data": {
+    "mods": {
+      "facetsData": {
+        "gameId": {
+          "100": 25,
+          "2176": 2
+        }
+      },
+      "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2024-12-09T03:31:44Z",
+          "downloads": 63,
+          "endorsements": 9,
+          "fileSize": 192,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 55558,
+          "name": "The Tamriel Rebuilt Christmas Special",
+          "status": "published",
+          "summary": "Help Grandfather Frost deliver his presents and save Christma-I mean, the holidays.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55558/55558-1733713328-462952161.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55558/55558-1733713328-462952161.png",
+          "uid": "429496785158",
+          "updatedAt": "2024-12-09T03:31:44Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2024-05-27T20:57:52Z",
+          "downloads": 796,
+          "endorsements": 36,
+          "fileSize": 77,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 54746,
+          "name": "Tribunal Facelift",
+          "status": "published",
+          "summary": "Improves Tribunal's quests, updates and improves certain interiors, and reworks + entirely de-mazes the Old Mournhold Sewers.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54746/54746-1735572880-1177792802.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54746/54746-1735572880-1177792802.png",
+          "uid": "429496784346",
+          "updatedAt": "2025-05-07T21:26:47Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-05T04:04:36Z",
+          "downloads": 12194,
+          "endorsements": 232,
+          "fileSize": 6,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49680,
+          "name": "Distraction",
+          "status": "published",
+          "summary": "Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49680/49680-1620185074-1639001909.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49680/49680-1620185074-1639001909.png",
+          "uid": "429496779280",
+          "updatedAt": "2021-05-05T04:04:36Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-05-01T07:03:19Z",
+          "downloads": 29364,
+          "endorsements": 767,
+          "fileSize": 9,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 49614,
+          "name": "Stealth Improved",
+          "status": "published",
+          "summary": "Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49614/49614-1619852417-234869412.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49614/49614-1619852417-234869412.png",
+          "uid": "429496779214",
+          "updatedAt": "2022-01-21T00:15:12Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2021-04-04T19:02:43Z",
+          "downloads": 3475,
+          "endorsements": 44,
+          "fileSize": 10,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 5,
+            "name": "Guilds/Factions"
+          },
+          "modId": 49519,
+          "name": "Redoran Archmaster Perks",
+          "status": "published",
+          "summary": "Adds a number of features to being Grandmaster of House Redoran, including master level trainers, a teleportation ring, and the ability to covertly join another House.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49519/49519-1617562338-880989017.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49519/49519-1617562338-880989017.png",
+          "uid": "429496779119",
+          "updatedAt": "2021-04-04T19:02:43Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-05-29T19:57:19Z",
+          "downloads": 23229,
+          "endorsements": 659,
+          "fileSize": 31,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 48225,
+          "name": "Rise of House Telvanni - 2.0",
+          "status": "published",
+          "summary": "This mod gives a much needed facelift to one of the greatest quest mods of all time - Rise of House Telvanni.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48225/48225-1590781670-1774332060.jpeg",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48225/48225-1590781670-1774332060.jpeg",
+          "uid": "429496777825",
+          "updatedAt": "2020-07-22T03:10:48Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2020-02-10T00:28:29Z",
+          "downloads": 23810,
+          "endorsements": 570,
+          "fileSize": 9,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 47581,
+          "name": "Pickpocket",
+          "status": "published",
+          "summary": "Adds a custom real-time menu to pickpocketing and restores a formerly-useless mechanic.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47581/47581-1581294428-1994413609.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47581/47581-1581294428-1994413609.png",
+          "uid": "429496777181",
+          "updatedAt": "2022-01-21T00:09:59Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-12-28T18:57:35Z",
+          "downloads": 25627,
+          "endorsements": 688,
+          "fileSize": 7,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 47452,
+          "name": "MULE - Mort's Ultimate Leveling Experience",
+          "status": "published",
+          "summary": "A fully customizable leveling mod that removes the level-up screen entirely. Never worry about min/maxing skill ups ever again. The functionality of GCD/MADD, but fully",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47452/47452-1577556576-713815768.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47452/47452-1577556576-713815768.png",
+          "uid": "429496777052",
+          "updatedAt": "2025-05-06T04:37:07Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-12-21T03:09:19Z",
+          "downloads": 8008,
+          "endorsements": 234,
+          "fileSize": 1517,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 47414,
+          "name": "Illuminated Order Improved",
+          "status": "published",
+          "summary": "Bugfixes and making it OpenMW Compatible. Adds alternate lore-friendly version.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47414/47414-1576897732-1809750116.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47414/47414-1576897732-1809750116.png",
+          "uid": "429496777014",
+          "updatedAt": "2021-04-26T02:09:31Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-05-04T04:42:57Z",
+          "downloads": 1560,
+          "endorsements": 137,
+          "fileSize": 56,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 34,
+            "name": "Towns and Villages"
+          },
+          "modId": 46672,
+          "name": "Wolverine Hall Overhaul",
+          "status": "published",
+          "summary": "Completely overhauls the notoriously confusing Wolverine Hall in Sadrith Mora.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46672/46672-1556944227-313317223.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46672/46672-1556944227-313317223.png",
+          "uid": "429496776272",
+          "updatedAt": "2019-12-21T02:39:13Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2019-01-06T08:35:56Z",
+          "downloads": 40142,
+          "endorsements": 757,
+          "fileSize": 12,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 46283,
+          "name": "QuickLoot",
+          "status": "published",
+          "summary": "Adds a Fallout 4-style loot menu to Morrowind. Requires MWSE-lua.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46283/46283-1546763708-1781409341.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46283/46283-1546763708-1781409341.png",
+          "uid": "429496775883",
+          "updatedAt": "2024-11-02T19:24:23Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-11-30T02:46:38Z",
+          "downloads": 3718,
+          "endorsements": 237,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 46188,
+          "name": "Harder Barter",
+          "status": "published",
+          "summary": "Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.Requires MWSE-Lua",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46188/46188-1543545661-1050990197.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46188/46188-1543545661-1050990197.png",
+          "uid": "429496775788",
+          "updatedAt": "2020-05-27T18:34:29Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-09-13T02:56:26Z",
+          "downloads": 89473,
+          "endorsements": 1339,
+          "fileSize": 10,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 46036,
+          "name": "Beware the Sixth House (Sixth House Overhaul)",
+          "status": "published",
+          "summary": "Makes the Sixth House the most difficult content in the game. Intended for use with my other rebalance mods.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46036/46036-1536807229-1223621539.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46036/46036-1536807229-1223621539.png",
+          "uid": "429496775636",
+          "updatedAt": "2022-11-27T22:28:56Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-09-08T02:29:43Z",
+          "downloads": 1700,
+          "endorsements": 119,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 46024,
+          "name": "Legion Uniform Apathy",
+          "status": "published",
+          "summary": "Removes the \"You're out of uniform. Talk to me when you're serious.\" greeting from legion NPCs and makes the \"Where's your uniform?\" line happen 90% less often.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46024/46024-1536373678-482901953.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46024/46024-1536373678-482901953.png",
+          "uid": "429496775624",
+          "updatedAt": "2018-09-08T02:29:43Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-07-04T19:49:30Z",
+          "downloads": 10382,
+          "endorsements": 190,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 45844,
+          "name": "Better Balanced Booze",
+          "status": "published",
+          "summary": "Alcohol is far too common to have effects 5x that of some potions. Why even make strength potions when sujamma costs 30g and gives you +50 hulk strength? This changes that.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45844/45844-1530842703-1876565893.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45844/45844-1530842703-1876565893.png",
+          "uid": "429496775444",
+          "updatedAt": "2018-07-05T22:08:46Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-06-06T01:01:05Z",
+          "downloads": 2020,
+          "endorsements": 108,
+          "fileSize": 1598,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 45756,
+          "name": "Sotha Sil Expanded Retracted",
+          "status": "published",
+          "summary": "[Outdated as of SSE 3.0] This is a patch for Sotha Sil Expanded that removes some puzzles and rooms I found overly frustrating.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45756/45756-1528246752-2093630879.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45756/45756-1528246752-2093630879.png",
+          "uid": "429496775356",
+          "updatedAt": "2020-05-28T01:23:02Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-05-29T03:00:37Z",
+          "downloads": 99910,
+          "endorsements": 1527,
+          "fileSize": 33,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 45714,
+          "name": "Bloodmoon Rebalance",
+          "status": "published",
+          "summary": "This mod is intended to rebalance the Bloodmoon expansion in a variety of ways, most importantly by editing the stats of creatures and npcs.This mod rebalances Bloodmoon as if it",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45714/45714-1527562756-1159560730.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45714/45714-1527562756-1159560730.png",
+          "uid": "429496775314",
+          "updatedAt": "2025-05-08T14:10:57Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-05-28T23:47:55Z",
+          "downloads": 97147,
+          "endorsements": 1490,
+          "fileSize": 21,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 45713,
+          "name": "Tribunal Rebalance",
+          "status": "published",
+          "summary": "This mod is intended to rebalance the Tribunal expansion in a variety of ways, most importantly by editing the stats of creatures and npcs.This mod rebalances Tribunal as if it",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45713/45713-1694380022-1527337889.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45713/45713-1694380022-1527337889.png",
+          "uid": "429496775313",
+          "updatedAt": "2025-05-06T14:21:26Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2018-04-01T18:51:23Z",
+          "downloads": 175,
+          "endorsements": 11,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 45560,
+          "name": "Outfit Greetings Removed",
+          "status": "published",
+          "summary": "Removes/filters out all greetings about the player's outfit.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45560/45560-1522608655-209864323.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45560/45560-1522608655-209864323.png",
+          "uid": "429496775160",
+          "updatedAt": "2018-04-01T18:51:23Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-06-01T04:57:11Z",
+          "downloads": 1091,
+          "endorsements": 67,
+          "fileSize": 22,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 8,
+            "name": "Miscellaneous"
+          },
+          "modId": 44989,
+          "name": "The Morrowind Randomizer",
+          "status": "published",
+          "summary": "Randomizes the locations of 49 legendary Morrowind items.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44989-4-1496289557.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44989-4-1496289557.png",
+          "uid": "429496774589",
+          "updatedAt": "2019-02-17T03:29:15Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-05-22T05:16:21Z",
+          "downloads": 1292,
+          "endorsements": 64,
+          "fileSize": 14,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 44961,
+          "name": "Immersive Corprus",
+          "status": "published",
+          "summary": "-Corprus is now a real disease spread by corprus stalkers/shamblers/ash vampires\n-Corprus now has many stages of infection, culminating with you turning into a mindless corprus",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44961-3-1495430036.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44961-3-1495430036.png",
+          "uid": "429496774561",
+          "updatedAt": "2017-05-22T05:16:19Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-05-08T06:05:50Z",
+          "downloads": 188,
+          "endorsements": 12,
+          "fileSize": 2,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 36,
+            "name": "Immersion"
+          },
+          "modId": 44932,
+          "name": "Pointy Ingredients Hurt Coming Out",
+          "status": "published",
+          "summary": "Now when you eat gems, ebony, or glass, you'll take damage about a day later when it comes out the other end.",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44932-0-1494223445.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44932-0-1494223445.png",
+          "uid": "429496774532",
+          "updatedAt": "2017-05-08T06:05:47Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-05-02T02:58:36Z",
+          "downloads": 1438,
+          "endorsements": 90,
+          "fileSize": 8,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 4,
+            "name": "Gameplay"
+          },
+          "modId": 44923,
+          "name": "One of a Kind - Daedric Weapons Armor and Shields",
+          "status": "published",
+          "summary": "Edits leveled lists and static spawns to ensure only one copy of each daedric weapon, armor, and shield exists in game. Optionally edits a few quests and NPCs to give ebony instead",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44923-0-1493693791.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44923-0-1493693791.png",
+          "uid": "429496774523",
+          "updatedAt": "2017-05-03T02:36:05Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-04-29T04:17:37Z",
+          "downloads": 39611,
+          "endorsements": 303,
+          "fileSize": 3,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 11,
+            "name": "NPCs"
+          },
+          "modId": 44913,
+          "name": "Wandering Umbra",
+          "status": "published",
+          "summary": "Randomizes Umbra's location to ten different Vvardenfell locales. ",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44913-0-1493439725.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44913-0-1493439725.png",
+          "uid": "429496774513",
+          "updatedAt": "2017-04-29T16:07:25Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        },
+        {
+          "adultContent": false,
+          "createdAt": "2017-04-03T23:57:08Z",
+          "downloads": 8386,
+          "endorsements": 38,
+          "fileSize": 1,
+          "game": {
+            "domainName": "morrowind",
+            "id": 100,
+            "name": "Morrowind"
+          },
+          "modCategory": {
+            "categoryId": 13,
+            "name": "Quests and Adventures"
+          },
+          "modId": 44870,
+          "name": "Gaenor's Millions",
+          "status": "published",
+          "summary": "Allows the player to give Gaenor one million gold in exchange for not having to fight him. ",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44870-0-1491263633.png",
+          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44870-0-1491263633.png",
+          "uid": "429496774470",
+          "updatedAt": "2017-04-03T23:54:59Z",
+          "uploader": {
+            "avatar": "https://avatars.nexusmods.com/4138441/100",
+            "memberId": 4138441,
+            "name": "mortimermcmire"
+          },
+          "viewerDownloaded": null,
+          "viewerEndorsed": null,
+          "viewerTracked": false,
+          "viewerUpdateAvailable": null,
+          "isBlockedFromEarningDp": null,
+          "viewerBlocked": false
+        }
+      ],
+      "totalCount": 25
+    }
+  }
+}
