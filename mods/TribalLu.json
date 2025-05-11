@@ -10,14 +10,7 @@
         {
           "adultContent": false,
           "createdAt": "2024-08-15T00:56:51Z",
-          "downloads": 202,
-          "endorsements": 13,
           "fileSize": 6503,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -27,32 +20,15 @@
           "status": "published",
           "summary": "This mod adds in five new tools that allow you to enhance your exploring experience.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55124/55124-1723681068-1539537032.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55124/55124-1723681068-1539537032.jpeg",
           "uid": "429496784724",
           "updatedAt": "2024-09-28T20:54:45Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-24T00:29:00Z",
-          "downloads": 263,
-          "endorsements": 16,
           "fileSize": 12033,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -62,32 +38,15 @@
           "status": "published",
           "summary": "This mod adds in three new tools that allow you to do Baking, Alcohol brewing and Wine making with ease.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55007/55007-1721778951-1046189636.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55007/55007-1721778951-1046189636.png",
           "uid": "429496784607",
           "updatedAt": "2024-08-02T06:42:47Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-13T00:21:36Z",
-          "downloads": 164,
-          "endorsements": 9,
           "fileSize": 1133,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -97,32 +56,15 @@
           "status": "published",
           "summary": "This mod adds in 39 Weapons for the Shield slot. They act as Shields. They do not attack.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54967/54967-1720827667-92224235.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54967/54967-1720827667-92224235.png",
           "uid": "429496784567",
           "updatedAt": "2024-07-27T01:23:35Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-06T15:14:30Z",
-          "downloads": 313,
-          "endorsements": 16,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -132,32 +74,15 @@
           "status": "published",
           "summary": "This mod adds in a new game feature that allows you to manually Block in real time.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54922/54922-1727565705-1339044546.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54922/54922-1727565705-1339044546.png",
           "uid": "429496784522",
           "updatedAt": "2024-09-28T22:53:05Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-30T13:41:48Z",
-          "downloads": 124,
-          "endorsements": 11,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -167,32 +92,15 @@
           "status": "published",
           "summary": "This adds Hygiene Bars to the HUD. These bars are for the Hygiene variables from the Mod \"Vvardenfell Ablutions - A Bathing Mod\".",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54901/54901-1719748948-39746657.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54901/54901-1719748948-39746657.png",
           "uid": "429496784501",
           "updatedAt": "2024-07-04T13:02:10Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-20T08:30:16Z",
-          "downloads": 428,
-          "endorsements": 17,
           "fileSize": 537,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -202,32 +110,15 @@
           "status": "published",
           "summary": "This mod adds in a new game feature that allows you to Rest in real time in order to slowly heal your Health and Magicka points.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54861/54861-1718871302-361883037.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54861/54861-1718871302-361883037.png",
           "uid": "429496784461",
           "updatedAt": "2025-04-13T04:45:10Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-18T04:16:19Z",
-          "downloads": 99,
-          "endorsements": 7,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -237,32 +128,15 @@
           "status": "published",
           "summary": "This mod adds in keybinds for console commands. Now you are one button press away from these common needs.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54855/54855-1718683850-1636680603.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54855/54855-1718683850-1636680603.png",
           "uid": "429496784455",
           "updatedAt": "2024-06-18T04:16:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-14T06:17:23Z",
-          "downloads": 119,
-          "endorsements": 6,
           "fileSize": 69,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 21,
             "name": "Animations"
@@ -272,32 +146,15 @@
           "status": "published",
           "summary": "This mod adds in a new immersive tool which allows you to dip your balls onto your opponents face. Or for the initiative, into their mouths.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54842/54842-1718544810-356676143.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54842/54842-1718544810-356676143.png",
           "uid": "429496784442",
           "updatedAt": "2024-07-24T01:07:43Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-11T06:12:44Z",
-          "downloads": 234,
-          "endorsements": 11,
           "fileSize": 724,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -307,32 +164,15 @@
           "status": "published",
           "summary": "This mod adds in a new immersive aspect which brings in the need to Pee. If you don't relieve your character, you will accumulate debuffs.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54823/54823-1718085057-773406285.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54823/54823-1718085057-773406285.png",
           "uid": "429496784423",
           "updatedAt": "2025-01-31T00:52:27Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-08T07:30:19Z",
-          "downloads": 84,
-          "endorsements": 6,
           "fileSize": 14033,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 6,
             "name": "Body, Face, and Hair"
@@ -342,32 +182,15 @@
           "status": "published",
           "summary": "This mod adds in gear that overlays your characters skin giving your character a busty chest (naturally large) or a bimbo chest (implants). These skins are also viewable in first",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54811/54811-1717828355-1737639989.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54811/54811-1717828355-1737639989.png",
           "uid": "429496784411",
           "updatedAt": "2024-06-08T07:30:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-07T18:37:14Z",
-          "downloads": 253,
-          "endorsements": 14,
           "fileSize": 14803,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 38,
             "name": "Armour"
@@ -377,32 +200,15 @@
           "status": "published",
           "summary": "Adds Lich King inspired Armor",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54809/54809-1717785297-1429893971.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54809/54809-1717785297-1429893971.png",
           "uid": "429496784409",
           "updatedAt": "2024-06-07T18:37:14Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-04T01:26:40Z",
-          "downloads": 96,
-          "endorsements": 4,
           "fileSize": 9782,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -412,32 +218,15 @@
           "status": "published",
           "summary": "This mod adds in furry inspired clothing and full bodysuits.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54794/54794-1717463352-208021561.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54794/54794-1717463352-208021561.png",
           "uid": "429496784394",
           "updatedAt": "2024-06-04T02:12:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-24T01:54:21Z",
-          "downloads": 282,
-          "endorsements": 14,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -447,32 +236,15 @@
           "status": "published",
           "summary": "It adds Health, Magicka, and Fatigue Bars to the HUD. These bars will automatically increase in width as you level up representing the total of the stat.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54488/54488-1713917470-23850574.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54488/54488-1713917470-23850574.png",
           "uid": "429496784088",
           "updatedAt": "2024-07-04T15:14:13Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-16T21:59:37Z",
-          "downloads": 361,
-          "endorsements": 14,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 29,
             "name": "Overhauls"
@@ -482,32 +254,15 @@
           "status": "published",
           "summary": "This mod changes the HUD visuals giving everything black borders. No changes to the Menu, allowing you to keep that Vanilla Morrowind style.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54467/54467-1713303502-1190129288.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54467/54467-1713303502-1190129288.jpeg",
           "uid": "429496784067",
           "updatedAt": "2024-04-16T21:59:37Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-13T05:05:09Z",
-          "downloads": 246,
-          "endorsements": 8,
           "fileSize": 90275,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -517,32 +272,15 @@
           "status": "published",
           "summary": "Adds a Cellar to the lighthouse in Seyda Neen. Comes with a Quest, a Companion, wearable Wigs, and Gear for Female Characters.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54449/54449-1712983728-1570569496.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54449/54449-1712983728-1570569496.png",
           "uid": "429496784049",
           "updatedAt": "2024-11-14T09:07:46Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-05T05:13:21Z",
-          "downloads": 2931,
-          "endorsements": 34,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -552,32 +290,15 @@
           "status": "published",
           "summary": "This mod adds in clothing and armor in first person view. Over 1000+ pieces of gear added.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54409/54409-1712291571-963782639.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54409/54409-1712291571-963782639.png",
           "uid": "429496784009",
           "updatedAt": "2025-03-11T22:06:11Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-29T04:39:45Z",
-          "downloads": 162,
-          "endorsements": 10,
           "fileSize": 7,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -587,32 +308,15 @@
           "status": "published",
           "summary": "This adds a Thirst Bar and a Hunger Bar to the HUD. These bars are for the Thirst and Hunger variables from the Mod's \"Water and Thirst\" and \"Cooking and Eating\".",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54372/54372-1711688515-1261169101.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54372/54372-1711688515-1261169101.jpeg",
           "uid": "429496783972",
           "updatedAt": "2024-07-04T18:21:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-29T03:26:51Z",
-          "downloads": 2460,
-          "endorsements": 61,
           "fileSize": 1861,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 21,
             "name": "Animations"
@@ -622,32 +326,15 @@
           "status": "published",
           "summary": "This is my personal combination of animations spliced together from a few animation packs. Comes with spell animations, swim animations, walk/run animations, and of course body",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54371/54371-1711682084-1429105229.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54371/54371-1711682084-1429105229.png",
           "uid": "429496783971",
           "updatedAt": "2024-04-08T08:07:30Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-15T16:08:30Z",
-          "downloads": 4340,
-          "endorsements": 21,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -657,32 +344,15 @@
           "status": "published",
           "summary": "New Icons for Detect spells on the map.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54285/54285-1710518211-952062976.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54285/54285-1710518211-952062976.jpeg",
           "uid": "429496783885",
           "updatedAt": "2024-03-15T16:08:30Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-15T00:31:50Z",
-          "downloads": 128,
-          "endorsements": 10,
           "fileSize": 4243,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 38,
             "name": "Armour"
@@ -692,32 +362,15 @@
           "status": "published",
           "summary": "This mod adds in some Velvet Coats to buy from the Balmora Clothing Shop.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54281/54281-1710463268-1583578667.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54281/54281-1710463268-1583578667.jpeg",
           "uid": "429496783881",
           "updatedAt": "2025-03-11T23:40:01Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-10T17:54:24Z",
-          "downloads": 1265,
-          "endorsements": 45,
           "fileSize": 41667,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -727,18 +380,8 @@
           "status": "published",
           "summary": "This mod adds many new tools into Morrowind that allows you as a player to participate in the growing and customizing of your own garden or farm. *Now with Fruits, Vegetables and",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54258/54258-1710094086-1414196934.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54258/54258-1710094086-1414196934.jpeg",
           "uid": "429496783858",
           "updatedAt": "2024-10-17T03:51:59Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/203609459/100",
-            "memberId": 203609459,
-            "name": "TribalLu"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

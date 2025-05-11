@@ -11,14 +11,7 @@
         {
           "adultContent": false,
           "createdAt": "2025-03-05T07:38:59Z",
-          "downloads": 49,
-          "endorsements": 4,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -28,32 +21,15 @@
           "status": "published",
           "summary": "More slaughter for your fish.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56131/56131-1741160001-437827440.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56131/56131-1741160001-437827440.jpeg",
           "uid": "429496785731",
           "updatedAt": "2025-03-05T07:38:59Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2025-01-31T19:19:13Z",
-          "downloads": 8626,
-          "endorsements": 72,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -63,32 +39,15 @@
           "status": "published",
           "summary": "Just some patches.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55897/55897-1738349815-2146544884.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55897/55897-1738349815-2146544884.jpeg",
           "uid": "429496785497",
           "updatedAt": "2025-02-02T06:00:11Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-05-04T19:51:53Z",
-          "downloads": 13286,
-          "endorsements": 275,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -98,32 +57,15 @@
           "status": "published",
           "summary": "This mod attempts to make water react more to the world. When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52815/52815-1683229587-1441008430.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52815/52815-1683229587-1441008430.jpeg",
           "uid": "429496782415",
           "updatedAt": "2023-05-04T19:51:53Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-05-27T21:21:19Z",
-          "downloads": 93,
-          "endorsements": 6,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -133,32 +75,15 @@
           "status": "published",
           "summary": "Facilitates the reading of json packages from a monitored folder or through a TCP connection to allow the execution of scripts. This allows streamers to have interactive chat",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51359/51359-1653686278-1269008634.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51359/51359-1653686278-1269008634.jpeg",
           "uid": "429496780959",
           "updatedAt": "2022-05-27T21:21:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-05-05T02:44:57Z",
-          "downloads": 629,
-          "endorsements": 54,
           "fileSize": 510,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -168,32 +93,15 @@
           "status": "published",
           "summary": "Dynamically changes the book menu to make the book cover match the actual book being read.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51132/51132-1651711642-1938623355.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51132/51132-1651711642-1938623355.jpeg",
           "uid": "429496780732",
           "updatedAt": "2022-05-05T02:44:57Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-05-02T22:20:32Z",
-          "downloads": 1002,
-          "endorsements": 110,
           "fileSize": 7,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -203,32 +111,15 @@
           "status": "published",
           "summary": "This mod aims to help mod developers and those working on their install to help diagnose issues. Have you ever wanted to know which texture that rock is using, so you can replace",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51095/51095-1651529747-418263653.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51095/51095-1651529747-418263653.jpeg",
           "uid": "429496780695",
           "updatedAt": "2022-05-24T00:29:27Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-05-01T23:07:08Z",
-          "downloads": 483,
-          "endorsements": 64,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 25,
             "name": "Audio"
@@ -238,32 +129,15 @@
           "status": "published",
           "summary": "This mod improves the logic for selecting an enchantment failure sound. It enables selecting a random effect fail sound, and preventing the same enchantment from playing a sound",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51084/51084-1651446259-1303810287.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51084/51084-1651446259-1303810287.jpeg",
           "uid": "429496780684",
           "updatedAt": "2022-05-01T23:07:08Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-05-01T00:33:39Z",
-          "downloads": 11497,
-          "endorsements": 378,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 18,
             "name": "Bug Fixes"
@@ -273,32 +147,15 @@
           "status": "published",
           "summary": "This mod aims to fix some inconsistencies with how leveled creatures are spawned.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51059/51059-1651365208-1951391763.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51059/51059-1651365208-1951391763.jpeg",
           "uid": "429496780659",
           "updatedAt": "2022-05-01T00:33:39Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-07-08T19:52:32Z",
-          "downloads": 6497,
-          "endorsements": 308,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -308,32 +165,15 @@
           "status": "published",
           "summary": "Carries over unique item information, such as condition and script data when enchanting items.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50029/50029-1625773820-136287093.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50029/50029-1625773820-136287093.jpeg",
           "uid": "429496779629",
           "updatedAt": "2022-05-06T03:18:11Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-12-06T18:42:36Z",
-          "downloads": 7835,
-          "endorsements": 303,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -343,32 +183,15 @@
           "status": "published",
           "summary": "Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49121/49121-1607280136-96685353.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49121/49121-1607280136-96685353.jpeg",
           "uid": "429496778721",
           "updatedAt": "2025-01-30T19:18:09Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-08-17T06:05:09Z",
-          "downloads": 16744,
-          "endorsements": 225,
           "fileSize": 24398,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -378,32 +201,15 @@
           "status": "published",
           "summary": "Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48711/48711-1597644434-496915073.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48711/48711-1597644434-496915073.png",
           "uid": "429496778311",
           "updatedAt": "2020-08-17T06:05:09Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-02T02:14:56Z",
-          "downloads": 3997,
-          "endorsements": 347,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -413,32 +219,15 @@
           "status": "published",
           "summary": "Pluginless *and* assetless no-glow. Use less memory, get some frames back, and be more compatible!",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47925/47925-1588385489-2005160725.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47925/47925-1588385489-2005160725.jpeg",
           "uid": "429496777525",
           "updatedAt": "2020-05-02T02:14:56Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-06-02T07:06:48Z",
-          "downloads": 57237,
-          "endorsements": 1399,
           "fileSize": 283,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -448,32 +237,15 @@
           "status": "published",
           "summary": "A tool for automatically patching conflicts between mods for TES3: Morrowind.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46870/46870-1559458965-639767057.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46870/46870-1559458965-639767057.png",
           "uid": "429496776470",
           "updatedAt": "2025-01-20T02:37:41Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-07T01:38:28Z",
-          "downloads": 12427,
-          "endorsements": 377,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 33,
             "name": "Magic"
@@ -483,32 +255,15 @@
           "status": "published",
           "summary": "This mod makes in-world soulgems that are filled appear as enchanted items.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46709/46709-1685974676-1446498578.gif",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46709/46709-1685974676-1446498578.gif",
           "uid": "429496776309",
           "updatedAt": "2023-06-05T13:28:23Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-05T22:21:02Z",
-          "downloads": 1237,
-          "endorsements": 113,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -518,32 +273,15 @@
           "status": "published",
           "summary": "This mod causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46694/46694-1557094073-2102317712.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46694/46694-1557094073-2102317712.jpeg",
           "uid": "429496776294",
           "updatedAt": "2019-05-05T22:21:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-04T22:33:12Z",
-          "downloads": 14614,
-          "endorsements": 323,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -553,32 +291,15 @@
           "status": "published",
           "summary": "This mod allows you to kill all the witnesses of a crime to remove the bounty.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46684/46684-1557008558-2053824407.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46684/46684-1557008558-2053824407.jpeg",
           "uid": "429496776284",
           "updatedAt": "2019-05-04T22:33:12Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-03T22:11:29Z",
-          "downloads": 2832,
-          "endorsements": 252,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -588,32 +309,15 @@
           "status": "published",
           "summary": "The player can now also bribe NPCs with items, instead of just gold.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46661/46661-1556920097-1659316160.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46661/46661-1556920097-1659316160.jpeg",
           "uid": "429496776261",
           "updatedAt": "2019-05-03T22:11:29Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-02T21:25:43Z",
-          "downloads": 943,
-          "endorsements": 104,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -623,32 +327,15 @@
           "status": "published",
           "summary": "Adds a simple configurable keybind that turns the main HUD on/off.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46642/46642-1556831760-2058866426.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46642/46642-1556831760-2058866426.jpeg",
           "uid": "429496776242",
           "updatedAt": "2023-06-05T17:07:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-01T20:00:25Z",
-          "downloads": 5113,
-          "endorsements": 304,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -658,32 +345,15 @@
           "status": "published",
           "summary": "Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46625/46625-1556739761-1707656505.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46625/46625-1556739761-1707656505.jpeg",
           "uid": "429496776225",
           "updatedAt": "2024-02-16T01:51:04Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-01-13T06:03:43Z",
-          "downloads": 1429,
-          "endorsements": 110,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -693,32 +363,15 @@
           "status": "published",
           "summary": "Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46299/46299-1547358864-157417504.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46299/46299-1547358864-157417504.jpeg",
           "uid": "429496775899",
           "updatedAt": "2019-01-13T06:03:43Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-10-01T19:06:00Z",
-          "downloads": 130348,
-          "endorsements": 3086,
           "fileSize": 224,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -728,32 +381,15 @@
           "status": "published",
           "summary": "Expands UI functionality with searching, filtering, and more visual feedback.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46071/46071-1538420403-1167645233.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46071/46071-1538420403-1167645233.jpeg",
           "uid": "429496775671",
           "updatedAt": "2024-10-21T23:05:17Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-08-22T04:27:11Z",
-          "downloads": 562,
-          "endorsements": 34,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -763,32 +399,15 @@
           "status": "published",
           "summary": "Is removing all automatic mapping from the game a good idea? Probably not. But this mod does just that.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45981/45981-1534911540-2141378725.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45981/45981-1534911540-2141378725.jpeg",
           "uid": "429496775581",
           "updatedAt": "2020-05-04T03:12:41Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-29T02:37:29Z",
-          "downloads": 9783,
-          "endorsements": 461,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -798,32 +417,15 @@
           "status": "published",
           "summary": "This module makes it so that when the player or the player's companions are attacked, any companions will launch into action in defense.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45717/45717-1527561232-849078590.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45717/45717-1527561232-849078590.jpeg",
           "uid": "429496775317",
           "updatedAt": "2021-07-06T11:51:26Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-28T23:04:10Z",
-          "downloads": 42466,
-          "endorsements": 1318,
           "fileSize": 8,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -833,32 +435,15 @@
           "status": "published",
           "summary": "Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45712/45712-1527548331-1689608109.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45712/45712-1527548331-1689608109.jpeg",
           "uid": "429496775312",
           "updatedAt": "2021-07-06T11:53:58Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-28T18:13:57Z",
-          "downloads": 10253,
-          "endorsements": 219,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -868,32 +453,15 @@
           "status": "published",
           "summary": "Changes the difficulty slider as the player levels up or moves through the world.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45710/45710-1527530952-869242414.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45710/45710-1527530952-869242414.jpeg",
           "uid": "429496775310",
           "updatedAt": "2019-04-10T05:54:51Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-25T03:38:48Z",
-          "downloads": 1950,
-          "endorsements": 99,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -903,32 +471,15 @@
           "status": "published",
           "summary": "This mod allows you to configure the rate at which skills level in a way that is more detailed than the simple game settings.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45697/45697-1527219346-779211797.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45697/45697-1527219346-779211797.png",
           "uid": "429496775297",
           "updatedAt": "2018-05-25T03:38:48Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-25T02:58:24Z",
-          "downloads": 18135,
-          "endorsements": 407,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -938,32 +489,15 @@
           "status": "published",
           "summary": "This simple mod provides an in-game HUD element as the game approaches critical memory limits.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45696/45696-1527216984-1967236684.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45696/45696-1527216984-1967236684.jpeg",
           "uid": "429496775296",
           "updatedAt": "2021-09-27T01:50:43Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-17T21:56:29Z",
-          "downloads": 491,
-          "endorsements": 33,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -973,32 +507,15 @@
           "status": "published",
           "summary": "A simple permadeath mod for Morrowind. When you create a new character, you will be allowed to choose the number of lives the character has (defaults to 1). When the character",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45672/45672-1526593808-1981019009.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45672/45672-1526593808-1981019009.jpeg",
           "uid": "429496775272",
           "updatedAt": "2018-05-17T21:56:29Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-14T00:04:58Z",
-          "downloads": 2712,
-          "endorsements": 189,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 25,
             "name": "Audio"
@@ -1008,32 +525,15 @@
           "status": "published",
           "summary": "Ever think that it's a bit creepy that there are souls trapped just there, on your desk? Would it be even creepier if the souls spoke from beyond the grave? This mod makes them do",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45657/45657-1526256257-924325996.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45657/45657-1526256257-924325996.jpeg",
           "uid": "429496775257",
           "updatedAt": "2018-05-14T00:04:58Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-06T06:02:21Z",
-          "downloads": 38211,
-          "endorsements": 988,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -1043,32 +543,15 @@
           "status": "published",
           "summary": "Have issues with the game crashing on exit? This might help!",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45634/45634-1525585986-964557827.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45634/45634-1525585986-964557827.jpeg",
           "uid": "429496775234",
           "updatedAt": "2021-11-06T23:05:45Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-04T18:07:07Z",
-          "downloads": 16164,
-          "endorsements": 380,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1078,32 +561,15 @@
           "status": "published",
           "summary": "This mod provides a very simple, generic-case auto-harvesting for organic containers in Morrowind.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45627/45627-1525456571-1040440194.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45627/45627-1525456571-1040440194.jpeg",
           "uid": "429496775227",
           "updatedAt": "2019-04-10T09:59:34Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-03T21:09:56Z",
-          "downloads": 12385,
-          "endorsements": 303,
           "fileSize": 15,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1113,32 +579,15 @@
           "status": "published",
           "summary": "Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45624/45624-1531395934-67949792.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45624/45624-1531395934-67949792.jpeg",
           "uid": "429496775224",
           "updatedAt": "2022-01-11T02:26:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-01T08:03:44Z",
-          "downloads": 22756,
-          "endorsements": 741,
           "fileSize": 7,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -1148,32 +597,15 @@
           "status": "published",
           "summary": "This mod changes how saves are handled by Morrowind. The goal of the mod is to provide more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45608/45608-1525161687-1397599004.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45608/45608-1525161687-1397599004.jpeg",
           "uid": "429496775208",
           "updatedAt": "2021-07-06T11:56:23Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-03-28T22:34:23Z",
-          "downloads": 12532,
-          "endorsements": 86,
           "fileSize": 163,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 17,
             "name": "Modders Resources and Tutorials"
@@ -1183,32 +615,15 @@
           "status": "published",
           "summary": "This shows the player's name, race, class, level, and location to the popular app, Discord.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45550/45550-1522276357-210182808.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45550/45550-1522276357-210182808.png",
           "uid": "429496775150",
           "updatedAt": "2018-08-09T14:19:41Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-02-09T21:10:50Z",
-          "downloads": 171784,
-          "endorsements": 6294,
           "fileSize": 388,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -1218,32 +633,15 @@
           "status": "published",
           "summary": "A complete rewrite of Morrowind Script Extender, featuring new functionality and increased performance.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45468/45468-1518232296-534256926.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45468/45468-1518232296-534256926.jpeg",
           "uid": "429496775068",
           "updatedAt": "2021-06-20T23:40:43Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2016-01-08T21:47:56Z",
-          "downloads": 1373,
-          "endorsements": 60,
           "fileSize": 1841,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -1253,18 +651,8 @@
           "status": "published",
           "summary": "Patches and compatibility fixes for MDP.",
           "thumbnailUrl": null,
-          "thumbnailBlurredUrl": null,
           "uid": "429496773624",
           "updatedAt": "2017-11-11T07:20:09Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/26153919/100",
-            "memberId": 26153919,
-            "name": "NullCascade"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

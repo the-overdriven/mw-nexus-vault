@@ -10,14 +10,7 @@
         {
           "adultContent": false,
           "createdAt": "2024-12-22T15:02:09Z",
-          "downloads": 1496,
-          "endorsements": 37,
           "fileSize": 621,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -27,32 +20,15 @@
           "status": "published",
           "summary": "Shows comprehensive information about game quests and adds quest markers to the game. The information is generated dynamically based on your mods. Has many settings and the ability",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55593/55593-1734509196-1995167322.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55593/55593-1734509196-1995167322.png",
           "uid": "429496785193",
           "updatedAt": "2025-05-06T17:13:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-22T14:59:44Z",
-          "downloads": 1300,
-          "endorsements": 25,
           "fileSize": 23,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -62,32 +38,15 @@
           "status": "published",
           "summary": "Lua library to create map markers for MWSE",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55602/55602-1734596955-858941517.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55602/55602-1734596955-858941517.png",
           "uid": "429496785202",
           "updatedAt": "2025-05-11T18:34:42Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-05-11T13:05:07Z",
-          "downloads": 505,
-          "endorsements": 12,
           "fileSize": 39,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -97,32 +56,15 @@
           "status": "published",
           "summary": "Allows you to respawn after death with or without penalties. And your dead body can spawn at the place of death. Almost all aspects of the mod are highly customizable.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54616/54616-1715260683-1543746462.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54616/54616-1715260683-1543746462.png",
           "uid": "429496784216",
           "updatedAt": "2025-05-09T17:09:10Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-05-11T05:51:44Z",
-          "downloads": 62,
-          "endorsements": 4,
           "fileSize": 29,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -132,32 +74,15 @@
           "status": "published",
           "summary": "Spawns bodies of your fallen characters from other playthroughs. With (or without) their inventory items. But the items have lower stats and unique IDs (to prevent abuse).",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54622/54622-1742727257-946527578.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54622/54622-1742727257-946527578.jpeg",
           "uid": "429496784222",
           "updatedAt": "2024-05-11T05:51:44Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-09-24T11:06:19Z",
-          "downloads": 228,
-          "endorsements": 8,
           "fileSize": 9,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -167,32 +92,15 @@
           "status": "published",
           "summary": "A mod that randomizes where you start the game.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53514/53514-1695382358-1794807873.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53514/53514-1695382358-1794807873.png",
           "uid": "429496783114",
           "updatedAt": "2023-10-21T11:39:18Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-09-03T11:53:35Z",
-          "downloads": 228,
-          "endorsements": 9,
           "fileSize": 14,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -202,32 +110,15 @@
           "status": "published",
           "summary": "After activating a door, the mod will randomly teleport you to the destination of another door.Also it can change the destination of the exit door and save any new destination for",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53455/53455-1694804506-1352154307.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53455/53455-1694804506-1352154307.png",
           "uid": "429496783055",
           "updatedAt": "2024-03-11T14:33:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-09-03T11:53:24Z",
-          "downloads": 604,
-          "endorsements": 17,
           "fileSize": 178,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -237,32 +128,15 @@
           "status": "published",
           "summary": "A randomizer for items in inventories and containers, creature spawns, exterior static objects and more.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53454/53454-1694804604-877073007.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53454/53454-1694804604-877073007.png",
           "uid": "429496783054",
           "updatedAt": "2024-08-11T06:02:41Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-03-22T15:11:39Z",
-          "downloads": 856,
-          "endorsements": 22,
           "fileSize": 367,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -272,18 +146,8 @@
           "status": "published",
           "summary": "A highly customizable MWSE mod that can randomize many game elements.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52534/52534-1679496764-840822247.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52534/52534-1679496764-840822247.png",
           "uid": "429496782134",
           "updatedAt": "2024-07-30T07:57:50Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60333061/100",
-            "memberId": 60333061,
-            "name": "Diject"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

@@ -64,8 +64,6 @@ for (const uploaderName of modAuthors) {
           facetsData
           nodes {
             ...ModFragment
-            isBlockedFromEarningDp
-            viewerBlocked
           }
           totalCount
         }
@@ -86,11 +84,6 @@ for (const uploaderName of modAuthors) {
         thumbnailUrl
         uid
         updatedAt
-        uploader {
-          avatar
-          memberId
-          name
-        }
       }
     `,
     variables: {
@@ -120,7 +113,6 @@ for (const uploaderName of modAuthors) {
     })
 
     const data = await res.json()
-    console.log(data.data.mods.nodes)
 
     fs.writeFileSync(outputFile, JSON.stringify(data, null, 2))
     console.log(`✅ Saved data for ${uploaderName} to ${outputFile}`)

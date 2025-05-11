@@ -10,14 +10,7 @@
         {
           "adultContent": false,
           "createdAt": "2025-05-10T12:19:43Z",
-          "downloads": 56,
-          "endorsements": 2,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -27,32 +20,15 @@
           "status": "published",
           "summary": "Restores the outdoor markets in Firewatch. This will impact your FPS in the Firewatch exterior cells when installed.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56550/56550-1746879170-1676561125.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56550/56550-1746879170-1676561125.jpeg",
           "uid": "429496786150",
           "updatedAt": "2025-05-10T12:19:43Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2025-05-07T19:40:05Z",
-          "downloads": 798,
-          "endorsements": 7,
           "fileSize": 588,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -62,32 +38,15 @@
           "status": "published",
           "summary": "Changes the non-combustible vanilla logs to combustible ones. The new meshes are using a glowmap and some UV animation to give the illusion to be actually on fire.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56516/56516-1746646538-2096046648.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56516/56516-1746646538-2096046648.jpeg",
           "uid": "429496786116",
           "updatedAt": "2025-05-07T19:40:05Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2025-02-09T23:33:37Z",
-          "downloads": 432,
-          "endorsements": 21,
           "fileSize": 355,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -97,32 +56,15 @@
           "status": "published",
           "summary": "Investigating a ruined Talos statue on Solstheim leads to visions of an ancient battle and a lost relic. Follow the trail, face the trials, and prove yourself worthy of Talos'",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55969/55969-1740408417-679014750.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55969/55969-1740408417-679014750.jpeg",
           "uid": "429496785569",
           "updatedAt": "2025-03-03T15:08:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2025-01-05T23:24:57Z",
-          "downloads": 318,
-          "endorsements": 24,
           "fileSize": 204,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -132,32 +74,15 @@
           "status": "published",
           "summary": "Light a candle, whisper a prayer, and let fate decide. Will the gods grant you their blessing? Bring devotion to life with Light a Candle!",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55731/55731-1736119344-132999191.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55731/55731-1736119344-132999191.jpeg",
           "uid": "429496785331",
           "updatedAt": "2025-01-06T08:19:46Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-30T20:45:53Z",
-          "downloads": 9283,
-          "endorsements": 54,
           "fileSize": 26,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -167,32 +92,15 @@
           "status": "published",
           "summary": "Adds icons for faction quests and location specific icons for the misc quests.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55688/55688-1735591079-386362339.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55688/55688-1735591079-386362339.jpeg",
           "uid": "429496785288",
           "updatedAt": "2025-03-16T13:37:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-30T00:31:24Z",
-          "downloads": 501,
-          "endorsements": 27,
           "fileSize": 56,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -202,32 +110,15 @@
           "status": "published",
           "summary": "Travel Anvil in comfort and ride a rickshaw today!",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55684/55684-1735517114-1761049962.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55684/55684-1735517114-1761049962.jpeg",
           "uid": "429496785284",
           "updatedAt": "2025-05-10T12:49:57Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-27T12:56:15Z",
-          "downloads": 7442,
-          "endorsements": 42,
           "fileSize": 591,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -237,32 +128,15 @@
           "status": "published",
           "summary": "Changes the non-combustible vanilla logs to combustible ones. The new meshes are using a glowmap and some UV animation to give the illusion to be actually on fire.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55665/55665-1735303777-1331491692.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55665/55665-1735303777-1331491692.jpeg",
           "uid": "429496785265",
           "updatedAt": "2025-05-07T20:46:18Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-25T14:34:49Z",
-          "downloads": 9244,
-          "endorsements": 43,
           "fileSize": 573,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -272,32 +146,15 @@
           "status": "published",
           "summary": "Changes the non-combustible vanilla logs to combustible ones. The new meshes are using a glowmap and some UV animation to give the illusion to be actually on fire.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55647/55647-1735136834-1940875664.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55647/55647-1735136834-1940875664.jpeg",
           "uid": "429496785247",
           "updatedAt": "2024-12-25T14:34:49Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-24T00:21:21Z",
-          "downloads": 833,
-          "endorsements": 45,
           "fileSize": 418,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -307,32 +164,15 @@
           "status": "published",
           "summary": "Aid pilgrims in need across Vvardenfell with unique quests, choices, and rewards.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55639/55639-1735076563-1240387925.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55639/55639-1735076563-1240387925.png",
           "uid": "429496785239",
           "updatedAt": "2024-12-31T14:14:27Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-03T22:32:33Z",
-          "downloads": 860,
-          "endorsements": 51,
           "fileSize": 178,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -342,32 +182,15 @@
           "status": "published",
           "summary": "Uncover the mystery behind a stolen masterpiece perfume in a questline filled with intrigue, choices, and unique rewards. Will you restore justice, or strike a profitable deal?",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55529/55529-1733263404-782812878.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55529/55529-1733263404-782812878.png",
           "uid": "429496785129",
           "updatedAt": "2024-12-10T19:37:58Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-08-26T19:11:29Z",
-          "downloads": 2749,
-          "endorsements": 129,
           "fileSize": 91,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -377,32 +200,15 @@
           "status": "published",
           "summary": "This carefully crafted mod introduces an Imperial lighthouse that stands tall and proud in the heart of Ebonheart's harbor.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53417/53417-1693076488-1810608219.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53417/53417-1693076488-1810608219.jpeg",
           "uid": "429496783017",
           "updatedAt": "2023-08-26T19:11:29Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-08-02T23:40:51Z",
-          "downloads": 1117,
-          "endorsements": 81,
           "fileSize": 2067,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 29,
             "name": "Overhauls"
@@ -412,32 +218,15 @@
           "status": "published",
           "summary": "Transform Suran's apothecary into a lush haven of alchemical wonders.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53332/53332-1691018522-79687262.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53332/53332-1691018522-79687262.png",
           "uid": "429496782932",
           "updatedAt": "2024-11-24T12:25:27Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-07-30T22:29:41Z",
-          "downloads": 15711,
-          "endorsements": 203,
           "fileSize": 1663,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -447,32 +236,15 @@
           "status": "published",
           "summary": "A breathtaking mod that introduces captivating vertical gardens to the heart of the bustling city of Suran!",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53316/53316-1690755268-1738487135.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53316/53316-1690755268-1738487135.jpeg",
           "uid": "429496782916",
           "updatedAt": "2024-11-22T13:18:20Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-02-05T22:31:49Z",
-          "downloads": 30038,
-          "endorsements": 315,
           "fileSize": 1949,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -482,32 +254,15 @@
           "status": "published",
           "summary": "A lighthouse has been added to the North-West of Dagon Fel. Meet Vigunn, the Nord lighthousekeeper.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52291/52291-1675806992-1414995248.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52291/52291-1675806992-1414995248.jpeg",
           "uid": "429496781891",
           "updatedAt": "2023-02-14T19:02:46Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-12-19T22:10:08Z",
-          "downloads": 195,
-          "endorsements": 27,
           "fileSize": 46141,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -517,32 +272,15 @@
           "status": "published",
           "summary": "The town of Seyda Neen has been preparing for the annual Saturalia festival. Sip some Glühwein, get your Saturalia sweater and join in the fun with the locals. But keep an eye out,",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52079/52079-1671481571-1164011482.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52079/52079-1671481571-1164011482.jpeg",
           "uid": "429496781679",
           "updatedAt": "2024-12-07T13:30:13Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-12-03T19:16:59Z",
-          "downloads": 43848,
-          "endorsements": 387,
           "fileSize": 104,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -552,32 +290,15 @@
           "status": "published",
           "summary": "A Velothi lighthouse has been added to the peninsula south of Ebonheart. Now the ships can safely navigate to the docks at the city of Vivec.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52019/52019-1670092378-1554578115.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52019/52019-1670092378-1554578115.jpeg",
           "uid": "429496781619",
           "updatedAt": "2022-12-03T19:16:59Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-11-01T15:30:20Z",
-          "downloads": 5334,
-          "endorsements": 151,
           "fileSize": 8459,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -587,32 +308,15 @@
           "status": "published",
           "summary": "Embark on a set of unique adventures by helping out Yul Marshee complete her collection of lost treasures and assist her in building a bizarre Dwemer contraption.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51936/51936-1667250500-1967091212.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51936/51936-1667250500-1967091212.png",
           "uid": "429496781536",
           "updatedAt": "2022-11-18T00:10:46Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-08-22T18:56:49Z",
-          "downloads": 1080,
-          "endorsements": 88,
           "fileSize": 138,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -622,32 +326,15 @@
           "status": "published",
           "summary": "Overhauls Thongar's Tradehouse in Khuul to be more unique.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51761/51761-1661517832-1099299203.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51761/51761-1661517832-1099299203.jpeg",
           "uid": "429496781361",
           "updatedAt": "2022-08-26T12:42:08Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-08-19T19:27:25Z",
-          "downloads": 19442,
-          "endorsements": 275,
           "fileSize": 607,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -657,32 +344,15 @@
           "status": "published",
           "summary": "Changes the non-combustible vanilla logs to combustible ones. The new meshes are using a glowmap and some UV animation to give the illusion to be actually on fire.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51752/51752-1735200646-833817604.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51752/51752-1735200646-833817604.jpeg",
           "uid": "429496781352",
           "updatedAt": "2024-11-19T21:06:25Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-08-10T22:25:55Z",
-          "downloads": 1088,
-          "endorsements": 65,
           "fileSize": 521,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -692,32 +362,15 @@
           "status": "published",
           "summary": "Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51716/51716-1660169474-754046073.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51716/51716-1660169474-754046073.jpeg",
           "uid": "429496781316",
           "updatedAt": "2022-08-13T07:42:25Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-08-07T20:55:12Z",
-          "downloads": 2133,
-          "endorsements": 172,
           "fileSize": 137,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -727,32 +380,15 @@
           "status": "published",
           "summary": "Overhauls the pit area in the Lower Waistworks of the Foreign Quarter in Vivec to a cozy flea market with custom, OAAB and vanilla assets.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51700/51700-1659963972-1998769596.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51700/51700-1659963972-1998769596.jpeg",
           "uid": "429496781300",
           "updatedAt": "2022-08-08T13:00:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-07-10T18:46:46Z",
-          "downloads": 1491,
-          "endorsements": 114,
           "fileSize": 276,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -762,32 +398,15 @@
           "status": "published",
           "summary": "An overhaul of the Ald Velothi outpost to give it a unique look.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51590/51590-1657478291-1888819206.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51590/51590-1657478291-1888819206.jpeg",
           "uid": "429496781190",
           "updatedAt": "2022-11-05T19:17:31Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-05-26T19:56:20Z",
-          "downloads": 5943,
-          "endorsements": 284,
           "fileSize": 1491,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -797,32 +416,15 @@
           "status": "published",
           "summary": "An overhaul of the Odai river canal in Balmora and new sewersystem.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51327/51327-1653428094-1437596763.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51327/51327-1653428094-1437596763.jpeg",
           "uid": "429496780927",
           "updatedAt": "2022-06-29T13:08:17Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-05-01T08:37:54Z",
-          "downloads": 18,
-          "endorsements": 4,
           "fileSize": 28,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -832,18 +434,8 @@
           "status": "published",
           "summary": "This mod puts a smile on a rockface.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51065/51065-1651393855-838249875.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51065/51065-1651393855-838249875.jpeg",
           "uid": "429496780665",
           "updatedAt": "2022-05-01T08:37:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4462276/100",
-            "memberId": 4462276,
-            "name": "mwgek"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

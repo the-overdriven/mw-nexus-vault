@@ -10,14 +10,7 @@
         {
           "adultContent": false,
           "createdAt": "2022-05-15T22:41:07Z",
-          "downloads": 1980,
-          "endorsements": 126,
           "fileSize": 35,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -27,32 +20,15 @@
           "status": "published",
           "summary": "Adds NPC services for recharging enchanted items, deciphering magic scrolls and the option to transcribe magic scrolls, both by the player, and through a service. Adds empty",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51249/51249-1652649778-323391365.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51249/51249-1652649778-323391365.png",
           "uid": "429496780849",
           "updatedAt": "2025-01-30T16:57:44Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-09-26T18:33:05Z",
-          "downloads": 5333,
-          "endorsements": 98,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -62,32 +38,15 @@
           "status": "published",
           "summary": "Automatically adds resistances to diseases and poisons when wearing a closed helmet. This is mostly to make traveling in a blight storm more immersive while wearing a helmet with a",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50280/50280-1632675648-486536032.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50280/50280-1632675648-486536032.png",
           "uid": "429496779880",
           "updatedAt": "2024-01-10T23:46:21Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-08-30T19:34:29Z",
-          "downloads": 1320,
-          "endorsements": 93,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -97,32 +56,15 @@
           "status": "published",
           "summary": "Using MWSE-Lua Automatically changes the Ignore normal weapon resistance flag for all enchanted weapons and ammunition to be the same as an unenchanted item with the same mesh.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50194/50194-1632692742-1964580257.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50194/50194-1632692742-1964580257.png",
           "uid": "429496779794",
           "updatedAt": "2021-09-14T16:37:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-05-02T22:48:42Z",
-          "downloads": 895,
-          "endorsements": 104,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -132,32 +74,15 @@
           "status": "published",
           "summary": "Adds a new button to the barter menu which allows you to try clothing and armor before paying for it. Requires MWSE.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49647/49647-1619989761-533511887.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49647/49647-1619989761-533511887.png",
           "uid": "429496779247",
           "updatedAt": "2021-05-29T13:52:29Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-06-01T21:02:39Z",
-          "downloads": 21588,
-          "endorsements": 733,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -167,32 +92,15 @@
           "status": "published",
           "summary": "Adds tooltips to shrines on hovering over the different options, describing the effects a blessing has",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48275/48275-1591045032-1902318070.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48275/48275-1591045032-1902318070.png",
           "uid": "429496777875",
           "updatedAt": "2024-01-20T11:31:04Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-06-01T16:58:46Z",
-          "downloads": 23271,
-          "endorsements": 675,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -202,32 +110,15 @@
           "status": "published",
           "summary": "Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48272/48272-1591030268-1560145078.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48272/48272-1591030268-1560145078.png",
           "uid": "429496777872",
           "updatedAt": "2021-08-22T13:35:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-15T16:11:54Z",
-          "downloads": 17067,
-          "endorsements": 403,
           "fileSize": 9,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -237,32 +128,15 @@
           "status": "published",
           "summary": "Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48055/48055-1589558169-117848322.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48055/48055-1589558169-117848322.png",
           "uid": "429496777655",
           "updatedAt": "2025-03-07T21:40:07Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-05T12:24:15Z",
-          "downloads": 18874,
-          "endorsements": 566,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -272,32 +146,15 @@
           "status": "published",
           "summary": "Adds a fillbar that shows the currently equipped weapon's charge under the weapon condition bar on the HUD. Requires MWSE 2.1",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47962/47962-1588679324-1058335258.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47962/47962-1588679324-1058335258.png",
           "uid": "429496777562",
           "updatedAt": "2021-04-23T11:17:03Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-08-15T16:57:13Z",
-          "downloads": 13342,
-          "endorsements": 438,
           "fileSize": 14,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -307,32 +164,15 @@
           "status": "published",
           "summary": "An overhaul of the mark and recall system using MWSE 2.1 to allow: - Multiple mark locations, even from other mods. Teleport companions to your location. Limit number of marks by",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47065/47065-1565874363-2104879205.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47065/47065-1565874363-2104879205.png",
           "uid": "429496776665",
           "updatedAt": "2025-03-22T13:41:40Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-06T18:46:12Z",
-          "downloads": 1887,
-          "endorsements": 126,
           "fileSize": 7,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -342,18 +182,8 @@
           "status": "published",
           "summary": "Adds many containers and other miscellaneous items to the town of Seyda Neen, to make it feel like people are actually living there.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46703/46703-1557166247-1340098994.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46703/46703-1557166247-1340098994.jpeg",
           "uid": "429496776303",
           "updatedAt": "2019-05-07T09:42:14Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/68510382/100",
-            "memberId": 68510382,
-            "name": "Virnetch"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

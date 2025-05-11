@@ -10,14 +10,7 @@
         {
           "adultContent": false,
           "createdAt": "2022-05-25T07:49:00Z",
-          "downloads": 1827,
-          "endorsements": 113,
           "fileSize": 110420,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -27,32 +20,15 @@
           "status": "published",
           "summary": "Overhauls the Andavel Ancestral Tomb and nearby Assumanu caverns, expanding on existing content as well as adding an optional objective.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51326/51326-1653453212-2000128161.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51326/51326-1653453212-2000128161.png",
           "uid": "429496780926",
           "updatedAt": "2022-05-25T07:49:00Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-06-01T07:31:08Z",
-          "downloads": 13242,
-          "endorsements": 218,
           "fileSize": 1518,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -62,32 +38,15 @@
           "status": "published",
           "summary": "Implements the cut village of Ald Redaynia and overhauls the nearby Velothi tower it's named for, expanding on existing content as well as adding an optional unmarked quest.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49862/49862-1622210633-957801421.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49862/49862-1622210633-957801421.png",
           "uid": "429496779462",
           "updatedAt": "2021-06-01T07:31:08Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-05-17T04:45:59Z",
-          "downloads": 9526,
-          "endorsements": 155,
           "fileSize": 53,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -97,32 +56,15 @@
           "status": "published",
           "summary": "Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49799/49799-1621224082-1230394091.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49799/49799-1621224082-1230394091.png",
           "uid": "429496779399",
           "updatedAt": "2021-05-17T04:45:59Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-05-15T11:02:09Z",
-          "downloads": 30406,
-          "endorsements": 828,
           "fileSize": 21529,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 25,
             "name": "Audio"
@@ -132,32 +74,15 @@
           "status": "published",
           "summary": "CSO is a dynamic, customizable sound overhaul of the movement, combat, magic, and item sounds of Morrowind. Including terrain-based footsteps, armor clanking, journal update",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49654/49654-1620019229-1287631691.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49654/49654-1620019229-1287631691.png",
           "uid": "429496779254",
           "updatedAt": "2025-04-20T04:10:31Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-13T13:53:33Z",
-          "downloads": 11803,
-          "endorsements": 235,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 33,
             "name": "Magic"
@@ -167,32 +92,15 @@
           "status": "published",
           "summary": "Visually Trapped Objects applies the enchanted effect to any doors or containers with traps",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48936/48936-1602596747-672164238.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48936/48936-1602596747-672164238.jpeg",
           "uid": "429496778536",
           "updatedAt": "2024-11-29T18:27:35Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-08-17T11:43:22Z",
-          "downloads": 1456,
-          "endorsements": 85,
           "fileSize": 3144,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -202,32 +110,15 @@
           "status": "published",
           "summary": "Ashlanders Herd provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48720/48720-1597664329-1441974761.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48720/48720-1597664329-1441974761.png",
           "uid": "429496778320",
           "updatedAt": "2020-08-17T11:43:22Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-06-03T05:12:42Z",
-          "downloads": 21976,
-          "endorsements": 337,
           "fileSize": 52,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -237,32 +128,15 @@
           "status": "published",
           "summary": "A collection of smaller mods that don't warrant their own pages.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48291/48291-1591160881-1086344274.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48291/48291-1591160881-1086344274.png",
           "uid": "429496777891",
           "updatedAt": "2021-08-08T10:40:22Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-06-01T12:44:02Z",
-          "downloads": 24488,
-          "endorsements": 646,
           "fileSize": 20,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -272,32 +146,15 @@
           "status": "published",
           "summary": "Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48267/48267-1593610901-1398876121.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48267/48267-1593610901-1398876121.jpeg",
           "uid": "429496777867",
           "updatedAt": "2024-08-22T15:56:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-25T05:05:15Z",
-          "downloads": 21822,
-          "endorsements": 587,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -307,32 +164,15 @@
           "status": "published",
           "summary": "MWSE Magicka Regen provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48129/48129-1590382931-1956411179.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48129/48129-1590382931-1956411179.jpeg",
           "uid": "429496777729",
           "updatedAt": "2020-06-23T14:42:12Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-15T14:05:24Z",
-          "downloads": 3115,
-          "endorsements": 224,
           "fileSize": 4887,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -342,32 +182,15 @@
           "status": "published",
           "summary": "MWSE Blood Diversity provides a variety of new configurable blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47913/47913-1589460043-946469888.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47913/47913-1589460043-946469888.png",
           "uid": "429496777513",
           "updatedAt": "2021-03-10T07:51:58Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-04T13:53:37Z",
-          "downloads": 30905,
-          "endorsements": 333,
           "fileSize": 1331,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -377,32 +200,15 @@
           "status": "published",
           "summary": "Strider Burial is an overhaul of the area containing a few Strider husks East of Urshilaku Camp, turning the zone in a small Silt Strider graveyard complete with an optional",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47661/47661-1583307871-420192518.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47661/47661-1583307871-420192518.png",
           "uid": "429496777261",
           "updatedAt": "2020-05-18T09:20:24Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-02-10T07:43:25Z",
-          "downloads": 542,
-          "endorsements": 48,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -412,32 +218,15 @@
           "status": "published",
           "summary": "Restrictive Saving is a simple, configurable immersion and challenge mod that allows saving only when resting, once a day, forbids saving altogether, or prevents the player from",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47584/47584-1581320160-31061510.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47584/47584-1581320160-31061510.jpeg",
           "uid": "429496777184",
           "updatedAt": "2020-06-03T12:23:12Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-31T13:46:11Z",
-          "downloads": 28014,
-          "endorsements": 826,
           "fileSize": 127,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -447,18 +236,8 @@
           "status": "published",
           "summary": "Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46842/46842-1559228612-1774040276.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46842/46842-1559228612-1774040276.jpeg",
           "uid": "429496776442",
           "updatedAt": "2024-08-21T16:48:31Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/60236996/100",
-            "memberId": 60236996,
-            "name": "Anumaril21"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

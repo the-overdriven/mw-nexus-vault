@@ -13,14 +13,7 @@
         {
           "adultContent": false,
           "createdAt": "2025-05-01T15:18:52Z",
-          "downloads": 138,
-          "endorsements": 7,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -30,32 +23,15 @@
           "status": "published",
           "summary": "The mod you didn't know you needed ;-)",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56458/56458-1746110755-110994367.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/56/56458/56458-1746110755-110994367.png",
           "uid": "429496786058",
           "updatedAt": "2025-05-01T15:18:52Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-12-16T20:01:08Z",
-          "downloads": 73,
-          "endorsements": 6,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -65,32 +41,15 @@
           "status": "published",
           "summary": "Click on a quick key slot to use it, Shift+click to assign it to a spell, magic item or inventory item.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55598/55598-1734378254-655780215.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55598/55598-1734378254-655780215.png",
           "uid": "429496785198",
           "updatedAt": "2024-12-16T20:01:08Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-09-25T12:50:01Z",
-          "downloads": 173,
-          "endorsements": 15,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -100,32 +59,15 @@
           "status": "published",
           "summary": "Allow to jump from crouching position (giving player a temporary Acrobatics buff in the process).",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55258/55258-1727267714-1649572023.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55258/55258-1727267714-1649572023.png",
           "uid": "429496784858",
           "updatedAt": "2024-09-25T12:50:01Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-09-22T09:02:18Z",
-          "downloads": 214,
-          "endorsements": 15,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -135,32 +77,15 @@
           "status": "published",
           "summary": "Change Player Point Of View/Zoom by scrolling mouse wheel.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55243/55243-1726995664-2014571906.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55243/55243-1726995664-2014571906.png",
           "uid": "429496784843",
           "updatedAt": "2025-03-02T21:32:37Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-05-29T16:22:10Z",
-          "downloads": 1218,
-          "endorsements": 51,
           "fileSize": 25,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -170,32 +95,15 @@
           "status": "published",
           "summary": "Dynamic loading doors locking according to time of day cycle, location, faction, disposition...Meant as a more general/dynamic replacement of Living Cities of Vvardenfell Locks",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54754/54754-1716996739-593538712.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54754/54754-1716996739-593538712.png",
           "uid": "429496784354",
           "updatedAt": "2025-04-21T12:37:05Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-05-12T17:01:46Z",
-          "downloads": 502,
-          "endorsements": 21,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -205,32 +113,15 @@
           "status": "published",
           "summary": "Use the defined Sorting Order Key/Right Mouse Click Combos to select Inventory/Contents/Barter items secondary sorting order.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54637/54637-1715532807-2096934215.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54637/54637-1715532807-2096934215.png",
           "uid": "429496784237",
           "updatedAt": "2024-09-05T13:32:35Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-05-10T18:53:21Z",
-          "downloads": 67,
-          "endorsements": 5,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -240,32 +131,15 @@
           "status": "published",
           "summary": "Makes MCM DropDown CUA (Common User Access) compliant displaying in the dropdown list all the available options (included the currently selected one)",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54623/54623-1715365312-588802048.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54623/54623-1715365312-588802048.png",
           "uid": "429496784223",
           "updatedAt": "2024-06-11T16:51:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-07T10:53:21Z",
-          "downloads": 781,
-          "endorsements": 38,
           "fileSize": 8,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -275,32 +149,15 @@
           "status": "published",
           "summary": "try and fix bad-behaved MWSE-Lua sound replacer mods and playSound function",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54423/54423-1712486594-104326761.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54423/54423-1712486594-104326761.png",
           "uid": "429496784023",
           "updatedAt": "2025-02-05T11:16:21Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-14T22:26:42Z",
-          "downloads": 265,
-          "endorsements": 10,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -310,32 +167,15 @@
           "status": "published",
           "summary": "Press Shift while clicking a dialog topic to log/paste to clipboard the dialog INFOPress Shift while activating an actor to log to MWSE.log/paste to clipboard the next dialog",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54280/54280-1710454643-1281918874.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54280/54280-1710454643-1281918874.png",
           "uid": "429496783880",
           "updatedAt": "2025-04-11T13:28:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-01-21T13:34:37Z",
-          "downloads": 265,
-          "endorsements": 15,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -345,32 +185,15 @@
           "status": "published",
           "summary": "only attack to/from player will trigger Battle music",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54021/54021-1705843485-600933743.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54021/54021-1705843485-600933743.png",
           "uid": "429496783621",
           "updatedAt": "2025-02-06T22:02:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-01-18T20:19:53Z",
-          "downloads": 198,
-          "endorsements": 17,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -380,32 +203,15 @@
           "status": "published",
           "summary": "Allow to automatically Disable/Delete pesky deprecated objects on the fly,including those obnoxious/immersion breaking inventory items labeled as \"deprecated/depreciated\".",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54003/54003-1705608824-1773074666.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54003/54003-1705608824-1773074666.png",
           "uid": "429496783603",
           "updatedAt": "2024-01-18T20:19:53Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-09-28T19:34:50Z",
-          "downloads": 312,
-          "endorsements": 23,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -415,32 +221,15 @@
           "status": "published",
           "summary": "A simple mod to rearrange player stats menu in one column so no screen space is wasted but things can be added to the scroller",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53556/53556-1695929250-275518057.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53556/53556-1695929250-275518057.png",
           "uid": "429496783156",
           "updatedAt": "2023-09-28T19:34:50Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-07-06T19:30:49Z",
-          "downloads": 291,
-          "endorsements": 23,
           "fileSize": 224,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -450,32 +239,15 @@
           "status": "published",
           "summary": "A MWSE-Lua mod to detect/tweak/fix other non-Lua mods I'm using",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53159/53159-1688671253-725948335.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53159/53159-1688671253-725948335.jpeg",
           "uid": "429496782759",
           "updatedAt": "2024-06-15T17:21:01Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-06-19T13:07:53Z",
-          "downloads": 264,
-          "endorsements": 23,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -485,32 +257,15 @@
           "status": "published",
           "summary": "Info about/open current playing music track",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53091/53091-1687180057-525162515.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53091/53091-1687180057-525162515.jpeg",
           "uid": "429496782691",
           "updatedAt": "2024-01-16T16:52:50Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-05-02T16:10:00Z",
-          "downloads": 810,
-          "endorsements": 38,
           "fileSize": 10,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -520,32 +275,15 @@
           "status": "published",
           "summary": "Dynamically/randomly locks/traps more (not yet interacted with) containers and doors",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52783/52783-1683043546-1547985484.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52783/52783-1683043546-1547985484.jpeg",
           "uid": "429496782383",
           "updatedAt": "2025-01-01T22:30:48Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-05-01T12:39:06Z",
-          "downloads": 1201,
-          "endorsements": 75,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -555,32 +293,15 @@
           "status": "published",
           "summary": "Hide/delete most grass statics references on the fly to be rendered as moving grass by MGE-XE instead.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52764/52764-1682943930-205526499.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52764/52764-1682943930-205526499.jpeg",
           "uid": "429496782364",
           "updatedAt": "2024-10-26T18:56:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-04-22T16:45:30Z",
-          "downloads": 127,
-          "endorsements": 18,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -590,32 +311,15 @@
           "status": "published",
           "summary": "Hotkeys to adjust player Running/Walking/Sneaking speed. + strafe fix toggle",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52715/52715-1682178634-1001636386.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52715/52715-1682178634-1001636386.jpeg",
           "uid": "429496782315",
           "updatedAt": "2023-04-22T17:08:05Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-04-15T12:22:32Z",
-          "downloads": 358,
-          "endorsements": 32,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -625,32 +329,15 @@
           "status": "published",
           "summary": "Makes MCM filter/Console text input clear by clicking the input text space.If you have UIExpansion installed it should  also work with most of UI Expansion text input filters",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52678/52678-1681560603-131396011.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52678/52678-1681560603-131396011.jpeg",
           "uid": "429496782278",
           "updatedAt": "2025-05-01T19:38:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-02-05T19:51:50Z",
-          "downloads": 9988,
-          "endorsements": 116,
           "fileSize": 226,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -660,32 +347,15 @@
           "status": "published",
           "summary": "Actors Footprints",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52284/52284-1675626221-118890036.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52284/52284-1675626221-118890036.png",
           "uid": "429496781884",
           "updatedAt": "2025-02-24T11:21:46Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-11-30T08:06:10Z",
-          "downloads": 17591,
-          "endorsements": 96,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -695,32 +365,15 @@
           "status": "published",
           "summary": "A simple replacer for the ugly deprecated  red cube meshes  making them invisible in game and such no more ruining player immersion",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51989/51989-1669321775-1863363278.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51989/51989-1669321775-1863363278.jpeg",
           "uid": "429496781589",
           "updatedAt": "2024-06-19T10:02:42Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-10-25T19:01:30Z",
-          "downloads": 3143,
-          "endorsements": 119,
           "fileSize": 17,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -730,32 +383,15 @@
           "status": "published",
           "summary": "Hostiles following through loading doors",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51919/51919-1666724190-768928665.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51919/51919-1666724190-768928665.jpeg",
           "uid": "429496781519",
           "updatedAt": "2025-04-29T13:19:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-10-22T15:57:11Z",
-          "downloads": 474,
-          "endorsements": 53,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -765,32 +401,15 @@
           "status": "published",
           "summary": "Try and fix non-detectable keys.Latest MWSE-Lua required",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51913/51913-1666452979-981990754.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51913/51913-1666452979-981990754.jpeg",
           "uid": "429496781513",
           "updatedAt": "2022-10-22T15:57:11Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-10-04T17:19:33Z",
-          "downloads": 643,
-          "endorsements": 64,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -800,32 +419,15 @@
           "status": "published",
           "summary": "Auto equip last equipped shield/parrying weapon on 1 handed weapon readied.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51874/51874-1664903453-886081511.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51874/51874-1664903453-886081511.jpeg",
           "uid": "429496781474",
           "updatedAt": "2022-10-04T17:19:33Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-09-15T15:11:27Z",
-          "downloads": 135,
-          "endorsements": 16,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -835,32 +437,15 @@
           "status": "published",
           "summary": "Marks with a suffix character (! by default) items you may want to keep/avoid selling, including:- keys counted/used to open something in game- player items counted in dialog",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51821/51821-1663254045-477380472.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51821/51821-1663254045-477380472.jpeg",
           "uid": "429496781421",
           "updatedAt": "2022-09-16T16:25:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-07-21T16:25:11Z",
-          "downloads": 1018,
-          "endorsements": 67,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -870,32 +455,15 @@
           "status": "published",
           "summary": "Lava and similar scripted damage sources should use fire damage instead.More realistic and also a fire atronach will no more die walking in lava.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51637/51637-1658420315-1201519123.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51637/51637-1658420315-1201519123.jpeg",
           "uid": "429496781237",
           "updatedAt": "2023-02-13T10:53:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-06-13T12:09:12Z",
-          "downloads": 1040,
-          "endorsements": 66,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -905,32 +473,15 @@
           "status": "published",
           "summary": "Player Made Magic RenameCTRL + Click to rename a player made spell or enchanted item from player magic menuCTRL + Equip on paperdoll to rename a player made constant enchanted item",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51484/51484-1655121916-644602310.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51484/51484-1655121916-644602310.jpeg",
           "uid": "429496781084",
           "updatedAt": "2024-02-26T21:09:40Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-06-11T08:20:46Z",
-          "downloads": 832,
-          "endorsements": 58,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -940,32 +491,15 @@
           "status": "published",
           "summary": "Rings are given enchanting tiers(1 = No Enchantment, 2 = On Use Enchantment, 3 = Constant Enchantment).When you have the maximum number of rings already equipped and you equip",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51471/51471-1654935072-1966611974.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/51/51471/51471-1654935072-1966611974.jpeg",
           "uid": "429496781071",
           "updatedAt": "2024-03-23T09:54:12Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-04-16T10:30:22Z",
-          "downloads": 247,
-          "endorsements": 27,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -975,32 +509,15 @@
           "status": "published",
           "summary": "on the fly darkening of any interior cell without per-cell customization/color storageNote: as cells light changes are cached per Morrowind.exe game session, changes done in the",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50988/50988-1650104911-2109662694.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50988/50988-1650104911-2109662694.jpeg",
           "uid": "429496780588",
           "updatedAt": "2024-07-20T11:32:57Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-03-31T15:21:02Z",
-          "downloads": 18956,
-          "endorsements": 380,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1010,32 +527,15 @@
           "status": "published",
           "summary": "Avoid actors getting stuck while opening doors",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50931/50931-1648739564-696721846.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50931/50931-1648739564-696721846.jpeg",
           "uid": "429496780531",
           "updatedAt": "2024-07-23T11:12:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-02-28T15:45:56Z",
-          "downloads": 249,
-          "endorsements": 30,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1045,32 +545,15 @@
           "status": "published",
           "summary": "A quick and dirty blocker for doors going nowhere.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50828/50828-1646062653-1057269946.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50828/50828-1646062653-1057269946.jpeg",
           "uid": "429496780428",
           "updatedAt": "2022-10-21T13:22:25Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-02-09T11:37:44Z",
-          "downloads": 894,
-          "endorsements": 76,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1080,32 +563,15 @@
           "status": "published",
           "summary": "This mod gives you two ways you can know the closest Intervention spell destination.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50752/50752-1644405858-724350521.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50752/50752-1644405858-724350521.jpeg",
           "uid": "429496780352",
           "updatedAt": "2024-02-27T20:32:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-01-31T19:51:42Z",
-          "downloads": 4728,
-          "endorsements": 117,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1115,32 +581,15 @@
           "status": "published",
           "summary": "Adds \"Give\" and \"Take\" buttons to any suitable actor/container, so you can easily move (all/all filtered) things in and out with Lua speed.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50716/50716-1643658497-285218477.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50716/50716-1643658497-285218477.jpeg",
           "uid": "429496780316",
           "updatedAt": "2024-09-19T08:15:33Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-12-21T20:58:13Z",
-          "downloads": 4642,
-          "endorsements": 101,
           "fileSize": 10,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1150,32 +599,15 @@
           "status": "published",
           "summary": "Actors menu to choose who to activate between nearby actors. Useful in crowded places. Also can make actors face player when activated, try and avoid actors having blinking eyes",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50558/50558-1640119619-176919078.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50558/50558-1640119619-176919078.jpeg",
           "uid": "429496780158",
           "updatedAt": "2024-07-11T07:10:55Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-10-14T21:43:31Z",
-          "downloads": 681,
-          "endorsements": 43,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1185,32 +617,15 @@
           "status": "published",
           "summary": "Gives birthsign abilities to NPCs, on combat start/when a follower is activated by player as this should cover any NPC potentially using them",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50337/50337-1634247749-1215921094.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50337/50337-1634247749-1215921094.jpeg",
           "uid": "429496779937",
           "updatedAt": "2024-03-25T14:43:22Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-09-04T13:27:27Z",
-          "downloads": 1582,
-          "endorsements": 78,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -1220,32 +635,15 @@
           "status": "published",
           "summary": "A MWSE-Lua MCM panel to see and copy to Windows clipboard your current standard mods loading order + your loaded MWSE-Lua mods, so you can easily paste it online in case of",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50214/50214-1630761711-1276911419.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50214/50214-1630761711-1276911419.jpeg",
           "uid": "429496779814",
           "updatedAt": "2021-12-16T11:53:53Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-08-05T17:25:07Z",
-          "downloads": 1234,
-          "endorsements": 73,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 6,
             "name": "Body, Face, and Hair"
@@ -1255,32 +653,15 @@
           "status": "published",
           "summary": "randomizes cloned NPCs standard heads",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50098/50098-1628184148-1903302171.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50098/50098-1628184148-1903302171.jpeg",
           "uid": "429496779698",
           "updatedAt": "2023-07-13T08:53:03Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-05-24T11:51:12Z",
-          "downloads": 19149,
-          "endorsements": 320,
           "fileSize": 32,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -1290,32 +671,15 @@
           "status": "published",
           "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49848/49848-1621855473-1234667770.jpeg",
           "uid": "429496779448",
           "updatedAt": "2025-04-17T10:57:33Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-25T17:43:20Z",
-          "downloads": 1412,
-          "endorsements": 94,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -1325,32 +689,15 @@
           "status": "published",
           "summary": "hotkeys for journal Quests and Topics",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48976/48976-1603647326-135328610.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48976/48976-1603647326-135328610.jpeg",
           "uid": "429496778576",
           "updatedAt": "2020-10-29T16:12:25Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-12T09:42:05Z",
-          "downloads": 1498,
-          "endorsements": 68,
           "fileSize": 71,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -1360,32 +707,15 @@
           "status": "published",
           "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48930/48930-1602494758-1296927970.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48930/48930-1602494758-1296927970.jpeg",
           "uid": "429496778530",
           "updatedAt": "2025-02-05T15:03:28Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-09-19T11:23:08Z",
-          "downloads": 1386,
-          "endorsements": 138,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1395,32 +725,15 @@
           "status": "published",
           "summary": "Shows in a dedicated MCM panel the interesting actors you talked to and where you can find them.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48843/48843-1600514117-355384559.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48843/48843-1600514117-355384559.jpeg",
           "uid": "429496778443",
           "updatedAt": "2023-03-19T12:54:43Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-07-03T10:51:30Z",
-          "downloads": 24369,
-          "endorsements": 501,
           "fileSize": 11,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -1430,32 +743,15 @@
           "status": "published",
           "summary": "Visible equipped amulets & rings",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48529/48529-1593772445-845377431.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48529/48529-1593772445-845377431.jpeg",
           "uid": "429496778129",
           "updatedAt": "2024-10-21T11:53:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-16T13:33:54Z",
-          "downloads": 5486,
-          "endorsements": 99,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1465,32 +761,15 @@
           "status": "published",
           "summary": "Passing Time While Reading - MWSE Lua version",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48059/48059-1589635545-2093524888.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48059/48059-1589635545-2093524888.jpeg",
           "uid": "429496777659",
           "updatedAt": "2025-02-12T21:18:13Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-03T13:35:08Z",
-          "downloads": 441,
-          "endorsements": 17,
           "fileSize": 8,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -1500,32 +779,15 @@
           "status": "published",
           "summary": "adds NOM/Morrowind Crafting ingredients to suitable killed creatures, drag & drop food/drinks over player paperdoll, activate and drink from most water source meshes and kegs,",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47945/47945-1588512881-1207271738.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47945/47945-1588512881-1207271738.jpeg",
           "uid": "429496777545",
           "updatedAt": "2023-08-05T14:53:01Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-04-10T07:59:34Z",
-          "downloads": 3434,
-          "endorsements": 166,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1535,32 +797,15 @@
           "status": "published",
           "summary": "Water Sound for MWSE-Lua - simulate water sound when colliding with generic fake animated water meshes",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47794/47794-1586505295-1972572301.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47794/47794-1586505295-1972572301.jpeg",
           "uid": "429496777394",
           "updatedAt": "2023-08-27T17:09:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-04-09T11:21:24Z",
-          "downloads": 1492,
-          "endorsements": 109,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1570,32 +815,15 @@
           "status": "published",
           "summary": "Smart Merchants for MWSE-Lua inspired from HotFusion's Economy Adjuster and Wakim's game settings, no need of a separate .esp, and no need of extra dialog greetings",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47787/47787-1586430944-910337985.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47787/47787-1586430944-910337985.jpeg",
           "uid": "429496777387",
           "updatedAt": "2024-10-21T12:04:45Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-27T15:36:56Z",
-          "downloads": 923,
-          "endorsements": 75,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -1605,32 +833,15 @@
           "status": "published",
           "summary": "A MWSE-Lua mod allowing to pick up a blank sheet of paper without having to read it in Scroll context and then click on \"TAKE\" from the Scroll Interface before getting",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47735/47735-1585322965-567566432.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47735/47735-1585322965-567566432.jpeg",
           "uid": "429496777335",
           "updatedAt": "2024-02-05T18:02:27Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-23T13:02:17Z",
-          "downloads": 2056,
-          "endorsements": 87,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -1640,32 +851,15 @@
           "status": "published",
           "summary": "abot\\lib.lua common file used by several of my MWSE-Lua mods so you can have the most up-to-date version easily downloadable here",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47717/47717-1584968265-132888891.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47717/47717-1584968265-132888891.jpeg",
           "uid": "429496777317",
           "updatedAt": "2020-06-21T13:39:35Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-01-08T20:08:54Z",
-          "downloads": 30097,
-          "endorsements": 659,
           "fileSize": 23,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -1675,32 +869,15 @@
           "status": "published",
           "summary": "several new options for journal pages and quests list",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47492/47492-1638812699-1886620225.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47492/47492-1638812699-1886620225.jpeg",
           "uid": "429496777092",
           "updatedAt": "2024-08-13T08:03:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-12-14T18:13:08Z",
-          "downloads": 7949,
-          "endorsements": 364,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1710,32 +887,15 @@
           "status": "published",
           "summary": "Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.requires latest MWSE-Lua dev",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47383/47383-1576347072-1566072104.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47383/47383-1576347072-1566072104.jpeg",
           "uid": "429496776983",
           "updatedAt": "2021-12-27T13:23:55Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-13T15:29:44Z",
-          "downloads": 1217,
-          "endorsements": 85,
           "fileSize": 7,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1745,32 +905,15 @@
           "status": "published",
           "summary": "Alt + Z (by default, you can change it) will swap helmet On/OffYou can set the mod to automatically swap helmet on cellchange depending on:- number/distance/fight of hostiles",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46753/46753-1557760886-328427560.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46753/46753-1557760886-328427560.jpeg",
           "uid": "429496776353",
           "updatedAt": "2021-12-27T13:16:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-02T15:32:01Z",
-          "downloads": 13714,
-          "endorsements": 297,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -1780,32 +923,15 @@
           "status": "published",
           "summary": "Basically it tries to automatically smart-switch between local and world map view.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46634/46634-1556810944-1787418407.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46634/46634-1556810944-1787418407.png",
           "uid": "429496776234",
           "updatedAt": "2021-12-27T13:17:36Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-10-13T13:45:50Z",
-          "downloads": 15723,
-          "endorsements": 326,
           "fileSize": 7,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -1815,32 +941,15 @@
           "status": "published",
           "summary": "Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key.Should work great with mods like pursuit enhanced allowing",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46094/46094-1539438285-1279833447.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46094/46094-1539438285-1279833447.jpeg",
           "uid": "429496775694",
           "updatedAt": "2025-05-10T19:46:03Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-08-19T15:09:37Z",
-          "downloads": 2602,
-          "endorsements": 152,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -1850,32 +959,15 @@
           "status": "published",
           "summary": "Displays Value/Weight Ratio of currently focused object/inventory item in tooltip. Display of Skillbook teached skill may and mod source also be enabled from the MCM control panel",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45969/45969-1534690991-1839690484.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45969/45969-1534690991-1839690484.jpeg",
           "uid": "429496775569",
           "updatedAt": "2020-10-12T14:15:10Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-05-20T15:56:07Z",
-          "downloads": 1084,
-          "endorsements": 88,
           "fileSize": 1866,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -1885,32 +977,15 @@
           "status": "published",
           "summary": "Generates information logs about your entire current Morrowind loading list:- current resource files in Data Files folders- resource files missing from Data Files folders- used",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45681/45681-1526831407-232216853.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45681/45681-1526831407-232216853.jpeg",
           "uid": "429496775281",
           "updatedAt": "2020-08-31T15:41:23Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2017-05-19T12:42:51Z",
-          "downloads": 545,
-          "endorsements": 32,
           "fileSize": 1270,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 27,
             "name": "Player homes"
@@ -1920,32 +995,15 @@
           "status": "published",
           "summary": "Arynx Castle by Hemitheon made compatible with Tamriel Rebuilt",
           "thumbnailUrl": null,
-          "thumbnailBlurredUrl": null,
           "uid": "429496774556",
           "updatedAt": "2019-12-27T13:18:14Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2017-05-08T13:17:21Z",
-          "downloads": 683,
-          "endorsements": 65,
           "fileSize": 9621,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -1955,32 +1013,15 @@
           "status": "published",
           "summary": "An updated Solstheim Overhaul esm with a pack of related/merged mod replacers made compatible with each other without need of extra .esp patches",
           "thumbnailUrl": null,
-          "thumbnailBlurredUrl": null,
           "uid": "429496774533",
           "updatedAt": "2022-11-24T20:41:56Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2016-05-10T17:52:18Z",
-          "downloads": 427,
-          "endorsements": 34,
           "fileSize": 97,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -1990,32 +1031,15 @@
           "status": "published",
           "summary": "Dynamically traps/locks some more containers and doors. More challenge for the looters, hopefully compatible with most present and future mods...",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44279-0-1462902682.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44279-0-1462902682.jpg",
           "uid": "429496773879",
           "updatedAt": "2017-07-19T20:23:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2015-06-08T07:01:45Z",
-          "downloads": 283,
-          "endorsements": 14,
           "fileSize": 381,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 21,
             "name": "Animations"
@@ -2025,32 +1049,15 @@
           "status": "published",
           "summary": "Uses tes3cmd.exe and TESTool.exe to generate \"MW Containers Animated exp.esp\" to add animations by Arcimaestro Antares/scripts by qqqbbb to related containers having no script in",
           "thumbnailUrl": null,
-          "thumbnailBlurredUrl": null,
           "uid": "429496773262",
           "updatedAt": "2015-10-02T19:54:01Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2015-05-22T09:09:33Z",
-          "downloads": 570,
-          "endorsements": 31,
           "fileSize": 16,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2060,32 +1067,15 @@
           "status": "published",
           "summary": "Galleo AW Shields Back lite/en \n\nOriginal mod by Galib\n\nver. 1.4 lite changes\n- shield swapping also with thrown weapons",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43623-0-1432284750.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43623-0-1432284750.jpg",
           "uid": "429496773223",
           "updatedAt": "2015-08-18T06:00:07Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-09-24T21:10:31Z",
-          "downloads": 29183,
-          "endorsements": 960,
           "fileSize": 1091,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2095,32 +1085,15 @@
           "status": "published",
           "summary": "real time travel Vivec gondoliers",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43291-1-1411591972.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43291-1-1411591972.jpg",
           "uid": "429496772891",
           "updatedAt": "2022-09-19T08:10:16Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-07-25T09:31:33Z",
-          "downloads": 1828,
-          "endorsements": 140,
           "fileSize": 311,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -2130,32 +1103,15 @@
           "status": "published",
           "summary": "Tel Nechim by Antiscamp, moved NE of Necrom for compatibility with Tamriel Rebuilt, plus added a Mash-NOMified version for NOM users",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43204-1-1406280290.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43204-1-1406280290.jpg",
           "uid": "429496772804",
           "updatedAt": "2014-07-25T09:31:23Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-06-02T12:13:47Z",
-          "downloads": 82576,
-          "endorsements": 1870,
           "fileSize": 2505,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -2165,32 +1121,15 @@
           "status": "published",
           "summary": "Where are all birds going? An attempt to bind flawed Morrowind AI to bring life to most beautiful birds.This plugin adds to Morrowind peaceful flying animals based on the wonderful",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43128-1-1401710565.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43128-1-1401710565.jpg",
           "uid": "429496772728",
           "updatedAt": "2022-09-01T17:23:40Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-05-24T21:21:20Z",
-          "downloads": 14532,
-          "endorsements": 377,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2200,32 +1139,15 @@
           "status": "published",
           "summary": "Rain splashes should appear here and there around player when it is raining.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43124-1-1401106979.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43124-1-1401106979.jpg",
           "uid": "429496772724",
           "updatedAt": "2014-10-31T23:23:50Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-05-20T09:00:32Z",
-          "downloads": 14801,
-          "endorsements": 789,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2235,32 +1157,15 @@
           "status": "published",
           "summary": "take my place + move away when pressing alt key",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43119-1-1400651690.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43119-1-1400651690.jpg",
           "uid": "429496772719",
           "updatedAt": "2014-05-20T08:53:04Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-01-14T15:03:00Z",
-          "downloads": 19675,
-          "endorsements": 1136,
           "fileSize": 90,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -2270,32 +1175,15 @@
           "status": "published",
           "summary": "You can find ashlander guar tamers in Ald-ruhn, Gnisis, Khuul, Ahemmusa Camp, Zainab Camp;talk with/bribe the ashlander guar tamers about smart mountable guars...",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43008-3-1389709191.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43008-3-1389709191.jpg",
           "uid": "429496772608",
           "updatedAt": "2023-03-04T10:11:07Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2013-12-14T10:51:01Z",
-          "downloads": 1125,
-          "endorsements": 95,
           "fileSize": 1033,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2305,32 +1193,15 @@
           "status": "published",
           "summary": "Expansion/replacer to [URL=http://www.nexusmods.com/morrowind/mods/42380/]original mod[/URL] by RubberMan\n, with  scripted sawing animation and new Hirstaang Forest Mill",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42939-1-1387017307.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/42/42939-1-1387017307.jpg",
           "uid": "429496772539",
           "updatedAt": "2014-03-23T16:28:16Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2013-03-23T11:08:47Z",
-          "downloads": 462,
-          "endorsements": 43,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2340,32 +1211,15 @@
           "status": "published",
           "summary": "Purpose: Adding real time passed in menu mode to game time when out of menu mode",
           "thumbnailUrl": null,
-          "thumbnailBlurredUrl": null,
           "uid": "429496772055",
           "updatedAt": "2013-03-23T11:07:32Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2013-03-22T08:24:43Z",
-          "downloads": 4452,
-          "endorsements": 356,
           "fileSize": 179,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2375,32 +1229,15 @@
           "status": "published",
           "summary": "After many years playing Morrowind, I still can\\'t read daedric on the fly.\nThis mod replaces the standard scroll mesh with one adding a daedric alphabet note, useful to role play",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42454-1-1363940365.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/42/42454-1-1363940365.jpg",
           "uid": "429496772054",
           "updatedAt": "2014-05-26T12:03:00Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2013-02-05T11:53:22Z",
-          "downloads": 45807,
-          "endorsements": 1379,
           "fileSize": 19162,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2410,32 +1247,15 @@
           "status": "published",
           "summary": "Water Life is an attempt to mix the scripting techniques developed in the \"Where are all bird going?\" plugin with the best aquatic creature modding resources to bring more life",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42417-1-1360065961.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/42/42417-1-1360065961.jpg",
           "uid": "429496772017",
           "updatedAt": "2025-05-09T14:55:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2012-11-06T11:05:41Z",
-          "downloads": 1126,
-          "endorsements": 87,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2445,32 +1265,15 @@
           "status": "published",
           "summary": "Normally shrines ask for 0 gold for blessings when your guild rank is two or better, this mod simply makes shrines give you blessing without asking for 0 gold.",
           "thumbnailUrl": null,
-          "thumbnailBlurredUrl": null,
           "uid": "429496771897",
           "updatedAt": "2012-11-06T11:08:26Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2012-10-16T20:42:02Z",
-          "downloads": 17660,
-          "endorsements": 858,
           "fileSize": 2952,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2480,32 +1283,15 @@
           "status": "published",
           "summary": "Replaces many windows with scripted dynamic glowing windows & lights,",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42271-1-1350421745.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/42/42271-1-1350421745.jpg",
           "uid": "429496771871",
           "updatedAt": "2022-08-07T09:28:44Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2012-10-15T21:23:50Z",
-          "downloads": 46687,
-          "endorsements": 1713,
           "fileSize": 6868,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2515,32 +1301,15 @@
           "status": "published",
           "summary": "You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42270-1-1350337135.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/42/42270-1-1350337135.jpg",
           "uid": "429496771870",
           "updatedAt": "2024-02-10T14:10:41Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2012-10-13T20:50:58Z",
-          "downloads": 58308,
-          "endorsements": 2223,
           "fileSize": 3037,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2550,32 +1319,15 @@
           "status": "published",
           "summary": "I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42267-1-1378852177.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/42/42267-1-1378852177.jpg",
           "uid": "429496771867",
           "updatedAt": "2024-08-23T15:49:36Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2012-10-13T14:19:03Z",
-          "downloads": 1310,
-          "endorsements": 87,
           "fileSize": 9,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -2585,18 +1337,8 @@
           "status": "published",
           "summary": "Latest Tamriel Rebuilt requiredReplaces most TR static water meshes with activators emulating water splashing sounds.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42266-1-1379345529.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/42/42266-1-1379345529.jpg",
           "uid": "429496771866",
           "updatedAt": "2019-12-28T10:18:12Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/38047/100",
-            "memberId": 38047,
-            "name": "abot"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

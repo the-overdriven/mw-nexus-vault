@@ -11,14 +11,7 @@
         {
           "adultContent": false,
           "createdAt": "2024-08-17T18:30:03Z",
-          "downloads": 345,
-          "endorsements": 11,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 35,
             "name": "Skills and Attributes"
@@ -28,32 +21,15 @@
           "status": "published",
           "summary": "Experience Now Overflows to Next Level.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55130/55130-1723919312-761666293.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55130/55130-1723919312-761666293.png",
           "uid": "429496784730",
           "updatedAt": "2024-08-17T18:30:03Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-08-11T08:24:40Z",
-          "downloads": 1072,
-          "endorsements": 40,
           "fileSize": 66,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -63,32 +39,15 @@
           "status": "published",
           "summary": "A Collection of UI Tweaks/Features/Hotkeys Including:  Active Effect Fillbars  Separated Enchantments/Scrolls from Spells  Auto Sell Marked Junk Items  View Barter Success Chance ",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55108/55108-1724305941-86954415.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55108/55108-1724305941-86954415.png",
           "uid": "429496784708",
           "updatedAt": "2024-11-24T21:16:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-28T23:56:02Z",
-          "downloads": 161,
-          "endorsements": 5,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -98,32 +57,15 @@
           "status": "published",
           "summary": "A Customizable Skill Experience Bar That Auto Shows/Hides On Experience Gain",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55028/55028-1722147666-1944402023.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55028/55028-1722147666-1944402023.png",
           "uid": "429496784628",
           "updatedAt": "2024-07-28T23:59:51Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-27T09:53:18Z",
-          "downloads": 80,
-          "endorsements": 2,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -133,32 +75,15 @@
           "status": "published",
           "summary": "Simply adds configurable hotkeys for Opening the Persuasion Menu, Admiring, Intimidating, and Taunting.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55025/55025-1722073839-1940886673.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55025/55025-1722073839-1940886673.png",
           "uid": "429496784625",
           "updatedAt": "2024-07-27T09:53:18Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-10T03:26:24Z",
-          "downloads": 138,
-          "endorsements": 9,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -168,32 +93,15 @@
           "status": "published",
           "summary": "Configurable Torch/Light Radius multiplier, and Torch/Light hotkey toggle",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54948/54948-1720581879-956513592.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54948/54948-1720581879-956513592.png",
           "uid": "429496784548",
           "updatedAt": "2024-07-15T05:58:17Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-09T01:57:37Z",
-          "downloads": 721,
-          "endorsements": 35,
           "fileSize": 13,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -203,32 +111,15 @@
           "status": "published",
           "summary": "Transfer Enchantments from one item to Another, Or Combine them for a Stronger Enchant",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54938/54938-1721775967-944808997.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54938/54938-1721775967-944808997.png",
           "uid": "429496784538",
           "updatedAt": "2024-11-05T23:51:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-04T00:52:00Z",
-          "downloads": 195,
-          "endorsements": 10,
           "fileSize": 19,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -238,32 +129,15 @@
           "status": "published",
           "summary": "A Hand-to-Hand Overhaul Mod that Adds Perks",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54912/54912-1720054092-1337050741.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54912/54912-1720054092-1337050741.png",
           "uid": "429496784512",
           "updatedAt": "2024-11-12T01:47:21Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-07-02T07:30:53Z",
-          "downloads": 376,
-          "endorsements": 18,
           "fileSize": 5,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -273,32 +147,15 @@
           "status": "published",
           "summary": "Notifications when you loot Item.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54905/54905-1719905348-1721145754.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54905/54905-1719905348-1721145754.png",
           "uid": "429496784505",
           "updatedAt": "2024-07-08T07:33:51Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-30T02:30:19Z",
-          "downloads": 485,
-          "endorsements": 19,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -308,32 +165,15 @@
           "status": "published",
           "summary": "A Dynamic Stat Bars mod for MWSE",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54897/54897-1719714511-2129342690.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54897/54897-1719714511-2129342690.png",
           "uid": "429496784497",
           "updatedAt": "2024-07-05T22:33:00Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-27T21:55:29Z",
-          "downloads": 368,
-          "endorsements": 10,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -343,32 +183,15 @@
           "status": "published",
           "summary": "Configure Fatigue Drain when running both In and Out of Combat",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54891/54891-1719525209-639794116.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54891/54891-1719525209-639794116.png",
           "uid": "429496784491",
           "updatedAt": "2024-06-27T21:55:29Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-06-13T03:37:21Z",
-          "downloads": 453,
-          "endorsements": 21,
           "fileSize": 8,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -378,32 +201,15 @@
           "status": "published",
           "summary": "A simple Combat Log",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54836/54836-1718834817-161357969.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54836/54836-1718834817-161357969.png",
           "uid": "429496784436",
           "updatedAt": "2024-06-24T22:18:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-05-30T06:56:19Z",
-          "downloads": 238,
-          "endorsements": 10,
           "fileSize": 6,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -413,32 +219,15 @@
           "status": "published",
           "summary": "[MWSE Lua] Adds a List of tracked Skills to the UI to track progress",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54757/54757-1717051961-263237669.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54757/54757-1717051961-263237669.png",
           "uid": "429496784357",
           "updatedAt": "2024-05-30T06:56:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-05-30T06:45:32Z",
-          "downloads": 112,
-          "endorsements": 7,
           "fileSize": 1823,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -448,32 +237,15 @@
           "status": "published",
           "summary": "[MWSE Lua] A bunch of functions and shortcuts I made for my mods",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54756/54756-1717051356-727974198.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54756/54756-1717051356-727974198.png",
           "uid": "429496784356",
           "updatedAt": "2024-05-30T06:45:32Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-06T02:16:31Z",
-          "downloads": 366,
-          "endorsements": 11,
           "fileSize": 7,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 33,
             "name": "Magic"
@@ -483,32 +255,15 @@
           "status": "published",
           "summary": "Adds 2 Repair spells to repair items back to Max Durability",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54414/54414-1712369306-1365801279.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54414/54414-1712369306-1365801279.png",
           "uid": "429496784014",
           "updatedAt": "2024-04-10T02:29:07Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-04T04:04:54Z",
-          "downloads": 47,
-          "endorsements": 3,
           "fileSize": 10,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -518,32 +273,15 @@
           "status": "published",
           "summary": "Syntax highlighting, and function autocomplete for mwscript in Notepad++",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54403/54403-1712203391-2035986301.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54403/54403-1712203391-2035986301.png",
           "uid": "429496784003",
           "updatedAt": "2024-04-04T04:04:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-29T23:41:03Z",
-          "downloads": 128,
-          "endorsements": 9,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 33,
             "name": "Magic"
@@ -553,32 +291,15 @@
           "status": "published",
           "summary": "Adds Spirit of Light, a Light spell that toggles, and Cats Eye, a nighteye spell that toggles",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54375/54375-1711755485-2127985709.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54375/54375-1711755485-2127985709.jpeg",
           "uid": "429496783975",
           "updatedAt": "2024-04-03T03:44:45Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-03-23T02:25:03Z",
-          "downloads": 241,
-          "endorsements": 3,
           "fileSize": 51,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 33,
             "name": "Magic"
@@ -588,18 +309,8 @@
           "status": "published",
           "summary": "Beefed up Enchantment Value - Earlier Constant Enchantments - Easier Enchanting",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54350/54350-1711160447-173443049.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54350/54350-1711160447-173443049.png",
           "uid": "429496783950",
           "updatedAt": "2024-03-24T22:21:57Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4285163/100",
-            "memberId": 4285163,
-            "name": "BeefStranger"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

@@ -25,14 +25,7 @@
         {
           "adultContent": false,
           "createdAt": "2025-01-26T18:43:21Z",
-          "downloads": 363,
-          "endorsements": 13,
           "fileSize": 6090,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -42,32 +35,15 @@
           "status": "published",
           "summary": "Replaces many of the vanilla-style heads + hairs added by TR with ones that better match with the Westley heads look.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55868/55868-1737915823-1749591549.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/55/55868/55868-1737915823-1749591549.jpeg",
           "uid": "429496785468",
           "updatedAt": "2025-01-26T18:43:21Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-12-06T23:07:23Z",
-          "downloads": 165,
-          "endorsements": 11,
           "fileSize": 3586,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -77,32 +53,15 @@
           "status": "published",
           "summary": "TR_Data's assets look great, but the bed textures looked low resolution even with the HD version. I went ahead and upscaled their textures.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53801/53801-1701902486-799544120.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53801/53801-1701902486-799544120.png",
           "uid": "429496783401",
           "updatedAt": "2023-12-06T23:07:23Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-12-04T03:15:36Z",
-          "downloads": 332,
-          "endorsements": 8,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -112,32 +71,15 @@
           "status": "published",
           "summary": "Versions of the original mod with x2 and x3 magicka regeneration speed.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53791/53791-1701658856-192957889.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53791/53791-1701658856-192957889.jpeg",
           "uid": "429496783391",
           "updatedAt": "2023-12-04T03:15:36Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-11-21T03:53:34Z",
-          "downloads": 171,
-          "endorsements": 6,
           "fileSize": 10,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 23,
             "name": "Companions"
@@ -147,32 +89,15 @@
           "status": "published",
           "summary": "Fixes CM Companions getting lost during loading screens, by stopping them from constantly moving away of the player when you get near them.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53748/53748-1700537643-335460253.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53748/53748-1700537643-335460253.png",
           "uid": "429496783348",
           "updatedAt": "2023-11-21T04:46:40Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-11-05T18:09:17Z",
-          "downloads": 370,
-          "endorsements": 7,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -182,32 +107,15 @@
           "status": "published",
           "summary": "A werewolf rebalancing mod for Bloodmoon from the creator of Vampire Embrace.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53695/53695-1699207183-1783673228.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53695/53695-1699207183-1783673228.png",
           "uid": "429496783295",
           "updatedAt": "2023-11-05T18:09:17Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-11-03T21:06:20Z",
-          "downloads": 2310,
-          "endorsements": 77,
           "fileSize": 1134,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -217,32 +125,15 @@
           "status": "published",
           "summary": "An unofficial extract-and-play DXVK package for running Morrowind in Vulkan. May improve performance with some PCs.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53685/53685-1699043627-1181575212.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53685/53685-1699043627-1181575212.jpeg",
           "uid": "429496783285",
           "updatedAt": "2025-04-08T20:54:16Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-06-10T06:46:18Z",
-          "downloads": 408,
-          "endorsements": 19,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -252,32 +143,15 @@
           "status": "published",
           "summary": "Patch for Companion Teleportation to work with companions recruited with Persuasive Speech.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53042/53042-1686377586-841877777.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/53/53042/53042-1686377586-841877777.jpeg",
           "uid": "429496782642",
           "updatedAt": "2023-06-10T06:46:18Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-05-26T09:39:38Z",
-          "downloads": 123,
-          "endorsements": 10,
           "fileSize": 919,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 25,
             "name": "Audio"
@@ -287,32 +161,15 @@
           "status": "published",
           "summary": "Mutes drinking and eating sounds at inns, and improves the audio of the fishermen whistling.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52954/52954-1685089027-625082945.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52954/52954-1685089027-625082945.png",
           "uid": "429496782554",
           "updatedAt": "2023-05-26T09:39:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-04-15T13:52:36Z",
-          "downloads": 129,
-          "endorsements": 6,
           "fileSize": 13,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -322,32 +179,15 @@
           "status": "published",
           "summary": "Cleaned copy of Windows Glow's plugin, removing 111 total redundant records for compatibility.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52687/52687-1681566279-557537080.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52687/52687-1681566279-557537080.png",
           "uid": "429496782287",
           "updatedAt": "2023-04-16T20:57:36Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-04-09T12:59:42Z",
-          "downloads": 157,
-          "endorsements": 7,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 5,
             "name": "Guilds/Factions"
@@ -357,32 +197,15 @@
           "status": "published",
           "summary": "What's the point of being the Imperial Dragon if your underlings still tell you to \"Move along\" ? Now they give you the respect you deserve!",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52664/52664-1681044720-1248473512.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52664/52664-1681044720-1248473512.png",
           "uid": "429496782264",
           "updatedAt": "2023-04-09T12:59:42Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-04-09T12:31:39Z",
-          "downloads": 923,
-          "endorsements": 56,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 5,
             "name": "Guilds/Factions"
@@ -392,32 +215,15 @@
           "status": "published",
           "summary": "With The Imperial Legion Badge you don't need armor to be recognized as a legionary. Doesn't need to be equipped either, making it even more practical.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52663/52663-1681042339-106486709.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52663/52663-1681042339-106486709.png",
           "uid": "429496782263",
           "updatedAt": "2024-08-25T19:46:47Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-04-06T23:53:00Z",
-          "downloads": 395,
-          "endorsements": 15,
           "fileSize": 27174,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -427,32 +233,15 @@
           "status": "published",
           "summary": "Gluby's overhaul of Reign of Fire. Brings various bug fixes, improved cutscenes, and quality of life tweaks. Cleaned with TES3Cmd for your convenience.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52629/52629-1680854580-883049360.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52629/52629-1680854580-883049360.png",
           "uid": "429496782229",
           "updatedAt": "2023-04-07T07:20:05Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-04-06T00:55:52Z",
-          "downloads": 2576,
-          "endorsements": 50,
           "fileSize": 372,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 18,
             "name": "Bug Fixes"
@@ -462,32 +251,15 @@
           "status": "published",
           "summary": "Fixes the black stair steps when using one of the Project Atlas patches from Redoran - Arkitektora Vol.2.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52621/52621-1680744062-1138133044.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52621/52621-1680744062-1138133044.jpeg",
           "uid": "429496782221",
           "updatedAt": "2023-04-06T01:09:22Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-05-03T15:14:40Z",
-          "downloads": 10221,
-          "endorsements": 238,
           "fileSize": 122,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -497,18 +269,8 @@
           "status": "published",
           "summary": "Luminous Russula, Violet Coprinus, and Draggle-Tail now glow. Ingredients also glow.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47946/47946-1588514645-945556385.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47946/47946-1588514645-945556385.jpeg",
           "uid": "429496777546",
           "updatedAt": "2020-05-03T15:14:40Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/8327931/100",
-            "memberId": 8327931,
-            "name": "KaptainCnucklz"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

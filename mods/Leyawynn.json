@@ -12,14 +12,7 @@
         {
           "adultContent": false,
           "createdAt": "2024-05-01T18:41:30Z",
-          "downloads": 4804,
-          "endorsements": 53,
           "fileSize": 17573,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -29,32 +22,15 @@
           "status": "published",
           "summary": "Adds 6 ashlanders playing a dombra with around 10 minutes of music recorded by myself",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54540/54540-1714588607-1359432801.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54540/54540-1714588607-1359432801.png",
           "uid": "429496784140",
           "updatedAt": "2024-05-01T18:41:30Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2024-04-15T19:50:16Z",
-          "downloads": 4461,
-          "endorsements": 34,
           "fileSize": 419,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -64,32 +40,15 @@
           "status": "published",
           "summary": "Adds corkbulb trees and roots in places where corkbulbs grow in the Ascadian Isles inspired by concept art",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54458/54458-1713210535-1571790969.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/54/54458/54458-1713210535-1571790969.png",
           "uid": "429496784058",
           "updatedAt": "2024-04-16T12:00:25Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-02-05T14:07:48Z",
-          "downloads": 1231,
-          "endorsements": 93,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -99,32 +58,15 @@
           "status": "published",
           "summary": "Adds smoke to yurts with lit fireplaces",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52281/52281-1675605866-1590903173.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52281/52281-1675605866-1590903173.png",
           "uid": "429496781881",
           "updatedAt": "2023-02-05T14:07:48Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-01-07T18:30:20Z",
-          "downloads": 371,
-          "endorsements": 38,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 18,
             "name": "Bug Fixes"
@@ -134,32 +76,15 @@
           "status": "published",
           "summary": "Fixes an oversight by Bethesda",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52144/52144-1673115927-429547534.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52144/52144-1673115927-429547534.png",
           "uid": "429496781744",
           "updatedAt": "2023-01-07T18:30:20Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-01-07T15:56:02Z",
-          "downloads": 1612,
-          "endorsements": 112,
           "fileSize": 187,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -169,32 +94,15 @@
           "status": "published",
           "summary": "Animated water for cave pools",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52142/52142-1673106439-1051266021.gif",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52142/52142-1673106439-1051266021.gif",
           "uid": "429496781742",
           "updatedAt": "2023-01-07T15:56:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2023-01-01T18:15:12Z",
-          "downloads": 137,
-          "endorsements": 9,
           "fileSize": 72,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -204,32 +112,15 @@
           "status": "published",
           "summary": "Adds conjuration particles to bound weapons",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52119/52119-1672596735-1515873108.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52119/52119-1672596735-1515873108.png",
           "uid": "429496781719",
           "updatedAt": "2023-01-01T18:15:12Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-06-01T22:59:23Z",
-          "downloads": 8502,
-          "endorsements": 310,
           "fileSize": 233,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -239,32 +130,15 @@
           "status": "published",
           "summary": "Overhauls the Redoran Council Hall, adding new areas of interest within the original cell, as well as new NPCs and dialogue.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49817/49817-1622581381-1758773532.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49817/49817-1622581381-1758773532.png",
           "uid": "429496779417",
           "updatedAt": "2023-11-27T21:34:44Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-05-01T21:34:51Z",
-          "downloads": 3029,
-          "endorsements": 155,
           "fileSize": 181,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -274,32 +148,15 @@
           "status": "published",
           "summary": "Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49627/49627-1619904583-9854328.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49627/49627-1619904583-9854328.png",
           "uid": "429496779227",
           "updatedAt": "2021-05-01T21:34:51Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-04-25T16:12:40Z",
-          "downloads": 5223,
-          "endorsements": 98,
           "fileSize": 46,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 6,
             "name": "Body, Face, and Hair"
@@ -309,32 +166,15 @@
           "status": "published",
           "summary": "Pointy ears for bretons to live up to their half elven heritage",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49584/49584-1619366811-1054225937.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49584/49584-1619366811-1054225937.png",
           "uid": "429496779184",
           "updatedAt": "2021-04-26T14:20:38Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-04-24T22:32:27Z",
-          "downloads": 1015,
-          "endorsements": 70,
           "fileSize": 4445,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -344,32 +184,15 @@
           "status": "published",
           "summary": "makes the main menu use the mw_menu video like the xbox version",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49581/49581-1619303459-1578005304.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49581/49581-1619303459-1578005304.png",
           "uid": "429496779181",
           "updatedAt": "2021-04-24T22:32:27Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-04-03T19:35:28Z",
-          "downloads": 38718,
-          "endorsements": 317,
           "fileSize": 133,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -379,32 +202,15 @@
           "status": "published",
           "summary": "Made for the 2021 spring modjamgives old blue fin a blue fin",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49503/49503-1617478891-1569182476.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49503/49503-1617478891-1569182476.png",
           "uid": "429496779103",
           "updatedAt": "2021-04-03T19:41:08Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-04-03T00:39:03Z",
-          "downloads": 1007,
-          "endorsements": 80,
           "fileSize": 216,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 2,
             "name": "Buildings"
@@ -414,32 +220,15 @@
           "status": "published",
           "summary": "Made for the 2021 spring modjamAdds small touches from the concept art to redoran towns.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49495/49495-1617409618-1772488907.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49495/49495-1617409618-1772488907.png",
           "uid": "429496779095",
           "updatedAt": "2021-04-03T00:39:03Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-03-19T00:14:12Z",
-          "downloads": 7386,
-          "endorsements": 280,
           "fileSize": 109,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 36,
             "name": "Immersion"
@@ -449,32 +238,15 @@
           "status": "published",
           "summary": "gives the rock in the maar gan shrine an actual inscription like how its described",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49426/49426-1616112684-189022948.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49426/49426-1616112684-189022948.png",
           "uid": "429496779026",
           "updatedAt": "2021-03-19T12:34:46Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-03-12T23:03:03Z",
-          "downloads": 4075,
-          "endorsements": 132,
           "fileSize": 484,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 38,
             "name": "Armour"
@@ -484,32 +256,15 @@
           "status": "published",
           "summary": "Makes eyes visible through helmets",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49401/49401-1615589437-1332262834.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/49/49401/49401-1615589437-1332262834.png",
           "uid": "429496779001",
           "updatedAt": "2021-03-12T23:03:03Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-20T13:42:16Z",
-          "downloads": 128,
-          "endorsements": 17,
           "fileSize": 764,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 14,
             "name": "Races, Classes, and Birthsigns"
@@ -519,32 +274,15 @@
           "status": "published",
           "summary": "Retextures birthsigns with the textures from TES Adventures Redguard",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48962/48962-1603201284-755045058.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48962/48962-1603201284-755045058.png",
           "uid": "429496778562",
           "updatedAt": "2020-10-20T13:42:16Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-16T19:09:24Z",
-          "downloads": 658,
-          "endorsements": 33,
           "fileSize": 52,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -554,32 +292,15 @@
           "status": "published",
           "summary": "Makes coin stacks have the same sized coins as single onesAlso includes a file to make coins have 2 sides with different sides for different stacks.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48947/48947-1602875149-1489417447.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48947/48947-1602875149-1489417447.png",
           "uid": "429496778547",
           "updatedAt": "2022-02-16T13:50:52Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-11T18:49:36Z",
-          "downloads": 740,
-          "endorsements": 34,
           "fileSize": 16,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -589,32 +310,15 @@
           "status": "published",
           "summary": "i just dump all the shit thats too small for its own page here",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48927/48927-1602441694-1320352560.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48927/48927-1602441694-1320352560.png",
           "uid": "429496778527",
           "updatedAt": "2020-10-11T18:56:43Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-10T14:45:15Z",
-          "downloads": 6504,
-          "endorsements": 168,
           "fileSize": 1083,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -624,32 +328,15 @@
           "status": "published",
           "summary": "Makes the vanilla sulphur pits into proper sulphur ponds.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48918/48918-1602340544-295910928.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48918/48918-1602340544-295910928.png",
           "uid": "429496778518",
           "updatedAt": "2020-10-10T14:45:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-10T03:29:19Z",
-          "downloads": 545,
-          "endorsements": 50,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 11,
             "name": "NPCs"
@@ -659,32 +346,15 @@
           "status": "published",
           "summary": "Gives Hlaalu Nobles some heads from tamriel rebuilt to suit the original concepts better.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48916/48916-1602300172-1061374399.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48916/48916-1602300172-1061374399.png",
           "uid": "429496778516",
           "updatedAt": "2020-10-10T03:29:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-19T23:00:31Z",
-          "downloads": 497,
-          "endorsements": 38,
           "fileSize": 62,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -694,32 +364,15 @@
           "status": "published",
           "summary": "Makes the ebony mail fit into the high ordinator set, since it stood out a lot before.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47703/47703-1584658482-1598011534.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47703/47703-1584658482-1598011534.png",
           "uid": "429496777303",
           "updatedAt": "2020-03-19T23:00:31Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-18T20:45:34Z",
-          "downloads": 95,
-          "endorsements": 7,
           "fileSize": 34,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 18,
             "name": "Bug Fixes"
@@ -729,32 +382,15 @@
           "status": "published",
           "summary": "Fixes a stray blue pixel on a Telvanni texture.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47697/47697-1584564223-802709400.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47697/47697-1584564223-802709400.png",
           "uid": "429496777297",
           "updatedAt": "2020-03-18T20:45:34Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-13T00:27:00Z",
-          "downloads": 23,
-          "endorsements": 3,
           "fileSize": 77,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 11,
             "name": "NPCs"
@@ -764,32 +400,15 @@
           "status": "published",
           "summary": "Turns Vivec into an imperial. I'm sorry.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47687/47687-1584058759-2015637758.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47687/47687-1584058759-2015637758.png",
           "uid": "429496777287",
           "updatedAt": "2020-03-13T00:27:00Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-05T23:55:13Z",
-          "downloads": 25524,
-          "endorsements": 262,
           "fileSize": 56,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 16,
             "name": "Weapons and Armour"
@@ -799,32 +418,15 @@
           "status": "published",
           "summary": "Changes the 2 amulets from the aspect of strength and speed into a mask and boots respectively. Also includes a spear replacer.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47671/47671-1583452038-1542603002.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47671/47671-1583452038-1542603002.png",
           "uid": "429496777271",
           "updatedAt": "2020-03-06T14:46:42Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-05T17:41:52Z",
-          "downloads": 1967,
-          "endorsements": 143,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 5,
             "name": "Guilds/Factions"
@@ -834,32 +436,15 @@
           "status": "published",
           "summary": "Makes it so that you can still do quests, even if you're the highest rank in the faction.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47670/47670-1583429979-1023743315.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47670/47670-1583429979-1023743315.png",
           "uid": "429496777270",
           "updatedAt": "2020-03-12T20:01:53Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-03-04T03:19:23Z",
-          "downloads": 417,
-          "endorsements": 31,
           "fileSize": 63,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 18,
             "name": "Bug Fixes"
@@ -869,32 +454,15 @@
           "status": "published",
           "summary": "Fixes bad weights on Helseth's robe.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47664/47664-1583291832-1157009076.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47664/47664-1583291832-1157009076.png",
           "uid": "429496777264",
           "updatedAt": "2020-03-04T03:19:23Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-02-29T17:55:20Z",
-          "downloads": 23505,
-          "endorsements": 165,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 37,
             "name": "Armour - Shields"
@@ -904,32 +472,15 @@
           "status": "published",
           "summary": "Part of the Winter 2020 ModjamBecause the shield only appearing during the vampire quest is dumb.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47648/47648-1582995564-1467504174.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47648/47648-1582995564-1467504174.png",
           "uid": "429496777248",
           "updatedAt": "2020-02-29T17:55:20Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-02-29T09:27:32Z",
-          "downloads": 1356,
-          "endorsements": 79,
           "fileSize": 93,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -939,32 +490,15 @@
           "status": "published",
           "summary": "Part of the Winter 2020 ModjamChanges the reward for Mephala's Quest from the ring of khajiit to the Ebony Blade.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47645/47645-1582967609-587259719.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47645/47645-1582967609-587259719.png",
           "uid": "429496777245",
           "updatedAt": "2021-01-22T21:03:52Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-02-25T16:45:42Z",
-          "downloads": 453,
-          "endorsements": 43,
           "fileSize": 8,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -974,32 +508,15 @@
           "status": "published",
           "summary": "Makes the ancient nordic pickaxe more compact and without the dumb tilted handle",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47631/47631-1582648727-1884660945.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47631/47631-1582648727-1884660945.png",
           "uid": "429496777231",
           "updatedAt": "2020-02-25T16:45:42Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-02-21T16:51:28Z",
-          "downloads": 19589,
-          "endorsements": 240,
           "fileSize": 129,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -1009,32 +526,15 @@
           "status": "published",
           "summary": "Makes the artifact Spell Breaker not look so generic",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47618/47618-1582324704-110210673.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47618/47618-1582324704-110210673.png",
           "uid": "429496777218",
           "updatedAt": "2020-02-21T22:53:05Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-02-21T15:40:02Z",
-          "downloads": 17482,
-          "endorsements": 84,
           "fileSize": 17,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -1044,32 +544,15 @@
           "status": "published",
           "summary": "Gives the rusty dagger used in Mehrunes Dagon's quest a unique model and textures",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47616/47616-1582299436-628135734.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47616/47616-1582299436-628135734.png",
           "uid": "429496777216",
           "updatedAt": "2020-02-21T15:40:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-02-19T03:15:26Z",
-          "downloads": 678,
-          "endorsements": 54,
           "fileSize": 15,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -1079,32 +562,15 @@
           "status": "published",
           "summary": "770 damage bs weapon now with an unique model",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47610/47610-1582081694-217973070.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47610/47610-1582081694-217973070.png",
           "uid": "429496777210",
           "updatedAt": "2020-02-19T03:15:26Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-01-18T18:10:30Z",
-          "downloads": 17782,
-          "endorsements": 105,
           "fileSize": 62,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -1114,32 +580,15 @@
           "status": "published",
           "summary": "Gives Soul Drinker an unique texture",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47526/47526-1579370331-681064974.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47526/47526-1579370331-681064974.png",
           "uid": "429496777126",
           "updatedAt": "2020-01-18T18:25:31Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-01-12T19:16:42Z",
-          "downloads": 17549,
-          "endorsements": 86,
           "fileSize": 15,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -1149,32 +598,15 @@
           "status": "published",
           "summary": "Removes the guard to make it look more like a fang",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47505/47505-1578856320-2001327631.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47505/47505-1578856320-2001327631.png",
           "uid": "429496777105",
           "updatedAt": "2020-01-13T15:53:09Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-01-11T22:57:59Z",
-          "downloads": 260,
-          "endorsements": 19,
           "fileSize": 34,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -1184,32 +616,15 @@
           "status": "published",
           "summary": "Makes the Daedric Crescent look like it did in Battlespire",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47503/47503-1578783267-911496217.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47503/47503-1578783267-911496217.jpeg",
           "uid": "429496777103",
           "updatedAt": "2020-01-11T22:57:59Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-01-10T11:22:45Z",
-          "downloads": 12541,
-          "endorsements": 205,
           "fileSize": 556,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -1219,32 +634,15 @@
           "status": "published",
           "summary": "I intend to make the sixth house creatures look more like they did in MK's concepts.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47498/47498-1579140928-1991406752.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/47/47498/47498-1579140928-1991406752.png",
           "uid": "429496777098",
           "updatedAt": "2021-03-12T12:43:57Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-26T16:04:58Z",
-          "downloads": 9448,
-          "endorsements": 209,
           "fileSize": 74,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -1254,32 +652,15 @@
           "status": "published",
           "summary": "Makes scrib appear as they do in concept art.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46814/46814-1558886615-277122881.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46814/46814-1558886615-277122881.png",
           "uid": "429496776414",
           "updatedAt": "2019-05-26T16:04:58Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-20T21:02:10Z",
-          "downloads": 16670,
-          "endorsements": 495,
           "fileSize": 2086,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -1289,32 +670,15 @@
           "status": "published",
           "summary": "This mod makes the previously empty high fane corridor a more interesting location.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46786/46786-1558349601-419093333.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46786/46786-1558349601-419093333.png",
           "uid": "429496776386",
           "updatedAt": "2022-12-31T13:40:35Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-17T12:14:48Z",
-          "downloads": 336,
-          "endorsements": 36,
           "fileSize": 177,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -1324,32 +688,15 @@
           "status": "published",
           "summary": "Vanilla based textures for the mod Red Vos.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46770/46770-1558094500-122792902.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46770/46770-1558094500-122792902.png",
           "uid": "429496776370",
           "updatedAt": "2020-01-29T14:50:55Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-17T09:22:33Z",
-          "downloads": 707,
-          "endorsements": 53,
           "fileSize": 525,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -1359,32 +706,15 @@
           "status": "published",
           "summary": "Vanilla based textures for MD's White Suran.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46769/46769-1558084026-503123978.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46769/46769-1558084026-503123978.png",
           "uid": "429496776369",
           "updatedAt": "2020-01-29T14:55:18Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-05T13:02:15Z",
-          "downloads": 6730,
-          "endorsements": 380,
           "fileSize": 1323,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -1394,32 +724,15 @@
           "status": "published",
           "summary": "Overhauls the Valley of the Wind with massive wind torn cliffs and fallen trees.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46691/46691-1580307556-2070527009.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46691/46691-1580307556-2070527009.png",
           "uid": "429496776291",
           "updatedAt": "2020-01-29T14:18:40Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-02T18:53:48Z",
-          "downloads": 295,
-          "endorsements": 21,
           "fileSize": 3,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 27,
             "name": "Player homes"
@@ -1429,32 +742,15 @@
           "status": "published",
           "summary": "Adds a cozy house for sale in Balmora.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46637/46637-1556823116-1381439354.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46637/46637-1556823116-1381439354.png",
           "uid": "429496776237",
           "updatedAt": "2019-05-03T17:27:12Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-05-02T12:00:15Z",
-          "downloads": 1393,
-          "endorsements": 94,
           "fileSize": 47,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -1464,32 +760,15 @@
           "status": "published",
           "summary": "Does what it says on the tin.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46633/46633-1556797441-1694570458.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46633/46633-1556797441-1694570458.png",
           "uid": "429496776233",
           "updatedAt": "2020-03-06T15:38:03Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-04-11T10:54:36Z",
-          "downloads": 19042,
-          "endorsements": 155,
           "fileSize": 778,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 38,
             "name": "Armour"
@@ -1499,32 +778,15 @@
           "status": "published",
           "summary": "Unique model for Gothren's Cephalopod Helm with animated antennas (!!!)",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46534/46534-1554979652-1558626477.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46534/46534-1554979652-1558626477.png",
           "uid": "429496776134",
           "updatedAt": "2019-04-11T10:54:36Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-04-06T15:50:35Z",
-          "downloads": 19170,
-          "endorsements": 144,
           "fileSize": 77,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -1534,32 +796,15 @@
           "status": "published",
           "summary": "Makes the unique cuirass you get from defeating the dreugh warlord have a unique model.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46508/46508-1554565733-1899520846.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46508/46508-1554565733-1899520846.png",
           "uid": "429496776108",
           "updatedAt": "2019-04-06T15:50:35Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-03-28T21:05:01Z",
-          "downloads": 505,
-          "endorsements": 46,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -1569,32 +814,15 @@
           "status": "published",
           "summary": "doesnt look like utter shit anymore",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46488/46488-1553806938-2063112511.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46488/46488-1553806938-2063112511.png",
           "uid": "429496776088",
           "updatedAt": "2019-03-28T21:05:01Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-03-21T09:59:44Z",
-          "downloads": 454,
-          "endorsements": 20,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 16,
             "name": "Weapons and Armour"
@@ -1604,32 +832,15 @@
           "status": "published",
           "summary": "Rebalances Auriel's Bow and Shield to make them better.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46459/46459-1553162160-1735555169.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46459/46459-1553162160-1735555169.png",
           "uid": "429496776059",
           "updatedAt": "2019-03-21T09:59:44Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-02-19T01:35:35Z",
-          "downloads": 258,
-          "endorsements": 16,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -1639,32 +850,15 @@
           "status": "published",
           "summary": "Makes the Madstone of the Ahemmusa function like how it is described by Sinnammu Mirpal.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46397/46397-1550539893-2023487910.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46397/46397-1550539893-2023487910.png",
           "uid": "429496775997",
           "updatedAt": "2019-02-19T09:42:29Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-02-18T14:40:51Z",
-          "downloads": 674,
-          "endorsements": 49,
           "fileSize": 27,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 28,
             "name": "Patches"
@@ -1674,32 +868,15 @@
           "status": "published",
           "summary": "Fixes the bad texture paths in Trainwiz's bound weapon replacer.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46396/46396-1550500704-688132.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46396/46396-1550500704-688132.png",
           "uid": "429496775996",
           "updatedAt": "2019-02-18T14:40:51Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-02-03T15:45:31Z",
-          "downloads": 668,
-          "endorsements": 52,
           "fileSize": 28,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 38,
             "name": "Armour"
@@ -1709,32 +886,15 @@
           "status": "published",
           "summary": "Adds a helmet made out of a Kwama egg to the Eretammus-Sennammu Egg Mine.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46366/46366-1549208328-306416170.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46366/46366-1549208328-306416170.png",
           "uid": "429496775966",
           "updatedAt": "2019-02-04T11:39:19Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-02-02T20:24:38Z",
-          "downloads": 18159,
-          "endorsements": 133,
           "fileSize": 33,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 31,
             "name": "Weapons"
@@ -1744,32 +904,15 @@
           "status": "published",
           "summary": "Gives the Dagoth Dagger a unique model based on concept art.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46363/46363-1644190158-2130857973.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46363/46363-1644190158-2130857973.png",
           "uid": "429496775963",
           "updatedAt": "2022-02-06T23:25:30Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2019-02-02T19:47:36Z",
-          "downloads": 18544,
-          "endorsements": 120,
           "fileSize": 18,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 38,
             "name": "Armour"
@@ -1779,32 +922,15 @@
           "status": "published",
           "summary": "Gives a unique mesh to The Icecap.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46362/46362-1549136728-217582429.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/46/46362/46362-1549136728-217582429.png",
           "uid": "429496775962",
           "updatedAt": "2019-02-04T11:40:49Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-03-17T23:31:31Z",
-          "downloads": 1664,
-          "endorsements": 123,
           "fileSize": 1,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 3,
             "name": "Dungeons and Locations"
@@ -1814,32 +940,15 @@
           "status": "published",
           "summary": "This mod adds shrines to the temples without one.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45535/45535-1521329125-958467299.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45535/45535-1521329125-958467299.png",
           "uid": "429496775135",
           "updatedAt": "2019-04-24T17:13:52Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2016-01-19T18:50:40Z",
-          "downloads": 1128,
-          "endorsements": 51,
           "fileSize": 13,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -1849,18 +958,8 @@
           "status": "published",
           "summary": "Big Head gets a big head.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44042-3-1453229032.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/44/44042-3-1453229032.png",
           "uid": "429496773642",
           "updatedAt": "2016-01-23T12:27:35Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/27841505/100",
-            "memberId": 27841505,
-            "name": "Leyawynn"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

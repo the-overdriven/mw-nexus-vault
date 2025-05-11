@@ -11,14 +11,7 @@
         {
           "adultContent": false,
           "createdAt": "2022-02-07T15:48:24Z",
-          "downloads": 14249,
-          "endorsements": 290,
           "fileSize": 15,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -28,32 +21,15 @@
           "status": "published",
           "summary": "A MWSE mod that lets you soul trap NPCs.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50744/50744-1644248106-1553403777.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50744/50744-1644248106-1553403777.png",
           "uid": "429496780344",
           "updatedAt": "2024-05-02T09:26:08Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/3827919/100",
-            "memberId": 3827919,
-            "name": "Sephumbra"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-01-28T01:01:54Z",
-          "downloads": 17753,
-          "endorsements": 479,
           "fileSize": 14,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 8,
             "name": "Miscellaneous"
@@ -63,32 +39,15 @@
           "status": "published",
           "summary": "A MWSE lua library that may be required by other mods. It does nothing on its own.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50708/50708-1643331516-655469608.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50708/50708-1643331516-655469608.png",
           "uid": "429496780308",
           "updatedAt": "2022-01-28T01:01:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/3827919/100",
-            "memberId": 3827919,
-            "name": "Sephumbra"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2022-01-16T18:23:29Z",
-          "downloads": 3624,
-          "endorsements": 40,
           "fileSize": 600,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -98,32 +57,15 @@
           "status": "published",
           "summary": "A MWSE mod that lets you challenge NPCs to a soul gem battle, letting the creatures' souls fight.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50657/50657-1642357713-1110558700.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50657/50657-1642357713-1110558700.png",
           "uid": "429496780257",
           "updatedAt": "2022-01-16T20:49:41Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/3827919/100",
-            "memberId": 3827919,
-            "name": "Sephumbra"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-12-31T03:13:45Z",
-          "downloads": 13503,
-          "endorsements": 365,
           "fileSize": 14,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -133,32 +75,15 @@
           "status": "published",
           "summary": "A MWSE mod that makes almost every element of the HUD customizable to a certain degree.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50588/50588-1640922074-1050760718.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50588/50588-1640922074-1050760718.png",
           "uid": "429496780188",
           "updatedAt": "2024-06-30T12:50:18Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/3827919/100",
-            "memberId": 3827919,
-            "name": "Sephumbra"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-12-29T15:55:32Z",
-          "downloads": 301,
-          "endorsements": 22,
           "fileSize": 2,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -168,32 +93,15 @@
           "status": "published",
           "summary": "A tiny MWSE lua mod that makes guars play sounds and optionally display messages when 'activated'.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50584/50584-1640793156-966729537.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50584/50584-1640793156-966729537.png",
           "uid": "429496780184",
           "updatedAt": "2021-12-29T15:55:32Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/3827919/100",
-            "memberId": 3827919,
-            "name": "Sephumbra"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-12-29T00:26:36Z",
-          "downloads": 2705,
-          "endorsements": 167,
           "fileSize": 4,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -203,32 +111,15 @@
           "status": "published",
           "summary": "A simple MWSE mod that adds more information and decorations to inventory item tiles for quicker item management and discovery.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50582/50582-1640737202-1101438128.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50582/50582-1640737202-1101438128.png",
           "uid": "429496780182",
           "updatedAt": "2021-12-30T02:56:31Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/3827919/100",
-            "memberId": 3827919,
-            "name": "Sephumbra"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2021-12-27T20:09:01Z",
-          "downloads": 15243,
-          "endorsements": 368,
           "fileSize": 8,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -238,18 +129,8 @@
           "status": "published",
           "summary": "A simple MWSE mod that adds more detailed health, magicka and fatigue bars to any npc or creature you look at.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50577/50577-1640730096-1474657809.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/50/50577/50577-1640730096-1474657809.png",
           "uid": "429496780177",
           "updatedAt": "2021-12-29T03:19:39Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/3827919/100",
-            "memberId": 3827919,
-            "name": "Sephumbra"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }

@@ -10,14 +10,7 @@
         {
           "adultContent": false,
           "createdAt": "2023-06-01T05:18:13Z",
-          "downloads": 157,
-          "endorsements": 7,
           "fileSize": 30,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 15,
             "name": "Utilities"
@@ -27,32 +20,15 @@
           "status": "published",
           "summary": "FontReader is a program created by ManaUser which allows to view, edit and save Morrowind fonts.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52999/52999-1685595726-273697787.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/52/52999/52999-1685595726-273697787.png",
           "uid": "429496782599",
           "updatedAt": "2023-06-01T05:18:13Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-10-03T09:08:17Z",
-          "downloads": 7204,
-          "endorsements": 311,
           "fileSize": 3983,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 20,
             "name": "Books and Scrolls"
@@ -62,32 +38,15 @@
           "status": "published",
           "summary": "Replaces most of original book arts with hi-res images redrawn from scratch by Alfred “Hieronymus7Z” Khamidullin.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48896/48896-1601714208-1537615952.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48896/48896-1601714208-1537615952.jpeg",
           "uid": "429496778496",
           "updatedAt": "2020-10-03T09:08:17Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-08-26T21:00:34Z",
-          "downloads": 1913,
-          "endorsements": 104,
           "fileSize": 407,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 24,
             "name": "User Interface"
@@ -97,32 +56,15 @@
           "status": "published",
           "summary": "Replaces class pictures with concept-art, taken from \"The Art of Morrowind\" booklet and \"Pocket Guide to the Empire: 1st Edition\".",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48758/48758-1598475417-498867702.jpeg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48758/48758-1598475417-498867702.jpeg",
           "uid": "429496778358",
           "updatedAt": "2021-12-12T16:54:15Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2020-08-25T21:28:56Z",
-          "downloads": 289,
-          "endorsements": 11,
           "fileSize": 1943,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 17,
             "name": "Modders Resources and Tutorials"
@@ -132,32 +74,15 @@
           "status": "published",
           "summary": "A dump of old and mostly outdated weapons meshes I created in past years.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48755/48755-1598390252-745749153.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/48/48755/48755-1598390252-745749153.png",
           "uid": "429496778355",
           "updatedAt": "2020-08-25T21:28:56Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-02-06T11:58:16Z",
-          "downloads": 529,
-          "endorsements": 39,
           "fileSize": 178,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 17,
             "name": "Modders Resources and Tutorials"
@@ -167,32 +92,15 @@
           "status": "published",
           "summary": "Replaces Daedric font with better version and adds additional character sets into font file.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45460/45460-1517917864-429685585.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45460/45460-1517917864-429685585.png",
           "uid": "429496775060",
           "updatedAt": "2018-02-06T11:58:16Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2018-02-06T07:04:29Z",
-          "downloads": 1362,
-          "endorsements": 36,
           "fileSize": 192,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 17,
             "name": "Modders Resources and Tutorials"
@@ -202,32 +110,15 @@
           "status": "published",
           "summary": "Several Daedric Alphabet variations in TrueType Font format.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45458/45458-1517900101-958635085.png",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/45/45458/45458-1517900101-958635085.png",
           "uid": "429496775058",
           "updatedAt": "2018-11-20T05:02:06Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-11-15T12:18:46Z",
-          "downloads": 14906,
-          "endorsements": 745,
           "fileSize": 1054,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -237,32 +128,15 @@
           "status": "published",
           "summary": "Replaces textual descriptions in old Dwemer books from Bamz-Amschend with actual images",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43339-1-1416053548.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43339-1-1416053548.jpg",
           "uid": "429496772939",
           "updatedAt": "2014-11-15T12:19:58Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-11-11T22:52:02Z",
-          "downloads": 44374,
-          "endorsements": 777,
           "fileSize": 675,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -272,32 +146,15 @@
           "status": "published",
           "summary": "Replacer for Dwemer armours and weapons",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43335-1-1415745895.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43335-1-1415745895.jpg",
           "uid": "429496772935",
           "updatedAt": "2014-11-11T22:50:21Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-03-11T17:05:08Z",
-          "downloads": 3252,
-          "endorsements": 199,
           "fileSize": 4110,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -307,32 +164,15 @@
           "status": "published",
           "summary": "This mod adds some variations of creatures from Bloodmoon.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43070-2-1394557348.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43070-2-1394557348.jpg",
           "uid": "429496772670",
           "updatedAt": "2014-03-11T17:05:02Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-03-09T16:16:24Z",
-          "downloads": 557,
-          "endorsements": 38,
           "fileSize": 955,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 16,
             "name": "Weapons and Armour"
@@ -342,32 +182,15 @@
           "status": "published",
           "summary": "This is Dwemer-styled electric guitar, set as blunt weapon, located somewhere in Mzahnch ruins.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43067-1-1394381595.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43067-1-1394381595.jpg",
           "uid": "429496772667",
           "updatedAt": "2014-03-09T16:16:18Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-03-09T00:02:10Z",
-          "downloads": 15575,
-          "endorsements": 704,
           "fileSize": 1974,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -377,32 +200,15 @@
           "status": "published",
           "summary": "This is retexture of Better Bodies original textures, aimed to make its underwear look just like it looked in original Morrowind.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43065-1-1394322826.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43065-1-1394322826.jpg",
           "uid": "429496772665",
           "updatedAt": "2014-03-08T23:59:33Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-03-08T23:44:55Z",
-          "downloads": 1214,
-          "endorsements": 85,
           "fileSize": 97,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -412,32 +218,15 @@
           "status": "published",
           "summary": "This is a collection of meshes created entirely in NifScope.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43064-1-1394322172.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43064-1-1394322172.jpg",
           "uid": "429496772664",
           "updatedAt": "2020-08-20T20:46:11Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-03-08T23:38:59Z",
-          "downloads": 243,
-          "endorsements": 14,
           "fileSize": 873,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 16,
             "name": "Weapons and Armour"
@@ -447,32 +236,15 @@
           "status": "published",
           "summary": "Skyrim Battle Axe, based on design of Imperial Dragon from the TES V: Skyrim. Available in Fort Frostmoth.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43063-1-1394321842.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43063-1-1394321842.jpg",
           "uid": "429496772663",
           "updatedAt": "2014-03-08T23:38:54Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-03-08T23:28:31Z",
-          "downloads": 1822,
-          "endorsements": 84,
           "fileSize": 703,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 19,
             "name": "Creatures"
@@ -482,32 +254,15 @@
           "status": "published",
           "summary": "This mod add four Dwemer creatures: two spectres and two centurions.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43062-1-1394321164.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43062-1-1394321164.jpg",
           "uid": "429496772662",
           "updatedAt": "2014-03-08T23:28:25Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         },
         {
           "adultContent": false,
           "createdAt": "2014-03-08T23:17:19Z",
-          "downloads": 1436,
-          "endorsements": 102,
           "fileSize": 7962,
-          "game": {
-            "domainName": "morrowind",
-            "id": 100,
-            "name": "Morrowind"
-          },
           "modCategory": {
             "categoryId": 9,
             "name": "Models and Textures"
@@ -517,18 +272,8 @@
           "status": "published",
           "summary": "This mod replace Nerevar's Blade and Sword of Almalexia. Now they got more \"technological\" and detailed, dwemeri-stylish appearance. Requires Tribunal.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43060-1-1394320054.jpg",
-          "thumbnailBlurredUrl": "https://images.nexusmods.com/mod-images/100/tb/med/43/43060-1-1394320054.jpg",
           "uid": "429496772660",
           "updatedAt": "2014-03-08T23:10:33Z",
-          "uploader": {
-            "avatar": "https://avatars.nexusmods.com/4996267/100",
-            "memberId": 4996267,
-            "name": "YarYulme"
-          },
-          "viewerDownloaded": null,
-          "viewerEndorsed": null,
-          "viewerTracked": false,
-          "viewerUpdateAvailable": null,
           "isBlockedFromEarningDp": null,
           "viewerBlocked": false
         }
