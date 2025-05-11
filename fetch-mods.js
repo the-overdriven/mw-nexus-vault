@@ -74,14 +74,7 @@ for (const uploaderName of modAuthors) {
       fragment ModFragment on Mod {
         adultContent
         createdAt
-        downloads
-        endorsements
         fileSize
-        game {
-          domainName
-          id
-          name
-        }
         modCategory {
           categoryId
           name
@@ -91,7 +84,6 @@ for (const uploaderName of modAuthors) {
         status
         summary
         thumbnailUrl
-        thumbnailBlurredUrl
         uid
         updatedAt
         uploader {
@@ -99,10 +91,6 @@ for (const uploaderName of modAuthors) {
           memberId
           name
         }
-        viewerDownloaded
-        viewerEndorsed
-        viewerTracked
-        viewerUpdateAvailable
       }
     `,
     variables: {
@@ -132,6 +120,8 @@ for (const uploaderName of modAuthors) {
     })
 
     const data = await res.json()
+    console.log(data.data.mods.nodes)
+
     fs.writeFileSync(outputFile, JSON.stringify(data, null, 2))
     console.log(`✅ Saved data for ${uploaderName} to ${outputFile}`)
   } catch (err) {
