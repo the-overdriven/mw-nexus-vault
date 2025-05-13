@@ -8,6 +8,7 @@ import { readdir } from 'fs/promises'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { findFileIds } from './find-file-ids.js'
+import { getCheckedAtField } from './get-checked-at.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -116,9 +117,12 @@ for (const uploaderName of modAuthors) {
     let data = await res.json()
 
     const dateNow = new Date()
-    const dateChecked = new Date('2025-01-01T00:00:00Z')
+    const dateCheckedStr = await getCheckedAtField(outputFile)
+    const dateChecked = new Date(dateCheckedStr)
 
-    // For each author's mod, check if it was updated, and if it was, update the file IDs.
+    console.log('last checked author:', dateCheckedStr)
+
+    // for each author's mod, check if it was updated since last check, and if it was, update mod's file IDs
     for (const mod of data.data.mods.nodes) {
       const dateUpdatedAt = new Date(mod.updatedAt)
       if (dateUpdatedAt > dateChecked) {
