@@ -112,7 +112,9 @@ for (const uploaderName of modAuthors) {
       body
     })
 
-    const data = await res.json()
+    let data = await res.json()
+
+    data = { data: { ...data.data, checkedAt: new Date().toISOString() } }
 
     fs.writeFileSync(outputFile, JSON.stringify(data, null, 2))
     console.log(`✅ Saved data for ${uploaderName} to ${outputFile}`)

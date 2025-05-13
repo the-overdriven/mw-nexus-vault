@@ -107,7 +107,7 @@
         {
           "adultContent": false,
           "createdAt": "2024-05-28T05:19:38Z",
-          "fileSize": 192,
+          "fileSize": 97,
           "modCategory": {
             "categoryId": 5,
             "name": "Guilds/Factions"
@@ -116,9 +116,9 @@
           "name": "The Guiding Guild - Dune Inspired Guild Guides",
           "status": "published",
           "summary": "A lore and visual overhaul of Morrowind's Guild Guides. Adds a new faction headquarters for the Guild Guides beneath the Mournhold Royal Palace, as well as a short questline that",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54750/54750-1716873066-316923061.png",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54750/54750-1716872976-692956777.png",
           "uid": "429496784350",
-          "updatedAt": "2024-05-28T05:19:38Z"
+          "updatedAt": "2025-05-12T03:03:52Z"
         },
         {
           "adultContent": false,
@@ -378,6 +378,7 @@
         }
       ],
       "totalCount": 23
-    }
+    },
+    "checkedAt": "2025-05-13T18:25:26.471Z"
   }
 }

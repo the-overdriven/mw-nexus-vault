@@ -442,7 +442,7 @@
         {
           "adultContent": false,
           "createdAt": "2017-04-18T12:58:42Z",
-          "fileSize": 22884,
+          "fileSize": 22856,
           "modCategory": {
             "categoryId": 29,
             "name": "Overhauls"
@@ -453,7 +453,7 @@
           "summary": "This mod improves several vanilla dungeons aesthetically and/or expands them.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44893-0-1493368347.jpg",
           "uid": "429496774493",
-          "updatedAt": "2025-04-18T16:57:53Z"
+          "updatedAt": "2025-05-12T22:42:23Z"
         },
         {
           "adultContent": false,
@@ -521,6 +521,7 @@
         }
       ],
       "totalCount": 32
-    }
+    },
+    "checkedAt": "2025-05-13T18:25:26.277Z"
   }
 }

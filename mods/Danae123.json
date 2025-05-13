@@ -10,7 +10,7 @@
         {
           "adultContent": false,
           "createdAt": "2025-05-11T08:36:34Z",
-          "fileSize": 36,
+          "fileSize": 135,
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -21,12 +21,12 @@
           "summary": "A quest mod and tomb overhaul that uncovers the fate of a Dark Brotherhood artifact: the Blade of Woe.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56564/56564-1746952264-1026955035.png",
           "uid": "429496786164",
-          "updatedAt": "2025-05-11T08:36:34Z"
+          "updatedAt": "2025-05-12T15:24:32Z"
         },
         {
           "adultContent": false,
           "createdAt": "2025-05-04T07:41:22Z",
-          "fileSize": 18,
+          "fileSize": 34,
           "modCategory": {
             "categoryId": 7,
             "name": "Items, Objects, and Clothes"
@@ -37,7 +37,7 @@
           "summary": "Warsified Urns expands the loot found in tomb urns. By utilizing the Wares levelled lists, this mod offers a wider variety of items, tailored to your modlist.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56484/56484-1746343974-351154752.png",
           "uid": "429496786084",
-          "updatedAt": "2025-05-04T07:41:22Z"
+          "updatedAt": "2025-05-12T10:54:36Z"
         },
         {
           "adultContent": false,
@@ -53,7 +53,7 @@
           "summary": "Meet Shuri-Viir, an eccentric Argonian jester with a talent for illusion, destruction, and rhyme! This quested companion will accompany you on your travels, offering witty verses,",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56450/56450-1746085016-156655541.png",
           "uid": "429496786050",
-          "updatedAt": "2025-05-01T07:43:47Z"
+          "updatedAt": "2025-05-13T11:04:16Z"
         },
         {
           "adultContent": false,
@@ -1289,6 +1289,7 @@
         }
       ],
       "totalCount": 101
-    }
+    },
+    "checkedAt": "2025-05-13T18:25:21.773Z"
   }
 }

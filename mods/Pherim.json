@@ -20,7 +20,7 @@
             "name": "Immersion"
           },
           "modId": 55315,
-          "name": "MWSE Disown the Dead",
+          "name": "MWSE Disown the Dead -READ DESCRIPTION-",
           "status": "published",
           "summary": "Items lose ownership if their owner is dead.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55315/55315-1728249329-619646491.png",
@@ -445,6 +445,7 @@
         }
       ],
       "totalCount": 27
-    }
+    },
+    "checkedAt": "2025-05-13T18:25:33.348Z"
   }
 }

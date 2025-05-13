@@ -3,12 +3,28 @@
     "mods": {
       "facetsData": {
         "gameId": {
-          "100": 23,
+          "100": 24,
           "110": 2,
           "1151": 1
         }
       },
       "nodes": [
+        {
+          "adultContent": false,
+          "createdAt": "2025-05-12T18:06:43Z",
+          "fileSize": 6982,
+          "modCategory": {
+            "categoryId": 3,
+            "name": "Dungeons and Locations"
+          },
+          "modId": 56582,
+          "name": "The Lost Mine Vassir Didanat mine overhaul",
+          "status": "published",
+          "summary": "An overhaul and extension of the Vassir Didanat mine",
+          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56582/56582-1747072522-1417258346.png",
+          "uid": "429496786182",
+          "updatedAt": "2025-05-12T22:31:32Z"
+        },
         {
           "adultContent": false,
           "createdAt": "2025-05-10T20:19:46Z",
@@ -44,7 +60,7 @@
         {
           "adultContent": false,
           "createdAt": "2025-02-09T18:58:39Z",
-          "fileSize": 1257,
+          "fileSize": 1256,
           "modCategory": {
             "categoryId": 13,
             "name": "Quests and Adventures"
@@ -55,7 +71,7 @@
           "summary": "A new quest on Solstiem. Giving back story to an Underutilized NPC.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55960/55960-1739127044-1784633691.png",
           "uid": "429496785560",
-          "updatedAt": "2025-02-09T20:53:29Z"
+          "updatedAt": "2025-05-12T20:07:28Z"
         },
         {
           "adultContent": false,
@@ -378,7 +394,8 @@
           "updatedAt": "2023-02-17T01:17:46Z"
         }
       ],
-      "totalCount": 23
-    }
+      "totalCount": 24
+    },
+    "checkedAt": "2025-05-13T18:25:41.548Z"
   }
 }

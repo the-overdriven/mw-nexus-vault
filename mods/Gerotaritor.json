@@ -44,7 +44,7 @@
         {
           "adultContent": false,
           "createdAt": "2023-12-22T04:19:45Z",
-          "fileSize": 8,
+          "fileSize": 9,
           "modCategory": {
             "categoryId": 4,
             "name": "Gameplay"
@@ -55,10 +55,11 @@
           "summary": "MXPS - Morrowind Experience Point System adds a functional and customizable XP system to Morrowind.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53870/53870-1737996936-868838542.png",
           "uid": "429496783470",
-          "updatedAt": "2025-01-23T05:40:33Z"
+          "updatedAt": "2025-05-13T02:46:02Z"
         }
       ],
       "totalCount": 3
-    }
+    },
+    "checkedAt": "2025-05-13T18:25:23.803Z"
   }
 }

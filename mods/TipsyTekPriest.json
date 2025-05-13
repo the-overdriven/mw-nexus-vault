@@ -154,7 +154,7 @@
         {
           "adultContent": false,
           "createdAt": "2023-10-23T19:46:17Z",
-          "fileSize": 1741,
+          "fileSize": 1743,
           "modCategory": {
             "categoryId": 11,
             "name": "NPCs"
@@ -165,7 +165,7 @@
           "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Elucidace, and others to various Imperial-aligned npcs to make them feel less",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53651/53651-1734260584-832745766.png",
           "uid": "429496783251",
-          "updatedAt": "2025-05-01T21:04:31Z"
+          "updatedAt": "2025-05-12T09:22:15Z"
         },
         {
           "adultContent": false,
@@ -281,6 +281,7 @@
         }
       ],
       "totalCount": 17
-    }
+    },
+    "checkedAt": "2025-05-13T18:25:38.355Z"
   }
 }

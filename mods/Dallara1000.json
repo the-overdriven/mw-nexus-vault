@@ -58,7 +58,7 @@
         {
           "adultContent": false,
           "createdAt": "2022-05-14T00:07:56Z",
-          "fileSize": 74473,
+          "fileSize": 12729,
           "modCategory": {
             "categoryId": 34,
             "name": "Towns and Villages"
@@ -69,7 +69,7 @@
           "summary": "This replacement giving Suran more life and immersion.",
           "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51228/51228-1652486368-1096996106.png",
           "uid": "429496780828",
-          "updatedAt": "2022-05-31T11:42:29Z"
+          "updatedAt": "2025-05-12T22:31:12Z"
         },
         {
           "adultContent": false,
@@ -121,6 +121,7 @@
         }
       ],
       "totalCount": 7
-    }
+    },
+    "checkedAt": "2025-05-13T18:25:21.277Z"
   }
 }
