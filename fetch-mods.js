@@ -7,6 +7,7 @@ import fs from 'fs'
 import { readdir } from 'fs/promises'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { findFileIds } from './find-file-ids.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -114,7 +115,23 @@ for (const uploaderName of modAuthors) {
 
     let data = await res.json()
 
-    data = { checkedAt: new Date().toISOString(), ...data.data }
+    const dateNow = new Date()
+    const dateChecked = new Date('2025-01-01T00:00:00Z')
+
+    // For each author's mod, check if it was updated, and if it was, update the file IDs.
+    for (const mod of data.data.mods.nodes) {
+      const dateUpdatedAt = new Date(mod.updatedAt)
+      if (dateUpdatedAt > dateChecked) {
+        console.log(`mod ${mod.modId} was updated since last checked`, mod.updatedAt)
+
+        const fileIds = await findFileIds(mod.modId)
+        console.log(`fetched file ids for mod ${mod.modId}:`, fileIds)
+
+        mod.fileIds = fileIds
+      }
+    }
+
+    data = { checkedAt: dateNow.toISOString(), ...data.data }
 
     fs.writeFileSync(outputFile, JSON.stringify(data, null, 2))
     console.log(`✅ Saved data for ${uploaderName} to ${outputFile}`)
