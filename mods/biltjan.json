@@ -1,0 +1,179 @@
+{
+  "checkedAt": "2025-05-13T19:46:23.200Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 8,
+        "1704": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-12T12:16:10Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 55451,
+        "name": "Moon-and-Star - A Birthsign Overhaul",
+        "status": "published",
+        "summary": "Moon-and-Star is a Morrowind birthsign overhaul designed to balance the available options. Birthsigns can now be used to lean into your character's strength, cover their",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55451/55451-1731386481-487093491.jpeg",
+        "uid": "429496785051",
+        "updatedAt": "2024-11-12T12:16:10Z",
+        "fileIds": [
+          "1000048225"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-12T12:16:03Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 55442,
+        "name": "Shezarrine - A Race Overhaul",
+        "status": "published",
+        "summary": "Shezarrine is a Morrowind race overhaul designed to be balanced while adding more viable racial options for various builds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55442/55442-1731299520-2080239400.jpeg",
+        "uid": "429496785042",
+        "updatedAt": "2024-11-12T12:16:03Z",
+        "fileIds": [
+          "1000048218"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-26T15:50:02Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51781,
+        "name": "Saint's Glory - Stronger Shrine Blessings",
+        "status": "published",
+        "summary": "Increase the power and duration of dunmeri saints and the Tribunal shrine blessings. Also change them to fit more to the lore of the saints.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51781/51781-1661528866-483550478.jpeg",
+        "uid": "429496781381",
+        "updatedAt": "2022-08-26T15:50:02Z",
+        "fileIds": [
+          "1000032822"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-19T06:59:43Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 22,
+          "name": "Cheats and God items"
+        },
+        "modId": 51755,
+        "name": "Fargoth Ur - 100k Merchant like Mr Big",
+        "status": "published",
+        "summary": "Adds a merchant in Balmora (near the gate towards Caldera) that have 100k gold. It's yaboi Fargoth.Remember Mr. Big mod? Yeah, this is basically it. I can't find the mod so I just",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51755/51755-1660892198-843659700.png",
+        "uid": "429496781355",
+        "updatedAt": "2022-08-19T06:59:43Z",
+        "fileIds": [
+          "1000032726"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-17T09:09:09Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 51746,
+        "name": "Magicka Awakening - Illusion",
+        "status": "published",
+        "summary": "Improves Illusion effects as you level up in Illusion. Permanently calm/fear/rally/frenzy enemies, \"steal\" visions with blind, light reduce enemies willpower, charm makes buying",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51746/51746-1660725221-1771598029.png",
+        "uid": "429496781346",
+        "updatedAt": "2024-09-15T12:28:30Z",
+        "fileIds": [
+          "1000047221",
+          "1000032689",
+          "1000032701"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-15T20:27:33Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 51737,
+        "name": "Permanent Calm - Pacifist Option Apologize Befriend Bandit and Beasts Calm Down",
+        "status": "published",
+        "summary": "Want to play as a Pacifist? Apologize to a merchant that you've accidentally attacked? Maybe make a bandit friend? If so, this is the mod for you. You can now permanently calm",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51737/51737-1660571376-1171845427.png",
+        "uid": "429496781337",
+        "updatedAt": "2022-08-26T17:39:33Z",
+        "fileIds": [
+          "1000032825",
+          "1000032660"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-12T13:38:17Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 51723,
+        "name": "Magicka Awakening - Magicka Costs Adjustments",
+        "status": "published",
+        "summary": "Reduce costs of various magic effects that have better counterpart in Vanilla (such as Feather vs Fortify Strength), or if the effects are not too useful.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51723/51723-1731305240-659241996.jpeg",
+        "uid": "429496781323",
+        "updatedAt": "2024-11-11T05:40:36Z",
+        "fileIds": [
+          "1000048186",
+          "1000048185",
+          "1000032823",
+          "1000032614",
+          "1000032824",
+          "1000032615"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-17T18:47:24Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47087,
+        "name": "Enchanting Enchanting - Improvements on Morrowind's Most Enchanting Skill",
+        "status": "published",
+        "summary": "What an enchanting enchanting mod for an enchanting game that is Morrowind!Fun and varieties in School of Enchanting.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47087/47087-1566066476-1448228470.png",
+        "uid": "429496776687",
+        "updatedAt": "2024-11-12T19:11:54Z",
+        "fileIds": [
+          "1000047217",
+          "1000048212",
+          "1000048236",
+          "1000048211",
+          "1000015481",
+          "1000015482"
+        ]
+      }
+    ],
+    "totalCount": 8
+  }
+}

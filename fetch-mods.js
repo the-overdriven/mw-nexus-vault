@@ -119,25 +119,29 @@ for (const uploaderName of modAuthors) {
     const dateNow = new Date()
 
     const oldAuthorData = await getOldAuthorData(outputFile)
-    const dateCheckedStr = oldAuthorData.checkedAt
-    const dateChecked = new Date(dateCheckedStr)
 
-    console.log('last checked author:', dateCheckedStr)
+    if (oldAuthorData) {
+      // const dateCheckedStr = '2020-01-01T00:00:00.000Z'
+      const dateCheckedStr = oldAuthorData.checkedAt
+      const dateChecked = new Date(dateCheckedStr)
 
-    // for each author's mod, check if it was updated since last check, and if it was, update mod's file IDs
-    for (const mod of data.data.mods.nodes) {
-      const dateUpdatedAt = new Date(mod.updatedAt)
-      if (dateUpdatedAt > dateChecked) {
-        console.log(`mod ${mod.modId} was updated since last checked`, mod.updatedAt)
+      console.log('last checked author:', dateCheckedStr)
 
-        const fileIds = await findFileIds(mod.modId)
-        console.log(`fetched file ids for mod ${mod.modId}:`, fileIds)
+      // for each author's mod, check if it was updated since last check, and if it was, update mod's file IDs
+      for (const mod of data.data.mods.nodes) {
+        const dateUpdatedAt = new Date(mod.updatedAt)
+        if (dateUpdatedAt > dateChecked) {
+          console.log(`mod ${mod.modId} was updated since last checked`, mod.updatedAt)
 
-        mod.fileIds = fileIds
-      }
-      else {
-        // do not remove previously saved fileIds
-        mod.fileIds = oldAuthorData.mods.nodes.find(oldDataMod => oldDataMod.modId === mod.modId).fileIds
+          const fileIds = await findFileIds(mod.modId)
+          console.log(`fetched file ids for mod ${mod.modId}:`, fileIds)
+
+          mod.fileIds = fileIds
+        }
+        else {
+          // do not remove previously saved fileIds
+          mod.fileIds = oldAuthorData?.mods.nodes.find(oldDataMod => oldDataMod.modId === mod.modId).fileIds
+        }
       }
     }
 
