@@ -8,7 +8,7 @@ import { readdir } from 'fs/promises'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { findFileIds } from './find-file-ids.js'
-import { getCheckedAtField } from './get-checked-at.js'
+import { getOldAuthorData } from './get-old-author-data.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -117,7 +117,9 @@ for (const uploaderName of modAuthors) {
     let data = await res.json()
 
     const dateNow = new Date()
-    const dateCheckedStr = await getCheckedAtField(outputFile)
+
+    const oldAuthorData = await getOldAuthorData(outputFile)
+    const dateCheckedStr = oldAuthorData.checkedAt
     const dateChecked = new Date(dateCheckedStr)
 
     console.log('last checked author:', dateCheckedStr)
@@ -132,6 +134,10 @@ for (const uploaderName of modAuthors) {
         console.log(`fetched file ids for mod ${mod.modId}:`, fileIds)
 
         mod.fileIds = fileIds
+      }
+      else {
+        // do not remove previously saved fileIds
+        mod.fileIds = oldAuthorData.mods.nodes.find(oldDataMod => oldDataMod.modId === mod.modId).fileIds
       }
     }
 
