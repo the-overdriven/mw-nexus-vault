@@ -1,271 +1,287 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 16
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-15T20:25:49Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 55587,
-          "name": "AutoGreet - Running Commentary",
-          "status": "published",
-          "summary": "Display companion greetings as messageboxes for running commentary.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55587/55587-1734294192-2100210009.png",
-          "uid": "429496785187",
-          "updatedAt": "2024-12-15T20:25:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-12T06:08:10Z",
-          "fileSize": 429,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 55570,
-          "name": "The Wretched and the Weird - Character Backgrounds",
-          "status": "published",
-          "summary": "9 new character backgrounds for Merlord's Character Backgrounds, focusing on challenge characters, the wretched, and the weird.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55570/55570-1733983445-507940251.jpeg",
-          "uid": "429496785170",
-          "updatedAt": "2025-03-07T22:41:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-08-08T01:54:45Z",
-          "fileSize": 33,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 55089,
-          "name": "Clavicus Vile and the Wish-Eggs",
-          "status": "published",
-          "summary": "Go on a daedric egg hunt and face strange wish doppelgangers!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55089/55089-1723082051-802886830.jpeg",
-          "uid": "429496784689",
-          "updatedAt": "2024-08-08T01:54:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-08-01T18:43:29Z",
-          "fileSize": 16,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 55053,
-          "name": "Masters of the Saltrice School",
-          "status": "published",
-          "summary": "A monk themed quest mod",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55053/55053-1722537761-932529097.png",
-          "uid": "429496784653",
-          "updatedAt": "2024-08-01T18:43:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-06-26T22:58:10Z",
-          "fileSize": 116622,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 54886,
-          "name": "MWSE NPC Poser",
-          "status": "published",
-          "summary": "Pose NPCs",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54886/54886-1719442422-785863060.png",
-          "uid": "429496784486",
-          "updatedAt": "2024-11-12T16:44:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-03T22:10:47Z",
-          "fileSize": 12,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54401,
-          "name": "Vvardenfell Ablutions - A Bathing Mod",
-          "status": "published",
-          "summary": "A bathing mod. Wash regularly to stay clean and healthy.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54401/54401-1712188223-427213327.png",
-          "uid": "429496784001",
-          "updatedAt": "2024-12-24T14:52:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-30T19:26:30Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 53313,
-          "name": "Alteration Movement",
-          "status": "published",
-          "summary": "Discover new vertical movement possibilities. Levitate or slowfall with more fluid controls.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53313/53313-1690761642-733278757.png",
-          "uid": "429496782913",
-          "updatedAt": "2024-03-24T01:37:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-18T17:38:11Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52372,
-          "name": "MWSE Armor Tempering",
-          "status": "published",
-          "summary": "Improve armor using materials such as ebony, daedric parts, scrap metal, and adamantium. Fortify your favorite netch leather cuirass to glass armor quality with effort and skill!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52372/52372-1676741716-1091395373.jpeg",
-          "uid": "429496781972",
-          "updatedAt": "2025-01-17T18:08:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-15T21:26:28Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 52359,
-          "name": "Barbershop - Face and Hair Recustomizer for Player and NPCs",
-          "status": "published",
-          "summary": "MWSE mod that lets you change your head/hair without enableracemenu, and you can change the looks of NPCs too",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52359/52359-1676496234-1246483658.png",
-          "uid": "429496781959",
-          "updatedAt": "2023-03-28T20:38:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-13T19:53:37Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52346,
-          "name": "Treat Custom Race as Vanilla Race",
-          "status": "published",
-          "summary": "A simple tweak to allow you to set the PCRace global through dialogue in order to get appropriate race-based dialogue in-game when playing as a custom race",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52346/52346-1676317922-1355957451.png",
-          "uid": "429496781946",
-          "updatedAt": "2025-02-12T21:59:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-07-05T18:58:43Z",
-          "fileSize": 89780,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 51579,
-          "name": "The Strider's Nest - Companions and Quests",
-          "status": "published",
-          "summary": "Meet four companions with full main quest commentary, new quests, and a new tavern to visit.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51579/51579-1664652441-2097277398.jpeg",
-          "uid": "429496781179",
-          "updatedAt": "2024-12-03T19:06:50Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-08T13:05:53Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 51181,
-          "name": "Vanilla Hairs as Wigs",
-          "status": "published",
-          "summary": "All vanilla hairs as wigs/helmets, for console-free hair recustomization.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51181/51181-1652015056-875698695.jpeg",
-          "uid": "429496780781",
-          "updatedAt": "2022-05-08T13:05:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-06T14:23:08Z",
-          "fileSize": 21,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 51150,
-          "name": "The Witchhunter of Balmora",
-          "status": "published",
-          "summary": "Five new witchhunter-themed quests in Balmora.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51150/51150-1651846878-178258657.png",
-          "uid": "429496780750",
-          "updatedAt": "2022-05-06T14:23:08Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-03-21T18:10:51Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50890,
-          "name": "Companion Friendly Lava",
-          "status": "published",
-          "summary": "Lava will hurt the player, but not NPCs",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50890/50890-1647886071-1347999697.png",
-          "uid": "429496780490",
-          "updatedAt": "2022-03-21T19:06:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-03-11T19:25:45Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 50864,
-          "name": "Invisible or Hidden High End Armors",
-          "status": "published",
-          "summary": "For stylish min-maxers",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50864/50864-1647026469-1621990734.png",
-          "uid": "429496780464",
-          "updatedAt": "2022-05-28T16:07:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-06-01T03:52:16Z",
-          "fileSize": 90,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 45734,
-          "name": "Yashga Orc Companion",
-          "status": "published",
-          "summary": "This mod adds an Orc Barbarian to join you on your adventures.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45734/45734-1527824801-1323069105.jpeg",
-          "uid": "429496775334",
-          "updatedAt": "2020-08-03T23:01:19Z"
-        }
-      ],
-      "totalCount": 16
+  "checkedAt": "2025-05-13T18:58:20.561Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 16
+      }
     },
-    "checkedAt": "2025-05-13T18:25:18.324Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-15T20:25:49Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 55587,
+        "name": "AutoGreet - Running Commentary",
+        "status": "published",
+        "summary": "Display companion greetings as messageboxes for running commentary.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55587/55587-1734294192-2100210009.png",
+        "uid": "429496785187",
+        "updatedAt": "2024-12-15T20:25:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-12T06:08:10Z",
+        "fileSize": 429,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55570,
+        "name": "The Wretched and the Weird - Character Backgrounds",
+        "status": "published",
+        "summary": "9 new character backgrounds for Merlord's Character Backgrounds, focusing on challenge characters, the wretched, and the weird.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55570/55570-1733983445-507940251.jpeg",
+        "uid": "429496785170",
+        "updatedAt": "2025-03-07T22:41:22Z",
+        "fileIds": [
+          "1000049019",
+          "1000050988",
+          "1000048893",
+          "1000048757"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-08T01:54:45Z",
+        "fileSize": 33,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55089,
+        "name": "Clavicus Vile and the Wish-Eggs",
+        "status": "published",
+        "summary": "Go on a daedric egg hunt and face strange wish doppelgangers!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55089/55089-1723082051-802886830.jpeg",
+        "uid": "429496784689",
+        "updatedAt": "2024-08-08T01:54:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-01T18:43:29Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55053,
+        "name": "Masters of the Saltrice School",
+        "status": "published",
+        "summary": "A monk themed quest mod",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55053/55053-1722537761-932529097.png",
+        "uid": "429496784653",
+        "updatedAt": "2024-08-01T18:43:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-06-26T22:58:10Z",
+        "fileSize": 116622,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 54886,
+        "name": "MWSE NPC Poser",
+        "status": "published",
+        "summary": "Pose NPCs",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54886/54886-1719442422-785863060.png",
+        "uid": "429496784486",
+        "updatedAt": "2024-11-12T16:44:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-03T22:10:47Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54401,
+        "name": "Vvardenfell Ablutions - A Bathing Mod",
+        "status": "published",
+        "summary": "A bathing mod. Wash regularly to stay clean and healthy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54401/54401-1712188223-427213327.png",
+        "uid": "429496784001",
+        "updatedAt": "2024-12-24T14:52:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-30T19:26:30Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 53313,
+        "name": "Alteration Movement",
+        "status": "published",
+        "summary": "Discover new vertical movement possibilities. Levitate or slowfall with more fluid controls.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53313/53313-1690761642-733278757.png",
+        "uid": "429496782913",
+        "updatedAt": "2024-03-24T01:37:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-18T17:38:11Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52372,
+        "name": "MWSE Armor Tempering",
+        "status": "published",
+        "summary": "Improve armor using materials such as ebony, daedric parts, scrap metal, and adamantium. Fortify your favorite netch leather cuirass to glass armor quality with effort and skill!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52372/52372-1676741716-1091395373.jpeg",
+        "uid": "429496781972",
+        "updatedAt": "2025-01-17T18:08:06Z",
+        "fileIds": [
+          "1000049586",
+          "1000036110",
+          "1000036113",
+          "1000035975",
+          "1000036028"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-15T21:26:28Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 52359,
+        "name": "Barbershop - Face and Hair Recustomizer for Player and NPCs",
+        "status": "published",
+        "summary": "MWSE mod that lets you change your head/hair without enableracemenu, and you can change the looks of NPCs too",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52359/52359-1676496234-1246483658.png",
+        "uid": "429496781959",
+        "updatedAt": "2023-03-28T20:38:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-13T19:53:37Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52346,
+        "name": "Treat Custom Race as Vanilla Race",
+        "status": "published",
+        "summary": "A simple tweak to allow you to set the PCRace global through dialogue in order to get appropriate race-based dialogue in-game when playing as a custom race",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52346/52346-1676317922-1355957451.png",
+        "uid": "429496781946",
+        "updatedAt": "2025-02-12T21:59:16Z",
+        "fileIds": [
+          "1000050320",
+          "1000035860",
+          "1000035945"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-07-05T18:58:43Z",
+        "fileSize": 89780,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 51579,
+        "name": "The Strider's Nest - Companions and Quests",
+        "status": "published",
+        "summary": "Meet four companions with full main quest commentary, new quests, and a new tavern to visit.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51579/51579-1664652441-2097277398.jpeg",
+        "uid": "429496781179",
+        "updatedAt": "2024-12-03T19:06:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-08T13:05:53Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 51181,
+        "name": "Vanilla Hairs as Wigs",
+        "status": "published",
+        "summary": "All vanilla hairs as wigs/helmets, for console-free hair recustomization.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51181/51181-1652015056-875698695.jpeg",
+        "uid": "429496780781",
+        "updatedAt": "2022-05-08T13:05:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-06T14:23:08Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 51150,
+        "name": "The Witchhunter of Balmora",
+        "status": "published",
+        "summary": "Five new witchhunter-themed quests in Balmora.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51150/51150-1651846878-178258657.png",
+        "uid": "429496780750",
+        "updatedAt": "2022-05-06T14:23:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-03-21T18:10:51Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50890,
+        "name": "Companion Friendly Lava",
+        "status": "published",
+        "summary": "Lava will hurt the player, but not NPCs",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50890/50890-1647886071-1347999697.png",
+        "uid": "429496780490",
+        "updatedAt": "2022-03-21T19:06:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-03-11T19:25:45Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 50864,
+        "name": "Invisible or Hidden High End Armors",
+        "status": "published",
+        "summary": "For stylish min-maxers",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50864/50864-1647026469-1621990734.png",
+        "uid": "429496780464",
+        "updatedAt": "2022-05-28T16:07:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-06-01T03:52:16Z",
+        "fileSize": 90,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 45734,
+        "name": "Yashga Orc Companion",
+        "status": "published",
+        "summary": "This mod adds an Orc Barbarian to join you on your adventures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45734/45734-1527824801-1323069105.jpeg",
+        "uid": "429496775334",
+        "updatedAt": "2020-08-03T23:01:19Z"
+      }
+    ],
+    "totalCount": 16
   }
 }

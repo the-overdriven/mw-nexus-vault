@@ -1,385 +1,475 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 23,
-          "130": 2,
-          "6332": 3
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-05-01T21:34:35Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 55704,
-          "name": "Lost Relics of the Temple",
-          "status": "published",
-          "summary": "Holy relics of the Temple were lost to the minions of Dagoth Ur, and have since been corrupted by his influence. Reclaim these artifacts, cleanse them of their curses, and restore",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55704/55704-1746045210-609789334.png",
-          "uid": "429496785304",
-          "updatedAt": "2025-05-10T20:28:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-31T19:51:42Z",
-          "fileSize": 1509,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 56276,
-          "name": "Quieter Bloodmoon Werewolves",
-          "status": "published",
-          "summary": "Reduces the eardrum-piercing volume of Bloodmoon's various Werewolf creature noises.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56276/56276-1743450294-168053586.png",
-          "uid": "429496785876",
-          "updatedAt": "2025-03-31T19:51:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-09T22:56:10Z",
-          "fileSize": 1795,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 55933,
-          "name": "The Will of the Divines",
-          "status": "published",
-          "summary": "The devout followers of The Nine have been meek in the face of the Daedra. The Gods now demand retribution, and you will bow to their will!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55933/55933-1739141202-1966428068.png",
-          "uid": "429496785533",
-          "updatedAt": "2025-02-15T15:16:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-31T22:53:27Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 55902,
-          "name": "Lighter Lights - Too Heavy Torches and Lanterns",
-          "status": "published",
-          "summary": "Reduces all carriable torch and lantern weights to 1.0",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55902/55902-1738363959-1688828695.jpeg",
-          "uid": "429496785502",
-          "updatedAt": "2025-02-02T00:00:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-10T21:19:02Z",
-          "fileSize": 2231,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54396,
-          "name": "Sincerely Expressed Recognition and Accolades (SERA)",
-          "status": "published",
-          "summary": "Sincerely Expressed Recognition and Accolades (S.E.R.A) adds over 60 lines of newly voiced dialogue, utilising ElevenAI and the voices of the original Morrowind voice actors.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54396/54396-1713558010-97304033.png",
-          "uid": "429496783996",
-          "updatedAt": "2024-05-15T20:11:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-30T23:05:56Z",
-          "fileSize": 4861,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54390,
-          "name": "Scornfully Wielded Insults and Taunts (SWIT)",
-          "status": "published",
-          "summary": "Scornfully Wielded Insults and Taunts (S.W.I.T) adds over 120 lines of newly voiced dialogue, utilising ElevenAI and the voices of the original Morrowind voice actors.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54390/54390-1712968489-489205328.png",
-          "uid": "429496783990",
-          "updatedAt": "2024-12-31T16:39:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-30T23:02:08Z",
-          "fileSize": 28,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 54470,
-          "name": "Lore Accurate Artifacts",
-          "status": "published",
-          "summary": "Lore Accurate Artifacts changes a number of Morrowind's artifacts to better reflect their descriptions contained within Tamrielic Lore.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54470/54470-1713562150-637018365.png",
-          "uid": "429496784070",
-          "updatedAt": "2025-02-12T18:20:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-30T23:00:00Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54435,
-          "name": "Main Quest Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Main Quest, which aims to make it a (very slightly) more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54435/54435-1712768747-1553670408.png",
-          "uid": "429496784035",
-          "updatedAt": "2024-04-30T23:00:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-07T18:39:08Z",
-          "fileSize": 908,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54308,
-          "name": "Morag Tong Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Morag Tong questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54308/54308-1710684923-370194042.png",
-          "uid": "429496783908",
-          "updatedAt": "2025-05-06T16:41:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-05T23:25:40Z",
-          "fileSize": 0,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 54413,
-          "name": "Balmora Silt Strider Rock Reducer",
-          "status": "published",
-          "summary": "Simply reduces the size of the two rocks at the bottom of the stairs beside Balmora's Silt Strider.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54413/54413-1712359394-781001538.jpeg",
-          "uid": "429496784013",
-          "updatedAt": "2024-04-05T23:25:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-03-31T23:52:58Z",
-          "fileSize": 456,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 54380,
-          "name": "Ring of the Dumbner",
-          "status": "published",
-          "summary": "A talking magical ring has found its way onto Vvardenfell. It carries a peculiar curse, one which only seems to affect Dark Elves...",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54380/54380-1711930242-1646019307.png",
-          "uid": "429496783980",
-          "updatedAt": "2024-03-31T23:52:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-03-13T22:08:19Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54213,
-          "name": "House Telvanni Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's House Telvanni questline, which aims to make it a (slightly) more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54213/54213-1709072961-1750052063.png",
-          "uid": "429496783813",
-          "updatedAt": "2024-04-30T22:57:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-03-05T12:43:31Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54214,
-          "name": "Imperial Cult Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Imperial Cult questline, which aims to make it a (slightly) more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54214/54214-1709072937-531358491.png",
-          "uid": "429496783814",
-          "updatedAt": "2025-01-08T17:30:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-03-05T12:37:06Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54165,
-          "name": "Fighters Guild Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Fighters Guild questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54165/54165-1709072987-28590320.png",
-          "uid": "429496783765",
-          "updatedAt": "2024-03-18T20:16:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-17T20:16:39Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54030,
-          "name": "House Hlaalu Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's House Hlaalu questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54030/54030-1707759279-21107115.png",
-          "uid": "429496783630",
-          "updatedAt": "2025-01-06T21:24:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-31T20:50:46Z",
-          "fileSize": 1636,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54060,
-          "name": "Morrowind Quests Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's questlines. This series aims to make them a more rewarding and enjoyable experience to play, whilst holding true to",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54060/54060-1709072907-2130316183.png",
-          "uid": "429496783660",
-          "updatedAt": "2025-05-06T16:49:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-31T17:34:35Z",
-          "fileSize": 10,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54059,
-          "name": "Bloodmoon Main Quest Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Bloodmoon's Main Quest, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54059/54059-1706722937-727133591.png",
-          "uid": "429496783659",
-          "updatedAt": "2024-03-18T20:18:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-27T19:24:16Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54018,
-          "name": "East Empire Company Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Bloodmoon's East Empire Company questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54018/54018-1705966854-1505118714.png",
-          "uid": "429496783618",
-          "updatedAt": "2025-01-06T21:23:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-22T23:28:21Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54017,
-          "name": "Mages Guild Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Mages Guild questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54017/54017-1705867843-17782460.png",
-          "uid": "429496783617",
-          "updatedAt": "2025-05-06T16:42:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-21T16:02:00Z",
-          "fileSize": 11,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 54009,
-          "name": "Thieves Guild Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Thieves Guild questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54009/54009-1705776799-1644232533.png",
-          "uid": "429496783609",
-          "updatedAt": "2024-10-24T20:02:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-18T21:05:45Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 53975,
-          "name": "Tribunal Temple Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Tribunal Temple questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53975/53975-1705523493-1491498665.png",
-          "uid": "429496783575",
-          "updatedAt": "2024-03-18T20:22:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-11T22:28:34Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 53964,
-          "name": "House Redoran Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's House Redoran questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53964/53964-1705512022-2146167640.png",
-          "uid": "429496783564",
-          "updatedAt": "2024-03-18T20:22:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-06T21:48:55Z",
-          "fileSize": 684,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 53920,
-          "name": "Imperial Legion Redux",
-          "status": "published",
-          "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Imperial Legion questline, which aims to make it a more rewarding and enjoyable experience to play.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53920/53920-1705520424-406912839.png",
-          "uid": "429496783520",
-          "updatedAt": "2025-05-06T16:43:39Z"
-        }
-      ],
-      "totalCount": 23
+  "checkedAt": "2025-05-13T18:59:18.786Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 23,
+        "130": 2,
+        "6332": 3
+      }
     },
-    "checkedAt": "2025-05-13T18:25:27.209Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-01T21:34:35Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 55704,
+        "name": "Lost Relics of the Temple",
+        "status": "published",
+        "summary": "Holy relics of the Temple were lost to the minions of Dagoth Ur, and have since been corrupted by his influence. Reclaim these artifacts, cleanse them of their curses, and restore",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55704/55704-1746045210-609789334.png",
+        "uid": "429496785304",
+        "updatedAt": "2025-05-10T20:28:00Z",
+        "fileIds": [
+          "1000052746",
+          "1000052745",
+          "1000052500",
+          "1000052320",
+          "1000052501",
+          "1000052322"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-31T19:51:42Z",
+        "fileSize": 1509,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 56276,
+        "name": "Quieter Bloodmoon Werewolves",
+        "status": "published",
+        "summary": "Reduces the eardrum-piercing volume of Bloodmoon's various Werewolf creature noises.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56276/56276-1743450294-168053586.png",
+        "uid": "429496785876",
+        "updatedAt": "2025-03-31T19:51:42Z",
+        "fileIds": [
+          "1000051619"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-09T22:56:10Z",
+        "fileSize": 1795,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55933,
+        "name": "The Will of the Divines",
+        "status": "published",
+        "summary": "The devout followers of The Nine have been meek in the face of the Daedra. The Gods now demand retribution, and you will bow to their will!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55933/55933-1739141202-1966428068.png",
+        "uid": "429496785533",
+        "updatedAt": "2025-02-15T15:16:41Z",
+        "fileIds": [
+          "1000050317",
+          "1000050415",
+          "1000050223",
+          "1000050217",
+          "1000050318",
+          "1000050343"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-31T22:53:27Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 55902,
+        "name": "Lighter Lights - Too Heavy Torches and Lanterns",
+        "status": "published",
+        "summary": "Reduces all carriable torch and lantern weights to 1.0",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55902/55902-1738363959-1688828695.jpeg",
+        "uid": "429496785502",
+        "updatedAt": "2025-02-02T00:00:18Z",
+        "fileIds": [
+          "1000050008",
+          "1000049976"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-10T21:19:02Z",
+        "fileSize": 2231,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54396,
+        "name": "Sincerely Expressed Recognition and Accolades (SERA)",
+        "status": "published",
+        "summary": "Sincerely Expressed Recognition and Accolades (S.E.R.A) adds over 60 lines of newly voiced dialogue, utilising ElevenAI and the voices of the original Morrowind voice actors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54396/54396-1713558010-97304033.png",
+        "uid": "429496783996",
+        "updatedAt": "2024-05-15T20:11:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-30T23:05:56Z",
+        "fileSize": 4861,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54390,
+        "name": "Scornfully Wielded Insults and Taunts (SWIT)",
+        "status": "published",
+        "summary": "Scornfully Wielded Insults and Taunts (S.W.I.T) adds over 120 lines of newly voiced dialogue, utilising ElevenAI and the voices of the original Morrowind voice actors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54390/54390-1712968489-489205328.png",
+        "uid": "429496783990",
+        "updatedAt": "2024-12-31T16:39:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-30T23:02:08Z",
+        "fileSize": 28,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 54470,
+        "name": "Lore Accurate Artifacts",
+        "status": "published",
+        "summary": "Lore Accurate Artifacts changes a number of Morrowind's artifacts to better reflect their descriptions contained within Tamrielic Lore.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54470/54470-1713562150-637018365.png",
+        "uid": "429496784070",
+        "updatedAt": "2025-02-12T18:20:38Z",
+        "fileIds": [
+          "1000050316",
+          "1000044205",
+          "1000044266",
+          "1000047861"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-30T23:00:00Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54435,
+        "name": "Main Quest Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Main Quest, which aims to make it a (very slightly) more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54435/54435-1712768747-1553670408.png",
+        "uid": "429496784035",
+        "updatedAt": "2024-04-30T23:00:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-07T18:39:08Z",
+        "fileSize": 908,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54308,
+        "name": "Morag Tong Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Morag Tong questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54308/54308-1710684923-370194042.png",
+        "uid": "429496783908",
+        "updatedAt": "2025-05-06T16:41:49Z",
+        "fileIds": [
+          "1000052521",
+          "1000043858",
+          "1000049362"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-05T23:25:40Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 54413,
+        "name": "Balmora Silt Strider Rock Reducer",
+        "status": "published",
+        "summary": "Simply reduces the size of the two rocks at the bottom of the stairs beside Balmora's Silt Strider.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54413/54413-1712359394-781001538.jpeg",
+        "uid": "429496784013",
+        "updatedAt": "2024-04-05T23:25:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-31T23:52:58Z",
+        "fileSize": 456,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 54380,
+        "name": "Ring of the Dumbner",
+        "status": "published",
+        "summary": "A talking magical ring has found its way onto Vvardenfell. It carries a peculiar curse, one which only seems to affect Dark Elves...",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54380/54380-1711930242-1646019307.png",
+        "uid": "429496783980",
+        "updatedAt": "2024-03-31T23:52:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-13T22:08:19Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54213,
+        "name": "House Telvanni Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's House Telvanni questline, which aims to make it a (slightly) more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54213/54213-1709072961-1750052063.png",
+        "uid": "429496783813",
+        "updatedAt": "2024-04-30T22:57:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-05T12:43:31Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54214,
+        "name": "Imperial Cult Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Imperial Cult questline, which aims to make it a (slightly) more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54214/54214-1709072937-531358491.png",
+        "uid": "429496783814",
+        "updatedAt": "2025-01-08T17:30:56Z",
+        "fileIds": [
+          "1000049361",
+          "1000049393",
+          "1000043270",
+          "1000043579"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-05T12:37:06Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54165,
+        "name": "Fighters Guild Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Fighters Guild questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54165/54165-1709072987-28590320.png",
+        "uid": "429496783765",
+        "updatedAt": "2024-03-18T20:16:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-17T20:16:39Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54030,
+        "name": "House Hlaalu Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's House Hlaalu questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54030/54030-1707759279-21107115.png",
+        "uid": "429496783630",
+        "updatedAt": "2025-01-06T21:24:20Z",
+        "fileIds": [
+          "1000049360",
+          "1000043551",
+          "1000042922"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-31T20:50:46Z",
+        "fileSize": 1636,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54060,
+        "name": "Morrowind Quests Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's questlines. This series aims to make them a more rewarding and enjoyable experience to play, whilst holding true to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54060/54060-1709072907-2130316183.png",
+        "uid": "429496783660",
+        "updatedAt": "2025-05-06T16:49:41Z",
+        "fileIds": [
+          "1000052525",
+          "1000052524",
+          "1000049392",
+          "1000043578",
+          "1000042924",
+          "1000043286",
+          "1000043581",
+          "1000043864",
+          "1000044215",
+          "1000049363",
+          "1000047851",
+          "1000043560",
+          "1000043580",
+          "1000043587",
+          "1000043860",
+          "1000044216",
+          "1000043454",
+          "1000049364",
+          "1000047852",
+          "1000043562",
+          "1000043859",
+          "1000043453",
+          "1000042446",
+          "1000043285",
+          "1000042923",
+          "1000042447"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-31T17:34:35Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54059,
+        "name": "Bloodmoon Main Quest Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Bloodmoon's Main Quest, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54059/54059-1706722937-727133591.png",
+        "uid": "429496783659",
+        "updatedAt": "2024-03-18T20:18:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-27T19:24:16Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54018,
+        "name": "East Empire Company Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Bloodmoon's East Empire Company questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54018/54018-1705966854-1505118714.png",
+        "uid": "429496783618",
+        "updatedAt": "2025-01-06T21:23:33Z",
+        "fileIds": [
+          "1000049359",
+          "1000043553",
+          "1000042399"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-22T23:28:21Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54017,
+        "name": "Mages Guild Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Mages Guild questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54017/54017-1705867843-17782460.png",
+        "uid": "429496783617",
+        "updatedAt": "2025-05-06T16:42:48Z",
+        "fileIds": [
+          "1000052522",
+          "1000043554",
+          "1000042400",
+          "1000043448",
+          "1000049357"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-21T16:02:00Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 54009,
+        "name": "Thieves Guild Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Thieves Guild questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54009/54009-1705776799-1644232533.png",
+        "uid": "429496783609",
+        "updatedAt": "2024-10-24T20:02:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-18T21:05:45Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 53975,
+        "name": "Tribunal Temple Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Tribunal Temple questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53975/53975-1705523493-1491498665.png",
+        "uid": "429496783575",
+        "updatedAt": "2024-03-18T20:22:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-11T22:28:34Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 53964,
+        "name": "House Redoran Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's House Redoran questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53964/53964-1705512022-2146167640.png",
+        "uid": "429496783564",
+        "updatedAt": "2024-03-18T20:22:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-06T21:48:55Z",
+        "fileSize": 684,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 53920,
+        "name": "Imperial Legion Redux",
+        "status": "published",
+        "summary": "A lightweight and vanilla-friendly revisit of Morrowind's Imperial Legion questline, which aims to make it a more rewarding and enjoyable experience to play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53920/53920-1705520424-406912839.png",
+        "uid": "429496783520",
+        "updatedAt": "2025-05-06T16:43:39Z",
+        "fileIds": [
+          "1000052523",
+          "1000043577",
+          "1000043272",
+          "1000043559",
+          "1000049356"
+        ]
+      }
+    ],
+    "totalCount": 23
   }
 }

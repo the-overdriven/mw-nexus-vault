@@ -1,80 +1,78 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 4,
-          "1091": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2022-08-02T13:49:39Z",
-          "fileSize": 63092,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 51674,
-          "name": "Daedric Ruins (Half-Revamped)",
-          "status": "published",
-          "summary": "Interior cells only.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51674/51674-1659447383-1713122787.png",
-          "uid": "429496781274",
-          "updatedAt": "2022-08-05T04:50:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-08-29T13:00:43Z",
-          "fileSize": 633,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 48764,
-          "name": "6th House - Glowing Things",
-          "status": "published",
-          "summary": "Adds glow to various objects of House Dagoth.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48764/48764-1629923650-1003242577.png",
-          "uid": "429496778364",
-          "updatedAt": "2024-09-01T19:56:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-07-28T01:20:33Z",
-          "fileSize": 623,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 48628,
-          "name": "MCAR",
-          "status": "published",
-          "summary": "Replaces 1st person animation.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48628/48628-1653526112-792453620.png",
-          "uid": "429496778228",
-          "updatedAt": "2022-05-27T20:50:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-06-06T22:43:43Z",
-          "fileSize": 5495,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 48300,
-          "name": "Crystal Soul Gems",
-          "status": "published",
-          "summary": "Adds transparency, glowing effect and reflection to soul gems.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48300/48300-1608571282-1237001157.png",
-          "uid": "429496777900",
-          "updatedAt": "2023-06-05T13:59:37Z"
-        }
-      ],
-      "totalCount": 4
+  "checkedAt": "2025-05-13T19:04:44.821Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4,
+        "1091": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:37.362Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-02T13:49:39Z",
+        "fileSize": 63092,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 51674,
+        "name": "Daedric Ruins (Half-Revamped)",
+        "status": "published",
+        "summary": "Interior cells only.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51674/51674-1659447383-1713122787.png",
+        "uid": "429496781274",
+        "updatedAt": "2022-08-05T04:50:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-29T13:00:43Z",
+        "fileSize": 633,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 48764,
+        "name": "6th House - Glowing Things",
+        "status": "published",
+        "summary": "Adds glow to various objects of House Dagoth.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48764/48764-1629923650-1003242577.png",
+        "uid": "429496778364",
+        "updatedAt": "2024-09-01T19:56:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-07-28T01:20:33Z",
+        "fileSize": 623,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 48628,
+        "name": "MCAR",
+        "status": "published",
+        "summary": "Replaces 1st person animation.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48628/48628-1653526112-792453620.png",
+        "uid": "429496778228",
+        "updatedAt": "2022-05-27T20:50:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-06-06T22:43:43Z",
+        "fileSize": 5495,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 48300,
+        "name": "Crystal Soul Gems",
+        "status": "published",
+        "summary": "Adds transparency, glowing effect and reflection to soul gems.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48300/48300-1608571282-1237001157.png",
+        "uid": "429496777900",
+        "updatedAt": "2023-06-05T13:59:37Z"
+      }
+    ],
+    "totalCount": 4
   }
 }

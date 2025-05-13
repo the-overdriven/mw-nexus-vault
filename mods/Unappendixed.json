@@ -1,79 +1,77 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 4
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-23T05:31:42Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54483,
-          "name": "Peace and Quiet",
-          "status": "published",
-          "summary": "Simple QoL mod to suppress the sound and visual effects of enchanted items and alchemy items when used in the inventory. Includes configuration options.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54483/54483-1713850264-117360422.png",
-          "uid": "429496784083",
-          "updatedAt": "2024-04-24T00:05:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-03-31T01:13:14Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 54381,
-          "name": "Mage Robes - Toggle Hood Hotkey",
-          "status": "published",
-          "summary": "Adds a rebindable hotkey to toggle the hoods of the robes from  Melchior Dahrk's Mage Robes mod.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54381/54381-1711846045-1037299204.png",
-          "uid": "429496783981",
-          "updatedAt": "2024-03-31T01:13:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-06-27T19:42:01Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 50008,
-          "name": "MWSE Strategic Magicka Regen",
-          "status": "published",
-          "summary": "Adds magicka regeneration that scales with both willpower and your current magicka percentage. Mostly full magicka pools will regenerate almost immediately--dip further into your",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50008/50008-1624822909-808804493.png",
-          "uid": "429496779608",
-          "updatedAt": "2021-06-27T19:42:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-25T02:39:36Z",
-          "fileSize": 15,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 48111,
-          "name": "Disenchant",
-          "status": "published",
-          "summary": "Adds a spell to disenchant enchanted items, whether they're player enchanted or from the base game. No more hesitating to enchant those daedric boots you found because your enchant",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48111/48111-1590369634-1288049011.jpeg",
-          "uid": "429496777711",
-          "updatedAt": "2020-05-25T08:11:44Z"
-        }
-      ],
-      "totalCount": 4
+  "checkedAt": "2025-05-13T19:04:58.261Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
     },
-    "checkedAt": "2025-05-13T18:25:39.039Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-23T05:31:42Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54483,
+        "name": "Peace and Quiet",
+        "status": "published",
+        "summary": "Simple QoL mod to suppress the sound and visual effects of enchanted items and alchemy items when used in the inventory. Includes configuration options.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54483/54483-1713850264-117360422.png",
+        "uid": "429496784083",
+        "updatedAt": "2024-04-24T00:05:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-31T01:13:14Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 54381,
+        "name": "Mage Robes - Toggle Hood Hotkey",
+        "status": "published",
+        "summary": "Adds a rebindable hotkey to toggle the hoods of the robes from  Melchior Dahrk's Mage Robes mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54381/54381-1711846045-1037299204.png",
+        "uid": "429496783981",
+        "updatedAt": "2024-03-31T01:13:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-06-27T19:42:01Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 50008,
+        "name": "MWSE Strategic Magicka Regen",
+        "status": "published",
+        "summary": "Adds magicka regeneration that scales with both willpower and your current magicka percentage. Mostly full magicka pools will regenerate almost immediately--dip further into your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50008/50008-1624822909-808804493.png",
+        "uid": "429496779608",
+        "updatedAt": "2021-06-27T19:42:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-25T02:39:36Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 48111,
+        "name": "Disenchant",
+        "status": "published",
+        "summary": "Adds a spell to disenchant enchanted items, whether they're player enchanted or from the base game. No more hesitating to enchant those daedric boots you found because your enchant",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48111/48111-1590369634-1288049011.jpeg",
+        "uid": "429496777711",
+        "updatedAt": "2020-05-25T08:11:44Z"
+      }
+    ],
+    "totalCount": 4
   }
 }

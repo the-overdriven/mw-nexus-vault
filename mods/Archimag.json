@@ -1,975 +1,981 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 60
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-28T12:12:45Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 55673,
-          "name": "Armored Slaves",
-          "status": "published",
-          "summary": "Beast races can wear boots and closed helmets",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55673/55673-1735387850-1618269530.jpeg",
-          "uid": "429496785273",
-          "updatedAt": "2024-12-28T12:12:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-25T11:50:54Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54729,
-          "name": "LootMania",
-          "status": "published",
-          "summary": "You have a chance to find additional leveled (random) loot.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54729/54729-1716637754-418178936.jpeg",
-          "uid": "429496784329",
-          "updatedAt": "2024-05-25T11:50:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-04T15:15:29Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54574,
-          "name": "Rag n'wahs",
-          "status": "published",
-          "summary": "Enemies are knocked back on killing hits",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54574/54574-1714835626-630834487.png",
-          "uid": "429496784174",
-          "updatedAt": "2024-05-04T15:15:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-02T13:53:11Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54549,
-          "name": "Blast Shield",
-          "status": "published",
-          "summary": "Physical barriers protect against AoE spells",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54549/54549-1714657887-1619524073.jpeg",
-          "uid": "429496784149",
-          "updatedAt": "2024-05-02T13:53:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-01T22:46:34Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54544,
-          "name": "Quick Wheel",
-          "status": "published",
-          "summary": "Quick access wheel like in modern games",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54544/54544-1714603453-140339795.jpeg",
-          "uid": "429496784144",
-          "updatedAt": "2024-05-02T11:52:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-12-12T19:49:20Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 26,
-            "name": "ENB Preset"
-          },
-          "modId": 53829,
-          "name": "Gamma",
-          "status": "published",
-          "summary": "Allows you to adjust gamma, saturation and luminance",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53829/53829-1702410481-1578877530.jpeg",
-          "uid": "429496783429",
-          "updatedAt": "2024-01-16T10:01:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-11-13T22:51:47Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 53722,
-          "name": "Eternal Shine",
-          "status": "published",
-          "summary": "Adds a glowing halo to all physical lights",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53722/53722-1700689538-1332347015.jpeg",
-          "uid": "429496783322",
-          "updatedAt": "2023-12-16T19:08:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-29T09:57:55Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53291,
-          "name": "Falling n'wahs",
-          "status": "published",
-          "summary": "Realistic gravity and fall damage",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53291/53291-1690624588-1230406071.jpeg",
-          "uid": "429496782891",
-          "updatedAt": "2023-07-29T09:57:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-01T15:18:03Z",
-          "fileSize": 3705240,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 52965,
-          "name": "HeartStrings",
-          "status": "published",
-          "summary": "Total Music Overhaul",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52965/52965-1685292814-649918941.jpeg",
-          "uid": "429496782565",
-          "updatedAt": "2025-02-14T12:13:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-21T11:15:56Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52917,
-          "name": "Assassin's Crit",
-          "status": "published",
-          "summary": "The Dark Brotherhood will start attacking you after reaching a certain level of reputation and will not stop attacks until they are destroyed",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52917/52917-1684667667-1748709682.jpeg",
-          "uid": "429496782517",
-          "updatedAt": "2023-05-21T11:15:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-06T15:59:29Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52828,
-          "name": "Constant enchantment limit",
-          "status": "published",
-          "summary": "Do you like to decorate yourself with artifacts like a Christmas tree? Then this mod is not for you.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52828/52828-1683388678-455468718.jpeg",
-          "uid": "429496782428",
-          "updatedAt": "2023-05-06T15:59:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-04-30T23:03:58Z",
-          "fileSize": 28906,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 52747,
-          "name": "Impact Sounds",
-          "status": "published",
-          "summary": "How did we play Morrowind for 20 years without this mod?",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52747/52747-1682895594-1097260110.jpeg",
-          "uid": "429496782347",
-          "updatedAt": "2024-10-02T16:12:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-11-13T22:50:38Z",
-          "fileSize": 28,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 51968,
-          "name": "Main Menu Overhaul",
-          "status": "published",
-          "summary": "Improves the main menu: 4 mods in 1",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51968/51968-1668379658-1181431830.jpeg",
-          "uid": "429496781568",
-          "updatedAt": "2022-11-13T22:50:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-10-29T18:03:04Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 51924,
-          "name": "Buff Bars",
-          "status": "published",
-          "summary": "Adds bars for your buffs and debuffs",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51924/51924-1667066328-290662554.png",
-          "uid": "429496781524",
-          "updatedAt": "2022-11-21T10:25:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-07-18T08:49:45Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 51626,
-          "name": "AntiTodding",
-          "status": "published",
-          "summary": "Don't let your coding become Todding",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51626/51626-1658134081-2036350424.jpeg",
-          "uid": "429496781226",
-          "updatedAt": "2022-07-18T15:08:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-30T23:34:59Z",
-          "fileSize": 2395,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51034,
-          "name": "PvP",
-          "status": "published",
-          "summary": "A combat based on parries and dodges. Enemies fight almost like real players.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51034/51034-1651000355-1917987181.jpeg",
-          "uid": "429496780634",
-          "updatedAt": "2024-10-11T09:46:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-30T23:34:32Z",
-          "fileSize": 1207,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51027,
-          "name": "ShieldsUp",
-          "status": "published",
-          "summary": "Active shield block, arrow block",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51027/51027-1650903689-909020399.jpeg",
-          "uid": "429496780627",
-          "updatedAt": "2022-04-30T23:34:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-30T23:34:02Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51035,
-          "name": "Pacifist",
-          "status": "published",
-          "summary": "Want to get someone else's equipped item? Now you don't have to kill. Be a pacifist - just beat this dude half to death!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51035/51035-1651003177-1735170420.jpeg",
-          "uid": "429496780635",
-          "updatedAt": "2022-04-30T23:34:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-30T23:33:49Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51038,
-          "name": "Parkour",
-          "status": "published",
-          "summary": "Comfortable climbing and pushing off walls",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51038/51038-1651063054-1138470944.jpeg",
-          "uid": "429496780638",
-          "updatedAt": "2022-04-30T23:33:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-30T23:33:27Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51026,
-          "name": "AntiBunny",
-          "status": "published",
-          "summary": "Realistic jump height",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51026/51026-1650887279-1909250317.jpeg",
-          "uid": "429496780626",
-          "updatedAt": "2022-04-30T23:33:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-30T23:32:35Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51022,
-          "name": "MultiEnchant",
-          "status": "published",
-          "summary": "Multi-enchantments will no longer unfairly increase capacity consumption",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51022/51022-1650833439-891310538.jpeg",
-          "uid": "429496780622",
-          "updatedAt": "2022-04-30T23:32:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-07-24T09:37:08Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50071,
-          "name": "DragonBreak",
-          "status": "published",
-          "summary": "SUPERHOT",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50071/50071-1627119325-317490846.jpeg",
-          "uid": "429496779671",
-          "updatedAt": "2021-07-24T10:26:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-17T19:58:02Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49801,
-          "name": "Final Strike",
-          "status": "published",
-          "summary": "Allows you to make 3 super-attacks: charge, slam and round attack",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49801/49801-1621281409-1773824503.png",
-          "uid": "429496779401",
-          "updatedAt": "2021-06-10T11:33:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-15T16:39:02Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49775,
-          "name": "Combo Master",
-          "status": "published",
-          "summary": "Perform fast combo attacks!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49775/49775-1621095820-1783243675.jpeg",
-          "uid": "429496779375",
-          "updatedAt": "2021-05-15T16:39:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-12T18:23:28Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 49759,
-          "name": "Spawner",
-          "status": "published",
-          "summary": "Convenient creature spawner",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49759/49759-1620843686-1393690890.jpeg",
-          "uid": "429496779359",
-          "updatedAt": "2022-12-22T14:44:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-11T20:54:54Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49756,
-          "name": "Fast Attack",
-          "status": "published",
-          "summary": "Increases weapon attack speed and range depending on your stats",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49756/49756-1620766429-1459684682.jpeg",
-          "uid": "429496779356",
-          "updatedAt": "2021-05-11T20:54:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-10T14:53:37Z",
-          "fileSize": 22,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49747,
-          "name": "Throw it",
-          "status": "published",
-          "summary": "Allows you to throw any weapon",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49747/49747-1620658354-973238193.jpeg",
-          "uid": "429496779347",
-          "updatedAt": "2022-06-17T16:23:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-09T22:05:41Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49739,
-          "name": "MagicStrorm",
-          "status": "published",
-          "summary": "Adds 3 new spell casting modes: spray, ray and shotgun",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49739/49739-1620597879-2011274039.jpeg",
-          "uid": "429496779339",
-          "updatedAt": "2021-05-22T08:58:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-08T15:21:03Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49715,
-          "name": "Armor Rating",
-          "status": "published",
-          "summary": "More realistic and smoother formula for calculating armor rating",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49715/49715-1620487202-475950256.jpeg",
-          "uid": "429496779315",
-          "updatedAt": "2021-05-08T15:21:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-07T19:19:52Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49709,
-          "name": "ManaShield",
-          "status": "published",
-          "summary": "The shield magic effect now absorbs physical damage, wasting your mana",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49709/49709-1620415097-971572678.jpeg",
-          "uid": "429496779309",
-          "updatedAt": "2021-05-07T19:19:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-07T16:22:00Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49708,
-          "name": "Auramancer",
-          "status": "published",
-          "summary": "Elemental shields damage everyone around",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49708/49708-1620404444-1703336216.gif",
-          "uid": "429496779308",
-          "updatedAt": "2021-05-07T16:22:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-06T22:55:53Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49698,
-          "name": "Fast Cast",
-          "status": "published",
-          "summary": "Speeds up spell casting",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49698/49698-1620341649-328136425.jpeg",
-          "uid": "429496779298",
-          "updatedAt": "2021-05-06T22:55:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-06T17:25:15Z",
-          "fileSize": 6798,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49694,
-          "name": "Runes and Totems",
-          "status": "published",
-          "summary": "Ability to create runes on the ground that will explode when enemies are close. Ability to create totems that will shoot magic at nearby enemies.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49694/49694-1620321817-1131156675.jpeg",
-          "uid": "429496779294",
-          "updatedAt": "2021-05-06T17:25:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-05T11:17:47Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49684,
-          "name": "BattleMage",
-          "status": "published",
-          "summary": "Targeted weapon enchantments trigger on attack. Bow enchantments are triggered by an arrow hit. The ability to cast spells when attacking.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49684/49684-1620213403-1165099044.jpeg",
-          "uid": "429496779284",
-          "updatedAt": "2021-08-20T17:45:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-04T12:50:42Z",
-          "fileSize": 11,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49670,
-          "name": "Ultra AI",
-          "status": "published",
-          "summary": "Combat AI overhaul",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49670/49670-1620132555-505238506.jpeg",
-          "uid": "429496779270",
-          "updatedAt": "2023-01-11T18:02:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-04T08:45:01Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49667,
-          "name": "Bomberman",
-          "status": "published",
-          "summary": "Elemental blasts knock enemies back",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49667/49667-1620117822-1642638375.jpeg",
-          "uid": "429496779267",
-          "updatedAt": "2021-05-04T08:45:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-03T16:11:36Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49659,
-          "name": "Control",
-          "status": "published",
-          "summary": "Ability to control magic projectiles and arrows",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49659/49659-1620058180-236133408.jpeg",
-          "uid": "429496779259",
-          "updatedAt": "2021-05-03T16:11:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-03T11:25:50Z",
-          "fileSize": 11,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49657,
-          "name": "N'wah Shooter - Marksman Overhaul",
-          "status": "published",
-          "summary": "Realistic gravity for arrows. Shaking hands when pulling the string. Multi-shot ability. Arrows stay in objects and ground.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49657/49657-1620041064-668286697.jpeg",
-          "uid": "429496779257",
-          "updatedAt": "2024-12-19T10:26:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-02T19:17:55Z",
-          "fileSize": 360,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49646,
-          "name": "Time Shift",
-          "status": "published",
-          "summary": "Bullet-time ability",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49646/49646-1620137390-1566809549.jpeg",
-          "uid": "429496779246",
-          "updatedAt": "2021-05-02T19:17:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-02T15:05:51Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49642,
-          "name": "KickMaster",
-          "status": "published",
-          "summary": "The ability to make a kick that deals minor damage to health and stamina and knocks the enemy back",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49642/49642-1619967865-937975064.jpeg",
-          "uid": "429496779242",
-          "updatedAt": "2021-05-02T15:05:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-02T12:24:46Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49640,
-          "name": "Dash",
-          "status": "published",
-          "summary": "The ability to do dash - fast forward, backward or sideways movement",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49640/49640-1619958260-417558922.jpeg",
-          "uid": "429496779240",
-          "updatedAt": "2021-05-02T12:24:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-02T10:24:42Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49638,
-          "name": "Frenzy n'wahs",
-          "status": "published",
-          "summary": "Frenzy spells make enemies attack everyone around",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49638/49638-1619950968-1684924564.jpeg",
-          "uid": "429496779238",
-          "updatedAt": "2021-05-02T10:24:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-01T22:02:15Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49628,
-          "name": "Grip of Death",
-          "status": "published",
-          "summary": "Change the grip of the weapon from one-handed to two-handed and vice versa",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49628/49628-1619950032-1479984321.jpeg",
-          "uid": "429496779228",
-          "updatedAt": "2021-05-06T10:33:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-02-24T20:49:25Z",
-          "fileSize": 981,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49339,
-          "name": "Double CHIM",
-          "status": "published",
-          "summary": "The Gods gave you two hands, and you use them both for your weapon",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49339/49339-1614199505-2021531481.jpeg",
-          "uid": "429496778939",
-          "updatedAt": "2022-08-27T16:03:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-09T12:12:06Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 48912,
-          "name": "4NM_MENU",
-          "status": "published",
-          "summary": "Improves the spell creation menu, spell book, adds an alchemical filter",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48912/48912-1602245323-481807776.jpeg",
-          "uid": "429496778512",
-          "updatedAt": "2024-12-29T23:23:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-29T14:02:03Z",
-          "fileSize": 11981,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 47883,
-          "name": "N'wah-Translator - Tamriel Rebuilt translation",
-          "status": "published",
-          "summary": "Это почти полный и удобный перевод Тамриэль Ребилда и Проджект Тамриэля последних версий.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47883/47883-1588168708-1613563385.jpeg",
-          "uid": "429496777483",
-          "updatedAt": "2020-04-29T14:02:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-23T15:55:29Z",
-          "fileSize": 406,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47538,
-          "name": "4NM_PERKS",
-          "status": "published",
-          "summary": "Adds passive and active perks for all skills and class bonuses.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47538/47538-1579794545-1097989475.jpeg",
-          "uid": "429496777138",
-          "updatedAt": "2020-01-23T15:55:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-09T10:22:44Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47368,
-          "name": "HardTrade",
-          "status": "published",
-          "summary": "Barter overhaul. Allows you to invest in stores.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47368/47368-1575886835-1882335041.jpeg",
-          "uid": "429496776968",
-          "updatedAt": "2022-05-19T15:51:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-06T20:00:33Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47362,
-          "name": "4NM_GMST",
-          "status": "published",
-          "summary": "Small mod - big changes",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47362/47362-1575662252-1177948039.jpeg",
-          "uid": "429496776962",
-          "updatedAt": "2020-02-27T17:33:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-11-09T16:44:38Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47306,
-          "name": "4NM_RANDOMIZER",
-          "status": "published",
-          "summary": "Stats of creatures are set at 80-120% of the norm.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47306/47306-1573317395-1062472687.jpeg",
-          "uid": "429496776906",
-          "updatedAt": "2020-01-21T12:59:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-10-17T21:44:11Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47243,
-          "name": "4NM_STRIKE",
-          "status": "published",
-          "summary": "Weapons enchanted \"on strike\" and \"on distant target\" now fire a projectile at any attack with it.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47243/47243-1571348444-1652058750.jpeg",
-          "uid": "429496776843",
-          "updatedAt": "2019-10-17T21:44:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-09-16T14:31:54Z",
-          "fileSize": 713,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47181,
-          "name": "Beauty Scrolls",
-          "status": "published",
-          "summary": "Replaces magic scrolls icons with lua",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47181/47181-1568644107-602268580.jpeg",
-          "uid": "429496776781",
-          "updatedAt": "2019-09-16T14:31:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-09-11T17:15:45Z",
-          "fileSize": 0,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47170,
-          "name": "HardSave",
-          "status": "published",
-          "summary": "You cannot save the game in battle.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47170/47170-1568222066-2116826821.jpeg",
-          "uid": "429496776770",
-          "updatedAt": "2019-09-11T17:15:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-09-10T21:39:26Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47169,
-          "name": "DragonDoor",
-          "status": "published",
-          "summary": "Enemies are now chasing you through the doors",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47169/47169-1568151242-379843790.jpeg",
-          "uid": "429496776769",
-          "updatedAt": "2023-11-08T12:11:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-22T21:57:48Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47104,
-          "name": "4NM_ARMORER",
-          "status": "published",
-          "summary": "Ability to improve weapon and armor condition above normal with repair tools. Items improved this way deal more damage and give more armor rating.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47104/47104-1595080712-926658947.jpeg",
-          "uid": "429496776704",
-          "updatedAt": "2021-12-16T20:35:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-19T11:50:09Z",
-          "fileSize": 103155,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47095,
-          "name": "4NM_MAGIC",
-          "status": "published",
-          "summary": "Power of all magic is now scaled from many other factors (resistances, skills, attributes, fatigue...). Critical hits for magic. Secondary effects for different damage types. Adds",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47095/47095-1590609387-1911782438.jpeg",
-          "uid": "429496776695",
-          "updatedAt": "2020-07-18T20:11:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-09T20:13:36Z",
-          "fileSize": 58,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47062,
-          "name": "4NM_ALCHEMY",
-          "status": "published",
-          "summary": "No more drinking over 9000 potions! No more alchemical exploits! No more useless poisons! Poison weapons and throw poison bottles! Rebalancing potion brewing formulas. Beautiful",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47062/47062-1689359107-1681344560.png",
-          "uid": "429496776662",
-          "updatedAt": "2023-02-28T10:31:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-08T18:21:14Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47056,
-          "name": "4NM_COMBAT",
-          "status": "published",
-          "summary": "This is a complete overhaul of weapon combat system. Makes combat truly dynamic and realistic, with every weapon type having it's own unique ability and playstyle. Enhances AI of",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47056/47056-1565287554-1928543205.jpeg",
-          "uid": "429496776656",
-          "updatedAt": "2020-07-18T20:29:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-02T13:29:11Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47035,
-          "name": "4NM_Training",
-          "status": "published",
-          "summary": "The gain of experience in magic skills now depends on the spellcost. The gain of experience in battle skills now depends on damage, hero and enemy levels.Optional: 5 skill points",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47035/47035-1564752149-864602067.png",
-          "uid": "429496776635",
-          "updatedAt": "2020-01-12T13:07:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-07-26T20:13:59Z",
-          "fileSize": 5828,
-          "modCategory": {
-            "categoryId": 29,
-            "name": "Overhauls"
-          },
-          "modId": 47015,
-          "name": "4NM - Total Gameplay Overhaul",
-          "status": "published",
-          "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
-          "uid": "429496776615",
-          "updatedAt": "2025-05-10T16:27:41Z"
-        }
-      ],
-      "totalCount": 60
+  "checkedAt": "2025-05-13T18:58:23.115Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 60
+      }
     },
-    "checkedAt": "2025-05-13T18:25:19.279Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-28T12:12:45Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55673,
+        "name": "Armored Slaves",
+        "status": "published",
+        "summary": "Beast races can wear boots and closed helmets",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55673/55673-1735387850-1618269530.jpeg",
+        "uid": "429496785273",
+        "updatedAt": "2024-12-28T12:12:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-25T11:50:54Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54729,
+        "name": "LootMania",
+        "status": "published",
+        "summary": "You have a chance to find additional leveled (random) loot.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54729/54729-1716637754-418178936.jpeg",
+        "uid": "429496784329",
+        "updatedAt": "2024-05-25T11:50:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-04T15:15:29Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54574,
+        "name": "Rag n'wahs",
+        "status": "published",
+        "summary": "Enemies are knocked back on killing hits",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54574/54574-1714835626-630834487.png",
+        "uid": "429496784174",
+        "updatedAt": "2024-05-04T15:15:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-02T13:53:11Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54549,
+        "name": "Blast Shield",
+        "status": "published",
+        "summary": "Physical barriers protect against AoE spells",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54549/54549-1714657887-1619524073.jpeg",
+        "uid": "429496784149",
+        "updatedAt": "2024-05-02T13:53:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-01T22:46:34Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54544,
+        "name": "Quick Wheel",
+        "status": "published",
+        "summary": "Quick access wheel like in modern games",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54544/54544-1714603453-140339795.jpeg",
+        "uid": "429496784144",
+        "updatedAt": "2024-05-02T11:52:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-12T19:49:20Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 26,
+          "name": "ENB Preset"
+        },
+        "modId": 53829,
+        "name": "Gamma",
+        "status": "published",
+        "summary": "Allows you to adjust gamma, saturation and luminance",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53829/53829-1702410481-1578877530.jpeg",
+        "uid": "429496783429",
+        "updatedAt": "2024-01-16T10:01:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-13T22:51:47Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 53722,
+        "name": "Eternal Shine",
+        "status": "published",
+        "summary": "Adds a glowing halo to all physical lights",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53722/53722-1700689538-1332347015.jpeg",
+        "uid": "429496783322",
+        "updatedAt": "2023-12-16T19:08:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-29T09:57:55Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53291,
+        "name": "Falling n'wahs",
+        "status": "published",
+        "summary": "Realistic gravity and fall damage",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53291/53291-1690624588-1230406071.jpeg",
+        "uid": "429496782891",
+        "updatedAt": "2023-07-29T09:57:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-01T15:18:03Z",
+        "fileSize": 3705240,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 52965,
+        "name": "HeartStrings",
+        "status": "published",
+        "summary": "Total Music Overhaul",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52965/52965-1685292814-649918941.jpeg",
+        "uid": "429496782565",
+        "updatedAt": "2025-02-14T12:13:07Z",
+        "fileIds": [
+          "1000050364",
+          "1000050366"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-21T11:15:56Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52917,
+        "name": "Assassin's Crit",
+        "status": "published",
+        "summary": "The Dark Brotherhood will start attacking you after reaching a certain level of reputation and will not stop attacks until they are destroyed",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52917/52917-1684667667-1748709682.jpeg",
+        "uid": "429496782517",
+        "updatedAt": "2023-05-21T11:15:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-06T15:59:29Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52828,
+        "name": "Constant enchantment limit",
+        "status": "published",
+        "summary": "Do you like to decorate yourself with artifacts like a Christmas tree? Then this mod is not for you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52828/52828-1683388678-455468718.jpeg",
+        "uid": "429496782428",
+        "updatedAt": "2023-05-06T15:59:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-04-30T23:03:58Z",
+        "fileSize": 28906,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 52747,
+        "name": "Impact Sounds",
+        "status": "published",
+        "summary": "How did we play Morrowind for 20 years without this mod?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52747/52747-1682895594-1097260110.jpeg",
+        "uid": "429496782347",
+        "updatedAt": "2024-10-02T16:12:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-11-13T22:50:38Z",
+        "fileSize": 28,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 51968,
+        "name": "Main Menu Overhaul",
+        "status": "published",
+        "summary": "Improves the main menu: 4 mods in 1",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51968/51968-1668379658-1181431830.jpeg",
+        "uid": "429496781568",
+        "updatedAt": "2022-11-13T22:50:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-10-29T18:03:04Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 51924,
+        "name": "Buff Bars",
+        "status": "published",
+        "summary": "Adds bars for your buffs and debuffs",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51924/51924-1667066328-290662554.png",
+        "uid": "429496781524",
+        "updatedAt": "2022-11-21T10:25:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-07-18T08:49:45Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 51626,
+        "name": "AntiTodding",
+        "status": "published",
+        "summary": "Don't let your coding become Todding",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51626/51626-1658134081-2036350424.jpeg",
+        "uid": "429496781226",
+        "updatedAt": "2022-07-18T15:08:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:34:59Z",
+        "fileSize": 2395,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51034,
+        "name": "PvP",
+        "status": "published",
+        "summary": "A combat based on parries and dodges. Enemies fight almost like real players.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51034/51034-1651000355-1917987181.jpeg",
+        "uid": "429496780634",
+        "updatedAt": "2024-10-11T09:46:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:34:32Z",
+        "fileSize": 1207,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51027,
+        "name": "ShieldsUp",
+        "status": "published",
+        "summary": "Active shield block, arrow block",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51027/51027-1650903689-909020399.jpeg",
+        "uid": "429496780627",
+        "updatedAt": "2022-04-30T23:34:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:34:02Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51035,
+        "name": "Pacifist",
+        "status": "published",
+        "summary": "Want to get someone else's equipped item? Now you don't have to kill. Be a pacifist - just beat this dude half to death!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51035/51035-1651003177-1735170420.jpeg",
+        "uid": "429496780635",
+        "updatedAt": "2022-04-30T23:34:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:33:49Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51038,
+        "name": "Parkour",
+        "status": "published",
+        "summary": "Comfortable climbing and pushing off walls",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51038/51038-1651063054-1138470944.jpeg",
+        "uid": "429496780638",
+        "updatedAt": "2022-04-30T23:33:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:33:27Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51026,
+        "name": "AntiBunny",
+        "status": "published",
+        "summary": "Realistic jump height",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51026/51026-1650887279-1909250317.jpeg",
+        "uid": "429496780626",
+        "updatedAt": "2022-04-30T23:33:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:32:35Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51022,
+        "name": "MultiEnchant",
+        "status": "published",
+        "summary": "Multi-enchantments will no longer unfairly increase capacity consumption",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51022/51022-1650833439-891310538.jpeg",
+        "uid": "429496780622",
+        "updatedAt": "2022-04-30T23:32:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-07-24T09:37:08Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50071,
+        "name": "DragonBreak",
+        "status": "published",
+        "summary": "SUPERHOT",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50071/50071-1627119325-317490846.jpeg",
+        "uid": "429496779671",
+        "updatedAt": "2021-07-24T10:26:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-17T19:58:02Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49801,
+        "name": "Final Strike",
+        "status": "published",
+        "summary": "Allows you to make 3 super-attacks: charge, slam and round attack",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49801/49801-1621281409-1773824503.png",
+        "uid": "429496779401",
+        "updatedAt": "2021-06-10T11:33:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-15T16:39:02Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49775,
+        "name": "Combo Master",
+        "status": "published",
+        "summary": "Perform fast combo attacks!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49775/49775-1621095820-1783243675.jpeg",
+        "uid": "429496779375",
+        "updatedAt": "2021-05-15T16:39:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-12T18:23:28Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 49759,
+        "name": "Spawner",
+        "status": "published",
+        "summary": "Convenient creature spawner",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49759/49759-1620843686-1393690890.jpeg",
+        "uid": "429496779359",
+        "updatedAt": "2022-12-22T14:44:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-11T20:54:54Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49756,
+        "name": "Fast Attack",
+        "status": "published",
+        "summary": "Increases weapon attack speed and range depending on your stats",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49756/49756-1620766429-1459684682.jpeg",
+        "uid": "429496779356",
+        "updatedAt": "2021-05-11T20:54:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-10T14:53:37Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49747,
+        "name": "Throw it",
+        "status": "published",
+        "summary": "Allows you to throw any weapon",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49747/49747-1620658354-973238193.jpeg",
+        "uid": "429496779347",
+        "updatedAt": "2022-06-17T16:23:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-09T22:05:41Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49739,
+        "name": "MagicStrorm",
+        "status": "published",
+        "summary": "Adds 3 new spell casting modes: spray, ray and shotgun",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49739/49739-1620597879-2011274039.jpeg",
+        "uid": "429496779339",
+        "updatedAt": "2021-05-22T08:58:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-08T15:21:03Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49715,
+        "name": "Armor Rating",
+        "status": "published",
+        "summary": "More realistic and smoother formula for calculating armor rating",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49715/49715-1620487202-475950256.jpeg",
+        "uid": "429496779315",
+        "updatedAt": "2021-05-08T15:21:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-07T19:19:52Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49709,
+        "name": "ManaShield",
+        "status": "published",
+        "summary": "The shield magic effect now absorbs physical damage, wasting your mana",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49709/49709-1620415097-971572678.jpeg",
+        "uid": "429496779309",
+        "updatedAt": "2021-05-07T19:19:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-07T16:22:00Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49708,
+        "name": "Auramancer",
+        "status": "published",
+        "summary": "Elemental shields damage everyone around",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49708/49708-1620404444-1703336216.gif",
+        "uid": "429496779308",
+        "updatedAt": "2021-05-07T16:22:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-06T22:55:53Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49698,
+        "name": "Fast Cast",
+        "status": "published",
+        "summary": "Speeds up spell casting",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49698/49698-1620341649-328136425.jpeg",
+        "uid": "429496779298",
+        "updatedAt": "2021-05-06T22:55:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-06T17:25:15Z",
+        "fileSize": 6798,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49694,
+        "name": "Runes and Totems",
+        "status": "published",
+        "summary": "Ability to create runes on the ground that will explode when enemies are close. Ability to create totems that will shoot magic at nearby enemies.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49694/49694-1620321817-1131156675.jpeg",
+        "uid": "429496779294",
+        "updatedAt": "2021-05-06T17:25:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-05T11:17:47Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49684,
+        "name": "BattleMage",
+        "status": "published",
+        "summary": "Targeted weapon enchantments trigger on attack. Bow enchantments are triggered by an arrow hit. The ability to cast spells when attacking.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49684/49684-1620213403-1165099044.jpeg",
+        "uid": "429496779284",
+        "updatedAt": "2021-08-20T17:45:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-04T12:50:42Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49670,
+        "name": "Ultra AI",
+        "status": "published",
+        "summary": "Combat AI overhaul",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49670/49670-1620132555-505238506.jpeg",
+        "uid": "429496779270",
+        "updatedAt": "2023-01-11T18:02:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-04T08:45:01Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49667,
+        "name": "Bomberman",
+        "status": "published",
+        "summary": "Elemental blasts knock enemies back",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49667/49667-1620117822-1642638375.jpeg",
+        "uid": "429496779267",
+        "updatedAt": "2021-05-04T08:45:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-03T16:11:36Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49659,
+        "name": "Control",
+        "status": "published",
+        "summary": "Ability to control magic projectiles and arrows",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49659/49659-1620058180-236133408.jpeg",
+        "uid": "429496779259",
+        "updatedAt": "2021-05-03T16:11:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-03T11:25:50Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49657,
+        "name": "N'wah Shooter - Marksman Overhaul",
+        "status": "published",
+        "summary": "Realistic gravity for arrows. Shaking hands when pulling the string. Multi-shot ability. Arrows stay in objects and ground.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49657/49657-1620041064-668286697.jpeg",
+        "uid": "429496779257",
+        "updatedAt": "2024-12-19T10:26:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-02T19:17:55Z",
+        "fileSize": 360,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49646,
+        "name": "Time Shift",
+        "status": "published",
+        "summary": "Bullet-time ability",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49646/49646-1620137390-1566809549.jpeg",
+        "uid": "429496779246",
+        "updatedAt": "2021-05-02T19:17:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-02T15:05:51Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49642,
+        "name": "KickMaster",
+        "status": "published",
+        "summary": "The ability to make a kick that deals minor damage to health and stamina and knocks the enemy back",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49642/49642-1619967865-937975064.jpeg",
+        "uid": "429496779242",
+        "updatedAt": "2021-05-02T15:05:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-02T12:24:46Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49640,
+        "name": "Dash",
+        "status": "published",
+        "summary": "The ability to do dash - fast forward, backward or sideways movement",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49640/49640-1619958260-417558922.jpeg",
+        "uid": "429496779240",
+        "updatedAt": "2021-05-02T12:24:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-02T10:24:42Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49638,
+        "name": "Frenzy n'wahs",
+        "status": "published",
+        "summary": "Frenzy spells make enemies attack everyone around",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49638/49638-1619950968-1684924564.jpeg",
+        "uid": "429496779238",
+        "updatedAt": "2021-05-02T10:24:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-01T22:02:15Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49628,
+        "name": "Grip of Death",
+        "status": "published",
+        "summary": "Change the grip of the weapon from one-handed to two-handed and vice versa",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49628/49628-1619950032-1479984321.jpeg",
+        "uid": "429496779228",
+        "updatedAt": "2021-05-06T10:33:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-02-24T20:49:25Z",
+        "fileSize": 981,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49339,
+        "name": "Double CHIM",
+        "status": "published",
+        "summary": "The Gods gave you two hands, and you use them both for your weapon",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49339/49339-1614199505-2021531481.jpeg",
+        "uid": "429496778939",
+        "updatedAt": "2022-08-27T16:03:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-09T12:12:06Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 48912,
+        "name": "4NM_MENU",
+        "status": "published",
+        "summary": "Improves the spell creation menu, spell book, adds an alchemical filter",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48912/48912-1602245323-481807776.jpeg",
+        "uid": "429496778512",
+        "updatedAt": "2024-12-29T23:23:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-29T14:02:03Z",
+        "fileSize": 11981,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 47883,
+        "name": "N'wah-Translator - Tamriel Rebuilt translation",
+        "status": "published",
+        "summary": "Это почти полный и удобный перевод Тамриэль Ребилда и Проджект Тамриэля последних версий.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47883/47883-1588168708-1613563385.jpeg",
+        "uid": "429496777483",
+        "updatedAt": "2020-04-29T14:02:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-23T15:55:29Z",
+        "fileSize": 406,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47538,
+        "name": "4NM_PERKS",
+        "status": "published",
+        "summary": "Adds passive and active perks for all skills and class bonuses.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47538/47538-1579794545-1097989475.jpeg",
+        "uid": "429496777138",
+        "updatedAt": "2020-01-23T15:55:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-09T10:22:44Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47368,
+        "name": "HardTrade",
+        "status": "published",
+        "summary": "Barter overhaul. Allows you to invest in stores.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47368/47368-1575886835-1882335041.jpeg",
+        "uid": "429496776968",
+        "updatedAt": "2022-05-19T15:51:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-06T20:00:33Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47362,
+        "name": "4NM_GMST",
+        "status": "published",
+        "summary": "Small mod - big changes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47362/47362-1575662252-1177948039.jpeg",
+        "uid": "429496776962",
+        "updatedAt": "2020-02-27T17:33:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-11-09T16:44:38Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47306,
+        "name": "4NM_RANDOMIZER",
+        "status": "published",
+        "summary": "Stats of creatures are set at 80-120% of the norm.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47306/47306-1573317395-1062472687.jpeg",
+        "uid": "429496776906",
+        "updatedAt": "2020-01-21T12:59:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-10-17T21:44:11Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47243,
+        "name": "4NM_STRIKE",
+        "status": "published",
+        "summary": "Weapons enchanted \"on strike\" and \"on distant target\" now fire a projectile at any attack with it.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47243/47243-1571348444-1652058750.jpeg",
+        "uid": "429496776843",
+        "updatedAt": "2019-10-17T21:44:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-09-16T14:31:54Z",
+        "fileSize": 713,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47181,
+        "name": "Beauty Scrolls",
+        "status": "published",
+        "summary": "Replaces magic scrolls icons with lua",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47181/47181-1568644107-602268580.jpeg",
+        "uid": "429496776781",
+        "updatedAt": "2019-09-16T14:31:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-09-11T17:15:45Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47170,
+        "name": "HardSave",
+        "status": "published",
+        "summary": "You cannot save the game in battle.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47170/47170-1568222066-2116826821.jpeg",
+        "uid": "429496776770",
+        "updatedAt": "2019-09-11T17:15:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-09-10T21:39:26Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47169,
+        "name": "DragonDoor",
+        "status": "published",
+        "summary": "Enemies are now chasing you through the doors",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47169/47169-1568151242-379843790.jpeg",
+        "uid": "429496776769",
+        "updatedAt": "2023-11-08T12:11:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-22T21:57:48Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47104,
+        "name": "4NM_ARMORER",
+        "status": "published",
+        "summary": "Ability to improve weapon and armor condition above normal with repair tools. Items improved this way deal more damage and give more armor rating.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47104/47104-1595080712-926658947.jpeg",
+        "uid": "429496776704",
+        "updatedAt": "2021-12-16T20:35:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-19T11:50:09Z",
+        "fileSize": 103155,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47095,
+        "name": "4NM_MAGIC",
+        "status": "published",
+        "summary": "Power of all magic is now scaled from many other factors (resistances, skills, attributes, fatigue...). Critical hits for magic. Secondary effects for different damage types. Adds",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47095/47095-1590609387-1911782438.jpeg",
+        "uid": "429496776695",
+        "updatedAt": "2020-07-18T20:11:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-09T20:13:36Z",
+        "fileSize": 58,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47062,
+        "name": "4NM_ALCHEMY",
+        "status": "published",
+        "summary": "No more drinking over 9000 potions! No more alchemical exploits! No more useless poisons! Poison weapons and throw poison bottles! Rebalancing potion brewing formulas. Beautiful",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47062/47062-1689359107-1681344560.png",
+        "uid": "429496776662",
+        "updatedAt": "2023-02-28T10:31:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-08T18:21:14Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47056,
+        "name": "4NM_COMBAT",
+        "status": "published",
+        "summary": "This is a complete overhaul of weapon combat system. Makes combat truly dynamic and realistic, with every weapon type having it's own unique ability and playstyle. Enhances AI of",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47056/47056-1565287554-1928543205.jpeg",
+        "uid": "429496776656",
+        "updatedAt": "2020-07-18T20:29:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-02T13:29:11Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47035,
+        "name": "4NM_Training",
+        "status": "published",
+        "summary": "The gain of experience in magic skills now depends on the spellcost. The gain of experience in battle skills now depends on damage, hero and enemy levels.Optional: 5 skill points",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47035/47035-1564752149-864602067.png",
+        "uid": "429496776635",
+        "updatedAt": "2020-01-12T13:07:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-07-26T20:13:59Z",
+        "fileSize": 5828,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 47015,
+        "name": "4NM - Total Gameplay Overhaul",
+        "status": "published",
+        "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
+        "uid": "429496776615",
+        "updatedAt": "2025-05-10T16:27:41Z",
+        "fileIds": [
+          "1000050367",
+          "1000052740"
+        ]
+      }
+    ],
+    "totalCount": 60
   }
 }

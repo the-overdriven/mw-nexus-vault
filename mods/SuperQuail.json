@@ -1,64 +1,69 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 3,
-          "130": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-04-17T22:11:17Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 56361,
-          "name": "Balanced Faction Progression",
-          "status": "published",
-          "summary": "Realistic, balanced requirements for joining and advancing rank in factions.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56361/56361-1744926739-1780345421.png",
-          "uid": "429496785961",
-          "updatedAt": "2025-04-17T22:11:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-07-20T03:06:16Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 46990,
-          "name": "Exterior Guild Lighting",
-          "status": "published",
-          "summary": "Adds appropriate lighting to Mages Guild and Morag Tong building exteriors.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46990/46990-1563591368-53230148.png",
-          "uid": "429496776590",
-          "updatedAt": "2019-07-20T03:06:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-10-29T03:53:24Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 46119,
-          "name": "Descriptive Shrines",
-          "status": "published",
-          "summary": "Adds brief descriptions to temple shrines.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46119/46119-1540785184-1606163049.png",
-          "uid": "429496775719",
-          "updatedAt": "2025-04-18T18:37:18Z"
-        }
-      ],
-      "totalCount": 3
+  "checkedAt": "2025-05-13T19:04:43.524Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3,
+        "130": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:37.245Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-17T22:11:17Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 56361,
+        "name": "Balanced Faction Progression",
+        "status": "published",
+        "summary": "Realistic, balanced requirements for joining and advancing rank in factions.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56361/56361-1744926739-1780345421.png",
+        "uid": "429496785961",
+        "updatedAt": "2025-04-17T22:11:17Z",
+        "fileIds": [
+          "1000051984"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-07-20T03:06:16Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 46990,
+        "name": "Exterior Guild Lighting",
+        "status": "published",
+        "summary": "Adds appropriate lighting to Mages Guild and Morag Tong building exteriors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46990/46990-1563591368-53230148.png",
+        "uid": "429496776590",
+        "updatedAt": "2019-07-20T03:06:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-10-29T03:53:24Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 46119,
+        "name": "Descriptive Shrines",
+        "status": "published",
+        "summary": "Adds brief descriptions to temple shrines.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46119/46119-1540785184-1606163049.png",
+        "uid": "429496775719",
+        "updatedAt": "2025-04-18T18:37:18Z",
+        "fileIds": [
+          "1000052007",
+          "1000052008"
+        ]
+      }
+    ],
+    "totalCount": 3
   }
 }

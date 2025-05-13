@@ -1,1295 +1,1572 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 101
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-05-11T08:36:34Z",
-          "fileSize": 135,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 56564,
-          "name": "Dralas Legacy - The Blade of Woe",
-          "status": "published",
-          "summary": "A quest mod and tomb overhaul that uncovers the fate of a Dark Brotherhood artifact: the Blade of Woe.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56564/56564-1746952264-1026955035.png",
-          "uid": "429496786164",
-          "updatedAt": "2025-05-12T15:24:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-05-04T07:41:22Z",
-          "fileSize": 34,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 56484,
-          "name": "Waresified Urns",
-          "status": "published",
-          "summary": "Warsified Urns expands the loot found in tomb urns. By utilizing the Wares levelled lists, this mod offers a wider variety of items, tailored to your modlist.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56484/56484-1746343974-351154752.png",
-          "uid": "429496786084",
-          "updatedAt": "2025-05-12T10:54:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-05-01T07:43:47Z",
-          "fileSize": 83,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 56450,
-          "name": "Hat and Hide - Adventures in Rhymes",
-          "status": "published",
-          "summary": "Meet Shuri-Viir, an eccentric Argonian jester with a talent for illusion, destruction, and rhyme! This quested companion will accompany you on your travels, offering witty verses,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56450/56450-1746085016-156655541.png",
-          "uid": "429496786050",
-          "updatedAt": "2025-05-13T11:04:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-20T15:34:10Z",
-          "fileSize": 2180,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 55836,
-          "name": "Arcane Implements - Cantrips Spellbooks and Runes",
-          "status": "published",
-          "summary": "Learn Cantrips from scrolls, spells from spellbooks and summon things from Oblivion with Daedric Runes.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55836/55836-1737386813-1229156031.jpeg",
-          "uid": "429496785436",
-          "updatedAt": "2025-05-03T16:04:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-08-09T20:36:40Z",
-          "fileSize": 98,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 55099,
-          "name": "It Takes One to Know One - A perk mod",
-          "status": "published",
-          "summary": "- Faction members will acknowledge your rank within the faction and grant you a perk unique to the faction.- Faction members of sufficient rank will acknowledge your skill in the",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55099/55099-1723234950-1784441031.png",
-          "uid": "429496784699",
-          "updatedAt": "2024-08-10T09:19:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-08-01T17:54:47Z",
-          "fileSize": 5605,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 55051,
-          "name": "The Bittersweet Tale of Lunaari",
-          "status": "published",
-          "summary": "Discover Lunaari, a young Khajiit hidden away in a Bitter Coast cave. Share gifts of tea, paintings, and ingredients to help her explore the world outside her cave while learning",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55051/55051-1722534920-129162228.png",
-          "uid": "429496784651",
-          "updatedAt": "2025-03-12T09:09:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-08T19:12:50Z",
-          "fileSize": 22,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 54611,
-          "name": "The Lucky Fellow",
-          "status": "published",
-          "summary": "Discover the story of the lucky fellow in Seyda Neen as told by its inhabitants.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54611/54611-1715195409-426871131.png",
-          "uid": "429496784211",
-          "updatedAt": "2024-05-10T20:30:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-04T22:23:57Z",
-          "fileSize": 1178,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 54588,
-          "name": "Visions - A Mysticism quest mod",
-          "status": "published",
-          "summary": "Those skilled in Mysticism (40+) may be granted visions while exploring the mainland. (Tamriel Rebuilt)",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54588/54588-1714861280-403553936.png",
-          "uid": "429496784188",
-          "updatedAt": "2025-02-06T18:38:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-01T05:49:15Z",
-          "fileSize": 119448,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 54518,
-          "name": "Creatures and Critters",
-          "status": "published",
-          "summary": "A mod crafted to harmonize diverse creature additions from great classicsSpawns make each region more uniqueLoot tables redone for variety and cohesion",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54518/54518-1714510254-875470411.png",
-          "uid": "429496784118",
-          "updatedAt": "2025-05-03T12:02:50Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-11-30T14:30:46Z",
-          "fileSize": 19169,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 53778,
-          "name": "Advent Calendar 2024",
-          "status": "published",
-          "summary": "Travel to Uncle Sweetshare's cabin on December 1st to collect a gift.Rinse and repeat until December 24th for a unique gift",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53778/53778-1701354352-1416436168.png",
-          "uid": "429496783378",
-          "updatedAt": "2024-12-01T04:14:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-10-31T23:52:41Z",
-          "fileSize": 28907,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 53677,
-          "name": "Halls Of Colossus",
-          "status": "published",
-          "summary": "Journey through time and space as you uncover the secrets of the ancient Halls of Colossus. Guarded by the Emperor's elite, this enigmatic location is your portal to an epic tale",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53677/53677-1698795395-1688615335.png",
-          "uid": "429496783277",
-          "updatedAt": "2023-11-05T15:26:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-18T22:46:48Z",
-          "fileSize": 92805,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 53391,
-          "name": "Animated Morrowind - Danae's Edits",
-          "status": "published",
-          "summary": "Fixes and Tweaks as well as edits for compatibility for Animated Morrowind - Merged, which it replaces",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53391/53391-1692398482-1881023525.jpeg",
-          "uid": "429496782991",
-          "updatedAt": "2025-02-06T19:04:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-14T08:19:34Z",
-          "fileSize": 948,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 53203,
-          "name": "Ivy Pelagiad",
-          "status": "published",
-          "summary": "This mod replaces the buildings (common and Nord) in Pelagiad with a different texture, giving Pelagiad a slightly more vibrant look, befitting the Ascadian Isles.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53203/53203-1689322310-955853253.png",
-          "uid": "429496782803",
-          "updatedAt": "2024-08-13T06:33:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-09T21:02:36Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 53176,
-          "name": "Izi-inspired Caldera",
-          "status": "published",
-          "summary": "Adds platforms and ladders/stairs to buildings in Caldera without editing vanilla buildings or landscape.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53176/53176-1688936281-1028392578.png",
-          "uid": "429496782776",
-          "updatedAt": "2024-02-12T11:39:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-09T12:51:41Z",
-          "fileSize": 66,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 53173,
-          "name": "Less Epic Dagon Fel",
-          "status": "published",
-          "summary": "It's Mikeandike's Epic Dagon Fel... trimmed down and highly compatible with other mods",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53173/53173-1688906856-743992151.png",
-          "uid": "429496782773",
-          "updatedAt": "2023-07-10T10:31:08Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-26T13:52:37Z",
-          "fileSize": 159752,
-          "modCategory": {
-            "categoryId": 14,
-            "name": "Races, Classes, and Birthsigns"
-          },
-          "modId": 53118,
-          "name": "Westly Race Bundle",
-          "status": "published",
-          "summary": "A bundle of race mods by Westly",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53118/53118-1687787583-1188656579.png",
-          "uid": "429496782718",
-          "updatedAt": "2023-06-26T13:52:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-04T19:49:03Z",
-          "fileSize": 96334,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 53026,
-          "name": "Westlys Master Head Pack Prim and Proper",
-          "status": "published",
-          "summary": "This is Westly's Master Head Pack minus the least lore-friendly hair and faces.There's an optional replacer as well.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53026/53026-1685904992-2008558781.png",
-          "uid": "429496782626",
-          "updatedAt": "2023-07-31T13:14:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-28T19:57:17Z",
-          "fileSize": 6168,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 52968,
-          "name": "The Mysterious Affair of Sara Shenk",
-          "status": "published",
-          "summary": "In the quaint town of Caldera, the innkeeper, Shenk, becomes the centre of attention: the once-idyllic life of innkeeper Shenk takes a dark turn when his wife vanishes without a",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52968/52968-1685336466-1939892990.png",
-          "uid": "429496782568",
-          "updatedAt": "2023-06-28T11:14:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-18T22:41:17Z",
-          "fileSize": 339,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 52907,
-          "name": "Ashlander Silt Skiff",
-          "status": "published",
-          "summary": "Ashu-awa, an Ashlander hunter, undertakes a regular journey between Suran and Pelagiad on her trusty Silt Skiff, selling the spoils of her hunts and the potions and crafted items",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52907/52907-1684448426-1389684286.png",
-          "uid": "429496782507",
-          "updatedAt": "2025-02-07T11:16:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-15T05:36:56Z",
-          "fileSize": 463,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 52884,
-          "name": "Galen's Quest for Truth",
-          "status": "published",
-          "summary": "A hermit on an island east of Vivec.Befriend him and help him uncover the truth.Or not.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52884/52884-1684128393-582396008.png",
-          "uid": "429496782484",
-          "updatedAt": "2023-07-05T16:35:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-06T22:46:09Z",
-          "fileSize": 1714,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 52829,
-          "name": "Restful Reef Refuge",
-          "status": "published",
-          "summary": "A quaint underwater home with plenty of storage in the Sea of Ghosts.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52829/52829-1683411763-2017480495.gif",
-          "uid": "429496782429",
-          "updatedAt": "2025-02-08T17:48:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-01T12:35:33Z",
-          "fileSize": 19879,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 52763,
-          "name": "Friends and Frens",
-          "status": "published",
-          "summary": "A large companion mod with 30+ brand new NPC companions, 40+ vanilla/TR npcs as companions and 20+ creature companions, and quests that connects them.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52763/52763-1682942623-1440722621.png",
-          "uid": "429496782363",
-          "updatedAt": "2025-03-10T11:11:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-01-31T22:54:55Z",
-          "fileSize": 23285,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 52251,
-          "name": "Rishajiit - A Companion Quest Mod",
-          "status": "published",
-          "summary": "A voiced companion with quests, dungeons, new gear and unlockable features.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52251/52251-1675204905-766560458.png",
-          "uid": "429496781851",
-          "updatedAt": "2025-02-06T15:48:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-12-02T00:09:41Z",
-          "fileSize": 9603,
-          "modCategory": {
-            "categoryId": 29,
-            "name": "Overhauls"
-          },
-          "modId": 52013,
-          "name": "Wares Ultimate",
-          "status": "published",
-          "summary": "Modular versions of WARES",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52013/52013-1669939406-137535549.jpeg",
-          "uid": "429496781613",
-          "updatedAt": "2025-05-02T12:36:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-10-31T22:23:24Z",
-          "fileSize": 14253,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 51937,
-          "name": "Sails and Sales",
-          "status": "published",
-          "summary": "Become the captain of your own ship, recruit crew members and acquire cargo to sell.At long last, you may sail the Seas or row on the lakes and rivers!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51937/51937-1667252966-776546974.png",
-          "uid": "429496781537",
-          "updatedAt": "2023-02-01T11:24:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-07-27T10:15:43Z",
-          "fileSize": 928,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 51657,
-          "name": "The Warehouse - Wares-aware mod collection",
-          "status": "published",
-          "summary": "Armour, Clothing, Weapon and Item mod integrated into Wares",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51657/51657-1658827052-824320402.jpeg",
-          "uid": "429496781257",
-          "updatedAt": "2022-12-29T15:27:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-07-22T20:34:32Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 51645,
-          "name": "Danaes DRIP Depot",
-          "status": "published",
-          "summary": "Adds DRIP integration to 40+ mods",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51645/51645-1658521469-1481810647.png",
-          "uid": "429496781245",
-          "updatedAt": "2022-07-23T19:41:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-06-19T19:47:08Z",
-          "fileSize": 2955,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 51514,
-          "name": "Imperial Stables",
-          "status": "published",
-          "summary": "Adds stables where you can leave your pets, and possibly sleep if you are really broke to all Imperial settlements.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51514/51514-1655667543-1884842224.png",
-          "uid": "429496781114",
-          "updatedAt": "2022-11-11T10:05:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-06-10T16:26:23Z",
-          "fileSize": 43,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51467,
-          "name": "Divine Providence",
-          "status": "published",
-          "summary": "Choose a deity/saint by reading Variety of Faith, receive blessings as you level up",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51467/51467-1654876881-1140180608.jpeg",
-          "uid": "429496781067",
-          "updatedAt": "2023-08-09T21:03:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-30T16:51:05Z",
-          "fileSize": 17,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 51390,
-          "name": "Waresifier",
-          "status": "published",
-          "summary": "A web-based tool that adds Wares lists to your plugins.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51390/51390-1653929302-309494712.png",
-          "uid": "429496780990",
-          "updatedAt": "2022-05-30T16:51:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-26T17:12:39Z",
-          "fileSize": 41,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 51032,
-          "name": "Bitter Coast Houseboat",
-          "status": "published",
-          "summary": "Adds a cozy houseboat in the Bitter Coast near Aleft with cloud storage and Ashfall compatibility.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51032/51032-1650992226-1960003269.png",
-          "uid": "429496780632",
-          "updatedAt": "2025-03-16T13:51:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-06T19:27:41Z",
-          "fileSize": 22,
-          "modCategory": {
-            "categoryId": 14,
-            "name": "Races, Classes, and Birthsigns"
-          },
-          "modId": 50956,
-          "name": "The Astrologer and the Nightsky",
-          "status": "published",
-          "summary": "The Astrologer class has a unique power: Divination.The Nightsky birthsign's effects change every month.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50956/50956-1649273246-1814023356.png",
-          "uid": "429496780556",
-          "updatedAt": "2022-07-19T06:53:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-11-15T17:26:40Z",
-          "fileSize": 230603,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 50430,
-          "name": "Panoplies - Helluva Ways to Suit Up",
-          "status": "published",
-          "summary": "A large collection of Armor",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50430/50430-1637000352-250548902.png",
-          "uid": "429496780030",
-          "updatedAt": "2025-01-22T15:49:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-11-02T22:54:09Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 14,
-            "name": "Races, Classes, and Birthsigns"
-          },
-          "modId": 50378,
-          "name": "Written in the Stars - a birthsign mod",
-          "status": "published",
-          "summary": "Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50378/50378-1635893303-1249061790.jpeg",
-          "uid": "429496779978",
-          "updatedAt": "2022-02-26T10:57:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-10-20T21:52:31Z",
-          "fileSize": 179,
-          "modCategory": {
-            "categoryId": 14,
-            "name": "Races, Classes, and Birthsigns"
-          },
-          "modId": 50346,
-          "name": "Ahead of the Classes",
-          "status": "published",
-          "summary": "100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50346/50346-1634756564-1686148877.png",
-          "uid": "429496779946",
-          "updatedAt": "2025-05-08T10:26:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-10-18T21:09:49Z",
-          "fileSize": 27,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 50343,
-          "name": "Way of the Necromancer Redux",
-          "status": "published",
-          "summary": "A simple way to create undead minions if you have the right ingredients.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50343/50343-1634591023-2118756392.png",
-          "uid": "429496779943",
-          "updatedAt": "2022-01-11T11:32:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-09-03T13:44:19Z",
-          "fileSize": 662,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 50210,
-          "name": "Indie Gear",
-          "status": "published",
-          "summary": "Simply adds a whip, a hat and a pistol to the corpse of Indiana Jones in Omalen Ancestra Tomb.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50210/50210-1630676915-2003174177.png",
-          "uid": "429496779810",
-          "updatedAt": "2021-09-03T19:46:24Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-06-01T21:00:17Z",
-          "fileSize": 965,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 49908,
-          "name": "M'Aiq Overhaul -  Liar yes - Idiot no",
-          "status": "published",
-          "summary": "M'Aiq's island is now habitable. M'Aiq has many new truths to reveal. M'Aiq is a fully-fledged Friends & Frens companion.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49908/49908-1622579850-189784289.png",
-          "uid": "429496779508",
-          "updatedAt": "2025-02-06T19:14:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-30T15:48:21Z",
-          "fileSize": 40,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 49889,
-          "name": "Walkers of Morrowind",
-          "status": "published",
-          "summary": "Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49889/49889-1622389627-484873837.png",
-          "uid": "429496779489",
-          "updatedAt": "2021-05-30T15:48:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-25T11:39:59Z",
-          "fileSize": 323,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 49855,
-          "name": "Imperial Factions",
-          "status": "published",
-          "summary": "An overhaul of the Mages Guild, Thieves Guild and Fighters Guild",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49855/49855-1621942646-906845093.png",
-          "uid": "429496779455",
-          "updatedAt": "2022-06-10T06:40:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-23T11:43:00Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 49839,
-          "name": "Lucky Loot",
-          "status": "published",
-          "summary": "Greater luck may grant you better loot",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49839/49839-1621770036-640913727.png",
-          "uid": "429496779439",
-          "updatedAt": "2021-05-29T07:15:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-20T13:18:18Z",
-          "fileSize": 20952,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 49822,
-          "name": "Bob's Armories for Wares",
-          "status": "published",
-          "summary": "Adds a lot of clothing and armour for the ladies, some for men as well as a few weapons.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49822/49822-1621516262-1355154512.png",
-          "uid": "429496779422",
-          "updatedAt": "2022-06-16T09:34:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-18T19:45:21Z",
-          "fileSize": 6252,
-          "modCategory": {
-            "categoryId": 20,
-            "name": "Books and Scrolls"
-          },
-          "modId": 49808,
-          "name": "Stuporstar's Books for Wares",
-          "status": "published",
-          "summary": "Adds many lore-friendly and even usegul books to your game",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49808/49808-1621366914-351061506.png",
-          "uid": "429496779408",
-          "updatedAt": "2022-11-14T07:56:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-18T19:12:28Z",
-          "fileSize": 19575,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49807,
-          "name": "Enhanced Economics for Wares",
-          "status": "published",
-          "summary": "Adds many new items to the game",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49807/49807-1621364994-2016500002.png",
-          "uid": "429496779407",
-          "updatedAt": "2025-02-07T11:08:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-16T09:52:17Z",
-          "fileSize": 4910,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49790,
-          "name": "TealPanda's Mods for Wares",
-          "status": "published",
-          "summary": "Adds tones of plain items and some enchanted ones too. Adds new apparatus to brew new types of potions",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49790/49790-1621158475-728116574.png",
-          "uid": "429496779390",
-          "updatedAt": "2025-02-08T18:55:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-15T23:29:46Z",
-          "fileSize": 1607,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 49783,
-          "name": "Surfracers",
-          "status": "published",
-          "summary": "Adds Surfracers to the game",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49783/49783-1621121792-1387425795.jpeg",
-          "uid": "429496779383",
-          "updatedAt": "2021-06-01T09:52:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-14T14:40:31Z",
-          "fileSize": 96809,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49766,
-          "name": "Hilgya the Seamstress for Wares",
-          "status": "published",
-          "summary": "Brings all of Hilgya the Seamstress to Wares",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49766/49766-1621002934-159216439.png",
-          "uid": "429496779366",
-          "updatedAt": "2022-06-10T14:20:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-13T21:38:57Z",
-          "fileSize": 43736,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49762,
-          "name": "Aoimevelho's Mods for Wares",
-          "status": "published",
-          "summary": "A merge of 5 clothing and armour mods by Aoimevelho using Wares to distribute items",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49762/49762-1620941706-109005200.png",
-          "uid": "429496779362",
-          "updatedAt": "2025-01-24T16:06:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-12T15:11:34Z",
-          "fileSize": 202106,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49758,
-          "name": "Korana's Mods for Wares",
-          "status": "published",
-          "summary": "clothes, weapons, armour and miscellanious items for Wares and Friends and Foes, without conflicts",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49758/49758-1620831716-804072028.png",
-          "uid": "429496779358",
-          "updatedAt": "2022-06-13T11:14:24Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-11T18:42:01Z",
-          "fileSize": 512430,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 49754,
-          "name": "Westly's Mods for Wares",
-          "status": "published",
-          "summary": "Makes Westly's wonderful mods Wares-aware (+ a few fixes and balance)",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49754/49754-1620758235-1151632539.png",
-          "uid": "429496779354",
-          "updatedAt": "2025-02-06T14:58:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-10T13:18:58Z",
-          "fileSize": 10321,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 49746,
-          "name": "The Assassin's Arsenal",
-          "status": "published",
-          "summary": "You will find many exotic weapons such as sais, claws and blades as well as their off-hand counterparts.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49746/49746-1620652427-1902150414.png",
-          "uid": "429496779346",
-          "updatedAt": "2025-01-24T21:17:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-09T12:38:43Z",
-          "fileSize": 11717,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49732,
-          "name": "Aleanne's Mods for Wares",
-          "status": "published",
-          "summary": "Adds Aleanne's clothing and armour as well as Pekka's matching shields",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49732/49732-1620563364-2133833680.png",
-          "uid": "429496779332",
-          "updatedAt": "2022-07-19T11:09:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-09T09:12:40Z",
-          "fileSize": 8031,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49730,
-          "name": "Silaria's Clothes for Wares",
-          "status": "published",
-          "summary": "Adds many clothing items to the game",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49730/49730-1620551215-926064880.png",
-          "uid": "429496779330",
-          "updatedAt": "2025-01-23T21:14:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-06T15:03:01Z",
-          "fileSize": 954,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 49693,
-          "name": "Vaernis' Armour and Shields",
-          "status": "published",
-          "summary": "Three sets of Armour: Dark steel, Light Steel and Dwemer.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49693/49693-1620312879-2076684906.png",
-          "uid": "429496779293",
-          "updatedAt": "2025-01-22T15:54:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-04T08:59:30Z",
-          "fileSize": 45852,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 49668,
-          "name": "Killing Spree Helluva ways to kill",
-          "status": "published",
-          "summary": "This mod adds close to 500 weapons to the game, either via levelled lists or hand-placed (unique weapons)",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49668/49668-1620118411-2101472680.png",
-          "uid": "429496779268",
-          "updatedAt": "2025-01-22T15:46:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-01T08:18:40Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49615,
-          "name": "Mass Cure",
-          "status": "published",
-          "summary": "The Imperial and Tribunal Shrine's blessings will also cure your companions.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49615/49615-1619854714-331708493.jpeg",
-          "uid": "429496779215",
-          "updatedAt": "2021-05-01T08:18:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-04-04T13:55:29Z",
-          "fileSize": 11,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 49512,
-          "name": "ModJam Trophy Hunt 2021",
-          "status": "published",
-          "summary": "The 2021 ModJam Trophy Hunt Competition, Sponsored by Merlord™Find as many trophies as possible before April 10th.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49512/49512-1617544064-1739697771.png",
-          "uid": "429496779112",
-          "updatedAt": "2021-04-04T13:55:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-03-09T22:47:31Z",
-          "fileSize": 24486,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 49388,
-          "name": "Taddeus' Foods of Tamriel",
-          "status": "published",
-          "summary": "This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.It also adds ovens that can be used to bake bread and pies. More baking",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49388/49388-1615329674-2077350280.png",
-          "uid": "429496778988",
-          "updatedAt": "2025-03-19T12:43:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-01-27T16:49:53Z",
-          "fileSize": 51,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49253,
-          "name": "Equipment Variants",
-          "status": "published",
-          "summary": "Randomly replace stock armour and weapons on npcs and in containers with TR variants.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49253/49253-1611766024-400639439.png",
-          "uid": "429496778853",
-          "updatedAt": "2022-06-11T16:40:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-01-27T11:17:31Z",
-          "fileSize": 8886,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 49251,
-          "name": "Friends and Foes",
-          "status": "published",
-          "summary": "Adds friendly and less friendly npcs to the game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49251/49251-1611745683-1304399740.png",
-          "uid": "429496778851",
-          "updatedAt": "2025-02-06T12:14:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-12-31T22:28:55Z",
-          "fileSize": 244992,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 49173,
-          "name": "Pimp My Shrine - The Daedric Legend of Vernaccus",
-          "status": "published",
-          "summary": "A lore-friendly quest mod based on an in-game book brought to life, with dungeons, mind-bending puzzles, quests, Daedra, and the power to summon items from oblivion.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49173/49173-1609450766-295933679.jpeg",
-          "uid": "429496778773",
-          "updatedAt": "2022-12-11T14:11:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-11-08T15:01:20Z",
-          "fileSize": 77,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 49018,
-          "name": "Morrowind Stats",
-          "status": "published",
-          "summary": "Adds a book that keeps tracks of various statistics about your character.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49018/49018-1604736003-926669044.png",
-          "uid": "429496778618",
-          "updatedAt": "2021-01-03T11:57:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-25T14:45:57Z",
-          "fileSize": 1800,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 48964,
-          "name": "Unidentified Items",
-          "status": "published",
-          "summary": "Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service  from Enchanters.200+ trait, some 30 undesirable ones.Thousands of",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48964/48964-1603219058-1023131217.png",
-          "uid": "429496778564",
-          "updatedAt": "2022-04-25T10:34:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-10T16:53:56Z",
-          "fileSize": 1176,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 48914,
-          "name": "Booze for Purists",
-          "status": "published",
-          "summary": "Inns always offer drinks made from local plants, usually have a few of Vvardenfell beverages and might have a couple of imports from all over Tamriel.Some plain bottles have a %",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48914/48914-1603725901-2001546465.jpeg",
-          "uid": "429496778514",
-          "updatedAt": "2025-01-23T20:22:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-10T16:33:43Z",
-          "fileSize": 3300,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 48903,
-          "name": "Shinies",
-          "status": "published",
-          "summary": "Gemstones, glass shards, and runestones.Perfect for the avid alchemist but, the miner hoping to strike gold, and the apprentice conjurer.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48903/48903-1601985219-1888475945.png",
-          "uid": "429496778503",
-          "updatedAt": "2025-01-20T13:23:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-09-14T11:56:34Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 14,
-            "name": "Races, Classes, and Birthsigns"
-          },
-          "modId": 48822,
-          "name": "Peaceful Races",
-          "status": "published",
-          "summary": "Ash and corprus creatures are pacified while you are afflicted with Corprus disease.If you are playing an undead, daedric or corprus race, creatures of the same type won't attack",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48822/48822-1600075446-717202058.png",
-          "uid": "429496778422",
-          "updatedAt": "2020-09-15T06:45:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-08-17T09:17:56Z",
-          "fileSize": 40,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 48717,
-          "name": "Failed Incarnates Pilgrimage",
-          "status": "published",
-          "summary": "Once you are a Clanfriend, speak to a Wise Woman to stat the pilgrimage.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48717/48717-1597655864-179835188.jpeg",
-          "uid": "429496778317",
-          "updatedAt": "2020-08-17T10:30:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-28T13:11:42Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 48199,
-          "name": "Daedric Intervention Spell",
-          "status": "published",
-          "summary": "After completing any of the Daedric Princes' quest, you are granted the Daedric Intervention spell.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48199/48199-1590671179-1565527744.gif",
-          "uid": "429496777799",
-          "updatedAt": "2024-06-24T14:27:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-09T23:50:45Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 47996,
-          "name": "Chameleon",
-          "status": "published",
-          "summary": "The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47996/47996-1589068040-668867275.png",
-          "uid": "429496777596",
-          "updatedAt": "2021-05-12T16:17:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-07T14:52:30Z",
-          "fileSize": 11,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 47976,
-          "name": "Dartboards Expanded",
-          "status": "published",
-          "summary": "Adds dartboards to a few inns across Vvardenfell.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47976/47976-1588862469-1505041995.png",
-          "uid": "429496777576",
-          "updatedAt": "2020-05-07T15:35:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-04T19:08:21Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 47956,
-          "name": "Peaceful Pets",
-          "status": "published",
-          "summary": "Pacifies pets (Tribunal and mod-added) that are not meant to fight.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47956/47956-1588619003-1758516795.png",
-          "uid": "429496777556",
-          "updatedAt": "2022-12-14T10:13:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-04T00:13:56Z",
-          "fileSize": 23,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47951,
-          "name": "Class Abilities - Danae's Edits",
-          "status": "published",
-          "summary": "As you start the game, talk to a guard to collect your possessions and powers/spells based on a profession you choose (it can be the same as your class, or not). As you level up,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47951/47951-1588550958-980612231.png",
-          "uid": "429496777551",
-          "updatedAt": "2020-06-09T11:45:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-01T14:58:20Z",
-          "fileSize": 442,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 47651,
-          "name": "Hircine's Quest",
-          "status": "published",
-          "summary": "Participate in the challenge of Hircine and hunt down his three aspects.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47651/47651-1583074672-718468067.png",
-          "uid": "429496777251",
-          "updatedAt": "2025-02-06T19:55:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-06T20:07:55Z",
-          "fileSize": 135548,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 47573,
-          "name": "H.E.L.L.U.V.A armours only",
-          "status": "published",
-          "summary": "see changelogs",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47573/47573-1581021936-1711715356.png",
-          "uid": "429496777173",
-          "updatedAt": "2021-05-04T15:02:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-27T14:11:21Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 47550,
-          "name": "Ajira's Alchemy Reports Randomised",
-          "status": "published",
-          "summary": "Look for Ajira's stolen reports once again: their location changes every time.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47550/47550-1580133548-894741164.png",
-          "uid": "429496777150",
-          "updatedAt": "2020-01-28T06:00:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-25T16:52:37Z",
-          "fileSize": 670,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 47543,
-          "name": "Starfire's npc Additions - Danae's Edits and Fixes",
-          "status": "published",
-          "summary": "This mod adds many npcs to town as well as pilgrims and travelling merchants on the road. Known issues fixed and more options available",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47543/47543-1579970954-97161360.png",
-          "uid": "429496777143",
-          "updatedAt": "2020-10-05T19:36:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-05T19:44:47Z",
-          "fileSize": 2542,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 47358,
-          "name": "Cannibals of Morrowind - Updated",
-          "status": "published",
-          "summary": "A simple update and rebalance of Cannibals of Morrowind: traders won't sell their body parts anymore, nor can you make a fortune casually selling brains, more skulls to collect,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47358/47358-1575574651-1849904536.png",
-          "uid": "429496776958",
-          "updatedAt": "2020-10-05T08:35:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-11-01T08:29:58Z",
-          "fileSize": 2023,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 47272,
-          "name": "Ebonheart Underworks",
-          "status": "published",
-          "summary": "Ebonheart now has its own sewage system. With filth, rats, people and quests.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47272/47272-1572553789-863879182.png",
-          "uid": "429496776872",
-          "updatedAt": "2024-11-25T18:19:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-10-14T10:54:07Z",
-          "fileSize": 5361,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 47219,
-          "name": "Shal Overgrown",
-          "status": "published",
-          "summary": "Travel to Shal and discover its secrets: the once small cave is now overgrown and even reaches into the nearby Daedric ruin Ashurnibibi.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47219/47219-1571050414-583284209.jpeg",
-          "uid": "429496776819",
-          "updatedAt": "2020-03-21T10:41:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-26T18:21:48Z",
-          "fileSize": 16038,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 47116,
-          "name": "Middle-Earth Challenge",
-          "status": "published",
-          "summary": "Bring Fargoth alive to the Red Mountain. Fargoth must have his Engraved Ring, Sting and Mithril Mail. Pick a character (Sam, Legolas, Gimli or Gandalf) with their own starting ear,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47116/47116-1566843582-1513722683.jpeg",
-          "uid": "429496776716",
-          "updatedAt": "2019-09-26T11:43:13Z"
-        }
-      ],
-      "totalCount": 101
+  "checkedAt": "2025-05-13T18:58:40.010Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 101
+      }
     },
-    "checkedAt": "2025-05-13T18:25:21.773Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-11T08:36:34Z",
+        "fileSize": 135,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 56564,
+        "name": "Dralas Legacy - The Blade of Woe",
+        "status": "published",
+        "summary": "A quest mod and tomb overhaul that uncovers the fate of a Dark Brotherhood artifact: the Blade of Woe.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56564/56564-1746952264-1026955035.png",
+        "uid": "429496786164",
+        "updatedAt": "2025-05-12T15:24:32Z",
+        "fileIds": [
+          "1000052818",
+          "1000052758"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-04T07:41:22Z",
+        "fileSize": 34,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 56484,
+        "name": "Waresified Urns",
+        "status": "published",
+        "summary": "Warsified Urns expands the loot found in tomb urns. By utilizing the Wares levelled lists, this mod offers a wider variety of items, tailored to your modlist.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56484/56484-1746343974-351154752.png",
+        "uid": "429496786084",
+        "updatedAt": "2025-05-12T10:54:36Z",
+        "fileIds": [
+          "1000052804",
+          "1000052436"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-01T07:43:47Z",
+        "fileSize": 83,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 56450,
+        "name": "Hat and Hide - Adventures in Rhymes",
+        "status": "published",
+        "summary": "Meet Shuri-Viir, an eccentric Argonian jester with a talent for illusion, destruction, and rhyme! This quested companion will accompany you on your travels, offering witty verses,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56450/56450-1746085016-156655541.png",
+        "uid": "429496786050",
+        "updatedAt": "2025-05-13T11:04:16Z",
+        "fileIds": [
+          "1000052854",
+          "1000052266"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-20T15:34:10Z",
+        "fileSize": 2180,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 55836,
+        "name": "Arcane Implements - Cantrips Spellbooks and Runes",
+        "status": "published",
+        "summary": "Learn Cantrips from scrolls, spells from spellbooks and summon things from Oblivion with Daedric Runes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55836/55836-1737386813-1229156031.jpeg",
+        "uid": "429496785436",
+        "updatedAt": "2025-05-03T16:04:45Z",
+        "fileIds": [
+          "1000052412",
+          "1000049661"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-09T20:36:40Z",
+        "fileSize": 98,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 55099,
+        "name": "It Takes One to Know One - A perk mod",
+        "status": "published",
+        "summary": "- Faction members will acknowledge your rank within the faction and grant you a perk unique to the faction.- Faction members of sufficient rank will acknowledge your skill in the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55099/55099-1723234950-1784441031.png",
+        "uid": "429496784699",
+        "updatedAt": "2024-08-10T09:19:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-01T17:54:47Z",
+        "fileSize": 5605,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55051,
+        "name": "The Bittersweet Tale of Lunaari",
+        "status": "published",
+        "summary": "Discover Lunaari, a young Khajiit hidden away in a Bitter Coast cave. Share gifts of tea, paintings, and ingredients to help her explore the world outside her cave while learning",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55051/55051-1722534920-129162228.png",
+        "uid": "429496784651",
+        "updatedAt": "2025-03-12T09:09:47Z",
+        "fileIds": [
+          "1000051105",
+          "1000046567"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-08T19:12:50Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 54611,
+        "name": "The Lucky Fellow",
+        "status": "published",
+        "summary": "Discover the story of the lucky fellow in Seyda Neen as told by its inhabitants.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54611/54611-1715195409-426871131.png",
+        "uid": "429496784211",
+        "updatedAt": "2024-05-10T20:30:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-04T22:23:57Z",
+        "fileSize": 1178,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 54588,
+        "name": "Visions - A Mysticism quest mod",
+        "status": "published",
+        "summary": "Those skilled in Mysticism (40+) may be granted visions while exploring the mainland. (Tamriel Rebuilt)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54588/54588-1714861280-403553936.png",
+        "uid": "429496784188",
+        "updatedAt": "2025-02-06T18:38:15Z",
+        "fileIds": [
+          "1000050119",
+          "1000044438"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-01T05:49:15Z",
+        "fileSize": 119448,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 54518,
+        "name": "Creatures and Critters",
+        "status": "published",
+        "summary": "A mod crafted to harmonize diverse creature additions from great classicsSpawns make each region more uniqueLoot tables redone for variety and cohesion",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54518/54518-1714510254-875470411.png",
+        "uid": "429496784118",
+        "updatedAt": "2025-05-03T12:02:50Z",
+        "fileIds": [
+          "1000052401",
+          "1000048384",
+          "1000051063",
+          "1000052400",
+          "1000044211",
+          "1000044738",
+          "1000044739",
+          "1000044494",
+          "1000044516"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-30T14:30:46Z",
+        "fileSize": 19169,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 53778,
+        "name": "Advent Calendar 2024",
+        "status": "published",
+        "summary": "Travel to Uncle Sweetshare's cabin on December 1st to collect a gift.Rinse and repeat until December 24th for a unique gift",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53778/53778-1701354352-1416436168.png",
+        "uid": "429496783378",
+        "updatedAt": "2024-12-01T04:14:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-31T23:52:41Z",
+        "fileSize": 28907,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53677,
+        "name": "Halls Of Colossus",
+        "status": "published",
+        "summary": "Journey through time and space as you uncover the secrets of the ancient Halls of Colossus. Guarded by the Emperor's elite, this enigmatic location is your portal to an epic tale",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53677/53677-1698795395-1688615335.png",
+        "uid": "429496783277",
+        "updatedAt": "2023-11-05T15:26:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-18T22:46:48Z",
+        "fileSize": 92805,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 53391,
+        "name": "Animated Morrowind - Danae's Edits",
+        "status": "published",
+        "summary": "Fixes and Tweaks as well as edits for compatibility for Animated Morrowind - Merged, which it replaces",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53391/53391-1692398482-1881023525.jpeg",
+        "uid": "429496782991",
+        "updatedAt": "2025-02-06T19:04:56Z",
+        "fileIds": [
+          "1000050120",
+          "1000039790",
+          "1000039792"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-14T08:19:34Z",
+        "fileSize": 948,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 53203,
+        "name": "Ivy Pelagiad",
+        "status": "published",
+        "summary": "This mod replaces the buildings (common and Nord) in Pelagiad with a different texture, giving Pelagiad a slightly more vibrant look, befitting the Ascadian Isles.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53203/53203-1689322310-955853253.png",
+        "uid": "429496782803",
+        "updatedAt": "2024-08-13T06:33:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-09T21:02:36Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 53176,
+        "name": "Izi-inspired Caldera",
+        "status": "published",
+        "summary": "Adds platforms and ladders/stairs to buildings in Caldera without editing vanilla buildings or landscape.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53176/53176-1688936281-1028392578.png",
+        "uid": "429496782776",
+        "updatedAt": "2024-02-12T11:39:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-09T12:51:41Z",
+        "fileSize": 66,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 53173,
+        "name": "Less Epic Dagon Fel",
+        "status": "published",
+        "summary": "It's Mikeandike's Epic Dagon Fel... trimmed down and highly compatible with other mods",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53173/53173-1688906856-743992151.png",
+        "uid": "429496782773",
+        "updatedAt": "2023-07-10T10:31:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-26T13:52:37Z",
+        "fileSize": 159752,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 53118,
+        "name": "Westly Race Bundle",
+        "status": "published",
+        "summary": "A bundle of race mods by Westly",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53118/53118-1687787583-1188656579.png",
+        "uid": "429496782718",
+        "updatedAt": "2023-06-26T13:52:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-04T19:49:03Z",
+        "fileSize": 96334,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 53026,
+        "name": "Westlys Master Head Pack Prim and Proper",
+        "status": "published",
+        "summary": "This is Westly's Master Head Pack minus the least lore-friendly hair and faces.There's an optional replacer as well.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53026/53026-1685904992-2008558781.png",
+        "uid": "429496782626",
+        "updatedAt": "2023-07-31T13:14:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-28T19:57:17Z",
+        "fileSize": 6168,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 52968,
+        "name": "The Mysterious Affair of Sara Shenk",
+        "status": "published",
+        "summary": "In the quaint town of Caldera, the innkeeper, Shenk, becomes the centre of attention: the once-idyllic life of innkeeper Shenk takes a dark turn when his wife vanishes without a",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52968/52968-1685336466-1939892990.png",
+        "uid": "429496782568",
+        "updatedAt": "2023-06-28T11:14:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-18T22:41:17Z",
+        "fileSize": 339,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 52907,
+        "name": "Ashlander Silt Skiff",
+        "status": "published",
+        "summary": "Ashu-awa, an Ashlander hunter, undertakes a regular journey between Suran and Pelagiad on her trusty Silt Skiff, selling the spoils of her hunts and the potions and crafted items",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52907/52907-1684448426-1389684286.png",
+        "uid": "429496782507",
+        "updatedAt": "2025-02-07T11:16:38Z",
+        "fileIds": [
+          "1000050137",
+          "1000037953",
+          "1000037982"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-15T05:36:56Z",
+        "fileSize": 463,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 52884,
+        "name": "Galen's Quest for Truth",
+        "status": "published",
+        "summary": "A hermit on an island east of Vivec.Befriend him and help him uncover the truth.Or not.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52884/52884-1684128393-582396008.png",
+        "uid": "429496782484",
+        "updatedAt": "2023-07-05T16:35:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-06T22:46:09Z",
+        "fileSize": 1714,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 52829,
+        "name": "Restful Reef Refuge",
+        "status": "published",
+        "summary": "A quaint underwater home with plenty of storage in the Sea of Ghosts.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52829/52829-1683411763-2017480495.gif",
+        "uid": "429496782429",
+        "updatedAt": "2025-02-08T17:48:33Z",
+        "fileIds": [
+          "1000050166",
+          "1000037725",
+          "1000037724"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-01T12:35:33Z",
+        "fileSize": 19879,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 52763,
+        "name": "Friends and Frens",
+        "status": "published",
+        "summary": "A large companion mod with 30+ brand new NPC companions, 40+ vanilla/TR npcs as companions and 20+ creature companions, and quests that connects them.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52763/52763-1682942623-1440722621.png",
+        "uid": "429496782363",
+        "updatedAt": "2025-03-10T11:11:39Z",
+        "fileIds": [
+          "1000051066",
+          "1000048404",
+          "1000037711",
+          "1000039270",
+          "1000039279",
+          "1000037795",
+          "1000037568",
+          "1000038908",
+          "1000039278"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-31T22:54:55Z",
+        "fileSize": 23285,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 52251,
+        "name": "Rishajiit - A Companion Quest Mod",
+        "status": "published",
+        "summary": "A voiced companion with quests, dungeons, new gear and unlockable features.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52251/52251-1675204905-766560458.png",
+        "uid": "429496781851",
+        "updatedAt": "2025-02-06T15:48:31Z",
+        "fileIds": [
+          "1000050116",
+          "1000039262",
+          "1000048327",
+          "1000035028",
+          "1000035030"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-12-02T00:09:41Z",
+        "fileSize": 9603,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 52013,
+        "name": "Wares Ultimate",
+        "status": "published",
+        "summary": "Modular versions of WARES",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52013/52013-1669939406-137535549.jpeg",
+        "uid": "429496781613",
+        "updatedAt": "2025-05-02T12:36:06Z",
+        "fileIds": [
+          "1000052353",
+          "1000033932",
+          "1000033931",
+          "1000033930",
+          "1000042752",
+          "1000042753",
+          "1000034357",
+          "1000034363",
+          "1000034368",
+          "1000034369",
+          "1000034123",
+          "1000034220",
+          "1000042710",
+          "1000033945"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-10-31T22:23:24Z",
+        "fileSize": 14253,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 51937,
+        "name": "Sails and Sales",
+        "status": "published",
+        "summary": "Become the captain of your own ship, recruit crew members and acquire cargo to sell.At long last, you may sail the Seas or row on the lakes and rivers!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51937/51937-1667252966-776546974.png",
+        "uid": "429496781537",
+        "updatedAt": "2023-02-01T11:24:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-07-27T10:15:43Z",
+        "fileSize": 928,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 51657,
+        "name": "The Warehouse - Wares-aware mod collection",
+        "status": "published",
+        "summary": "Armour, Clothing, Weapon and Item mod integrated into Wares",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51657/51657-1658827052-824320402.jpeg",
+        "uid": "429496781257",
+        "updatedAt": "2022-12-29T15:27:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-07-22T20:34:32Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 51645,
+        "name": "Danaes DRIP Depot",
+        "status": "published",
+        "summary": "Adds DRIP integration to 40+ mods",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51645/51645-1658521469-1481810647.png",
+        "uid": "429496781245",
+        "updatedAt": "2022-07-23T19:41:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-06-19T19:47:08Z",
+        "fileSize": 2955,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 51514,
+        "name": "Imperial Stables",
+        "status": "published",
+        "summary": "Adds stables where you can leave your pets, and possibly sleep if you are really broke to all Imperial settlements.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51514/51514-1655667543-1884842224.png",
+        "uid": "429496781114",
+        "updatedAt": "2022-11-11T10:05:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-06-10T16:26:23Z",
+        "fileSize": 43,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51467,
+        "name": "Divine Providence",
+        "status": "published",
+        "summary": "Choose a deity/saint by reading Variety of Faith, receive blessings as you level up",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51467/51467-1654876881-1140180608.jpeg",
+        "uid": "429496781067",
+        "updatedAt": "2023-08-09T21:03:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-30T16:51:05Z",
+        "fileSize": 17,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 51390,
+        "name": "Waresifier",
+        "status": "published",
+        "summary": "A web-based tool that adds Wares lists to your plugins.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51390/51390-1653929302-309494712.png",
+        "uid": "429496780990",
+        "updatedAt": "2022-05-30T16:51:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-26T17:12:39Z",
+        "fileSize": 41,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 51032,
+        "name": "Bitter Coast Houseboat",
+        "status": "published",
+        "summary": "Adds a cozy houseboat in the Bitter Coast near Aleft with cloud storage and Ashfall compatibility.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51032/51032-1650992226-1960003269.png",
+        "uid": "429496780632",
+        "updatedAt": "2025-03-16T13:51:36Z",
+        "fileIds": [
+          "1000051243",
+          "1000030261",
+          "1000030510"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-06T19:27:41Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 50956,
+        "name": "The Astrologer and the Nightsky",
+        "status": "published",
+        "summary": "The Astrologer class has a unique power: Divination.The Nightsky birthsign's effects change every month.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50956/50956-1649273246-1814023356.png",
+        "uid": "429496780556",
+        "updatedAt": "2022-07-19T06:53:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-11-15T17:26:40Z",
+        "fileSize": 230603,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 50430,
+        "name": "Panoplies - Helluva Ways to Suit Up",
+        "status": "published",
+        "summary": "A large collection of Armor",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50430/50430-1637000352-250548902.png",
+        "uid": "429496780030",
+        "updatedAt": "2025-01-22T15:49:54Z",
+        "fileIds": [
+          "1000049711",
+          "1000028030",
+          "1000028172",
+          "1000031541",
+          "1000031542",
+          "1000031549",
+          "1000031576",
+          "1000029821",
+          "1000031484"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-11-02T22:54:09Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 50378,
+        "name": "Written in the Stars - a birthsign mod",
+        "status": "published",
+        "summary": "Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50378/50378-1635893303-1249061790.jpeg",
+        "uid": "429496779978",
+        "updatedAt": "2022-02-26T10:57:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-10-20T21:52:31Z",
+        "fileSize": 179,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 50346,
+        "name": "Ahead of the Classes",
+        "status": "published",
+        "summary": "100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50346/50346-1634756564-1686148877.png",
+        "uid": "429496779946",
+        "updatedAt": "2025-05-08T10:26:56Z",
+        "fileIds": [
+          "1000052628",
+          "1000031491",
+          "1000041233",
+          "1000027668",
+          "1000045346",
+          "1000028966",
+          "1000034097",
+          "1000038452",
+          "1000030026",
+          "1000033612",
+          "1000027475",
+          "1000033882",
+          "1000037981",
+          "1000027496",
+          "1000027516",
+          "1000029830",
+          "1000027539",
+          "1000033946",
+          "1000032424",
+          "1000027565",
+          "1000034221",
+          "1000038842",
+          "1000032194",
+          "1000034001",
+          "1000032218",
+          "1000048605",
+          "1000027490",
+          "1000027491",
+          "1000027533"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-10-18T21:09:49Z",
+        "fileSize": 27,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 50343,
+        "name": "Way of the Necromancer Redux",
+        "status": "published",
+        "summary": "A simple way to create undead minions if you have the right ingredients.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50343/50343-1634591023-2118756392.png",
+        "uid": "429496779943",
+        "updatedAt": "2022-01-11T11:32:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-03T13:44:19Z",
+        "fileSize": 662,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 50210,
+        "name": "Indie Gear",
+        "status": "published",
+        "summary": "Simply adds a whip, a hat and a pistol to the corpse of Indiana Jones in Omalen Ancestra Tomb.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50210/50210-1630676915-2003174177.png",
+        "uid": "429496779810",
+        "updatedAt": "2021-09-03T19:46:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-06-01T21:00:17Z",
+        "fileSize": 965,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 49908,
+        "name": "M'Aiq Overhaul -  Liar yes - Idiot no",
+        "status": "published",
+        "summary": "M'Aiq's island is now habitable. M'Aiq has many new truths to reveal. M'Aiq is a fully-fledged Friends & Frens companion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49908/49908-1622579850-189784289.png",
+        "uid": "429496779508",
+        "updatedAt": "2025-02-06T19:14:15Z",
+        "fileIds": [
+          "1000050122",
+          "1000027222",
+          "1000039648"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-30T15:48:21Z",
+        "fileSize": 40,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 49889,
+        "name": "Walkers of Morrowind",
+        "status": "published",
+        "summary": "Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49889/49889-1622389627-484873837.png",
+        "uid": "429496779489",
+        "updatedAt": "2021-05-30T15:48:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-25T11:39:59Z",
+        "fileSize": 323,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 49855,
+        "name": "Imperial Factions",
+        "status": "published",
+        "summary": "An overhaul of the Mages Guild, Thieves Guild and Fighters Guild",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49855/49855-1621942646-906845093.png",
+        "uid": "429496779455",
+        "updatedAt": "2022-06-10T06:40:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-23T11:43:00Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 49839,
+        "name": "Lucky Loot",
+        "status": "published",
+        "summary": "Greater luck may grant you better loot",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49839/49839-1621770036-640913727.png",
+        "uid": "429496779439",
+        "updatedAt": "2021-05-29T07:15:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-20T13:18:18Z",
+        "fileSize": 20952,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 49822,
+        "name": "Bob's Armories for Wares",
+        "status": "published",
+        "summary": "Adds a lot of clothing and armour for the ladies, some for men as well as a few weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49822/49822-1621516262-1355154512.png",
+        "uid": "429496779422",
+        "updatedAt": "2022-06-16T09:34:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-18T19:45:21Z",
+        "fileSize": 6252,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 49808,
+        "name": "Stuporstar's Books for Wares",
+        "status": "published",
+        "summary": "Adds many lore-friendly and even usegul books to your game",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49808/49808-1621366914-351061506.png",
+        "uid": "429496779408",
+        "updatedAt": "2022-11-14T07:56:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-18T19:12:28Z",
+        "fileSize": 19575,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49807,
+        "name": "Enhanced Economics for Wares",
+        "status": "published",
+        "summary": "Adds many new items to the game",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49807/49807-1621364994-2016500002.png",
+        "uid": "429496779407",
+        "updatedAt": "2025-02-07T11:08:11Z",
+        "fileIds": [
+          "1000050136",
+          "1000025191"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-16T09:52:17Z",
+        "fileSize": 4910,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49790,
+        "name": "TealPanda's Mods for Wares",
+        "status": "published",
+        "summary": "Adds tones of plain items and some enchanted ones too. Adds new apparatus to brew new types of potions",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49790/49790-1621158475-728116574.png",
+        "uid": "429496779390",
+        "updatedAt": "2025-02-08T18:55:10Z",
+        "fileIds": [
+          "1000050168",
+          "1000031515",
+          "1000031507",
+          "1000025383",
+          "1000025646",
+          "1000025401",
+          "1000025201"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-15T23:29:46Z",
+        "fileSize": 1607,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 49783,
+        "name": "Surfracers",
+        "status": "published",
+        "summary": "Adds Surfracers to the game",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49783/49783-1621121792-1387425795.jpeg",
+        "uid": "429496779383",
+        "updatedAt": "2021-06-01T09:52:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-14T14:40:31Z",
+        "fileSize": 96809,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49766,
+        "name": "Hilgya the Seamstress for Wares",
+        "status": "published",
+        "summary": "Brings all of Hilgya the Seamstress to Wares",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49766/49766-1621002934-159216439.png",
+        "uid": "429496779366",
+        "updatedAt": "2022-06-10T14:20:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-13T21:38:57Z",
+        "fileSize": 43736,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49762,
+        "name": "Aoimevelho's Mods for Wares",
+        "status": "published",
+        "summary": "A merge of 5 clothing and armour mods by Aoimevelho using Wares to distribute items",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49762/49762-1620941706-109005200.png",
+        "uid": "429496779362",
+        "updatedAt": "2025-01-24T16:06:25Z",
+        "fileIds": [
+          "1000049763",
+          "1000032335",
+          "1000025187",
+          "1000024936",
+          "1000031670",
+          "1000025029",
+          "1000024824",
+          "1000045298"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-12T15:11:34Z",
+        "fileSize": 202106,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49758,
+        "name": "Korana's Mods for Wares",
+        "status": "published",
+        "summary": "clothes, weapons, armour and miscellanious items for Wares and Friends and Foes, without conflicts",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49758/49758-1620831716-804072028.png",
+        "uid": "429496779358",
+        "updatedAt": "2022-06-13T11:14:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-11T18:42:01Z",
+        "fileSize": 512430,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 49754,
+        "name": "Westly's Mods for Wares",
+        "status": "published",
+        "summary": "Makes Westly's wonderful mods Wares-aware (+ a few fixes and balance)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49754/49754-1620758235-1151632539.png",
+        "uid": "429496779354",
+        "updatedAt": "2025-02-06T14:58:26Z",
+        "fileIds": [
+          "1000050114",
+          "1000025382",
+          "1000025028",
+          "1000027002",
+          "1000035963",
+          "1000024906",
+          "1000025203",
+          "1000024736",
+          "1000024750"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-10T13:18:58Z",
+        "fileSize": 10321,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 49746,
+        "name": "The Assassin's Arsenal",
+        "status": "published",
+        "summary": "You will find many exotic weapons such as sais, claws and blades as well as their off-hand counterparts.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49746/49746-1620652427-1902150414.png",
+        "uid": "429496779346",
+        "updatedAt": "2025-01-24T21:17:38Z",
+        "fileIds": [
+          "1000049776",
+          "1000032243",
+          "1000024534"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-09T12:38:43Z",
+        "fileSize": 11717,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49732,
+        "name": "Aleanne's Mods for Wares",
+        "status": "published",
+        "summary": "Adds Aleanne's clothing and armour as well as Pekka's matching shields",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49732/49732-1620563364-2133833680.png",
+        "uid": "429496779332",
+        "updatedAt": "2022-07-19T11:09:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-09T09:12:40Z",
+        "fileSize": 8031,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49730,
+        "name": "Silaria's Clothes for Wares",
+        "status": "published",
+        "summary": "Adds many clothing items to the game",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49730/49730-1620551215-926064880.png",
+        "uid": "429496779330",
+        "updatedAt": "2025-01-23T21:14:39Z",
+        "fileIds": [
+          "1000049753",
+          "1000025380",
+          "1000025198",
+          "1000032248"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-06T15:03:01Z",
+        "fileSize": 954,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 49693,
+        "name": "Vaernis' Armour and Shields",
+        "status": "published",
+        "summary": "Three sets of Armour: Dark steel, Light Steel and Dwemer.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49693/49693-1620312879-2076684906.png",
+        "uid": "429496779293",
+        "updatedAt": "2025-01-22T15:54:15Z",
+        "fileIds": [
+          "1000049712",
+          "1000032192",
+          "1000032193",
+          "1000032273",
+          "1000032221",
+          "1000025202"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-04T08:59:30Z",
+        "fileSize": 45852,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 49668,
+        "name": "Killing Spree Helluva ways to kill",
+        "status": "published",
+        "summary": "This mod adds close to 500 weapons to the game, either via levelled lists or hand-placed (unique weapons)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49668/49668-1620118411-2101472680.png",
+        "uid": "429496779268",
+        "updatedAt": "2025-01-22T15:46:32Z",
+        "fileIds": [
+          "1000049710",
+          "1000032274",
+          "1000045349",
+          "1000025193",
+          "1000028816",
+          "1000024733",
+          "1000025822",
+          "1000032247"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-01T08:18:40Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49615,
+        "name": "Mass Cure",
+        "status": "published",
+        "summary": "The Imperial and Tribunal Shrine's blessings will also cure your companions.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49615/49615-1619854714-331708493.jpeg",
+        "uid": "429496779215",
+        "updatedAt": "2021-05-01T08:18:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-04-04T13:55:29Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 49512,
+        "name": "ModJam Trophy Hunt 2021",
+        "status": "published",
+        "summary": "The 2021 ModJam Trophy Hunt Competition, Sponsored by Merlord™Find as many trophies as possible before April 10th.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49512/49512-1617544064-1739697771.png",
+        "uid": "429496779112",
+        "updatedAt": "2021-04-04T13:55:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-09T22:47:31Z",
+        "fileSize": 24486,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 49388,
+        "name": "Taddeus' Foods of Tamriel",
+        "status": "published",
+        "summary": "This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.It also adds ovens that can be used to bake bread and pies. More baking",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49388/49388-1615329674-2077350280.png",
+        "uid": "429496778988",
+        "updatedAt": "2025-03-19T12:43:02Z",
+        "fileIds": [
+          "1000051323",
+          "1000025912",
+          "1000027013",
+          "1000027612",
+          "1000024919",
+          "1000024921",
+          "1000024937",
+          "1000024938",
+          "1000025210",
+          "1000042717",
+          "1000042729",
+          "1000038890",
+          "1000039160"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-01-27T16:49:53Z",
+        "fileSize": 51,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49253,
+        "name": "Equipment Variants",
+        "status": "published",
+        "summary": "Randomly replace stock armour and weapons on npcs and in containers with TR variants.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49253/49253-1611766024-400639439.png",
+        "uid": "429496778853",
+        "updatedAt": "2022-06-11T16:40:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-01-27T11:17:31Z",
+        "fileSize": 8886,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 49251,
+        "name": "Friends and Foes",
+        "status": "published",
+        "summary": "Adds friendly and less friendly npcs to the game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49251/49251-1611745683-1304399740.png",
+        "uid": "429496778851",
+        "updatedAt": "2025-02-06T12:14:27Z",
+        "fileIds": [
+          "1000050112",
+          "1000025357",
+          "1000025090",
+          "1000025356",
+          "1000025403",
+          "1000024913",
+          "1000027497",
+          "1000025208",
+          "1000027001",
+          "1000025239",
+          "1000027051",
+          "1000025276",
+          "1000025811",
+          "1000025083",
+          "1000027223",
+          "1000027430",
+          "1000023257",
+          "1000023264",
+          "1000023274",
+          "1000023296",
+          "1000023316",
+          "1000025623",
+          "1000027238",
+          "1000027479",
+          "1000023517",
+          "1000022781",
+          "1000023237",
+          "1000048396",
+          "1000023377",
+          "1000038249",
+          "1000033901",
+          "1000024963",
+          "1000046728",
+          "1000033685",
+          "1000033686",
+          "1000024761",
+          "1000034002",
+          "1000033786",
+          "1000033787",
+          "1000043004",
+          "1000022818",
+          "1000024577",
+          "1000024602",
+          "1000025089"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-12-31T22:28:55Z",
+        "fileSize": 244992,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 49173,
+        "name": "Pimp My Shrine - The Daedric Legend of Vernaccus",
+        "status": "published",
+        "summary": "A lore-friendly quest mod based on an in-game book brought to life, with dungeons, mind-bending puzzles, quests, Daedra, and the power to summon items from oblivion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49173/49173-1609450766-295933679.jpeg",
+        "uid": "429496778773",
+        "updatedAt": "2022-12-11T14:11:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-11-08T15:01:20Z",
+        "fileSize": 77,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 49018,
+        "name": "Morrowind Stats",
+        "status": "published",
+        "summary": "Adds a book that keeps tracks of various statistics about your character.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49018/49018-1604736003-926669044.png",
+        "uid": "429496778618",
+        "updatedAt": "2021-01-03T11:57:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-25T14:45:57Z",
+        "fileSize": 1800,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 48964,
+        "name": "Unidentified Items",
+        "status": "published",
+        "summary": "Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service  from Enchanters.200+ trait, some 30 undesirable ones.Thousands of",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48964/48964-1603219058-1023131217.png",
+        "uid": "429496778564",
+        "updatedAt": "2022-04-25T10:34:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-10T16:53:56Z",
+        "fileSize": 1176,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 48914,
+        "name": "Booze for Purists",
+        "status": "published",
+        "summary": "Inns always offer drinks made from local plants, usually have a few of Vvardenfell beverages and might have a couple of imports from all over Tamriel.Some plain bottles have a %",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48914/48914-1603725901-2001546465.jpeg",
+        "uid": "429496778514",
+        "updatedAt": "2025-01-23T20:22:10Z",
+        "fileIds": [
+          "1000049748",
+          "1000027688",
+          "1000042718",
+          "1000023404"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-10T16:33:43Z",
+        "fileSize": 3300,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 48903,
+        "name": "Shinies",
+        "status": "published",
+        "summary": "Gemstones, glass shards, and runestones.Perfect for the avid alchemist but, the miner hoping to strike gold, and the apprentice conjurer.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48903/48903-1601985219-1888475945.png",
+        "uid": "429496778503",
+        "updatedAt": "2025-01-20T13:23:11Z",
+        "fileIds": [
+          "1000049657",
+          "1000022486",
+          "1000023175",
+          "1000021483",
+          "1000025197",
+          "1000022404",
+          "1000023285"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-09-14T11:56:34Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 48822,
+        "name": "Peaceful Races",
+        "status": "published",
+        "summary": "Ash and corprus creatures are pacified while you are afflicted with Corprus disease.If you are playing an undead, daedric or corprus race, creatures of the same type won't attack",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48822/48822-1600075446-717202058.png",
+        "uid": "429496778422",
+        "updatedAt": "2020-09-15T06:45:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-17T09:17:56Z",
+        "fileSize": 40,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 48717,
+        "name": "Failed Incarnates Pilgrimage",
+        "status": "published",
+        "summary": "Once you are a Clanfriend, speak to a Wise Woman to stat the pilgrimage.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48717/48717-1597655864-179835188.jpeg",
+        "uid": "429496778317",
+        "updatedAt": "2020-08-17T10:30:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-28T13:11:42Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 48199,
+        "name": "Daedric Intervention Spell",
+        "status": "published",
+        "summary": "After completing any of the Daedric Princes' quest, you are granted the Daedric Intervention spell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48199/48199-1590671179-1565527744.gif",
+        "uid": "429496777799",
+        "updatedAt": "2024-06-24T14:27:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-09T23:50:45Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 47996,
+        "name": "Chameleon",
+        "status": "published",
+        "summary": "The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47996/47996-1589068040-668867275.png",
+        "uid": "429496777596",
+        "updatedAt": "2021-05-12T16:17:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-07T14:52:30Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 47976,
+        "name": "Dartboards Expanded",
+        "status": "published",
+        "summary": "Adds dartboards to a few inns across Vvardenfell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47976/47976-1588862469-1505041995.png",
+        "uid": "429496777576",
+        "updatedAt": "2020-05-07T15:35:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-04T19:08:21Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 47956,
+        "name": "Peaceful Pets",
+        "status": "published",
+        "summary": "Pacifies pets (Tribunal and mod-added) that are not meant to fight.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47956/47956-1588619003-1758516795.png",
+        "uid": "429496777556",
+        "updatedAt": "2022-12-14T10:13:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-04T00:13:56Z",
+        "fileSize": 23,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47951,
+        "name": "Class Abilities - Danae's Edits",
+        "status": "published",
+        "summary": "As you start the game, talk to a guard to collect your possessions and powers/spells based on a profession you choose (it can be the same as your class, or not). As you level up,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47951/47951-1588550958-980612231.png",
+        "uid": "429496777551",
+        "updatedAt": "2020-06-09T11:45:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-01T14:58:20Z",
+        "fileSize": 442,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 47651,
+        "name": "Hircine's Quest",
+        "status": "published",
+        "summary": "Participate in the challenge of Hircine and hunt down his three aspects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47651/47651-1583074672-718468067.png",
+        "uid": "429496777251",
+        "updatedAt": "2025-02-06T19:55:22Z",
+        "fileIds": [
+          "1000050124",
+          "1000038840"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-06T20:07:55Z",
+        "fileSize": 135548,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 47573,
+        "name": "H.E.L.L.U.V.A armours only",
+        "status": "published",
+        "summary": "see changelogs",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47573/47573-1581021936-1711715356.png",
+        "uid": "429496777173",
+        "updatedAt": "2021-05-04T15:02:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-27T14:11:21Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 47550,
+        "name": "Ajira's Alchemy Reports Randomised",
+        "status": "published",
+        "summary": "Look for Ajira's stolen reports once again: their location changes every time.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47550/47550-1580133548-894741164.png",
+        "uid": "429496777150",
+        "updatedAt": "2020-01-28T06:00:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-25T16:52:37Z",
+        "fileSize": 670,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 47543,
+        "name": "Starfire's npc Additions - Danae's Edits and Fixes",
+        "status": "published",
+        "summary": "This mod adds many npcs to town as well as pilgrims and travelling merchants on the road. Known issues fixed and more options available",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47543/47543-1579970954-97161360.png",
+        "uid": "429496777143",
+        "updatedAt": "2020-10-05T19:36:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-05T19:44:47Z",
+        "fileSize": 2542,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 47358,
+        "name": "Cannibals of Morrowind - Updated",
+        "status": "published",
+        "summary": "A simple update and rebalance of Cannibals of Morrowind: traders won't sell their body parts anymore, nor can you make a fortune casually selling brains, more skulls to collect,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47358/47358-1575574651-1849904536.png",
+        "uid": "429496776958",
+        "updatedAt": "2020-10-05T08:35:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-11-01T08:29:58Z",
+        "fileSize": 2023,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 47272,
+        "name": "Ebonheart Underworks",
+        "status": "published",
+        "summary": "Ebonheart now has its own sewage system. With filth, rats, people and quests.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47272/47272-1572553789-863879182.png",
+        "uid": "429496776872",
+        "updatedAt": "2024-11-25T18:19:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-10-14T10:54:07Z",
+        "fileSize": 5361,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 47219,
+        "name": "Shal Overgrown",
+        "status": "published",
+        "summary": "Travel to Shal and discover its secrets: the once small cave is now overgrown and even reaches into the nearby Daedric ruin Ashurnibibi.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47219/47219-1571050414-583284209.jpeg",
+        "uid": "429496776819",
+        "updatedAt": "2020-03-21T10:41:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-26T18:21:48Z",
+        "fileSize": 16038,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 47116,
+        "name": "Middle-Earth Challenge",
+        "status": "published",
+        "summary": "Bring Fargoth alive to the Red Mountain. Fargoth must have his Engraved Ring, Sting and Mithril Mail. Pick a character (Sam, Legolas, Gimli or Gandalf) with their own starting ear,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47116/47116-1566843582-1513722683.jpeg",
+        "uid": "429496776716",
+        "updatedAt": "2019-09-26T11:43:13Z"
+      }
+    ],
+    "totalCount": 101
   }
 }

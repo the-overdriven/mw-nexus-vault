@@ -1,63 +1,61 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 3
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-01T10:24:00Z",
-          "fileSize": 12,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 52918,
-          "name": "Quick Security",
-          "status": "published",
-          "summary": "This mod that allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manuallyWARNING If you use",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52918/52918-1684688332-1221729823.jpeg",
-          "uid": "429496782518",
-          "updatedAt": "2024-04-14T08:45:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-07T18:43:12Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 52786,
-          "name": "MWSE LUA Sample Mod",
-          "status": "published",
-          "summary": "A simple mod template to show you how to create a MWSE Lua mod for Morrowind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52786/52786-1683308123-1539294420.jpeg",
-          "uid": "429496782386",
-          "updatedAt": "2023-05-07T18:43:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-31T17:16:14Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 48254,
-          "name": "Morrowind Mouse Control",
-          "status": "published",
-          "summary": "Tired of using keyboard to cycle through weapons and spells and to switch between Weapon Ready and Spell Ready mode ? If so, this mod is made for you. With it, you can do it only",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48254/48254-1592395835-1183717269.jpeg",
-          "uid": "429496777854",
-          "updatedAt": "2023-06-07T19:26:35Z"
-        }
-      ],
-      "totalCount": 3
+  "checkedAt": "2025-05-13T18:58:37.171Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3
+      }
     },
-    "checkedAt": "2025-05-13T18:25:21.005Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-01T10:24:00Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 52918,
+        "name": "Quick Security",
+        "status": "published",
+        "summary": "This mod that allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manuallyWARNING If you use",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52918/52918-1684688332-1221729823.jpeg",
+        "uid": "429496782518",
+        "updatedAt": "2024-04-14T08:45:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-07T18:43:12Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 52786,
+        "name": "MWSE LUA Sample Mod",
+        "status": "published",
+        "summary": "A simple mod template to show you how to create a MWSE Lua mod for Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52786/52786-1683308123-1539294420.jpeg",
+        "uid": "429496782386",
+        "updatedAt": "2023-05-07T18:43:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-31T17:16:14Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 48254,
+        "name": "Morrowind Mouse Control",
+        "status": "published",
+        "summary": "Tired of using keyboard to cycle through weapons and spells and to switch between Weapon Ready and Spell Ready mode ? If so, this mod is made for you. With it, you can do it only",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48254/48254-1592395835-1183717269.jpeg",
+        "uid": "429496777854",
+        "updatedAt": "2023-06-07T19:26:35Z"
+      }
+    ],
+    "totalCount": 3
   }
 }

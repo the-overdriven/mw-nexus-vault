@@ -1,1089 +1,1202 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 67,
-          "101": 4,
-          "461": 4
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-04-06T15:01:32Z",
-          "fileSize": 76519,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56317,
-          "name": "Normals for Tribunal Traditions from Articus",
-          "status": "published",
-          "summary": "OpenMW Exclusive ~ add-on for the mod Tribunal Traditions from Articus that adds normal and spec textures to improve the looks",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56317/56317-1743951017-363348841.jpeg",
-          "uid": "429496785917",
-          "updatedAt": "2025-04-06T15:01:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-28T11:33:14Z",
-          "fileSize": 27083,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56258,
-          "name": "Normals for Articus Telvanni 2K Retexture v2",
-          "status": "published",
-          "summary": "OpenMW Exclusive ~ add-on for the Articus Telvanni 2K Retexture v2 mod that adds normal and spec textures to improve the looks",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56258/56258-1743161174-2137810471.jpeg",
-          "uid": "429496785858",
-          "updatedAt": "2025-03-28T11:42:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-27T16:24:37Z",
-          "fileSize": 20251,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56249,
-          "name": "Quake Yellow Imperial Castles",
-          "status": "published",
-          "summary": "OpenMW Exclusive - give the Imperial Castles a look inspired by the Quake yellow castles, mainly seen in the The Corridors of Time episode",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56249/56249-1743093028-745842133.jpeg",
-          "uid": "429496785849",
-          "updatedAt": "2025-03-27T16:24:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-25T14:58:32Z",
-          "fileSize": 3950,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56244,
-          "name": "Quake Stucco in Dunmer Home Ruins",
-          "status": "published",
-          "summary": "OpenMW Exclusive - give the old Dunmer Home ruins a look inspired by the Quake stucco",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56244/56244-1742914216-1242902911.jpeg",
-          "uid": "429496785844",
-          "updatedAt": "2025-03-25T14:58:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-18T01:38:46Z",
-          "fileSize": 10727,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56210,
-          "name": "Fleshy Daedric",
-          "status": "published",
-          "summary": "OpenMW exclusive ~ give the Daedric structures an eldritch flesh-like look",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56210/56210-1742261769-22648624.jpeg",
-          "uid": "429496785810",
-          "updatedAt": "2025-03-18T01:38:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-15T11:01:53Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 56188,
-          "name": "All hairs and heads are playable",
-          "status": "published",
-          "summary": "Tiny mod that makes all heads and hairs playable",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56188/56188-1742036108-1118948139.jpeg",
-          "uid": "429496785788",
-          "updatedAt": "2025-03-18T05:04:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-12T16:37:02Z",
-          "fileSize": 30840,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56168,
-          "name": "Normals for Articus Redoran 2K Retexture",
-          "status": "published",
-          "summary": "OpenMW Exclusive ~ add-on for Articus Redoran 2K Retexture mod that adds normal and spec textures to improve the looks",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56168/56168-1741796773-738418066.jpeg",
-          "uid": "429496785768",
-          "updatedAt": "2025-03-12T16:37:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-08T03:04:48Z",
-          "fileSize": 7900,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56148,
-          "name": "Quake Dungeons Style Daedric Ruins",
-          "status": "published",
-          "summary": "OpenMW Exclusive - give the Daedric Ruins a look inspired by the Quake dungeons, a weird mix of decaying stone and rusting metal. It is not brown, it is beautiful.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56148/56148-1741402807-530944115.jpeg",
-          "uid": "429496785748",
-          "updatedAt": "2025-03-08T03:04:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-26T16:12:40Z",
-          "fileSize": 27425,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56094,
-          "name": "Normals for Articus Hlaalu 2K Retexture",
-          "status": "published",
-          "summary": "OpenMW Exclusive ~ add-on for Articus Hlaalu 2K Retexture mod that adds normal, spec, and glowmap textures to improve the looks",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56094/56094-1740585895-122345972.jpeg",
-          "uid": "429496785694",
-          "updatedAt": "2025-02-27T12:51:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-26T16:04:09Z",
-          "fileSize": 25156,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56093,
-          "name": "Ashlanders re-texture with normals",
-          "status": "published",
-          "summary": "OpenMW Exclusive - re-texture the ashlanders models giving a stronger red color with normals",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56093/56093-1740585172-3644202.jpeg",
-          "uid": "429496785693",
-          "updatedAt": "2025-02-26T16:04:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-25T12:55:38Z",
-          "fileSize": 8851,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56086,
-          "name": "Quake Terracotta Style Hlaalu Buildings",
-          "status": "published",
-          "summary": "OpenMW Exclusive - give the Hlaalu buildings a look inspired by the Medieval Terracotta Quake levels, orange-dominated brick palaces",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56086/56086-1740487730-578357579.jpeg",
-          "uid": "429496785686",
-          "updatedAt": "2025-03-08T16:17:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-21T12:09:25Z",
-          "fileSize": 39991,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 56051,
-          "name": "Normals for Articus Telvanni 2K Retexture",
-          "status": "published",
-          "summary": "OpenMW Exclusive ~ add-on for Articus Telvanni 2K Retexture mod that adds normal, spec, and glowmap textures to improve the looks",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56051/56051-1740139403-548952963.jpeg",
-          "uid": "429496785651",
-          "updatedAt": "2025-02-23T12:47:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-11T22:06:24Z",
-          "fileSize": 20836,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55986,
-          "name": "Quake Wizard Blue Ebon Style Dunmer Strongholds",
-          "status": "published",
-          "summary": "OpenMW Exclusive - give the Dunmer strongholds a look inspired by the Blue Ebon Quake Wizard levels, a magical mix of metal, runes, and blue stones.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55986/55986-1739311164-979283254.jpeg",
-          "uid": "429496785586",
-          "updatedAt": "2025-02-22T08:16:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-10T21:15:04Z",
-          "fileSize": 30379,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55983,
-          "name": "Sheogorath's Daedric",
-          "status": "published",
-          "summary": "OpenMW exclusive — gives the daedric ruins a makeover worth of Sheogorath — very intense",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55983/55983-1739221174-345053928.jpeg",
-          "uid": "429496785583",
-          "updatedAt": "2025-02-10T21:15:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-10T16:45:19Z",
-          "fileSize": 30149,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55981,
-          "name": "Rainbow obsidian imperial castles",
-          "status": "published",
-          "summary": "OpenMW exclusive - makes the imperial castle from rainbow obsidian and puts isolating wood in the interiors",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55981/55981-1739205329-1287456932.jpeg",
-          "uid": "429496785581",
-          "updatedAt": "2025-02-27T01:40:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-09T10:12:39Z",
-          "fileSize": 31148,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55951,
-          "name": "Imperial Homes re-texture with normals",
-          "status": "published",
-          "summary": "OpenMW exclusive - give the imperial homes a new colorful look with normals",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55951/55951-1739095395-1915925419.jpeg",
-          "uid": "429496785551",
-          "updatedAt": "2025-02-09T10:12:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-01T14:30:23Z",
-          "fileSize": 36072,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55905,
-          "name": "Imperial Castles re-texture with normals",
-          "status": "published",
-          "summary": "OpenMW Exclusive - gives imperial castles a distinctive look",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55905/55905-1738416126-69151060.jpeg",
-          "uid": "429496785505",
-          "updatedAt": "2025-02-01T14:30:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-29T21:33:40Z",
-          "fileSize": 30754,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55891,
-          "name": "Telvanni re-texture with normals",
-          "status": "published",
-          "summary": "Gives the Telvanni a natural, woodsy feel with a hint of magic",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55891/55891-1738185406-973483128.jpeg",
-          "uid": "429496785491",
-          "updatedAt": "2025-01-29T21:33:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-27T13:08:28Z",
-          "fileSize": 33277,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55875,
-          "name": "Cabin and Docks re-texture with normals",
-          "status": "published",
-          "summary": "OpenMW exclusive - gives cabins and docks a new colorful look with normals",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55875/55875-1737975629-1340146497.jpeg",
-          "uid": "429496785475",
-          "updatedAt": "2025-01-27T13:08:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-23T15:32:48Z",
-          "fileSize": 34607,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55853,
-          "name": "Crab-Mansions Redoran with normals",
-          "status": "published",
-          "summary": "OpenMW Exclusive - Gives Redoran huts and Under-Skar rooms a makeover with normal and spec textures",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55853/55853-1737645620-161576969.jpeg",
-          "uid": "429496785453",
-          "updatedAt": "2025-01-23T15:32:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-20T21:06:21Z",
-          "fileSize": 20808,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55840,
-          "name": "Little-secret-inspired Daedric Textures with normals",
-          "status": "published",
-          "summary": "OpenMW exclusive — Gives the Daedric structures a look inspired by the little-secret text",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55840/55840-1737406466-908568803.jpeg",
-          "uid": "429496785440",
-          "updatedAt": "2025-01-20T21:06:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-16T20:47:19Z",
-          "fileSize": 314,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 55806,
-          "name": "Secunda Termina",
-          "status": "published",
-          "summary": "Replaces Secunda with Termina",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55806/55806-1737060116-468162704.jpeg",
-          "uid": "429496785406",
-          "updatedAt": "2025-03-13T15:23:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-16T12:09:36Z",
-          "fileSize": 3572,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55789,
-          "name": "Egyptian-inspired Velothi Textures with normals",
-          "status": "published",
-          "summary": "OpenMW exclusive — Gives the Velothi an Egyptian-inspired look",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55789/55789-1737029048-998663015.jpeg",
-          "uid": "429496785389",
-          "updatedAt": "2025-02-09T22:24:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-02T22:05:09Z",
-          "fileSize": 22802,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55715,
-          "name": "Golden Dwemer",
-          "status": "published",
-          "summary": "OpenMW exclusive - a golden retexture of the Dwemer architecture with normals, speculars, and few glowmaps",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55715/55715-1735853528-108163444.jpeg",
-          "uid": "429496785315",
-          "updatedAt": "2025-01-03T19:59:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-21T09:13:15Z",
-          "fileSize": 1936,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 55619,
-          "name": "Aztec-inspired Hlaalu Textures with normals",
-          "status": "published",
-          "summary": "OpenMW exclusive - Gives the Hlaalu an Aztec-inspired look",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55619/55619-1738056090-154512765.jpeg",
-          "uid": "429496785219",
-          "updatedAt": "2025-01-17T15:28:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-17T12:41:21Z",
-          "fileSize": 19,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 54682,
-          "name": "Creature Pack by Mephisto",
-          "status": "published",
-          "summary": "[Historical mod uploaded for preservation]Creature Pack 1.1 is a mod that will add many new variations of existing creatures to various Leveled-creature lists. It will increase the",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54682/54682-1716423722-1033097661.jpeg",
-          "uid": "429496784282",
-          "updatedAt": "2024-05-17T12:41:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-20T14:11:14Z",
-          "fileSize": 506,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53394,
-          "name": "Highly visible keys and propylon indices",
-          "status": "published",
-          "summary": "Make keys and propylon indices highly visible",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53394/53394-1692540280-320771010.jpeg",
-          "uid": "429496782994",
-          "updatedAt": "2023-08-20T14:11:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-18T02:10:51Z",
-          "fileSize": 467,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 53389,
-          "name": "Suran Dancer Randomized",
-          "status": "published",
-          "summary": "Each new day you get three randomly chosen dancers in the Desele's House of Earthly Delights in Suran",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53389/53389-1692324466-1770052335.jpeg",
-          "uid": "429496782989",
-          "updatedAt": "2024-03-09T06:40:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-06T12:14:45Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 53346,
-          "name": "Guards' Hounds",
-          "status": "published",
-          "summary": "Give to some Guards a pet",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53346/53346-1691323566-1669971331.jpeg",
-          "uid": "429496782946",
-          "updatedAt": "2023-08-09T01:09:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-31T12:26:39Z",
-          "fileSize": 1763,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53325,
-          "name": "Tree House from dongle",
-          "status": "published",
-          "summary": "A model for a massive three-story tree-trunk hollowed out into a home. Doorways, balconies, windows, walks, and stairways wrap all around the trunk",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53325/53325-1690806214-1647533244.jpeg",
-          "uid": "429496782925",
-          "updatedAt": "2023-07-31T12:26:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-29T12:10:14Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 53292,
-          "name": "Farvyn Oreyn's Position Randomizer",
-          "status": "published",
-          "summary": "Place Farvyn Oreyn, the fake hero, in a random location around Gar Mok",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53292/53292-1690632506-628728130.jpeg",
-          "uid": "429496782892",
-          "updatedAt": "2023-07-31T03:20:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-28T00:53:58Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 53286,
-          "name": "Din's Position Randomizer",
-          "status": "published",
-          "summary": "Place Din, the sick legionary, in a random location around Gnisis",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53286/53286-1690505522-326480892.jpeg",
-          "uid": "429496782886",
-          "updatedAt": "2023-07-28T04:32:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-23T02:49:34Z",
-          "fileSize": 245,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 53257,
-          "name": "Mannequins for Sale",
-          "status": "published",
-          "summary": "Add mannequins so that when you \"talk\" to one of them, you can dress it using Companion Share or use one of the special topics to pick it up or change its pose",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53257/53257-1690080264-1612461089.jpeg",
-          "uid": "429496782857",
-          "updatedAt": "2023-07-23T02:49:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-18T08:45:27Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53232,
-          "name": "ManaUser Minimod",
-          "status": "published",
-          "summary": "A set of mods mostly,  but not all could be considered \"tweaks,\" but the only thing they really have in common is that they're fairly small, esp-only mods",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53232/53232-1689669668-1047217136.jpeg",
-          "uid": "429496782832",
-          "updatedAt": "2025-01-26T19:54:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-16T10:40:48Z",
-          "fileSize": 106,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53219,
-          "name": "Arcana of Magic - lootable spells",
-          "status": "published",
-          "summary": "Spells need to be learnt from special scrolls known as \"arcanum\"",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53219/53219-1691127330-2018317220.jpeg",
-          "uid": "429496782819",
-          "updatedAt": "2023-08-14T06:18:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-11T11:58:21Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53184,
-          "name": "Yet Another Quickstart",
-          "status": "published",
-          "summary": "Skip tutorial",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53184/53184-1689076549-449323509.jpeg",
-          "uid": "429496782784",
-          "updatedAt": "2023-07-18T16:36:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-21T11:06:21Z",
-          "fileSize": 444,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 53099,
-          "name": "Cliff Racer Nests and Eggs by DonnerGott",
-          "status": "published",
-          "summary": "Adds 100 Racer Pods and 36 Racer Creches with egg-containers and bricka-brack to Vvardenfell",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53099/53099-1687345280-780194760.jpeg",
-          "uid": "429496782699",
-          "updatedAt": "2023-06-21T11:06:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-06T15:04:15Z",
-          "fileSize": 9987,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53033,
-          "name": "Paper",
-          "status": "published",
-          "summary": "esp-less replacer for books, scrolls, and parchments",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53033/53033-1686063604-503294483.jpeg",
-          "uid": "429496782633",
-          "updatedAt": "2023-06-06T15:04:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-31T15:22:10Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 52992,
-          "name": "Housepod Pack by Kzinistzerg",
-          "status": "published",
-          "summary": "Add up to five housepods around the map",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52992/52992-1685546291-1526772925.jpeg",
-          "uid": "429496782592",
-          "updatedAt": "2023-06-09T00:12:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-25T16:08:29Z",
-          "fileSize": 3107,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 52948,
-          "name": "Abandoned treehouse by Stormwyynd",
-          "status": "published",
-          "summary": "Add a small treehouse located on the same island as Sarys Ancestral tomb",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52948/52948-1685030562-934035672.jpeg",
-          "uid": "429496782548",
-          "updatedAt": "2023-05-25T16:08:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-16T13:37:56Z",
-          "fileSize": 6760,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52895,
-          "name": "Roadmarkers by ddfields",
-          "status": "published",
-          "summary": "(Historical Mod) Change all the roadmarkers to read exactly what it displays when you get close enough for the name to display, in daedric.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52895/52895-1684243537-466131559.jpeg",
-          "uid": "429496782495",
-          "updatedAt": "2023-05-16T13:37:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-16T12:04:34Z",
-          "fileSize": 15305,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52894,
-          "name": "A Mix of Textures by Tealpanda",
-          "status": "published",
-          "summary": "(Hisorical Mod) This is a texture replacer for Velothi (including Vivec), Hlaalu, Redoran, Telvanni, and Dunmer Stronghold architecture.  It also replaces the texture of some",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52894/52894-1684238500-1041325210.jpeg",
-          "uid": "429496782494",
-          "updatedAt": "2023-05-16T12:04:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-04T09:20:01Z",
-          "fileSize": 7492,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52444,
-          "name": "Colorful Toadstools",
-          "status": "published",
-          "summary": "Change the tops of the giant toadstools and mushrooms house pods to be more colorful and variegated. Some tops also faintly glows in the dark.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52444/52444-1677920793-1955375195.jpeg",
-          "uid": "429496782044",
-          "updatedAt": "2023-03-04T09:38:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-09-24T15:37:58Z",
-          "fileSize": 280,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 51853,
-          "name": "Puma Man Wilderness",
-          "status": "published",
-          "summary": "Puma Man classic mod that adds all kind of animals and mythical creatures in the whole island",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51853/51853-1664033698-1585779657.jpeg",
-          "uid": "429496781453",
-          "updatedAt": "2023-07-19T14:48:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-09-24T14:46:51Z",
-          "fileSize": 26205,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 51851,
-          "name": "Puma Man Giants",
-          "status": "published",
-          "summary": "Classic Puma Man mod that add an hundred of creatures to fight",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51851/51851-1664030704-1433715056.jpeg",
-          "uid": "429496781451",
-          "updatedAt": "2023-07-17T01:20:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-09-15T03:54:37Z",
-          "fileSize": 627,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 51819,
-          "name": "Different Sky Colors",
-          "status": "published",
-          "summary": "Instead of blue, skies will be more orange/purple/green/teal depending on the weather.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51819/51819-1663213682-682872732.jpeg",
-          "uid": "429496781419",
-          "updatedAt": "2022-09-23T05:11:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-08-27T13:11:23Z",
-          "fileSize": 18784,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 51778,
-          "name": "Illuminiel Museum",
-          "status": "published",
-          "summary": "Illuminiel is a great modder from the past, this page collects his works for Morrowind",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51778/51778-1661605144-528892259.jpeg",
-          "uid": "429496781378",
-          "updatedAt": "2022-08-27T16:25:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-06-23T09:31:54Z",
-          "fileSize": 12301,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 51528,
-          "name": "Little-secret-inspired Daedric Ruins",
-          "status": "published",
-          "summary": "Makes the Daedric ruins gray-green",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51528/51528-1655974765-219432233.jpeg",
-          "uid": "429496781128",
-          "updatedAt": "2022-06-23T09:31:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-10-18T19:34:02Z",
-          "fileSize": 949,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 50342,
-          "name": "Cait's Critter's Unleashed",
-          "status": "published",
-          "summary": "Adds real-world farm animals all around the map",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50342/50342-1634585367-646962279.jpeg",
-          "uid": "429496779942",
-          "updatedAt": "2021-10-18T19:34:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-10-01T17:38:05Z",
-          "fileSize": 21001,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 50296,
-          "name": "Swiveller's Ashland and Molag Amur",
-          "status": "published",
-          "summary": "Retexture for the Ashland and Molag Amur; so that are more distinct",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50296/50296-1633109528-2032038949.jpeg",
-          "uid": "429496779896",
-          "updatedAt": "2021-10-01T18:25:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-09-29T18:35:15Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 50289,
-          "name": "Ghostgate Protection",
-          "status": "published",
-          "summary": "This mods adds few Ordinators and Buoyant Armigers around Ghostgate to make feel it is protected and monsters cannot pass just pressing a button",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50289/50289-1632940327-1129049666.jpeg",
-          "uid": "429496779889",
-          "updatedAt": "2021-09-29T18:35:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-09-17T15:14:10Z",
-          "fileSize": 51,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50256,
-          "name": "Manual Compass",
-          "status": "published",
-          "summary": "(OpenMW exclusive) The compass now needs to be used manually, you do not have the arrow automatically telling where you are facing anymore",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50256/50256-1631891383-9143333.jpeg",
-          "uid": "429496779856",
-          "updatedAt": "2022-11-05T15:06:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-09-15T19:10:33Z",
-          "fileSize": 1620,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50252,
-          "name": "Meet thy Ancestor for Level Up",
-          "status": "published",
-          "summary": "(OpenMW Exclusive) To level up you can meet your ancestor, custodian of knowledge, and learn from them",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50252/50252-1631739003-414562847.jpeg",
-          "uid": "429496779852",
-          "updatedAt": "2023-07-19T15:32:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-09-04T07:19:54Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 50212,
-          "name": "Guild Guides for Almsivi Temple and Imperial Legion factions",
-          "status": "published",
-          "summary": "The mod adds Mysticism experts for the Almsivi Temple and Imperial Legion factions to teleport the player around the island, just like the Mage Guild's counterparts",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50212/50212-1630739812-277757967.jpeg",
-          "uid": "429496779812",
-          "updatedAt": "2021-09-07T18:46:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-09-02T19:16:03Z",
-          "fileSize": 134,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 50202,
-          "name": "Barrowmoth Legion Fort",
-          "status": "published",
-          "summary": "It adds an atmospheric imperial castle, long overrun by Dagoth Ur forces, in the steep slopes of the Red Mountain.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50202/50202-1630609916-504118773.jpeg",
-          "uid": "429496779802",
-          "updatedAt": "2021-09-02T19:16:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-08-28T20:01:09Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50190,
-          "name": "Another Rules Rebalance",
-          "status": "published",
-          "summary": "Another mod that wants to make the rules of Morrowind more reasonable",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50190/50190-1630180759-1646828055.jpeg",
-          "uid": "429496779790",
-          "updatedAt": "2023-07-23T04:19:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-08-07T09:57:10Z",
-          "fileSize": 251,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 50107,
-          "name": "Tsaesci Flying Snake",
-          "status": "published",
-          "summary": "Adds the Tsaesci Flying Snake daedroth to the skies of Morrowind",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50107/50107-1628329945-371659044.jpeg",
-          "uid": "429496779707",
-          "updatedAt": "2021-08-07T09:57:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-07-18T17:48:16Z",
-          "fileSize": 3984,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 50053,
-          "name": "Another Armor n Weapon Rebalance",
-          "status": "published",
-          "summary": "Rebalances armors and weapons to reduce the quality jump between armors and increase variety",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50053/50053-1626630227-816027914.jpeg",
-          "uid": "429496779653",
-          "updatedAt": "2022-03-30T15:21:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-06-12T21:33:18Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49956,
-          "name": "Tome of Spell Making n Hammer of Enchanting",
-          "status": "published",
-          "summary": "It puts a Tome of Spellmaking and a Hammer of Enchanting in each Mage's Guild. It works like an NPC spellmaker or enchanter except it costs magicka instead of gold.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49956/49956-1623533244-1010373729.jpeg",
-          "uid": "429496779556",
-          "updatedAt": "2025-03-01T10:07:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-29T10:13:45Z",
-          "fileSize": 30174,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 49880,
-          "name": "Undead Nightmare",
-          "status": "published",
-          "summary": "The Dwemer experiment failed and now the island is overrun by undead.Part of the May Modathon Month.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49880/49880-1622279480-88051189.jpeg",
-          "uid": "429496779480",
-          "updatedAt": "2021-05-31T06:33:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-11-18T07:22:10Z",
-          "fileSize": 929,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49049,
-          "name": "Extra Spawn Points",
-          "status": "published",
-          "summary": "For each spawn point, this mod adds one, two, four, or eight more of the same kind",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49049/49049-1605683633-1806348488.jpeg",
-          "uid": "429496778649",
-          "updatedAt": "2021-05-30T17:16:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-11-12T14:15:34Z",
-          "fileSize": 1170,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 49034,
-          "name": "LeFemm Armor with complete Gold Armor",
-          "status": "published",
-          "summary": "LeFemm Armor, specially tailored for the ladies, is on sale at the Fighters Guild in Vivec, from Sirollus Saccus in Ebonheart, the Redoran Vaults, and the lady smiths in Ald-ruhn,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49034/49034-1605366638-138104304.jpeg",
-          "uid": "429496778634",
-          "updatedAt": "2020-11-14T15:08:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-11-10T01:53:34Z",
-          "fileSize": 10,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 49028,
-          "name": "To save a falling wizard (alternate)",
-          "status": "published",
-          "summary": "The mod expands upon Tarhiel, the bosmer enchanter that fall to his death nearby Seyda Neen. With this mod, if you manage to rescue him he'll thank you and give a quest to learn",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49028/49028-1604971352-996437355.jpeg",
-          "uid": "429496778628",
-          "updatedAt": "2021-07-12T20:54:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-11-01T08:44:17Z",
-          "fileSize": 13,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 49002,
-          "name": "More common Restore Magicka Potions",
-          "status": "published",
-          "summary": "Makes the Restore Magicka Potions more common",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49002/49002-1604220112-802532405.jpeg",
-          "uid": "429496778602",
-          "updatedAt": "2020-11-01T08:44:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-25T02:35:54Z",
-          "fileSize": 91023,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 48975,
-          "name": "Morrowind Forested",
-          "status": "published",
-          "summary": "Transform the bleak landscapes of Vvardenfell in into lush, green forested areas.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48975/48975-1664275906-896893144.jpeg",
-          "uid": "429496778575",
-          "updatedAt": "2023-05-27T15:59:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-09-27T03:59:04Z",
-          "fileSize": 565,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 48880,
-          "name": "Colorful Morrowind",
-          "status": "published",
-          "summary": "Selection of extra textures to make Morrowind more magical looking and colorful",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48880/48880-1601178262-1980968440.jpeg",
-          "uid": "429496778480",
-          "updatedAt": "2023-02-16T08:36:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-08-26T15:49:56Z",
-          "fileSize": 12416,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 48756,
-          "name": "Classic Morrowind Forested",
-          "status": "published",
-          "summary": "Transform the bleak landscapes of Vvardenfell in green, lush, forested areas (Classic).",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48756/48756-1599182382-658676610.jpeg",
-          "uid": "429496778356",
-          "updatedAt": "2020-10-12T15:12:51Z"
-        }
-      ],
-      "totalCount": 67
+  "checkedAt": "2025-05-13T19:05:30.337Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 67,
+        "101": 4,
+        "461": 4
+      }
     },
-    "checkedAt": "2025-05-13T18:25:40.929Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-06T15:01:32Z",
+        "fileSize": 76519,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56317,
+        "name": "Normals for Tribunal Traditions from Articus",
+        "status": "published",
+        "summary": "OpenMW Exclusive ~ add-on for the mod Tribunal Traditions from Articus that adds normal and spec textures to improve the looks",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56317/56317-1743951017-363348841.jpeg",
+        "uid": "429496785917",
+        "updatedAt": "2025-04-06T15:01:32Z",
+        "fileIds": [
+          "1000051761",
+          "1000051762"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-28T11:33:14Z",
+        "fileSize": 27083,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56258,
+        "name": "Normals for Articus Telvanni 2K Retexture v2",
+        "status": "published",
+        "summary": "OpenMW Exclusive ~ add-on for the Articus Telvanni 2K Retexture v2 mod that adds normal and spec textures to improve the looks",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56258/56258-1743161174-2137810471.jpeg",
+        "uid": "429496785858",
+        "updatedAt": "2025-03-28T11:42:19Z",
+        "fileIds": [
+          "1000051550",
+          "1000051551"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-27T16:24:37Z",
+        "fileSize": 20251,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56249,
+        "name": "Quake Yellow Imperial Castles",
+        "status": "published",
+        "summary": "OpenMW Exclusive - give the Imperial Castles a look inspired by the Quake yellow castles, mainly seen in the The Corridors of Time episode",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56249/56249-1743093028-745842133.jpeg",
+        "uid": "429496785849",
+        "updatedAt": "2025-03-27T16:24:37Z",
+        "fileIds": [
+          "1000051532"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-25T14:58:32Z",
+        "fileSize": 3950,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56244,
+        "name": "Quake Stucco in Dunmer Home Ruins",
+        "status": "published",
+        "summary": "OpenMW Exclusive - give the old Dunmer Home ruins a look inspired by the Quake stucco",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56244/56244-1742914216-1242902911.jpeg",
+        "uid": "429496785844",
+        "updatedAt": "2025-03-25T14:58:32Z",
+        "fileIds": [
+          "1000051497"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-18T01:38:46Z",
+        "fileSize": 10727,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56210,
+        "name": "Fleshy Daedric",
+        "status": "published",
+        "summary": "OpenMW exclusive ~ give the Daedric structures an eldritch flesh-like look",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56210/56210-1742261769-22648624.jpeg",
+        "uid": "429496785810",
+        "updatedAt": "2025-03-18T01:38:46Z",
+        "fileIds": [
+          "1000051298"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-15T11:01:53Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 56188,
+        "name": "All hairs and heads are playable",
+        "status": "published",
+        "summary": "Tiny mod that makes all heads and hairs playable",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56188/56188-1742036108-1118948139.jpeg",
+        "uid": "429496785788",
+        "updatedAt": "2025-03-18T05:04:51Z",
+        "fileIds": [
+          "1000051183",
+          "1000051300"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-12T16:37:02Z",
+        "fileSize": 30840,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56168,
+        "name": "Normals for Articus Redoran 2K Retexture",
+        "status": "published",
+        "summary": "OpenMW Exclusive ~ add-on for Articus Redoran 2K Retexture mod that adds normal and spec textures to improve the looks",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56168/56168-1741796773-738418066.jpeg",
+        "uid": "429496785768",
+        "updatedAt": "2025-03-12T16:37:02Z",
+        "fileIds": [
+          "1000051114",
+          "1000051115"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-08T03:04:48Z",
+        "fileSize": 7900,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56148,
+        "name": "Quake Dungeons Style Daedric Ruins",
+        "status": "published",
+        "summary": "OpenMW Exclusive - give the Daedric Ruins a look inspired by the Quake dungeons, a weird mix of decaying stone and rusting metal. It is not brown, it is beautiful.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56148/56148-1741402807-530944115.jpeg",
+        "uid": "429496785748",
+        "updatedAt": "2025-03-08T03:04:48Z",
+        "fileIds": [
+          "1000050995",
+          "1000050996"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-26T16:12:40Z",
+        "fileSize": 27425,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56094,
+        "name": "Normals for Articus Hlaalu 2K Retexture",
+        "status": "published",
+        "summary": "OpenMW Exclusive ~ add-on for Articus Hlaalu 2K Retexture mod that adds normal, spec, and glowmap textures to improve the looks",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56094/56094-1740585895-122345972.jpeg",
+        "uid": "429496785694",
+        "updatedAt": "2025-02-27T12:51:48Z",
+        "fileIds": [
+          "1000050785",
+          "1000050769"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-26T16:04:09Z",
+        "fileSize": 25156,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56093,
+        "name": "Ashlanders re-texture with normals",
+        "status": "published",
+        "summary": "OpenMW Exclusive - re-texture the ashlanders models giving a stronger red color with normals",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56093/56093-1740585172-3644202.jpeg",
+        "uid": "429496785693",
+        "updatedAt": "2025-02-26T16:04:09Z",
+        "fileIds": [
+          "1000050766",
+          "1000050767"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-25T12:55:38Z",
+        "fileSize": 8851,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56086,
+        "name": "Quake Terracotta Style Hlaalu Buildings",
+        "status": "published",
+        "summary": "OpenMW Exclusive - give the Hlaalu buildings a look inspired by the Medieval Terracotta Quake levels, orange-dominated brick palaces",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56086/56086-1740487730-578357579.jpeg",
+        "uid": "429496785686",
+        "updatedAt": "2025-03-08T16:17:37Z",
+        "fileIds": [
+          "1000051006",
+          "1000050735",
+          "1000050738",
+          "1000050734"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-21T12:09:25Z",
+        "fileSize": 39991,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 56051,
+        "name": "Normals for Articus Telvanni 2K Retexture",
+        "status": "published",
+        "summary": "OpenMW Exclusive ~ add-on for Articus Telvanni 2K Retexture mod that adds normal, spec, and glowmap textures to improve the looks",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56051/56051-1740139403-548952963.jpeg",
+        "uid": "429496785651",
+        "updatedAt": "2025-02-23T12:47:56Z",
+        "fileIds": [
+          "1000050671",
+          "1000050586",
+          "1000050584"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-11T22:06:24Z",
+        "fileSize": 20836,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55986,
+        "name": "Quake Wizard Blue Ebon Style Dunmer Strongholds",
+        "status": "published",
+        "summary": "OpenMW Exclusive - give the Dunmer strongholds a look inspired by the Blue Ebon Quake Wizard levels, a magical mix of metal, runes, and blue stones.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55986/55986-1739311164-979283254.jpeg",
+        "uid": "429496785586",
+        "updatedAt": "2025-02-22T08:16:10Z",
+        "fileIds": [
+          "1000050287",
+          "1000050609"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-10T21:15:04Z",
+        "fileSize": 30379,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55983,
+        "name": "Sheogorath's Daedric",
+        "status": "published",
+        "summary": "OpenMW exclusive — gives the daedric ruins a makeover worth of Sheogorath — very intense",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55983/55983-1739221174-345053928.jpeg",
+        "uid": "429496785583",
+        "updatedAt": "2025-02-10T21:15:04Z",
+        "fileIds": [
+          "1000050258"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-10T16:45:19Z",
+        "fileSize": 30149,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55981,
+        "name": "Rainbow obsidian imperial castles",
+        "status": "published",
+        "summary": "OpenMW exclusive - makes the imperial castle from rainbow obsidian and puts isolating wood in the interiors",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55981/55981-1739205329-1287456932.jpeg",
+        "uid": "429496785581",
+        "updatedAt": "2025-02-27T01:40:42Z",
+        "fileIds": [
+          "1000050248",
+          "1000050268",
+          "1000050776"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-09T10:12:39Z",
+        "fileSize": 31148,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55951,
+        "name": "Imperial Homes re-texture with normals",
+        "status": "published",
+        "summary": "OpenMW exclusive - give the imperial homes a new colorful look with normals",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55951/55951-1739095395-1915925419.jpeg",
+        "uid": "429496785551",
+        "updatedAt": "2025-02-09T10:12:39Z",
+        "fileIds": [
+          "1000050185",
+          "1000050186"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-01T14:30:23Z",
+        "fileSize": 36072,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55905,
+        "name": "Imperial Castles re-texture with normals",
+        "status": "published",
+        "summary": "OpenMW Exclusive - gives imperial castles a distinctive look",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55905/55905-1738416126-69151060.jpeg",
+        "uid": "429496785505",
+        "updatedAt": "2025-02-01T14:30:23Z",
+        "fileIds": [
+          "1000049991",
+          "1000049992"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-29T21:33:40Z",
+        "fileSize": 30754,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55891,
+        "name": "Telvanni re-texture with normals",
+        "status": "published",
+        "summary": "Gives the Telvanni a natural, woodsy feel with a hint of magic",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55891/55891-1738185406-973483128.jpeg",
+        "uid": "429496785491",
+        "updatedAt": "2025-01-29T21:33:40Z",
+        "fileIds": [
+          "1000049908",
+          "1000049907"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-27T13:08:28Z",
+        "fileSize": 33277,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55875,
+        "name": "Cabin and Docks re-texture with normals",
+        "status": "published",
+        "summary": "OpenMW exclusive - gives cabins and docks a new colorful look with normals",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55875/55875-1737975629-1340146497.jpeg",
+        "uid": "429496785475",
+        "updatedAt": "2025-01-27T13:08:28Z",
+        "fileIds": [
+          "1000049854",
+          "1000049856"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-23T15:32:48Z",
+        "fileSize": 34607,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55853,
+        "name": "Crab-Mansions Redoran with normals",
+        "status": "published",
+        "summary": "OpenMW Exclusive - Gives Redoran huts and Under-Skar rooms a makeover with normal and spec textures",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55853/55853-1737645620-161576969.jpeg",
+        "uid": "429496785453",
+        "updatedAt": "2025-01-23T15:32:48Z",
+        "fileIds": [
+          "1000049738",
+          "1000049739"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-20T21:06:21Z",
+        "fileSize": 20808,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55840,
+        "name": "Little-secret-inspired Daedric Textures with normals",
+        "status": "published",
+        "summary": "OpenMW exclusive — Gives the Daedric structures a look inspired by the little-secret text",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55840/55840-1737406466-908568803.jpeg",
+        "uid": "429496785440",
+        "updatedAt": "2025-01-20T21:06:21Z",
+        "fileIds": [
+          "1000049672",
+          "1000049673"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-16T20:47:19Z",
+        "fileSize": 314,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 55806,
+        "name": "Secunda Termina",
+        "status": "published",
+        "summary": "Replaces Secunda with Termina",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55806/55806-1737060116-468162704.jpeg",
+        "uid": "429496785406",
+        "updatedAt": "2025-03-13T15:23:19Z",
+        "fileIds": [
+          "1000051133",
+          "1000049568",
+          "1000049570",
+          "1000051134"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-16T12:09:36Z",
+        "fileSize": 3572,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55789,
+        "name": "Egyptian-inspired Velothi Textures with normals",
+        "status": "published",
+        "summary": "OpenMW exclusive — Gives the Velothi an Egyptian-inspired look",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55789/55789-1737029048-998663015.jpeg",
+        "uid": "429496785389",
+        "updatedAt": "2025-02-09T22:24:09Z",
+        "fileIds": [
+          "1000050219",
+          "1000049561",
+          "1000049562"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-02T22:05:09Z",
+        "fileSize": 22802,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55715,
+        "name": "Golden Dwemer",
+        "status": "published",
+        "summary": "OpenMW exclusive - a golden retexture of the Dwemer architecture with normals, speculars, and few glowmaps",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55715/55715-1735853528-108163444.jpeg",
+        "uid": "429496785315",
+        "updatedAt": "2025-01-03T19:59:57Z",
+        "fileIds": [
+          "1000049268",
+          "1000049290"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-21T09:13:15Z",
+        "fileSize": 1936,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 55619,
+        "name": "Aztec-inspired Hlaalu Textures with normals",
+        "status": "published",
+        "summary": "OpenMW exclusive - Gives the Hlaalu an Aztec-inspired look",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55619/55619-1738056090-154512765.jpeg",
+        "uid": "429496785219",
+        "updatedAt": "2025-01-17T15:28:11Z",
+        "fileIds": [
+          "1000048917",
+          "1000049579",
+          "1000049307"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-17T12:41:21Z",
+        "fileSize": 19,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 54682,
+        "name": "Creature Pack by Mephisto",
+        "status": "published",
+        "summary": "[Historical mod uploaded for preservation]Creature Pack 1.1 is a mod that will add many new variations of existing creatures to various Leveled-creature lists. It will increase the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54682/54682-1716423722-1033097661.jpeg",
+        "uid": "429496784282",
+        "updatedAt": "2024-05-17T12:41:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-20T14:11:14Z",
+        "fileSize": 506,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53394,
+        "name": "Highly visible keys and propylon indices",
+        "status": "published",
+        "summary": "Make keys and propylon indices highly visible",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53394/53394-1692540280-320771010.jpeg",
+        "uid": "429496782994",
+        "updatedAt": "2023-08-20T14:11:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-18T02:10:51Z",
+        "fileSize": 467,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 53389,
+        "name": "Suran Dancer Randomized",
+        "status": "published",
+        "summary": "Each new day you get three randomly chosen dancers in the Desele's House of Earthly Delights in Suran",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53389/53389-1692324466-1770052335.jpeg",
+        "uid": "429496782989",
+        "updatedAt": "2024-03-09T06:40:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-06T12:14:45Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 53346,
+        "name": "Guards' Hounds",
+        "status": "published",
+        "summary": "Give to some Guards a pet",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53346/53346-1691323566-1669971331.jpeg",
+        "uid": "429496782946",
+        "updatedAt": "2023-08-09T01:09:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-31T12:26:39Z",
+        "fileSize": 1763,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53325,
+        "name": "Tree House from dongle",
+        "status": "published",
+        "summary": "A model for a massive three-story tree-trunk hollowed out into a home. Doorways, balconies, windows, walks, and stairways wrap all around the trunk",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53325/53325-1690806214-1647533244.jpeg",
+        "uid": "429496782925",
+        "updatedAt": "2023-07-31T12:26:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-29T12:10:14Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53292,
+        "name": "Farvyn Oreyn's Position Randomizer",
+        "status": "published",
+        "summary": "Place Farvyn Oreyn, the fake hero, in a random location around Gar Mok",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53292/53292-1690632506-628728130.jpeg",
+        "uid": "429496782892",
+        "updatedAt": "2023-07-31T03:20:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-28T00:53:58Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53286,
+        "name": "Din's Position Randomizer",
+        "status": "published",
+        "summary": "Place Din, the sick legionary, in a random location around Gnisis",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53286/53286-1690505522-326480892.jpeg",
+        "uid": "429496782886",
+        "updatedAt": "2023-07-28T04:32:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-23T02:49:34Z",
+        "fileSize": 245,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 53257,
+        "name": "Mannequins for Sale",
+        "status": "published",
+        "summary": "Add mannequins so that when you \"talk\" to one of them, you can dress it using Companion Share or use one of the special topics to pick it up or change its pose",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53257/53257-1690080264-1612461089.jpeg",
+        "uid": "429496782857",
+        "updatedAt": "2023-07-23T02:49:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-18T08:45:27Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53232,
+        "name": "ManaUser Minimod",
+        "status": "published",
+        "summary": "A set of mods mostly,  but not all could be considered \"tweaks,\" but the only thing they really have in common is that they're fairly small, esp-only mods",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53232/53232-1689669668-1047217136.jpeg",
+        "uid": "429496782832",
+        "updatedAt": "2025-01-26T19:54:28Z",
+        "fileIds": [
+          "1000039347",
+          "1000049836",
+          "1000039372",
+          "1000039187",
+          "1000039322"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-16T10:40:48Z",
+        "fileSize": 106,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53219,
+        "name": "Arcana of Magic - lootable spells",
+        "status": "published",
+        "summary": "Spells need to be learnt from special scrolls known as \"arcanum\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53219/53219-1691127330-2018317220.jpeg",
+        "uid": "429496782819",
+        "updatedAt": "2023-08-14T06:18:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-11T11:58:21Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53184,
+        "name": "Yet Another Quickstart",
+        "status": "published",
+        "summary": "Skip tutorial",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53184/53184-1689076549-449323509.jpeg",
+        "uid": "429496782784",
+        "updatedAt": "2023-07-18T16:36:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-21T11:06:21Z",
+        "fileSize": 444,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 53099,
+        "name": "Cliff Racer Nests and Eggs by DonnerGott",
+        "status": "published",
+        "summary": "Adds 100 Racer Pods and 36 Racer Creches with egg-containers and bricka-brack to Vvardenfell",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53099/53099-1687345280-780194760.jpeg",
+        "uid": "429496782699",
+        "updatedAt": "2023-06-21T11:06:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-06T15:04:15Z",
+        "fileSize": 9987,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53033,
+        "name": "Paper",
+        "status": "published",
+        "summary": "esp-less replacer for books, scrolls, and parchments",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53033/53033-1686063604-503294483.jpeg",
+        "uid": "429496782633",
+        "updatedAt": "2023-06-06T15:04:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-31T15:22:10Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 52992,
+        "name": "Housepod Pack by Kzinistzerg",
+        "status": "published",
+        "summary": "Add up to five housepods around the map",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52992/52992-1685546291-1526772925.jpeg",
+        "uid": "429496782592",
+        "updatedAt": "2023-06-09T00:12:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-25T16:08:29Z",
+        "fileSize": 3107,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 52948,
+        "name": "Abandoned treehouse by Stormwyynd",
+        "status": "published",
+        "summary": "Add a small treehouse located on the same island as Sarys Ancestral tomb",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52948/52948-1685030562-934035672.jpeg",
+        "uid": "429496782548",
+        "updatedAt": "2023-05-25T16:08:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-16T13:37:56Z",
+        "fileSize": 6760,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52895,
+        "name": "Roadmarkers by ddfields",
+        "status": "published",
+        "summary": "(Historical Mod) Change all the roadmarkers to read exactly what it displays when you get close enough for the name to display, in daedric.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52895/52895-1684243537-466131559.jpeg",
+        "uid": "429496782495",
+        "updatedAt": "2023-05-16T13:37:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-16T12:04:34Z",
+        "fileSize": 15305,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52894,
+        "name": "A Mix of Textures by Tealpanda",
+        "status": "published",
+        "summary": "(Hisorical Mod) This is a texture replacer for Velothi (including Vivec), Hlaalu, Redoran, Telvanni, and Dunmer Stronghold architecture.  It also replaces the texture of some",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52894/52894-1684238500-1041325210.jpeg",
+        "uid": "429496782494",
+        "updatedAt": "2023-05-16T12:04:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-04T09:20:01Z",
+        "fileSize": 7492,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52444,
+        "name": "Colorful Toadstools",
+        "status": "published",
+        "summary": "Change the tops of the giant toadstools and mushrooms house pods to be more colorful and variegated. Some tops also faintly glows in the dark.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52444/52444-1677920793-1955375195.jpeg",
+        "uid": "429496782044",
+        "updatedAt": "2023-03-04T09:38:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-09-24T15:37:58Z",
+        "fileSize": 280,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 51853,
+        "name": "Puma Man Wilderness",
+        "status": "published",
+        "summary": "Puma Man classic mod that adds all kind of animals and mythical creatures in the whole island",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51853/51853-1664033698-1585779657.jpeg",
+        "uid": "429496781453",
+        "updatedAt": "2023-07-19T14:48:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-09-24T14:46:51Z",
+        "fileSize": 26205,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 51851,
+        "name": "Puma Man Giants",
+        "status": "published",
+        "summary": "Classic Puma Man mod that add an hundred of creatures to fight",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51851/51851-1664030704-1433715056.jpeg",
+        "uid": "429496781451",
+        "updatedAt": "2023-07-17T01:20:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-09-15T03:54:37Z",
+        "fileSize": 627,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 51819,
+        "name": "Different Sky Colors",
+        "status": "published",
+        "summary": "Instead of blue, skies will be more orange/purple/green/teal depending on the weather.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51819/51819-1663213682-682872732.jpeg",
+        "uid": "429496781419",
+        "updatedAt": "2022-09-23T05:11:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-27T13:11:23Z",
+        "fileSize": 18784,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 51778,
+        "name": "Illuminiel Museum",
+        "status": "published",
+        "summary": "Illuminiel is a great modder from the past, this page collects his works for Morrowind",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51778/51778-1661605144-528892259.jpeg",
+        "uid": "429496781378",
+        "updatedAt": "2022-08-27T16:25:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-06-23T09:31:54Z",
+        "fileSize": 12301,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 51528,
+        "name": "Little-secret-inspired Daedric Ruins",
+        "status": "published",
+        "summary": "Makes the Daedric ruins gray-green",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51528/51528-1655974765-219432233.jpeg",
+        "uid": "429496781128",
+        "updatedAt": "2022-06-23T09:31:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-10-18T19:34:02Z",
+        "fileSize": 949,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 50342,
+        "name": "Cait's Critter's Unleashed",
+        "status": "published",
+        "summary": "Adds real-world farm animals all around the map",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50342/50342-1634585367-646962279.jpeg",
+        "uid": "429496779942",
+        "updatedAt": "2021-10-18T19:34:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-10-01T17:38:05Z",
+        "fileSize": 21001,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 50296,
+        "name": "Swiveller's Ashland and Molag Amur",
+        "status": "published",
+        "summary": "Retexture for the Ashland and Molag Amur; so that are more distinct",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50296/50296-1633109528-2032038949.jpeg",
+        "uid": "429496779896",
+        "updatedAt": "2021-10-01T18:25:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-29T18:35:15Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 50289,
+        "name": "Ghostgate Protection",
+        "status": "published",
+        "summary": "This mods adds few Ordinators and Buoyant Armigers around Ghostgate to make feel it is protected and monsters cannot pass just pressing a button",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50289/50289-1632940327-1129049666.jpeg",
+        "uid": "429496779889",
+        "updatedAt": "2021-09-29T18:35:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-17T15:14:10Z",
+        "fileSize": 51,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50256,
+        "name": "Manual Compass",
+        "status": "published",
+        "summary": "(OpenMW exclusive) The compass now needs to be used manually, you do not have the arrow automatically telling where you are facing anymore",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50256/50256-1631891383-9143333.jpeg",
+        "uid": "429496779856",
+        "updatedAt": "2022-11-05T15:06:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-15T19:10:33Z",
+        "fileSize": 1620,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50252,
+        "name": "Meet thy Ancestor for Level Up",
+        "status": "published",
+        "summary": "(OpenMW Exclusive) To level up you can meet your ancestor, custodian of knowledge, and learn from them",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50252/50252-1631739003-414562847.jpeg",
+        "uid": "429496779852",
+        "updatedAt": "2023-07-19T15:32:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-04T07:19:54Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 50212,
+        "name": "Guild Guides for Almsivi Temple and Imperial Legion factions",
+        "status": "published",
+        "summary": "The mod adds Mysticism experts for the Almsivi Temple and Imperial Legion factions to teleport the player around the island, just like the Mage Guild's counterparts",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50212/50212-1630739812-277757967.jpeg",
+        "uid": "429496779812",
+        "updatedAt": "2021-09-07T18:46:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-02T19:16:03Z",
+        "fileSize": 134,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 50202,
+        "name": "Barrowmoth Legion Fort",
+        "status": "published",
+        "summary": "It adds an atmospheric imperial castle, long overrun by Dagoth Ur forces, in the steep slopes of the Red Mountain.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50202/50202-1630609916-504118773.jpeg",
+        "uid": "429496779802",
+        "updatedAt": "2021-09-02T19:16:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-08-28T20:01:09Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50190,
+        "name": "Another Rules Rebalance",
+        "status": "published",
+        "summary": "Another mod that wants to make the rules of Morrowind more reasonable",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50190/50190-1630180759-1646828055.jpeg",
+        "uid": "429496779790",
+        "updatedAt": "2023-07-23T04:19:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-08-07T09:57:10Z",
+        "fileSize": 251,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 50107,
+        "name": "Tsaesci Flying Snake",
+        "status": "published",
+        "summary": "Adds the Tsaesci Flying Snake daedroth to the skies of Morrowind",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50107/50107-1628329945-371659044.jpeg",
+        "uid": "429496779707",
+        "updatedAt": "2021-08-07T09:57:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-07-18T17:48:16Z",
+        "fileSize": 3984,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 50053,
+        "name": "Another Armor n Weapon Rebalance",
+        "status": "published",
+        "summary": "Rebalances armors and weapons to reduce the quality jump between armors and increase variety",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50053/50053-1626630227-816027914.jpeg",
+        "uid": "429496779653",
+        "updatedAt": "2022-03-30T15:21:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-06-12T21:33:18Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49956,
+        "name": "Tome of Spell Making n Hammer of Enchanting",
+        "status": "published",
+        "summary": "It puts a Tome of Spellmaking and a Hammer of Enchanting in each Mage's Guild. It works like an NPC spellmaker or enchanter except it costs magicka instead of gold.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49956/49956-1623533244-1010373729.jpeg",
+        "uid": "429496779556",
+        "updatedAt": "2025-03-01T10:07:47Z",
+        "fileIds": [
+          "1000050761",
+          "1000050834"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-29T10:13:45Z",
+        "fileSize": 30174,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 49880,
+        "name": "Undead Nightmare",
+        "status": "published",
+        "summary": "The Dwemer experiment failed and now the island is overrun by undead.Part of the May Modathon Month.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49880/49880-1622279480-88051189.jpeg",
+        "uid": "429496779480",
+        "updatedAt": "2021-05-31T06:33:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-11-18T07:22:10Z",
+        "fileSize": 929,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49049,
+        "name": "Extra Spawn Points",
+        "status": "published",
+        "summary": "For each spawn point, this mod adds one, two, four, or eight more of the same kind",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49049/49049-1605683633-1806348488.jpeg",
+        "uid": "429496778649",
+        "updatedAt": "2021-05-30T17:16:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-11-12T14:15:34Z",
+        "fileSize": 1170,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 49034,
+        "name": "LeFemm Armor with complete Gold Armor",
+        "status": "published",
+        "summary": "LeFemm Armor, specially tailored for the ladies, is on sale at the Fighters Guild in Vivec, from Sirollus Saccus in Ebonheart, the Redoran Vaults, and the lady smiths in Ald-ruhn,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49034/49034-1605366638-138104304.jpeg",
+        "uid": "429496778634",
+        "updatedAt": "2020-11-14T15:08:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-11-10T01:53:34Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 49028,
+        "name": "To save a falling wizard (alternate)",
+        "status": "published",
+        "summary": "The mod expands upon Tarhiel, the bosmer enchanter that fall to his death nearby Seyda Neen. With this mod, if you manage to rescue him he'll thank you and give a quest to learn",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49028/49028-1604971352-996437355.jpeg",
+        "uid": "429496778628",
+        "updatedAt": "2021-07-12T20:54:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-11-01T08:44:17Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 49002,
+        "name": "More common Restore Magicka Potions",
+        "status": "published",
+        "summary": "Makes the Restore Magicka Potions more common",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49002/49002-1604220112-802532405.jpeg",
+        "uid": "429496778602",
+        "updatedAt": "2020-11-01T08:44:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-25T02:35:54Z",
+        "fileSize": 91023,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 48975,
+        "name": "Morrowind Forested",
+        "status": "published",
+        "summary": "Transform the bleak landscapes of Vvardenfell in into lush, green forested areas.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48975/48975-1664275906-896893144.jpeg",
+        "uid": "429496778575",
+        "updatedAt": "2023-05-27T15:59:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-09-27T03:59:04Z",
+        "fileSize": 565,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 48880,
+        "name": "Colorful Morrowind",
+        "status": "published",
+        "summary": "Selection of extra textures to make Morrowind more magical looking and colorful",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48880/48880-1601178262-1980968440.jpeg",
+        "uid": "429496778480",
+        "updatedAt": "2023-02-16T08:36:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-26T15:49:56Z",
+        "fileSize": 12416,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 48756,
+        "name": "Classic Morrowind Forested",
+        "status": "published",
+        "summary": "Transform the bleak landscapes of Vvardenfell in green, lush, forested areas (Classic).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48756/48756-1599182382-658676610.jpeg",
+        "uid": "429496778356",
+        "updatedAt": "2020-10-12T15:12:51Z"
+      }
+    ],
+    "totalCount": 67
   }
 }

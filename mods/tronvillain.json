@@ -1,79 +1,77 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 4
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2021-12-02T15:49:05Z",
-          "fileSize": 2980,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 50496,
-          "name": "Unique Tombs",
-          "status": "published",
-          "summary": "A plugin that retextures all of the Velothi meshes found in vanilla tombs while leaving all of the other Velothi architecture untouched, with example textures fusing Connary's",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50496/50496-1638459612-1063503722.jpeg",
-          "uid": "429496780096",
-          "updatedAt": "2021-12-02T15:49:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-11T15:24:06Z",
-          "fileSize": 2373,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 48008,
-          "name": "Better Scamps",
-          "status": "published",
-          "summary": "A pluginless mesh replacer for the scamp creature which attempts to fix the UV mapping (distortion, seams, symmetry, random mistakes, and—for some reason—the teeth being mapped",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48008/48008-1591021134-1635527704.jpeg",
-          "uid": "429496777608",
-          "updatedAt": "2020-05-11T15:24:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2012-05-10T04:17:32Z",
-          "fileSize": 123,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 42130,
-          "name": "Correct UV Mudcrabs",
-          "status": "published",
-          "summary": "A fixed Mudcrab mesh, reducing distortion and other UV errors.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42130-1-1336872253.jpg",
-          "uid": "429496771730",
-          "updatedAt": "2012-05-13T01:18:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2009-12-15T00:09:57Z",
-          "fileSize": 2173,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 28729,
-          "name": "Better Skulls",
-          "status": "published",
-          "summary": "Updated to the most recent version, with new meshes (from the skeleton creature) for the statics, misc. objects, and lights involving skulls—carefully aligned with the original",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/28729/28729-1591021589-1029749596.jpeg",
-          "uid": "429496758329",
-          "updatedAt": "2020-05-13T23:05:19Z"
-        }
-      ],
-      "totalCount": 4
+  "checkedAt": "2025-05-13T19:04:57.960Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
     },
-    "checkedAt": "2025-05-13T18:25:38.663Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2021-12-02T15:49:05Z",
+        "fileSize": 2980,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 50496,
+        "name": "Unique Tombs",
+        "status": "published",
+        "summary": "A plugin that retextures all of the Velothi meshes found in vanilla tombs while leaving all of the other Velothi architecture untouched, with example textures fusing Connary's",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50496/50496-1638459612-1063503722.jpeg",
+        "uid": "429496780096",
+        "updatedAt": "2021-12-02T15:49:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-11T15:24:06Z",
+        "fileSize": 2373,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 48008,
+        "name": "Better Scamps",
+        "status": "published",
+        "summary": "A pluginless mesh replacer for the scamp creature which attempts to fix the UV mapping (distortion, seams, symmetry, random mistakes, and—for some reason—the teeth being mapped",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48008/48008-1591021134-1635527704.jpeg",
+        "uid": "429496777608",
+        "updatedAt": "2020-05-11T15:24:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-05-10T04:17:32Z",
+        "fileSize": 123,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42130,
+        "name": "Correct UV Mudcrabs",
+        "status": "published",
+        "summary": "A fixed Mudcrab mesh, reducing distortion and other UV errors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42130-1-1336872253.jpg",
+        "uid": "429496771730",
+        "updatedAt": "2012-05-13T01:18:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2009-12-15T00:09:57Z",
+        "fileSize": 2173,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 28729,
+        "name": "Better Skulls",
+        "status": "published",
+        "summary": "Updated to the most recent version, with new meshes (from the skeleton creature) for the statics, misc. objects, and lights involving skulls—carefully aligned with the original",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/28729/28729-1591021589-1029749596.jpeg",
+        "uid": "429496758329",
+        "updatedAt": "2020-05-13T23:05:19Z"
+      }
+    ],
+    "totalCount": 4
   }
 }

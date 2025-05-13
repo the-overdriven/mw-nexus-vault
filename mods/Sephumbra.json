@@ -1,128 +1,126 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 7,
-          "1059": 2
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2022-02-07T15:48:24Z",
-          "fileSize": 15,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50744,
-          "name": "Seph's NPC Soul Trapping",
-          "status": "published",
-          "summary": "A MWSE mod that lets you soul trap NPCs.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50744/50744-1644248106-1553403777.png",
-          "uid": "429496780344",
-          "updatedAt": "2024-05-02T09:26:08Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-01-28T01:01:54Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 50708,
-          "name": "Seph's Library",
-          "status": "published",
-          "summary": "A MWSE lua library that may be required by other mods. It does nothing on its own.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50708/50708-1643331516-655469608.png",
-          "uid": "429496780308",
-          "updatedAt": "2022-01-28T01:01:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-01-16T18:23:29Z",
-          "fileSize": 600,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50657,
-          "name": "Seph's Soul Battle",
-          "status": "published",
-          "summary": "A MWSE mod that lets you challenge NPCs to a soul gem battle, letting the creatures' souls fight.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50657/50657-1642357713-1110558700.png",
-          "uid": "429496780257",
-          "updatedAt": "2022-01-16T20:49:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-12-31T03:13:45Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 50588,
-          "name": "Seph's HUD Customizer",
-          "status": "published",
-          "summary": "A MWSE mod that makes almost every element of the HUD customizable to a certain degree.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50588/50588-1640922074-1050760718.png",
-          "uid": "429496780188",
-          "updatedAt": "2024-06-30T12:50:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-12-29T15:55:32Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 50584,
-          "name": "Seph's Guar Petting",
-          "status": "published",
-          "summary": "A tiny MWSE lua mod that makes guars play sounds and optionally display messages when 'activated'.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50584/50584-1640793156-966729537.png",
-          "uid": "429496780184",
-          "updatedAt": "2021-12-29T15:55:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-12-29T00:26:36Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 50582,
-          "name": "Seph's Inventory Decorator",
-          "status": "published",
-          "summary": "A simple MWSE mod that adds more information and decorations to inventory item tiles for quicker item management and discovery.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50582/50582-1640737202-1101438128.png",
-          "uid": "429496780182",
-          "updatedAt": "2021-12-30T02:56:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-12-27T20:09:01Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 50577,
-          "name": "Seph's Enemy Bars",
-          "status": "published",
-          "summary": "A simple MWSE mod that adds more detailed health, magicka and fatigue bars to any npc or creature you look at.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50577/50577-1640730096-1474657809.png",
-          "uid": "429496780177",
-          "updatedAt": "2021-12-29T03:19:39Z"
-        }
-      ],
-      "totalCount": 7
+  "checkedAt": "2025-05-13T19:04:40.891Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 7,
+        "1059": 2
+      }
     },
-    "checkedAt": "2025-05-13T18:25:36.482Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2022-02-07T15:48:24Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50744,
+        "name": "Seph's NPC Soul Trapping",
+        "status": "published",
+        "summary": "A MWSE mod that lets you soul trap NPCs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50744/50744-1644248106-1553403777.png",
+        "uid": "429496780344",
+        "updatedAt": "2024-05-02T09:26:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-01-28T01:01:54Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 50708,
+        "name": "Seph's Library",
+        "status": "published",
+        "summary": "A MWSE lua library that may be required by other mods. It does nothing on its own.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50708/50708-1643331516-655469608.png",
+        "uid": "429496780308",
+        "updatedAt": "2022-01-28T01:01:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-01-16T18:23:29Z",
+        "fileSize": 600,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50657,
+        "name": "Seph's Soul Battle",
+        "status": "published",
+        "summary": "A MWSE mod that lets you challenge NPCs to a soul gem battle, letting the creatures' souls fight.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50657/50657-1642357713-1110558700.png",
+        "uid": "429496780257",
+        "updatedAt": "2022-01-16T20:49:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-12-31T03:13:45Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 50588,
+        "name": "Seph's HUD Customizer",
+        "status": "published",
+        "summary": "A MWSE mod that makes almost every element of the HUD customizable to a certain degree.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50588/50588-1640922074-1050760718.png",
+        "uid": "429496780188",
+        "updatedAt": "2024-06-30T12:50:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-12-29T15:55:32Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 50584,
+        "name": "Seph's Guar Petting",
+        "status": "published",
+        "summary": "A tiny MWSE lua mod that makes guars play sounds and optionally display messages when 'activated'.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50584/50584-1640793156-966729537.png",
+        "uid": "429496780184",
+        "updatedAt": "2021-12-29T15:55:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-12-29T00:26:36Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 50582,
+        "name": "Seph's Inventory Decorator",
+        "status": "published",
+        "summary": "A simple MWSE mod that adds more information and decorations to inventory item tiles for quicker item management and discovery.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50582/50582-1640737202-1101438128.png",
+        "uid": "429496780182",
+        "updatedAt": "2021-12-30T02:56:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-12-27T20:09:01Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 50577,
+        "name": "Seph's Enemy Bars",
+        "status": "published",
+        "summary": "A simple MWSE mod that adds more detailed health, magicka and fatigue bars to any npc or creature you look at.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50577/50577-1640730096-1474657809.png",
+        "uid": "429496780177",
+        "updatedAt": "2021-12-29T03:19:39Z"
+      }
+    ],
+    "totalCount": 7
   }
 }

@@ -1,207 +1,218 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 12
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2020-06-01T23:18:31Z",
-          "fileSize": 287,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 48279,
-          "name": "Synthesis Series - Creatures and Diseases",
-          "status": "published",
-          "summary": "The premise of my synthesis series is fleshing out two different aspects of the game in a logical and thoughtful way. This first entry covers missing creature variants and",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48279/48279-1591053148-1516321370.png",
-          "uid": "429496777879",
-          "updatedAt": "2025-02-06T21:00:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-29T19:56:40Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 47649,
-          "name": "Blight Is Coming",
-          "status": "published",
-          "summary": "Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47649/47649-1583005325-1943968796.png",
-          "uid": "429496777249",
-          "updatedAt": "2020-02-29T19:56:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-10T22:51:01Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 47588,
-          "name": "Expansion Delay",
-          "status": "published",
-          "summary": "This mod fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47588/47588-1581374365-1608782573.png",
-          "uid": "429496777188",
-          "updatedAt": "2021-02-04T23:25:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-12T10:39:41Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 47068,
-          "name": "Half11's Misc Mods",
-          "status": "published",
-          "summary": "Small mods I made that don't warrant their own page on Nexus.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47068/47068-1565605113-953745637.png",
-          "uid": "429496776668",
-          "updatedAt": "2023-10-29T15:22:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-07T23:16:18Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 46720,
-          "name": "Dubdilla Location Fix",
-          "status": "published",
-          "summary": "This mod fixes another one of Beth's oversights. One of MW's quests has voiced dialogue that sends you to a totally different location than where the quest actually takes place. I",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46720/46720-1557409497-669842670.png",
-          "uid": "429496776320",
-          "updatedAt": "2022-12-14T14:03:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-07-25T12:39:46Z",
-          "fileSize": 56,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 45894,
-          "name": "Yet Another Guard Diversity",
-          "status": "published",
-          "summary": "This mod replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45894/45894-1532623900-2052948663.png",
-          "uid": "429496775494",
-          "updatedAt": "2025-02-27T14:57:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-06-19T15:00:54Z",
-          "fileSize": 57954,
-          "modCategory": {
-            "categoryId": 30,
-            "name": "Splash Screens"
-          },
-          "modId": 45800,
-          "name": "Unstretched Splash Screens",
-          "status": "published",
-          "summary": "This mod adds black bars on both sides of the splash screens so that they will no longer be stretched.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45800/45800-1529419718-1809371649.png",
-          "uid": "429496775400",
-          "updatedAt": "2018-06-19T15:00:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-04-01T14:21:21Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 45558,
-          "name": "Blight Storms Restored",
-          "status": "published",
-          "summary": "Restores the function of catching blight disease while out in a blight storm.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45558/45558-1522592032-1660240934.png",
-          "uid": "429496775158",
-          "updatedAt": "2020-02-23T13:01:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-02-20T18:21:09Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45494,
-          "name": "Lore Friendly Birthsign Rebalancing",
-          "status": "published",
-          "summary": "Rebalances 7 out of 13 birthsigns in a way that makes sense, according to the book The Firmament and in accordance with the existing ones. As a bonus the full birthsign",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45494/45494-1519149762-652228055.jpeg",
-          "uid": "429496775094",
-          "updatedAt": "2018-02-20T18:21:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-01-08T23:39:59Z",
-          "fileSize": 11,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45410,
-          "name": "The Publicans",
-          "status": "published",
-          "summary": "The Publicans fixes several places in the vanilla game that were set up like inns (where you can rent rooms), but Bethesda still needed to add the option to rent a room.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45410/45410-1515452058-1890284827.jpeg",
-          "uid": "429496775010",
-          "updatedAt": "2024-01-17T19:20:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-10-02T22:38:16Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 45228,
-          "name": "Diseases Restored",
-          "status": "published",
-          "summary": "This mod restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45228/45228-1522609791-604251041.png",
-          "uid": "429496774828",
-          "updatedAt": "2020-02-23T12:21:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-07-31T17:48:32Z",
-          "fileSize": 3479,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 45096,
-          "name": "Patch for Purists",
-          "status": "published",
-          "summary": "Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition which attempts to continue where the latest official version of the game left",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45096/45096-1524658434-931520215.png",
-          "uid": "429496774696",
-          "updatedAt": "2023-09-18T19:13:57Z"
-        }
-      ],
-      "totalCount": 12
+  "checkedAt": "2025-05-13T18:59:07.080Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 12
+      }
     },
-    "checkedAt": "2025-05-13T18:25:25.058Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2020-06-01T23:18:31Z",
+        "fileSize": 287,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 48279,
+        "name": "Synthesis Series - Creatures and Diseases",
+        "status": "published",
+        "summary": "The premise of my synthesis series is fleshing out two different aspects of the game in a logical and thoughtful way. This first entry covers missing creature variants and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48279/48279-1591053148-1516321370.png",
+        "uid": "429496777879",
+        "updatedAt": "2025-02-06T21:00:30Z",
+        "fileIds": [
+          "1000050126",
+          "1000022784"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-29T19:56:40Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 47649,
+        "name": "Blight Is Coming",
+        "status": "published",
+        "summary": "Makes blight storms more deadly by adding a change of corprus beasts spawning close to the player.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47649/47649-1583005325-1943968796.png",
+        "uid": "429496777249",
+        "updatedAt": "2020-02-29T19:56:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-10T22:51:01Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 47588,
+        "name": "Expansion Delay",
+        "status": "published",
+        "summary": "This mod fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47588/47588-1581374365-1608782573.png",
+        "uid": "429496777188",
+        "updatedAt": "2021-02-04T23:25:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-12T10:39:41Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 47068,
+        "name": "Half11's Misc Mods",
+        "status": "published",
+        "summary": "Small mods I made that don't warrant their own page on Nexus.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47068/47068-1565605113-953745637.png",
+        "uid": "429496776668",
+        "updatedAt": "2023-10-29T15:22:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-07T23:16:18Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 46720,
+        "name": "Dubdilla Location Fix",
+        "status": "published",
+        "summary": "This mod fixes another one of Beth's oversights. One of MW's quests has voiced dialogue that sends you to a totally different location than where the quest actually takes place. I",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46720/46720-1557409497-669842670.png",
+        "uid": "429496776320",
+        "updatedAt": "2022-12-14T14:03:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-07-25T12:39:46Z",
+        "fileSize": 56,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45894,
+        "name": "Yet Another Guard Diversity",
+        "status": "published",
+        "summary": "This mod replaces the generic, copy-pasted guards of Morrowind with different variations. Some guards have different loadouts and armor, and each have different faces.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45894/45894-1532623900-2052948663.png",
+        "uid": "429496775494",
+        "updatedAt": "2025-02-27T14:57:43Z",
+        "fileIds": [
+          "1000022185",
+          "1000022186",
+          "1000022187",
+          "1000022188",
+          "1000050788",
+          "1000011794",
+          "1000018624"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-06-19T15:00:54Z",
+        "fileSize": 57954,
+        "modCategory": {
+          "categoryId": 30,
+          "name": "Splash Screens"
+        },
+        "modId": 45800,
+        "name": "Unstretched Splash Screens",
+        "status": "published",
+        "summary": "This mod adds black bars on both sides of the splash screens so that they will no longer be stretched.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45800/45800-1529419718-1809371649.png",
+        "uid": "429496775400",
+        "updatedAt": "2018-06-19T15:00:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-01T14:21:21Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 45558,
+        "name": "Blight Storms Restored",
+        "status": "published",
+        "summary": "Restores the function of catching blight disease while out in a blight storm.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45558/45558-1522592032-1660240934.png",
+        "uid": "429496775158",
+        "updatedAt": "2020-02-23T13:01:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-02-20T18:21:09Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45494,
+        "name": "Lore Friendly Birthsign Rebalancing",
+        "status": "published",
+        "summary": "Rebalances 7 out of 13 birthsigns in a way that makes sense, according to the book The Firmament and in accordance with the existing ones. As a bonus the full birthsign",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45494/45494-1519149762-652228055.jpeg",
+        "uid": "429496775094",
+        "updatedAt": "2018-02-20T18:21:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-01-08T23:39:59Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45410,
+        "name": "The Publicans",
+        "status": "published",
+        "summary": "The Publicans fixes several places in the vanilla game that were set up like inns (where you can rent rooms), but Bethesda still needed to add the option to rent a room.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45410/45410-1515452058-1890284827.jpeg",
+        "uid": "429496775010",
+        "updatedAt": "2024-01-17T19:20:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-10-02T22:38:16Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45228,
+        "name": "Diseases Restored",
+        "status": "published",
+        "summary": "This mod restores diseases by assigning them to existing creatures and fixes some other (disease) inconsistencies, in accordance with in-game dialogue.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45228/45228-1522609791-604251041.png",
+        "uid": "429496774828",
+        "updatedAt": "2020-02-23T12:21:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-07-31T17:48:32Z",
+        "fileSize": 3479,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 45096,
+        "name": "Patch for Purists",
+        "status": "published",
+        "summary": "Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition which attempts to continue where the latest official version of the game left",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45096/45096-1524658434-931520215.png",
+        "uid": "429496774696",
+        "updatedAt": "2023-09-18T19:13:57Z"
+      }
+    ],
+    "totalCount": 12
   }
 }

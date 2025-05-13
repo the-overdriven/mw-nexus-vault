@@ -1,223 +1,221 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 13
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-08-31T15:17:45Z",
-          "fileSize": 1594,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 55177,
-          "name": "Ash Statue - Daedric Blood Ritual",
-          "status": "published",
-          "summary": "Collect all the Ash Statues. Arrange them in shrine. Make blood offerings for a blessing with a price.The more Ash Statues you have, the more the effects stack. Beware you don't",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55177/55177-1725117267-1054971948.jpeg",
-          "uid": "429496784777",
-          "updatedAt": "2024-08-31T15:17:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-10T10:04:22Z",
-          "fileSize": 214,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54134,
-          "name": "Roll The Dice",
-          "status": "published",
-          "summary": "A Simple Mod that allows you to roll any dice found in Tamriel Rebuilt or OAAB Data by simply equipping it in your inventory. Gives options to roll 1 or 2 dice.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54134/54134-1707559131-931978255.jpeg",
-          "uid": "429496783734",
-          "updatedAt": "2024-06-21T05:45:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-08T12:00:52Z",
-          "fileSize": 36,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 53958,
-          "name": "Kwama Queen Royal Jelly",
-          "status": "published",
-          "summary": "Kwama Queens now have valuable Royal Jelly when you kill them. A more immersive reason to raid egg mines. Poor Kwama Queens.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53958/53958-1704714905-1932711246.png",
-          "uid": "429496783558",
-          "updatedAt": "2024-01-09T04:21:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-22T03:17:16Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 20,
-            "name": "Books and Scrolls"
-          },
-          "modId": 52529,
-          "name": "Book Collector - 36 Tombs of Vivec",
-          "status": "published",
-          "summary": "Many tombs in Vanilla MW already contain many of the 36 lessons of vivec books, this mod fills in the gaps allowing you to find them all inside tombs. (23 books added to 23 tombs.)",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52529/52529-1679454761-879633085.jpeg",
-          "uid": "429496782129",
-          "updatedAt": "2023-03-22T03:17:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-06T06:48:46Z",
-          "fileSize": 91,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 52296,
-          "name": "Hidden Sea Loot",
-          "status": "published",
-          "summary": "Adds over 500 hidden containers for you to find in the sea for every region around the island of Vvardenfell. Each contains random items that change for EVERY playthrough.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52296/52296-1675676087-1492361041.jpeg",
-          "uid": "429496781896",
-          "updatedAt": "2023-02-21T12:21:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-11T09:50:30Z",
-          "fileSize": 161525,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 50973,
-          "name": "8K Blank Parchment Splash Screen",
-          "status": "published",
-          "summary": "Largest size = 8K (7860x4320). Smaller sizes included. Uncompressed png's. All (16:9) aspect ratio. Feel free to use it or alter it however you'd like. No credit or permission",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50973/50973-1651067805-1503988078.jpeg",
-          "uid": "429496780573",
-          "updatedAt": "2022-04-27T13:59:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-12-19T18:12:13Z",
-          "fileSize": 15587,
-          "modCategory": {
-            "categoryId": 20,
-            "name": "Books and Scrolls"
-          },
-          "modId": 50536,
-          "name": "All Books Color-Coded and Designed",
-          "status": "published",
-          "summary": "All Books each have their own unique customized design & are color-coded by subject.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50536/50536-1639813127-1737678110.gif",
-          "uid": "429496780136",
-          "updatedAt": "2021-12-19T18:12:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-28T04:37:26Z",
-          "fileSize": 1705,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 49873,
-          "name": "MorrowStream",
-          "status": "published",
-          "summary": "Morrowind Main Theme song has been pitch shifted up 1 semitone + minor white noise to allow for Streaming across platforms like YouTube & Twitch. No longer will you be bothered by",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49873/49873-1622176460-295055397.png",
-          "uid": "429496779473",
-          "updatedAt": "2021-05-28T04:37:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-04T23:02:31Z",
-          "fileSize": 2139,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 49678,
-          "name": "Know Thy Ancestors",
-          "status": "published",
-          "summary": "Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49678/49678-1620168890-1595025810.jpeg",
-          "uid": "429496779278",
-          "updatedAt": "2021-09-09T09:07:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-04-27T01:16:05Z",
-          "fileSize": 141077,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 49592,
-          "name": "Great House Fabrics and Gold Sigils",
-          "status": "published",
-          "summary": "Modder's Resources: 5 color-themed fabrics textures for each of the Great Houses + Gold Sigils",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49592/49592-1619485584-2052375414.jpeg",
-          "uid": "429496779192",
-          "updatedAt": "2021-05-03T08:42:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-03-11T13:33:01Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49396,
-          "name": "The Great Gold Egg Hunt (Easter mod)",
-          "status": "published",
-          "summary": "108 Golden Eggs are hidden inside Vivec interiors. Each canton has its own unique set of 12 Golden Eggs to find. Can you find them all before Easter?",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49396/49396-1615463183-1449430742.jpeg",
-          "uid": "429496778996",
-          "updatedAt": "2021-03-11T13:33:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-02-16T03:44:16Z",
-          "fileSize": 3961,
-          "modCategory": {
-            "categoryId": 20,
-            "name": "Books and Scrolls"
-          },
-          "modId": 49310,
-          "name": "Illustrated ABC's for Barbarians",
-          "status": "published",
-          "summary": "The Vanilla Book \"ABC's for Barbarians\" is now FULLY illustrated A-Z.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49310/49310-1613442594-690485777.png",
-          "uid": "429496778910",
-          "updatedAt": "2021-02-16T07:16:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-02-06T12:19:11Z",
-          "fileSize": 14004,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49281,
-          "name": "Uncharted Artifacts",
-          "status": "published",
-          "summary": "All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49281/49281-1612611589-1570140465.jpeg",
-          "uid": "429496778881",
-          "updatedAt": "2021-09-10T01:01:25Z"
-        }
-      ],
-      "totalCount": 13
+  "checkedAt": "2025-05-13T19:05:30.123Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 13
+      }
     },
-    "checkedAt": "2025-05-13T18:25:40.525Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-31T15:17:45Z",
+        "fileSize": 1594,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 55177,
+        "name": "Ash Statue - Daedric Blood Ritual",
+        "status": "published",
+        "summary": "Collect all the Ash Statues. Arrange them in shrine. Make blood offerings for a blessing with a price.The more Ash Statues you have, the more the effects stack. Beware you don't",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55177/55177-1725117267-1054971948.jpeg",
+        "uid": "429496784777",
+        "updatedAt": "2024-08-31T15:17:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-10T10:04:22Z",
+        "fileSize": 214,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54134,
+        "name": "Roll The Dice",
+        "status": "published",
+        "summary": "A Simple Mod that allows you to roll any dice found in Tamriel Rebuilt or OAAB Data by simply equipping it in your inventory. Gives options to roll 1 or 2 dice.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54134/54134-1707559131-931978255.jpeg",
+        "uid": "429496783734",
+        "updatedAt": "2024-06-21T05:45:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-08T12:00:52Z",
+        "fileSize": 36,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 53958,
+        "name": "Kwama Queen Royal Jelly",
+        "status": "published",
+        "summary": "Kwama Queens now have valuable Royal Jelly when you kill them. A more immersive reason to raid egg mines. Poor Kwama Queens.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53958/53958-1704714905-1932711246.png",
+        "uid": "429496783558",
+        "updatedAt": "2024-01-09T04:21:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-22T03:17:16Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 52529,
+        "name": "Book Collector - 36 Tombs of Vivec",
+        "status": "published",
+        "summary": "Many tombs in Vanilla MW already contain many of the 36 lessons of vivec books, this mod fills in the gaps allowing you to find them all inside tombs. (23 books added to 23 tombs.)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52529/52529-1679454761-879633085.jpeg",
+        "uid": "429496782129",
+        "updatedAt": "2023-03-22T03:17:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-06T06:48:46Z",
+        "fileSize": 91,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 52296,
+        "name": "Hidden Sea Loot",
+        "status": "published",
+        "summary": "Adds over 500 hidden containers for you to find in the sea for every region around the island of Vvardenfell. Each contains random items that change for EVERY playthrough.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52296/52296-1675676087-1492361041.jpeg",
+        "uid": "429496781896",
+        "updatedAt": "2023-02-21T12:21:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-11T09:50:30Z",
+        "fileSize": 161525,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 50973,
+        "name": "8K Blank Parchment Splash Screen",
+        "status": "published",
+        "summary": "Largest size = 8K (7860x4320). Smaller sizes included. Uncompressed png's. All (16:9) aspect ratio. Feel free to use it or alter it however you'd like. No credit or permission",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50973/50973-1651067805-1503988078.jpeg",
+        "uid": "429496780573",
+        "updatedAt": "2022-04-27T13:59:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-12-19T18:12:13Z",
+        "fileSize": 15587,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 50536,
+        "name": "All Books Color-Coded and Designed",
+        "status": "published",
+        "summary": "All Books each have their own unique customized design & are color-coded by subject.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50536/50536-1639813127-1737678110.gif",
+        "uid": "429496780136",
+        "updatedAt": "2021-12-19T18:12:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-28T04:37:26Z",
+        "fileSize": 1705,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 49873,
+        "name": "MorrowStream",
+        "status": "published",
+        "summary": "Morrowind Main Theme song has been pitch shifted up 1 semitone + minor white noise to allow for Streaming across platforms like YouTube & Twitch. No longer will you be bothered by",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49873/49873-1622176460-295055397.png",
+        "uid": "429496779473",
+        "updatedAt": "2021-05-28T04:37:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-04T23:02:31Z",
+        "fileSize": 2139,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 49678,
+        "name": "Know Thy Ancestors",
+        "status": "published",
+        "summary": "Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric. No longer does your character psychically know what family is buried in the tombs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49678/49678-1620168890-1595025810.jpeg",
+        "uid": "429496779278",
+        "updatedAt": "2021-09-09T09:07:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-04-27T01:16:05Z",
+        "fileSize": 141077,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 49592,
+        "name": "Great House Fabrics and Gold Sigils",
+        "status": "published",
+        "summary": "Modder's Resources: 5 color-themed fabrics textures for each of the Great Houses + Gold Sigils",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49592/49592-1619485584-2052375414.jpeg",
+        "uid": "429496779192",
+        "updatedAt": "2021-05-03T08:42:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-11T13:33:01Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49396,
+        "name": "The Great Gold Egg Hunt (Easter mod)",
+        "status": "published",
+        "summary": "108 Golden Eggs are hidden inside Vivec interiors. Each canton has its own unique set of 12 Golden Eggs to find. Can you find them all before Easter?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49396/49396-1615463183-1449430742.jpeg",
+        "uid": "429496778996",
+        "updatedAt": "2021-03-11T13:33:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-02-16T03:44:16Z",
+        "fileSize": 3961,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 49310,
+        "name": "Illustrated ABC's for Barbarians",
+        "status": "published",
+        "summary": "The Vanilla Book \"ABC's for Barbarians\" is now FULLY illustrated A-Z.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49310/49310-1613442594-690485777.png",
+        "uid": "429496778910",
+        "updatedAt": "2021-02-16T07:16:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-02-06T12:19:11Z",
+        "fileSize": 14004,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49281,
+        "name": "Uncharted Artifacts",
+        "status": "published",
+        "summary": "All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49281/49281-1612611589-1570140465.jpeg",
+        "uid": "429496778881",
+        "updatedAt": "2021-09-10T01:01:25Z"
+      }
+    ],
+    "totalCount": 13
   }
 }

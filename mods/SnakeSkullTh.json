@@ -1,79 +1,77 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 4
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-10T22:22:41Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 53183,
-          "name": "Grandfather Frost - Uncle Sweetshare Overhaul",
-          "status": "published",
-          "summary": "Have you ever thinked why Uncle Sweetshare don't fits his description and looks so young ?looks like they changed the NPC  in a rush because they were afraid of him being just a",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53183/53183-1689025545-1453122924.png",
-          "uid": "429496782783",
-          "updatedAt": "2023-07-10T22:22:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-26T00:41:56Z",
-          "fileSize": 425,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53116,
-          "name": "SSTh Low Graphics Water Retex",
-          "status": "published",
-          "summary": "If you have a bad PC, plays the game on a smartphone, likes the nostalgic feeling of the original water, want to save some FPS, but cant get througth the ugly vanilla water, then",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53116/53116-1687738189-145287165.png",
-          "uid": "429496782716",
-          "updatedAt": "2024-08-04T02:42:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-12T03:01:35Z",
-          "fileSize": 112,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 53051,
-          "name": "More Familiar Heads - Patch",
-          "status": "published",
-          "summary": "An edited and mixed version of More Heads and Diversity, models and textures improved using some of my favorites customization mods, Familiar Faces, Pluginless Khajiit Head Pack",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53051/53051-1686537810-736084082.png",
-          "uid": "429496782651",
-          "updatedAt": "2023-06-16T15:22:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-21T21:13:00Z",
-          "fileSize": 1705,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 52922,
-          "name": "Hair Expander",
-          "status": "published",
-          "summary": "Update 1.4: All Mer are now added to the mix.This mod will make all Human and Mer Races share their exclusives hair between them, adding more possibility of customization, it",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52922/52922-1684702195-1003635639.png",
-          "uid": "429496782522",
-          "updatedAt": "2023-06-08T04:07:59Z"
-        }
-      ],
-      "totalCount": 4
+  "checkedAt": "2025-05-13T19:04:41.734Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
     },
-    "checkedAt": "2025-05-13T18:25:36.687Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-10T22:22:41Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 53183,
+        "name": "Grandfather Frost - Uncle Sweetshare Overhaul",
+        "status": "published",
+        "summary": "Have you ever thinked why Uncle Sweetshare don't fits his description and looks so young ?looks like they changed the NPC  in a rush because they were afraid of him being just a",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53183/53183-1689025545-1453122924.png",
+        "uid": "429496782783",
+        "updatedAt": "2023-07-10T22:22:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-26T00:41:56Z",
+        "fileSize": 425,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53116,
+        "name": "SSTh Low Graphics Water Retex",
+        "status": "published",
+        "summary": "If you have a bad PC, plays the game on a smartphone, likes the nostalgic feeling of the original water, want to save some FPS, but cant get througth the ugly vanilla water, then",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53116/53116-1687738189-145287165.png",
+        "uid": "429496782716",
+        "updatedAt": "2024-08-04T02:42:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-12T03:01:35Z",
+        "fileSize": 112,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 53051,
+        "name": "More Familiar Heads - Patch",
+        "status": "published",
+        "summary": "An edited and mixed version of More Heads and Diversity, models and textures improved using some of my favorites customization mods, Familiar Faces, Pluginless Khajiit Head Pack",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53051/53051-1686537810-736084082.png",
+        "uid": "429496782651",
+        "updatedAt": "2023-06-16T15:22:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-21T21:13:00Z",
+        "fileSize": 1705,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 52922,
+        "name": "Hair Expander",
+        "status": "published",
+        "summary": "Update 1.4: All Mer are now added to the mix.This mod will make all Human and Mer Races share their exclusives hair between them, adding more possibility of customization, it",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52922/52922-1684702195-1003635639.png",
+        "uid": "429496782522",
+        "updatedAt": "2023-06-08T04:07:59Z"
+      }
+    ],
+    "totalCount": 4
   }
 }

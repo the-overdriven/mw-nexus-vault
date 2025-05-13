@@ -1,271 +1,269 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 16
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-26T18:43:28Z",
-          "fileSize": 5834,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 49866,
-          "name": "Hunger Replacer",
-          "status": "published",
-          "summary": "This is a mesh and texture replacer for the Hunger creature. Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49866/49866-1622053164-692546903.png",
-          "uid": "429496779466",
-          "updatedAt": "2021-05-26T18:43:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-25T19:46:06Z",
-          "fileSize": 5857,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 48978,
-          "name": "Cliff Racer Replacer 2.0",
-          "status": "published",
-          "summary": "This is a mesh and texture replacer for the Cliff Racer creature.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48978/48978-1603654835-1697337087.png",
-          "uid": "429496778578",
-          "updatedAt": "2020-10-25T19:46:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-17T17:52:58Z",
-          "fileSize": 1693,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46765,
-          "name": "Mudcrab Replacer",
-          "status": "published",
-          "summary": "This is a mesh and texture replacer for the Mudcrab creature. Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46765/46765-1558116993-762806376.jpeg",
-          "uid": "429496776365",
-          "updatedAt": "2019-05-18T12:56:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-01-15T10:05:28Z",
-          "fileSize": 1886,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 46310,
-          "name": "Morrowind Acoustic Overhaul v1.1 update",
-          "status": "published",
-          "summary": "version 1.1 update",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46310/46310-1547546652-1144887227.jpeg",
-          "uid": "429496775910",
-          "updatedAt": "2019-01-15T10:05:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-12-04T20:46:50Z",
-          "fileSize": 23442,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 45350,
-          "name": "Mushroom Tree Replacer",
-          "status": "published",
-          "summary": "This is a mesh and texture replacer for the Emperor Parasol mushroom trees.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45350/45350-1512568868-1043565835.jpeg",
-          "uid": "429496774950",
-          "updatedAt": "2023-04-11T13:02:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-05-27T00:03:56Z",
-          "fileSize": 3759,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 44314,
-          "name": "Scamp Replacer",
-          "status": "published",
-          "summary": "This is a mesh and texture replacer for the Scamp creature.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44314-0-1463995903.jpg",
-          "uid": "429496773914",
-          "updatedAt": "2018-09-06T11:29:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-02-20T22:28:43Z",
-          "fileSize": 718,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 44117,
-          "name": "Soulgem Replacer",
-          "status": "published",
-          "summary": "This is a mesh and texture replacer for the soulgems.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44117-6-1456006979.jpg",
-          "uid": "429496773717",
-          "updatedAt": "2016-04-10T18:20:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-05-18T19:56:08Z",
-          "fileSize": 4484,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43620,
-          "name": "Nix-Hound Replacer",
-          "status": "published",
-          "summary": "This is a mesh and texture replacer for the Nix-Hound creature.Now with full PBR support for the MGE XE Physically Based Rendering Prototype.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43620-0-1431977562.jpg",
-          "uid": "429496773220",
-          "updatedAt": "2016-02-21T16:06:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-12-14T21:38:49Z",
-          "fileSize": 300646,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43375,
-          "name": "Morrowind Watercolored v2",
-          "status": "published",
-          "summary": "This is a texture replacer that gives Morrowind a watercolored look. \nQuick and easy installation. \nCovers the whole game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43375-10-1475446003.jpg",
-          "uid": "429496772975",
-          "updatedAt": "2016-10-03T01:05:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2013-08-01T15:06:08Z",
-          "fileSize": 342,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 42613,
-          "name": "Luminous Atronachs",
-          "status": "published",
-          "summary": "This mod adds glow maps to all three Atronachs in Morrowind, so that they glow in the dark.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42613-1-1375383695.jpg",
-          "uid": "429496772213",
-          "updatedAt": "2013-08-01T15:44:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2013-05-21T22:30:38Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 42526,
-          "name": "Modern User Interface",
-          "status": "published",
-          "summary": "This mod overhaules the user interface in Morrowind by trying to give it a more modern touch, while keeping the characteristic parts vanilla.\nAlso there is a optional download for",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42526-1-1369174841.jpg",
-          "uid": "429496772126",
-          "updatedAt": "2013-06-28T12:16:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2013-04-06T13:27:11Z",
-          "fileSize": 78,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 42467,
-          "name": "Welkynd Stones",
-          "status": "published",
-          "summary": "Adds the Welkynd Stones known from Oblivion to Morrowind.\n\nReasonably implemented you can find these stones only at one place in the game world: on the corpse of an unlucky",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42467-1-1367880424.jpg",
-          "uid": "429496772067",
-          "updatedAt": "2013-05-29T18:30:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2012-11-11T16:14:19Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 42306,
-          "name": "PeterBitts Small Mods",
-          "status": "published",
-          "summary": "a collection of all my small mods with new ones being added occasionally",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42306-1-1365371654.jpg",
-          "uid": "429496771906",
-          "updatedAt": "2014-06-05T08:49:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2012-09-13T22:13:02Z",
-          "fileSize": 6954,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 42245,
-          "name": "Blighted Animals Retextured",
-          "status": "published",
-          "summary": "This mod adds unique textures to all blighted animals.\n\nIncluding retextured vanilla textures and Darknut's 512 or 1024 textures.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42245-1-1347575231.jpg",
-          "uid": "429496771845",
-          "updatedAt": "2013-05-29T12:20:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2012-05-07T19:32:43Z",
-          "fileSize": 396,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 42126,
-          "name": "Signposts Retextured",
-          "status": "published",
-          "summary": "Yet another Signpost replacer! \n\nThis makes the signs in Vvardenfell readable with vanilla friendly textures. No sign looks the same. Colors, font and resolution blend in with",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42126-1-1364082980.jpg",
-          "uid": "429496771726",
-          "updatedAt": "2013-03-24T11:06:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2012-04-13T23:17:08Z",
-          "fileSize": 302,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 42009,
-          "name": "A Strange Plant",
-          "status": "published",
-          "summary": "Brings the Nirnroot to Vvardenfell.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42009-1-1369076814.jpg",
-          "uid": "429496771609",
-          "updatedAt": "2013-08-29T11:17:00Z"
-        }
-      ],
-      "totalCount": 16
+  "checkedAt": "2025-05-13T18:59:49.172Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 16
+      }
     },
-    "checkedAt": "2025-05-13T18:25:32.979Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-26T18:43:28Z",
+        "fileSize": 5834,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 49866,
+        "name": "Hunger Replacer",
+        "status": "published",
+        "summary": "This is a mesh and texture replacer for the Hunger creature. Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49866/49866-1622053164-692546903.png",
+        "uid": "429496779466",
+        "updatedAt": "2021-05-26T18:43:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-25T19:46:06Z",
+        "fileSize": 5857,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 48978,
+        "name": "Cliff Racer Replacer 2.0",
+        "status": "published",
+        "summary": "This is a mesh and texture replacer for the Cliff Racer creature.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48978/48978-1603654835-1697337087.png",
+        "uid": "429496778578",
+        "updatedAt": "2020-10-25T19:46:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-17T17:52:58Z",
+        "fileSize": 1693,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46765,
+        "name": "Mudcrab Replacer",
+        "status": "published",
+        "summary": "This is a mesh and texture replacer for the Mudcrab creature. Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46765/46765-1558116993-762806376.jpeg",
+        "uid": "429496776365",
+        "updatedAt": "2019-05-18T12:56:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-01-15T10:05:28Z",
+        "fileSize": 1886,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 46310,
+        "name": "Morrowind Acoustic Overhaul v1.1 update",
+        "status": "published",
+        "summary": "version 1.1 update",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46310/46310-1547546652-1144887227.jpeg",
+        "uid": "429496775910",
+        "updatedAt": "2019-01-15T10:05:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-12-04T20:46:50Z",
+        "fileSize": 23442,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 45350,
+        "name": "Mushroom Tree Replacer",
+        "status": "published",
+        "summary": "This is a mesh and texture replacer for the Emperor Parasol mushroom trees.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45350/45350-1512568868-1043565835.jpeg",
+        "uid": "429496774950",
+        "updatedAt": "2023-04-11T13:02:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-05-27T00:03:56Z",
+        "fileSize": 3759,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 44314,
+        "name": "Scamp Replacer",
+        "status": "published",
+        "summary": "This is a mesh and texture replacer for the Scamp creature.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44314-0-1463995903.jpg",
+        "uid": "429496773914",
+        "updatedAt": "2018-09-06T11:29:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-02-20T22:28:43Z",
+        "fileSize": 718,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 44117,
+        "name": "Soulgem Replacer",
+        "status": "published",
+        "summary": "This is a mesh and texture replacer for the soulgems.Comes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44117-6-1456006979.jpg",
+        "uid": "429496773717",
+        "updatedAt": "2016-04-10T18:20:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-05-18T19:56:08Z",
+        "fileSize": 4484,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43620,
+        "name": "Nix-Hound Replacer",
+        "status": "published",
+        "summary": "This is a mesh and texture replacer for the Nix-Hound creature.Now with full PBR support for the MGE XE Physically Based Rendering Prototype.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43620-0-1431977562.jpg",
+        "uid": "429496773220",
+        "updatedAt": "2016-02-21T16:06:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-12-14T21:38:49Z",
+        "fileSize": 300646,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43375,
+        "name": "Morrowind Watercolored v2",
+        "status": "published",
+        "summary": "This is a texture replacer that gives Morrowind a watercolored look. \nQuick and easy installation. \nCovers the whole game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43375-10-1475446003.jpg",
+        "uid": "429496772975",
+        "updatedAt": "2016-10-03T01:05:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-08-01T15:06:08Z",
+        "fileSize": 342,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42613,
+        "name": "Luminous Atronachs",
+        "status": "published",
+        "summary": "This mod adds glow maps to all three Atronachs in Morrowind, so that they glow in the dark.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42613-1-1375383695.jpg",
+        "uid": "429496772213",
+        "updatedAt": "2013-08-01T15:44:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-05-21T22:30:38Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 42526,
+        "name": "Modern User Interface",
+        "status": "published",
+        "summary": "This mod overhaules the user interface in Morrowind by trying to give it a more modern touch, while keeping the characteristic parts vanilla.\nAlso there is a optional download for",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42526-1-1369174841.jpg",
+        "uid": "429496772126",
+        "updatedAt": "2013-06-28T12:16:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-04-06T13:27:11Z",
+        "fileSize": 78,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 42467,
+        "name": "Welkynd Stones",
+        "status": "published",
+        "summary": "Adds the Welkynd Stones known from Oblivion to Morrowind.\n\nReasonably implemented you can find these stones only at one place in the game world: on the corpse of an unlucky",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42467-1-1367880424.jpg",
+        "uid": "429496772067",
+        "updatedAt": "2013-05-29T18:30:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-11-11T16:14:19Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 42306,
+        "name": "PeterBitts Small Mods",
+        "status": "published",
+        "summary": "a collection of all my small mods with new ones being added occasionally",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42306-1-1365371654.jpg",
+        "uid": "429496771906",
+        "updatedAt": "2014-06-05T08:49:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-09-13T22:13:02Z",
+        "fileSize": 6954,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42245,
+        "name": "Blighted Animals Retextured",
+        "status": "published",
+        "summary": "This mod adds unique textures to all blighted animals.\n\nIncluding retextured vanilla textures and Darknut's 512 or 1024 textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42245-1-1347575231.jpg",
+        "uid": "429496771845",
+        "updatedAt": "2013-05-29T12:20:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-05-07T19:32:43Z",
+        "fileSize": 396,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 42126,
+        "name": "Signposts Retextured",
+        "status": "published",
+        "summary": "Yet another Signpost replacer! \n\nThis makes the signs in Vvardenfell readable with vanilla friendly textures. No sign looks the same. Colors, font and resolution blend in with",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42126-1-1364082980.jpg",
+        "uid": "429496771726",
+        "updatedAt": "2013-03-24T11:06:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-04-13T23:17:08Z",
+        "fileSize": 302,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 42009,
+        "name": "A Strange Plant",
+        "status": "published",
+        "summary": "Brings the Nirnroot to Vvardenfell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42009-1-1369076814.jpg",
+        "uid": "429496771609",
+        "updatedAt": "2013-08-29T11:17:00Z"
+      }
+    ],
+    "totalCount": 16
   }
 }

@@ -1,351 +1,349 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 21
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-17T04:05:52Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 53385,
-          "name": "Leveled Filled Soul Gems",
-          "status": "published",
-          "summary": "Soul gems spawned from leveled list now has a chance (default 5%) to be filled.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53385/53385-1692244251-2063008334.png",
-          "uid": "429496782985",
-          "updatedAt": "2023-08-17T06:59:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-11T16:48:24Z",
-          "fileSize": 94,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53185,
-          "name": "Coalpile Replacer",
-          "status": "published",
-          "summary": "Coalpile replacer with vertex paint that uses a coal texture (512x512) that actually looks like coal instead of ash texture",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53185/53185-1689093358-188422275.png",
-          "uid": "429496782785",
-          "updatedAt": "2023-07-14T18:24:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-07T06:07:38Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 53161,
-          "name": "JosephMcKean Remixes and Edits",
-          "status": "published",
-          "summary": "Compilation of MWSE-Lua mods (JosephMcKean Edit), including Unidentified Items, Lua Lockbashing, Bound Ammo, Nuke Dark Lights, Shinies, Adventurer's Backpacks.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53161/53161-1689446532-615414777.png",
-          "uid": "429496782761",
-          "updatedAt": "2023-08-15T05:28:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-29T19:23:20Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53132,
-          "name": "The Art of Archery - Deadly Headshots",
-          "status": "published",
-          "summary": "Headshots & other marksman gameplay tweaks.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53132/53132-1688066104-1237621488.png",
-          "uid": "429496782732",
-          "updatedAt": "2023-08-01T14:51:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-19T07:03:28Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 53089,
-          "name": "MyManor.esp - Purchase Hlaalo Manor",
-          "status": "published",
-          "summary": "Allows the player to purchase Balmora, Hlaalo Manor empty or furnished after completing quest House Hlaalu: The Death of Ralen Hlaalo.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53089/53089-1687157321-100845304.png",
-          "uid": "429496782689",
-          "updatedAt": "2024-02-15T02:51:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-04T18:19:04Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 53024,
-          "name": "Spawn on a Certain Day",
-          "status": "published",
-          "summary": "Character generation in a random month, on a random day, at a random hour.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53024/53024-1685898006-1509109172.png",
-          "uid": "429496782624",
-          "updatedAt": "2023-06-04T18:19:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-01T16:08:56Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 53003,
-          "name": "MWSE Modding Tutorials - Craftable Bandage",
-          "status": "published",
-          "summary": "In this tutorial, I explain step by step how to make a simple MWSE mod Craftable Bandage that utilizes OAAB_Data, Skills Module, The Crafting Framework, and Ashfall.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53003/53003-1685635042-1468034479.png",
-          "uid": "429496782603",
-          "updatedAt": "2023-06-01T16:08:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-29T18:50:05Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52978,
-          "name": "Background - The Vampire",
-          "status": "published",
-          "summary": "Adds The Vampire background for Merlord's Character Backgrounds mod. Players with this background start as a vampire and the game starts at night.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52978/52978-1685386553-456895010.png",
-          "uid": "429496782578",
-          "updatedAt": "2023-05-30T02:20:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-15T01:16:53Z",
-          "fileSize": 946,
-          "modCategory": {
-            "categoryId": 10,
-            "name": "New Lands"
-          },
-          "modId": 52880,
-          "name": "Ashfall Survival Start",
-          "status": "published",
-          "summary": "Ashfall Survival Start is a Morrowind alternate start mod focusing on Ashfall gameplay, where you are the only survivor of a shipwreck and now stranded on a small, abandoned",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52880/52880-1684111775-771850810.png",
-          "uid": "429496782480",
-          "updatedAt": "2023-07-13T02:39:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-04T06:47:29Z",
-          "fileSize": 850,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 52805,
-          "name": "Furniture Catalogue",
-          "status": "published",
-          "summary": "Shop Affordable Home Furnishings & Home Goods with Furniture Catalogue!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52805/52805-1683182626-1115244268.png",
-          "uid": "429496782405",
-          "updatedAt": "2023-07-12T15:09:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-01T11:34:52Z",
-          "fileSize": 841,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 52762,
-          "name": "Shrine of Paralothas - the Fish God",
-          "status": "published",
-          "summary": "Meditate and pray on the underwater statue of the fish god Paralothas to seek peace and sanctuary.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52762/52762-1682940446-1006117393.png",
-          "uid": "429496782362",
-          "updatedAt": "2023-05-14T14:43:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-26T16:21:40Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 52553,
-          "name": "Force Close Dialogue Menu",
-          "status": "published",
-          "summary": "Stuck in endless dialogue choices and loop? Look no further! Shift Click Goodbye button to force close the dialogue menu!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52553/52553-1679847562-890559457.png",
-          "uid": "429496782153",
-          "updatedAt": "2023-03-26T16:21:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-19T16:23:21Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 52518,
-          "name": "Caps Click to Drop",
-          "status": "published",
-          "summary": "Caps + Click on inventory tile to drop items!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52518/52518-1679899113-1554370.png",
-          "uid": "429496782118",
-          "updatedAt": "2023-03-19T16:23:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-15T09:24:49Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 52500,
-          "name": "More Console Commands",
-          "status": "published",
-          "summary": "More Console Commands is a collection of commonly used console commands via UI Expansion Lua console for Morrowind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52500/52500-1678871868-1607186411.png",
-          "uid": "429496782100",
-          "updatedAt": "2023-07-20T10:28:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-16T16:31:40Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 52364,
-          "name": "Teach Companion Spells",
-          "status": "published",
-          "summary": "Allows you to teach spells to companions via dialogue. Requires MWSE.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52364/52364-1676564812-1264334751.png",
-          "uid": "429496781964",
-          "updatedAt": "2023-08-01T14:45:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-04T18:14:53Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 52271,
-          "name": "Soul Gems Indicator 2",
-          "status": "published",
-          "summary": "An icon widget showing whats the smallest fitting soul gem that can hold the target's soul you hold in your inventory.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52271/52271-1687286223-419172209.png",
-          "uid": "429496781871",
-          "updatedAt": "2023-06-20T18:40:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-01-20T18:09:43Z",
-          "fileSize": 213,
-          "modCategory": {
-            "categoryId": 22,
-            "name": "Cheats and God items"
-          },
-          "modId": 52192,
-          "name": "Unlimited Rings",
-          "status": "published",
-          "summary": "Allows unlimited number of rings equipped. Requires MWSE. Now with limited rings feature.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52192/52192-1674324207-1896973015.png",
-          "uid": "429496781792",
-          "updatedAt": "2023-01-22T06:23:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-09-16T16:11:42Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 51825,
-          "name": "Come To Me",
-          "status": "published",
-          "summary": "Press Alt to tell your follower to come towards you so they don’t block the doorway.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51825/51825-1663344391-1352841141.png",
-          "uid": "429496781425",
-          "updatedAt": "2023-04-05T07:58:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-09-10T07:05:01Z",
-          "fileSize": 754,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 51809,
-          "name": "Restock Filled Soul Gems",
-          "status": "published",
-          "summary": "Restocking supplies of filled soulgems have been added to a few merchants.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51809/51809-1662793013-198792390.png",
-          "uid": "429496781409",
-          "updatedAt": "2023-03-29T07:43:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-08-14T18:46:47Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 51735,
-          "name": "Different Types of Local Plants for Ajira's Reports",
-          "status": "published",
-          "summary": "Both the content and the location of Ajira's Reports change every time! No more gathering mushrooms and flowers beforehand!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51735/51735-1661395430-1286820971.png",
-          "uid": "429496781335",
-          "updatedAt": "2022-09-12T16:28:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-07-30T07:33:43Z",
-          "fileSize": 144,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 51656,
-          "name": "Tea Merchants - an addon for Ashfall",
-          "status": "published",
-          "summary": "Adds Tea Merchants to the game. Requires Ashfall.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51656/51656-1658806932-857475441.png",
-          "uid": "429496781256",
-          "updatedAt": "2023-05-09T15:28:11Z"
-        }
-      ],
-      "totalCount": 21
+  "checkedAt": "2025-05-13T18:59:10.182Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 21
+      }
     },
-    "checkedAt": "2025-05-13T18:25:26.143Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-17T04:05:52Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 53385,
+        "name": "Leveled Filled Soul Gems",
+        "status": "published",
+        "summary": "Soul gems spawned from leveled list now has a chance (default 5%) to be filled.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53385/53385-1692244251-2063008334.png",
+        "uid": "429496782985",
+        "updatedAt": "2023-08-17T06:59:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-11T16:48:24Z",
+        "fileSize": 94,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53185,
+        "name": "Coalpile Replacer",
+        "status": "published",
+        "summary": "Coalpile replacer with vertex paint that uses a coal texture (512x512) that actually looks like coal instead of ash texture",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53185/53185-1689093358-188422275.png",
+        "uid": "429496782785",
+        "updatedAt": "2023-07-14T18:24:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-07T06:07:38Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 53161,
+        "name": "JosephMcKean Remixes and Edits",
+        "status": "published",
+        "summary": "Compilation of MWSE-Lua mods (JosephMcKean Edit), including Unidentified Items, Lua Lockbashing, Bound Ammo, Nuke Dark Lights, Shinies, Adventurer's Backpacks.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53161/53161-1689446532-615414777.png",
+        "uid": "429496782761",
+        "updatedAt": "2023-08-15T05:28:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-29T19:23:20Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53132,
+        "name": "The Art of Archery - Deadly Headshots",
+        "status": "published",
+        "summary": "Headshots & other marksman gameplay tweaks.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53132/53132-1688066104-1237621488.png",
+        "uid": "429496782732",
+        "updatedAt": "2023-08-01T14:51:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-19T07:03:28Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 53089,
+        "name": "MyManor.esp - Purchase Hlaalo Manor",
+        "status": "published",
+        "summary": "Allows the player to purchase Balmora, Hlaalo Manor empty or furnished after completing quest House Hlaalu: The Death of Ralen Hlaalo.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53089/53089-1687157321-100845304.png",
+        "uid": "429496782689",
+        "updatedAt": "2024-02-15T02:51:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-04T18:19:04Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 53024,
+        "name": "Spawn on a Certain Day",
+        "status": "published",
+        "summary": "Character generation in a random month, on a random day, at a random hour.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53024/53024-1685898006-1509109172.png",
+        "uid": "429496782624",
+        "updatedAt": "2023-06-04T18:19:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-01T16:08:56Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 53003,
+        "name": "MWSE Modding Tutorials - Craftable Bandage",
+        "status": "published",
+        "summary": "In this tutorial, I explain step by step how to make a simple MWSE mod Craftable Bandage that utilizes OAAB_Data, Skills Module, The Crafting Framework, and Ashfall.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53003/53003-1685635042-1468034479.png",
+        "uid": "429496782603",
+        "updatedAt": "2023-06-01T16:08:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-29T18:50:05Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52978,
+        "name": "Background - The Vampire",
+        "status": "published",
+        "summary": "Adds The Vampire background for Merlord's Character Backgrounds mod. Players with this background start as a vampire and the game starts at night.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52978/52978-1685386553-456895010.png",
+        "uid": "429496782578",
+        "updatedAt": "2023-05-30T02:20:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-15T01:16:53Z",
+        "fileSize": 946,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 52880,
+        "name": "Ashfall Survival Start",
+        "status": "published",
+        "summary": "Ashfall Survival Start is a Morrowind alternate start mod focusing on Ashfall gameplay, where you are the only survivor of a shipwreck and now stranded on a small, abandoned",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52880/52880-1684111775-771850810.png",
+        "uid": "429496782480",
+        "updatedAt": "2023-07-13T02:39:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-04T06:47:29Z",
+        "fileSize": 850,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 52805,
+        "name": "Furniture Catalogue",
+        "status": "published",
+        "summary": "Shop Affordable Home Furnishings & Home Goods with Furniture Catalogue!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52805/52805-1683182626-1115244268.png",
+        "uid": "429496782405",
+        "updatedAt": "2023-07-12T15:09:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-01T11:34:52Z",
+        "fileSize": 841,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 52762,
+        "name": "Shrine of Paralothas - the Fish God",
+        "status": "published",
+        "summary": "Meditate and pray on the underwater statue of the fish god Paralothas to seek peace and sanctuary.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52762/52762-1682940446-1006117393.png",
+        "uid": "429496782362",
+        "updatedAt": "2023-05-14T14:43:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-26T16:21:40Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 52553,
+        "name": "Force Close Dialogue Menu",
+        "status": "published",
+        "summary": "Stuck in endless dialogue choices and loop? Look no further! Shift Click Goodbye button to force close the dialogue menu!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52553/52553-1679847562-890559457.png",
+        "uid": "429496782153",
+        "updatedAt": "2023-03-26T16:21:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-19T16:23:21Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 52518,
+        "name": "Caps Click to Drop",
+        "status": "published",
+        "summary": "Caps + Click on inventory tile to drop items!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52518/52518-1679899113-1554370.png",
+        "uid": "429496782118",
+        "updatedAt": "2023-03-19T16:23:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-15T09:24:49Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 52500,
+        "name": "More Console Commands",
+        "status": "published",
+        "summary": "More Console Commands is a collection of commonly used console commands via UI Expansion Lua console for Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52500/52500-1678871868-1607186411.png",
+        "uid": "429496782100",
+        "updatedAt": "2023-07-20T10:28:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-16T16:31:40Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 52364,
+        "name": "Teach Companion Spells",
+        "status": "published",
+        "summary": "Allows you to teach spells to companions via dialogue. Requires MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52364/52364-1676564812-1264334751.png",
+        "uid": "429496781964",
+        "updatedAt": "2023-08-01T14:45:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-04T18:14:53Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 52271,
+        "name": "Soul Gems Indicator 2",
+        "status": "published",
+        "summary": "An icon widget showing whats the smallest fitting soul gem that can hold the target's soul you hold in your inventory.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52271/52271-1687286223-419172209.png",
+        "uid": "429496781871",
+        "updatedAt": "2023-06-20T18:40:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-20T18:09:43Z",
+        "fileSize": 213,
+        "modCategory": {
+          "categoryId": 22,
+          "name": "Cheats and God items"
+        },
+        "modId": 52192,
+        "name": "Unlimited Rings",
+        "status": "published",
+        "summary": "Allows unlimited number of rings equipped. Requires MWSE. Now with limited rings feature.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52192/52192-1674324207-1896973015.png",
+        "uid": "429496781792",
+        "updatedAt": "2023-01-22T06:23:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-09-16T16:11:42Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 51825,
+        "name": "Come To Me",
+        "status": "published",
+        "summary": "Press Alt to tell your follower to come towards you so they don’t block the doorway.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51825/51825-1663344391-1352841141.png",
+        "uid": "429496781425",
+        "updatedAt": "2023-04-05T07:58:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-09-10T07:05:01Z",
+        "fileSize": 754,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 51809,
+        "name": "Restock Filled Soul Gems",
+        "status": "published",
+        "summary": "Restocking supplies of filled soulgems have been added to a few merchants.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51809/51809-1662793013-198792390.png",
+        "uid": "429496781409",
+        "updatedAt": "2023-03-29T07:43:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-14T18:46:47Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 51735,
+        "name": "Different Types of Local Plants for Ajira's Reports",
+        "status": "published",
+        "summary": "Both the content and the location of Ajira's Reports change every time! No more gathering mushrooms and flowers beforehand!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51735/51735-1661395430-1286820971.png",
+        "uid": "429496781335",
+        "updatedAt": "2022-09-12T16:28:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-07-30T07:33:43Z",
+        "fileSize": 144,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 51656,
+        "name": "Tea Merchants - an addon for Ashfall",
+        "status": "published",
+        "summary": "Adds Tea Merchants to the game. Requires Ashfall.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51656/51656-1658806932-857475441.png",
+        "uid": "429496781256",
+        "updatedAt": "2023-05-09T15:28:11Z"
+      }
+    ],
+    "totalCount": 21
   }
 }

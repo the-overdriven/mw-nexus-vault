@@ -1,143 +1,166 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 8
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-22T15:02:09Z",
-          "fileSize": 621,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 55593,
-          "name": "Quest Guider",
-          "status": "published",
-          "summary": "Shows comprehensive information about game quests and adds quest markers to the game. The information is generated dynamically based on your mods. Has many settings and the ability",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55593/55593-1734509196-1995167322.png",
-          "uid": "429496785193",
-          "updatedAt": "2025-05-06T17:13:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-22T14:59:44Z",
-          "fileSize": 23,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 55602,
-          "name": "mapMarkerLib",
-          "status": "published",
-          "summary": "Lua library to create map markers for MWSE",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55602/55602-1734596955-858941517.png",
-          "uid": "429496785202",
-          "updatedAt": "2025-05-11T18:34:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-11T13:05:07Z",
-          "fileSize": 39,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54616,
-          "name": "Just an Incarnate",
-          "status": "published",
-          "summary": "Allows you to respawn after death with or without penalties. And your dead body can spawn at the place of death. Almost all aspects of the mod are highly customizable.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54616/54616-1715260683-1543746462.png",
-          "uid": "429496784216",
-          "updatedAt": "2025-05-09T17:09:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-11T05:51:44Z",
-          "fileSize": 29,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54622,
-          "name": "Remains of the Fallen",
-          "status": "published",
-          "summary": "Spawns bodies of your fallen characters from other playthroughs. With (or without) their inventory items. But the items have lower stats and unique IDs (to prevent abuse).",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54622/54622-1742727257-946527578.jpeg",
-          "uid": "429496784222",
-          "updatedAt": "2024-05-11T05:51:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-24T11:06:19Z",
-          "fileSize": 9,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53514,
-          "name": "An Unexpected Start",
-          "status": "published",
-          "summary": "A mod that randomizes where you start the game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53514/53514-1695382358-1794807873.png",
-          "uid": "429496783114",
-          "updatedAt": "2023-10-21T11:39:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-03T11:53:35Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 53455,
-          "name": "Fancy Door Randomizer for OpenMW",
-          "status": "published",
-          "summary": "After activating a door, the mod will randomly teleport you to the destination of another door.Also it can change the destination of the exit door and save any new destination for",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53455/53455-1694804506-1352154307.png",
-          "uid": "429496783055",
-          "updatedAt": "2024-03-11T14:33:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-03T11:53:24Z",
-          "fileSize": 178,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53454,
-          "name": "Morrowind World Randomizer for OpenMW",
-          "status": "published",
-          "summary": "A randomizer for items in inventories and containers, creature spawns, exterior static objects and more.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53454/53454-1694804604-877073007.png",
-          "uid": "429496783054",
-          "updatedAt": "2024-08-11T06:02:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-22T15:11:39Z",
-          "fileSize": 367,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52534,
-          "name": "Morrowind World Randomizer",
-          "status": "published",
-          "summary": "A highly customizable MWSE mod that can randomize many game elements.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52534/52534-1679496764-840822247.png",
-          "uid": "429496782134",
-          "updatedAt": "2024-07-30T07:57:50Z"
-        }
-      ],
-      "totalCount": 8
+  "checkedAt": "2025-05-13T18:58:55.506Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 8
+      }
     },
-    "checkedAt": "2025-05-13T18:25:22.549Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-22T15:02:09Z",
+        "fileSize": 621,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55593,
+        "name": "Quest Guider",
+        "status": "published",
+        "summary": "Shows comprehensive information about game quests and adds quest markers to the game. The information is generated dynamically based on your mods. Has many settings and the ability",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55593/55593-1734509196-1995167322.png",
+        "uid": "429496785193",
+        "updatedAt": "2025-05-06T17:13:54Z",
+        "fileIds": [
+          "1000052530",
+          "1000050139",
+          "1000051153",
+          "1000051911",
+          "1000052110"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-22T14:59:44Z",
+        "fileSize": 23,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 55602,
+        "name": "mapMarkerLib",
+        "status": "published",
+        "summary": "Lua library to create map markers for MWSE",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55602/55602-1734596955-858941517.png",
+        "uid": "429496785202",
+        "updatedAt": "2025-05-11T18:34:42Z",
+        "fileIds": [
+          "1000052780",
+          "1000052528",
+          "1000048936",
+          "1000050103",
+          "1000051131",
+          "1000051910",
+          "1000052690"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-11T13:05:07Z",
+        "fileSize": 39,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54616,
+        "name": "Just an Incarnate",
+        "status": "published",
+        "summary": "Allows you to respawn after death with or without penalties. And your dead body can spawn at the place of death. Almost all aspects of the mod are highly customizable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54616/54616-1715260683-1543746462.png",
+        "uid": "429496784216",
+        "updatedAt": "2025-05-09T17:09:10Z",
+        "fileIds": [
+          "1000052704",
+          "1000050155",
+          "1000044567",
+          "1000046723",
+          "1000050141",
+          "1000050413",
+          "1000052535"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-11T05:51:44Z",
+        "fileSize": 29,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54622,
+        "name": "Remains of the Fallen",
+        "status": "published",
+        "summary": "Spawns bodies of your fallen characters from other playthroughs. With (or without) their inventory items. But the items have lower stats and unique IDs (to prevent abuse).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54622/54622-1742727257-946527578.jpeg",
+        "uid": "429496784222",
+        "updatedAt": "2024-05-11T05:51:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-24T11:06:19Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53514,
+        "name": "An Unexpected Start",
+        "status": "published",
+        "summary": "A mod that randomizes where you start the game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53514/53514-1695382358-1794807873.png",
+        "uid": "429496783114",
+        "updatedAt": "2023-10-21T11:39:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-03T11:53:35Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 53455,
+        "name": "Fancy Door Randomizer for OpenMW",
+        "status": "published",
+        "summary": "After activating a door, the mod will randomly teleport you to the destination of another door.Also it can change the destination of the exit door and save any new destination for",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53455/53455-1694804506-1352154307.png",
+        "uid": "429496783055",
+        "updatedAt": "2024-03-11T14:33:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-03T11:53:24Z",
+        "fileSize": 178,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53454,
+        "name": "Morrowind World Randomizer for OpenMW",
+        "status": "published",
+        "summary": "A randomizer for items in inventories and containers, creature spawns, exterior static objects and more.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53454/53454-1694804604-877073007.png",
+        "uid": "429496783054",
+        "updatedAt": "2024-08-11T06:02:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-22T15:11:39Z",
+        "fileSize": 367,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52534,
+        "name": "Morrowind World Randomizer",
+        "status": "published",
+        "summary": "A highly customizable MWSE mod that can randomize many game elements.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52534/52534-1679496764-840822247.png",
+        "uid": "429496782134",
+        "updatedAt": "2024-07-30T07:57:50Z"
+      }
+    ],
+    "totalCount": 8
   }
 }

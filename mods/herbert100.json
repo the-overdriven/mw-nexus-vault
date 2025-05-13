@@ -1,271 +1,272 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 16
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-04-01T23:17:59Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 56283,
-          "name": "MCM Tyranny",
-          "status": "published",
-          "summary": "Lets you take back control over the MCM and hide any mods from it that you please.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56283/56283-1743549225-1568199880.jpeg",
-          "uid": "429496785883",
-          "updatedAt": "2025-04-01T23:17:59Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-05T10:20:22Z",
-          "fileSize": 16,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54571,
-          "name": "herbert's literacy program",
-          "status": "published",
-          "summary": "Fundamental overhaul to the way skill books work. Studying skill books will grant permanent bonuses to the relevant skill. The bonus depends on the skill being studied. You can't",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54571/54571-1714850067-816169514.jpeg",
-          "uid": "429496784171",
-          "updatedAt": "2024-05-19T05:35:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-01T09:36:09Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54387,
-          "name": "Birthsign Thief",
-          "status": "published",
-          "summary": "Slightly buffs the Thief birthsign. Those with the Thief birthsign will now steal the abilities from all other birthsigns. Requires MWSE.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54387/54387-1711963474-1684475443.jpeg",
-          "uid": "429496783987",
-          "updatedAt": "2024-04-01T09:41:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-03-02T20:01:33Z",
-          "fileSize": 18,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 54219,
-          "name": "Quick Select Menu",
-          "status": "published",
-          "summary": "Adds a quick select menu, trying to fill the gap between quick key items and the rest of your inventory. The menu has several tabs, some of which are generated automatically, based",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54219/54219-1709404648-574126906.jpeg",
-          "uid": "429496783819",
-          "updatedAt": "2024-05-05T10:59:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-25T09:51:24Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 54208,
-          "name": "HUD Cleaner",
-          "status": "published",
-          "summary": "Dynamically hides HUD elements when they aren't relevant. Hides health/magicka/fatigue if they're above 90%. Hides magic icons resulting from permanent bonuses/constant",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54208/54208-1708853955-294277038.jpeg",
-          "uid": "429496783808",
-          "updatedAt": "2024-03-06T07:42:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-24T21:38:48Z",
-          "fileSize": 32,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 54203,
-          "name": "Quest Log Menu",
-          "status": "published",
-          "summary": "Lets you keep track of, and search for, all your active/completed quests by using a dedicated menu. Has robust search functionalities and several convenience features. All relevant",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54203/54203-1708802889-1231236311.jpeg",
-          "uid": "429496783803",
-          "updatedAt": "2024-06-28T12:47:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-19T19:55:11Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54181,
-          "name": "activate key takes open books",
-          "status": "published",
-          "summary": "if a book is open (i.e. the \"Take\" button is visible), you can take it by pressing the activate key. no mouse required. requires MWSE",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54181/54181-1708372355-818013292.jpeg",
-          "uid": "429496783781",
-          "updatedAt": "2024-02-19T19:55:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-15T21:05:22Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54158,
-          "name": "Fortify Magicka Regeneration",
-          "status": "published",
-          "summary": "adds a fortify magicka regeneration effect to the game. just like in skyrim. 1 pt of the effect = 1% faster magicka regeneration. requires a compatible magicka regeneration",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54158/54158-1708030583-155761481.jpeg",
-          "uid": "429496783758",
-          "updatedAt": "2024-02-15T21:05:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-31T13:52:57Z",
-          "fileSize": 18,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54083,
-          "name": "Animated Containers Rewritten",
-          "status": "published",
-          "summary": "Based on qqqbbb's original mod, rewritten with a focus on interopability and stability. It is now considerably easier for other mods to play open/close animations.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54083/54083-1706708631-1647080983.jpeg",
-          "uid": "429496783683",
-          "updatedAt": "2024-02-18T20:28:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-12T16:02:09Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53972,
-          "name": "experience carryover",
-          "status": "published",
-          "summary": "this mod will make sure you get all the xp you were promised. surplus xp will no longer be lost when leveling up skills. e.g. if your progress towards a skill level up was 95/100",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53972/53972-1705073584-1775413870.jpeg",
-          "uid": "429496783572",
-          "updatedAt": "2024-02-16T06:16:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-07T22:07:49Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53954,
-          "name": "athletics armor xp mod",
-          "status": "published",
-          "summary": "atheltics experience will be divided up among different armor skills, depending on how much armor of each type you have equipped.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53954/53954-1704664837-1056049501.jpeg",
-          "uid": "429496783554",
-          "updatedAt": "2024-01-07T22:11:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-05T14:34:56Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53937,
-          "name": "Barter XP Overhaul",
-          "status": "published",
-          "summary": "Overhauls the barter XP formula, with the intention of being more realistic and cutting down on the cheese. XP is now awarded based on the value of the sale and how well you've",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53937/53937-1704464645-539763231.jpeg",
-          "uid": "429496783537",
-          "updatedAt": "2024-01-05T14:34:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-12-08T14:32:40Z",
-          "fileSize": 62,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53809,
-          "name": "More QuickLoot",
-          "status": "published",
-          "summary": "QuickLoot, with many new features and a revamped UI. Pick up one item from a stack, see item prices and weights, pickup nearby items. Dedicated menus for bartering, pickpocketing,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53809/53809-1702038830-789574628.jpeg",
-          "uid": "429496783409",
-          "updatedAt": "2024-03-18T16:08:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-12-07T18:26:54Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53804,
-          "name": "Proportional Magicka Regeneration",
-          "status": "published",
-          "summary": "Willpower will determine the percentage of your maximum magicka that gets regenerated each second. Highly configurable. Atronachs can regenerate magicka with customizable",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53804/53804-1701973463-888158391.jpeg",
-          "uid": "429496783404",
-          "updatedAt": "2024-02-15T21:14:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-12-07T14:10:00Z",
-          "fileSize": 45,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 53803,
-          "name": "herbert lib",
-          "status": "published",
-          "summary": "Lua library that includes a new logger, a way to automate the creation of Classes (supporting multiple inheritence, instance checking, and some dataclass-like functionality), and a",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53803/53803-1701950896-994526330.jpeg",
-          "uid": "429496783403",
-          "updatedAt": "2024-06-28T12:43:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-12-02T11:56:34Z",
-          "fileSize": 13,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53782,
-          "name": "Proportional Progression Expanded",
-          "status": "published",
-          "summary": "Updated verison of NullCascade's Proportional Progression, with MCM support and some new features: custom profiles, modifiers for major/minor/misc/specialization skills, and more.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53782/53782-1702066473-1906773470.jpeg",
-          "uid": "429496783382",
-          "updatedAt": "2024-02-18T19:58:47Z"
-        }
-      ],
-      "totalCount": 16
+  "checkedAt": "2025-05-13T18:59:08.186Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 16
+      }
     },
-    "checkedAt": "2025-05-13T18:25:25.354Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-01T23:17:59Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56283,
+        "name": "MCM Tyranny",
+        "status": "published",
+        "summary": "Lets you take back control over the MCM and hide any mods from it that you please.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56283/56283-1743549225-1568199880.jpeg",
+        "uid": "429496785883",
+        "updatedAt": "2025-04-01T23:17:59Z",
+        "fileIds": [
+          "1000051633"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-05T10:20:22Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54571,
+        "name": "herbert's literacy program",
+        "status": "published",
+        "summary": "Fundamental overhaul to the way skill books work. Studying skill books will grant permanent bonuses to the relevant skill. The bonus depends on the skill being studied. You can't",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54571/54571-1714850067-816169514.jpeg",
+        "uid": "429496784171",
+        "updatedAt": "2024-05-19T05:35:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-01T09:36:09Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54387,
+        "name": "Birthsign Thief",
+        "status": "published",
+        "summary": "Slightly buffs the Thief birthsign. Those with the Thief birthsign will now steal the abilities from all other birthsigns. Requires MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54387/54387-1711963474-1684475443.jpeg",
+        "uid": "429496783987",
+        "updatedAt": "2024-04-01T09:41:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-02T20:01:33Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54219,
+        "name": "Quick Select Menu",
+        "status": "published",
+        "summary": "Adds a quick select menu, trying to fill the gap between quick key items and the rest of your inventory. The menu has several tabs, some of which are generated automatically, based",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54219/54219-1709404648-574126906.jpeg",
+        "uid": "429496783819",
+        "updatedAt": "2024-05-05T10:59:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-25T09:51:24Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54208,
+        "name": "HUD Cleaner",
+        "status": "published",
+        "summary": "Dynamically hides HUD elements when they aren't relevant. Hides health/magicka/fatigue if they're above 90%. Hides magic icons resulting from permanent bonuses/constant",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54208/54208-1708853955-294277038.jpeg",
+        "uid": "429496783808",
+        "updatedAt": "2024-03-06T07:42:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-24T21:38:48Z",
+        "fileSize": 32,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54203,
+        "name": "Quest Log Menu",
+        "status": "published",
+        "summary": "Lets you keep track of, and search for, all your active/completed quests by using a dedicated menu. Has robust search functionalities and several convenience features. All relevant",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54203/54203-1708802889-1231236311.jpeg",
+        "uid": "429496783803",
+        "updatedAt": "2024-06-28T12:47:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-19T19:55:11Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54181,
+        "name": "activate key takes open books",
+        "status": "published",
+        "summary": "if a book is open (i.e. the \"Take\" button is visible), you can take it by pressing the activate key. no mouse required. requires MWSE",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54181/54181-1708372355-818013292.jpeg",
+        "uid": "429496783781",
+        "updatedAt": "2024-02-19T19:55:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-15T21:05:22Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54158,
+        "name": "Fortify Magicka Regeneration",
+        "status": "published",
+        "summary": "adds a fortify magicka regeneration effect to the game. just like in skyrim. 1 pt of the effect = 1% faster magicka regeneration. requires a compatible magicka regeneration",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54158/54158-1708030583-155761481.jpeg",
+        "uid": "429496783758",
+        "updatedAt": "2024-02-15T21:05:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-31T13:52:57Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54083,
+        "name": "Animated Containers Rewritten",
+        "status": "published",
+        "summary": "Based on qqqbbb's original mod, rewritten with a focus on interopability and stability. It is now considerably easier for other mods to play open/close animations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54083/54083-1706708631-1647080983.jpeg",
+        "uid": "429496783683",
+        "updatedAt": "2024-02-18T20:28:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-12T16:02:09Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53972,
+        "name": "experience carryover",
+        "status": "published",
+        "summary": "this mod will make sure you get all the xp you were promised. surplus xp will no longer be lost when leveling up skills. e.g. if your progress towards a skill level up was 95/100",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53972/53972-1705073584-1775413870.jpeg",
+        "uid": "429496783572",
+        "updatedAt": "2024-02-16T06:16:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-07T22:07:49Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53954,
+        "name": "athletics armor xp mod",
+        "status": "published",
+        "summary": "atheltics experience will be divided up among different armor skills, depending on how much armor of each type you have equipped.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53954/53954-1704664837-1056049501.jpeg",
+        "uid": "429496783554",
+        "updatedAt": "2024-01-07T22:11:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-05T14:34:56Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53937,
+        "name": "Barter XP Overhaul",
+        "status": "published",
+        "summary": "Overhauls the barter XP formula, with the intention of being more realistic and cutting down on the cheese. XP is now awarded based on the value of the sale and how well you've",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53937/53937-1704464645-539763231.jpeg",
+        "uid": "429496783537",
+        "updatedAt": "2024-01-05T14:34:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-08T14:32:40Z",
+        "fileSize": 62,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53809,
+        "name": "More QuickLoot",
+        "status": "published",
+        "summary": "QuickLoot, with many new features and a revamped UI. Pick up one item from a stack, see item prices and weights, pickup nearby items. Dedicated menus for bartering, pickpocketing,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53809/53809-1702038830-789574628.jpeg",
+        "uid": "429496783409",
+        "updatedAt": "2024-03-18T16:08:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-07T18:26:54Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53804,
+        "name": "Proportional Magicka Regeneration",
+        "status": "published",
+        "summary": "Willpower will determine the percentage of your maximum magicka that gets regenerated each second. Highly configurable. Atronachs can regenerate magicka with customizable",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53804/53804-1701973463-888158391.jpeg",
+        "uid": "429496783404",
+        "updatedAt": "2024-02-15T21:14:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-07T14:10:00Z",
+        "fileSize": 45,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 53803,
+        "name": "herbert lib",
+        "status": "published",
+        "summary": "Lua library that includes a new logger, a way to automate the creation of Classes (supporting multiple inheritence, instance checking, and some dataclass-like functionality), and a",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53803/53803-1701950896-994526330.jpeg",
+        "uid": "429496783403",
+        "updatedAt": "2024-06-28T12:43:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-02T11:56:34Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53782,
+        "name": "Proportional Progression Expanded",
+        "status": "published",
+        "summary": "Updated verison of NullCascade's Proportional Progression, with MCM support and some new features: custom profiles, modifiers for major/minor/misc/specialization skills, and more.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53782/53782-1702066473-1906773470.jpeg",
+        "uid": "429496783382",
+        "updatedAt": "2024-02-18T19:58:47Z"
+      }
+    ],
+    "totalCount": 16
   }
 }

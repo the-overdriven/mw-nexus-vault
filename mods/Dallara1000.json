@@ -1,127 +1,136 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 7
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-05-10T00:43:07Z",
-          "fileSize": 449,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 56543,
-          "name": "Dallara Sadrith Mora",
-          "status": "published",
-          "summary": "-This Mod modifies the town of Sadrith Mora by adding fortifications and a few buildings.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56543/56543-1746837288-918022877.jpeg",
-          "uid": "429496786143",
-          "updatedAt": "2025-05-10T00:43:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-25T13:01:28Z",
-          "fileSize": 106687,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 56243,
-          "name": "Dallara Odai Plateau",
-          "status": "published",
-          "summary": "-This replacement transform the Rethan Manor in a real Stronghold.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56243/56243-1742907304-61285367.jpeg",
-          "uid": "429496785843",
-          "updatedAt": "2025-04-04T22:14:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-12-13T12:16:31Z",
-          "fileSize": 344,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 52054,
-          "name": "Dallara Bal Isra",
-          "status": "published",
-          "summary": "-This replacement transform the Indarys manor in a real Stronghold.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52054/52054-1670942428-51220245.jpeg",
-          "uid": "429496781654",
-          "updatedAt": "2024-01-30T10:59:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-14T00:07:56Z",
-          "fileSize": 12729,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 51228,
-          "name": "Dallara Suran",
-          "status": "published",
-          "summary": "This replacement giving Suran more life and immersion.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51228/51228-1652486368-1096996106.png",
-          "uid": "429496780828",
-          "updatedAt": "2025-05-12T22:31:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-10T13:17:37Z",
-          "fileSize": 226504,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 49745,
-          "name": "Dallara Imperial Forts",
-          "status": "published",
-          "summary": "Total conversion of the imperials forts for a more medieval and imposing style.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49745/49745-1706134922-809140853.jpeg",
-          "uid": "429496779345",
-          "updatedAt": "2024-11-21T15:07:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-06T14:15:48Z",
-          "fileSize": 14424,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 49692,
-          "name": "Better Dunmer Strongholds",
-          "status": "published",
-          "summary": "This little replacement make the old dunmer's strongholds less empty and a little bit more dangerous",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49692/49692-1620367439-235915691.png",
-          "uid": "429496779292",
-          "updatedAt": "2021-05-18T11:46:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-04T11:32:41Z",
-          "fileSize": 22980,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 49669,
-          "name": "Dallara Balmora",
-          "status": "published",
-          "summary": "This replacement giving Balmora more life and immersion.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49669/49669-1620126575-352945005.jpeg",
-          "uid": "429496779269",
-          "updatedAt": "2022-05-31T11:45:54Z"
-        }
-      ],
-      "totalCount": 7
+  "checkedAt": "2025-05-13T18:58:37.668Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 7
+      }
     },
-    "checkedAt": "2025-05-13T18:25:21.277Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-10T00:43:07Z",
+        "fileSize": 449,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 56543,
+        "name": "Dallara Sadrith Mora",
+        "status": "published",
+        "summary": "-This Mod modifies the town of Sadrith Mora by adding fortifications and a few buildings.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56543/56543-1746837288-918022877.jpeg",
+        "uid": "429496786143",
+        "updatedAt": "2025-05-10T00:43:07Z",
+        "fileIds": [
+          "1000052718"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-25T13:01:28Z",
+        "fileSize": 106687,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 56243,
+        "name": "Dallara Odai Plateau",
+        "status": "published",
+        "summary": "-This replacement transform the Rethan Manor in a real Stronghold.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56243/56243-1742907304-61285367.jpeg",
+        "uid": "429496785843",
+        "updatedAt": "2025-04-04T22:14:45Z",
+        "fileIds": [
+          "1000051718",
+          "1000051496"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-12-13T12:16:31Z",
+        "fileSize": 344,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 52054,
+        "name": "Dallara Bal Isra",
+        "status": "published",
+        "summary": "-This replacement transform the Indarys manor in a real Stronghold.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52054/52054-1670942428-51220245.jpeg",
+        "uid": "429496781654",
+        "updatedAt": "2024-01-30T10:59:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-14T00:07:56Z",
+        "fileSize": 12729,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 51228,
+        "name": "Dallara Suran",
+        "status": "published",
+        "summary": "This replacement giving Suran more life and immersion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51228/51228-1652486368-1096996106.png",
+        "uid": "429496780828",
+        "updatedAt": "2025-05-12T22:31:12Z",
+        "fileIds": [
+          "1000052840",
+          "1000031226"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-10T13:17:37Z",
+        "fileSize": 226504,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 49745,
+        "name": "Dallara Imperial Forts",
+        "status": "published",
+        "summary": "Total conversion of the imperials forts for a more medieval and imposing style.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49745/49745-1706134922-809140853.jpeg",
+        "uid": "429496779345",
+        "updatedAt": "2024-11-21T15:07:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-06T14:15:48Z",
+        "fileSize": 14424,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 49692,
+        "name": "Better Dunmer Strongholds",
+        "status": "published",
+        "summary": "This little replacement make the old dunmer's strongholds less empty and a little bit more dangerous",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49692/49692-1620367439-235915691.png",
+        "uid": "429496779292",
+        "updatedAt": "2021-05-18T11:46:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-04T11:32:41Z",
+        "fileSize": 22980,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 49669,
+        "name": "Dallara Balmora",
+        "status": "published",
+        "summary": "This replacement giving Balmora more life and immersion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49669/49669-1620126575-352945005.jpeg",
+        "uid": "429496779269",
+        "updatedAt": "2022-05-31T11:45:54Z"
+      }
+    ],
+    "totalCount": 7
   }
 }

@@ -1,767 +1,850 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 47
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-19T19:04:48Z",
-          "fileSize": 12005,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 56040,
-          "name": "Antares Undead Redux",
-          "status": "published",
-          "summary": "AI-enhanced textures, clean ESP and improved packaging for Antares' Undead: Arise from Death mod.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56040/56040-1739994646-936498848.png",
-          "uid": "429496785640",
-          "updatedAt": "2025-02-19T19:04:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-08T17:10:23Z",
-          "fileSize": 15885,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 55943,
-          "name": "Antares Creatures Redux",
-          "status": "published",
-          "summary": "AI-enhanced textures, clean ESPs and improved packaging for several classic creatures: Antare's Trolls, Treants, Hill Giants, Frost Monarch, Frost Giants, Green Slime, Gargoyles,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55943/55943-1739994720-271054355.png",
-          "uid": "429496785543",
-          "updatedAt": "2025-02-13T11:54:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-11T15:19:23Z",
-          "fileSize": 670,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 53365,
-          "name": "Bringer of Salvation",
-          "status": "published",
-          "summary": "This mod adds a new person to Ebonheart, Serulius Vorenus, who wields a new artifact known as \"Bringer of Salvation.\" This sword is a two-handed blade on par with the most powerful",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53365/53365-1691767316-1424870117.jpeg",
-          "uid": "429496782965",
-          "updatedAt": "2023-08-11T15:19:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-08-06T01:54:54Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 51684,
-          "name": "Sa'Virr the traveling bladesmith",
-          "status": "published",
-          "summary": "Sa'Virr, the greatest bladesmith Nirn ever knew. You can find him at the Strider Port in Khuul.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51684/51684-1659748239-1254764944.jpeg",
-          "uid": "429496781284",
-          "updatedAt": "2022-08-06T02:09:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-02-22T00:46:18Z",
-          "fileSize": 2411,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 50801,
-          "name": "Akaviri Warblades",
-          "status": "published",
-          "summary": "Adds 2 new weapons into the game world: the Akaviri Tachi and Kodachi. Each has 4 color variants for a total of 8 new weapons.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50801/50801-1645489519-597248174.jpeg",
-          "uid": "429496780401",
-          "updatedAt": "2022-02-22T00:46:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-02-10T23:52:44Z",
-          "fileSize": 20531,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 50754,
-          "name": "The Eye of Ariisiss Redux",
-          "status": "published",
-          "summary": "Explore the Eye of Ariisiss, a beautiful ancient ruin, and claim it as your home.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50754/50754-1644536640-1081680772.jpeg",
-          "uid": "429496780354",
-          "updatedAt": "2022-02-11T21:21:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-15T15:42:44Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 49774,
-          "name": "The Weary Vampire",
-          "status": "published",
-          "summary": "This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, \"The Weary Vampire.\"",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49774/49774-1621093253-1145134482.jpeg",
-          "uid": "429496779374",
-          "updatedAt": "2021-05-17T22:36:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-01T01:04:19Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 49608,
-          "name": "HUD Encumbrance Bar",
-          "status": "published",
-          "summary": "Adds a 4th statistic bar to the player HUD, representing current encumbrance.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49608/49608-1619830847-219086179.png",
-          "uid": "429496779208",
-          "updatedAt": "2021-05-01T01:04:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-04-04T19:57:19Z",
-          "fileSize": 83,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49504,
-          "name": "The Blight",
-          "status": "published",
-          "summary": "Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49504/49504-1617504045-1168569325.jpeg",
-          "uid": "429496779104",
-          "updatedAt": "2022-01-10T22:11:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-03-19T01:47:05Z",
-          "fileSize": 220,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49427,
-          "name": "Wands",
-          "status": "published",
-          "summary": "Adds Wands to Morrowind. Fully functional wands enchanted as normal, cast-on-strike weapons. Staves also can shoot projectiles now, too!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49427/49427-1616118140-514572387.jpeg",
-          "uid": "429496779027",
-          "updatedAt": "2025-01-20T18:59:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-11-26T14:54:06Z",
-          "fileSize": 16,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 49077,
-          "name": "OAAB - The Astral Pocket",
-          "status": "published",
-          "summary": "Obtain a spell to teleport to the Astral Pocket, a small pocket realm that a Telvanni wizard has found himself lost in.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49077/49077-1606364416-794706907.jpeg",
-          "uid": "429496778677",
-          "updatedAt": "2024-06-23T19:18:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-18T20:27:22Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 48956,
-          "name": "MM - Enhanced Reflection",
-          "status": "published",
-          "summary": "This mod adds reflection mechanics to the Reflect, Shield, Fire Shield, Shock Shield, and Frost Shield magic effects for both the Player and NPCs.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48956/48956-1603046984-1821449445.jpeg",
-          "uid": "429496778556",
-          "updatedAt": "2025-01-22T01:16:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-12T01:17:48Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 48929,
-          "name": "Better Buoyancy",
-          "status": "published",
-          "summary": "This mod adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48929/48929-1602465272-675794203.jpeg",
-          "uid": "429496778529",
-          "updatedAt": "2021-07-10T20:06:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-10T21:12:27Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 48921,
-          "name": "Simple Combat Mechanics",
-          "status": "published",
-          "summary": "Adds a few new, simple, combat mechanics to improve combat variety: combat scavenging for NPCs, disarming (and being disarmed), as well as bystanders that will sometimes flee or",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48921/48921-1602362511-1099151353.jpeg",
-          "uid": "429496778521",
-          "updatedAt": "2020-10-10T21:12:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-23T14:24:51Z",
-          "fileSize": 543,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 48062,
-          "name": "Dwemer Teleportation Box",
-          "status": "published",
-          "summary": "Once again delve into the depths of Arkngthand to find a Dwemer Teleportation Box, a tool that teleports you to the closest Dwemer ruin when equipped.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48062/48062-1589681090-632263680.jpeg",
-          "uid": "429496777662",
-          "updatedAt": "2020-05-24T12:29:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-15T21:51:44Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 48019,
-          "name": "3E 427 A Space Odyssey",
-          "status": "published",
-          "summary": "Tarhiel has long dreamed of reaching the sun. Save him from his perilous experiments with the Scrolls of Icarian Flight to go on a quest to unlock a completely new kind of",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48019/48019-1589326532-214674666.jpeg",
-          "uid": "429496777619",
-          "updatedAt": "2024-06-23T19:05:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-08T17:51:58Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47980,
-          "name": "Douse the Lights",
-          "status": "published",
-          "summary": "Channel your inner Thief and douse light sources with your bow, crossbow, or thrown weapons.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47980/47980-1588897085-115371121.png",
-          "uid": "429496777580",
-          "updatedAt": "2020-06-26T21:32:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-04T23:32:06Z",
-          "fileSize": 9,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47948,
-          "name": "Miscast Enhanced",
-          "status": "published",
-          "summary": "Inspired by the Miscast mod from years ago, this mod adds consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47948/47948-1588518485-491741019.png",
-          "uid": "429496777548",
-          "updatedAt": "2025-02-04T22:09:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-01T01:29:52Z",
-          "fileSize": 2041,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 47901,
-          "name": "Galerion's Tools",
-          "status": "published",
-          "summary": "Visit an old but familiar face to embark on a quest to discover an ancient enchanting tool, created by Galerion the Mystic, and unlock an entirely new enchanting mechanic.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47901/47901-1588296318-117197327.png",
-          "uid": "429496777501",
-          "updatedAt": "2020-06-06T20:54:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-01T01:10:51Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47899,
-          "name": "Circinates",
-          "status": "published",
-          "summary": "All spells have a circinate assigned based on the casting cost of the spell, similarly to TES: Arena. This is purely visual and does not affect spells or casting mechanics.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47899/47899-1588295338-2046628234.jpeg",
-          "uid": "429496777499",
-          "updatedAt": "2020-05-01T01:10:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-01T01:05:54Z",
-          "fileSize": 24,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 47898,
-          "name": "Living With Caius",
-          "status": "published",
-          "summary": "Alters Caius Cosades' home in Balmora to be slightly bigger, have a second floor, have a private patio, and have a spare room for the player to live in if they decided to help",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47898/47898-1588294892-680467798.jpeg",
-          "uid": "429496777498",
-          "updatedAt": "2020-05-01T01:05:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-01T00:57:50Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47897,
-          "name": "OperatorJack's Deleveler",
-          "status": "published",
-          "summary": "This mod delevels all levelled lists. similarly to Abot's Deleveler, but this mod works automatically and requires no maintenance.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47897/47897-1588294568-2129236254.jpeg",
-          "uid": "429496777497",
-          "updatedAt": "2020-05-01T00:57:50Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-01T00:50:00Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47896,
-          "name": "Speed Boost",
-          "status": "published",
-          "summary": "Adds an MCM menu to apply a percentage modifier to all movement speeds, for all actors.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47896/47896-1588294034-1681995295.jpeg",
-          "uid": "429496777496",
-          "updatedAt": "2020-05-01T00:50:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-05T22:30:15Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 47778,
-          "name": "Bag of Holding",
-          "status": "published",
-          "summary": "Adds a D&D style Bag of Holding to the game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47778/47778-1586125667-2045147509.jpeg",
-          "uid": "429496777378",
-          "updatedAt": "2020-04-05T22:30:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-05T14:15:08Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47698,
-          "name": "Tiered Magicka",
-          "status": "published",
-          "summary": "Makes it so that all spells have a spell tier and the player has a casting tier. If the player's casting tier is less than the spell tier, the player cannot cast the spell.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47698/47698-1584572603-1511687030.jpeg",
-          "uid": "429496777298",
-          "updatedAt": "2022-07-14T17:43:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-05T14:14:49Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47713,
-          "name": "Cosmetic Overrides",
-          "status": "published",
-          "summary": "Adds the ability to use cosmetic overrides for clothing and armour. Cosmetic Overrides do not affect enchantments, stats, or other gameplay mechanics; they simply change what is",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47713/47713-1584895378-685476199.jpeg",
-          "uid": "429496777313",
-          "updatedAt": "2025-02-07T02:13:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-05T14:14:33Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47719,
-          "name": "Essential NPCs are Immortal",
-          "status": "published",
-          "summary": "Nullifies all forms of damage against NPCs marked as \"Essential\", in all cases. Install this mod if you are too used to being protected from your own actions in Oblivion or Skyrim",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47719/47719-1584985234-113273864.jpeg",
-          "uid": "429496777319",
-          "updatedAt": "2020-04-05T14:14:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-05T14:13:49Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47733,
-          "name": "No Accidental Stealing",
-          "status": "published",
-          "summary": "You can no longer interact with owned items unless you are sneaking.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47733/47733-1585258973-1542617433.jpeg",
-          "uid": "429496777333",
-          "updatedAt": "2020-04-05T14:51:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-30T18:25:31Z",
-          "fileSize": 1182,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47749,
-          "name": "Particle Arrow Replacer",
-          "status": "published",
-          "summary": "This is a re-upload of Particle Arrow Replacer by Ghostnull, since it is not available anywhere. The plugin adds unique particle effects to all enchanted arrows in Morrowind,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47749/47749-1585592550-1243371637.jpeg",
-          "uid": "429496777349",
-          "updatedAt": "2020-03-30T18:25:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-07T20:56:07Z",
-          "fileSize": 4028,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47672,
-          "name": "MM - Enhanced Light",
-          "status": "published",
-          "summary": "The 6th entry in the Magic Mechanics series. The light magic effect has been replaced with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47672/47672-1585305186-1629258296.png",
-          "uid": "429496777272",
-          "updatedAt": "2024-06-23T19:31:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-08T13:54:45Z",
-          "fileSize": 3112,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47565,
-          "name": "MM - Enhanced Invisibility",
-          "status": "published",
-          "summary": "The 5th entry in the Magic Mechanics series. Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47565/47565-1581179005-575972490.png",
-          "uid": "429496777165",
-          "updatedAt": "2024-06-23T19:33:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-25T20:59:33Z",
-          "fileSize": 1738,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47534,
-          "name": "MM - Enhanced Telekinesis",
-          "status": "published",
-          "summary": "The fourth entry in the Magic Mechanics mod series, this mod is inspired by Fliggerty's Better Telekinesis. Using telekinesis will now propel objects towards you with new VFX",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47534/47534-1579823876-1376524316.png",
-          "uid": "429496777134",
-          "updatedAt": "2024-06-23T19:26:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-24T22:35:13Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47540,
-          "name": "Realistic Sun Damage",
-          "status": "published",
-          "summary": "The mod you didn't know you didn't need. Provides a random factor to the sun damage calculation to account for cloud movement and other atmospheric anomalies.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47540/47540-1579905163-1304720211.jpeg",
-          "uid": "429496777140",
-          "updatedAt": "2020-01-24T22:35:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-13T02:37:27Z",
-          "fileSize": 61858,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47480,
-          "name": "MM - Enhanced Detection",
-          "status": "published",
-          "summary": "The third entry in the Magic Mechanics series, this mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47480/47480-1582839624-573171493.png",
-          "uid": "429496777080",
-          "updatedAt": "2025-02-03T14:38:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-20T23:41:45Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47413,
-          "name": "Anchor Teleportation",
-          "status": "published",
-          "summary": "This mod makes mark and recall behave like in Daggerfall. Whenever you use recall, the location you have marked will be lost and you must cast mark again, creating an \"anchor\".",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47413/47413-1576885357-246018670.jpeg",
-          "uid": "429496777013",
-          "updatedAt": "2019-12-20T23:41:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-19T02:24:06Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47403,
-          "name": "MM - Homing Projectiles",
-          "status": "published",
-          "summary": "Another entry in the Magic Mechanics mod series, adds the ability to control spell projectiles during flight.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47403/47403-1576722056-1313549913.jpeg",
-          "uid": "429496777003",
-          "updatedAt": "2024-06-23T19:22:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-18T02:21:17Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47395,
-          "name": "Skywind - Skyrim Inspired Magic and Hit Chances In Morrowind",
-          "status": "published",
-          "summary": "This mod makes all hit and magic chance calculations succeed. This also applies to NPCs.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47395/47395-1576635658-1751316964.jpeg",
-          "uid": "429496776995",
-          "updatedAt": "2019-12-18T02:21:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-03T00:45:11Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47345,
-          "name": "The Levitation Act",
-          "status": "published",
-          "summary": "\"3E 421 — The Levitation Act is passed throughout the Empire, outlawing the use of levitation magic.\"",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47345/47345-1575333249-1951324236.jpeg",
-          "uid": "429496776945",
-          "updatedAt": "2021-10-06T15:32:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-11-27T23:54:02Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47338,
-          "name": "MM - Cast-On-Swing Enchantments",
-          "status": "published",
-          "summary": "Another entry in the Magic Mechanics mod series, weapons with enchantments of Cast-On-Strike and Cast-On-Use types will now work without hitting a target. Just swing your weapon",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47338/47338-1574898435-270925486.jpeg",
-          "uid": "429496776938",
-          "updatedAt": "2024-06-23T19:15:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-11-01T23:52:36Z",
-          "fileSize": 1137,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 47270,
-          "name": "Fortified Molag Mar",
-          "status": "published",
-          "summary": "Visit a reforged Molag Mar to embark upon a series of quests to discover what happened to a missing Buoyant Armiger. Adds 5 increasingly difficult quests, innovative magic effects,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47270/47270-1572651851-787386222.png",
-          "uid": "429496776870",
-          "updatedAt": "2019-11-10T16:14:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-10-17T00:00:04Z",
-          "fileSize": 8694,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 47234,
-          "name": "Deeper Dagoth Ur",
-          "status": "published",
-          "summary": "Significant overhaul of the exterior and interior of Dagoth Ur, transforming it into a fortress befitting its legendary status.Ancient technology and the power of the heart of",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47234/47234-1571267315-540977584.png",
-          "uid": "429496776834",
-          "updatedAt": "2019-10-17T01:03:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-28T22:44:35Z",
-          "fileSize": 10160,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47111,
-          "name": "Magicka Expanded",
-          "status": "published",
-          "summary": "A lua-based framework for creating new, fully functional magic effects. Currently adds 110 new magic effects.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47111/47111-1567030934-906192603.png",
-          "uid": "429496776711",
-          "updatedAt": "2025-01-23T21:10:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-23T02:02:13Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47105,
-          "name": "Illegal Summoning",
-          "status": "published",
-          "summary": "Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47105/47105-1566525442-1221131166.jpeg",
-          "uid": "429496776705",
-          "updatedAt": "2021-07-12T22:03:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-03T14:08:33Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 47038,
-          "name": "Security Enhanced",
-          "status": "published",
-          "summary": "Using MWSE Lua, adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47038/47038-1564840576-1658728132.jpeg",
-          "uid": "429496776638",
-          "updatedAt": "2022-01-20T01:04:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-07-24T01:28:41Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 47008,
-          "name": "Chrysopoeia",
-          "status": "published",
-          "summary": "Using MWSE Lua and Magicka Expanded, embark on a short quest to gain the power of transmuting items into gold: Chrysopoeia. Search for the most learned alchemist on the island of",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47008/47008-1564772055-2028464238.jpeg",
-          "uid": "429496776608",
-          "updatedAt": "2024-06-23T19:09:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-12-26T04:40:26Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 46248,
-          "name": "Realistic Movement Speeds",
-          "status": "published",
-          "summary": "Using MWSE Lua, modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46248/46248-1564964402-402085521.jpeg",
-          "uid": "429496775848",
-          "updatedAt": "2019-09-07T03:09:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-12-17T04:39:19Z",
-          "fileSize": 10,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 46226,
-          "name": "The Astral Pocket",
-          "status": "published",
-          "summary": "Using MWSE Lua & Magicka Expanded, adds a miniquest to obtain a spell to teleport to a Telvanni style player home, with mark-recall like functionality.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46226/46226-1564772221-1277319054.jpeg",
-          "uid": "429496775826",
-          "updatedAt": "2020-11-06T19:04:51Z"
-        }
-      ],
-      "totalCount": 47
+  "checkedAt": "2025-05-13T18:59:46.482Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 47
+      }
     },
-    "checkedAt": "2025-05-13T18:25:32.621Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-19T19:04:48Z",
+        "fileSize": 12005,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 56040,
+        "name": "Antares Undead Redux",
+        "status": "published",
+        "summary": "AI-enhanced textures, clean ESP and improved packaging for Antares' Undead: Arise from Death mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56040/56040-1739994646-936498848.png",
+        "uid": "429496785640",
+        "updatedAt": "2025-02-19T19:04:48Z",
+        "fileIds": [
+          "1000050525"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-08T17:10:23Z",
+        "fileSize": 15885,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 55943,
+        "name": "Antares Creatures Redux",
+        "status": "published",
+        "summary": "AI-enhanced textures, clean ESPs and improved packaging for several classic creatures: Antare's Trolls, Treants, Hill Giants, Frost Monarch, Frost Giants, Green Slime, Gargoyles,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55943/55943-1739994720-271054355.png",
+        "uid": "429496785543",
+        "updatedAt": "2025-02-13T11:54:18Z",
+        "fileIds": [
+          "1000050177",
+          "1000050335",
+          "1000050333",
+          "1000050332",
+          "1000050331",
+          "1000050330",
+          "1000050334",
+          "1000050171"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-11T15:19:23Z",
+        "fileSize": 670,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 53365,
+        "name": "Bringer of Salvation",
+        "status": "published",
+        "summary": "This mod adds a new person to Ebonheart, Serulius Vorenus, who wields a new artifact known as \"Bringer of Salvation.\" This sword is a two-handed blade on par with the most powerful",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53365/53365-1691767316-1424870117.jpeg",
+        "uid": "429496782965",
+        "updatedAt": "2023-08-11T15:19:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-06T01:54:54Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 51684,
+        "name": "Sa'Virr the traveling bladesmith",
+        "status": "published",
+        "summary": "Sa'Virr, the greatest bladesmith Nirn ever knew. You can find him at the Strider Port in Khuul.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51684/51684-1659748239-1254764944.jpeg",
+        "uid": "429496781284",
+        "updatedAt": "2022-08-06T02:09:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-02-22T00:46:18Z",
+        "fileSize": 2411,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 50801,
+        "name": "Akaviri Warblades",
+        "status": "published",
+        "summary": "Adds 2 new weapons into the game world: the Akaviri Tachi and Kodachi. Each has 4 color variants for a total of 8 new weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50801/50801-1645489519-597248174.jpeg",
+        "uid": "429496780401",
+        "updatedAt": "2022-02-22T00:46:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-02-10T23:52:44Z",
+        "fileSize": 20531,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 50754,
+        "name": "The Eye of Ariisiss Redux",
+        "status": "published",
+        "summary": "Explore the Eye of Ariisiss, a beautiful ancient ruin, and claim it as your home.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50754/50754-1644536640-1081680772.jpeg",
+        "uid": "429496780354",
+        "updatedAt": "2022-02-11T21:21:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-15T15:42:44Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 49774,
+        "name": "The Weary Vampire",
+        "status": "published",
+        "summary": "This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, \"The Weary Vampire.\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49774/49774-1621093253-1145134482.jpeg",
+        "uid": "429496779374",
+        "updatedAt": "2021-05-17T22:36:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-01T01:04:19Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 49608,
+        "name": "HUD Encumbrance Bar",
+        "status": "published",
+        "summary": "Adds a 4th statistic bar to the player HUD, representing current encumbrance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49608/49608-1619830847-219086179.png",
+        "uid": "429496779208",
+        "updatedAt": "2021-05-01T01:04:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-04-04T19:57:19Z",
+        "fileSize": 83,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49504,
+        "name": "The Blight",
+        "status": "published",
+        "summary": "Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49504/49504-1617504045-1168569325.jpeg",
+        "uid": "429496779104",
+        "updatedAt": "2022-01-10T22:11:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-19T01:47:05Z",
+        "fileSize": 220,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49427,
+        "name": "Wands",
+        "status": "published",
+        "summary": "Adds Wands to Morrowind. Fully functional wands enchanted as normal, cast-on-strike weapons. Staves also can shoot projectiles now, too!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49427/49427-1616118140-514572387.jpeg",
+        "uid": "429496779027",
+        "updatedAt": "2025-01-20T18:59:45Z",
+        "fileIds": [
+          "1000049666",
+          "1000025859",
+          "1000024338",
+          "1000024339",
+          "1000045891",
+          "1000023430",
+          "1000023456"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-11-26T14:54:06Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49077,
+        "name": "OAAB - The Astral Pocket",
+        "status": "published",
+        "summary": "Obtain a spell to teleport to the Astral Pocket, a small pocket realm that a Telvanni wizard has found himself lost in.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49077/49077-1606364416-794706907.jpeg",
+        "uid": "429496778677",
+        "updatedAt": "2024-06-23T19:18:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-18T20:27:22Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 48956,
+        "name": "MM - Enhanced Reflection",
+        "status": "published",
+        "summary": "This mod adds reflection mechanics to the Reflect, Shield, Fire Shield, Shock Shield, and Frost Shield magic effects for both the Player and NPCs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48956/48956-1603046984-1821449445.jpeg",
+        "uid": "429496778556",
+        "updatedAt": "2025-01-22T01:16:04Z",
+        "fileIds": [
+          "1000049696",
+          "1000023075",
+          "1000045896",
+          "1000021376"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-12T01:17:48Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 48929,
+        "name": "Better Buoyancy",
+        "status": "published",
+        "summary": "This mod adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48929/48929-1602465272-675794203.jpeg",
+        "uid": "429496778529",
+        "updatedAt": "2021-07-10T20:06:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-10T21:12:27Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 48921,
+        "name": "Simple Combat Mechanics",
+        "status": "published",
+        "summary": "Adds a few new, simple, combat mechanics to improve combat variety: combat scavenging for NPCs, disarming (and being disarmed), as well as bystanders that will sometimes flee or",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48921/48921-1602362511-1099151353.jpeg",
+        "uid": "429496778521",
+        "updatedAt": "2020-10-10T21:12:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-23T14:24:51Z",
+        "fileSize": 543,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 48062,
+        "name": "Dwemer Teleportation Box",
+        "status": "published",
+        "summary": "Once again delve into the depths of Arkngthand to find a Dwemer Teleportation Box, a tool that teleports you to the closest Dwemer ruin when equipped.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48062/48062-1589681090-632263680.jpeg",
+        "uid": "429496777662",
+        "updatedAt": "2020-05-24T12:29:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-15T21:51:44Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 48019,
+        "name": "3E 427 A Space Odyssey",
+        "status": "published",
+        "summary": "Tarhiel has long dreamed of reaching the sun. Save him from his perilous experiments with the Scrolls of Icarian Flight to go on a quest to unlock a completely new kind of",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48019/48019-1589326532-214674666.jpeg",
+        "uid": "429496777619",
+        "updatedAt": "2024-06-23T19:05:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-08T17:51:58Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47980,
+        "name": "Douse the Lights",
+        "status": "published",
+        "summary": "Channel your inner Thief and douse light sources with your bow, crossbow, or thrown weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47980/47980-1588897085-115371121.png",
+        "uid": "429496777580",
+        "updatedAt": "2020-06-26T21:32:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-04T23:32:06Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47948,
+        "name": "Miscast Enhanced",
+        "status": "published",
+        "summary": "Inspired by the Miscast mod from years ago, this mod adds consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47948/47948-1588518485-491741019.png",
+        "uid": "429496777548",
+        "updatedAt": "2025-02-04T22:09:23Z",
+        "fileIds": [
+          "1000050082",
+          "1000025862",
+          "1000018956",
+          "1000018477",
+          "1000050039",
+          "1000018384",
+          "1000018399",
+          "1000045887"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-01T01:29:52Z",
+        "fileSize": 2041,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 47901,
+        "name": "Galerion's Tools",
+        "status": "published",
+        "summary": "Visit an old but familiar face to embark on a quest to discover an ancient enchanting tool, created by Galerion the Mystic, and unlock an entirely new enchanting mechanic.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47901/47901-1588296318-117197327.png",
+        "uid": "429496777501",
+        "updatedAt": "2020-06-06T20:54:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-01T01:10:51Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47899,
+        "name": "Circinates",
+        "status": "published",
+        "summary": "All spells have a circinate assigned based on the casting cost of the spell, similarly to TES: Arena. This is purely visual and does not affect spells or casting mechanics.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47899/47899-1588295338-2046628234.jpeg",
+        "uid": "429496777499",
+        "updatedAt": "2020-05-01T01:10:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-01T01:05:54Z",
+        "fileSize": 24,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 47898,
+        "name": "Living With Caius",
+        "status": "published",
+        "summary": "Alters Caius Cosades' home in Balmora to be slightly bigger, have a second floor, have a private patio, and have a spare room for the player to live in if they decided to help",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47898/47898-1588294892-680467798.jpeg",
+        "uid": "429496777498",
+        "updatedAt": "2020-05-01T01:05:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-01T00:57:50Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47897,
+        "name": "OperatorJack's Deleveler",
+        "status": "published",
+        "summary": "This mod delevels all levelled lists. similarly to Abot's Deleveler, but this mod works automatically and requires no maintenance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47897/47897-1588294568-2129236254.jpeg",
+        "uid": "429496777497",
+        "updatedAt": "2020-05-01T00:57:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-01T00:50:00Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47896,
+        "name": "Speed Boost",
+        "status": "published",
+        "summary": "Adds an MCM menu to apply a percentage modifier to all movement speeds, for all actors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47896/47896-1588294034-1681995295.jpeg",
+        "uid": "429496777496",
+        "updatedAt": "2020-05-01T00:50:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-05T22:30:15Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 47778,
+        "name": "Bag of Holding",
+        "status": "published",
+        "summary": "Adds a D&D style Bag of Holding to the game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47778/47778-1586125667-2045147509.jpeg",
+        "uid": "429496777378",
+        "updatedAt": "2020-04-05T22:30:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-05T14:15:08Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47698,
+        "name": "Tiered Magicka",
+        "status": "published",
+        "summary": "Makes it so that all spells have a spell tier and the player has a casting tier. If the player's casting tier is less than the spell tier, the player cannot cast the spell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47698/47698-1584572603-1511687030.jpeg",
+        "uid": "429496777298",
+        "updatedAt": "2022-07-14T17:43:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-05T14:14:49Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47713,
+        "name": "Cosmetic Overrides",
+        "status": "published",
+        "summary": "Adds the ability to use cosmetic overrides for clothing and armour. Cosmetic Overrides do not affect enchantments, stats, or other gameplay mechanics; they simply change what is",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47713/47713-1584895378-685476199.jpeg",
+        "uid": "429496777313",
+        "updatedAt": "2025-02-07T02:13:30Z",
+        "fileIds": [
+          "1000050133",
+          "1000049695",
+          "1000017621",
+          "1000049891",
+          "1000017809",
+          "1000017817"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-05T14:14:33Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47719,
+        "name": "Essential NPCs are Immortal",
+        "status": "published",
+        "summary": "Nullifies all forms of damage against NPCs marked as \"Essential\", in all cases. Install this mod if you are too used to being protected from your own actions in Oblivion or Skyrim",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47719/47719-1584985234-113273864.jpeg",
+        "uid": "429496777319",
+        "updatedAt": "2020-04-05T14:14:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-05T14:13:49Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47733,
+        "name": "No Accidental Stealing",
+        "status": "published",
+        "summary": "You can no longer interact with owned items unless you are sneaking.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47733/47733-1585258973-1542617433.jpeg",
+        "uid": "429496777333",
+        "updatedAt": "2020-04-05T14:51:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-30T18:25:31Z",
+        "fileSize": 1182,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47749,
+        "name": "Particle Arrow Replacer",
+        "status": "published",
+        "summary": "This is a re-upload of Particle Arrow Replacer by Ghostnull, since it is not available anywhere. The plugin adds unique particle effects to all enchanted arrows in Morrowind,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47749/47749-1585592550-1243371637.jpeg",
+        "uid": "429496777349",
+        "updatedAt": "2020-03-30T18:25:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-07T20:56:07Z",
+        "fileSize": 4028,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47672,
+        "name": "MM - Enhanced Light",
+        "status": "published",
+        "summary": "The 6th entry in the Magic Mechanics series. The light magic effect has been replaced with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47672/47672-1585305186-1629258296.png",
+        "uid": "429496777272",
+        "updatedAt": "2024-06-23T19:31:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-08T13:54:45Z",
+        "fileSize": 3112,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47565,
+        "name": "MM - Enhanced Invisibility",
+        "status": "published",
+        "summary": "The 5th entry in the Magic Mechanics series. Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47565/47565-1581179005-575972490.png",
+        "uid": "429496777165",
+        "updatedAt": "2024-06-23T19:33:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-25T20:59:33Z",
+        "fileSize": 1738,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47534,
+        "name": "MM - Enhanced Telekinesis",
+        "status": "published",
+        "summary": "The fourth entry in the Magic Mechanics mod series, this mod is inspired by Fliggerty's Better Telekinesis. Using telekinesis will now propel objects towards you with new VFX",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47534/47534-1579823876-1376524316.png",
+        "uid": "429496777134",
+        "updatedAt": "2024-06-23T19:26:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-24T22:35:13Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47540,
+        "name": "Realistic Sun Damage",
+        "status": "published",
+        "summary": "The mod you didn't know you didn't need. Provides a random factor to the sun damage calculation to account for cloud movement and other atmospheric anomalies.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47540/47540-1579905163-1304720211.jpeg",
+        "uid": "429496777140",
+        "updatedAt": "2020-01-24T22:35:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-13T02:37:27Z",
+        "fileSize": 61858,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47480,
+        "name": "MM - Enhanced Detection",
+        "status": "published",
+        "summary": "The third entry in the Magic Mechanics series, this mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47480/47480-1582839624-573171493.png",
+        "uid": "429496777080",
+        "updatedAt": "2025-02-03T14:38:19Z",
+        "fileIds": [
+          "1000050037",
+          "1000017177",
+          "1000045889",
+          "1000016963",
+          "1000019528",
+          "1000017002",
+          "1000032149",
+          "1000017073",
+          "1000016872",
+          "1000016886"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-20T23:41:45Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47413,
+        "name": "Anchor Teleportation",
+        "status": "published",
+        "summary": "This mod makes mark and recall behave like in Daggerfall. Whenever you use recall, the location you have marked will be lost and you must cast mark again, creating an \"anchor\".",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47413/47413-1576885357-246018670.jpeg",
+        "uid": "429496777013",
+        "updatedAt": "2019-12-20T23:41:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-19T02:24:06Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47403,
+        "name": "MM - Homing Projectiles",
+        "status": "published",
+        "summary": "Another entry in the Magic Mechanics mod series, adds the ability to control spell projectiles during flight.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47403/47403-1576722056-1313549913.jpeg",
+        "uid": "429496777003",
+        "updatedAt": "2024-06-23T19:22:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-18T02:21:17Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47395,
+        "name": "Skywind - Skyrim Inspired Magic and Hit Chances In Morrowind",
+        "status": "published",
+        "summary": "This mod makes all hit and magic chance calculations succeed. This also applies to NPCs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47395/47395-1576635658-1751316964.jpeg",
+        "uid": "429496776995",
+        "updatedAt": "2019-12-18T02:21:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-03T00:45:11Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47345,
+        "name": "The Levitation Act",
+        "status": "published",
+        "summary": "\"3E 421 — The Levitation Act is passed throughout the Empire, outlawing the use of levitation magic.\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47345/47345-1575333249-1951324236.jpeg",
+        "uid": "429496776945",
+        "updatedAt": "2021-10-06T15:32:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-11-27T23:54:02Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47338,
+        "name": "MM - Cast-On-Swing Enchantments",
+        "status": "published",
+        "summary": "Another entry in the Magic Mechanics mod series, weapons with enchantments of Cast-On-Strike and Cast-On-Use types will now work without hitting a target. Just swing your weapon",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47338/47338-1574898435-270925486.jpeg",
+        "uid": "429496776938",
+        "updatedAt": "2024-06-23T19:15:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-11-01T23:52:36Z",
+        "fileSize": 1137,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 47270,
+        "name": "Fortified Molag Mar",
+        "status": "published",
+        "summary": "Visit a reforged Molag Mar to embark upon a series of quests to discover what happened to a missing Buoyant Armiger. Adds 5 increasingly difficult quests, innovative magic effects,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47270/47270-1572651851-787386222.png",
+        "uid": "429496776870",
+        "updatedAt": "2019-11-10T16:14:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-10-17T00:00:04Z",
+        "fileSize": 8694,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 47234,
+        "name": "Deeper Dagoth Ur",
+        "status": "published",
+        "summary": "Significant overhaul of the exterior and interior of Dagoth Ur, transforming it into a fortress befitting its legendary status.Ancient technology and the power of the heart of",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47234/47234-1571267315-540977584.png",
+        "uid": "429496776834",
+        "updatedAt": "2019-10-17T01:03:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-28T22:44:35Z",
+        "fileSize": 10160,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47111,
+        "name": "Magicka Expanded",
+        "status": "published",
+        "summary": "A lua-based framework for creating new, fully functional magic effects. Currently adds 110 new magic effects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47111/47111-1567030934-906192603.png",
+        "uid": "429496776711",
+        "updatedAt": "2025-01-23T21:10:29Z",
+        "fileIds": [
+          "1000046031",
+          "1000049750",
+          "1000049751",
+          "1000015876",
+          "1000019718",
+          "1000015632",
+          "1000045884",
+          "1000017986",
+          "1000045909",
+          "1000018265",
+          "1000045929",
+          "1000021099",
+          "1000016007",
+          "1000021130",
+          "1000025998",
+          "1000032151",
+          "1000026539",
+          "1000016838",
+          "1000028638",
+          "1000016870",
+          "1000015601",
+          "1000016376",
+          "1000022011",
+          "1000024764",
+          "1000019702"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-23T02:02:13Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47105,
+        "name": "Illegal Summoning",
+        "status": "published",
+        "summary": "Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47105/47105-1566525442-1221131166.jpeg",
+        "uid": "429496776705",
+        "updatedAt": "2021-07-12T22:03:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-03T14:08:33Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47038,
+        "name": "Security Enhanced",
+        "status": "published",
+        "summary": "Using MWSE Lua, adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47038/47038-1564840576-1658728132.jpeg",
+        "uid": "429496776638",
+        "updatedAt": "2022-01-20T01:04:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-07-24T01:28:41Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47008,
+        "name": "Chrysopoeia",
+        "status": "published",
+        "summary": "Using MWSE Lua and Magicka Expanded, embark on a short quest to gain the power of transmuting items into gold: Chrysopoeia. Search for the most learned alchemist on the island of",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47008/47008-1564772055-2028464238.jpeg",
+        "uid": "429496776608",
+        "updatedAt": "2024-06-23T19:09:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-12-26T04:40:26Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 46248,
+        "name": "Realistic Movement Speeds",
+        "status": "published",
+        "summary": "Using MWSE Lua, modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46248/46248-1564964402-402085521.jpeg",
+        "uid": "429496775848",
+        "updatedAt": "2019-09-07T03:09:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-12-17T04:39:19Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 46226,
+        "name": "The Astral Pocket",
+        "status": "published",
+        "summary": "Using MWSE Lua & Magicka Expanded, adds a miniquest to obtain a spell to teleport to a Telvanni style player home, with mark-recall like functionality.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46226/46226-1564772221-1277319054.jpeg",
+        "uid": "429496775826",
+        "updatedAt": "2020-11-06T19:04:51Z"
+      }
+    ],
+    "totalCount": 47
   }
 }

@@ -1,47 +1,45 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 2
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2020-09-17T07:48:23Z",
-          "fileSize": 81,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 48834,
-          "name": "Vivec Waistworks Expansion",
-          "status": "published",
-          "summary": "Expands the Vivec Waistworks with new shops, shrines, restaurants, and decorations.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48834/48834-1600327417-564967467.png",
-          "uid": "429496778434",
-          "updatedAt": "2020-09-18T20:39:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-08-24T01:49:38Z",
-          "fileSize": 69,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 48745,
-          "name": "MDMD - More Deadly Morrowind Denizens",
-          "status": "published",
-          "summary": "230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48745/48745-1598230590-1146720775.png",
-          "uid": "429496778345",
-          "updatedAt": "2021-09-03T01:59:35Z"
-        }
-      ],
-      "totalCount": 2
+  "checkedAt": "2025-05-13T18:58:30.480Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2
+      }
     },
-    "checkedAt": "2025-05-13T18:25:20.003Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2020-09-17T07:48:23Z",
+        "fileSize": 81,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 48834,
+        "name": "Vivec Waistworks Expansion",
+        "status": "published",
+        "summary": "Expands the Vivec Waistworks with new shops, shrines, restaurants, and decorations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48834/48834-1600327417-564967467.png",
+        "uid": "429496778434",
+        "updatedAt": "2020-09-18T20:39:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-24T01:49:38Z",
+        "fileSize": 69,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 48745,
+        "name": "MDMD - More Deadly Morrowind Denizens",
+        "status": "published",
+        "summary": "230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48745/48745-1598230590-1146720775.png",
+        "uid": "429496778345",
+        "updatedAt": "2021-09-03T01:59:35Z"
+      }
+    ],
+    "totalCount": 2
   }
 }

@@ -1,671 +1,768 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 41
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-04-22T03:57:06Z",
-          "fileSize": 240477,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 56358,
-          "name": "Starwind - Awesome Aliens Megapack",
-          "status": "published",
-          "summary": "A complete overhaul of Starwinds weird and wonderful aliens.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56358/56358-1744880847-11731011.png",
-          "uid": "429496785958",
-          "updatedAt": "2025-05-02T17:53:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-23T15:00:07Z",
-          "fileSize": 151980,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 56075,
-          "name": "Creatures of Starwind",
-          "status": "published",
-          "summary": "Replaces Starwind's creature models with updated assets. Requires Starwind Enhanced and Tamriel Data.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56075/56075-1740832344-846661692.png",
-          "uid": "429496785675",
-          "updatedAt": "2025-03-02T13:38:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-09T22:59:15Z",
-          "fileSize": 18125,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 55968,
-          "name": "A New Hope - A Starwind Mod",
-          "status": "published",
-          "summary": "Adds new voiceovers, dialogue and context to the Endar Spire and Sandriver to immerse you in the story of Starwind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1739181064-2087697923.png",
-          "uid": "429496785568",
-          "updatedAt": "2025-02-17T21:02:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-07T15:36:30Z",
-          "fileSize": 410156,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 55934,
-          "name": "Sounds of Starwind",
-          "status": "published",
-          "summary": "Dynamic Music Replacer! Also replaces more vanilla Morrowind sounds with more appropriate sounds for Starwind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55934/55934-1738942540-257070418.png",
-          "uid": "429496785534",
-          "updatedAt": "2025-02-19T18:38:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-02-02T14:11:06Z",
-          "fileSize": 137576,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 55911,
-          "name": "Sin City - A Starwind Mod",
-          "status": "published",
-          "summary": "Adds new dialogue, quests, and environmental details to Nar Shaddaa in Starwind. Requires Starwind Enhanced.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55911/55911-1738505302-1276388228.png",
-          "uid": "429496785511",
-          "updatedAt": "2025-02-18T11:20:59Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-09-21T11:29:32Z",
-          "fileSize": 781,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 55237,
-          "name": "Morrowind Monster Manual",
-          "status": "published",
-          "summary": "A collection of creature mods that give monsters in Morrowind more character.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55237/55237-1726917438-989079819.png",
-          "uid": "429496784837",
-          "updatedAt": "2025-03-21T12:33:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-09-05T20:54:00Z",
-          "fileSize": 929,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 55190,
-          "name": "Fargoth's Fez",
-          "status": "published",
-          "summary": "Fargoth has lost his lucky fez! Can you help him find it?",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55190/55190-1725569539-1190795288.png",
-          "uid": "429496784790",
-          "updatedAt": "2024-09-06T10:59:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-07-24T09:24:38Z",
-          "fileSize": 1630,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 55010,
-          "name": "Knef's Explosions",
-          "status": "published",
-          "summary": "A reupload of Knef's Fire and Frost area spell effect replacers from 2013.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55010/55010-1721812915-696909834.jpeg",
-          "uid": "429496784610",
-          "updatedAt": "2024-07-24T09:24:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-07-07T19:17:54Z",
-          "fileSize": 548,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 54931,
-          "name": "Wavering Warcries",
-          "status": "published",
-          "summary": "Enemies will shout different attack lines depending on how wounded they are, or you are.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54931/54931-1720379714-1348569997.jpeg",
-          "uid": "429496784531",
-          "updatedAt": "2024-07-07T19:17:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-27T10:38:40Z",
-          "fileSize": 33461,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54743,
-          "name": "Tribunal Main Quest Reforged",
-          "status": "published",
-          "summary": "Expands and deepens the Tribunal questlines, giving players more choice and agency than before.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54743/54743-1717323498-1752288057.jpeg",
-          "uid": "429496784343",
-          "updatedAt": "2025-04-21T17:04:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-28T19:19:25Z",
-          "fileSize": 6577,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 54513,
-          "name": "Immersive Morrowind",
-          "status": "published",
-          "summary": "Adds conversations between NPCs using ElevenAI.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54513/54513-1714331900-1403162870.png",
-          "uid": "429496784113",
-          "updatedAt": "2024-05-02T09:30:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-11T12:25:03Z",
-          "fileSize": 5153,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 54139,
-          "name": "Main Quest Improvements",
-          "status": "published",
-          "summary": "Some small tweaks to make parts of the main quest more immersive.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54139/54139-1707654247-219609487.png",
-          "uid": "429496783739",
-          "updatedAt": "2025-03-09T16:02:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-08T12:18:13Z",
-          "fileSize": 3985,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54117,
-          "name": "Sheathe your Weapon - MWSE",
-          "status": "published",
-          "summary": "A MWSE version of my original mod where Guards tell you to sheathe your weapon if you have it out. This version dynamically extends to more guards and has other improvements.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54117/54117-1707394620-1013833178.jpeg",
-          "uid": "429496783717",
-          "updatedAt": "2025-03-09T17:05:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-03T23:11:03Z",
-          "fileSize": 5160,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 53926,
-          "name": "Gares Last Gasp",
-          "status": "published",
-          "summary": "Makes the reveal and death of Dagoth Gares more cinematic, using custom voices and animations.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53926/53926-1704323368-1059418531.jpeg",
-          "uid": "429496783526",
-          "updatedAt": "2025-03-21T12:47:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-12-21T13:42:10Z",
-          "fileSize": 5767,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 53863,
-          "name": "Ashlander Voices",
-          "status": "published",
-          "summary": "Adds 130 new voice greetings to the Ashlanders, made using ElevenAI.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53863/53863-1703165851-840389545.jpeg",
-          "uid": "429496783463",
-          "updatedAt": "2024-02-02T17:29:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-11-11T14:19:43Z",
-          "fileSize": 3050,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 53715,
-          "name": "Nordic Banter",
-          "status": "published",
-          "summary": "Nord male smiths may comment on the weapon you have readied.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53715/53715-1699712303-505185445.png",
-          "uid": "429496783315",
-          "updatedAt": "2023-11-11T14:19:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-10-22T10:52:05Z",
-          "fileSize": 29099,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 53641,
-          "name": "Ultimate Creeper Party House",
-          "status": "published",
-          "summary": "The whole of Ghorak Manor is jamming! Creeper is playing the drums, but he's now got a whole band on the lute and bagpipes.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53641/53641-1697971786-433271116.png",
-          "uid": "429496783241",
-          "updatedAt": "2023-10-29T16:22:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-10-20T14:10:43Z",
-          "fileSize": 9891,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 53636,
-          "name": "Magical Missions Recharged",
-          "status": "published",
-          "summary": "Members of the Mages Guild can now embark on five quests for the Master Wizard of Caldera!You'll also meet Tarancur, a rival to the player in the Guild. Many of the original Mages",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53636/53636-1697810966-227478800.png",
-          "uid": "429496783236",
-          "updatedAt": "2025-03-09T16:20:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-10-08T21:35:58Z",
-          "fileSize": 6931,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 53601,
-          "name": "Friends Reunited",
-          "status": "published",
-          "summary": "Certain events, usually when the player reunites friends or lovers, will now play a voiced conversation between those two NPCs.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53601/53601-1696799695-1885611345.png",
-          "uid": "429496783201",
-          "updatedAt": "2024-02-09T13:42:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-10-08T11:44:28Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 53599,
-          "name": "Seelof-style Main Quest",
-          "status": "published",
-          "summary": "A small mod that combines Seelof's Dwemer ruin in Bethemez and his Drethos Ancestral Tomb quests for the first two quests Cauis sends you on. Requires the original mods and esps to",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53599/53599-1696764829-2040233735.jpeg",
-          "uid": "429496783199",
-          "updatedAt": "2023-10-17T21:35:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-22T17:04:39Z",
-          "fileSize": 2656,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 53528,
-          "name": "Sheathe your weapon",
-          "status": "published",
-          "summary": "Guards will tell you to sheathe your weapon if you have it out. If you ignore their second warning, they'll attack.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53528/53528-1695402228-994867291.jpeg",
-          "uid": "429496783128",
-          "updatedAt": "2023-11-24T17:42:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-18T17:19:39Z",
-          "fileSize": 1007,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 53390,
-          "name": "Saucy old Selvil",
-          "status": "published",
-          "summary": "Gives Selvil Sareloth, the caravaneer in Balmora, a new unique look and voice lines.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53390/53390-1692379063-411842216.png",
-          "uid": "429496782990",
-          "updatedAt": "2023-08-18T17:19:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-30T08:45:19Z",
-          "fileSize": 75186,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 53278,
-          "name": "Bards of Bardenfell",
-          "status": "published",
-          "summary": "Adds bards across taverns in Vvardenfell playing songs from eso.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53278/53278-1690657429-142586929.jpeg",
-          "uid": "429496782878",
-          "updatedAt": "2025-02-26T12:14:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-29T16:07:33Z",
-          "fileSize": 104078,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 53294,
-          "name": "Sermons and Preachers Vanilla edit",
-          "status": "published",
-          "summary": "An edit of kruzhem's wonderful mod, replacing the priest voices there with vanilla ElevenAI readings of the 36 sermons of Vivec.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53294/53294-1690646619-1762537168.jpeg",
-          "uid": "429496782894",
-          "updatedAt": "2023-08-11T12:48:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-04T16:32:51Z",
-          "fileSize": 17655,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 52812,
-          "name": "A Hero's Welcome",
-          "status": "published",
-          "summary": "The Nerevarine is greeted by grateful crowds, old friends and fireworks at the palace of Vivec after defeating Dagoth Ur.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52812/52812-1683217822-1070965622.png",
-          "uid": "429496782412",
-          "updatedAt": "2024-01-03T15:40:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-10T16:52:16Z",
-          "fileSize": 36793,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52480,
-          "name": "Blighted 4thUnknown's Beasts Retextured",
-          "status": "published",
-          "summary": "Diseased/blighted retextures for the HQ Nix Hound and Kagouti models in 4thUnknown's creatures, and Diseased/blighted retextures for PeterBitt's Cliffracer 2.0",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52480/52480-1678466970-1949503151.png",
-          "uid": "429496782080",
-          "updatedAt": "2025-03-16T08:52:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-04T23:57:42Z",
-          "fileSize": 99101,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 52273,
-          "name": "Quest Voice Greetings",
-          "status": "published",
-          "summary": "ElevenAI generated voices for quest-giving NPCs in Morrowind. Currently adds over 1800 original lines of voiced dialogue using the original actors voices. Works with openmw!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52273/52273-1676030828-1756892640.png",
-          "uid": "429496781873",
-          "updatedAt": "2024-07-19T19:24:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-06-04T10:08:42Z",
-          "fileSize": 783,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 49929,
-          "name": "Boys in the Hood",
-          "status": "published",
-          "summary": "Outdoor NPCs will equip hats or hoods during rain and thunderstorms.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49929/49929-1622800912-2031715381.png",
-          "uid": "429496779529",
-          "updatedAt": "2021-06-04T10:08:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-28T08:26:54Z",
-          "fileSize": 10,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 49874,
-          "name": "Rogue's Gallery",
-          "status": "published",
-          "summary": "Let the face fit the crime! Edits over 150 hostile bandits to use unsavoury faces and hair from Tamriel Rebuilt.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49874/49874-1622190179-790887877.png",
-          "uid": "429496779474",
-          "updatedAt": "2021-05-28T08:26:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-01-24T11:07:32Z",
-          "fileSize": 1062,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 49240,
-          "name": "Wear a Mask",
-          "status": "published",
-          "summary": "The ash storms are particularly bad this year! Some citizens have taken to wearing protective coverings during ashstorms to keep themselves safe.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49240/49240-1611485959-2060834237.png",
-          "uid": "429496778840",
-          "updatedAt": "2021-01-24T17:46:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-05T17:42:49Z",
-          "fileSize": 890,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 47968,
-          "name": "Its a Deal",
-          "status": "published",
-          "summary": "Shopkeepers will now comment with a line of voiced dialogue on a successful trade.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47968/47968-1588701238-1179657753.jpeg",
-          "uid": "429496777568",
-          "updatedAt": "2020-06-15T18:11:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-19T20:49:18Z",
-          "fileSize": 57950,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 47851,
-          "name": "Better Clothes Retextured",
-          "status": "published",
-          "summary": "A set of high-res retextures for better clothes. Currently covers all shirts, skirts and pants from the base game - except for the ashlander shirts and pants.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47851/47851-1587329522-1983902593.png",
-          "uid": "429496777451",
-          "updatedAt": "2020-07-21T19:23:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-04-03T17:17:45Z",
-          "fileSize": 1210,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 47767,
-          "name": "Great Service",
-          "status": "published",
-          "summary": "Enables voiced dialogue for shopkeepers that were shipped with the original game but never used.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47767/47767-1585934111-1818992154.jpeg",
-          "uid": "429496777367",
-          "updatedAt": "2023-11-06T15:41:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-24T18:32:49Z",
-          "fileSize": 12539,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 47728,
-          "name": "What Thieves Guild",
-          "status": "published",
-          "summary": "Adds realistic individual cover 'backgrounds' for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47728/47728-1585074222-1887900739.png",
-          "uid": "429496777328",
-          "updatedAt": "2020-06-20T12:34:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-14T20:33:47Z",
-          "fileSize": 18484,
-          "modCategory": {
-            "categoryId": 20,
-            "name": "Books and Scrolls"
-          },
-          "modId": 47477,
-          "name": "Beautiful Books",
-          "status": "published",
-          "summary": "This mod adds custom textures for 4 lessons of Viviec, the Homalies of Almalexia, the House of Troubles, and all magic scrolls.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47477/47477-1578249209-155640598.png",
-          "uid": "429496777077",
-          "updatedAt": "2020-01-14T20:33:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-10-24T12:33:11Z",
-          "fileSize": 121,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 47253,
-          "name": "Djangos Dialogue 1.4",
-          "status": "published",
-          "summary": "Hundreds of new lines of text dialogue for all NPCs, which helps to remedy the repetition and dialogue fatigue that came with the original game.The 1.4 update is mostly around",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47253/47253-1572168552-35103798.png",
-          "uid": "429496776853",
-          "updatedAt": "2024-07-17T16:01:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-09-08T09:45:07Z",
-          "fileSize": 19043,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47162,
-          "name": "Silt Strider retexture",
-          "status": "published",
-          "summary": "A 2K retexture of the iconic Silt Strider, made in Substance.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47162/47162-1567935648-14422937.png",
-          "uid": "429496776762",
-          "updatedAt": "2019-09-08T10:10:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-24T11:09:47Z",
-          "fileSize": 24804,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47107,
-          "name": "Holy Art",
-          "status": "published",
-          "summary": "Replaces all Velothi frescos in the game, which only had two designs, with eleven new high-res ones from Lukkar, and one from Myzel.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47107/47107-1566644838-719195232.png",
-          "uid": "429496776707",
-          "updatedAt": "2019-08-24T11:09:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-17T14:21:43Z",
-          "fileSize": 52030,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47086,
-          "name": "Faded Glory (Rugs and Tapestries replacer)",
-          "status": "published",
-          "summary": "A rug and tapestry replacer with a worn, lived-in look. Textures that blend into the scene rather than popping out and distracting the eye.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47086/47086-1586443031-1372098400.png",
-          "uid": "429496776686",
-          "updatedAt": "2021-07-21T09:21:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-08-03T01:45:03Z",
-          "fileSize": 28224,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 47040,
-          "name": "High Art",
-          "status": "published",
-          "summary": "Adds over 30 oil paintings to Hlaalu mansions, Redoran Council Hall, Redoran Manors, Caldera Governer's Manor and Ebonheart.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47040/47040-1564796446-1494326666.png",
-          "uid": "429496776640",
-          "updatedAt": "2019-08-10T15:58:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-07-03T21:44:13Z",
-          "fileSize": 3796,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 46948,
-          "name": "Idle Talk",
-          "status": "published",
-          "summary": "Adds over 200 new voice entries for NPCs, mostly using edited original voice files.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46948/46948-1562190085-638319539.jpeg",
-          "uid": "429496776548",
-          "updatedAt": "2020-04-11T11:26:10Z"
-        }
-      ],
-      "totalCount": 41
+  "checkedAt": "2025-05-13T19:05:08.163Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 41
+      }
     },
-    "checkedAt": "2025-05-13T18:25:40.209Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-22T03:57:06Z",
+        "fileSize": 240477,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56358,
+        "name": "Starwind - Awesome Aliens Megapack",
+        "status": "published",
+        "summary": "A complete overhaul of Starwinds weird and wonderful aliens.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56358/56358-1744880847-11731011.png",
+        "uid": "429496785958",
+        "updatedAt": "2025-05-02T17:53:02Z",
+        "fileIds": [
+          "1000052369",
+          "1000052056",
+          "1000052086",
+          "1000052120"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-23T15:00:07Z",
+        "fileSize": 151980,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 56075,
+        "name": "Creatures of Starwind",
+        "status": "published",
+        "summary": "Replaces Starwind's creature models with updated assets. Requires Starwind Enhanced and Tamriel Data.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56075/56075-1740832344-846661692.png",
+        "uid": "429496785675",
+        "updatedAt": "2025-03-02T13:38:52Z",
+        "fileIds": [
+          "1000050867",
+          "1000050842",
+          "1000050673"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-09T22:59:15Z",
+        "fileSize": 18125,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 55968,
+        "name": "A New Hope - A Starwind Mod",
+        "status": "published",
+        "summary": "Adds new voiceovers, dialogue and context to the Endar Spire and Sandriver to immerse you in the story of Starwind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1739181064-2087697923.png",
+        "uid": "429496785568",
+        "updatedAt": "2025-02-17T21:02:16Z",
+        "fileIds": [
+          "1000052779",
+          "1000050224",
+          "1000050251",
+          "1000050256",
+          "1000050276",
+          "1000050378"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-07T15:36:30Z",
+        "fileSize": 410156,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 55934,
+        "name": "Sounds of Starwind",
+        "status": "published",
+        "summary": "Dynamic Music Replacer! Also replaces more vanilla Morrowind sounds with more appropriate sounds for Starwind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55934/55934-1738942540-257070418.png",
+        "uid": "429496785534",
+        "updatedAt": "2025-02-19T18:38:04Z",
+        "fileIds": [
+          "1000050524",
+          "1000050140"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-02T14:11:06Z",
+        "fileSize": 137576,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 55911,
+        "name": "Sin City - A Starwind Mod",
+        "status": "published",
+        "summary": "Adds new dialogue, quests, and environmental details to Nar Shaddaa in Starwind. Requires Starwind Enhanced.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55911/55911-1738505302-1276388228.png",
+        "uid": "429496785511",
+        "updatedAt": "2025-02-18T11:20:59Z",
+        "fileIds": [
+          "1000050488"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-09-21T11:29:32Z",
+        "fileSize": 781,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 55237,
+        "name": "Morrowind Monster Manual",
+        "status": "published",
+        "summary": "A collection of creature mods that give monsters in Morrowind more character.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55237/55237-1726917438-989079819.png",
+        "uid": "429496784837",
+        "updatedAt": "2025-03-21T12:33:56Z",
+        "fileIds": [
+          "1000047283",
+          "1000047284",
+          "1000047346",
+          "1000047319"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-09-05T20:54:00Z",
+        "fileSize": 929,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 55190,
+        "name": "Fargoth's Fez",
+        "status": "published",
+        "summary": "Fargoth has lost his lucky fez! Can you help him find it?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55190/55190-1725569539-1190795288.png",
+        "uid": "429496784790",
+        "updatedAt": "2024-09-06T10:59:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-24T09:24:38Z",
+        "fileSize": 1630,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55010,
+        "name": "Knef's Explosions",
+        "status": "published",
+        "summary": "A reupload of Knef's Fire and Frost area spell effect replacers from 2013.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55010/55010-1721812915-696909834.jpeg",
+        "uid": "429496784610",
+        "updatedAt": "2024-07-24T09:24:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-07T19:17:54Z",
+        "fileSize": 548,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 54931,
+        "name": "Wavering Warcries",
+        "status": "published",
+        "summary": "Enemies will shout different attack lines depending on how wounded they are, or you are.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54931/54931-1720379714-1348569997.jpeg",
+        "uid": "429496784531",
+        "updatedAt": "2024-07-07T19:17:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-27T10:38:40Z",
+        "fileSize": 33461,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54743,
+        "name": "Tribunal Main Quest Reforged",
+        "status": "published",
+        "summary": "Expands and deepens the Tribunal questlines, giving players more choice and agency than before.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54743/54743-1717323498-1752288057.jpeg",
+        "uid": "429496784343",
+        "updatedAt": "2025-04-21T17:04:25Z",
+        "fileIds": [
+          "1000052047",
+          "1000051458",
+          "1000051457",
+          "1000046852",
+          "1000045845",
+          "1000045347",
+          "1000046909",
+          "1000045662",
+          "1000046944",
+          "1000045415",
+          "1000051069",
+          "1000045442",
+          "1000047038",
+          "1000046793",
+          "1000046807",
+          "1000051418",
+          "1000047091",
+          "1000045302",
+          "1000045305",
+          "1000046841",
+          "1000047054",
+          "1000051068",
+          "1000045163",
+          "1000045206"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-28T19:19:25Z",
+        "fileSize": 6577,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 54513,
+        "name": "Immersive Morrowind",
+        "status": "published",
+        "summary": "Adds conversations between NPCs using ElevenAI.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54513/54513-1714331900-1403162870.png",
+        "uid": "429496784113",
+        "updatedAt": "2024-05-02T09:30:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-11T12:25:03Z",
+        "fileSize": 5153,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 54139,
+        "name": "Main Quest Improvements",
+        "status": "published",
+        "summary": "Some small tweaks to make parts of the main quest more immersive.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54139/54139-1707654247-219609487.png",
+        "uid": "429496783739",
+        "updatedAt": "2025-03-09T16:02:56Z",
+        "fileIds": [
+          "1000051032",
+          "1000043067",
+          "1000042726",
+          "1000042742"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-08T12:18:13Z",
+        "fileSize": 3985,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54117,
+        "name": "Sheathe your Weapon - MWSE",
+        "status": "published",
+        "summary": "A MWSE version of my original mod where Guards tell you to sheathe your weapon if you have it out. This version dynamically extends to more guards and has other improvements.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54117/54117-1707394620-1013833178.jpeg",
+        "uid": "429496783717",
+        "updatedAt": "2025-03-09T17:05:56Z",
+        "fileIds": [
+          "1000051036",
+          "1000042594"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-03T23:11:03Z",
+        "fileSize": 5160,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 53926,
+        "name": "Gares Last Gasp",
+        "status": "published",
+        "summary": "Makes the reveal and death of Dagoth Gares more cinematic, using custom voices and animations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53926/53926-1704323368-1059418531.jpeg",
+        "uid": "429496783526",
+        "updatedAt": "2025-03-21T12:47:21Z",
+        "fileIds": [
+          "1000042478",
+          "1000042480",
+          "1000041830",
+          "1000041859",
+          "1000041867"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-21T13:42:10Z",
+        "fileSize": 5767,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 53863,
+        "name": "Ashlander Voices",
+        "status": "published",
+        "summary": "Adds 130 new voice greetings to the Ashlanders, made using ElevenAI.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53863/53863-1703165851-840389545.jpeg",
+        "uid": "429496783463",
+        "updatedAt": "2024-02-02T17:29:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-11T14:19:43Z",
+        "fileSize": 3050,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 53715,
+        "name": "Nordic Banter",
+        "status": "published",
+        "summary": "Nord male smiths may comment on the weapon you have readied.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53715/53715-1699712303-505185445.png",
+        "uid": "429496783315",
+        "updatedAt": "2023-11-11T14:19:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-22T10:52:05Z",
+        "fileSize": 29099,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 53641,
+        "name": "Ultimate Creeper Party House",
+        "status": "published",
+        "summary": "The whole of Ghorak Manor is jamming! Creeper is playing the drums, but he's now got a whole band on the lute and bagpipes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53641/53641-1697971786-433271116.png",
+        "uid": "429496783241",
+        "updatedAt": "2023-10-29T16:22:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-20T14:10:43Z",
+        "fileSize": 9891,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53636,
+        "name": "Magical Missions Recharged",
+        "status": "published",
+        "summary": "Members of the Mages Guild can now embark on five quests for the Master Wizard of Caldera!You'll also meet Tarancur, a rival to the player in the Guild. Many of the original Mages",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53636/53636-1697810966-227478800.png",
+        "uid": "429496783236",
+        "updatedAt": "2025-03-09T16:20:25Z",
+        "fileIds": [
+          "1000051033",
+          "1000042497",
+          "1000042317",
+          "1000042346",
+          "1000044138",
+          "1000045933",
+          "1000040584",
+          "1000042415",
+          "1000043250"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-08T21:35:58Z",
+        "fileSize": 6931,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 53601,
+        "name": "Friends Reunited",
+        "status": "published",
+        "summary": "Certain events, usually when the player reunites friends or lovers, will now play a voiced conversation between those two NPCs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53601/53601-1696799695-1885611345.png",
+        "uid": "429496783201",
+        "updatedAt": "2024-02-09T13:42:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-08T11:44:28Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53599,
+        "name": "Seelof-style Main Quest",
+        "status": "published",
+        "summary": "A small mod that combines Seelof's Dwemer ruin in Bethemez and his Drethos Ancestral Tomb quests for the first two quests Cauis sends you on. Requires the original mods and esps to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53599/53599-1696764829-2040233735.jpeg",
+        "uid": "429496783199",
+        "updatedAt": "2023-10-17T21:35:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-22T17:04:39Z",
+        "fileSize": 2656,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 53528,
+        "name": "Sheathe your weapon",
+        "status": "published",
+        "summary": "Guards will tell you to sheathe your weapon if you have it out. If you ignore their second warning, they'll attack.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53528/53528-1695402228-994867291.jpeg",
+        "uid": "429496783128",
+        "updatedAt": "2023-11-24T17:42:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-18T17:19:39Z",
+        "fileSize": 1007,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 53390,
+        "name": "Saucy old Selvil",
+        "status": "published",
+        "summary": "Gives Selvil Sareloth, the caravaneer in Balmora, a new unique look and voice lines.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53390/53390-1692379063-411842216.png",
+        "uid": "429496782990",
+        "updatedAt": "2023-08-18T17:19:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-30T08:45:19Z",
+        "fileSize": 75186,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 53278,
+        "name": "Bards of Bardenfell",
+        "status": "published",
+        "summary": "Adds bards across taverns in Vvardenfell playing songs from eso.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53278/53278-1690657429-142586929.jpeg",
+        "uid": "429496782878",
+        "updatedAt": "2025-02-26T12:14:55Z",
+        "fileIds": [
+          "1000040578",
+          "1000050765",
+          "1000039436",
+          "1000039721",
+          "1000039546",
+          "1000040436"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-29T16:07:33Z",
+        "fileSize": 104078,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 53294,
+        "name": "Sermons and Preachers Vanilla edit",
+        "status": "published",
+        "summary": "An edit of kruzhem's wonderful mod, replacing the priest voices there with vanilla ElevenAI readings of the 36 sermons of Vivec.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53294/53294-1690646619-1762537168.jpeg",
+        "uid": "429496782894",
+        "updatedAt": "2023-08-11T12:48:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-04T16:32:51Z",
+        "fileSize": 17655,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 52812,
+        "name": "A Hero's Welcome",
+        "status": "published",
+        "summary": "The Nerevarine is greeted by grateful crowds, old friends and fireworks at the palace of Vivec after defeating Dagoth Ur.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52812/52812-1683217822-1070965622.png",
+        "uid": "429496782412",
+        "updatedAt": "2024-01-03T15:40:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-10T16:52:16Z",
+        "fileSize": 36793,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52480,
+        "name": "Blighted 4thUnknown's Beasts Retextured",
+        "status": "published",
+        "summary": "Diseased/blighted retextures for the HQ Nix Hound and Kagouti models in 4thUnknown's creatures, and Diseased/blighted retextures for PeterBitt's Cliffracer 2.0",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52480/52480-1678466970-1949503151.png",
+        "uid": "429496782080",
+        "updatedAt": "2025-03-16T08:52:58Z",
+        "fileIds": [
+          "1000051222",
+          "1000036517",
+          "1000051184"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-04T23:57:42Z",
+        "fileSize": 99101,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 52273,
+        "name": "Quest Voice Greetings",
+        "status": "published",
+        "summary": "ElevenAI generated voices for quest-giving NPCs in Morrowind. Currently adds over 1800 original lines of voiced dialogue using the original actors voices. Works with openmw!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52273/52273-1676030828-1756892640.png",
+        "uid": "429496781873",
+        "updatedAt": "2024-07-19T19:24:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-06-04T10:08:42Z",
+        "fileSize": 783,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 49929,
+        "name": "Boys in the Hood",
+        "status": "published",
+        "summary": "Outdoor NPCs will equip hats or hoods during rain and thunderstorms.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49929/49929-1622800912-2031715381.png",
+        "uid": "429496779529",
+        "updatedAt": "2021-06-04T10:08:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-28T08:26:54Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 49874,
+        "name": "Rogue's Gallery",
+        "status": "published",
+        "summary": "Let the face fit the crime! Edits over 150 hostile bandits to use unsavoury faces and hair from Tamriel Rebuilt.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49874/49874-1622190179-790887877.png",
+        "uid": "429496779474",
+        "updatedAt": "2021-05-28T08:26:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-01-24T11:07:32Z",
+        "fileSize": 1062,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 49240,
+        "name": "Wear a Mask",
+        "status": "published",
+        "summary": "The ash storms are particularly bad this year! Some citizens have taken to wearing protective coverings during ashstorms to keep themselves safe.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49240/49240-1611485959-2060834237.png",
+        "uid": "429496778840",
+        "updatedAt": "2021-01-24T17:46:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-05T17:42:49Z",
+        "fileSize": 890,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 47968,
+        "name": "Its a Deal",
+        "status": "published",
+        "summary": "Shopkeepers will now comment with a line of voiced dialogue on a successful trade.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47968/47968-1588701238-1179657753.jpeg",
+        "uid": "429496777568",
+        "updatedAt": "2020-06-15T18:11:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-19T20:49:18Z",
+        "fileSize": 57950,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 47851,
+        "name": "Better Clothes Retextured",
+        "status": "published",
+        "summary": "A set of high-res retextures for better clothes. Currently covers all shirts, skirts and pants from the base game - except for the ashlander shirts and pants.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47851/47851-1587329522-1983902593.png",
+        "uid": "429496777451",
+        "updatedAt": "2020-07-21T19:23:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-04-03T17:17:45Z",
+        "fileSize": 1210,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 47767,
+        "name": "Great Service",
+        "status": "published",
+        "summary": "Enables voiced dialogue for shopkeepers that were shipped with the original game but never used.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47767/47767-1585934111-1818992154.jpeg",
+        "uid": "429496777367",
+        "updatedAt": "2023-11-06T15:41:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-24T18:32:49Z",
+        "fileSize": 12539,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 47728,
+        "name": "What Thieves Guild",
+        "status": "published",
+        "summary": "Adds realistic individual cover 'backgrounds' for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47728/47728-1585074222-1887900739.png",
+        "uid": "429496777328",
+        "updatedAt": "2020-06-20T12:34:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-14T20:33:47Z",
+        "fileSize": 18484,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 47477,
+        "name": "Beautiful Books",
+        "status": "published",
+        "summary": "This mod adds custom textures for 4 lessons of Viviec, the Homalies of Almalexia, the House of Troubles, and all magic scrolls.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47477/47477-1578249209-155640598.png",
+        "uid": "429496777077",
+        "updatedAt": "2020-01-14T20:33:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-10-24T12:33:11Z",
+        "fileSize": 121,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 47253,
+        "name": "Djangos Dialogue 1.4",
+        "status": "published",
+        "summary": "Hundreds of new lines of text dialogue for all NPCs, which helps to remedy the repetition and dialogue fatigue that came with the original game.The 1.4 update is mostly around",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47253/47253-1572168552-35103798.png",
+        "uid": "429496776853",
+        "updatedAt": "2024-07-17T16:01:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-09-08T09:45:07Z",
+        "fileSize": 19043,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47162,
+        "name": "Silt Strider retexture",
+        "status": "published",
+        "summary": "A 2K retexture of the iconic Silt Strider, made in Substance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47162/47162-1567935648-14422937.png",
+        "uid": "429496776762",
+        "updatedAt": "2019-09-08T10:10:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-24T11:09:47Z",
+        "fileSize": 24804,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47107,
+        "name": "Holy Art",
+        "status": "published",
+        "summary": "Replaces all Velothi frescos in the game, which only had two designs, with eleven new high-res ones from Lukkar, and one from Myzel.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47107/47107-1566644838-719195232.png",
+        "uid": "429496776707",
+        "updatedAt": "2019-08-24T11:09:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-17T14:21:43Z",
+        "fileSize": 52030,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47086,
+        "name": "Faded Glory (Rugs and Tapestries replacer)",
+        "status": "published",
+        "summary": "A rug and tapestry replacer with a worn, lived-in look. Textures that blend into the scene rather than popping out and distracting the eye.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47086/47086-1586443031-1372098400.png",
+        "uid": "429496776686",
+        "updatedAt": "2021-07-21T09:21:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-08-03T01:45:03Z",
+        "fileSize": 28224,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 47040,
+        "name": "High Art",
+        "status": "published",
+        "summary": "Adds over 30 oil paintings to Hlaalu mansions, Redoran Council Hall, Redoran Manors, Caldera Governer's Manor and Ebonheart.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47040/47040-1564796446-1494326666.png",
+        "uid": "429496776640",
+        "updatedAt": "2019-08-10T15:58:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-07-03T21:44:13Z",
+        "fileSize": 3796,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 46948,
+        "name": "Idle Talk",
+        "status": "published",
+        "summary": "Adds over 200 new voice entries for NPCs, mostly using edited original voice files.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46948/46948-1562190085-638319539.jpeg",
+        "uid": "429496776548",
+        "updatedAt": "2020-04-11T11:26:10Z"
+      }
+    ],
+    "totalCount": 41
   }
 }

@@ -1,32 +1,37 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 1,
-          "101": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2009-11-15T04:15:56Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 28213,
-          "name": "Strength Encumbrance Multiplier - Carry more Weight per Strength Point",
-          "status": "published",
-          "summary": "The default Morrowind settings lets you carry 5 units of weight per point of strength your character has. This mod increases the base carry capacity, with a few flavors between 7.5",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/28213-1-1313595246.png",
-          "uid": "429496757813",
-          "updatedAt": "2025-05-02T07:07:14Z"
-        }
-      ],
-      "totalCount": 1
+  "checkedAt": "2025-05-13T18:59:02.102Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1,
+        "101": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:24.099Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2009-11-15T04:15:56Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 28213,
+        "name": "Strength Encumbrance Multiplier - Carry more Weight per Strength Point",
+        "status": "published",
+        "summary": "The default Morrowind settings lets you carry 5 units of weight per point of strength your character has. This mod increases the base carry capacity, with a few flavors between 7.5",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/28213-1-1313595246.png",
+        "uid": "429496757813",
+        "updatedAt": "2025-05-02T07:07:14Z",
+        "fileIds": [
+          "1000052343",
+          "1000052344",
+          "1000052345",
+          "1000052346",
+          "1000052347"
+        ]
+      }
+    ],
+    "totalCount": 1
   }
 }

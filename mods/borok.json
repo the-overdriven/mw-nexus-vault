@@ -1,159 +1,243 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 9
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-13T08:58:51Z",
-          "fileSize": 1306,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 56176,
-          "name": "Various Mods and Patches",
-          "status": "published",
-          "summary": "Small mods and patches.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56176/56176-1741856026-320714415.png",
-          "uid": "429496785776",
-          "updatedAt": "2025-04-19T06:30:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-03-11T09:43:34Z",
-          "fileSize": 6654,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 54261,
-          "name": "Remiros Groundcover Textures Improvement",
-          "status": "published",
-          "summary": "Fix of jagged Remiros grass textures without increasing textures size.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54261/54261-1710149800-410670252.png",
-          "uid": "429496783861",
-          "updatedAt": "2024-03-11T09:43:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-04T10:14:48Z",
-          "fileSize": 30589,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 54098,
-          "name": "Robert's Bodies textures for Westly's Faces Refurbished",
-          "status": "published",
-          "summary": "Robert's Bodies textures for Westly's Faces Refurbished",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54098/54098-1707040494-1120435565.png",
-          "uid": "429496783698",
-          "updatedAt": "2024-02-10T18:02:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-07-13T17:08:48Z",
-          "fileSize": 7843,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 51599,
-          "name": "Muscular Skins for Better Bodies with Lore-Friendly Underwear",
-          "status": "published",
-          "summary": "Better Bodies retexture",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51599/51599-1657731464-497102022.png",
-          "uid": "429496781199",
-          "updatedAt": "2022-07-13T17:08:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-11-22T16:50:37Z",
-          "fileSize": 629,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 50461,
-          "name": "Leafy Trees Revived",
-          "status": "published",
-          "summary": "Update of old mod by Irmekroache.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50461/50461-1637599277-1462470839.png",
-          "uid": "429496780061",
-          "updatedAt": "2021-11-22T16:50:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-01-05T11:27:32Z",
-          "fileSize": 2400,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 45405,
-          "name": "Daedric Lord Armor OpenMW patch",
-          "status": "published",
-          "summary": "Compatibility patch for Daedric Lord Armor Morrowind Edition and OpenMW",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45405/45405-1515150967-1365662963.png",
-          "uid": "429496775005",
-          "updatedAt": "2018-01-05T12:24:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-11-12T12:11:37Z",
-          "fileSize": 1993,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 45309,
-          "name": "Armored Robes - Native Styles",
-          "status": "published",
-          "summary": "Compatibility patch for Armored Robes Compilation and HiRez Armors - Native Styles",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45309-0-1510488098.jpg",
-          "uid": "429496774909",
-          "updatedAt": "2017-11-12T12:11:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-08-17T18:31:14Z",
-          "fileSize": 162,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43795,
-          "name": "Various tweaks and fixes",
-          "status": "published",
-          "summary": "Small mods, tweaks and fixes.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43795-4-1439835554.jpg",
-          "uid": "429496773395",
-          "updatedAt": "2025-05-09T13:31:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-07-27T19:04:07Z",
-          "fileSize": 1765,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 43768,
-          "name": "Hair Replacer for Nords and Bosmers Redone",
-          "status": "published",
-          "summary": "Pluginless hair replacer for Nords and Bosmers Redone by MacKom.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43768-5-1438022582.jpg",
-          "uid": "429496773368",
-          "updatedAt": "2016-08-20T09:44:04Z"
-        }
-      ],
-      "totalCount": 9
+  "checkedAt": "2025-05-13T18:58:32.337Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 9
+      }
     },
-    "checkedAt": "2025-05-13T18:25:20.501Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-13T08:58:51Z",
+        "fileSize": 1306,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 56176,
+        "name": "Various Mods and Patches",
+        "status": "published",
+        "summary": "Small mods and patches.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56176/56176-1741856026-320714415.png",
+        "uid": "429496785776",
+        "updatedAt": "2025-04-19T06:30:44Z",
+        "fileIds": [
+          "1000051151",
+          "1000051126",
+          "1000052016",
+          "1000051383",
+          "1000051180",
+          "1000051129",
+          "1000051455",
+          "1000051349",
+          "1000051492",
+          "1000051301",
+          "1000051181",
+          "1000051150",
+          "1000051125",
+          "1000051128",
+          "1000051145",
+          "1000051286",
+          "1000051283",
+          "1000051251"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-11T09:43:34Z",
+        "fileSize": 6654,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54261,
+        "name": "Remiros Groundcover Textures Improvement",
+        "status": "published",
+        "summary": "Fix of jagged Remiros grass textures without increasing textures size.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54261/54261-1710149800-410670252.png",
+        "uid": "429496783861",
+        "updatedAt": "2024-03-11T09:43:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-04T10:14:48Z",
+        "fileSize": 30589,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54098,
+        "name": "Robert's Bodies textures for Westly's Faces Refurbished",
+        "status": "published",
+        "summary": "Robert's Bodies textures for Westly's Faces Refurbished",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54098/54098-1707040494-1120435565.png",
+        "uid": "429496783698",
+        "updatedAt": "2024-02-10T18:02:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-07-13T17:08:48Z",
+        "fileSize": 7843,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 51599,
+        "name": "Muscular Skins for Better Bodies with Lore-Friendly Underwear",
+        "status": "published",
+        "summary": "Better Bodies retexture",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51599/51599-1657731464-497102022.png",
+        "uid": "429496781199",
+        "updatedAt": "2022-07-13T17:08:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-11-22T16:50:37Z",
+        "fileSize": 629,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 50461,
+        "name": "Leafy Trees Revived",
+        "status": "published",
+        "summary": "Update of old mod by Irmekroache.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50461/50461-1637599277-1462470839.png",
+        "uid": "429496780061",
+        "updatedAt": "2021-11-22T16:50:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-01-05T11:27:32Z",
+        "fileSize": 2400,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 45405,
+        "name": "Daedric Lord Armor OpenMW patch",
+        "status": "published",
+        "summary": "Compatibility patch for Daedric Lord Armor Morrowind Edition and OpenMW",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45405/45405-1515150967-1365662963.png",
+        "uid": "429496775005",
+        "updatedAt": "2018-01-05T12:24:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-11-12T12:11:37Z",
+        "fileSize": 1993,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 45309,
+        "name": "Armored Robes - Native Styles",
+        "status": "published",
+        "summary": "Compatibility patch for Armored Robes Compilation and HiRez Armors - Native Styles",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45309-0-1510488098.jpg",
+        "uid": "429496774909",
+        "updatedAt": "2017-11-12T12:11:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-08-17T18:31:14Z",
+        "fileSize": 162,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43795,
+        "name": "Various tweaks and fixes",
+        "status": "published",
+        "summary": "Small mods, tweaks and fixes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43795-4-1439835554.jpg",
+        "uid": "429496773395",
+        "updatedAt": "2025-05-09T13:31:05Z",
+        "fileIds": [
+          "1000042878",
+          "1000039579",
+          "1000052700",
+          "1000010610",
+          "1000039536",
+          "1000051482",
+          "1000005375",
+          "1000042563",
+          "1000051107",
+          "1000051306",
+          "1000042511",
+          "1000042683",
+          "1000051480",
+          "1000042857",
+          "1000042570",
+          "1000051505",
+          "1000041171",
+          "1000051516",
+          "1000051106",
+          "1000039580",
+          "1000042682",
+          "1000039531",
+          "1000042861",
+          "1000045720",
+          "1000009332",
+          "1000005373",
+          "1000006528",
+          "1000051673",
+          "1000051515",
+          "1000014047",
+          "1000009309",
+          "1000051489",
+          "1000039678",
+          "1000045719",
+          "1000051674",
+          "1000006516",
+          "1000039533",
+          "1000039781",
+          "1000052637",
+          "1000006436",
+          "1000005534",
+          "1000005515",
+          "1000043196",
+          "1000004200",
+          "1000004197",
+          "1000004199",
+          "1000004204",
+          "1000042856",
+          "1000006445",
+          "1000005371",
+          "1000028207",
+          "1000005543",
+          "1000004201",
+          "1000010611",
+          "1000039553",
+          "1000009376",
+          "1000028233",
+          "1000004198",
+          "1000004205",
+          "1000028206",
+          "1000039555",
+          "1000005394",
+          "1000006513",
+          "1000004202"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-27T19:04:07Z",
+        "fileSize": 1765,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 43768,
+        "name": "Hair Replacer for Nords and Bosmers Redone",
+        "status": "published",
+        "summary": "Pluginless hair replacer for Nords and Bosmers Redone by MacKom.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43768-5-1438022582.jpg",
+        "uid": "429496773368",
+        "updatedAt": "2016-08-20T09:44:04Z"
+      }
+    ],
+    "totalCount": 9
   }
 }

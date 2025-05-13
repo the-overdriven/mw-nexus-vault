@@ -1,79 +1,77 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 4
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2018-04-09T16:45:47Z",
-          "fileSize": 26,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 45567,
-          "name": "Service Requirements Lore",
-          "status": "published",
-          "summary": "Fixed version of Vanhikes wonderful System Requirements as well as additional Lore version of this mod.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45567/45567-1523288986-1949044914.jpeg",
-          "uid": "429496775167",
-          "updatedAt": "2018-04-09T16:45:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-03-13T21:29:31Z",
-          "fileSize": 1056,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45529,
-          "name": "Price Balance",
-          "status": "published",
-          "summary": "Smooths the price curve of expensive items, prevents gold exploits, makes selling items easier and balances economy.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45529/45529-1520976235-168539785.jpeg",
-          "uid": "429496775129",
-          "updatedAt": "2018-04-08T17:34:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-03-12T13:57:28Z",
-          "fileSize": 44,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 45526,
-          "name": "Nighttime Door Locks",
-          "status": "published",
-          "summary": "Fixed version of LDones beautiful Nighttime Door Locks mod that wasn't here on Nexus. Does what it says.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45526/45526-1520862204-1557924853.jpeg",
-          "uid": "429496775126",
-          "updatedAt": "2018-03-14T17:30:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-03-11T19:11:35Z",
-          "fileSize": 18,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 45525,
-          "name": "NPC Schedule",
-          "status": "published",
-          "summary": "Fixed version of Grumpy's amazing NPC Schedule mod that wasn't here on Nexus or mw.modhistory for some reason.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45525/45525-1520794377-1669915900.jpeg",
-          "uid": "429496775125",
-          "updatedAt": "2018-03-11T19:11:35Z"
-        }
-      ],
-      "totalCount": 4
+  "checkedAt": "2025-05-13T18:58:58.969Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
     },
-    "checkedAt": "2025-05-13T18:25:23.119Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-09T16:45:47Z",
+        "fileSize": 26,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 45567,
+        "name": "Service Requirements Lore",
+        "status": "published",
+        "summary": "Fixed version of Vanhikes wonderful System Requirements as well as additional Lore version of this mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45567/45567-1523288986-1949044914.jpeg",
+        "uid": "429496775167",
+        "updatedAt": "2018-04-09T16:45:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-03-13T21:29:31Z",
+        "fileSize": 1056,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45529,
+        "name": "Price Balance",
+        "status": "published",
+        "summary": "Smooths the price curve of expensive items, prevents gold exploits, makes selling items easier and balances economy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45529/45529-1520976235-168539785.jpeg",
+        "uid": "429496775129",
+        "updatedAt": "2018-04-08T17:34:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-03-12T13:57:28Z",
+        "fileSize": 44,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45526,
+        "name": "Nighttime Door Locks",
+        "status": "published",
+        "summary": "Fixed version of LDones beautiful Nighttime Door Locks mod that wasn't here on Nexus. Does what it says.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45526/45526-1520862204-1557924853.jpeg",
+        "uid": "429496775126",
+        "updatedAt": "2018-03-14T17:30:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-03-11T19:11:35Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45525,
+        "name": "NPC Schedule",
+        "status": "published",
+        "summary": "Fixed version of Grumpy's amazing NPC Schedule mod that wasn't here on Nexus or mw.modhistory for some reason.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45525/45525-1520794377-1669915900.jpeg",
+        "uid": "429496775125",
+        "updatedAt": "2018-03-11T19:11:35Z"
+      }
+    ],
+    "totalCount": 4
   }
 }

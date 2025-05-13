@@ -1,160 +1,158 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 9,
-          "2945": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2021-08-08T23:49:57Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 50113,
-          "name": "A Sinking Feeling",
-          "status": "published",
-          "summary": "No longer can you swim in heavy plate; now your armour, equipment, or carried items drag you down while swimming. Options exist for formulas based on equipped armour weight class,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50113/50113-1628463011-232744151.jpeg",
-          "uid": "429496779713",
-          "updatedAt": "2021-08-18T07:11:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-02-13T06:26:56Z",
-          "fileSize": 11,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 49297,
-          "name": "Morrowind Containers Animated - Edited for Quickloot",
-          "status": "published",
-          "summary": "Animates containers when you look at them, rather than when you activate them. Make sure you enable Quickloot mode in the MCM.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49297/49297-1613197418-281299419.jpeg",
-          "uid": "429496778897",
-          "updatedAt": "2021-08-28T23:15:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-09-07T18:46:50Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 48801,
-          "name": "No More Friendly Fire",
-          "status": "published",
-          "summary": "Stop friendly fire. Player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Option to stop combat from occurring",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48801/48801-1599502357-76915892.png",
-          "uid": "429496778401",
-          "updatedAt": "2020-10-25T23:35:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-08-01T02:17:22Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 48642,
-          "name": "Pluginless and Adjustable Lower First Person Sneak",
-          "status": "published",
-          "summary": "Lower first-person sneak, but without a plugin, and adjustable on the fly. Made with MWSE-Lua.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48642/48642-1596174830-389764728.png",
-          "uid": "429496778242",
-          "updatedAt": "2020-08-01T02:17:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-07-29T05:59:33Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 48632,
-          "name": "Door Randomizer",
-          "status": "published",
-          "summary": "Randomizes the destination of all cell-change doors. Configuration options such as: randomize chance; pick only cells of type: interior, exterior, both, or match original",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48632/48632-1596000302-1589133180.png",
-          "uid": "429496778232",
-          "updatedAt": "2022-05-11T20:39:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-07-26T05:00:34Z",
-          "fileSize": 19,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 48622,
-          "name": "More Attentive Guards",
-          "status": "published",
-          "summary": "Guards with some actual spatial awareness! An MWSE-Lua mod that replicates Inquisitive Guards by RubberMan and Protective Guards by Fliggerty. Guards that catch the player sneaking",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48622/48622-1595738958-1339668375.png",
-          "uid": "429496778222",
-          "updatedAt": "2021-09-12T00:11:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-07-10T05:21:46Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 48569,
-          "name": "Keyboard Layout Changer",
-          "status": "published",
-          "summary": "Allows the use of non-qwerty keyboard layouts in any in-game text input. Currently supported: Dvorak, Colemak, and Workman (US and UK variants).",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48569/48569-1594358193-493812599.png",
-          "uid": "429496778169",
-          "updatedAt": "2020-07-10T07:05:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-07-08T06:47:37Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 48557,
-          "name": "More Choppin' Axes",
-          "status": "published",
-          "summary": "Modifies axe damage values so that chop is used by default if \"Always Use Best Attack\" is on. Because axes should chop, right? Doesn't change anything that already chops by",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48557/48557-1594191109-1996898881.png",
-          "uid": "429496778157",
-          "updatedAt": "2020-07-08T06:47:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-06-25T02:41:32Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 48453,
-          "name": "Activate With A Click",
-          "status": "published",
-          "summary": "Activate/interact with a click of the mouse, because simply mapping activate to a mouse button doesn't work when activating objects that are made interactive by an MWSE Lua script.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48453/48453-1593051435-1008762264.png",
-          "uid": "429496778053",
-          "updatedAt": "2020-10-08T05:18:36Z"
-        }
-      ],
-      "totalCount": 9
+  "checkedAt": "2025-05-13T18:59:24.444Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 9,
+        "2945": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:27.976Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2021-08-08T23:49:57Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 50113,
+        "name": "A Sinking Feeling",
+        "status": "published",
+        "summary": "No longer can you swim in heavy plate; now your armour, equipment, or carried items drag you down while swimming. Options exist for formulas based on equipped armour weight class,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50113/50113-1628463011-232744151.jpeg",
+        "uid": "429496779713",
+        "updatedAt": "2021-08-18T07:11:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-02-13T06:26:56Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 49297,
+        "name": "Morrowind Containers Animated - Edited for Quickloot",
+        "status": "published",
+        "summary": "Animates containers when you look at them, rather than when you activate them. Make sure you enable Quickloot mode in the MCM.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49297/49297-1613197418-281299419.jpeg",
+        "uid": "429496778897",
+        "updatedAt": "2021-08-28T23:15:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-09-07T18:46:50Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 48801,
+        "name": "No More Friendly Fire",
+        "status": "published",
+        "summary": "Stop friendly fire. Player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Option to stop combat from occurring",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48801/48801-1599502357-76915892.png",
+        "uid": "429496778401",
+        "updatedAt": "2020-10-25T23:35:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-01T02:17:22Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 48642,
+        "name": "Pluginless and Adjustable Lower First Person Sneak",
+        "status": "published",
+        "summary": "Lower first-person sneak, but without a plugin, and adjustable on the fly. Made with MWSE-Lua.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48642/48642-1596174830-389764728.png",
+        "uid": "429496778242",
+        "updatedAt": "2020-08-01T02:17:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-07-29T05:59:33Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 48632,
+        "name": "Door Randomizer",
+        "status": "published",
+        "summary": "Randomizes the destination of all cell-change doors. Configuration options such as: randomize chance; pick only cells of type: interior, exterior, both, or match original",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48632/48632-1596000302-1589133180.png",
+        "uid": "429496778232",
+        "updatedAt": "2022-05-11T20:39:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-07-26T05:00:34Z",
+        "fileSize": 19,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 48622,
+        "name": "More Attentive Guards",
+        "status": "published",
+        "summary": "Guards with some actual spatial awareness! An MWSE-Lua mod that replicates Inquisitive Guards by RubberMan and Protective Guards by Fliggerty. Guards that catch the player sneaking",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48622/48622-1595738958-1339668375.png",
+        "uid": "429496778222",
+        "updatedAt": "2021-09-12T00:11:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-07-10T05:21:46Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 48569,
+        "name": "Keyboard Layout Changer",
+        "status": "published",
+        "summary": "Allows the use of non-qwerty keyboard layouts in any in-game text input. Currently supported: Dvorak, Colemak, and Workman (US and UK variants).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48569/48569-1594358193-493812599.png",
+        "uid": "429496778169",
+        "updatedAt": "2020-07-10T07:05:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-07-08T06:47:37Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 48557,
+        "name": "More Choppin' Axes",
+        "status": "published",
+        "summary": "Modifies axe damage values so that chop is used by default if \"Always Use Best Attack\" is on. Because axes should chop, right? Doesn't change anything that already chops by",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48557/48557-1594191109-1996898881.png",
+        "uid": "429496778157",
+        "updatedAt": "2020-07-08T06:47:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-06-25T02:41:32Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 48453,
+        "name": "Activate With A Click",
+        "status": "published",
+        "summary": "Activate/interact with a click of the mouse, because simply mapping activate to a mouse button doesn't work when activating objects that are made interactive by an MWSE Lua script.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48453/48453-1593051435-1008762264.png",
+        "uid": "429496778053",
+        "updatedAt": "2020-10-08T05:18:36Z"
+      }
+    ],
+    "totalCount": 9
   }
 }

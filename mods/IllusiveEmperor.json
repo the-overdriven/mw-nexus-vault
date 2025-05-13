@@ -1,31 +1,29 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-26T06:35:41Z",
-          "fileSize": 16098,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 51345,
-          "name": "Scissors and Thimbles Complete",
-          "status": "published",
-          "summary": "A complete collection of the Scissors & Thimbles, Scissors & Thimbles II,  and Scissors & Thimbles III clothing mods by Keazen.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51345/51345-1653544728-726098143.jpeg",
-          "uid": "429496780945",
-          "updatedAt": "2022-05-26T06:35:41Z"
-        }
-      ],
-      "totalCount": 1
+  "checkedAt": "2025-05-13T18:59:08.817Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:25.678Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-26T06:35:41Z",
+        "fileSize": 16098,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 51345,
+        "name": "Scissors and Thimbles Complete",
+        "status": "published",
+        "summary": "A complete collection of the Scissors & Thimbles, Scissors & Thimbles II,  and Scissors & Thimbles III clothing mods by Keazen.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51345/51345-1653544728-726098143.jpeg",
+        "uid": "429496780945",
+        "updatedAt": "2022-05-26T06:35:41Z"
+      }
+    ],
+    "totalCount": 1
   }
 }

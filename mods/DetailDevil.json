@@ -1,527 +1,714 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 32
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-05-04T15:25:43Z",
-          "fileSize": 3192,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 56480,
-          "name": "Devilish Needs (OpenMW 0.49)",
-          "status": "published",
-          "summary": "Eat, drink, sleep, and stay dry or suffer the consequences. This is a one-mod survival solution for the OpenMW engine featuring: Temperature regions, lua icons, detailed cooking",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56480/56480-1746324261-1413175168.jpeg",
-          "uid": "429496786080",
-          "updatedAt": "2025-05-10T15:56:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-10T02:00:19Z",
-          "fileSize": 722,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 56157,
-          "name": "Devilish Wabbajack (OpenMW 0.49)",
-          "status": "published",
-          "summary": "The Wabbajack and its well-known random magic effects is now available in Morrowind and awaits you in Uncle Sweetshare's Workshop in Solstheim.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56157/56157-1741571269-1706193942.png",
-          "uid": "429496785757",
-          "updatedAt": "2025-03-23T20:27:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-26T19:10:00Z",
-          "fileSize": 384,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 55869,
-          "name": "Devilish Skooma Overhaul (OpenMW 0.49)",
-          "status": "published",
-          "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects followed by crippling skooma addiction.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55869/55869-1737917674-22943108.png",
-          "uid": "429496785469",
-          "updatedAt": "2025-01-31T23:28:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-12T04:50:09Z",
-          "fileSize": 239,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 55769,
-          "name": "Devilish Magic Mushrooms (OpenMW 0.49)",
-          "status": "published",
-          "summary": "Eat specific mushrooms (Hypha Facia) and experience a psychedelic trip with shader effects.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55769/55769-1736657092-1697501158.png",
-          "uid": "429496785369",
-          "updatedAt": "2025-01-12T18:09:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-02T01:32:28Z",
-          "fileSize": 61569,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 55709,
-          "name": "A Blasphemer's Blizzard (OpenMW)",
-          "status": "published",
-          "summary": "When you cross paths with Gorbash the Melodious, an Orc bard tormenting Old Ebonheart with his relentless bagpipe tunes, a strange snowfall begins to blanket the town. The locals",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55709/55709-1735779443-1526133407.png",
-          "uid": "429496785309",
-          "updatedAt": "2025-03-02T19:48:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-26T23:57:34Z",
-          "fileSize": 238,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 55660,
-          "name": "The Sitting Mod OpenMW lua hotkeys",
-          "status": "published",
-          "summary": "Allows the player to trigger the animations using the keys y, x, c, v, and b without the amulet.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55660/55660-1735255731-190089970.png",
-          "uid": "429496785260",
-          "updatedAt": "2024-12-27T00:05:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-12-01T18:17:31Z",
-          "fileSize": 6409,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 55516,
-          "name": "Devilish Guar Riding (OpenMW)",
-          "status": "published",
-          "summary": "Travel through Vvardenfell on a guar. You can now buy a guar for your travels from a guar merchant in Ald'Ruhn.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55516/55516-1733075385-1420845825.png",
-          "uid": "429496785116",
-          "updatedAt": "2024-12-01T18:17:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-11-23T22:22:20Z",
-          "fileSize": 7851,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 55479,
-          "name": "Devilish Horse Riding (OpenMW)",
-          "status": "published",
-          "summary": "Travel through Skyrim on a horse. You can now buy a horse for your travels from a horse merchant in Karthwasten.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55479/55479-1732400071-918148949.png",
-          "uid": "429496785079",
-          "updatedAt": "2025-05-10T22:10:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-11-10T21:27:08Z",
-          "fileSize": 73052,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 55445,
-          "name": "Under Masser's Gaze",
-          "status": "published",
-          "summary": "The disappearance of Mages Guild members is shrouded in mystery. Can you uncover their fate? Follow the clues, which may lead you beyond Nirn itself.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55445/55445-1731273229-676103739.png",
-          "uid": "429496785045",
-          "updatedAt": "2025-01-25T15:30:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-07-29T21:20:25Z",
-          "fileSize": 220,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 55038,
-          "name": "Devilish Alcohol Overhaul (for OpenMW)",
-          "status": "published",
-          "summary": "Experience the visual and physical effects of alcohol and battle the withdrawal symptoms of alcohol addiction. This is an extended and modified version of Merlord's \"Immersive",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55038/55038-1722287291-1735755228.png",
-          "uid": "429496784638",
-          "updatedAt": "2025-01-12T05:00:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-07-20T01:01:14Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54995,
-          "name": "Devilish Sky Render Riding",
-          "status": "published",
-          "summary": "Experience the thrill of soaring through the skies on the backs of giant insects callled sky renders from the mod Tamriel Rebuilt. Engage in combat from above, utilizing both",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54995/54995-1721434460-1132987366.png",
-          "uid": "429496784595",
-          "updatedAt": "2024-07-25T09:45:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-07-01T22:28:42Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 54903,
-          "name": "Devilish Summon Furniture Spell (OpenMW 0.49)",
-          "status": "published",
-          "summary": "Have you ever wandered into a dark cold cave and wished for the comfort of a warm bed, a comfortable chair and perhaps a large desk? Summon them within the blink of an eye by",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54903/54903-1719873813-2066246131.png",
-          "uid": "429496784503",
-          "updatedAt": "2025-01-26T05:47:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-06-30T05:32:18Z",
-          "fileSize": 3082,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 54898,
-          "name": "Devilish Shrink Spell (OpenMW 0.49)",
-          "status": "published",
-          "summary": "Experience the vast world of Morrowind from below, navigating through tight spaces, hiding from danger with ease, and discovering hidden secrets that were previously out of reach.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54898/54898-1719724463-382504084.png",
-          "uid": "429496784498",
-          "updatedAt": "2025-01-04T19:25:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-06-05T15:56:47Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 54798,
-          "name": "Devilish Sleep Spell (OpenMW 0.49)",
-          "status": "published",
-          "summary": "A new spell has been created that immediately puts opponents to sleep. A spell that is becoming quickly popular among thieves and mischief-makers. Get your hands on one now at",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54798/54798-1717602392-33099400.png",
-          "uid": "429496784398",
-          "updatedAt": "2024-07-27T23:20:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-06-02T01:56:23Z",
-          "fileSize": 1695,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54776,
-          "name": "Devilish Carry Weight Overhaul (OpenMW 0.49)",
-          "status": "published",
-          "summary": "You can only carry what you have equipped, what you can stuff in your backpack (100 WU) and fit in your pockets (15 WU). You can buy the backpack from a Khajiit in Arielle's",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54776/54776-1717292394-332273949.png",
-          "uid": "429496784376",
-          "updatedAt": "2025-03-30T19:00:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-13T15:50:32Z",
-          "fileSize": 332,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 54648,
-          "name": "Devilish Werebeast Overhaul (OpenMW 0.49)",
-          "status": "published",
-          "summary": "Please watch the video showcase! A complete overhaul of the werewolf / wereboar mechanics featuring: (Full Moon transformations), feeding, NPC pacification and reputation changes",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54648/54648-1715615295-1101589118.jpeg",
-          "uid": "429496784248",
-          "updatedAt": "2025-01-05T02:14:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-11T14:59:27Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54438,
-          "name": "Devilish Bribery Overhaul",
-          "status": "published",
-          "summary": "Bribing guards will lower their alarm value (how much they care about crime such as theft, lock picking, assault and murder). If you bribe them with about 2000 drakes, they'll even",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54438/54438-1712847360-1000456975.jpeg",
-          "uid": "429496784038",
-          "updatedAt": "2024-04-11T15:41:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-27T16:58:34Z",
-          "fileSize": 30,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53548,
-          "name": "Vality's Bitter Coast Addon Compatibility Version",
-          "status": "published",
-          "summary": "Vality's Bitter Coast Addon adds hundreds of trees to the Bitter Coast region. Of course, this creates compatibility issues with other mods and I'd like to do something about this.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53548/53548-1695833507-898573899.png",
-          "uid": "429496783148",
-          "updatedAt": "2023-09-29T21:05:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-24T01:51:10Z",
-          "fileSize": 682,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 53535,
-          "name": "Devilish Sheathe Your Weapon",
-          "status": "published",
-          "summary": "Npcs will now comment on you walking up to them with a drawn weapon. This mod will work for all Npcs of all races and all genders. It can't cause compatibility issues. This is my",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53535/53535-1695519700-514992805.jpeg",
-          "uid": "429496783135",
-          "updatedAt": "2023-09-24T05:38:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-06T02:35:50Z",
-          "fileSize": 533342,
-          "modCategory": {
-            "categoryId": 29,
-            "name": "Overhauls"
-          },
-          "modId": 53473,
-          "name": "Devilish Rocky Red Mountain",
-          "status": "published",
-          "summary": "Malbogatra's \"Rocky Red Mountain\" made compatible with important mods such as BCOM, Memento Mori, Red Mountain Reborn ...",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53473/53473-1693964381-1684138319.png",
-          "uid": "429496783073",
-          "updatedAt": "2025-02-18T18:21:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-09-05T02:28:52Z",
-          "fileSize": 224060,
-          "modCategory": {
-            "categoryId": 29,
-            "name": "Overhauls"
-          },
-          "modId": 53465,
-          "name": "Sadrith Mora BCOM Plus Module",
-          "status": "published",
-          "summary": "This is not BCOM but a BCOM extensions module. It includes a BAIN installer where you can choose from 9 mods (or even take them all) that have been made both BCOM compatible and",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53465/53465-1693886968-2137300983.png",
-          "uid": "429496783065",
-          "updatedAt": "2025-02-18T20:59:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-28T16:59:19Z",
-          "fileSize": 105359,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 53423,
-          "name": "Devilish Spines Of Madness",
-          "status": "published",
-          "summary": "Malbogatra's Spines Of Madness edited to be compatible with important mods of the Sheogorad region such as BCOM, Rise of House Telvanni, Dagon Fel Lighthouse, Ald Redaynia mods,",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53423/53423-1693241037-671550442.png",
-          "uid": "429496783023",
-          "updatedAt": "2025-02-18T18:41:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-08-27T02:04:18Z",
-          "fileSize": 51892,
-          "modCategory": {
-            "categoryId": 29,
-            "name": "Overhauls"
-          },
-          "modId": 53420,
-          "name": "Devilish Rocky West Gash",
-          "status": "published",
-          "summary": "Malbogatra's Rocky West Gash compatible with BCOM, Caldera Priory, Caldera Mine Expanded, Justice for Khartag ...",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53420/53420-1693101459-146938389.png",
-          "uid": "429496783020",
-          "updatedAt": "2025-03-30T11:28:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-30T10:48:23Z",
-          "fileSize": 103252,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 53307,
-          "name": "Of Melodies and Moonlight - A Sadrith Mora Artist",
-          "status": "published",
-          "summary": "Surrounded by rumors, a peculiar painter roams the night. Will you help him and become his apprentice? To start the quest, talk to Veradul Dervayn, the artist, who for some odd",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53307/53307-1693655959-856008895.png",
-          "uid": "429496782907",
-          "updatedAt": "2025-02-18T20:46:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-25T19:24:34Z",
-          "fileSize": 69844,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53265,
-          "name": "Hasphats HQ Telvanni Textures",
-          "status": "published",
-          "summary": "These are the textures and normal maps extracted from the PBR mod. They are simply the best and most underappreciated Telvanni textures out there! Give HasphatAntobolis some",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53265/53265-1690311510-2040387805.png",
-          "uid": "429496782865",
-          "updatedAt": "2023-09-14T02:29:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-19T13:36:51Z",
-          "fileSize": 1049,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 53238,
-          "name": "Of Murk and Mussels - A Sadrith Mora Trader",
-          "status": "published",
-          "summary": "This mod adds an unique and detailed salvage shop to Sadrith Mora with a quest and lots of unique clothing and armor assets. BCOM compatible.  Now you have at least three reasons",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53238/53238-1689790382-752535557.png",
-          "uid": "429496782838",
-          "updatedAt": "2023-09-03T18:51:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-08T19:25:25Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 53037,
-          "name": "Bell Towers of Vvardenfell Directional Sound for OpenMW",
-          "status": "published",
-          "summary": "The sound of the Bell Towers of Morrowind is now coming from the bells. In the original mod the sound comes from the player. It makes a huge difference, as you can hear in the",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53037/53037-1686251021-608633832.png",
-          "uid": "429496782637",
-          "updatedAt": "2023-06-08T19:25:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-28T21:32:44Z",
-          "fileSize": 33,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52969,
-          "name": "Devilish Vampire Overhaul",
-          "status": "published",
-          "summary": "1: Vampire thirst stages (either they get stronger or weaker)2: Blood drinking removes aforementioned negative effects (and regenerates health) (+ filling of blood flasks)3: NPCs",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52969/52969-1685307432-321923845.jpeg",
-          "uid": "429496782569",
-          "updatedAt": "2025-01-28T20:28:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-18T20:25:03Z",
-          "fileSize": 2473,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52906,
-          "name": "Aesthesia Grass Grazeland Only",
-          "status": "published",
-          "summary": "The best GL region grass in a single download! Install like a grass mod. Everything required for Grazeland grass is contained in this mod. This is Aesthesia's grass NOT Aesthesia",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52906/52906-1684440261-782916469.png",
-          "uid": "429496782506",
-          "updatedAt": "2023-05-18T22:51:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-03T12:58:34Z",
-          "fileSize": 8530,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 52777,
-          "name": "Of Musk and Mer - A Sadrith Mora Tale",
-          "status": "published",
-          "summary": "A new shop has opened in Sadrith Mora. People from all over Vvardenfell travel here to purchase the famous Telvanni bug musk. BCOM compatible. Not only will you get an insight into",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52777/52777-1682990602-16858699.png",
-          "uid": "429496782377",
-          "updatedAt": "2023-05-03T12:58:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-04T18:27:56Z",
-          "fileSize": 37212,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52270,
-          "name": "Improved Telvanni Council House in Sadrith Mora",
-          "status": "published",
-          "summary": "Your Sadrith Mora looks great except for the Telvanni Council House? This mod is for you! This mod overhauls the exterior of the Council House with high-poly and upscaled high-res",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52270/52270-1681913444-743127854.png",
-          "uid": "429496781870",
-          "updatedAt": "2023-04-24T12:10:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-10-31T07:33:18Z",
-          "fileSize": 127,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 51928,
-          "name": "Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)",
-          "status": "published",
-          "summary": "Morrowind is full of ships, boats and skiffs but who built them and where? Our mod seeks to answer these questions once and for all by adding shipyards to towns by the sea. The mod",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51928/51928-1683277772-868535486.png",
-          "uid": "429496781528",
-          "updatedAt": "2023-06-25T15:50:17Z"
-        }
-      ],
-      "totalCount": 32
+  "checkedAt": "2025-05-13T18:58:50.393Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 32
+      }
     },
-    "checkedAt": "2025-05-13T18:25:22.446Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-04T15:25:43Z",
+        "fileSize": 3192,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56480,
+        "name": "Devilish Needs (OpenMW 0.49)",
+        "status": "published",
+        "summary": "Eat, drink, sleep, and stay dry or suffer the consequences. This is a one-mod survival solution for the OpenMW engine featuring: Temperature regions, lua icons, detailed cooking",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56480/56480-1746324261-1413175168.jpeg",
+        "uid": "429496786080",
+        "updatedAt": "2025-05-10T15:56:32Z",
+        "fileIds": [
+          "1000052502",
+          "1000052739",
+          "1000052446"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-10T02:00:19Z",
+        "fileSize": 722,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56157,
+        "name": "Devilish Wabbajack (OpenMW 0.49)",
+        "status": "published",
+        "summary": "The Wabbajack and its well-known random magic effects is now available in Morrowind and awaits you in Uncle Sweetshare's Workshop in Solstheim.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56157/56157-1741571269-1706193942.png",
+        "uid": "429496785757",
+        "updatedAt": "2025-03-23T20:27:37Z",
+        "fileIds": [
+          "1000051465",
+          "1000051072"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-26T19:10:00Z",
+        "fileSize": 384,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 55869,
+        "name": "Devilish Skooma Overhaul (OpenMW 0.49)",
+        "status": "published",
+        "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects followed by crippling skooma addiction.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55869/55869-1737917674-22943108.png",
+        "uid": "429496785469",
+        "updatedAt": "2025-01-31T23:28:16Z",
+        "fileIds": [
+          "1000049978"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-12T04:50:09Z",
+        "fileSize": 239,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 55769,
+        "name": "Devilish Magic Mushrooms (OpenMW 0.49)",
+        "status": "published",
+        "summary": "Eat specific mushrooms (Hypha Facia) and experience a psychedelic trip with shader effects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55769/55769-1736657092-1697501158.png",
+        "uid": "429496785369",
+        "updatedAt": "2025-01-12T18:09:20Z",
+        "fileIds": [
+          "1000049521"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-02T01:32:28Z",
+        "fileSize": 61569,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55709,
+        "name": "A Blasphemer's Blizzard (OpenMW)",
+        "status": "published",
+        "summary": "When you cross paths with Gorbash the Melodious, an Orc bard tormenting Old Ebonheart with his relentless bagpipe tunes, a strange snowfall begins to blanket the town. The locals",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55709/55709-1735779443-1526133407.png",
+        "uid": "429496785309",
+        "updatedAt": "2025-03-02T19:48:03Z",
+        "fileIds": [
+          "1000050875"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-26T23:57:34Z",
+        "fileSize": 238,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55660,
+        "name": "The Sitting Mod OpenMW lua hotkeys",
+        "status": "published",
+        "summary": "Allows the player to trigger the animations using the keys y, x, c, v, and b without the amulet.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55660/55660-1735255731-190089970.png",
+        "uid": "429496785260",
+        "updatedAt": "2024-12-27T00:05:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-01T18:17:31Z",
+        "fileSize": 6409,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55516,
+        "name": "Devilish Guar Riding (OpenMW)",
+        "status": "published",
+        "summary": "Travel through Vvardenfell on a guar. You can now buy a guar for your travels from a guar merchant in Ald'Ruhn.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55516/55516-1733075385-1420845825.png",
+        "uid": "429496785116",
+        "updatedAt": "2024-12-01T18:17:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-23T22:22:20Z",
+        "fileSize": 7851,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55479,
+        "name": "Devilish Horse Riding (OpenMW)",
+        "status": "published",
+        "summary": "Travel through Skyrim on a horse. You can now buy a horse for your travels from a horse merchant in Karthwasten.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55479/55479-1732400071-918148949.png",
+        "uid": "429496785079",
+        "updatedAt": "2025-05-10T22:10:03Z",
+        "fileIds": [
+          "1000052750",
+          "1000048603"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-10T21:27:08Z",
+        "fileSize": 73052,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55445,
+        "name": "Under Masser's Gaze",
+        "status": "published",
+        "summary": "The disappearance of Mages Guild members is shrouded in mystery. Can you uncover their fate? Follow the clues, which may lead you beyond Nirn itself.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55445/55445-1731273229-676103739.png",
+        "uid": "429496785045",
+        "updatedAt": "2025-01-25T15:30:07Z",
+        "fileIds": [
+          "1000049800",
+          "1000048155",
+          "1000048203",
+          "1000048238",
+          "1000048257",
+          "1000048275",
+          "1000048325"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-29T21:20:25Z",
+        "fileSize": 220,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55038,
+        "name": "Devilish Alcohol Overhaul (for OpenMW)",
+        "status": "published",
+        "summary": "Experience the visual and physical effects of alcohol and battle the withdrawal symptoms of alcohol addiction. This is an extended and modified version of Merlord's \"Immersive",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55038/55038-1722287291-1735755228.png",
+        "uid": "429496784638",
+        "updatedAt": "2025-01-12T05:00:19Z",
+        "fileIds": [
+          "1000049474",
+          "1000046522"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-20T01:01:14Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54995,
+        "name": "Devilish Sky Render Riding",
+        "status": "published",
+        "summary": "Experience the thrill of soaring through the skies on the backs of giant insects callled sky renders from the mod Tamriel Rebuilt. Engage in combat from above, utilizing both",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54995/54995-1721434460-1132987366.png",
+        "uid": "429496784595",
+        "updatedAt": "2024-07-25T09:45:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-01T22:28:42Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 54903,
+        "name": "Devilish Summon Furniture Spell (OpenMW 0.49)",
+        "status": "published",
+        "summary": "Have you ever wandered into a dark cold cave and wished for the comfort of a warm bed, a comfortable chair and perhaps a large desk? Summon them within the blink of an eye by",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54903/54903-1719873813-2066246131.png",
+        "uid": "429496784503",
+        "updatedAt": "2025-01-26T05:47:15Z",
+        "fileIds": [
+          "1000049816",
+          "1000046035"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-06-30T05:32:18Z",
+        "fileSize": 3082,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 54898,
+        "name": "Devilish Shrink Spell (OpenMW 0.49)",
+        "status": "published",
+        "summary": "Experience the vast world of Morrowind from below, navigating through tight spaces, hiding from danger with ease, and discovering hidden secrets that were previously out of reach.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54898/54898-1719724463-382504084.png",
+        "uid": "429496784498",
+        "updatedAt": "2025-01-04T19:25:14Z",
+        "fileIds": [
+          "1000049306",
+          "1000046812",
+          "1000045988",
+          "1000046025",
+          "1000046027",
+          "1000046028",
+          "1000046029",
+          "1000046811",
+          "1000047330",
+          "1000046068",
+          "1000046070",
+          "1000046069",
+          "1000046072"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-06-05T15:56:47Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 54798,
+        "name": "Devilish Sleep Spell (OpenMW 0.49)",
+        "status": "published",
+        "summary": "A new spell has been created that immediately puts opponents to sleep. A spell that is becoming quickly popular among thieves and mischief-makers. Get your hands on one now at",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54798/54798-1717602392-33099400.png",
+        "uid": "429496784398",
+        "updatedAt": "2024-07-27T23:20:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-06-02T01:56:23Z",
+        "fileSize": 1695,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54776,
+        "name": "Devilish Carry Weight Overhaul (OpenMW 0.49)",
+        "status": "published",
+        "summary": "You can only carry what you have equipped, what you can stuff in your backpack (100 WU) and fit in your pockets (15 WU). You can buy the backpack from a Khajiit in Arielle's",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54776/54776-1717292394-332273949.png",
+        "uid": "429496784376",
+        "updatedAt": "2025-03-30T19:00:20Z",
+        "fileIds": [
+          "1000050174",
+          "1000051596",
+          "1000045404",
+          "1000045417",
+          "1000048793",
+          "1000046559",
+          "1000045337",
+          "1000045406",
+          "1000046473",
+          "1000046475",
+          "1000045553",
+          "1000051467"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-13T15:50:32Z",
+        "fileSize": 332,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54648,
+        "name": "Devilish Werebeast Overhaul (OpenMW 0.49)",
+        "status": "published",
+        "summary": "Please watch the video showcase! A complete overhaul of the werewolf / wereboar mechanics featuring: (Full Moon transformations), feeding, NPC pacification and reputation changes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54648/54648-1715615295-1101589118.jpeg",
+        "uid": "429496784248",
+        "updatedAt": "2025-01-05T02:14:23Z",
+        "fileIds": [
+          "1000049313",
+          "1000049312",
+          "1000044746"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-11T14:59:27Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54438,
+        "name": "Devilish Bribery Overhaul",
+        "status": "published",
+        "summary": "Bribing guards will lower their alarm value (how much they care about crime such as theft, lock picking, assault and murder). If you bribe them with about 2000 drakes, they'll even",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54438/54438-1712847360-1000456975.jpeg",
+        "uid": "429496784038",
+        "updatedAt": "2024-04-11T15:41:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-27T16:58:34Z",
+        "fileSize": 30,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53548,
+        "name": "Vality's Bitter Coast Addon Compatibility Version",
+        "status": "published",
+        "summary": "Vality's Bitter Coast Addon adds hundreds of trees to the Bitter Coast region. Of course, this creates compatibility issues with other mods and I'd like to do something about this.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53548/53548-1695833507-898573899.png",
+        "uid": "429496783148",
+        "updatedAt": "2023-09-29T21:05:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-24T01:51:10Z",
+        "fileSize": 682,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 53535,
+        "name": "Devilish Sheathe Your Weapon",
+        "status": "published",
+        "summary": "Npcs will now comment on you walking up to them with a drawn weapon. This mod will work for all Npcs of all races and all genders. It can't cause compatibility issues. This is my",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53535/53535-1695519700-514992805.jpeg",
+        "uid": "429496783135",
+        "updatedAt": "2023-09-24T05:38:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-06T02:35:50Z",
+        "fileSize": 533342,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 53473,
+        "name": "Devilish Rocky Red Mountain",
+        "status": "published",
+        "summary": "Malbogatra's \"Rocky Red Mountain\" made compatible with important mods such as BCOM, Memento Mori, Red Mountain Reborn ...",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53473/53473-1693964381-1684138319.png",
+        "uid": "429496783073",
+        "updatedAt": "2025-02-18T18:21:38Z",
+        "fileIds": [
+          "1000050495",
+          "1000050494",
+          "1000044137",
+          "1000040064",
+          "1000040070",
+          "1000040072",
+          "1000040073",
+          "1000040080",
+          "1000040081",
+          "1000040083",
+          "1000040086",
+          "1000040181",
+          "1000040098",
+          "1000044751",
+          "1000045268",
+          "1000046881",
+          "1000048511",
+          "1000048513",
+          "1000040118",
+          "1000050379",
+          "1000040120",
+          "1000046883",
+          "1000048512",
+          "1000050380",
+          "1000045292"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-05T02:28:52Z",
+        "fileSize": 224060,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 53465,
+        "name": "Sadrith Mora BCOM Plus Module",
+        "status": "published",
+        "summary": "This is not BCOM but a BCOM extensions module. It includes a BAIN installer where you can choose from 9 mods (or even take them all) that have been made both BCOM compatible and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53465/53465-1693886968-2137300983.png",
+        "uid": "429496783065",
+        "updatedAt": "2025-02-18T20:59:40Z",
+        "fileIds": [
+          "1000050511",
+          "1000050512",
+          "1000046617",
+          "1000041558"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-28T16:59:19Z",
+        "fileSize": 105359,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 53423,
+        "name": "Devilish Spines Of Madness",
+        "status": "published",
+        "summary": "Malbogatra's Spines Of Madness edited to be compatible with important mods of the Sheogorad region such as BCOM, Rise of House Telvanni, Dagon Fel Lighthouse, Ald Redaynia mods,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53423/53423-1693241037-671550442.png",
+        "uid": "429496783023",
+        "updatedAt": "2025-02-18T18:41:15Z",
+        "fileIds": [
+          "1000050497",
+          "1000039944",
+          "1000040059",
+          "1000044766",
+          "1000044785"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-08-27T02:04:18Z",
+        "fileSize": 51892,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 53420,
+        "name": "Devilish Rocky West Gash",
+        "status": "published",
+        "summary": "Malbogatra's Rocky West Gash compatible with BCOM, Caldera Priory, Caldera Mine Expanded, Justice for Khartag ...",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53420/53420-1693101459-146938389.png",
+        "uid": "429496783020",
+        "updatedAt": "2025-03-30T11:28:39Z",
+        "fileIds": [
+          "1000051591",
+          "1000051590",
+          "1000045066",
+          "1000045598",
+          "1000050471",
+          "1000045509",
+          "1000044761",
+          "1000045276",
+          "1000045277",
+          "1000045280",
+          "1000040211",
+          "1000040273",
+          "1000045067",
+          "1000045597",
+          "1000050470",
+          "1000045510",
+          "1000045274",
+          "1000045275",
+          "1000044764",
+          "1000044765",
+          "1000045278",
+          "1000045279",
+          "1000044762"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-30T10:48:23Z",
+        "fileSize": 103252,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53307,
+        "name": "Of Melodies and Moonlight - A Sadrith Mora Artist",
+        "status": "published",
+        "summary": "Surrounded by rumors, a peculiar painter roams the night. Will you help him and become his apprentice? To start the quest, talk to Veradul Dervayn, the artist, who for some odd",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53307/53307-1693655959-856008895.png",
+        "uid": "429496782907",
+        "updatedAt": "2025-02-18T20:46:13Z",
+        "fileIds": [
+          "1000050509",
+          "1000046572",
+          "1000040012",
+          "1000040040",
+          "1000041973",
+          "1000041976",
+          "1000042095",
+          "1000042111",
+          "1000043884",
+          "1000043886",
+          "1000045984",
+          "1000040010",
+          "1000039454",
+          "1000039506",
+          "1000039511",
+          "1000039991",
+          "1000039880",
+          "1000041551",
+          "1000041596"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-25T19:24:34Z",
+        "fileSize": 69844,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53265,
+        "name": "Hasphats HQ Telvanni Textures",
+        "status": "published",
+        "summary": "These are the textures and normal maps extracted from the PBR mod. They are simply the best and most underappreciated Telvanni textures out there! Give HasphatAntobolis some",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53265/53265-1690311510-2040387805.png",
+        "uid": "429496782865",
+        "updatedAt": "2023-09-14T02:29:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-19T13:36:51Z",
+        "fileSize": 1049,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 53238,
+        "name": "Of Murk and Mussels - A Sadrith Mora Trader",
+        "status": "published",
+        "summary": "This mod adds an unique and detailed salvage shop to Sadrith Mora with a quest and lots of unique clothing and armor assets. BCOM compatible.  Now you have at least three reasons",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53238/53238-1689790382-752535557.png",
+        "uid": "429496782838",
+        "updatedAt": "2023-09-03T18:51:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-08T19:25:25Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 53037,
+        "name": "Bell Towers of Vvardenfell Directional Sound for OpenMW",
+        "status": "published",
+        "summary": "The sound of the Bell Towers of Morrowind is now coming from the bells. In the original mod the sound comes from the player. It makes a huge difference, as you can hear in the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53037/53037-1686251021-608633832.png",
+        "uid": "429496782637",
+        "updatedAt": "2023-06-08T19:25:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-28T21:32:44Z",
+        "fileSize": 33,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52969,
+        "name": "Devilish Vampire Overhaul",
+        "status": "published",
+        "summary": "1: Vampire thirst stages (either they get stronger or weaker)2: Blood drinking removes aforementioned negative effects (and regenerates health) (+ filling of blood flasks)3: NPCs",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52969/52969-1685307432-321923845.jpeg",
+        "uid": "429496782569",
+        "updatedAt": "2025-01-28T20:28:01Z",
+        "fileIds": [
+          "1000047928",
+          "1000047332",
+          "1000047333",
+          "1000049878",
+          "1000038179",
+          "1000038223",
+          "1000038265",
+          "1000038269",
+          "1000042012",
+          "1000042021",
+          "1000042022",
+          "1000039726",
+          "1000042581",
+          "1000041575",
+          "1000041592",
+          "1000042112",
+          "1000045270",
+          "1000042011",
+          "1000042020",
+          "1000042023",
+          "1000042582",
+          "1000041569",
+          "1000041591",
+          "1000042113",
+          "1000045271",
+          "1000038399",
+          "1000038849",
+          "1000038853"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-18T20:25:03Z",
+        "fileSize": 2473,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52906,
+        "name": "Aesthesia Grass Grazeland Only",
+        "status": "published",
+        "summary": "The best GL region grass in a single download! Install like a grass mod. Everything required for Grazeland grass is contained in this mod. This is Aesthesia's grass NOT Aesthesia",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52906/52906-1684440261-782916469.png",
+        "uid": "429496782506",
+        "updatedAt": "2023-05-18T22:51:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-03T12:58:34Z",
+        "fileSize": 8530,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 52777,
+        "name": "Of Musk and Mer - A Sadrith Mora Tale",
+        "status": "published",
+        "summary": "A new shop has opened in Sadrith Mora. People from all over Vvardenfell travel here to purchase the famous Telvanni bug musk. BCOM compatible. Not only will you get an insight into",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52777/52777-1682990602-16858699.png",
+        "uid": "429496782377",
+        "updatedAt": "2023-05-03T12:58:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-04T18:27:56Z",
+        "fileSize": 37212,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52270,
+        "name": "Improved Telvanni Council House in Sadrith Mora",
+        "status": "published",
+        "summary": "Your Sadrith Mora looks great except for the Telvanni Council House? This mod is for you! This mod overhauls the exterior of the Council House with high-poly and upscaled high-res",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52270/52270-1681913444-743127854.png",
+        "uid": "429496781870",
+        "updatedAt": "2023-04-24T12:10:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-10-31T07:33:18Z",
+        "fileSize": 127,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 51928,
+        "name": "Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)",
+        "status": "published",
+        "summary": "Morrowind is full of ships, boats and skiffs but who built them and where? Our mod seeks to answer these questions once and for all by adding shipyards to towns by the sea. The mod",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51928/51928-1683277772-868535486.png",
+        "uid": "429496781528",
+        "updatedAt": "2023-06-25T15:50:17Z"
+      }
+    ],
+    "totalCount": 32
   }
 }

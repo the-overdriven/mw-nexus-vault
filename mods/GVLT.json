@@ -1,145 +1,143 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 8,
-          "130": 3,
-          "1704": 3
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-09-21T14:30:38Z",
-          "fileSize": 5598,
-          "modCategory": {
-            "categoryId": 29,
-            "name": "Overhauls"
-          },
-          "modId": 55163,
-          "name": "Web of Mephala Morag Tong Headquarters",
-          "status": "published",
-          "summary": "Visual overhaul of Hidden Area in Vivec Arena",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55163/55163-1724884404-1380163144.jpeg",
-          "uid": "429496784763",
-          "updatedAt": "2024-09-21T14:30:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-08T23:09:42Z",
-          "fileSize": 2181,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 54613,
-          "name": "Redoran Exquisite Robe",
-          "status": "published",
-          "summary": "Adds new Redoran Exquisite Robe, both fashionable and practical",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54613/54613-1715209621-1837942733.jpeg",
-          "uid": "429496784213",
-          "updatedAt": "2024-05-27T09:11:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-14T12:00:44Z",
-          "fileSize": 4180,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 52347,
-          "name": "Opus Ferrum I Iron Armor Replacer",
-          "status": "published",
-          "summary": "Iron armor replacer and wide additions",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52347/52347-1676375834-373174166.png",
-          "uid": "429496781947",
-          "updatedAt": "2023-02-14T12:00:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-01-24T15:30:57Z",
-          "fileSize": 12667,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 52206,
-          "name": "Ald Krieg Tower",
-          "status": "published",
-          "summary": "Adds one custom interior usable as player housing",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52206/52206-1674574137-1523834993.png",
-          "uid": "429496781806",
-          "updatedAt": "2023-01-24T15:30:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-02-23T12:33:18Z",
-          "fileSize": 22202,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 50808,
-          "name": "Wolverine Hall Overhauled",
-          "status": "published",
-          "summary": "Finally you can navigate it. Over 250 new meshes.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50808/50808-1645619433-369200890.jpeg",
-          "uid": "429496780408",
-          "updatedAt": "2022-02-23T22:50:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-02T20:29:43Z",
-          "fileSize": 1549,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 49648,
-          "name": "Ebony Mail (Replacer)",
-          "status": "published",
-          "summary": "New mesh for mail. It's actually a chainmail now.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49648/49648-1620044855-829195867.png",
-          "uid": "429496779248",
-          "updatedAt": "2024-05-27T10:12:24Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-08-24T12:30:46Z",
-          "fileSize": 79,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 48748,
-          "name": "Magebane Replacer",
-          "status": "published",
-          "summary": "Magebane replacer to replace Magebane with replaced model of Magebane",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48748/48748-1598271907-260770689.png",
-          "uid": "429496778348",
-          "updatedAt": "2021-04-30T21:04:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-09-02T10:21:35Z",
-          "fileSize": 19209,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 45993,
-          "name": "VSBR Vanilla style body replacer",
-          "status": "published",
-          "summary": "An ultimate true to the original style body replacer.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45993/45993-1535879070-1958807687.png",
-          "uid": "429496775593",
-          "updatedAt": "2020-11-03T21:19:55Z"
-        }
-      ],
-      "totalCount": 8
+  "checkedAt": "2025-05-13T18:59:06.704Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 8,
+        "130": 3,
+        "1704": 3
+      }
     },
-    "checkedAt": "2025-05-13T18:25:24.716Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-09-21T14:30:38Z",
+        "fileSize": 5598,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 55163,
+        "name": "Web of Mephala Morag Tong Headquarters",
+        "status": "published",
+        "summary": "Visual overhaul of Hidden Area in Vivec Arena",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55163/55163-1724884404-1380163144.jpeg",
+        "uid": "429496784763",
+        "updatedAt": "2024-09-21T14:30:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-08T23:09:42Z",
+        "fileSize": 2181,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 54613,
+        "name": "Redoran Exquisite Robe",
+        "status": "published",
+        "summary": "Adds new Redoran Exquisite Robe, both fashionable and practical",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54613/54613-1715209621-1837942733.jpeg",
+        "uid": "429496784213",
+        "updatedAt": "2024-05-27T09:11:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-14T12:00:44Z",
+        "fileSize": 4180,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 52347,
+        "name": "Opus Ferrum I Iron Armor Replacer",
+        "status": "published",
+        "summary": "Iron armor replacer and wide additions",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52347/52347-1676375834-373174166.png",
+        "uid": "429496781947",
+        "updatedAt": "2023-02-14T12:00:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-24T15:30:57Z",
+        "fileSize": 12667,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 52206,
+        "name": "Ald Krieg Tower",
+        "status": "published",
+        "summary": "Adds one custom interior usable as player housing",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52206/52206-1674574137-1523834993.png",
+        "uid": "429496781806",
+        "updatedAt": "2023-01-24T15:30:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-02-23T12:33:18Z",
+        "fileSize": 22202,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 50808,
+        "name": "Wolverine Hall Overhauled",
+        "status": "published",
+        "summary": "Finally you can navigate it. Over 250 new meshes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50808/50808-1645619433-369200890.jpeg",
+        "uid": "429496780408",
+        "updatedAt": "2022-02-23T22:50:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-02T20:29:43Z",
+        "fileSize": 1549,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 49648,
+        "name": "Ebony Mail (Replacer)",
+        "status": "published",
+        "summary": "New mesh for mail. It's actually a chainmail now.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49648/49648-1620044855-829195867.png",
+        "uid": "429496779248",
+        "updatedAt": "2024-05-27T10:12:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-24T12:30:46Z",
+        "fileSize": 79,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 48748,
+        "name": "Magebane Replacer",
+        "status": "published",
+        "summary": "Magebane replacer to replace Magebane with replaced model of Magebane",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48748/48748-1598271907-260770689.png",
+        "uid": "429496778348",
+        "updatedAt": "2021-04-30T21:04:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-09-02T10:21:35Z",
+        "fileSize": 19209,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 45993,
+        "name": "VSBR Vanilla style body replacer",
+        "status": "published",
+        "summary": "An ultimate true to the original style body replacer.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45993/45993-1535879070-1958807687.png",
+        "uid": "429496775593",
+        "updatedAt": "2020-11-03T21:19:55Z"
+      }
+    ],
+    "totalCount": 8
   }
 }

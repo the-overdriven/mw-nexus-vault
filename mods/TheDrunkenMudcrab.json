@@ -1,864 +1,862 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 53,
-          "120": 2
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-11-11T08:14:51Z",
-          "fileSize": 42564,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 55449,
-          "name": "Arkngdamz-Drunulal Space Station",
-          "status": "published",
-          "summary": "Arkngdamz-Drunulal is a space station orbiting Nirn. Make it your own, abuse its powers to fuel yours.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55449/55449-1731309036-815171800.png",
-          "uid": "429496785049",
-          "updatedAt": "2024-12-02T07:22:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-10-31T18:32:45Z",
-          "fileSize": 123,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 53671,
-          "name": "Clone",
-          "status": "published",
-          "summary": "Awaken the mad scientist in you and raise clones as both followers and ﻿flesh simulacrums!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53671/53671-1698732851-289639649.png",
-          "uid": "429496783271",
-          "updatedAt": "2023-11-29T04:20:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-08T07:18:42Z",
-          "fileSize": 6808,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 52837,
-          "name": "Ius the Animal God",
-          "status": "published",
-          "summary": "Ius the Animal God has a questline full of adventure, drama, comedy, and romance, not to mention an artifact weapon, a companion, and more!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52837/52837-1683529831-1830535131.png",
-          "uid": "429496782437",
-          "updatedAt": "2023-05-17T17:22:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-03-08T06:56:15Z",
-          "fileSize": 24,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 52472,
-          "name": "No Arrille's Tradehouse",
-          "status": "published",
-          "summary": "This mod removes Arrille's Tradehouse, as well as any and all mentions of it.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52472/52472-1678258533-869411082.png",
-          "uid": "429496782072",
-          "updatedAt": "2023-03-08T06:56:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-21T07:59:14Z",
-          "fileSize": 858,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 52386,
-          "name": "Spinda - Pokemon Companion Mod",
-          "status": "published",
-          "summary": "In Ald Daedroth, a Pokémon has appeared! No one knows where it came from. If your objective were to catch them all, all you'd have to do is catch this one.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52386/52386-1676966045-1364096055.png",
-          "uid": "429496781986",
-          "updatedAt": "2023-02-21T07:59:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-06T06:15:57Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 52306,
-          "name": "Scrib Ascension",
-          "status": "published",
-          "summary": "Tired of being able to bully the passive Scribs? Now they have all been imbued with the power of a god, and they are also hostile.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52306/52306-1675663812-1540632176.png",
-          "uid": "429496781906",
-          "updatedAt": "2023-02-06T06:15:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-11-01T13:19:11Z",
-          "fileSize": 9416,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 51941,
-          "name": "Horror at Helvil Mine",
-          "status": "published",
-          "summary": "Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51941/51941-1667273203-1697099655.png",
-          "uid": "429496781541",
-          "updatedAt": "2024-03-03T20:49:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-08T17:43:22Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51188,
-          "name": "Hell and Hell Difficulty",
-          "status": "published",
-          "summary": "This adds the \"Hell and Hell\" difficulty from Devil May Cry, meaning that any amount of damage you are dealt is enough to kill you.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51188/51188-1652031738-1757650429.png",
-          "uid": "429496780788",
-          "updatedAt": "2022-05-08T17:43:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-08T16:56:10Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51186,
-          "name": "Heaven and Hell Difficulty",
-          "status": "published",
-          "summary": "Adds the \"Heaven and Hell\" difficulty from Devil May Cry, which makes any damage a killing blow.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51186/51186-1652028857-884723185.png",
-          "uid": "429496780786",
-          "updatedAt": "2022-05-08T17:19:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-07T04:13:10Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 51158,
-          "name": "Animal Tamer",
-          "status": "published",
-          "summary": "Your Personality stat has an additional use: determining whether certain creatures (such as rats) are hostile to you or not.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51158/51158-1651896674-1628372131.png",
-          "uid": "429496780758",
-          "updatedAt": "2022-05-07T04:13:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-02T05:17:24Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 50940,
-          "name": "Everything Dagoth Ur",
-          "status": "published",
-          "summary": "Everything Dagoth Ur",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50940/50940-1648876580-1328483030.jpeg",
-          "uid": "429496780540",
-          "updatedAt": "2022-04-02T05:17:24Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-11-07T17:27:15Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 50392,
-          "name": "Miner's Pick Requirement for Ore Mining",
-          "status": "published",
-          "summary": "An Ancient Nordic Pick or Miner's Pick is now required to mine ore veins.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50392/50392-1636305931-1683323049.png",
-          "uid": "429496779992",
-          "updatedAt": "2021-11-07T23:30:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-09-07T00:02:31Z",
-          "fileSize": 40,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 50222,
-          "name": "Catwind",
-          "status": "published",
-          "summary": "Replaces all sounds in Morrowind with cat meows. Also does other sneaky cat-related things.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50222/50222-1630972859-1743709226.jpeg",
-          "uid": "429496779822",
-          "updatedAt": "2021-09-07T00:02:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-12T08:35:32Z",
-          "fileSize": 350,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 47590,
-          "name": "Blim-Dim Moon Replacer",
-          "status": "published",
-          "summary": "Replaces the moons with Blim-Dim and Dravdas heads.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47590/47590-1581496313-297232735.png",
-          "uid": "429496777190",
-          "updatedAt": "2020-02-12T08:35:32Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-10-31T17:45:36Z",
-          "fileSize": 199,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 47271,
-          "name": "Epic Mega Overhaul Revised Expanded Revisited Seyda Neen",
-          "status": "published",
-          "summary": "Realizes the grandest vision of Seyda Neen ever made.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47271/47271-1572543830-1530637700.png",
-          "uid": "429496776871",
-          "updatedAt": "2019-10-31T17:45:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-10-17T04:48:15Z",
-          "fileSize": 1946,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 47238,
-          "name": "Ascended Nund",
-          "status": "published",
-          "summary": "Kill a dastardly smuggler! Join him! Or entreat the forces of darkness and liberate Vvardenfell from the Imperial yoke!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47238/47238-1571283699-1788049987.png",
-          "uid": "429496776838",
-          "updatedAt": "2019-10-17T20:35:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-06-15T21:20:38Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 46906,
-          "name": "Remove N'wah - A TheDrunkenMudcrab Mod",
-          "status": "published",
-          "summary": "Brings Morrowind into the perfect vision of Dagoth Ur and the Cammona Tong.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46906/46906-1560633527-1502753921.png",
-          "uid": "429496776506",
-          "updatedAt": "2019-06-15T21:20:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-11-01T02:44:01Z",
-          "fileSize": 1375,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 46127,
-          "name": "Great House Sujamma",
-          "status": "published",
-          "summary": "Breaking out of his shell, the talking mudcrab merchant has vowed to start a Great House of his very own! Speak to him, and you may become a part of his grand endeavor.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46127/46127-1541038544-309976421.png",
-          "uid": "429496775727",
-          "updatedAt": "2022-06-30T01:20:59Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-10-16T02:20:48Z",
-          "fileSize": 23121,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 46097,
-          "name": "Vaermora - Walking Stance Hold of the Thrice-Dreamed",
-          "status": "published",
-          "summary": "Hidden within the lost echelons of oblivion Vaermora sits. Ruled by High Arbiter Vermillion, it soon faces annihilation at the hands of outside influence. Will you save it, or damn",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46097/46097-1539656325-1625064360.png",
-          "uid": "429496775697",
-          "updatedAt": "2018-11-02T19:23:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-30T14:08:55Z",
-          "fileSize": 12366,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 45711,
-          "name": "Vaba-Amus Companion Character",
-          "status": "published",
-          "summary": "Near the outside of 'Desele's House of Earthly Delights' in Suran you may find an inebriated scrib with a crude sense of humor and a chip on his shoulder. Why you would choose to",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45711/45711-1527535610-480298644.png",
-          "uid": "429496775311",
-          "updatedAt": "2022-05-02T23:50:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-03-05T07:12:53Z",
-          "fileSize": 9926,
-          "modCategory": {
-            "categoryId": 30,
-            "name": "Splash Screens"
-          },
-          "modId": 45513,
-          "name": "Blim-Dim Title Screen Replacer",
-          "status": "published",
-          "summary": "THE FUTURE IS NOW, OLD MAN.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45513/45513-1520233521-289097991.jpeg",
-          "uid": "429496775113",
-          "updatedAt": "2018-08-15T06:09:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-01-16T03:26:21Z",
-          "fileSize": 178913,
-          "modCategory": {
-            "categoryId": 30,
-            "name": "Splash Screens"
-          },
-          "modId": 45428,
-          "name": "Blim-Dim Splash Screen Replacer",
-          "status": "published",
-          "summary": "Replaces all of Morrowind's Splash Screens with colorful, vibrant ones inspired by Blim-Dim.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45428/45428-1516065947-615951715.png",
-          "uid": "429496775028",
-          "updatedAt": "2018-01-16T03:26:21Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-11-06T02:06:31Z",
-          "fileSize": 9011,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 45278,
-          "name": "Dar'Skaith",
-          "status": "published",
-          "summary": "",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45278-5-1509933768.jpg",
-          "uid": "429496774878",
-          "updatedAt": "2017-11-06T02:06:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-10-25T06:36:11Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 45259,
-          "name": "Bad Nexus Update",
-          "status": "published",
-          "summary": "An annoyed Mudcrab has arrived in Seyda Neen. He wants to tell you about how bad the new nexus update is, and why he's against it on every level.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45259-0-1508913247.png",
-          "uid": "429496774859",
-          "updatedAt": "2017-10-25T06:36:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-10-19T04:36:59Z",
-          "fileSize": 5456,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 45253,
-          "name": "Legend of Chemua",
-          "status": "published",
-          "summary": "Long ago, there existed a Nord named CHEMUA, who belched blight and made Velothi's glorious clouds excrete bile. His helmet still remains, and Dagoth Ur's minions have found it. ",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45253-1-1508387377.png",
-          "uid": "429496774853",
-          "updatedAt": "2017-10-20T05:04:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-10-03T05:33:38Z",
-          "fileSize": 85,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 45229,
-          "name": "Expedition to Mzelthuand",
-          "status": "published",
-          "summary": "Off the shoreline of the Bitter Coast region, a Dwemer Ruin has appeared. Take up your spells and delve into the deepest and darkest of Dwemer mysteries within an enigmatic study",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45229-0-1506990898.png",
-          "uid": "429496774829",
-          "updatedAt": "2020-06-10T23:26:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-10-01T10:09:13Z",
-          "fileSize": 1584,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 45224,
-          "name": "Crotalus Companion Gauntlet",
-          "status": "published",
-          "summary": "In Ra'Virr's Tradehouse in Balmora, one may find a new item for sale: a sentient gauntlet.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45224-0-1506852243.png",
-          "uid": "429496774824",
-          "updatedAt": "2017-11-13T23:56:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-09-28T00:20:18Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 45219,
-          "name": "Nchuleftingth Test of Pattern Light Fix",
-          "status": "published",
-          "summary": "So MPP version 1.6.6 couldn't be bothered to fix this. There's this huge massive light hanging a few feet from the ceiling. The biggest bugfix mod out there couldn't fix one of the",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45219-1-1506557903.png",
-          "uid": "429496774819",
-          "updatedAt": "2017-09-29T04:24:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-09-25T11:08:43Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45214,
-          "name": "Weapon Enchantment Value Rebalance",
-          "status": "published",
-          "summary": "This mod aims to correct some of the strange quirks with weapon enchantment values in Morrowind. Some weapons were oddly overpowered, while others oddly underpowered.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45214-1-1506337561.jpg",
-          "uid": "429496774814",
-          "updatedAt": "2017-09-25T11:19:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-09-17T03:24:56Z",
-          "fileSize": 5429,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 45194,
-          "name": "Caldera Mine Expanded",
-          "status": "published",
-          "summary": "This mod expands Caldera Mine in every way possible. New quests (Including a Great House quest for all three Great Houses), new NPCs, new side quests, an expanded exterior and",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45194-3-1505618350.png",
-          "uid": "429496774794",
-          "updatedAt": "2023-05-09T16:04:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-08-31T00:46:22Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45167,
-          "name": "Dark Brotherhood Attacks Once - Delayed Attack",
-          "status": "published",
-          "summary": "This mod does two things, and edits the DBAttack Script: 1. The Dark Brotherhood only attacks you once. You do not recieve infinite assassins. 2. You may only be attacked by the",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45167-0-1504140267.png",
-          "uid": "429496774767",
-          "updatedAt": "2017-08-31T00:46:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-07-06T23:13:53Z",
-          "fileSize": 1933,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 45048,
-          "name": "Morrowind Title Theme Replacer",
-          "status": "published",
-          "summary": "Can we do more kazoo?",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45048-0-1499382690.png",
-          "uid": "429496774648",
-          "updatedAt": "2017-07-06T23:13:50Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-05-24T13:28:57Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 44968,
-          "name": "Ties-That-Bind Companion Character",
-          "status": "published",
-          "summary": "I always found it really odd that, despite the fact that the slaves you free are thankful for their release, none of them ever offer to follow you or help you out. This is my",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44968-3-1495632366.png",
-          "uid": "429496774568",
-          "updatedAt": "2017-05-24T13:28:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-05-22T13:05:04Z",
-          "fileSize": 535,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 44963,
-          "name": "Arbitus Bet-Molag Companion Character",
-          "status": "published",
-          "summary": "West of Molag Mar, an insane Khajiit pyromancer wanders the countryside. If you can win him over, you might just earn him as a traveling companion!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44963-0-1495458126.png",
-          "uid": "429496774563",
-          "updatedAt": "2017-05-22T13:04:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-04-30T08:56:28Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 44918,
-          "name": "Alternate Goodbye",
-          "status": "published",
-          "summary": "Simple; replaces \"Goodbye\" as mentioned in dialogue and button menus with one of a few selectable goodbyes. Remember to select only one as your .esp!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44918-0-1493542436.png",
-          "uid": "429496774518",
-          "updatedAt": "2017-04-30T08:56:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-02-03T09:51:31Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 44762,
-          "name": "Bitter Coast Tree Simulator - Alternate Start",
-          "status": "published",
-          "summary": "You are a tree in the Bitter Coast region, near Gnaar Mok.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44762-0-1486115301.png",
-          "uid": "429496774362",
-          "updatedAt": "2017-05-25T23:03:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-30T06:48:57Z",
-          "fileSize": 904,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 44749,
-          "name": "Dagoth Valmyn Ash Zombie Companion",
-          "status": "published",
-          "summary": "Every wanted a lore-friendly friend of the Sixth House?  How about one that can be friends with the Nerevarine? Look no further. ",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44749-1-1485758707.png",
-          "uid": "429496774349",
-          "updatedAt": "2017-05-23T07:16:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-28T08:39:17Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44743,
-          "name": "Mud Racers",
-          "status": "published",
-          "summary": "Cliff Racers now use the Mudcrab body. They fly inexplicably, through Dunmer magic.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44743-0-1485592525.png",
-          "uid": "429496774343",
-          "updatedAt": "2017-01-28T08:39:14Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-21T15:21:21Z",
-          "fileSize": 29412,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 44731,
-          "name": "Fargoth Alternate Start",
-          "status": "published",
-          "summary": "Start the game as Fargoth, a commoner from Seyda Neen. No longer are you the Nerevarine, bound to the main quest. Forge your own destiny!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44731-0-1485011947.png",
-          "uid": "429496774331",
-          "updatedAt": "2017-01-29T11:48:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-17T13:35:55Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 44723,
-          "name": "Lagwind",
-          "status": "published",
-          "summary": "Crappy computer simulator 2016. Ever wonder what Morrowind would be like if you emulated it on a Nokia? Now find out!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44723-0-1484659999.png",
-          "uid": "429496774323",
-          "updatedAt": "2017-01-18T06:00:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-17T04:40:07Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 44722,
-          "name": "Creeper and Mudcrab Merchant Balance",
-          "status": "published",
-          "summary": "This mod nerfs Creeper and the Mudcrab Merchant, the two most powerful merchants in the Elder Scrolls. Now, they have 0 Barter Gold, and can only buy/sell potions (They only sell",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44722-0-1484627845.png",
-          "uid": "429496774322",
-          "updatedAt": "2017-01-18T06:33:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-08T05:09:35Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44707,
-          "name": "Lord of the Scribs",
-          "status": "published",
-          "summary": "Lord of the Scribs lite: Spawns 5-10 scribs at your feet every 5 seconds. \nLord of the Scribs - Legendary Edition: Spawns 100 scribs at your feet every 5 seconds.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44707-0-1483851807.png",
-          "uid": "429496774307",
-          "updatedAt": "2017-01-08T05:06:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-07T05:06:52Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44704,
-          "name": "You Lose The Game",
-          "status": "published",
-          "summary": "This .esp makes you lose the game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44704-0-1483765459.png",
-          "uid": "429496774304",
-          "updatedAt": "2017-01-07T05:06:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-03T14:37:45Z",
-          "fileSize": 1676,
-          "modCategory": {
-            "categoryId": 23,
-            "name": "Companions"
-          },
-          "modId": 44691,
-          "name": "Lustidrike Companion Character for Morrowind Modding Madness",
-          "status": "published",
-          "summary": "Takes the most interesting NPC creature in the game and turns him into a full-fledged companion, complete with 3 quests, over 200+ lines of dialogue, and multiple custom assets",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44691-0-1483453936.png",
-          "uid": "429496774291",
-          "updatedAt": "2017-01-25T14:13:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-12-25T05:20:34Z",
-          "fileSize": 48,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44674,
-          "name": "Snowing in Morrowind - A Christmas Mod",
-          "status": "published",
-          "summary": "A snowstorm has blown south from Solstheim, blanketing all of Vvardenfell in white!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44674-0-1482642798.png",
-          "uid": "429496774274",
-          "updatedAt": "2016-12-25T17:44:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-12-24T07:54:14Z",
-          "fileSize": 444,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 44670,
-          "name": "Legacy of Odiil quest mod for Morrowind Modding Madness",
-          "status": "published",
-          "summary": "Embark on a quest across Vvardenfell, searching for the mystical sword known as Flamerend, in addition to an elderly man's inheritance.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44670-3-1482565299.png",
-          "uid": "429496774270",
-          "updatedAt": "2016-12-30T23:49:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-12-17T17:46:40Z",
-          "fileSize": 166,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 44652,
-          "name": "Malham Companion Weapon mod for Morrowind Modding Madness.",
-          "status": "published",
-          "summary": "Adds a strange, enigmatic new sword to Tel Fyr.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44652-0-1481993969.png",
-          "uid": "429496774252",
-          "updatedAt": "2017-10-01T06:32:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-12-07T02:47:44Z",
-          "fileSize": 1283,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 44627,
-          "name": "Nil-Ruhn Velothi-Style house mod for Morrowind Modding Madness",
-          "status": "published",
-          "summary": "This mod adds a lore-friendly Velothi home to the Grazelands Region southwest of the Zainab Camp.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44627-0-1481077233.png",
-          "uid": "429496774227",
-          "updatedAt": "2016-12-07T10:26:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-10-25T05:45:13Z",
-          "fileSize": 1043,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44591,
-          "name": "The Rock Mod",
-          "status": "published",
-          "summary": "This mod adds a rock to Seyda Neen, and also serves as a notice of my return to modding.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44591-1-1477373692.png",
-          "uid": "429496774191",
-          "updatedAt": "2016-10-25T05:45:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-04-05T02:23:56Z",
-          "fileSize": 99829,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 44232,
-          "name": "Morrowind Gear Rising - Fargothengeance",
-          "status": "published",
-          "summary": "This simple mod replaces all of Morrowind's music with tracks from Metal Gear Rising. Don't worry, there is an uninstallation option present in the mod if you (for some reason) do",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44232-0-1459822349.png",
-          "uid": "429496773832",
-          "updatedAt": "2016-04-05T02:21:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-04-02T02:29:03Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 44224,
-          "name": "April Fools - The Culling of Fargoth - Legend of the Bosmer Lord",
-          "status": "published",
-          "summary": "This mod adds Fargoth as a random enemy spawn in the game. Requires Bloodmoon and Tribunal, as he invades those worldspaces too.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44224-2-1459564012.jpg",
-          "uid": "429496773824",
-          "updatedAt": "2016-04-02T02:28:59Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-08-08T09:01:37Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 43220,
-          "name": "Thelas' Pillows Quest Fix",
-          "status": "published",
-          "summary": "The quest involved in obtaining the Extra-Comfy pillow in The Elder Scrolls III: Morrowind is broken. This mod attempts to fix it. Morrowind patch project users need not apply.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43220-1-1407473089.jpg",
-          "uid": "429496772820",
-          "updatedAt": "2014-08-08T09:01:24Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2013-01-07T03:02:57Z",
-          "fileSize": 999,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 42354,
-          "name": "The Mystic Potion - A Magicka Boost Mod",
-          "status": "published",
-          "summary": "This mod adds a quest to find the legendary artifact known only as \"The Mystic Potion\",\nwith a fun puzzle and some unique enemies to fight.\n\nThe potion itself gives you a whooping",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42354-3-1357527933.jpg",
-          "uid": "429496771954",
-          "updatedAt": "2017-09-20T09:45:52Z"
-        }
-      ],
-      "totalCount": 53
+  "checkedAt": "2025-05-13T19:04:45.932Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 53,
+        "120": 2
+      }
     },
-    "checkedAt": "2025-05-13T18:25:38.228Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-11T08:14:51Z",
+        "fileSize": 42564,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 55449,
+        "name": "Arkngdamz-Drunulal Space Station",
+        "status": "published",
+        "summary": "Arkngdamz-Drunulal is a space station orbiting Nirn. Make it your own, abuse its powers to fuel yours.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55449/55449-1731309036-815171800.png",
+        "uid": "429496785049",
+        "updatedAt": "2024-12-02T07:22:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-31T18:32:45Z",
+        "fileSize": 123,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53671,
+        "name": "Clone",
+        "status": "published",
+        "summary": "Awaken the mad scientist in you and raise clones as both followers and ﻿flesh simulacrums!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53671/53671-1698732851-289639649.png",
+        "uid": "429496783271",
+        "updatedAt": "2023-11-29T04:20:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-08T07:18:42Z",
+        "fileSize": 6808,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 52837,
+        "name": "Ius the Animal God",
+        "status": "published",
+        "summary": "Ius the Animal God has a questline full of adventure, drama, comedy, and romance, not to mention an artifact weapon, a companion, and more!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52837/52837-1683529831-1830535131.png",
+        "uid": "429496782437",
+        "updatedAt": "2023-05-17T17:22:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-08T06:56:15Z",
+        "fileSize": 24,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 52472,
+        "name": "No Arrille's Tradehouse",
+        "status": "published",
+        "summary": "This mod removes Arrille's Tradehouse, as well as any and all mentions of it.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52472/52472-1678258533-869411082.png",
+        "uid": "429496782072",
+        "updatedAt": "2023-03-08T06:56:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-21T07:59:14Z",
+        "fileSize": 858,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 52386,
+        "name": "Spinda - Pokemon Companion Mod",
+        "status": "published",
+        "summary": "In Ald Daedroth, a Pokémon has appeared! No one knows where it came from. If your objective were to catch them all, all you'd have to do is catch this one.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52386/52386-1676966045-1364096055.png",
+        "uid": "429496781986",
+        "updatedAt": "2023-02-21T07:59:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-06T06:15:57Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 52306,
+        "name": "Scrib Ascension",
+        "status": "published",
+        "summary": "Tired of being able to bully the passive Scribs? Now they have all been imbued with the power of a god, and they are also hostile.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52306/52306-1675663812-1540632176.png",
+        "uid": "429496781906",
+        "updatedAt": "2023-02-06T06:15:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-11-01T13:19:11Z",
+        "fileSize": 9416,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 51941,
+        "name": "Horror at Helvil Mine",
+        "status": "published",
+        "summary": "Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51941/51941-1667273203-1697099655.png",
+        "uid": "429496781541",
+        "updatedAt": "2024-03-03T20:49:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-08T17:43:22Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51188,
+        "name": "Hell and Hell Difficulty",
+        "status": "published",
+        "summary": "This adds the \"Hell and Hell\" difficulty from Devil May Cry, meaning that any amount of damage you are dealt is enough to kill you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51188/51188-1652031738-1757650429.png",
+        "uid": "429496780788",
+        "updatedAt": "2022-05-08T17:43:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-08T16:56:10Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51186,
+        "name": "Heaven and Hell Difficulty",
+        "status": "published",
+        "summary": "Adds the \"Heaven and Hell\" difficulty from Devil May Cry, which makes any damage a killing blow.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51186/51186-1652028857-884723185.png",
+        "uid": "429496780786",
+        "updatedAt": "2022-05-08T17:19:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-07T04:13:10Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 51158,
+        "name": "Animal Tamer",
+        "status": "published",
+        "summary": "Your Personality stat has an additional use: determining whether certain creatures (such as rats) are hostile to you or not.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51158/51158-1651896674-1628372131.png",
+        "uid": "429496780758",
+        "updatedAt": "2022-05-07T04:13:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-02T05:17:24Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 50940,
+        "name": "Everything Dagoth Ur",
+        "status": "published",
+        "summary": "Everything Dagoth Ur",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50940/50940-1648876580-1328483030.jpeg",
+        "uid": "429496780540",
+        "updatedAt": "2022-04-02T05:17:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-11-07T17:27:15Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 50392,
+        "name": "Miner's Pick Requirement for Ore Mining",
+        "status": "published",
+        "summary": "An Ancient Nordic Pick or Miner's Pick is now required to mine ore veins.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50392/50392-1636305931-1683323049.png",
+        "uid": "429496779992",
+        "updatedAt": "2021-11-07T23:30:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-07T00:02:31Z",
+        "fileSize": 40,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 50222,
+        "name": "Catwind",
+        "status": "published",
+        "summary": "Replaces all sounds in Morrowind with cat meows. Also does other sneaky cat-related things.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50222/50222-1630972859-1743709226.jpeg",
+        "uid": "429496779822",
+        "updatedAt": "2021-09-07T00:02:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-12T08:35:32Z",
+        "fileSize": 350,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 47590,
+        "name": "Blim-Dim Moon Replacer",
+        "status": "published",
+        "summary": "Replaces the moons with Blim-Dim and Dravdas heads.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47590/47590-1581496313-297232735.png",
+        "uid": "429496777190",
+        "updatedAt": "2020-02-12T08:35:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-10-31T17:45:36Z",
+        "fileSize": 199,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 47271,
+        "name": "Epic Mega Overhaul Revised Expanded Revisited Seyda Neen",
+        "status": "published",
+        "summary": "Realizes the grandest vision of Seyda Neen ever made.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47271/47271-1572543830-1530637700.png",
+        "uid": "429496776871",
+        "updatedAt": "2019-10-31T17:45:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-10-17T04:48:15Z",
+        "fileSize": 1946,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 47238,
+        "name": "Ascended Nund",
+        "status": "published",
+        "summary": "Kill a dastardly smuggler! Join him! Or entreat the forces of darkness and liberate Vvardenfell from the Imperial yoke!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47238/47238-1571283699-1788049987.png",
+        "uid": "429496776838",
+        "updatedAt": "2019-10-17T20:35:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-06-15T21:20:38Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 46906,
+        "name": "Remove N'wah - A TheDrunkenMudcrab Mod",
+        "status": "published",
+        "summary": "Brings Morrowind into the perfect vision of Dagoth Ur and the Cammona Tong.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46906/46906-1560633527-1502753921.png",
+        "uid": "429496776506",
+        "updatedAt": "2019-06-15T21:20:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-11-01T02:44:01Z",
+        "fileSize": 1375,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 46127,
+        "name": "Great House Sujamma",
+        "status": "published",
+        "summary": "Breaking out of his shell, the talking mudcrab merchant has vowed to start a Great House of his very own! Speak to him, and you may become a part of his grand endeavor.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46127/46127-1541038544-309976421.png",
+        "uid": "429496775727",
+        "updatedAt": "2022-06-30T01:20:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-10-16T02:20:48Z",
+        "fileSize": 23121,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 46097,
+        "name": "Vaermora - Walking Stance Hold of the Thrice-Dreamed",
+        "status": "published",
+        "summary": "Hidden within the lost echelons of oblivion Vaermora sits. Ruled by High Arbiter Vermillion, it soon faces annihilation at the hands of outside influence. Will you save it, or damn",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46097/46097-1539656325-1625064360.png",
+        "uid": "429496775697",
+        "updatedAt": "2018-11-02T19:23:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-30T14:08:55Z",
+        "fileSize": 12366,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 45711,
+        "name": "Vaba-Amus Companion Character",
+        "status": "published",
+        "summary": "Near the outside of 'Desele's House of Earthly Delights' in Suran you may find an inebriated scrib with a crude sense of humor and a chip on his shoulder. Why you would choose to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45711/45711-1527535610-480298644.png",
+        "uid": "429496775311",
+        "updatedAt": "2022-05-02T23:50:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-03-05T07:12:53Z",
+        "fileSize": 9926,
+        "modCategory": {
+          "categoryId": 30,
+          "name": "Splash Screens"
+        },
+        "modId": 45513,
+        "name": "Blim-Dim Title Screen Replacer",
+        "status": "published",
+        "summary": "THE FUTURE IS NOW, OLD MAN.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45513/45513-1520233521-289097991.jpeg",
+        "uid": "429496775113",
+        "updatedAt": "2018-08-15T06:09:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-01-16T03:26:21Z",
+        "fileSize": 178913,
+        "modCategory": {
+          "categoryId": 30,
+          "name": "Splash Screens"
+        },
+        "modId": 45428,
+        "name": "Blim-Dim Splash Screen Replacer",
+        "status": "published",
+        "summary": "Replaces all of Morrowind's Splash Screens with colorful, vibrant ones inspired by Blim-Dim.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45428/45428-1516065947-615951715.png",
+        "uid": "429496775028",
+        "updatedAt": "2018-01-16T03:26:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-11-06T02:06:31Z",
+        "fileSize": 9011,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 45278,
+        "name": "Dar'Skaith",
+        "status": "published",
+        "summary": "",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45278-5-1509933768.jpg",
+        "uid": "429496774878",
+        "updatedAt": "2017-11-06T02:06:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-10-25T06:36:11Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 45259,
+        "name": "Bad Nexus Update",
+        "status": "published",
+        "summary": "An annoyed Mudcrab has arrived in Seyda Neen. He wants to tell you about how bad the new nexus update is, and why he's against it on every level.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45259-0-1508913247.png",
+        "uid": "429496774859",
+        "updatedAt": "2017-10-25T06:36:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-10-19T04:36:59Z",
+        "fileSize": 5456,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 45253,
+        "name": "Legend of Chemua",
+        "status": "published",
+        "summary": "Long ago, there existed a Nord named CHEMUA, who belched blight and made Velothi's glorious clouds excrete bile. His helmet still remains, and Dagoth Ur's minions have found it. ",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45253-1-1508387377.png",
+        "uid": "429496774853",
+        "updatedAt": "2017-10-20T05:04:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-10-03T05:33:38Z",
+        "fileSize": 85,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 45229,
+        "name": "Expedition to Mzelthuand",
+        "status": "published",
+        "summary": "Off the shoreline of the Bitter Coast region, a Dwemer Ruin has appeared. Take up your spells and delve into the deepest and darkest of Dwemer mysteries within an enigmatic study",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45229-0-1506990898.png",
+        "uid": "429496774829",
+        "updatedAt": "2020-06-10T23:26:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-10-01T10:09:13Z",
+        "fileSize": 1584,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 45224,
+        "name": "Crotalus Companion Gauntlet",
+        "status": "published",
+        "summary": "In Ra'Virr's Tradehouse in Balmora, one may find a new item for sale: a sentient gauntlet.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45224-0-1506852243.png",
+        "uid": "429496774824",
+        "updatedAt": "2017-11-13T23:56:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-09-28T00:20:18Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 45219,
+        "name": "Nchuleftingth Test of Pattern Light Fix",
+        "status": "published",
+        "summary": "So MPP version 1.6.6 couldn't be bothered to fix this. There's this huge massive light hanging a few feet from the ceiling. The biggest bugfix mod out there couldn't fix one of the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45219-1-1506557903.png",
+        "uid": "429496774819",
+        "updatedAt": "2017-09-29T04:24:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-09-25T11:08:43Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45214,
+        "name": "Weapon Enchantment Value Rebalance",
+        "status": "published",
+        "summary": "This mod aims to correct some of the strange quirks with weapon enchantment values in Morrowind. Some weapons were oddly overpowered, while others oddly underpowered.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45214-1-1506337561.jpg",
+        "uid": "429496774814",
+        "updatedAt": "2017-09-25T11:19:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-09-17T03:24:56Z",
+        "fileSize": 5429,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 45194,
+        "name": "Caldera Mine Expanded",
+        "status": "published",
+        "summary": "This mod expands Caldera Mine in every way possible. New quests (Including a Great House quest for all three Great Houses), new NPCs, new side quests, an expanded exterior and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45194-3-1505618350.png",
+        "uid": "429496774794",
+        "updatedAt": "2023-05-09T16:04:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-08-31T00:46:22Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45167,
+        "name": "Dark Brotherhood Attacks Once - Delayed Attack",
+        "status": "published",
+        "summary": "This mod does two things, and edits the DBAttack Script: 1. The Dark Brotherhood only attacks you once. You do not recieve infinite assassins. 2. You may only be attacked by the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45167-0-1504140267.png",
+        "uid": "429496774767",
+        "updatedAt": "2017-08-31T00:46:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-07-06T23:13:53Z",
+        "fileSize": 1933,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 45048,
+        "name": "Morrowind Title Theme Replacer",
+        "status": "published",
+        "summary": "Can we do more kazoo?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45048-0-1499382690.png",
+        "uid": "429496774648",
+        "updatedAt": "2017-07-06T23:13:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-05-24T13:28:57Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 44968,
+        "name": "Ties-That-Bind Companion Character",
+        "status": "published",
+        "summary": "I always found it really odd that, despite the fact that the slaves you free are thankful for their release, none of them ever offer to follow you or help you out. This is my",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44968-3-1495632366.png",
+        "uid": "429496774568",
+        "updatedAt": "2017-05-24T13:28:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-05-22T13:05:04Z",
+        "fileSize": 535,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 44963,
+        "name": "Arbitus Bet-Molag Companion Character",
+        "status": "published",
+        "summary": "West of Molag Mar, an insane Khajiit pyromancer wanders the countryside. If you can win him over, you might just earn him as a traveling companion!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44963-0-1495458126.png",
+        "uid": "429496774563",
+        "updatedAt": "2017-05-22T13:04:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-04-30T08:56:28Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 44918,
+        "name": "Alternate Goodbye",
+        "status": "published",
+        "summary": "Simple; replaces \"Goodbye\" as mentioned in dialogue and button menus with one of a few selectable goodbyes. Remember to select only one as your .esp!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44918-0-1493542436.png",
+        "uid": "429496774518",
+        "updatedAt": "2017-04-30T08:56:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-02-03T09:51:31Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 44762,
+        "name": "Bitter Coast Tree Simulator - Alternate Start",
+        "status": "published",
+        "summary": "You are a tree in the Bitter Coast region, near Gnaar Mok.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44762-0-1486115301.png",
+        "uid": "429496774362",
+        "updatedAt": "2017-05-25T23:03:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-30T06:48:57Z",
+        "fileSize": 904,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 44749,
+        "name": "Dagoth Valmyn Ash Zombie Companion",
+        "status": "published",
+        "summary": "Every wanted a lore-friendly friend of the Sixth House?  How about one that can be friends with the Nerevarine? Look no further. ",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44749-1-1485758707.png",
+        "uid": "429496774349",
+        "updatedAt": "2017-05-23T07:16:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-28T08:39:17Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44743,
+        "name": "Mud Racers",
+        "status": "published",
+        "summary": "Cliff Racers now use the Mudcrab body. They fly inexplicably, through Dunmer magic.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44743-0-1485592525.png",
+        "uid": "429496774343",
+        "updatedAt": "2017-01-28T08:39:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-21T15:21:21Z",
+        "fileSize": 29412,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 44731,
+        "name": "Fargoth Alternate Start",
+        "status": "published",
+        "summary": "Start the game as Fargoth, a commoner from Seyda Neen. No longer are you the Nerevarine, bound to the main quest. Forge your own destiny!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44731-0-1485011947.png",
+        "uid": "429496774331",
+        "updatedAt": "2017-01-29T11:48:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-17T13:35:55Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 44723,
+        "name": "Lagwind",
+        "status": "published",
+        "summary": "Crappy computer simulator 2016. Ever wonder what Morrowind would be like if you emulated it on a Nokia? Now find out!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44723-0-1484659999.png",
+        "uid": "429496774323",
+        "updatedAt": "2017-01-18T06:00:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-17T04:40:07Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 44722,
+        "name": "Creeper and Mudcrab Merchant Balance",
+        "status": "published",
+        "summary": "This mod nerfs Creeper and the Mudcrab Merchant, the two most powerful merchants in the Elder Scrolls. Now, they have 0 Barter Gold, and can only buy/sell potions (They only sell",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44722-0-1484627845.png",
+        "uid": "429496774322",
+        "updatedAt": "2017-01-18T06:33:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-08T05:09:35Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44707,
+        "name": "Lord of the Scribs",
+        "status": "published",
+        "summary": "Lord of the Scribs lite: Spawns 5-10 scribs at your feet every 5 seconds. \nLord of the Scribs - Legendary Edition: Spawns 100 scribs at your feet every 5 seconds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44707-0-1483851807.png",
+        "uid": "429496774307",
+        "updatedAt": "2017-01-08T05:06:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-07T05:06:52Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44704,
+        "name": "You Lose The Game",
+        "status": "published",
+        "summary": "This .esp makes you lose the game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44704-0-1483765459.png",
+        "uid": "429496774304",
+        "updatedAt": "2017-01-07T05:06:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-03T14:37:45Z",
+        "fileSize": 1676,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 44691,
+        "name": "Lustidrike Companion Character for Morrowind Modding Madness",
+        "status": "published",
+        "summary": "Takes the most interesting NPC creature in the game and turns him into a full-fledged companion, complete with 3 quests, over 200+ lines of dialogue, and multiple custom assets",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44691-0-1483453936.png",
+        "uid": "429496774291",
+        "updatedAt": "2017-01-25T14:13:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-12-25T05:20:34Z",
+        "fileSize": 48,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44674,
+        "name": "Snowing in Morrowind - A Christmas Mod",
+        "status": "published",
+        "summary": "A snowstorm has blown south from Solstheim, blanketing all of Vvardenfell in white!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44674-0-1482642798.png",
+        "uid": "429496774274",
+        "updatedAt": "2016-12-25T17:44:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-12-24T07:54:14Z",
+        "fileSize": 444,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 44670,
+        "name": "Legacy of Odiil quest mod for Morrowind Modding Madness",
+        "status": "published",
+        "summary": "Embark on a quest across Vvardenfell, searching for the mystical sword known as Flamerend, in addition to an elderly man's inheritance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44670-3-1482565299.png",
+        "uid": "429496774270",
+        "updatedAt": "2016-12-30T23:49:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-12-17T17:46:40Z",
+        "fileSize": 166,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 44652,
+        "name": "Malham Companion Weapon mod for Morrowind Modding Madness.",
+        "status": "published",
+        "summary": "Adds a strange, enigmatic new sword to Tel Fyr.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44652-0-1481993969.png",
+        "uid": "429496774252",
+        "updatedAt": "2017-10-01T06:32:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-12-07T02:47:44Z",
+        "fileSize": 1283,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 44627,
+        "name": "Nil-Ruhn Velothi-Style house mod for Morrowind Modding Madness",
+        "status": "published",
+        "summary": "This mod adds a lore-friendly Velothi home to the Grazelands Region southwest of the Zainab Camp.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44627-0-1481077233.png",
+        "uid": "429496774227",
+        "updatedAt": "2016-12-07T10:26:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-10-25T05:45:13Z",
+        "fileSize": 1043,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44591,
+        "name": "The Rock Mod",
+        "status": "published",
+        "summary": "This mod adds a rock to Seyda Neen, and also serves as a notice of my return to modding.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44591-1-1477373692.png",
+        "uid": "429496774191",
+        "updatedAt": "2016-10-25T05:45:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-04-05T02:23:56Z",
+        "fileSize": 99829,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 44232,
+        "name": "Morrowind Gear Rising - Fargothengeance",
+        "status": "published",
+        "summary": "This simple mod replaces all of Morrowind's music with tracks from Metal Gear Rising. Don't worry, there is an uninstallation option present in the mod if you (for some reason) do",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44232-0-1459822349.png",
+        "uid": "429496773832",
+        "updatedAt": "2016-04-05T02:21:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-04-02T02:29:03Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 44224,
+        "name": "April Fools - The Culling of Fargoth - Legend of the Bosmer Lord",
+        "status": "published",
+        "summary": "This mod adds Fargoth as a random enemy spawn in the game. Requires Bloodmoon and Tribunal, as he invades those worldspaces too.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44224-2-1459564012.jpg",
+        "uid": "429496773824",
+        "updatedAt": "2016-04-02T02:28:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-08-08T09:01:37Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 43220,
+        "name": "Thelas' Pillows Quest Fix",
+        "status": "published",
+        "summary": "The quest involved in obtaining the Extra-Comfy pillow in The Elder Scrolls III: Morrowind is broken. This mod attempts to fix it. Morrowind patch project users need not apply.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43220-1-1407473089.jpg",
+        "uid": "429496772820",
+        "updatedAt": "2014-08-08T09:01:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-01-07T03:02:57Z",
+        "fileSize": 999,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 42354,
+        "name": "The Mystic Potion - A Magicka Boost Mod",
+        "status": "published",
+        "summary": "This mod adds a quest to find the legendary artifact known only as \"The Mystic Potion\",\nwith a fun puzzle and some unique enemies to fight.\n\nThe potion itself gives you a whooping",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42354-3-1357527933.jpg",
+        "uid": "429496771954",
+        "updatedAt": "2017-09-20T09:45:52Z"
+      }
+    ],
+    "totalCount": 53
   }
 }

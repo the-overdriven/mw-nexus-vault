@@ -1,65 +1,72 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 3,
-          "130": 1,
-          "5609": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-05-10T18:23:39Z",
-          "fileSize": 48,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 56554,
-          "name": "Improved Global Map Markers - MWSE",
-          "status": "published",
-          "summary": "Adds icons for global map markers.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56554/56554-1746894573-850882047.png",
-          "uid": "429496786154",
-          "updatedAt": "2025-05-11T19:01:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-06T22:33:44Z",
-          "fileSize": 90,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 53947,
-          "name": "Loot Detector - MWSE",
-          "status": "published",
-          "summary": "QOL for those who like to explore/search/looting.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53947/53947-1704580115-1701019327.png",
-          "uid": "429496783547",
-          "updatedAt": "2025-04-03T06:09:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-12-22T04:19:45Z",
-          "fileSize": 9,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53870,
-          "name": "MXPS - Morrowind Experience Point System (MWSE) XP",
-          "status": "published",
-          "summary": "MXPS - Morrowind Experience Point System adds a functional and customizable XP system to Morrowind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53870/53870-1737996936-868838542.png",
-          "uid": "429496783470",
-          "updatedAt": "2025-05-13T02:46:02Z"
-        }
-      ],
-      "totalCount": 3
+  "checkedAt": "2025-05-13T18:59:00.181Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3,
+        "130": 1,
+        "5609": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:23.803Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-10T18:23:39Z",
+        "fileSize": 48,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56554,
+        "name": "Improved Global Map Markers - MWSE",
+        "status": "published",
+        "summary": "Adds icons for global map markers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56554/56554-1746894573-850882047.png",
+        "uid": "429496786154",
+        "updatedAt": "2025-05-13T18:41:40Z",
+        "fileIds": [
+          "1000052878"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-06T22:33:44Z",
+        "fileSize": 90,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 53947,
+        "name": "Loot Detector - MWSE",
+        "status": "published",
+        "summary": "QOL for those who like to explore/search/looting.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53947/53947-1704580115-1701019327.png",
+        "uid": "429496783547",
+        "updatedAt": "2025-04-03T06:09:46Z",
+        "fileIds": [
+          "1000051658"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-22T04:19:45Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53870,
+        "name": "MXPS - Morrowind Experience Point System (MWSE) XP",
+        "status": "published",
+        "summary": "MXPS - Morrowind Experience Point System adds a functional and customizable XP system to Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53870/53870-1737996936-868838542.png",
+        "uid": "429496783470",
+        "updatedAt": "2025-05-13T02:46:02Z",
+        "fileIds": [
+          "1000052846"
+        ]
+      }
+    ],
+    "totalCount": 3
   }
 }

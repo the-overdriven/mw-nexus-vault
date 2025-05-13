@@ -1,207 +1,205 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 12
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-10-20T09:19:08Z",
-          "fileSize": 20,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 55361,
-          "name": "AATL Compatibility Patches",
-          "status": "published",
-          "summary": "Compatibility patches for various mods to work with AATL_Data and AATL_Main.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55361/55361-1729415573-746748503.jpeg",
-          "uid": "429496784961",
-          "updatedAt": "2024-10-21T22:57:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-02-12T17:51:15Z",
-          "fileSize": 66,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 54147,
-          "name": "AATL Official Mods",
-          "status": "published",
-          "summary": "Main page for AATL-Based Mods by the AATL Team.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54147/54147-1729303003-371747853.png",
-          "uid": "429496783747",
-          "updatedAt": "2024-10-24T01:47:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-06-01T08:13:04Z",
-          "fileSize": 21,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 51402,
-          "name": "Animated Staff of Magnus",
-          "status": "published",
-          "summary": "Animates the Staff of Magnus. Bonus, a similar treatment was given to the Iceblade of the Monarch with particle effects and gem transparency.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51402/51402-1653978456-952895854.jpeg",
-          "uid": "429496781002",
-          "updatedAt": "2022-06-01T08:13:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-12T05:01:48Z",
-          "fileSize": 8038,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 51218,
-          "name": "Better Caves and Caverns",
-          "status": "published",
-          "summary": "Alteration to some of the Vanilla Caves and Caverns with a visual overhaul, as well as improved enemies and Bosses, all while maintaining maximum compatibility.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51218/51218-1652330547-1415431545.jpeg",
-          "uid": "429496780818",
-          "updatedAt": "2022-05-12T05:01:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-03T10:07:37Z",
-          "fileSize": 31498,
-          "modCategory": {
-            "categoryId": 12,
-            "name": "Official Plugins"
-          },
-          "modId": 51107,
-          "name": "Bethesda Official Plugins Naturalized",
-          "status": "published",
-          "summary": "Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51107/51107-1651570661-441698538.png",
-          "uid": "429496780707",
-          "updatedAt": "2022-05-03T10:07:37Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-01-16T01:40:08Z",
-          "fileSize": 18815,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 50647,
-          "name": "AATL_Data",
-          "status": "published",
-          "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
-          "uid": "429496780247",
-          "updatedAt": "2024-11-28T19:55:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-15T23:30:21Z",
-          "fileSize": 377,
-          "modCategory": {
-            "categoryId": 37,
-            "name": "Armour - Shields"
-          },
-          "modId": 46388,
-          "name": "Bucklers Remastered",
-          "status": "published",
-          "summary": "Re-make of my old mod, Bucklers in Morrowind. Now version 2.0!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46388/46388-1550603582-1468604416.png",
-          "uid": "429496775988",
-          "updatedAt": "2023-04-16T22:54:28Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-02T21:48:47Z",
-          "fileSize": 1135,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 46364,
-          "name": "Pikas Miscellaneous Mods",
-          "status": "published",
-          "summary": "Lots of various mods, from fixes to new models. Some things are pulled from my other mods, but many of the files here are unreleased mods of mine that have been recreated and",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46364/46364-1549142072-1771714646.png",
-          "uid": "429496775964",
-          "updatedAt": "2024-03-05T16:28:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-05T02:52:27Z",
-          "fileSize": 70,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 45631,
-          "name": "PikachunoTMs Mesh Artifact Improvements and Replacers",
-          "status": "published",
-          "summary": "Replaces a lot of the vanilla (plus Tribunal and Bloodmoon) meshes with scratch-built versions with fixed uvs and better shaping. Includes an optional add-on that provides the",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45631/45631-1544834775-1961814526.png",
-          "uid": "429496775231",
-          "updatedAt": "2018-12-15T00:45:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-01T15:23:07Z",
-          "fileSize": 21,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 45612,
-          "name": "Samarys Ancestral Tomb Expanded",
-          "status": "published",
-          "summary": "An ancient burial lies in ruins outside of Seyda Neen – the few who know of the secrets it holds guard them closely, and the tomb lays all but forgotten.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45612/45612-1525187522-69153319.png",
-          "uid": "429496775212",
-          "updatedAt": "2022-06-03T06:48:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-05-09T07:41:30Z",
-          "fileSize": 72,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44276,
-          "name": "Tamrielic Lore",
-          "status": "published",
-          "summary": "Allows more artifacts to be given to the Museum in Mournhold.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44276-0-1462779179.png",
-          "uid": "429496773876",
-          "updatedAt": "2024-01-31T02:41:07Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-11-19T21:48:12Z",
-          "fileSize": 2285,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 43931,
-          "name": "Unofficial Morrowind Official Plugins Patched",
-          "status": "published",
-          "summary": "An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43931/43931-1600156306-811670806.png",
-          "uid": "429496773531",
-          "updatedAt": "2024-03-05T00:12:20Z"
-        }
-      ],
-      "totalCount": 12
+  "checkedAt": "2025-05-13T18:59:51.933Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 12
+      }
     },
-    "checkedAt": "2025-05-13T18:25:33.642Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-20T09:19:08Z",
+        "fileSize": 20,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 55361,
+        "name": "AATL Compatibility Patches",
+        "status": "published",
+        "summary": "Compatibility patches for various mods to work with AATL_Data and AATL_Main.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55361/55361-1729415573-746748503.jpeg",
+        "uid": "429496784961",
+        "updatedAt": "2024-10-21T22:57:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-12T17:51:15Z",
+        "fileSize": 66,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 54147,
+        "name": "AATL Official Mods",
+        "status": "published",
+        "summary": "Main page for AATL-Based Mods by the AATL Team.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54147/54147-1729303003-371747853.png",
+        "uid": "429496783747",
+        "updatedAt": "2024-10-24T01:47:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-06-01T08:13:04Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 51402,
+        "name": "Animated Staff of Magnus",
+        "status": "published",
+        "summary": "Animates the Staff of Magnus. Bonus, a similar treatment was given to the Iceblade of the Monarch with particle effects and gem transparency.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51402/51402-1653978456-952895854.jpeg",
+        "uid": "429496781002",
+        "updatedAt": "2022-06-01T08:13:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-12T05:01:48Z",
+        "fileSize": 8038,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 51218,
+        "name": "Better Caves and Caverns",
+        "status": "published",
+        "summary": "Alteration to some of the Vanilla Caves and Caverns with a visual overhaul, as well as improved enemies and Bosses, all while maintaining maximum compatibility.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51218/51218-1652330547-1415431545.jpeg",
+        "uid": "429496780818",
+        "updatedAt": "2022-05-12T05:01:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-03T10:07:37Z",
+        "fileSize": 31498,
+        "modCategory": {
+          "categoryId": 12,
+          "name": "Official Plugins"
+        },
+        "modId": 51107,
+        "name": "Bethesda Official Plugins Naturalized",
+        "status": "published",
+        "summary": "Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51107/51107-1651570661-441698538.png",
+        "uid": "429496780707",
+        "updatedAt": "2022-05-03T10:07:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-01-16T01:40:08Z",
+        "fileSize": 18815,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 50647,
+        "name": "AATL_Data",
+        "status": "published",
+        "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
+        "uid": "429496780247",
+        "updatedAt": "2024-11-28T19:55:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-15T23:30:21Z",
+        "fileSize": 377,
+        "modCategory": {
+          "categoryId": 37,
+          "name": "Armour - Shields"
+        },
+        "modId": 46388,
+        "name": "Bucklers Remastered",
+        "status": "published",
+        "summary": "Re-make of my old mod, Bucklers in Morrowind. Now version 2.0!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46388/46388-1550603582-1468604416.png",
+        "uid": "429496775988",
+        "updatedAt": "2023-04-16T22:54:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-02T21:48:47Z",
+        "fileSize": 1135,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 46364,
+        "name": "Pikas Miscellaneous Mods",
+        "status": "published",
+        "summary": "Lots of various mods, from fixes to new models. Some things are pulled from my other mods, but many of the files here are unreleased mods of mine that have been recreated and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46364/46364-1549142072-1771714646.png",
+        "uid": "429496775964",
+        "updatedAt": "2024-03-05T16:28:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-05T02:52:27Z",
+        "fileSize": 70,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 45631,
+        "name": "PikachunoTMs Mesh Artifact Improvements and Replacers",
+        "status": "published",
+        "summary": "Replaces a lot of the vanilla (plus Tribunal and Bloodmoon) meshes with scratch-built versions with fixed uvs and better shaping. Includes an optional add-on that provides the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45631/45631-1544834775-1961814526.png",
+        "uid": "429496775231",
+        "updatedAt": "2018-12-15T00:45:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-01T15:23:07Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 45612,
+        "name": "Samarys Ancestral Tomb Expanded",
+        "status": "published",
+        "summary": "An ancient burial lies in ruins outside of Seyda Neen – the few who know of the secrets it holds guard them closely, and the tomb lays all but forgotten.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45612/45612-1525187522-69153319.png",
+        "uid": "429496775212",
+        "updatedAt": "2022-06-03T06:48:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-05-09T07:41:30Z",
+        "fileSize": 72,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44276,
+        "name": "Tamrielic Lore",
+        "status": "published",
+        "summary": "Allows more artifacts to be given to the Museum in Mournhold.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44276-0-1462779179.png",
+        "uid": "429496773876",
+        "updatedAt": "2024-01-31T02:41:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-11-19T21:48:12Z",
+        "fileSize": 2285,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 43931,
+        "name": "Unofficial Morrowind Official Plugins Patched",
+        "status": "published",
+        "summary": "An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43931/43931-1600156306-811670806.png",
+        "uid": "429496773531",
+        "updatedAt": "2024-03-05T00:12:20Z"
+      }
+    ],
+    "totalCount": 12
   }
 }

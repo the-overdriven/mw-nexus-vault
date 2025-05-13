@@ -1,31 +1,32 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-03T12:21:18Z",
-          "fileSize": 149,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 56121,
-          "name": "The Effigy",
-          "status": "published",
-          "summary": "Unravel a tragic mystery in Cyrodiil.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56121/56121-1741024825-1763150572.jpeg",
-          "uid": "429496785721",
-          "updatedAt": "2025-03-10T21:46:15Z"
-        }
-      ],
-      "totalCount": 1
+  "checkedAt": "2025-05-13T19:04:58.345Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:39.137Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-03T12:21:18Z",
+        "fileSize": 149,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 56121,
+        "name": "The Effigy",
+        "status": "published",
+        "summary": "Unravel a tragic mystery in Cyrodiil.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56121/56121-1741024825-1763150572.jpeg",
+        "uid": "429496785721",
+        "updatedAt": "2025-03-10T21:46:15Z",
+        "fileIds": [
+          "1000051084"
+        ]
+      }
+    ],
+    "totalCount": 1
   }
 }

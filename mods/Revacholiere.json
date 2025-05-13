@@ -1,143 +1,141 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 8
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-04T10:52:49Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 52809,
-          "name": "Spellscribe",
-          "status": "published",
-          "summary": "Allows you to transcribe spells onto pieces of paper and blank scrolls, to allow for organising your spell library without losing your spells permanently or to to have a collection",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52809/52809-1683197028-1693592587.png",
-          "uid": "429496782409",
-          "updatedAt": "2023-05-04T10:52:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-12-28T13:05:27Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 52108,
-          "name": "Just the Tooltip",
-          "status": "published",
-          "summary": "Add tooltips to items and NPCs, and mark items as \"collected\" so you can keep track of your hoard.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52108/52108-1672232366-66812981.png",
-          "uid": "429496781708",
-          "updatedAt": "2022-12-28T13:05:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-15T08:16:51Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 51240,
-          "name": "Poisoner",
-          "status": "published",
-          "summary": "A complement to the many poison mods released - this one more focused on stealthily applying poison to your targets, rather than putting poison on your weapon.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51240/51240-1652602461-933601692.png",
-          "uid": "429496780840",
-          "updatedAt": "2022-05-15T08:16:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-08T01:01:33Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 51175,
-          "name": "Simple Renamer MWSE",
-          "status": "published",
-          "summary": "A simple MWSE mod that lets you rename any object with a name.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51175/51175-1651971327-1605120470.png",
-          "uid": "429496780775",
-          "updatedAt": "2022-05-08T01:01:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-04T02:30:13Z",
-          "fileSize": 2943,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 51114,
-          "name": "Replica Crafting MWSE",
-          "status": "published",
-          "summary": "Craft replicas for any quest item which you would otherwise lose - re-make the dwemer puzzle box for displaying in your home, reforge the golden eggs and make a brand-new Oddfrid",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51114/51114-1651631180-1878291546.png",
-          "uid": "429496780714",
-          "updatedAt": "2023-04-22T19:22:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-04-30T23:16:48Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 51055,
-          "name": "Mehrunes' Razor Extended",
-          "status": "published",
-          "summary": "Adds a possible insta-kill effect to Mehrunes' Razor based on your Luck, as it has in Oblivion and Skyrim.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51055/51055-1651360470-858308389.jpeg",
-          "uid": "429496780655",
-          "updatedAt": "2022-04-30T23:16:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-10-20T19:02:50Z",
-          "fileSize": 1200,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 50345,
-          "name": "Trophy Taker",
-          "status": "published",
-          "summary": "Create dynamically-named trophies from any defeated enemy.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50345/50345-1634748122-1499833276.png",
-          "uid": "429496779945",
-          "updatedAt": "2021-11-09T20:12:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-08T23:48:47Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 49722,
-          "name": "Rev's Ashfall Patches",
-          "status": "published",
-          "summary": "Pluginless interoperability for Ashfall with several mods, including Wyrmhaven, Doors of Oblivion, and Enhanced Economics.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49722/49722-1620517394-1133677426.png",
-          "uid": "429496779322",
-          "updatedAt": "2021-05-08T23:48:47Z"
-        }
-      ],
-      "totalCount": 8
+  "checkedAt": "2025-05-13T18:59:58.030Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 8
+      }
     },
-    "checkedAt": "2025-05-13T18:25:35.474Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-04T10:52:49Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 52809,
+        "name": "Spellscribe",
+        "status": "published",
+        "summary": "Allows you to transcribe spells onto pieces of paper and blank scrolls, to allow for organising your spell library without losing your spells permanently or to to have a collection",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52809/52809-1683197028-1693592587.png",
+        "uid": "429496782409",
+        "updatedAt": "2023-05-04T10:52:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-12-28T13:05:27Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 52108,
+        "name": "Just the Tooltip",
+        "status": "published",
+        "summary": "Add tooltips to items and NPCs, and mark items as \"collected\" so you can keep track of your hoard.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52108/52108-1672232366-66812981.png",
+        "uid": "429496781708",
+        "updatedAt": "2022-12-28T13:05:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-15T08:16:51Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51240,
+        "name": "Poisoner",
+        "status": "published",
+        "summary": "A complement to the many poison mods released - this one more focused on stealthily applying poison to your targets, rather than putting poison on your weapon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51240/51240-1652602461-933601692.png",
+        "uid": "429496780840",
+        "updatedAt": "2022-05-15T08:16:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-08T01:01:33Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 51175,
+        "name": "Simple Renamer MWSE",
+        "status": "published",
+        "summary": "A simple MWSE mod that lets you rename any object with a name.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51175/51175-1651971327-1605120470.png",
+        "uid": "429496780775",
+        "updatedAt": "2022-05-08T01:01:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-04T02:30:13Z",
+        "fileSize": 2943,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 51114,
+        "name": "Replica Crafting MWSE",
+        "status": "published",
+        "summary": "Craft replicas for any quest item which you would otherwise lose - re-make the dwemer puzzle box for displaying in your home, reforge the golden eggs and make a brand-new Oddfrid",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51114/51114-1651631180-1878291546.png",
+        "uid": "429496780714",
+        "updatedAt": "2023-04-22T19:22:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:16:48Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 51055,
+        "name": "Mehrunes' Razor Extended",
+        "status": "published",
+        "summary": "Adds a possible insta-kill effect to Mehrunes' Razor based on your Luck, as it has in Oblivion and Skyrim.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51055/51055-1651360470-858308389.jpeg",
+        "uid": "429496780655",
+        "updatedAt": "2022-04-30T23:16:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-10-20T19:02:50Z",
+        "fileSize": 1200,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50345,
+        "name": "Trophy Taker",
+        "status": "published",
+        "summary": "Create dynamically-named trophies from any defeated enemy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50345/50345-1634748122-1499833276.png",
+        "uid": "429496779945",
+        "updatedAt": "2021-11-09T20:12:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-08T23:48:47Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 49722,
+        "name": "Rev's Ashfall Patches",
+        "status": "published",
+        "summary": "Pluginless interoperability for Ashfall with several mods, including Wyrmhaven, Doors of Oblivion, and Enhanced Economics.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49722/49722-1620517394-1133677426.png",
+        "uid": "429496779322",
+        "updatedAt": "2021-05-08T23:48:47Z"
+      }
+    ],
+    "totalCount": 8
   }
 }

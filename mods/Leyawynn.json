@@ -1,865 +1,863 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 53,
-          "101": 1,
-          "1704": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-05-01T18:41:30Z",
-          "fileSize": 17573,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 54540,
-          "name": "Ashlander Dombrists",
-          "status": "published",
-          "summary": "Adds 6 ashlanders playing a dombra with around 10 minutes of music recorded by myself",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54540/54540-1714588607-1359432801.png",
-          "uid": "429496784140",
-          "updatedAt": "2024-05-01T18:41:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2024-04-15T19:50:16Z",
-          "fileSize": 419,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 54458,
-          "name": "Ascadian Corkbulb Groves",
-          "status": "published",
-          "summary": "Adds corkbulb trees and roots in places where corkbulbs grow in the Ascadian Isles inspired by concept art",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54458/54458-1713210535-1571790969.png",
-          "uid": "429496784058",
-          "updatedAt": "2024-04-16T12:00:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-05T14:07:48Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 52281,
-          "name": "Smoking Yurts",
-          "status": "published",
-          "summary": "Adds smoke to yurts with lit fireplaces",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52281/52281-1675605866-1590903173.png",
-          "uid": "429496781881",
-          "updatedAt": "2023-02-05T14:07:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-01-07T18:30:20Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 52144,
-          "name": "No More Generic Egg Miners",
-          "status": "published",
-          "summary": "Fixes an oversight by Bethesda",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52144/52144-1673115927-429547534.png",
-          "uid": "429496781744",
-          "updatedAt": "2023-01-07T18:30:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-01-07T15:56:02Z",
-          "fileSize": 187,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52142,
-          "name": "Improved Cave Pools",
-          "status": "published",
-          "summary": "Animated water for cave pools",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52142/52142-1673106439-1051266021.gif",
-          "uid": "429496781742",
-          "updatedAt": "2023-01-07T15:56:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-01-01T18:15:12Z",
-          "fileSize": 72,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 52119,
-          "name": "De-Skyrimized Bound Weapon Replacer",
-          "status": "published",
-          "summary": "Adds conjuration particles to bound weapons",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52119/52119-1672596735-1515873108.png",
-          "uid": "429496781719",
-          "updatedAt": "2023-01-01T18:15:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-06-01T22:59:23Z",
-          "fileSize": 233,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 49817,
-          "name": "Redoran Council Overhall",
-          "status": "published",
-          "summary": "Overhauls the Redoran Council Hall, adding new areas of interest within the original cell, as well as new NPCs and dialogue.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49817/49817-1622581381-1758773532.png",
-          "uid": "429496779417",
-          "updatedAt": "2023-11-27T21:34:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-01T21:34:51Z",
-          "fileSize": 181,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 49627,
-          "name": "Prerelease Prisonmoon",
-          "status": "published",
-          "summary": "Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49627/49627-1619904583-9854328.png",
-          "uid": "429496779227",
-          "updatedAt": "2021-05-01T21:34:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-04-25T16:12:40Z",
-          "fileSize": 46,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 49584,
-          "name": "Knife-Ears",
-          "status": "published",
-          "summary": "Pointy ears for bretons to live up to their half elven heritage",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49584/49584-1619366811-1054225937.png",
-          "uid": "429496779184",
-          "updatedAt": "2021-04-26T14:20:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-04-24T22:32:27Z",
-          "fileSize": 4445,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 49581,
-          "name": "Vanilla Animated Main Menu",
-          "status": "published",
-          "summary": "makes the main menu use the mw_menu video like the xbox version",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49581/49581-1619303459-1578005304.png",
-          "uid": "429496779181",
-          "updatedAt": "2021-04-24T22:32:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-04-03T19:35:28Z",
-          "fileSize": 133,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 49503,
-          "name": "Old Blue Fin",
-          "status": "published",
-          "summary": "Made for the 2021 spring modjamgives old blue fin a blue fin",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49503/49503-1617478891-1569182476.png",
-          "uid": "429496779103",
-          "updatedAt": "2021-04-03T19:41:08Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-04-03T00:39:03Z",
-          "fileSize": 216,
-          "modCategory": {
-            "categoryId": 2,
-            "name": "Buildings"
-          },
-          "modId": 49495,
-          "name": "Minor Redoran Concept Art Inspired  City Enhancement",
-          "status": "published",
-          "summary": "Made for the 2021 spring modjamAdds small touches from the concept art to redoran towns.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49495/49495-1617409618-1772488907.png",
-          "uid": "429496779095",
-          "updatedAt": "2021-04-03T00:39:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-03-19T00:14:12Z",
-          "fileSize": 109,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 49426,
-          "name": "Inscribed Maar Gan Rock",
-          "status": "published",
-          "summary": "gives the rock in the maar gan shrine an actual inscription like how its described",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49426/49426-1616112684-189022948.png",
-          "uid": "429496779026",
-          "updatedAt": "2021-03-19T12:34:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-03-12T23:03:03Z",
-          "fileSize": 484,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 49401,
-          "name": "Open Helmets",
-          "status": "published",
-          "summary": "Makes eyes visible through helmets",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49401/49401-1615589437-1332262834.png",
-          "uid": "429496779001",
-          "updatedAt": "2021-03-12T23:03:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-20T13:42:16Z",
-          "fileSize": 764,
-          "modCategory": {
-            "categoryId": 14,
-            "name": "Races, Classes, and Birthsigns"
-          },
-          "modId": 48962,
-          "name": "Birthsigns Retextured",
-          "status": "published",
-          "summary": "Retextures birthsigns with the textures from TES Adventures Redguard",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48962/48962-1603201284-755045058.png",
-          "uid": "429496778562",
-          "updatedAt": "2020-10-20T13:42:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-16T19:09:24Z",
-          "fileSize": 52,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 48947,
-          "name": "Consistent Coin Sizes and Double Sided Coins",
-          "status": "published",
-          "summary": "Makes coin stacks have the same sized coins as single onesAlso includes a file to make coins have 2 sides with different sides for different stacks.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48947/48947-1602875149-1489417447.png",
-          "uid": "429496778547",
-          "updatedAt": "2022-02-16T13:50:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-11T18:49:36Z",
-          "fileSize": 16,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 48927,
-          "name": "Tiny dumb mods",
-          "status": "published",
-          "summary": "i just dump all the shit thats too small for its own page here",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48927/48927-1602441694-1320352560.png",
-          "uid": "429496778527",
-          "updatedAt": "2020-10-11T18:56:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-10T14:45:15Z",
-          "fileSize": 1083,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 48918,
-          "name": "The Great Scathes",
-          "status": "published",
-          "summary": "Makes the vanilla sulphur pits into proper sulphur ponds.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48918/48918-1602340544-295910928.png",
-          "uid": "429496778518",
-          "updatedAt": "2020-10-10T14:45:15Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-10T03:29:19Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 48916,
-          "name": "Hlaalu Nobles Facial Overhaul",
-          "status": "published",
-          "summary": "Gives Hlaalu Nobles some heads from tamriel rebuilt to suit the original concepts better.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48916/48916-1602300172-1061374399.png",
-          "uid": "429496778516",
-          "updatedAt": "2020-10-10T03:29:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-19T23:00:31Z",
-          "fileSize": 62,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47703,
-          "name": "High Ordinator Ebony Mail Mashup",
-          "status": "published",
-          "summary": "Makes the ebony mail fit into the high ordinator set, since it stood out a lot before.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47703/47703-1584658482-1598011534.png",
-          "uid": "429496777303",
-          "updatedAt": "2020-03-19T23:00:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-18T20:45:34Z",
-          "fileSize": 34,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 47697,
-          "name": "Blue Fix-el",
-          "status": "published",
-          "summary": "Fixes a stray blue pixel on a Telvanni texture.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47697/47697-1584564223-802709400.png",
-          "uid": "429496777297",
-          "updatedAt": "2020-03-18T20:45:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-13T00:27:00Z",
-          "fileSize": 77,
-          "modCategory": {
-            "categoryId": 11,
-            "name": "NPCs"
-          },
-          "modId": 47687,
-          "name": "Vivace",
-          "status": "published",
-          "summary": "Turns Vivec into an imperial. I'm sorry.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47687/47687-1584058759-2015637758.png",
-          "uid": "429496777287",
-          "updatedAt": "2020-03-13T00:27:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-05T23:55:13Z",
-          "fileSize": 56,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 47671,
-          "name": "Hircine's Artifacts",
-          "status": "published",
-          "summary": "Changes the 2 amulets from the aspect of strength and speed into a mask and boots respectively. Also includes a spear replacer.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47671/47671-1583452038-1542603002.png",
-          "uid": "429496777271",
-          "updatedAt": "2020-03-06T14:46:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-05T17:41:52Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 5,
-            "name": "Guilds/Factions"
-          },
-          "modId": 47670,
-          "name": "Quests for Faction Leaders",
-          "status": "published",
-          "summary": "Makes it so that you can still do quests, even if you're the highest rank in the faction.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47670/47670-1583429979-1023743315.png",
-          "uid": "429496777270",
-          "updatedAt": "2020-03-12T20:01:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-03-04T03:19:23Z",
-          "fileSize": 63,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 47664,
-          "name": "Helseth's Robe Fixed",
-          "status": "published",
-          "summary": "Fixes bad weights on Helseth's robe.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47664/47664-1583291832-1157009076.png",
-          "uid": "429496777264",
-          "updatedAt": "2020-03-04T03:19:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-29T17:55:20Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 37,
-            "name": "Armour - Shields"
-          },
-          "modId": 47648,
-          "name": "Always there Spell Breaker",
-          "status": "published",
-          "summary": "Part of the Winter 2020 ModjamBecause the shield only appearing during the vampire quest is dumb.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47648/47648-1582995564-1467504174.png",
-          "uid": "429496777248",
-          "updatedAt": "2020-02-29T17:55:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-29T09:27:32Z",
-          "fileSize": 93,
-          "modCategory": {
-            "categoryId": 13,
-            "name": "Quests and Adventures"
-          },
-          "modId": 47645,
-          "name": "The Ebony Blade",
-          "status": "published",
-          "summary": "Part of the Winter 2020 ModjamChanges the reward for Mephala's Quest from the ring of khajiit to the Ebony Blade.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47645/47645-1582967609-587259719.png",
-          "uid": "429496777245",
-          "updatedAt": "2021-01-22T21:03:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-25T16:45:42Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47631,
-          "name": "Less Dumb Ancient Nordic Pickaxe",
-          "status": "published",
-          "summary": "Makes the ancient nordic pickaxe more compact and without the dumb tilted handle",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47631/47631-1582648727-1884660945.png",
-          "uid": "429496777231",
-          "updatedAt": "2020-02-25T16:45:42Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-21T16:51:28Z",
-          "fileSize": 129,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47618,
-          "name": "More Unique Spell Breaker",
-          "status": "published",
-          "summary": "Makes the artifact Spell Breaker not look so generic",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47618/47618-1582324704-110210673.png",
-          "uid": "429496777218",
-          "updatedAt": "2020-02-21T22:53:05Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-21T15:40:02Z",
-          "fileSize": 17,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 47616,
-          "name": "Unique Rusty Dagger",
-          "status": "published",
-          "summary": "Gives the rusty dagger used in Mehrunes Dagon's quest a unique model and textures",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47616/47616-1582299436-628135734.png",
-          "uid": "429496777216",
-          "updatedAt": "2020-02-21T15:40:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-19T03:15:26Z",
-          "fileSize": 15,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 47610,
-          "name": "Unique Black Hand's Dagger",
-          "status": "published",
-          "summary": "770 damage bs weapon now with an unique model",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47610/47610-1582081694-217973070.png",
-          "uid": "429496777210",
-          "updatedAt": "2020-02-19T03:15:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-18T18:10:30Z",
-          "fileSize": 62,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 47526,
-          "name": "Unique Soul Drinker",
-          "status": "published",
-          "summary": "Gives Soul Drinker an unique texture",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47526/47526-1579370331-681064974.png",
-          "uid": "429496777126",
-          "updatedAt": "2020-01-18T18:25:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-12T19:16:42Z",
-          "fileSize": 15,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47505,
-          "name": "Fang-Like Fang of Haynekhtnamet",
-          "status": "published",
-          "summary": "Removes the guard to make it look more like a fang",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47505/47505-1578856320-2001327631.png",
-          "uid": "429496777105",
-          "updatedAt": "2020-01-13T15:53:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-11T22:57:59Z",
-          "fileSize": 34,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 47503,
-          "name": "Battlespire Style Crescent",
-          "status": "published",
-          "summary": "Makes the Daedric Crescent look like it did in Battlespire",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47503/47503-1578783267-911496217.jpeg",
-          "uid": "429496777103",
-          "updatedAt": "2020-01-11T22:57:59Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-01-10T11:22:45Z",
-          "fileSize": 556,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 47498,
-          "name": "Concept Art Sixth House",
-          "status": "published",
-          "summary": "I intend to make the sixth house creatures look more like they did in MK's concepts.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47498/47498-1579140928-1991406752.png",
-          "uid": "429496777098",
-          "updatedAt": "2021-03-12T12:43:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-26T16:04:58Z",
-          "fileSize": 74,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 46814,
-          "name": "Concept Art Scrib",
-          "status": "published",
-          "summary": "Makes scrib appear as they do in concept art.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46814/46814-1558886615-277122881.png",
-          "uid": "429496776414",
-          "updatedAt": "2019-05-26T16:04:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-20T21:02:10Z",
-          "fileSize": 2086,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 46786,
-          "name": "Passage of Prayers - High Fane Corridor Overhaul",
-          "status": "published",
-          "summary": "This mod makes the previously empty high fane corridor a more interesting location.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46786/46786-1558349601-419093333.png",
-          "uid": "429496776386",
-          "updatedAt": "2022-12-31T13:40:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-17T12:14:48Z",
-          "fileSize": 177,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46770,
-          "name": "Vanilla Style Red Vos",
-          "status": "published",
-          "summary": "Vanilla based textures for the mod Red Vos.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46770/46770-1558094500-122792902.png",
-          "uid": "429496776370",
-          "updatedAt": "2020-01-29T14:50:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-17T09:22:33Z",
-          "fileSize": 525,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46769,
-          "name": "Vanilla Style White Suran",
-          "status": "published",
-          "summary": "Vanilla based textures for MD's White Suran.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46769/46769-1558084026-503123978.png",
-          "uid": "429496776369",
-          "updatedAt": "2020-01-29T14:55:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-05T13:02:15Z",
-          "fileSize": 1323,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 46691,
-          "name": "Valley of the Wind Overhaul",
-          "status": "published",
-          "summary": "Overhauls the Valley of the Wind with massive wind torn cliffs and fallen trees.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46691/46691-1580307556-2070527009.png",
-          "uid": "429496776291",
-          "updatedAt": "2020-01-29T14:18:40Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-02T18:53:48Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 46637,
-          "name": "Verelyn Hall - Another Balmora House Mod",
-          "status": "published",
-          "summary": "Adds a cozy house for sale in Balmora.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46637/46637-1556823116-1381439354.png",
-          "uid": "429496776237",
-          "updatedAt": "2019-05-03T17:27:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-02T12:00:15Z",
-          "fileSize": 47,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 46633,
-          "name": "Vanilla Style Unique Eltonbrand",
-          "status": "published",
-          "summary": "Does what it says on the tin.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46633/46633-1556797441-1694570458.png",
-          "uid": "429496776233",
-          "updatedAt": "2020-03-06T15:38:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-04-11T10:54:36Z",
-          "fileSize": 778,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 46534,
-          "name": "Unique Gothren's Cephalopod Helm",
-          "status": "published",
-          "summary": "Unique model for Gothren's Cephalopod Helm with animated antennas (!!!)",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46534/46534-1554979652-1558626477.png",
-          "uid": "429496776134",
-          "updatedAt": "2019-04-11T10:54:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-04-06T15:50:35Z",
-          "fileSize": 77,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46508,
-          "name": "Unique Dreugh Cuirass",
-          "status": "published",
-          "summary": "Makes the unique cuirass you get from defeating the dreugh warlord have a unique model.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46508/46508-1554565733-1899520846.png",
-          "uid": "429496776108",
-          "updatedAt": "2019-04-06T15:50:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-03-28T21:05:01Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46488,
-          "name": "Less Fat Adamantium Shortsword",
-          "status": "published",
-          "summary": "doesnt look like utter shit anymore",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46488/46488-1553806938-2063112511.png",
-          "uid": "429496776088",
-          "updatedAt": "2019-03-28T21:05:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-03-21T09:59:44Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 16,
-            "name": "Weapons and Armour"
-          },
-          "modId": 46459,
-          "name": "Auriel's Artifacts Improved",
-          "status": "published",
-          "summary": "Rebalances Auriel's Bow and Shield to make them better.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46459/46459-1553162160-1735555169.png",
-          "uid": "429496776059",
-          "updatedAt": "2019-03-21T09:59:44Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-19T01:35:35Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 46397,
-          "name": "Accurate Madstone",
-          "status": "published",
-          "summary": "Makes the Madstone of the Ahemmusa function like how it is described by Sinnammu Mirpal.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46397/46397-1550539893-2023487910.png",
-          "uid": "429496775997",
-          "updatedAt": "2019-02-19T09:42:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-18T14:40:51Z",
-          "fileSize": 27,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 46396,
-          "name": "Bound Weapon Replacer Fix",
-          "status": "published",
-          "summary": "Fixes the bad texture paths in Trainwiz's bound weapon replacer.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46396/46396-1550500704-688132.png",
-          "uid": "429496775996",
-          "updatedAt": "2019-02-18T14:40:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-03T15:45:31Z",
-          "fileSize": 28,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 46366,
-          "name": "Kwama Eggshell Helmet",
-          "status": "published",
-          "summary": "Adds a helmet made out of a Kwama egg to the Eretammus-Sennammu Egg Mine.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46366/46366-1549208328-306416170.png",
-          "uid": "429496775966",
-          "updatedAt": "2019-02-04T11:39:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-02T20:24:38Z",
-          "fileSize": 33,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 46363,
-          "name": "Unique Dagoth Dagger",
-          "status": "published",
-          "summary": "Gives the Dagoth Dagger a unique model based on concept art.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46363/46363-1644190158-2130857973.png",
-          "uid": "429496775963",
-          "updatedAt": "2022-02-06T23:25:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-02T19:47:36Z",
-          "fileSize": 18,
-          "modCategory": {
-            "categoryId": 38,
-            "name": "Armour"
-          },
-          "modId": 46362,
-          "name": "Unique Icecap",
-          "status": "published",
-          "summary": "Gives a unique mesh to The Icecap.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46362/46362-1549136728-217582429.png",
-          "uid": "429496775962",
-          "updatedAt": "2019-02-04T11:40:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-03-17T23:31:31Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 45535,
-          "name": "Temples with Shrines",
-          "status": "published",
-          "summary": "This mod adds shrines to the temples without one.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45535/45535-1521329125-958467299.png",
-          "uid": "429496775135",
-          "updatedAt": "2019-04-24T17:13:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-01-19T18:50:40Z",
-          "fileSize": 13,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 44042,
-          "name": "Actual Big Head",
-          "status": "published",
-          "summary": "Big Head gets a big head.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44042-3-1453229032.png",
-          "uid": "429496773642",
-          "updatedAt": "2016-01-23T12:27:35Z"
-        }
-      ],
-      "totalCount": 53
+  "checkedAt": "2025-05-13T18:59:24.688Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 53,
+        "101": 1,
+        "1704": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:28.273Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-01T18:41:30Z",
+        "fileSize": 17573,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54540,
+        "name": "Ashlander Dombrists",
+        "status": "published",
+        "summary": "Adds 6 ashlanders playing a dombra with around 10 minutes of music recorded by myself",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54540/54540-1714588607-1359432801.png",
+        "uid": "429496784140",
+        "updatedAt": "2024-05-01T18:41:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-15T19:50:16Z",
+        "fileSize": 419,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 54458,
+        "name": "Ascadian Corkbulb Groves",
+        "status": "published",
+        "summary": "Adds corkbulb trees and roots in places where corkbulbs grow in the Ascadian Isles inspired by concept art",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54458/54458-1713210535-1571790969.png",
+        "uid": "429496784058",
+        "updatedAt": "2024-04-16T12:00:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-05T14:07:48Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 52281,
+        "name": "Smoking Yurts",
+        "status": "published",
+        "summary": "Adds smoke to yurts with lit fireplaces",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52281/52281-1675605866-1590903173.png",
+        "uid": "429496781881",
+        "updatedAt": "2023-02-05T14:07:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-07T18:30:20Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 52144,
+        "name": "No More Generic Egg Miners",
+        "status": "published",
+        "summary": "Fixes an oversight by Bethesda",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52144/52144-1673115927-429547534.png",
+        "uid": "429496781744",
+        "updatedAt": "2023-01-07T18:30:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-07T15:56:02Z",
+        "fileSize": 187,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52142,
+        "name": "Improved Cave Pools",
+        "status": "published",
+        "summary": "Animated water for cave pools",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52142/52142-1673106439-1051266021.gif",
+        "uid": "429496781742",
+        "updatedAt": "2023-01-07T15:56:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-01T18:15:12Z",
+        "fileSize": 72,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 52119,
+        "name": "De-Skyrimized Bound Weapon Replacer",
+        "status": "published",
+        "summary": "Adds conjuration particles to bound weapons",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52119/52119-1672596735-1515873108.png",
+        "uid": "429496781719",
+        "updatedAt": "2023-01-01T18:15:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-06-01T22:59:23Z",
+        "fileSize": 233,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 49817,
+        "name": "Redoran Council Overhall",
+        "status": "published",
+        "summary": "Overhauls the Redoran Council Hall, adding new areas of interest within the original cell, as well as new NPCs and dialogue.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49817/49817-1622581381-1758773532.png",
+        "uid": "429496779417",
+        "updatedAt": "2023-11-27T21:34:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-01T21:34:51Z",
+        "fileSize": 181,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 49627,
+        "name": "Prerelease Prisonmoon",
+        "status": "published",
+        "summary": "Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49627/49627-1619904583-9854328.png",
+        "uid": "429496779227",
+        "updatedAt": "2021-05-01T21:34:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-04-25T16:12:40Z",
+        "fileSize": 46,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 49584,
+        "name": "Knife-Ears",
+        "status": "published",
+        "summary": "Pointy ears for bretons to live up to their half elven heritage",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49584/49584-1619366811-1054225937.png",
+        "uid": "429496779184",
+        "updatedAt": "2021-04-26T14:20:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-04-24T22:32:27Z",
+        "fileSize": 4445,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 49581,
+        "name": "Vanilla Animated Main Menu",
+        "status": "published",
+        "summary": "makes the main menu use the mw_menu video like the xbox version",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49581/49581-1619303459-1578005304.png",
+        "uid": "429496779181",
+        "updatedAt": "2021-04-24T22:32:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-04-03T19:35:28Z",
+        "fileSize": 133,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 49503,
+        "name": "Old Blue Fin",
+        "status": "published",
+        "summary": "Made for the 2021 spring modjamgives old blue fin a blue fin",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49503/49503-1617478891-1569182476.png",
+        "uid": "429496779103",
+        "updatedAt": "2021-04-03T19:41:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-04-03T00:39:03Z",
+        "fileSize": 216,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 49495,
+        "name": "Minor Redoran Concept Art Inspired  City Enhancement",
+        "status": "published",
+        "summary": "Made for the 2021 spring modjamAdds small touches from the concept art to redoran towns.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49495/49495-1617409618-1772488907.png",
+        "uid": "429496779095",
+        "updatedAt": "2021-04-03T00:39:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-19T00:14:12Z",
+        "fileSize": 109,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 49426,
+        "name": "Inscribed Maar Gan Rock",
+        "status": "published",
+        "summary": "gives the rock in the maar gan shrine an actual inscription like how its described",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49426/49426-1616112684-189022948.png",
+        "uid": "429496779026",
+        "updatedAt": "2021-03-19T12:34:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-12T23:03:03Z",
+        "fileSize": 484,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 49401,
+        "name": "Open Helmets",
+        "status": "published",
+        "summary": "Makes eyes visible through helmets",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49401/49401-1615589437-1332262834.png",
+        "uid": "429496779001",
+        "updatedAt": "2021-03-12T23:03:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-20T13:42:16Z",
+        "fileSize": 764,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 48962,
+        "name": "Birthsigns Retextured",
+        "status": "published",
+        "summary": "Retextures birthsigns with the textures from TES Adventures Redguard",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48962/48962-1603201284-755045058.png",
+        "uid": "429496778562",
+        "updatedAt": "2020-10-20T13:42:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-16T19:09:24Z",
+        "fileSize": 52,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 48947,
+        "name": "Consistent Coin Sizes and Double Sided Coins",
+        "status": "published",
+        "summary": "Makes coin stacks have the same sized coins as single onesAlso includes a file to make coins have 2 sides with different sides for different stacks.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48947/48947-1602875149-1489417447.png",
+        "uid": "429496778547",
+        "updatedAt": "2022-02-16T13:50:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-11T18:49:36Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 48927,
+        "name": "Tiny dumb mods",
+        "status": "published",
+        "summary": "i just dump all the shit thats too small for its own page here",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48927/48927-1602441694-1320352560.png",
+        "uid": "429496778527",
+        "updatedAt": "2020-10-11T18:56:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-10T14:45:15Z",
+        "fileSize": 1083,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 48918,
+        "name": "The Great Scathes",
+        "status": "published",
+        "summary": "Makes the vanilla sulphur pits into proper sulphur ponds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48918/48918-1602340544-295910928.png",
+        "uid": "429496778518",
+        "updatedAt": "2020-10-10T14:45:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-10T03:29:19Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 48916,
+        "name": "Hlaalu Nobles Facial Overhaul",
+        "status": "published",
+        "summary": "Gives Hlaalu Nobles some heads from tamriel rebuilt to suit the original concepts better.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48916/48916-1602300172-1061374399.png",
+        "uid": "429496778516",
+        "updatedAt": "2020-10-10T03:29:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-19T23:00:31Z",
+        "fileSize": 62,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47703,
+        "name": "High Ordinator Ebony Mail Mashup",
+        "status": "published",
+        "summary": "Makes the ebony mail fit into the high ordinator set, since it stood out a lot before.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47703/47703-1584658482-1598011534.png",
+        "uid": "429496777303",
+        "updatedAt": "2020-03-19T23:00:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-18T20:45:34Z",
+        "fileSize": 34,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 47697,
+        "name": "Blue Fix-el",
+        "status": "published",
+        "summary": "Fixes a stray blue pixel on a Telvanni texture.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47697/47697-1584564223-802709400.png",
+        "uid": "429496777297",
+        "updatedAt": "2020-03-18T20:45:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-13T00:27:00Z",
+        "fileSize": 77,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 47687,
+        "name": "Vivace",
+        "status": "published",
+        "summary": "Turns Vivec into an imperial. I'm sorry.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47687/47687-1584058759-2015637758.png",
+        "uid": "429496777287",
+        "updatedAt": "2020-03-13T00:27:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-05T23:55:13Z",
+        "fileSize": 56,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 47671,
+        "name": "Hircine's Artifacts",
+        "status": "published",
+        "summary": "Changes the 2 amulets from the aspect of strength and speed into a mask and boots respectively. Also includes a spear replacer.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47671/47671-1583452038-1542603002.png",
+        "uid": "429496777271",
+        "updatedAt": "2020-03-06T14:46:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-05T17:41:52Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 47670,
+        "name": "Quests for Faction Leaders",
+        "status": "published",
+        "summary": "Makes it so that you can still do quests, even if you're the highest rank in the faction.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47670/47670-1583429979-1023743315.png",
+        "uid": "429496777270",
+        "updatedAt": "2020-03-12T20:01:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-04T03:19:23Z",
+        "fileSize": 63,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 47664,
+        "name": "Helseth's Robe Fixed",
+        "status": "published",
+        "summary": "Fixes bad weights on Helseth's robe.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47664/47664-1583291832-1157009076.png",
+        "uid": "429496777264",
+        "updatedAt": "2020-03-04T03:19:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-29T17:55:20Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 37,
+          "name": "Armour - Shields"
+        },
+        "modId": 47648,
+        "name": "Always there Spell Breaker",
+        "status": "published",
+        "summary": "Part of the Winter 2020 ModjamBecause the shield only appearing during the vampire quest is dumb.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47648/47648-1582995564-1467504174.png",
+        "uid": "429496777248",
+        "updatedAt": "2020-02-29T17:55:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-29T09:27:32Z",
+        "fileSize": 93,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 47645,
+        "name": "The Ebony Blade",
+        "status": "published",
+        "summary": "Part of the Winter 2020 ModjamChanges the reward for Mephala's Quest from the ring of khajiit to the Ebony Blade.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47645/47645-1582967609-587259719.png",
+        "uid": "429496777245",
+        "updatedAt": "2021-01-22T21:03:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-25T16:45:42Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47631,
+        "name": "Less Dumb Ancient Nordic Pickaxe",
+        "status": "published",
+        "summary": "Makes the ancient nordic pickaxe more compact and without the dumb tilted handle",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47631/47631-1582648727-1884660945.png",
+        "uid": "429496777231",
+        "updatedAt": "2020-02-25T16:45:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-21T16:51:28Z",
+        "fileSize": 129,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47618,
+        "name": "More Unique Spell Breaker",
+        "status": "published",
+        "summary": "Makes the artifact Spell Breaker not look so generic",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47618/47618-1582324704-110210673.png",
+        "uid": "429496777218",
+        "updatedAt": "2020-02-21T22:53:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-21T15:40:02Z",
+        "fileSize": 17,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 47616,
+        "name": "Unique Rusty Dagger",
+        "status": "published",
+        "summary": "Gives the rusty dagger used in Mehrunes Dagon's quest a unique model and textures",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47616/47616-1582299436-628135734.png",
+        "uid": "429496777216",
+        "updatedAt": "2020-02-21T15:40:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-19T03:15:26Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 47610,
+        "name": "Unique Black Hand's Dagger",
+        "status": "published",
+        "summary": "770 damage bs weapon now with an unique model",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47610/47610-1582081694-217973070.png",
+        "uid": "429496777210",
+        "updatedAt": "2020-02-19T03:15:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-18T18:10:30Z",
+        "fileSize": 62,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 47526,
+        "name": "Unique Soul Drinker",
+        "status": "published",
+        "summary": "Gives Soul Drinker an unique texture",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47526/47526-1579370331-681064974.png",
+        "uid": "429496777126",
+        "updatedAt": "2020-01-18T18:25:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-12T19:16:42Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47505,
+        "name": "Fang-Like Fang of Haynekhtnamet",
+        "status": "published",
+        "summary": "Removes the guard to make it look more like a fang",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47505/47505-1578856320-2001327631.png",
+        "uid": "429496777105",
+        "updatedAt": "2020-01-13T15:53:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-11T22:57:59Z",
+        "fileSize": 34,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 47503,
+        "name": "Battlespire Style Crescent",
+        "status": "published",
+        "summary": "Makes the Daedric Crescent look like it did in Battlespire",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47503/47503-1578783267-911496217.jpeg",
+        "uid": "429496777103",
+        "updatedAt": "2020-01-11T22:57:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-01-10T11:22:45Z",
+        "fileSize": 556,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 47498,
+        "name": "Concept Art Sixth House",
+        "status": "published",
+        "summary": "I intend to make the sixth house creatures look more like they did in MK's concepts.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47498/47498-1579140928-1991406752.png",
+        "uid": "429496777098",
+        "updatedAt": "2021-03-12T12:43:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-26T16:04:58Z",
+        "fileSize": 74,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 46814,
+        "name": "Concept Art Scrib",
+        "status": "published",
+        "summary": "Makes scrib appear as they do in concept art.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46814/46814-1558886615-277122881.png",
+        "uid": "429496776414",
+        "updatedAt": "2019-05-26T16:04:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-20T21:02:10Z",
+        "fileSize": 2086,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 46786,
+        "name": "Passage of Prayers - High Fane Corridor Overhaul",
+        "status": "published",
+        "summary": "This mod makes the previously empty high fane corridor a more interesting location.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46786/46786-1558349601-419093333.png",
+        "uid": "429496776386",
+        "updatedAt": "2022-12-31T13:40:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-17T12:14:48Z",
+        "fileSize": 177,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46770,
+        "name": "Vanilla Style Red Vos",
+        "status": "published",
+        "summary": "Vanilla based textures for the mod Red Vos.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46770/46770-1558094500-122792902.png",
+        "uid": "429496776370",
+        "updatedAt": "2020-01-29T14:50:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-17T09:22:33Z",
+        "fileSize": 525,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46769,
+        "name": "Vanilla Style White Suran",
+        "status": "published",
+        "summary": "Vanilla based textures for MD's White Suran.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46769/46769-1558084026-503123978.png",
+        "uid": "429496776369",
+        "updatedAt": "2020-01-29T14:55:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-05T13:02:15Z",
+        "fileSize": 1323,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 46691,
+        "name": "Valley of the Wind Overhaul",
+        "status": "published",
+        "summary": "Overhauls the Valley of the Wind with massive wind torn cliffs and fallen trees.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46691/46691-1580307556-2070527009.png",
+        "uid": "429496776291",
+        "updatedAt": "2020-01-29T14:18:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-02T18:53:48Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 46637,
+        "name": "Verelyn Hall - Another Balmora House Mod",
+        "status": "published",
+        "summary": "Adds a cozy house for sale in Balmora.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46637/46637-1556823116-1381439354.png",
+        "uid": "429496776237",
+        "updatedAt": "2019-05-03T17:27:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-02T12:00:15Z",
+        "fileSize": 47,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 46633,
+        "name": "Vanilla Style Unique Eltonbrand",
+        "status": "published",
+        "summary": "Does what it says on the tin.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46633/46633-1556797441-1694570458.png",
+        "uid": "429496776233",
+        "updatedAt": "2020-03-06T15:38:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-04-11T10:54:36Z",
+        "fileSize": 778,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 46534,
+        "name": "Unique Gothren's Cephalopod Helm",
+        "status": "published",
+        "summary": "Unique model for Gothren's Cephalopod Helm with animated antennas (!!!)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46534/46534-1554979652-1558626477.png",
+        "uid": "429496776134",
+        "updatedAt": "2019-04-11T10:54:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-04-06T15:50:35Z",
+        "fileSize": 77,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46508,
+        "name": "Unique Dreugh Cuirass",
+        "status": "published",
+        "summary": "Makes the unique cuirass you get from defeating the dreugh warlord have a unique model.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46508/46508-1554565733-1899520846.png",
+        "uid": "429496776108",
+        "updatedAt": "2019-04-06T15:50:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-03-28T21:05:01Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46488,
+        "name": "Less Fat Adamantium Shortsword",
+        "status": "published",
+        "summary": "doesnt look like utter shit anymore",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46488/46488-1553806938-2063112511.png",
+        "uid": "429496776088",
+        "updatedAt": "2019-03-28T21:05:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-03-21T09:59:44Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 46459,
+        "name": "Auriel's Artifacts Improved",
+        "status": "published",
+        "summary": "Rebalances Auriel's Bow and Shield to make them better.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46459/46459-1553162160-1735555169.png",
+        "uid": "429496776059",
+        "updatedAt": "2019-03-21T09:59:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-19T01:35:35Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 46397,
+        "name": "Accurate Madstone",
+        "status": "published",
+        "summary": "Makes the Madstone of the Ahemmusa function like how it is described by Sinnammu Mirpal.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46397/46397-1550539893-2023487910.png",
+        "uid": "429496775997",
+        "updatedAt": "2019-02-19T09:42:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-18T14:40:51Z",
+        "fileSize": 27,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 46396,
+        "name": "Bound Weapon Replacer Fix",
+        "status": "published",
+        "summary": "Fixes the bad texture paths in Trainwiz's bound weapon replacer.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46396/46396-1550500704-688132.png",
+        "uid": "429496775996",
+        "updatedAt": "2019-02-18T14:40:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-03T15:45:31Z",
+        "fileSize": 28,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 46366,
+        "name": "Kwama Eggshell Helmet",
+        "status": "published",
+        "summary": "Adds a helmet made out of a Kwama egg to the Eretammus-Sennammu Egg Mine.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46366/46366-1549208328-306416170.png",
+        "uid": "429496775966",
+        "updatedAt": "2019-02-04T11:39:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-02T20:24:38Z",
+        "fileSize": 33,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 46363,
+        "name": "Unique Dagoth Dagger",
+        "status": "published",
+        "summary": "Gives the Dagoth Dagger a unique model based on concept art.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46363/46363-1644190158-2130857973.png",
+        "uid": "429496775963",
+        "updatedAt": "2022-02-06T23:25:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-02T19:47:36Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 46362,
+        "name": "Unique Icecap",
+        "status": "published",
+        "summary": "Gives a unique mesh to The Icecap.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46362/46362-1549136728-217582429.png",
+        "uid": "429496775962",
+        "updatedAt": "2019-02-04T11:40:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-03-17T23:31:31Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 45535,
+        "name": "Temples with Shrines",
+        "status": "published",
+        "summary": "This mod adds shrines to the temples without one.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45535/45535-1521329125-958467299.png",
+        "uid": "429496775135",
+        "updatedAt": "2019-04-24T17:13:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-01-19T18:50:40Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 44042,
+        "name": "Actual Big Head",
+        "status": "published",
+        "summary": "Big Head gets a big head.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44042-3-1453229032.png",
+        "uid": "429496773642",
+        "updatedAt": "2016-01-23T12:27:35Z"
+      }
+    ],
+    "totalCount": 53
   }
 }

@@ -1,116 +1,114 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 6,
-          "101": 1,
-          "130": 1,
-          "1704": 8,
-          "2295": 3,
-          "4187": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-01-09T19:32:07Z",
-          "fileSize": 64677,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 53963,
-          "name": "Kezyma's Map Builder for Morrowind",
-          "status": "published",
-          "summary": "Generate a full-size map of Morrowind, including any mods you have installed. Generates an html page with the map tiled using Leaflet.js as well as optionally generating a",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53963/53963-1704828097-2065763542.png",
-          "uid": "429496783563",
-          "updatedAt": "2024-01-11T02:28:01Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-10-10T13:56:39Z",
-          "fileSize": 14,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 53606,
-          "name": "Kezyma's Mechanics Remastered",
-          "status": "published",
-          "summary": "This is an MWSE plugin for Morrowind that aims to provide modernised versions of vanilla mechanics in Morrowind. The plugin is fully modular and each feature can be toggled through",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53606/53606-1696945957-1590762288.png",
-          "uid": "429496783206",
-          "updatedAt": "2023-10-18T12:02:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-13T21:27:55Z",
-          "fileSize": 904,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 52345,
-          "name": "Kezyma's OpenMW Player for Mod Organizer 2",
-          "status": "published",
-          "summary": "A plugin for Mod Organizer 2 that automatically exports your mod list, enabled plugins, and grass mods to OpenMW whenever you run the game through Mod Organizer.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52345/52345-1676311560-1311660267.png",
-          "uid": "429496781945",
-          "updatedAt": "2024-08-06T09:10:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-05T14:04:38Z",
-          "fileSize": 3184950,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 52279,
-          "name": "Kezyma's Voices of Vvardenfell",
-          "status": "published",
-          "summary": "A project to fully voice Morrowind using ElevenAI and MWSE. Comes with an optional 'greetings-only' mode and is easily extensible to add compatibility with other mods with no",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52279/52279-1675597677-521490875.png",
-          "uid": "429496781879",
-          "updatedAt": "2024-08-12T15:27:47Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-05-20T19:03:17Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 49823,
-          "name": "Kezyma's Myar Aranath English Translation Race Fix",
-          "status": "published",
-          "summary": "Anyone who's tried playing SureAI's total conversion mod Myar Aranath and also installed the English Translation mod will know that it causes the default Morrowind races to be",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49823/49823-1640621164-759572339.png",
-          "uid": "429496779423",
-          "updatedAt": "2021-05-20T19:03:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-10-29T13:02:55Z",
-          "fileSize": 194412,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 48987,
-          "name": "Kezyma's UI Remastered",
-          "status": "published",
-          "summary": "This is a UI replacement for Morrowind, intending to completely replace all UI elements in the game. I have packaged everything in a modular way so you can pick and choose which",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48987/48987-1640621108-305316680.png",
-          "uid": "429496778587",
-          "updatedAt": "2023-02-16T14:04:59Z"
-        }
-      ],
-      "totalCount": 6
+  "checkedAt": "2025-05-13T18:59:18.631Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 6,
+        "101": 1,
+        "130": 1,
+        "1704": 8,
+        "2295": 3,
+        "4187": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:27.063Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-09T19:32:07Z",
+        "fileSize": 64677,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 53963,
+        "name": "Kezyma's Map Builder for Morrowind",
+        "status": "published",
+        "summary": "Generate a full-size map of Morrowind, including any mods you have installed. Generates an html page with the map tiled using Leaflet.js as well as optionally generating a",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53963/53963-1704828097-2065763542.png",
+        "uid": "429496783563",
+        "updatedAt": "2024-01-11T02:28:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-10T13:56:39Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53606,
+        "name": "Kezyma's Mechanics Remastered",
+        "status": "published",
+        "summary": "This is an MWSE plugin for Morrowind that aims to provide modernised versions of vanilla mechanics in Morrowind. The plugin is fully modular and each feature can be toggled through",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53606/53606-1696945957-1590762288.png",
+        "uid": "429496783206",
+        "updatedAt": "2023-10-18T12:02:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-13T21:27:55Z",
+        "fileSize": 904,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 52345,
+        "name": "Kezyma's OpenMW Player for Mod Organizer 2",
+        "status": "published",
+        "summary": "A plugin for Mod Organizer 2 that automatically exports your mod list, enabled plugins, and grass mods to OpenMW whenever you run the game through Mod Organizer.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52345/52345-1676311560-1311660267.png",
+        "uid": "429496781945",
+        "updatedAt": "2024-08-06T09:10:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-05T14:04:38Z",
+        "fileSize": 3184950,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 52279,
+        "name": "Kezyma's Voices of Vvardenfell",
+        "status": "published",
+        "summary": "A project to fully voice Morrowind using ElevenAI and MWSE. Comes with an optional 'greetings-only' mode and is easily extensible to add compatibility with other mods with no",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52279/52279-1675597677-521490875.png",
+        "uid": "429496781879",
+        "updatedAt": "2024-08-12T15:27:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-20T19:03:17Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 49823,
+        "name": "Kezyma's Myar Aranath English Translation Race Fix",
+        "status": "published",
+        "summary": "Anyone who's tried playing SureAI's total conversion mod Myar Aranath and also installed the English Translation mod will know that it causes the default Morrowind races to be",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49823/49823-1640621164-759572339.png",
+        "uid": "429496779423",
+        "updatedAt": "2021-05-20T19:03:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-29T13:02:55Z",
+        "fileSize": 194412,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 48987,
+        "name": "Kezyma's UI Remastered",
+        "status": "published",
+        "summary": "This is a UI replacement for Morrowind, intending to completely replace all UI elements in the game. I have packaged everything in a modular way so you can pick and choose which",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48987/48987-1640621108-305316680.png",
+        "uid": "429496778587",
+        "updatedAt": "2023-02-16T14:04:59Z"
+      }
+    ],
+    "totalCount": 6
   }
 }

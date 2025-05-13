@@ -1,175 +1,173 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 10
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-19T22:22:54Z",
-          "fileSize": 296543,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 47254,
-          "name": "Tamriel Rebuilt - Original Soundtrack",
-          "status": "published",
-          "summary": "Adds whole new soundtrack for Tamriel Rebuilt areas, with region based music, dungeons, cities and other.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47254/47254-1571942063-321543468.jpeg",
-          "uid": "429496776854",
-          "updatedAt": "2019-12-19T22:22:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-07-15T13:35:34Z",
-          "fileSize": 1087,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 46962,
-          "name": "Modular cave set",
-          "status": "published",
-          "summary": "Modular cave set for greater freedom in cave level design",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46962/46962-1563138443-1390551606.jpeg",
-          "uid": "429496776562",
-          "updatedAt": "2019-07-26T12:04:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-06-18T13:01:00Z",
-          "fileSize": 56,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 46909,
-          "name": "Cinematic Camera - free smooth camera mode",
-          "status": "published",
-          "summary": "Smooth camera mode for recording videos.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46909/46909-1560859761-1651459369.jpeg",
-          "uid": "429496776509",
-          "updatedAt": "2019-06-18T13:01:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-03T17:33:54Z",
-          "fileSize": 1897,
-          "modCategory": {
-            "categoryId": 29,
-            "name": "Overhauls"
-          },
-          "modId": 46604,
-          "name": "Andasreth Stronghold - dungeon and exterior overhaul",
-          "status": "published",
-          "summary": "Rebuilds Andasreth stronghold and its exterior area.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46604/46604-1556703093-2048404997.jpeg",
-          "uid": "429496776204",
-          "updatedAt": "2019-07-05T15:40:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-03-13T12:25:30Z",
-          "fileSize": 8690,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46445,
-          "name": "Aesthesia - Stronghold textures",
-          "status": "published",
-          "summary": "Vanilla friendly textures for strongholds. 2k resolution, handmade, friendly to game aesthetics.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46445/46445-1552424597-683490301.jpeg",
-          "uid": "429496776045",
-          "updatedAt": "2019-03-13T12:25:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-03-01T14:41:39Z",
-          "fileSize": 1608,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46418,
-          "name": "Vurt's Bitter Coast Trees II - Remastered and Optimized",
-          "status": "published",
-          "summary": "Vurt's Bitter Coast Trees II with optimizations and model fixes so their performance is much better and their bugs are fixed.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46418/46418-1551450822-1039361910.jpeg",
-          "uid": "429496776018",
-          "updatedAt": "2019-03-01T15:08:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-02-11T11:29:08Z",
-          "fileSize": 99870,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 46377,
-          "name": "Aesthesia Groundcover - grass mod",
-          "status": "published",
-          "summary": "Grass for Morrowind - vanilla and Tamriel Rebuilt support. Made for every region. Includes Mesh Generator files.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46377/46377-1549812777-758709301.jpeg",
-          "uid": "429496775977",
-          "updatedAt": "2019-05-12T14:20:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-12-18T14:08:02Z",
-          "fileSize": 3214,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 46228,
-          "name": "Creepy Ashlands asset pack",
-          "status": "published",
-          "summary": "New 3D models for Ashlands and similar adding rocks, cliffs, decorations and holes.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46228/46228-1545136139-1175785828.jpeg",
-          "uid": "429496775828",
-          "updatedAt": "2019-07-05T15:36:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-12-05T15:14:29Z",
-          "fileSize": 505,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 46200,
-          "name": "MUSE 2 - Morrowind Music System Extended",
-          "status": "published",
-          "summary": "Extended and flexible music system for Morrowind, allows to easily customize your music as well as make new music mods.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46200/46200-1543960505-551584795.jpeg",
-          "uid": "429496775800",
-          "updatedAt": "2020-06-30T18:55:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-09-01T13:17:53Z",
-          "fileSize": 25113,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 46009,
-          "name": "Aesthesia - Hlaalu textures",
-          "status": "published",
-          "summary": "Artstyle friendly Hlaalu texture replacer - handpainted, close to original, 2k resolution. No photobashing, no upscaling.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46009/46009-1535806697-1218463952.jpeg",
-          "uid": "429496775609",
-          "updatedAt": "2018-10-07T14:39:15Z"
-        }
-      ],
-      "totalCount": 10
+  "checkedAt": "2025-05-13T19:04:38.202Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 10
+      }
     },
-    "checkedAt": "2025-05-13T18:25:35.913Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-19T22:22:54Z",
+        "fileSize": 296543,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 47254,
+        "name": "Tamriel Rebuilt - Original Soundtrack",
+        "status": "published",
+        "summary": "Adds whole new soundtrack for Tamriel Rebuilt areas, with region based music, dungeons, cities and other.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47254/47254-1571942063-321543468.jpeg",
+        "uid": "429496776854",
+        "updatedAt": "2019-12-19T22:22:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-07-15T13:35:34Z",
+        "fileSize": 1087,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 46962,
+        "name": "Modular cave set",
+        "status": "published",
+        "summary": "Modular cave set for greater freedom in cave level design",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46962/46962-1563138443-1390551606.jpeg",
+        "uid": "429496776562",
+        "updatedAt": "2019-07-26T12:04:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-06-18T13:01:00Z",
+        "fileSize": 56,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 46909,
+        "name": "Cinematic Camera - free smooth camera mode",
+        "status": "published",
+        "summary": "Smooth camera mode for recording videos.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46909/46909-1560859761-1651459369.jpeg",
+        "uid": "429496776509",
+        "updatedAt": "2019-06-18T13:01:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-03T17:33:54Z",
+        "fileSize": 1897,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 46604,
+        "name": "Andasreth Stronghold - dungeon and exterior overhaul",
+        "status": "published",
+        "summary": "Rebuilds Andasreth stronghold and its exterior area.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46604/46604-1556703093-2048404997.jpeg",
+        "uid": "429496776204",
+        "updatedAt": "2019-07-05T15:40:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-03-13T12:25:30Z",
+        "fileSize": 8690,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46445,
+        "name": "Aesthesia - Stronghold textures",
+        "status": "published",
+        "summary": "Vanilla friendly textures for strongholds. 2k resolution, handmade, friendly to game aesthetics.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46445/46445-1552424597-683490301.jpeg",
+        "uid": "429496776045",
+        "updatedAt": "2019-03-13T12:25:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-03-01T14:41:39Z",
+        "fileSize": 1608,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46418,
+        "name": "Vurt's Bitter Coast Trees II - Remastered and Optimized",
+        "status": "published",
+        "summary": "Vurt's Bitter Coast Trees II with optimizations and model fixes so their performance is much better and their bugs are fixed.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46418/46418-1551450822-1039361910.jpeg",
+        "uid": "429496776018",
+        "updatedAt": "2019-03-01T15:08:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-11T11:29:08Z",
+        "fileSize": 99870,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 46377,
+        "name": "Aesthesia Groundcover - grass mod",
+        "status": "published",
+        "summary": "Grass for Morrowind - vanilla and Tamriel Rebuilt support. Made for every region. Includes Mesh Generator files.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46377/46377-1549812777-758709301.jpeg",
+        "uid": "429496775977",
+        "updatedAt": "2019-05-12T14:20:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-12-18T14:08:02Z",
+        "fileSize": 3214,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 46228,
+        "name": "Creepy Ashlands asset pack",
+        "status": "published",
+        "summary": "New 3D models for Ashlands and similar adding rocks, cliffs, decorations and holes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46228/46228-1545136139-1175785828.jpeg",
+        "uid": "429496775828",
+        "updatedAt": "2019-07-05T15:36:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-12-05T15:14:29Z",
+        "fileSize": 505,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 46200,
+        "name": "MUSE 2 - Morrowind Music System Extended",
+        "status": "published",
+        "summary": "Extended and flexible music system for Morrowind, allows to easily customize your music as well as make new music mods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46200/46200-1543960505-551584795.jpeg",
+        "uid": "429496775800",
+        "updatedAt": "2020-06-30T18:55:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-09-01T13:17:53Z",
+        "fileSize": 25113,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46009,
+        "name": "Aesthesia - Hlaalu textures",
+        "status": "published",
+        "summary": "Artstyle friendly Hlaalu texture replacer - handpainted, close to original, 2k resolution. No photobashing, no upscaling.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46009/46009-1535806697-1218463952.jpeg",
+        "uid": "429496775609",
+        "updatedAt": "2018-10-07T14:39:15Z"
+      }
+    ],
+    "totalCount": 10
   }
 }

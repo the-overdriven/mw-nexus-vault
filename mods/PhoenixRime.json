@@ -1,271 +1,269 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 16
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2024-06-02T23:56:10Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 54785,
-          "name": "Golden Saint Stylish Equipment",
-          "status": "published",
-          "summary": "Golden saints always look stylish, as they use a long sword and a shield made of the same material (glass, ebony or daedric).",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54785/54785-1717372552-470203534.jpeg",
-          "uid": "429496784385",
-          "updatedAt": "2024-06-03T14:22:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-07-30T19:56:25Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 53310,
-          "name": "Winged Twilight Rebalance",
-          "status": "published",
-          "summary": "Allows the Winged Twilight to become stronger over the course of the game, 3 difficulty levels.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53310/53310-1690745544-1215281283.png",
-          "uid": "429496782910",
-          "updatedAt": "2023-07-30T19:56:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-06-01T21:39:34Z",
-          "fileSize": 341325,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 53005,
-          "name": "Vivec canton floor texture 4k and mod resource",
-          "status": "published",
-          "summary": "Several variations of new textures for the floor of the cantons of the city of Vivec.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53005/53005-1685651992-1126065082.png",
-          "uid": "429496782605",
-          "updatedAt": "2023-06-01T21:39:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-17T00:59:56Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 52892,
-          "name": "Thrown (Throwing) Weapons Rebalance",
-          "status": "published",
-          "summary": "Fixed errors in the parameters of throwing weapons. Throwing knives, darts, and stars now have different stats. Makes thrown weapons usable.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52892/52892-1684285175-1207372418.jpeg",
-          "uid": "429496782492",
-          "updatedAt": "2023-05-17T00:59:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-15T15:32:13Z",
-          "fileSize": 3899,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 52887,
-          "name": "Alternative textures for SM Bitter Coast Tree and Hybrid Trees",
-          "status": "published",
-          "summary": "Tree foliage color options for SM Bitter Coast Tree and Hybrid Trees to better match your favorite mods and retextures.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52887/52887-1684162519-214345296.png",
-          "uid": "429496782487",
-          "updatedAt": "2023-05-15T15:32:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-08T21:04:30Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 52842,
-          "name": "Bound Claymore Spell Effect",
-          "status": "published",
-          "summary": "Replaces the magic effect of bound longsword with bound claymore. For those who prefer two-handed weapons.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52842/52842-1683579800-1179081018.png",
-          "uid": "429496782442",
-          "updatedAt": "2023-05-08T21:04:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-04T11:02:45Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 52810,
-          "name": "Summon Dremora Lord spell",
-          "status": "published",
-          "summary": "Add Summon Dremora Lord spell that summons a Dremora Lord to fight at the caster's side for 60 seconds.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52810/52810-1683197864-1180007437.png",
-          "uid": "429496782410",
-          "updatedAt": "2023-05-05T02:26:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-01T22:51:55Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 52775,
-          "name": "Stylish Summoned Golden Saints",
-          "status": "published",
-          "summary": "Summoned golden saints always look stylish, as they use a long sword and a shield made of the same material (glass, ebony or daedric)",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52775/52775-1682980646-1120520674.png",
-          "uid": "429496782375",
-          "updatedAt": "2023-05-01T22:51:55Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-02-05T06:42:34Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 52276,
-          "name": "Legion Voice",
-          "status": "published",
-          "summary": "Two vanilla voiced quests for joining and expelling from the Imperial Legion. Two voiced forсed greetings and four extra greetings when you're out of uniform.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52276/52276-1676582110-255903908.png",
-          "uid": "429496781876",
-          "updatedAt": "2023-02-16T22:20:31Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-12-12T01:48:03Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 52049,
-          "name": "Dremora use only Daedric weapons",
-          "status": "published",
-          "summary": "With this mod, Dremora and Dremora Lords will always use Daedric weapons, and their quality stil depends on the player's level.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52049/52049-1670804255-661427105.png",
-          "uid": "429496781649",
-          "updatedAt": "2022-12-12T01:48:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-06-02T02:19:31Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 51427,
-          "name": "Real Disposition",
-          "status": "published",
-          "summary": "The modification makes the disposition of NPCs towards the player more realistic. Increases the number of amazing voice lines you'll hear per game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51427/51427-1654181769-645761335.jpeg",
-          "uid": "429496781027",
-          "updatedAt": "2022-12-03T00:52:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-27T13:45:35Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 51355,
-          "name": "Perfect Scum",
-          "status": "published",
-          "summary": "Changes the location of the scum models to better match the water level. Makes all swamps perfect. OpenMW and MGE XE compatible.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51355/51355-1653658121-2048193232.jpeg",
-          "uid": "429496780955",
-          "updatedAt": "2022-08-25T21:24:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-24T19:26:49Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 51309,
-          "name": "Atronach Rebalance",
-          "status": "published",
-          "summary": "This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51309/51309-1653420074-1404016163.jpeg",
-          "uid": "429496780909",
-          "updatedAt": "2023-09-07T17:18:30Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-19T09:14:18Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 51269,
-          "name": "Summoned Dremora Use Only Daedric Weapons",
-          "status": "published",
-          "summary": "With this mod, summoned Dremora will always use Daedric weapons, although their quality will also depend on the level of the player. Up to 8th level, this is a club or dagger. From",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51269/51269-1652951570-1083979730.png",
-          "uid": "429496780869",
-          "updatedAt": "2022-05-19T09:14:18Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-13T04:50:23Z",
-          "fileSize": 54,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 51215,
-          "name": "Voice Overhaul",
-          "status": "published",
-          "summary": "New voice line system made from scratch with great compatibility. Restored many unused audio files, increased the variety of voice lines. Lots of bug fixes and improvements.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51215/51215-1652411919-68668458.png",
-          "uid": "429496780815",
-          "updatedAt": "2023-04-18T22:10:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-12-11T12:49:07Z",
-          "fileSize": 43,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 50518,
-          "name": "PR Voice Enhanced Russian",
-          "status": "published",
-          "summary": "Все диалоги с голосовыми фразами в игре были рассортированы заново, учитывая в первую очередь характер их звучания.Восстановлено множество неиспользуемых реплик, исправлены все",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50518/50518-1639225424-1330198597.jpeg",
-          "uid": "429496780118",
-          "updatedAt": "2022-08-11T11:58:41Z"
-        }
-      ],
-      "totalCount": 16
+  "checkedAt": "2025-05-13T18:59:51.764Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 16
+      }
     },
-    "checkedAt": "2025-05-13T18:25:33.513Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-06-02T23:56:10Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 54785,
+        "name": "Golden Saint Stylish Equipment",
+        "status": "published",
+        "summary": "Golden saints always look stylish, as they use a long sword and a shield made of the same material (glass, ebony or daedric).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54785/54785-1717372552-470203534.jpeg",
+        "uid": "429496784385",
+        "updatedAt": "2024-06-03T14:22:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-30T19:56:25Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 53310,
+        "name": "Winged Twilight Rebalance",
+        "status": "published",
+        "summary": "Allows the Winged Twilight to become stronger over the course of the game, 3 difficulty levels.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53310/53310-1690745544-1215281283.png",
+        "uid": "429496782910",
+        "updatedAt": "2023-07-30T19:56:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-01T21:39:34Z",
+        "fileSize": 341325,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53005,
+        "name": "Vivec canton floor texture 4k and mod resource",
+        "status": "published",
+        "summary": "Several variations of new textures for the floor of the cantons of the city of Vivec.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53005/53005-1685651992-1126065082.png",
+        "uid": "429496782605",
+        "updatedAt": "2023-06-01T21:39:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-17T00:59:56Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52892,
+        "name": "Thrown (Throwing) Weapons Rebalance",
+        "status": "published",
+        "summary": "Fixed errors in the parameters of throwing weapons. Throwing knives, darts, and stars now have different stats. Makes thrown weapons usable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52892/52892-1684285175-1207372418.jpeg",
+        "uid": "429496782492",
+        "updatedAt": "2023-05-17T00:59:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-15T15:32:13Z",
+        "fileSize": 3899,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52887,
+        "name": "Alternative textures for SM Bitter Coast Tree and Hybrid Trees",
+        "status": "published",
+        "summary": "Tree foliage color options for SM Bitter Coast Tree and Hybrid Trees to better match your favorite mods and retextures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52887/52887-1684162519-214345296.png",
+        "uid": "429496782487",
+        "updatedAt": "2023-05-15T15:32:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-08T21:04:30Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 52842,
+        "name": "Bound Claymore Spell Effect",
+        "status": "published",
+        "summary": "Replaces the magic effect of bound longsword with bound claymore. For those who prefer two-handed weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52842/52842-1683579800-1179081018.png",
+        "uid": "429496782442",
+        "updatedAt": "2023-05-08T21:04:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-04T11:02:45Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 52810,
+        "name": "Summon Dremora Lord spell",
+        "status": "published",
+        "summary": "Add Summon Dremora Lord spell that summons a Dremora Lord to fight at the caster's side for 60 seconds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52810/52810-1683197864-1180007437.png",
+        "uid": "429496782410",
+        "updatedAt": "2023-05-05T02:26:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-01T22:51:55Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 52775,
+        "name": "Stylish Summoned Golden Saints",
+        "status": "published",
+        "summary": "Summoned golden saints always look stylish, as they use a long sword and a shield made of the same material (glass, ebony or daedric)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52775/52775-1682980646-1120520674.png",
+        "uid": "429496782375",
+        "updatedAt": "2023-05-01T22:51:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-05T06:42:34Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 52276,
+        "name": "Legion Voice",
+        "status": "published",
+        "summary": "Two vanilla voiced quests for joining and expelling from the Imperial Legion. Two voiced forсed greetings and four extra greetings when you're out of uniform.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52276/52276-1676582110-255903908.png",
+        "uid": "429496781876",
+        "updatedAt": "2023-02-16T22:20:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-12-12T01:48:03Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 52049,
+        "name": "Dremora use only Daedric weapons",
+        "status": "published",
+        "summary": "With this mod, Dremora and Dremora Lords will always use Daedric weapons, and their quality stil depends on the player's level.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52049/52049-1670804255-661427105.png",
+        "uid": "429496781649",
+        "updatedAt": "2022-12-12T01:48:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-06-02T02:19:31Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 51427,
+        "name": "Real Disposition",
+        "status": "published",
+        "summary": "The modification makes the disposition of NPCs towards the player more realistic. Increases the number of amazing voice lines you'll hear per game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51427/51427-1654181769-645761335.jpeg",
+        "uid": "429496781027",
+        "updatedAt": "2022-12-03T00:52:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-27T13:45:35Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 51355,
+        "name": "Perfect Scum",
+        "status": "published",
+        "summary": "Changes the location of the scum models to better match the water level. Makes all swamps perfect. OpenMW and MGE XE compatible.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51355/51355-1653658121-2048193232.jpeg",
+        "uid": "429496780955",
+        "updatedAt": "2022-08-25T21:24:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-24T19:26:49Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 51309,
+        "name": "Atronach Rebalance",
+        "status": "published",
+        "summary": "This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51309/51309-1653420074-1404016163.jpeg",
+        "uid": "429496780909",
+        "updatedAt": "2023-09-07T17:18:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-19T09:14:18Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 51269,
+        "name": "Summoned Dremora Use Only Daedric Weapons",
+        "status": "published",
+        "summary": "With this mod, summoned Dremora will always use Daedric weapons, although their quality will also depend on the level of the player. Up to 8th level, this is a club or dagger. From",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51269/51269-1652951570-1083979730.png",
+        "uid": "429496780869",
+        "updatedAt": "2022-05-19T09:14:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-13T04:50:23Z",
+        "fileSize": 54,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 51215,
+        "name": "Voice Overhaul",
+        "status": "published",
+        "summary": "New voice line system made from scratch with great compatibility. Restored many unused audio files, increased the variety of voice lines. Lots of bug fixes and improvements.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51215/51215-1652411919-68668458.png",
+        "uid": "429496780815",
+        "updatedAt": "2023-04-18T22:10:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-12-11T12:49:07Z",
+        "fileSize": 43,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 50518,
+        "name": "PR Voice Enhanced Russian",
+        "status": "published",
+        "summary": "Все диалоги с голосовыми фразами в игре были рассортированы заново, учитывая в первую очередь характер их звучания.Восстановлено множество неиспользуемых реплик, исправлены все",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50518/50518-1639225424-1330198597.jpeg",
+        "uid": "429496780118",
+        "updatedAt": "2022-08-11T11:58:41Z"
+      }
+    ],
+    "totalCount": 16
   }
 }

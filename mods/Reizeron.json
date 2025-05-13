@@ -1,704 +1,712 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 43,
-          "804": 1
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2020-09-12T13:04:44Z",
-          "fileSize": 323,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 48816,
-          "name": "Enlightened Flames",
-          "status": "published",
-          "summary": "Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48816/48816-1599915692-1189817956.gif",
-          "uid": "429496778416",
-          "updatedAt": "2021-08-17T11:55:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-09-03T17:05:41Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 48783,
-          "name": "Wading in Water MW",
-          "status": "published",
-          "summary": "Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48783/48783-1599151581-1103454511.jpeg",
-          "uid": "429496778383",
-          "updatedAt": "2021-08-17T08:33:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-07-18T12:27:00Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 48592,
-          "name": "Nels Llendo Has Standards",
-          "status": "published",
-          "summary": "Makes Nels Llendo less of a choroi yarichin by making him only ask female characters for their kiss if their Personality score is no less than 45 and they do not belong to a beast",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48592/48592-1595074407-1889994273.gif",
-          "uid": "429496778192",
-          "updatedAt": "2020-07-18T12:27:00Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-01T10:09:09Z",
-          "fileSize": 26,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 47908,
-          "name": "R-Zero's TES Construction Tools",
-          "status": "published",
-          "summary": "A collection of tools and fixes for Construction Set markers, designed to improve your modmaking experience.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47908/47908-1588322498-1805925455.png",
-          "uid": "429496777508",
-          "updatedAt": "2020-05-01T10:09:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-29T12:42:10Z",
-          "fileSize": 59,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 47646,
-          "name": "Redaynia Restored",
-          "status": "published",
-          "summary": "Adds the missing village of Ald Redaynia.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47646/47646-1582979905-2140384874.jpeg",
-          "uid": "429496777246",
-          "updatedAt": "2020-02-29T12:42:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-18T10:02:10Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 47608,
-          "name": "Shulki Ashunbabi Restoration",
-          "status": "published",
-          "summary": "Makes Shulki Ashunbabi from Gnisis a manly man again.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47608/47608-1582018817-2093764124.jpeg",
-          "uid": "429496777208",
-          "updatedAt": "2020-02-18T10:02:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-15T17:59:11Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 47603,
-          "name": "Tunnel Cough",
-          "status": "published",
-          "summary": "Makes Miner class NPCs cough.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47603/47603-1581789029-2145581207.jpeg",
-          "uid": "429496777203",
-          "updatedAt": "2020-02-15T17:59:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-02-01T13:33:09Z",
-          "fileSize": 1556,
-          "modCategory": {
-            "categoryId": 34,
-            "name": "Towns and Villages"
-          },
-          "modId": 47557,
-          "name": "Brevur of Balmora - Finally Some Good Statue Mod",
-          "status": "published",
-          "summary": "Adds a statue of Hlaalu Brevur to Balmora High Town district.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47557/47557-1580557583-991278719.jpeg",
-          "uid": "429496777157",
-          "updatedAt": "2021-08-17T08:57:36Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-06-10T14:31:34Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45765,
-          "name": "Lucky Strike - a Critical Hit Mod",
-          "status": "published",
-          "summary": "Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45765/45765-1528640935-841374040.png",
-          "uid": "429496775365",
-          "updatedAt": "2021-08-17T11:40:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-06-08T12:45:34Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45760,
-          "name": "Plaguebearer",
-          "status": "published",
-          "summary": "Enables PC -> NPC disease transmission.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45760/45760-1528461708-1022888268.png",
-          "uid": "429496775360",
-          "updatedAt": "2018-06-08T12:45:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-06-02T08:35:45Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 45742,
-          "name": "Putting Power In Willpower 2 - Antimagic Boogaloo",
-          "status": "published",
-          "summary": "Makes the Willpower stat less fucking useless by fixing the spell resist mechanics. Requires MWSE 2.1-dev.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45742/45742-1527927662-1053044703.png",
-          "uid": "429496775342",
-          "updatedAt": "2023-02-19T02:07:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-11-29T07:11:06Z",
-          "fileSize": 9,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 45338,
-          "name": "Personal Effects",
-          "status": "published",
-          "summary": "Seyda Neen Census and Excise now returns your character's personal effects upon release. What items you get depends on your character's class.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45338-7-1511938151.jpg",
-          "uid": "429496774938",
-          "updatedAt": "2018-06-18T11:07:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-11-29T07:07:11Z",
-          "fileSize": 446,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 45339,
-          "name": "R-Zero's Throbbing Meat - a Corprus Meat Replacer",
-          "status": "published",
-          "summary": "Replaces corprus meat models with animated, twitching ones ones.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45339/45339-1519417714-17949250.jpeg",
-          "uid": "429496774939",
-          "updatedAt": "2018-02-23T20:18:06Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-08-04T10:17:05Z",
-          "fileSize": 260,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 45105,
-          "name": "Shattered Stones - An Earthquake Mod",
-          "status": "published",
-          "summary": "Adds earthquakes to Morrowind. Requires MGE XE. Latest version of MCP highly recommended.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45105-0-1501785935.png",
-          "uid": "429496774705",
-          "updatedAt": "2017-08-04T10:05:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-02-03T14:13:49Z",
-          "fileSize": 92,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 44763,
-          "name": "Improved Thrown Weapon Projectiles",
-          "status": "published",
-          "summary": "Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44763-0-1486131153.jpg",
-          "uid": "429496774363",
-          "updatedAt": "2020-04-02T16:56:24Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-02-01T02:22:48Z",
-          "fileSize": 566,
-          "modCategory": {
-            "categoryId": 21,
-            "name": "Animations"
-          },
-          "modId": 44757,
-          "name": "Slower Crossbow Reload",
-          "status": "published",
-          "summary": "Slows down Crossbow reload animations. Requires Liztail's Animation Kit.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44757-0-1485915644.jpg",
-          "uid": "429496774357",
-          "updatedAt": "2017-02-01T02:18:38Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-10T20:46:43Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 44712,
-          "name": "Improved Cliff Racer AI",
-          "status": "published",
-          "summary": "Makes Cliff Racers' aggressiveness depend on how badly Player is wounded.\nDiseased Cliff Racers now have smaller aggression radius, but are less likely to flee than normal ones.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44712-0-1484080402.jpg",
-          "uid": "429496774312",
-          "updatedAt": "2017-01-10T20:43:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2017-01-03T14:31:31Z",
-          "fileSize": 1445,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 44690,
-          "name": "Dreaming Terrors - a Creature mod for Morrowind Modding Madness",
-          "status": "published",
-          "summary": "Adds a dream-quest with new enemies to fight.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44690-0-1483457238.jpg",
-          "uid": "429496774290",
-          "updatedAt": "2017-01-03T15:49:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-12-17T14:20:27Z",
-          "fileSize": 170,
-          "modCategory": {
-            "categoryId": 31,
-            "name": "Weapons"
-          },
-          "modId": 44650,
-          "name": "An Issue Of Thrust - an item mod for Morrowind Modding Madness",
-          "status": "published",
-          "summary": "Adds Rapiers to Morrowind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44650-11-1481971437.jpg",
-          "uid": "429496774250",
-          "updatedAt": "2021-08-17T06:58:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-12-09T05:35:22Z",
-          "fileSize": 1598,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 44633,
-          "name": "Mr. Mudhut's Shurreal Eshtate - a house mod for Morrowind Modding Madness",
-          "status": "published",
-          "summary": "Adds an unusual player home near Gnaar Mok.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44633-11-1481261387.jpg",
-          "uid": "429496774233",
-          "updatedAt": "2016-12-10T00:48:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-10-17T13:18:36Z",
-          "fileSize": 375,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 44586,
-          "name": "Store Entrance Chimes",
-          "status": "published",
-          "summary": "Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44586-2-1476709697.jpg",
-          "uid": "429496774186",
-          "updatedAt": "2017-12-21T00:03:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-06-09T23:49:27Z",
-          "fileSize": 380,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 44374,
-          "name": "Labeled Potions",
-          "status": "published",
-          "summary": "Adds symbols of potions' first effect to their icon and label.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44374-6-1465514225.jpg",
-          "uid": "429496773974",
-          "updatedAt": "2016-06-10T08:36:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-06-08T23:07:06Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 44371,
-          "name": "Silent Assassins",
-          "status": "published",
-          "summary": "With this simple mod, assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44371-0-1465432720.jpg",
-          "uid": "429496773971",
-          "updatedAt": "2016-06-08T23:05:13Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-03-22T20:03:23Z",
-          "fileSize": 30,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 44200,
-          "name": "Faces of Vel - Ash Mire",
-          "status": "published",
-          "summary": "Adds a large mud pit in the foyada south of Bthuand and Zergonipal.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44200-0-1458676797.jpg",
-          "uid": "429496773800",
-          "updatedAt": "2020-03-21T21:08:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-03-20T15:40:11Z",
-          "fileSize": 667,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44194,
-          "name": "Trackless Grazeland",
-          "status": "published",
-          "summary": "\"There are no roads or tracks in the Grazelands, but travel is easy across the rolling plains.\" - Morrowind Dialogue",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44194-0-1458488269.jpg",
-          "uid": "429496773794",
-          "updatedAt": "2016-03-20T15:32:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-03-09T03:43:02Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 44150,
-          "name": "Silt Strider Animation Restored",
-          "status": "published",
-          "summary": "Restores previously unused Silt Strider animation.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44150-0-1457493341.jpg",
-          "uid": "429496773750",
-          "updatedAt": "2016-03-09T03:37:08Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-03-04T22:59:56Z",
-          "fileSize": 183,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 44148,
-          "name": "Nocturnal Moths",
-          "status": "published",
-          "summary": "Adds moths flying around the lanterns at night.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44148/44148-1736088485-1505147282.jpeg",
-          "uid": "429496773748",
-          "updatedAt": "2025-02-20T18:40:33Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-01-09T04:14:36Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 44025,
-          "name": "R-Zero's Random Retextures (and Replacers)",
-          "status": "published",
-          "summary": "A collection of texture replacers made by yours truly.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44025-0-1512364166.png",
-          "uid": "429496773625",
-          "updatedAt": "2017-12-04T05:24:46Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-07-06T09:47:12Z",
-          "fileSize": 382,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 43729,
-          "name": "R-Zero's Random Resouces",
-          "status": "published",
-          "summary": "A collection of modders resources made by yours truly.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43729-4-1436175851.png",
-          "uid": "429496773329",
-          "updatedAt": "2016-07-27T10:28:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-07-05T09:41:54Z",
-          "fileSize": 69,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43730,
-          "name": "Dwemer Statue Replacer",
-          "status": "published",
-          "summary": "Improves the look of Dwemer Statues.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43730-1-1436087487.png",
-          "uid": "429496773330",
-          "updatedAt": "2016-06-04T16:47:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-05-05T19:38:19Z",
-          "fileSize": 63,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43605,
-          "name": "Better Barnacles",
-          "status": "published",
-          "summary": "This mod replaces the barnacle textures with more high-quality ones  while still staying close to the original design.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43605-1-1430854566.png",
-          "uid": "429496773205",
-          "updatedAt": "2015-05-05T19:30:20Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-04-16T16:12:37Z",
-          "fileSize": 23,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43576,
-          "name": "Correct Iron Warhammer",
-          "status": "published",
-          "summary": "This is how in-game dialogues describe iron warhammers: \n\"The iron warhammer has a single head with a balancing spike to penetrate plate armor.\" \nBut in truth, iron warhammers had",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43576-1-1429200588.png",
-          "uid": "429496773176",
-          "updatedAt": "2015-04-16T16:12:08Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-02-25T07:31:08Z",
-          "fileSize": 835,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 43496,
-          "name": "R-Zero's Creatorium Part 1 - Waters and Shores",
-          "status": "published",
-          "summary": "Adds the following creatures in the game:\n - King Mudcrab\n - Titan Mudcrab\n - Blind Slaughterfish\n - Electric Slaughterfish\n - Dreugh Man'o'War\n - Land dreugh",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43496-1-1424846522.jpg",
-          "uid": "429496773096",
-          "updatedAt": "2015-02-25T07:14:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-02-20T08:23:51Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 43488,
-          "name": "Cave Drips",
-          "status": "published",
-          "summary": "Adds a visual effect to all vanilla cave drip sound emitters.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43488-1-1424420424.jpg",
-          "uid": "429496773088",
-          "updatedAt": "2016-03-05T20:43:52Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2015-02-14T10:29:22Z",
-          "fileSize": 26,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 43481,
-          "name": "Flies",
-          "status": "published",
-          "summary": "Adds a visual effect to all vanilla flies sound emitters.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43481-1-1423909581.jpg",
-          "uid": "429496773081",
-          "updatedAt": "2015-02-19T05:18:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-12-01T01:25:19Z",
-          "fileSize": 88,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43359,
-          "name": "Skeleton and Metal Sparks blood retexture",
-          "status": "published",
-          "summary": "While there are a couple of retextures for default red blood available, there were none for two other blood types - Skeleton (white) and Metal Sparks (gold). So, I went and made",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43359-1-1417396963.jpg",
-          "uid": "429496772959",
-          "updatedAt": "2014-12-01T01:25:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-11-17T10:37:16Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 43343,
-          "name": "Vampire Spells Fix",
-          "status": "published",
-          "summary": "Fixes vampire NPC scripts, prevents vampire spells and diseases from disappearing.Removes Vampire's Kiss spell from several vampires.Removes unneeded 75 Restoration increase from",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43343-1-1416220576.jpg",
-          "uid": "429496772943",
-          "updatedAt": "2014-11-17T10:34:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-10-07T08:40:34Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 43300,
-          "name": "Sound Spell Sound Effect",
-          "status": "published",
-          "summary": "With this plugin the player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43300-1-1412676173.jpg",
-          "uid": "429496772900",
-          "updatedAt": "2014-10-07T08:39:24Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-10-04T07:23:31Z",
-          "fileSize": 87,
-          "modCategory": {
-            "categoryId": 19,
-            "name": "Creatures"
-          },
-          "modId": 43297,
-          "name": "TR Silt Strider fix",
-          "status": "published",
-          "summary": "A small fix for Tamriel Rebuilt's Silt Strider creature model.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43297-1-1412407213.jpg",
-          "uid": "429496772897",
-          "updatedAt": "2014-10-04T07:23:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-09-28T01:07:45Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 43294,
-          "name": "True Scourge",
-          "status": "published",
-          "summary": "Makes the Scourge artifact behave more like its descripion in the game books - now it kills summoned daedra in one hit.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43294-1-1411866298.jpg",
-          "uid": "429496772894",
-          "updatedAt": "2014-09-28T01:07:35Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-09-19T18:29:39Z",
-          "fileSize": 1,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 43284,
-          "name": "King's Oath Fix",
-          "status": "published",
-          "summary": "Adds King's Oath blades to Helseth's personal guard members.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43284-1-1411151277.jpg",
-          "uid": "429496772884",
-          "updatedAt": "2014-09-19T18:16:49Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-09-18T19:35:45Z",
-          "fileSize": 171,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43282,
-          "name": "Fix-Hound",
-          "status": "published",
-          "summary": "Makes nix-hound's mandibles appear purple, just like they are described in in-game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43282-1-1411068572.jpg",
-          "uid": "429496772882",
-          "updatedAt": "2014-09-18T19:34:54Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2014-09-16T15:57:20Z",
-          "fileSize": 64,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 43277,
-          "name": "Skyrim-like Draugr Eyes",
-          "status": "published",
-          "summary": "Exactly what is says on the tin.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43277-1-1410882642.jpg",
-          "uid": "429496772877",
-          "updatedAt": "2014-09-16T15:56:39Z"
-        }
-      ],
-      "totalCount": 43
+  "checkedAt": "2025-05-13T18:59:57.495Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 43,
+        "804": 1
+      }
     },
-    "checkedAt": "2025-05-13T18:25:35.230Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2020-09-12T13:04:44Z",
+        "fileSize": 323,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 48816,
+        "name": "Enlightened Flames",
+        "status": "published",
+        "summary": "Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48816/48816-1599915692-1189817956.gif",
+        "uid": "429496778416",
+        "updatedAt": "2021-08-17T11:55:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-09-03T17:05:41Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 48783,
+        "name": "Wading in Water MW",
+        "status": "published",
+        "summary": "Slows all creatures, NPCs and the Player down when they are walking half-submerged in water. Requires MWSE 2.1.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48783/48783-1599151581-1103454511.jpeg",
+        "uid": "429496778383",
+        "updatedAt": "2021-08-17T08:33:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-07-18T12:27:00Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 48592,
+        "name": "Nels Llendo Has Standards",
+        "status": "published",
+        "summary": "Makes Nels Llendo less of a choroi yarichin by making him only ask female characters for their kiss if their Personality score is no less than 45 and they do not belong to a beast",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48592/48592-1595074407-1889994273.gif",
+        "uid": "429496778192",
+        "updatedAt": "2020-07-18T12:27:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-01T10:09:09Z",
+        "fileSize": 26,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 47908,
+        "name": "R-Zero's TES Construction Tools",
+        "status": "published",
+        "summary": "A collection of tools and fixes for Construction Set markers, designed to improve your modmaking experience.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47908/47908-1588322498-1805925455.png",
+        "uid": "429496777508",
+        "updatedAt": "2020-05-01T10:09:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-29T12:42:10Z",
+        "fileSize": 59,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 47646,
+        "name": "Redaynia Restored",
+        "status": "published",
+        "summary": "Adds the missing village of Ald Redaynia.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47646/47646-1582979905-2140384874.jpeg",
+        "uid": "429496777246",
+        "updatedAt": "2020-02-29T12:42:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-18T10:02:10Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 47608,
+        "name": "Shulki Ashunbabi Restoration",
+        "status": "published",
+        "summary": "Makes Shulki Ashunbabi from Gnisis a manly man again.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47608/47608-1582018817-2093764124.jpeg",
+        "uid": "429496777208",
+        "updatedAt": "2020-02-18T10:02:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-15T17:59:11Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 47603,
+        "name": "Tunnel Cough",
+        "status": "published",
+        "summary": "Makes Miner class NPCs cough.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47603/47603-1581789029-2145581207.jpeg",
+        "uid": "429496777203",
+        "updatedAt": "2020-02-15T17:59:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-01T13:33:09Z",
+        "fileSize": 1556,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 47557,
+        "name": "Brevur of Balmora - Finally Some Good Statue Mod",
+        "status": "published",
+        "summary": "Adds a statue of Hlaalu Brevur to Balmora High Town district.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47557/47557-1580557583-991278719.jpeg",
+        "uid": "429496777157",
+        "updatedAt": "2021-08-17T08:57:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-06-10T14:31:34Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45765,
+        "name": "Lucky Strike - a Critical Hit Mod",
+        "status": "published",
+        "summary": "Add as Luck-based Critical Strike mechanic reminiscent of one in Daggerfall.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45765/45765-1528640935-841374040.png",
+        "uid": "429496775365",
+        "updatedAt": "2021-08-17T11:40:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-06-08T12:45:34Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45760,
+        "name": "Plaguebearer",
+        "status": "published",
+        "summary": "Enables PC -> NPC disease transmission.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45760/45760-1528461708-1022888268.png",
+        "uid": "429496775360",
+        "updatedAt": "2018-06-08T12:45:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-06-02T08:35:45Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 45742,
+        "name": "Putting Power In Willpower 2 - Antimagic Boogaloo",
+        "status": "published",
+        "summary": "Makes the Willpower stat less fucking useless by fixing the spell resist mechanics. Requires MWSE 2.1-dev.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45742/45742-1527927662-1053044703.png",
+        "uid": "429496775342",
+        "updatedAt": "2023-02-19T02:07:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-11-29T07:11:06Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45338,
+        "name": "Personal Effects",
+        "status": "published",
+        "summary": "Seyda Neen Census and Excise now returns your character's personal effects upon release. What items you get depends on your character's class.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45338-7-1511938151.jpg",
+        "uid": "429496774938",
+        "updatedAt": "2018-06-18T11:07:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-11-29T07:07:11Z",
+        "fileSize": 446,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 45339,
+        "name": "R-Zero's Throbbing Meat - a Corprus Meat Replacer",
+        "status": "published",
+        "summary": "Replaces corprus meat models with animated, twitching ones ones.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45339/45339-1519417714-17949250.jpeg",
+        "uid": "429496774939",
+        "updatedAt": "2018-02-23T20:18:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-08-04T10:17:05Z",
+        "fileSize": 260,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45105,
+        "name": "Shattered Stones - An Earthquake Mod",
+        "status": "published",
+        "summary": "Adds earthquakes to Morrowind. Requires MGE XE. Latest version of MCP highly recommended.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45105-0-1501785935.png",
+        "uid": "429496774705",
+        "updatedAt": "2017-08-04T10:05:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-02-03T14:13:49Z",
+        "fileSize": 92,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 44763,
+        "name": "Improved Thrown Weapon Projectiles",
+        "status": "published",
+        "summary": "Makes thrown weapon projectiles fly pointy end forward and, some of them, spin in the air.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44763-0-1486131153.jpg",
+        "uid": "429496774363",
+        "updatedAt": "2020-04-02T16:56:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-02-01T02:22:48Z",
+        "fileSize": 566,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 44757,
+        "name": "Slower Crossbow Reload",
+        "status": "published",
+        "summary": "Slows down Crossbow reload animations. Requires Liztail's Animation Kit.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44757-0-1485915644.jpg",
+        "uid": "429496774357",
+        "updatedAt": "2017-02-01T02:18:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-10T20:46:43Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 44712,
+        "name": "Improved Cliff Racer AI",
+        "status": "published",
+        "summary": "Makes Cliff Racers' aggressiveness depend on how badly Player is wounded.\nDiseased Cliff Racers now have smaller aggression radius, but are less likely to flee than normal ones.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44712-0-1484080402.jpg",
+        "uid": "429496774312",
+        "updatedAt": "2017-01-10T20:43:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-01-03T14:31:31Z",
+        "fileSize": 1445,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 44690,
+        "name": "Dreaming Terrors - a Creature mod for Morrowind Modding Madness",
+        "status": "published",
+        "summary": "Adds a dream-quest with new enemies to fight.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44690-0-1483457238.jpg",
+        "uid": "429496774290",
+        "updatedAt": "2017-01-03T15:49:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-12-17T14:20:27Z",
+        "fileSize": 170,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 44650,
+        "name": "An Issue Of Thrust - an item mod for Morrowind Modding Madness",
+        "status": "published",
+        "summary": "Adds Rapiers to Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44650-11-1481971437.jpg",
+        "uid": "429496774250",
+        "updatedAt": "2021-08-17T06:58:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-12-09T05:35:22Z",
+        "fileSize": 1598,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 44633,
+        "name": "Mr. Mudhut's Shurreal Eshtate - a house mod for Morrowind Modding Madness",
+        "status": "published",
+        "summary": "Adds an unusual player home near Gnaar Mok.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44633-11-1481261387.jpg",
+        "uid": "429496774233",
+        "updatedAt": "2016-12-10T00:48:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-10-17T13:18:36Z",
+        "fileSize": 375,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 44586,
+        "name": "Store Entrance Chimes",
+        "status": "published",
+        "summary": "Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44586-2-1476709697.jpg",
+        "uid": "429496774186",
+        "updatedAt": "2017-12-21T00:03:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-06-09T23:49:27Z",
+        "fileSize": 380,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 44374,
+        "name": "Labeled Potions",
+        "status": "published",
+        "summary": "Adds symbols of potions' first effect to their icon and label.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44374-6-1465514225.jpg",
+        "uid": "429496773974",
+        "updatedAt": "2016-06-10T08:36:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-06-08T23:07:06Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 44371,
+        "name": "Silent Assassins",
+        "status": "published",
+        "summary": "With this simple mod, assassin class NPCs will be 10 times less likely to grunt or taunt you in combat, living up to their reputation of being deadly silent killers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44371-0-1465432720.jpg",
+        "uid": "429496773971",
+        "updatedAt": "2016-06-08T23:05:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-03-22T20:03:23Z",
+        "fileSize": 30,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 44200,
+        "name": "Faces of Vel - Ash Mire",
+        "status": "published",
+        "summary": "Adds a large mud pit in the foyada south of Bthuand and Zergonipal.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44200-0-1458676797.jpg",
+        "uid": "429496773800",
+        "updatedAt": "2020-03-21T21:08:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-03-20T15:40:11Z",
+        "fileSize": 667,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44194,
+        "name": "Trackless Grazeland",
+        "status": "published",
+        "summary": "\"There are no roads or tracks in the Grazelands, but travel is easy across the rolling plains.\" - Morrowind Dialogue",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44194-0-1458488269.jpg",
+        "uid": "429496773794",
+        "updatedAt": "2016-03-20T15:32:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-03-09T03:43:02Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 44150,
+        "name": "Silt Strider Animation Restored",
+        "status": "published",
+        "summary": "Restores previously unused Silt Strider animation.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44150-0-1457493341.jpg",
+        "uid": "429496773750",
+        "updatedAt": "2016-03-09T03:37:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-03-04T22:59:56Z",
+        "fileSize": 183,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44148,
+        "name": "Nocturnal Moths",
+        "status": "published",
+        "summary": "Adds moths flying around the lanterns at night.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44148/44148-1736088485-1505147282.jpeg",
+        "uid": "429496773748",
+        "updatedAt": "2025-02-20T18:40:33Z",
+        "fileIds": [
+          "1000050547",
+          "1000005298",
+          "1000005299",
+          "1000005303",
+          "1000005316",
+          "1000049327",
+          "1000049328",
+          "1000049345"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-01-09T04:14:36Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 44025,
+        "name": "R-Zero's Random Retextures (and Replacers)",
+        "status": "published",
+        "summary": "A collection of texture replacers made by yours truly.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44025-0-1512364166.png",
+        "uid": "429496773625",
+        "updatedAt": "2017-12-04T05:24:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-06T09:47:12Z",
+        "fileSize": 382,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 43729,
+        "name": "R-Zero's Random Resouces",
+        "status": "published",
+        "summary": "A collection of modders resources made by yours truly.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43729-4-1436175851.png",
+        "uid": "429496773329",
+        "updatedAt": "2016-07-27T10:28:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-05T09:41:54Z",
+        "fileSize": 69,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43730,
+        "name": "Dwemer Statue Replacer",
+        "status": "published",
+        "summary": "Improves the look of Dwemer Statues.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43730-1-1436087487.png",
+        "uid": "429496773330",
+        "updatedAt": "2016-06-04T16:47:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-05-05T19:38:19Z",
+        "fileSize": 63,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43605,
+        "name": "Better Barnacles",
+        "status": "published",
+        "summary": "This mod replaces the barnacle textures with more high-quality ones  while still staying close to the original design.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43605-1-1430854566.png",
+        "uid": "429496773205",
+        "updatedAt": "2015-05-05T19:30:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-04-16T16:12:37Z",
+        "fileSize": 23,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43576,
+        "name": "Correct Iron Warhammer",
+        "status": "published",
+        "summary": "This is how in-game dialogues describe iron warhammers: \n\"The iron warhammer has a single head with a balancing spike to penetrate plate armor.\" \nBut in truth, iron warhammers had",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43576-1-1429200588.png",
+        "uid": "429496773176",
+        "updatedAt": "2015-04-16T16:12:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-02-25T07:31:08Z",
+        "fileSize": 835,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 43496,
+        "name": "R-Zero's Creatorium Part 1 - Waters and Shores",
+        "status": "published",
+        "summary": "Adds the following creatures in the game:\n - King Mudcrab\n - Titan Mudcrab\n - Blind Slaughterfish\n - Electric Slaughterfish\n - Dreugh Man'o'War\n - Land dreugh",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43496-1-1424846522.jpg",
+        "uid": "429496773096",
+        "updatedAt": "2015-02-25T07:14:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-02-20T08:23:51Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 43488,
+        "name": "Cave Drips",
+        "status": "published",
+        "summary": "Adds a visual effect to all vanilla cave drip sound emitters.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43488-1-1424420424.jpg",
+        "uid": "429496773088",
+        "updatedAt": "2016-03-05T20:43:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-02-14T10:29:22Z",
+        "fileSize": 26,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 43481,
+        "name": "Flies",
+        "status": "published",
+        "summary": "Adds a visual effect to all vanilla flies sound emitters.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43481-1-1423909581.jpg",
+        "uid": "429496773081",
+        "updatedAt": "2015-02-19T05:18:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-12-01T01:25:19Z",
+        "fileSize": 88,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43359,
+        "name": "Skeleton and Metal Sparks blood retexture",
+        "status": "published",
+        "summary": "While there are a couple of retextures for default red blood available, there were none for two other blood types - Skeleton (white) and Metal Sparks (gold). So, I went and made",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43359-1-1417396963.jpg",
+        "uid": "429496772959",
+        "updatedAt": "2014-12-01T01:25:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-11-17T10:37:16Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 43343,
+        "name": "Vampire Spells Fix",
+        "status": "published",
+        "summary": "Fixes vampire NPC scripts, prevents vampire spells and diseases from disappearing.Removes Vampire's Kiss spell from several vampires.Removes unneeded 75 Restoration increase from",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43343-1-1416220576.jpg",
+        "uid": "429496772943",
+        "updatedAt": "2014-11-17T10:34:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-10-07T08:40:34Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 43300,
+        "name": "Sound Spell Sound Effect",
+        "status": "published",
+        "summary": "With this plugin the player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43300-1-1412676173.jpg",
+        "uid": "429496772900",
+        "updatedAt": "2014-10-07T08:39:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-10-04T07:23:31Z",
+        "fileSize": 87,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 43297,
+        "name": "TR Silt Strider fix",
+        "status": "published",
+        "summary": "A small fix for Tamriel Rebuilt's Silt Strider creature model.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43297-1-1412407213.jpg",
+        "uid": "429496772897",
+        "updatedAt": "2014-10-04T07:23:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-09-28T01:07:45Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 43294,
+        "name": "True Scourge",
+        "status": "published",
+        "summary": "Makes the Scourge artifact behave more like its descripion in the game books - now it kills summoned daedra in one hit.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43294-1-1411866298.jpg",
+        "uid": "429496772894",
+        "updatedAt": "2014-09-28T01:07:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-09-19T18:29:39Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 43284,
+        "name": "King's Oath Fix",
+        "status": "published",
+        "summary": "Adds King's Oath blades to Helseth's personal guard members.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43284-1-1411151277.jpg",
+        "uid": "429496772884",
+        "updatedAt": "2014-09-19T18:16:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-09-18T19:35:45Z",
+        "fileSize": 171,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43282,
+        "name": "Fix-Hound",
+        "status": "published",
+        "summary": "Makes nix-hound's mandibles appear purple, just like they are described in in-game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43282-1-1411068572.jpg",
+        "uid": "429496772882",
+        "updatedAt": "2014-09-18T19:34:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-09-16T15:57:20Z",
+        "fileSize": 64,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43277,
+        "name": "Skyrim-like Draugr Eyes",
+        "status": "published",
+        "summary": "Exactly what is says on the tin.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43277-1-1410882642.jpg",
+        "uid": "429496772877",
+        "updatedAt": "2014-09-16T15:56:39Z"
+      }
+    ],
+    "totalCount": 43
   }
 }

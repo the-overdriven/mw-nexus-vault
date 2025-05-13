@@ -1,47 +1,48 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 2
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-15T03:09:59Z",
-          "fileSize": 125,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 55782,
-          "name": "Look at this menu",
-          "status": "published",
-          "summary": "I don't think it's necessary to",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55782/55782-1736908581-1864290301.png",
-          "uid": "429496785382",
-          "updatedAt": "2025-01-15T03:09:59Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-12-18T20:24:26Z",
-          "fileSize": 79862,
-          "modCategory": {
-            "categoryId": 6,
-            "name": "Body, Face, and Hair"
-          },
-          "modId": 47398,
-          "name": "New Hairs for MacKom's Heads",
-          "status": "published",
-          "summary": "A new collection of hairs for MacKom heads or Races Redone.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47398/47398-1576687232-956646475.png",
-          "uid": "429496776998",
-          "updatedAt": "2019-12-18T20:24:26Z"
-        }
-      ],
-      "totalCount": 2
+  "checkedAt": "2025-05-13T18:58:37.279Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2
+      }
     },
-    "checkedAt": "2025-05-13T18:25:21.156Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-15T03:09:59Z",
+        "fileSize": 125,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 55782,
+        "name": "Look at this menu",
+        "status": "published",
+        "summary": "I don't think it's necessary to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55782/55782-1736908581-1864290301.png",
+        "uid": "429496785382",
+        "updatedAt": "2025-01-15T03:09:59Z",
+        "fileIds": [
+          "1000049544"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-12-18T20:24:26Z",
+        "fileSize": 79862,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 47398,
+        "name": "New Hairs for MacKom's Heads",
+        "status": "published",
+        "summary": "A new collection of hairs for MacKom heads or Races Redone.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47398/47398-1576687232-956646475.png",
+        "uid": "429496776998",
+        "updatedAt": "2019-12-18T20:24:26Z"
+      }
+    ],
+    "totalCount": 2
   }
 }

@@ -1,111 +1,109 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 6
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2021-07-23T05:09:24Z",
-          "fileSize": 12,
-          "modCategory": {
-            "categoryId": 7,
-            "name": "Items, Objects, and Clothes"
-          },
-          "modId": 50065,
-          "name": "Fish With Fishing Poles Expansion",
-          "status": "published",
-          "summary": "This is a small ESP file that loads AFTER RacerPlume's Fishing.esp, and a MWSE script that together, aim to make Pole Fishing more useful as a source of food for Ashfall. This",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50065/50065-1627016073-2040993830.png",
-          "uid": "429496779665",
-          "updatedAt": "2021-08-20T01:56:16Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-07-06T06:45:27Z",
-          "fileSize": 166,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 50026,
-          "name": "Dramatic Vivec BCOM Patch",
-          "status": "published",
-          "summary": "Dramatic Vivec updates the largest city in Vvardenfell by completely overhauling the lighting system, and adding flowerbeds, signs, and monuments. This is a version of the ESP that",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50026/50026-1625553519-506476563.jpeg",
-          "uid": "429496779626",
-          "updatedAt": "2021-08-04T05:38:10Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-07-04T03:27:22Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 27,
-            "name": "Player homes"
-          },
-          "modId": 50019,
-          "name": "DuraGra My House",
-          "status": "published",
-          "summary": "Edited Dura Gra-Bol house in Balmora.This is a utilitarian house, and as such it does not attempt to look like you're living there, and it takes some liberties to accelerate",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50019/50019-1625368693-253366726.jpeg",
-          "uid": "429496779619",
-          "updatedAt": "2021-07-04T03:27:22Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-07-03T04:43:13Z",
-          "fileSize": 88,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 50018,
-          "name": "Better Sorting Names MWSE",
-          "status": "published",
-          "summary": "This is a MWSE script that renames some items in Morrowind so that they sort together in your inventory and in your containers.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50018/50018-1625286440-883476383.jpeg",
-          "uid": "429496779618",
-          "updatedAt": "2021-09-02T03:23:03Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-06-24T20:29:36Z",
-          "fileSize": 160,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 50002,
-          "name": "Mudcrab Island TLAD-BCOM Patch",
-          "status": "published",
-          "summary": "TLAD and BCOM versions of the Phaedrus' amazing Mudcrab Island (v1.02) ESP. This replaces the Mudcrab Island ESP but you still need the original mod. Darker interiors, script",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50002/50002-1624565871-1868212995.jpeg",
-          "uid": "429496779602",
-          "updatedAt": "2021-07-29T07:14:25Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-03-06T05:40:24Z",
-          "fileSize": 116647,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 49371,
-          "name": "Atmospheric Sound Effects Expanded",
-          "status": "published",
-          "summary": "Contains original cleaned Atmospheric Sound Effects 3.0u4, an updated ASE v3.1, and merged ASE (Duncan) + ASE Expansions (Dark Angel) + Expanded Sounds (PirateLord) ASEE versions.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49371/49371-1615182663-405281897.png",
-          "uid": "429496778971",
-          "updatedAt": "2021-09-25T23:18:09Z"
-        }
-      ],
-      "totalCount": 6
+  "checkedAt": "2025-05-13T18:58:30.589Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 6
+      }
     },
-    "checkedAt": "2025-05-13T18:25:20.124Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2021-07-23T05:09:24Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 50065,
+        "name": "Fish With Fishing Poles Expansion",
+        "status": "published",
+        "summary": "This is a small ESP file that loads AFTER RacerPlume's Fishing.esp, and a MWSE script that together, aim to make Pole Fishing more useful as a source of food for Ashfall. This",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50065/50065-1627016073-2040993830.png",
+        "uid": "429496779665",
+        "updatedAt": "2021-08-20T01:56:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-07-06T06:45:27Z",
+        "fileSize": 166,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 50026,
+        "name": "Dramatic Vivec BCOM Patch",
+        "status": "published",
+        "summary": "Dramatic Vivec updates the largest city in Vvardenfell by completely overhauling the lighting system, and adding flowerbeds, signs, and monuments. This is a version of the ESP that",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50026/50026-1625553519-506476563.jpeg",
+        "uid": "429496779626",
+        "updatedAt": "2021-08-04T05:38:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-07-04T03:27:22Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 50019,
+        "name": "DuraGra My House",
+        "status": "published",
+        "summary": "Edited Dura Gra-Bol house in Balmora.This is a utilitarian house, and as such it does not attempt to look like you're living there, and it takes some liberties to accelerate",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50019/50019-1625368693-253366726.jpeg",
+        "uid": "429496779619",
+        "updatedAt": "2021-07-04T03:27:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-07-03T04:43:13Z",
+        "fileSize": 88,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 50018,
+        "name": "Better Sorting Names MWSE",
+        "status": "published",
+        "summary": "This is a MWSE script that renames some items in Morrowind so that they sort together in your inventory and in your containers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50018/50018-1625286440-883476383.jpeg",
+        "uid": "429496779618",
+        "updatedAt": "2021-09-02T03:23:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-06-24T20:29:36Z",
+        "fileSize": 160,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 50002,
+        "name": "Mudcrab Island TLAD-BCOM Patch",
+        "status": "published",
+        "summary": "TLAD and BCOM versions of the Phaedrus' amazing Mudcrab Island (v1.02) ESP. This replaces the Mudcrab Island ESP but you still need the original mod. Darker interiors, script",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50002/50002-1624565871-1868212995.jpeg",
+        "uid": "429496779602",
+        "updatedAt": "2021-07-29T07:14:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-06T05:40:24Z",
+        "fileSize": 116647,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 49371,
+        "name": "Atmospheric Sound Effects Expanded",
+        "status": "published",
+        "summary": "Contains original cleaned Atmospheric Sound Effects 3.0u4, an updated ASE v3.1, and merged ASE (Duncan) + ASE Expansions (Dark Angel) + Expanded Sounds (PirateLord) ASEE versions.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49371/49371-1615182663-405281897.png",
+        "uid": "429496778971",
+        "updatedAt": "2021-09-25T23:18:09Z"
+      }
+    ],
+    "totalCount": 6
   }
 }

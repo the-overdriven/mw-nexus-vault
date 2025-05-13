@@ -1,592 +1,624 @@
 {
-  "data": {
-    "mods": {
-      "facetsData": {
-        "gameId": {
-          "100": 36,
-          "1155": 2
-        }
-      },
-      "nodes": [
-        {
-          "adultContent": false,
-          "createdAt": "2025-03-05T07:38:59Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 56131,
-          "name": "Multiple Leveled Spawns",
-          "status": "published",
-          "summary": "More slaughter for your fish.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56131/56131-1741160001-437827440.jpeg",
-          "uid": "429496785731",
-          "updatedAt": "2025-03-05T07:38:59Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2025-01-31T19:19:13Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 55897,
-          "name": "Null's Minor Patches",
-          "status": "published",
-          "summary": "Just some patches.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55897/55897-1738349815-2146544884.jpeg",
-          "uid": "429496785497",
-          "updatedAt": "2025-02-02T06:00:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2023-05-04T19:51:53Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 52815,
-          "name": "Wonders of Water",
-          "status": "published",
-          "summary": "This mod attempts to make water react more to the world. When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52815/52815-1683229587-1441008430.jpeg",
-          "uid": "429496782415",
-          "updatedAt": "2023-05-04T19:51:53Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-27T21:21:19Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 51359,
-          "name": "External Commands",
-          "status": "published",
-          "summary": "Facilitates the reading of json packages from a monitored folder or through a TCP connection to allow the execution of scripts. This allows streamers to have interactive chat",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51359/51359-1653686278-1269008634.jpeg",
-          "uid": "429496780959",
-          "updatedAt": "2022-05-27T21:21:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-05T02:44:57Z",
-          "fileSize": 510,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 51132,
-          "name": "Matching Manuscripts",
-          "status": "published",
-          "summary": "Dynamically changes the book menu to make the book cover match the actual book being read.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51132/51132-1651711642-1938623355.jpeg",
-          "uid": "429496780732",
-          "updatedAt": "2022-05-05T02:44:57Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-02T22:20:32Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 51095,
-          "name": "Selection Details",
-          "status": "published",
-          "summary": "This mod aims to help mod developers and those working on their install to help diagnose issues. Have you ever wanted to know which texture that rock is using, so you can replace",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51095/51095-1651529747-418263653.jpeg",
-          "uid": "429496780695",
-          "updatedAt": "2022-05-24T00:29:27Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-01T23:07:08Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 51084,
-          "name": "Smarter Strike Sounds",
-          "status": "published",
-          "summary": "This mod improves the logic for selecting an enchantment failure sound. It enables selecting a random effect fail sound, and preventing the same enchantment from playing a sound",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51084/51084-1651446259-1303810287.jpeg",
-          "uid": "429496780684",
-          "updatedAt": "2022-05-01T23:07:08Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2022-05-01T00:33:39Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 18,
-            "name": "Bug Fixes"
-          },
-          "modId": 51059,
-          "name": "Less Lame Leveled Spawns",
-          "status": "published",
-          "summary": "This mod aims to fix some inconsistencies with how leveled creatures are spawned.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51059/51059-1651365208-1951391763.jpeg",
-          "uid": "429496780659",
-          "updatedAt": "2022-05-01T00:33:39Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2021-07-08T19:52:32Z",
-          "fileSize": 2,
-          "modCategory": {
-            "categoryId": 8,
-            "name": "Miscellaneous"
-          },
-          "modId": 50029,
-          "name": "Consistent Enchanting",
-          "status": "published",
-          "summary": "Carries over unique item information, such as condition and script data when enchanting items.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50029/50029-1625773820-136287093.jpeg",
-          "uid": "429496779629",
-          "updatedAt": "2022-05-06T03:18:11Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-12-06T18:42:36Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 49121,
-          "name": "Smarter Soultrap",
-          "status": "published",
-          "summary": "Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49121/49121-1607280136-96685353.jpeg",
-          "uid": "429496778721",
-          "updatedAt": "2025-01-30T19:18:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-08-17T06:05:09Z",
-          "fileSize": 24398,
-          "modCategory": {
-            "categoryId": 36,
-            "name": "Immersion"
-          },
-          "modId": 48711,
-          "name": "Fallen Ash",
-          "status": "published",
-          "summary": "Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48711/48711-1597644434-496915073.png",
-          "uid": "429496778311",
-          "updatedAt": "2020-08-17T06:05:09Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2020-05-02T02:14:56Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 9,
-            "name": "Models and Textures"
-          },
-          "modId": 47925,
-          "name": "Assetless No Glow",
-          "status": "published",
-          "summary": "Pluginless *and* assetless no-glow. Use less memory, get some frames back, and be more compatible!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47925/47925-1588385489-2005160725.jpeg",
-          "uid": "429496777525",
-          "updatedAt": "2020-05-02T02:14:56Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-06-02T07:06:48Z",
-          "fileSize": 283,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 46870,
-          "name": "TES3Merge",
-          "status": "published",
-          "summary": "A tool for automatically patching conflicts between mods for TES3: Morrowind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46870/46870-1559458965-639767057.png",
-          "uid": "429496776470",
-          "updatedAt": "2025-01-20T02:37:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-07T01:38:28Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 33,
-            "name": "Magic"
-          },
-          "modId": 46709,
-          "name": "Visually Filled Soul Gems",
-          "status": "published",
-          "summary": "This mod makes in-world soulgems that are filled appear as enchanted items.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46709/46709-1685974676-1446498578.gif",
-          "uid": "429496776309",
-          "updatedAt": "2023-06-05T13:28:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-05T22:21:02Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 46694,
-          "name": "Drop Light",
-          "status": "published",
-          "summary": "This mod causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46694/46694-1557094073-2102317712.jpeg",
-          "uid": "429496776294",
-          "updatedAt": "2019-05-05T22:21:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-04T22:33:12Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 46684,
-          "name": "The Last Witness",
-          "status": "published",
-          "summary": "This mod allows you to kill all the witnesses of a crime to remove the bounty.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46684/46684-1557008558-2053824407.jpeg",
-          "uid": "429496776284",
-          "updatedAt": "2019-05-04T22:33:12Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-03T22:11:29Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 46661,
-          "name": "Give a Gift",
-          "status": "published",
-          "summary": "The player can now also bribe NPCs with items, instead of just gold.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46661/46661-1556920097-1659316160.jpeg",
-          "uid": "429496776261",
-          "updatedAt": "2019-05-03T22:11:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-02T21:25:43Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 46642,
-          "name": "HUD Hider",
-          "status": "published",
-          "summary": "Adds a simple configurable keybind that turns the main HUD on/off.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46642/46642-1556831760-2058866426.jpeg",
-          "uid": "429496776242",
-          "updatedAt": "2023-06-05T17:07:19Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-05-01T20:00:25Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 46625,
-          "name": "Book Pickup",
-          "status": "published",
-          "summary": "Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46625/46625-1556739761-1707656505.jpeg",
-          "uid": "429496776225",
-          "updatedAt": "2024-02-16T01:51:04Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2019-01-13T06:03:43Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 46299,
-          "name": "Limited Leaping",
-          "status": "published",
-          "summary": "Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46299/46299-1547358864-157417504.jpeg",
-          "uid": "429496775899",
-          "updatedAt": "2019-01-13T06:03:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-10-01T19:06:00Z",
-          "fileSize": 224,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 46071,
-          "name": "UI Expansion",
-          "status": "published",
-          "summary": "Expands UI functionality with searching, filtering, and more visual feedback.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46071/46071-1538420403-1167645233.jpeg",
-          "uid": "429496775671",
-          "updatedAt": "2024-10-21T23:05:17Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-08-22T04:27:11Z",
-          "fileSize": 3,
-          "modCategory": {
-            "categoryId": 24,
-            "name": "User Interface"
-          },
-          "modId": 45981,
-          "name": "Get Lost",
-          "status": "published",
-          "summary": "Is removing all automatic mapping from the game a good idea? Probably not. But this mod does just that.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45981/45981-1534911540-2141378725.jpeg",
-          "uid": "429496775581",
-          "updatedAt": "2020-05-04T03:12:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-29T02:37:29Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45717,
-          "name": "Diligent Defenders",
-          "status": "published",
-          "summary": "This module makes it so that when the player or the player's companions are attacked, any companions will launch into action in defense.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45717/45717-1527561232-849078590.jpeg",
-          "uid": "429496775317",
-          "updatedAt": "2021-07-06T11:51:26Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-28T23:04:10Z",
-          "fileSize": 8,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45712,
-          "name": "Easy Escort",
-          "status": "published",
-          "summary": "Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45712/45712-1527548331-1689608109.jpeg",
-          "uid": "429496775312",
-          "updatedAt": "2021-07-06T11:53:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-28T18:13:57Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45710,
-          "name": "Dynamic Difficulty",
-          "status": "published",
-          "summary": "Changes the difficulty slider as the player levels up or moves through the world.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45710/45710-1527530952-869242414.jpeg",
-          "uid": "429496775310",
-          "updatedAt": "2019-04-10T05:54:51Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-25T03:38:48Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45697,
-          "name": "Proportional Progression",
-          "status": "published",
-          "summary": "This mod allows you to configure the rate at which skills level in a way that is more detailed than the simple game settings.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45697/45697-1527219346-779211797.png",
-          "uid": "429496775297",
-          "updatedAt": "2018-05-25T03:38:48Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-25T02:58:24Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 45696,
-          "name": "Memory Monitor",
-          "status": "published",
-          "summary": "This simple mod provides an in-game HUD element as the game approaches critical memory limits.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45696/45696-1527216984-1967236684.jpeg",
-          "uid": "429496775296",
-          "updatedAt": "2021-09-27T01:50:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-17T21:56:29Z",
-          "fileSize": 4,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45672,
-          "name": "Permanently Perished",
-          "status": "published",
-          "summary": "A simple permadeath mod for Morrowind. When you create a new character, you will be allowed to choose the number of lives the character has (defaults to 1). When the character",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45672/45672-1526593808-1981019009.jpeg",
-          "uid": "429496775272",
-          "updatedAt": "2018-05-17T21:56:29Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-14T00:04:58Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 25,
-            "name": "Audio"
-          },
-          "modId": 45657,
-          "name": "Sounds of Souls",
-          "status": "published",
-          "summary": "Ever think that it's a bit creepy that there are souls trapped just there, on your desk? Would it be even creepier if the souls spoke from beyond the grave? This mod makes them do",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45657/45657-1526256257-924325996.jpeg",
-          "uid": "429496775257",
-          "updatedAt": "2018-05-14T00:04:58Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-06T06:02:21Z",
-          "fileSize": 5,
-          "modCategory": {
-            "categoryId": 28,
-            "name": "Patches"
-          },
-          "modId": 45634,
-          "name": "Expeditious Exit",
-          "status": "published",
-          "summary": "Have issues with the game crashing on exit? This might help!",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45634/45634-1525585986-964557827.jpeg",
-          "uid": "429496775234",
-          "updatedAt": "2021-11-06T23:05:45Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-04T18:07:07Z",
-          "fileSize": 6,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45627,
-          "name": "Happy Harvesting",
-          "status": "published",
-          "summary": "This mod provides a very simple, generic-case auto-harvesting for organic containers in Morrowind.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45627/45627-1525456571-1040440194.jpeg",
-          "uid": "429496775227",
-          "updatedAt": "2019-04-10T09:59:34Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-03T21:09:56Z",
-          "fileSize": 15,
-          "modCategory": {
-            "categoryId": 4,
-            "name": "Gameplay"
-          },
-          "modId": 45624,
-          "name": "Controlled Consumption",
-          "status": "published",
-          "summary": "Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45624/45624-1531395934-67949792.jpeg",
-          "uid": "429496775224",
-          "updatedAt": "2022-01-11T02:26:02Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-05-01T08:03:44Z",
-          "fileSize": 7,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 45608,
-          "name": "Sophisticated Save System",
-          "status": "published",
-          "summary": "This mod changes how saves are handled by Morrowind. The goal of the mod is to provide more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45608/45608-1525161687-1397599004.jpeg",
-          "uid": "429496775208",
-          "updatedAt": "2021-07-06T11:56:23Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-03-28T22:34:23Z",
-          "fileSize": 163,
-          "modCategory": {
-            "categoryId": 17,
-            "name": "Modders Resources and Tutorials"
-          },
-          "modId": 45550,
-          "name": "Discord Rich Presence for Morrowind",
-          "status": "published",
-          "summary": "This shows the player's name, race, class, level, and location to the popular app, Discord.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45550/45550-1522276357-210182808.png",
-          "uid": "429496775150",
-          "updatedAt": "2018-08-09T14:19:41Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2018-02-09T21:10:50Z",
-          "fileSize": 388,
-          "modCategory": {
-            "categoryId": 15,
-            "name": "Utilities"
-          },
-          "modId": 45468,
-          "name": "Morrowind Script Extender",
-          "status": "published",
-          "summary": "A complete rewrite of Morrowind Script Extender, featuring new functionality and increased performance.",
-          "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45468/45468-1518232296-534256926.jpeg",
-          "uid": "429496775068",
-          "updatedAt": "2021-06-20T23:40:43Z"
-        },
-        {
-          "adultContent": false,
-          "createdAt": "2016-01-08T21:47:56Z",
-          "fileSize": 1841,
-          "modCategory": {
-            "categoryId": 3,
-            "name": "Dungeons and Locations"
-          },
-          "modId": 44024,
-          "name": "More Detailed Places - Compatibility Version",
-          "status": "published",
-          "summary": "Patches and compatibility fixes for MDP.",
-          "thumbnailUrl": null,
-          "uid": "429496773624",
-          "updatedAt": "2017-11-11T07:20:09Z"
-        }
-      ],
-      "totalCount": 36
+  "checkedAt": "2025-05-13T18:59:44.999Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 36,
+        "1155": 2
+      }
     },
-    "checkedAt": "2025-05-13T18:25:32.205Z"
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-05T07:38:59Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56131,
+        "name": "Multiple Leveled Spawns",
+        "status": "published",
+        "summary": "More slaughter for your fish.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56131/56131-1741160001-437827440.jpeg",
+        "uid": "429496785731",
+        "updatedAt": "2025-03-05T07:38:59Z",
+        "fileIds": [
+          "1000050925"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-31T19:19:13Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 55897,
+        "name": "Null's Minor Patches",
+        "status": "published",
+        "summary": "Just some patches.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55897/55897-1738349815-2146544884.jpeg",
+        "uid": "429496785497",
+        "updatedAt": "2025-02-02T06:00:11Z",
+        "fileIds": [
+          "1000049962",
+          "1000049967",
+          "1000049960",
+          "1000049963",
+          "1000049964",
+          "1000049965",
+          "1000049966",
+          "1000049968",
+          "1000050007"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-04T19:51:53Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 52815,
+        "name": "Wonders of Water",
+        "status": "published",
+        "summary": "This mod attempts to make water react more to the world. When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52815/52815-1683229587-1441008430.jpeg",
+        "uid": "429496782415",
+        "updatedAt": "2023-05-04T19:51:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-27T21:21:19Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 51359,
+        "name": "External Commands",
+        "status": "published",
+        "summary": "Facilitates the reading of json packages from a monitored folder or through a TCP connection to allow the execution of scripts. This allows streamers to have interactive chat",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51359/51359-1653686278-1269008634.jpeg",
+        "uid": "429496780959",
+        "updatedAt": "2022-05-27T21:21:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-05T02:44:57Z",
+        "fileSize": 510,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 51132,
+        "name": "Matching Manuscripts",
+        "status": "published",
+        "summary": "Dynamically changes the book menu to make the book cover match the actual book being read.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51132/51132-1651711642-1938623355.jpeg",
+        "uid": "429496780732",
+        "updatedAt": "2022-05-05T02:44:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-02T22:20:32Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 51095,
+        "name": "Selection Details",
+        "status": "published",
+        "summary": "This mod aims to help mod developers and those working on their install to help diagnose issues. Have you ever wanted to know which texture that rock is using, so you can replace",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51095/51095-1651529747-418263653.jpeg",
+        "uid": "429496780695",
+        "updatedAt": "2022-05-24T00:29:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-01T23:07:08Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 51084,
+        "name": "Smarter Strike Sounds",
+        "status": "published",
+        "summary": "This mod improves the logic for selecting an enchantment failure sound. It enables selecting a random effect fail sound, and preventing the same enchantment from playing a sound",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51084/51084-1651446259-1303810287.jpeg",
+        "uid": "429496780684",
+        "updatedAt": "2022-05-01T23:07:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-01T00:33:39Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 51059,
+        "name": "Less Lame Leveled Spawns",
+        "status": "published",
+        "summary": "This mod aims to fix some inconsistencies with how leveled creatures are spawned.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51059/51059-1651365208-1951391763.jpeg",
+        "uid": "429496780659",
+        "updatedAt": "2022-05-01T00:33:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-07-08T19:52:32Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 50029,
+        "name": "Consistent Enchanting",
+        "status": "published",
+        "summary": "Carries over unique item information, such as condition and script data when enchanting items.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50029/50029-1625773820-136287093.jpeg",
+        "uid": "429496779629",
+        "updatedAt": "2022-05-06T03:18:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-12-06T18:42:36Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49121,
+        "name": "Smarter Soultrap",
+        "status": "published",
+        "summary": "Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49121/49121-1607280136-96685353.jpeg",
+        "uid": "429496778721",
+        "updatedAt": "2025-01-30T19:18:09Z",
+        "fileIds": [
+          "1000049933",
+          "1000022092",
+          "1000022378"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-17T06:05:09Z",
+        "fileSize": 24398,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 48711,
+        "name": "Fallen Ash",
+        "status": "published",
+        "summary": "Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48711/48711-1597644434-496915073.png",
+        "uid": "429496778311",
+        "updatedAt": "2020-08-17T06:05:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-02T02:14:56Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 47925,
+        "name": "Assetless No Glow",
+        "status": "published",
+        "summary": "Pluginless *and* assetless no-glow. Use less memory, get some frames back, and be more compatible!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47925/47925-1588385489-2005160725.jpeg",
+        "uid": "429496777525",
+        "updatedAt": "2020-05-02T02:14:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-06-02T07:06:48Z",
+        "fileSize": 283,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 46870,
+        "name": "TES3Merge",
+        "status": "published",
+        "summary": "A tool for automatically patching conflicts between mods for TES3: Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46870/46870-1559458965-639767057.png",
+        "uid": "429496776470",
+        "updatedAt": "2025-01-20T02:37:41Z",
+        "fileIds": [
+          "1000049648",
+          "1000031646",
+          "1000031651",
+          "1000031686",
+          "1000038823",
+          "1000048445",
+          "1000014779",
+          "1000014812",
+          "1000014824",
+          "1000014863",
+          "1000017052",
+          "1000023020",
+          "1000028783"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-07T01:38:28Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 46709,
+        "name": "Visually Filled Soul Gems",
+        "status": "published",
+        "summary": "This mod makes in-world soulgems that are filled appear as enchanted items.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46709/46709-1685974676-1446498578.gif",
+        "uid": "429496776309",
+        "updatedAt": "2023-06-05T13:28:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-05T22:21:02Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 46694,
+        "name": "Drop Light",
+        "status": "published",
+        "summary": "This mod causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46694/46694-1557094073-2102317712.jpeg",
+        "uid": "429496776294",
+        "updatedAt": "2019-05-05T22:21:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-04T22:33:12Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 46684,
+        "name": "The Last Witness",
+        "status": "published",
+        "summary": "This mod allows you to kill all the witnesses of a crime to remove the bounty.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46684/46684-1557008558-2053824407.jpeg",
+        "uid": "429496776284",
+        "updatedAt": "2019-05-04T22:33:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-03T22:11:29Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 46661,
+        "name": "Give a Gift",
+        "status": "published",
+        "summary": "The player can now also bribe NPCs with items, instead of just gold.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46661/46661-1556920097-1659316160.jpeg",
+        "uid": "429496776261",
+        "updatedAt": "2019-05-03T22:11:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-02T21:25:43Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 46642,
+        "name": "HUD Hider",
+        "status": "published",
+        "summary": "Adds a simple configurable keybind that turns the main HUD on/off.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46642/46642-1556831760-2058866426.jpeg",
+        "uid": "429496776242",
+        "updatedAt": "2023-06-05T17:07:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-01T20:00:25Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 46625,
+        "name": "Book Pickup",
+        "status": "published",
+        "summary": "Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46625/46625-1556739761-1707656505.jpeg",
+        "uid": "429496776225",
+        "updatedAt": "2024-02-16T01:51:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-01-13T06:03:43Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 46299,
+        "name": "Limited Leaping",
+        "status": "published",
+        "summary": "Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46299/46299-1547358864-157417504.jpeg",
+        "uid": "429496775899",
+        "updatedAt": "2019-01-13T06:03:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-10-01T19:06:00Z",
+        "fileSize": 224,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 46071,
+        "name": "UI Expansion",
+        "status": "published",
+        "summary": "Expands UI functionality with searching, filtering, and more visual feedback.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46071/46071-1538420403-1167645233.jpeg",
+        "uid": "429496775671",
+        "updatedAt": "2024-10-21T23:05:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-08-22T04:27:11Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 45981,
+        "name": "Get Lost",
+        "status": "published",
+        "summary": "Is removing all automatic mapping from the game a good idea? Probably not. But this mod does just that.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45981/45981-1534911540-2141378725.jpeg",
+        "uid": "429496775581",
+        "updatedAt": "2020-05-04T03:12:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-29T02:37:29Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45717,
+        "name": "Diligent Defenders",
+        "status": "published",
+        "summary": "This module makes it so that when the player or the player's companions are attacked, any companions will launch into action in defense.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45717/45717-1527561232-849078590.jpeg",
+        "uid": "429496775317",
+        "updatedAt": "2021-07-06T11:51:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-28T23:04:10Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45712,
+        "name": "Easy Escort",
+        "status": "published",
+        "summary": "Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45712/45712-1527548331-1689608109.jpeg",
+        "uid": "429496775312",
+        "updatedAt": "2021-07-06T11:53:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-28T18:13:57Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45710,
+        "name": "Dynamic Difficulty",
+        "status": "published",
+        "summary": "Changes the difficulty slider as the player levels up or moves through the world.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45710/45710-1527530952-869242414.jpeg",
+        "uid": "429496775310",
+        "updatedAt": "2019-04-10T05:54:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-25T03:38:48Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45697,
+        "name": "Proportional Progression",
+        "status": "published",
+        "summary": "This mod allows you to configure the rate at which skills level in a way that is more detailed than the simple game settings.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45697/45697-1527219346-779211797.png",
+        "uid": "429496775297",
+        "updatedAt": "2018-05-25T03:38:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-25T02:58:24Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 45696,
+        "name": "Memory Monitor",
+        "status": "published",
+        "summary": "This simple mod provides an in-game HUD element as the game approaches critical memory limits.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45696/45696-1527216984-1967236684.jpeg",
+        "uid": "429496775296",
+        "updatedAt": "2021-09-27T01:50:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-17T21:56:29Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45672,
+        "name": "Permanently Perished",
+        "status": "published",
+        "summary": "A simple permadeath mod for Morrowind. When you create a new character, you will be allowed to choose the number of lives the character has (defaults to 1). When the character",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45672/45672-1526593808-1981019009.jpeg",
+        "uid": "429496775272",
+        "updatedAt": "2018-05-17T21:56:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-14T00:04:58Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 45657,
+        "name": "Sounds of Souls",
+        "status": "published",
+        "summary": "Ever think that it's a bit creepy that there are souls trapped just there, on your desk? Would it be even creepier if the souls spoke from beyond the grave? This mod makes them do",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45657/45657-1526256257-924325996.jpeg",
+        "uid": "429496775257",
+        "updatedAt": "2018-05-14T00:04:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-06T06:02:21Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 45634,
+        "name": "Expeditious Exit",
+        "status": "published",
+        "summary": "Have issues with the game crashing on exit? This might help!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45634/45634-1525585986-964557827.jpeg",
+        "uid": "429496775234",
+        "updatedAt": "2021-11-06T23:05:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-04T18:07:07Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45627,
+        "name": "Happy Harvesting",
+        "status": "published",
+        "summary": "This mod provides a very simple, generic-case auto-harvesting for organic containers in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45627/45627-1525456571-1040440194.jpeg",
+        "uid": "429496775227",
+        "updatedAt": "2019-04-10T09:59:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-03T21:09:56Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45624,
+        "name": "Controlled Consumption",
+        "status": "published",
+        "summary": "Provides a configurable restriction on the amount of potions the player can drink at any one time, removing one of the largest exploits in the game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45624/45624-1531395934-67949792.jpeg",
+        "uid": "429496775224",
+        "updatedAt": "2022-01-11T02:26:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-01T08:03:44Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 45608,
+        "name": "Sophisticated Save System",
+        "status": "published",
+        "summary": "This mod changes how saves are handled by Morrowind. The goal of the mod is to provide more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45608/45608-1525161687-1397599004.jpeg",
+        "uid": "429496775208",
+        "updatedAt": "2021-07-06T11:56:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-03-28T22:34:23Z",
+        "fileSize": 163,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 45550,
+        "name": "Discord Rich Presence for Morrowind",
+        "status": "published",
+        "summary": "This shows the player's name, race, class, level, and location to the popular app, Discord.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45550/45550-1522276357-210182808.png",
+        "uid": "429496775150",
+        "updatedAt": "2018-08-09T14:19:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-02-09T21:10:50Z",
+        "fileSize": 388,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 45468,
+        "name": "Morrowind Script Extender",
+        "status": "published",
+        "summary": "A complete rewrite of Morrowind Script Extender, featuring new functionality and increased performance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45468/45468-1518232296-534256926.jpeg",
+        "uid": "429496775068",
+        "updatedAt": "2021-06-20T23:40:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-01-08T21:47:56Z",
+        "fileSize": 1841,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 44024,
+        "name": "More Detailed Places - Compatibility Version",
+        "status": "published",
+        "summary": "Patches and compatibility fixes for MDP.",
+        "thumbnailUrl": null,
+        "uid": "429496773624",
+        "updatedAt": "2017-11-11T07:20:09Z"
+      }
+    ],
+    "totalCount": 36
   }
 }
