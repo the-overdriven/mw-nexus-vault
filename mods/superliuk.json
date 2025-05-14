@@ -1,0 +1,557 @@
+{
+  "checkedAt": "2025-05-14T20:44:12.371Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 34
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-07T08:16:58Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 56508,
+        "name": "Rename Morrowind Guilds",
+        "status": "published",
+        "summary": "This mod renames some guilds by adding the Morrowind prefix as it does for guilds added by Tamriel Data",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56508/56508-1746605771-808937462.png",
+        "uid": "429496786108",
+        "updatedAt": "2025-05-07T08:16:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-03T07:19:43Z",
+        "fileSize": 405,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56476,
+        "name": "Skyrim style HUD (OpenMW)",
+        "status": "published",
+        "summary": "HUD with Skyrim style, based on OpenHUD",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56476/56476-1746256580-1679075050.png",
+        "uid": "429496786076",
+        "updatedAt": "2025-05-03T07:19:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-01T13:39:39Z",
+        "fileSize": 79458,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56455,
+        "name": "Normals and Specular for Connary's Dwemer Texture",
+        "status": "published",
+        "summary": "Normals and Specular for Connary's Dwemer Texture (building and creatures)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56455/56455-1746106046-439528251.png",
+        "uid": "429496786055",
+        "updatedAt": "2025-05-01T13:39:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-01T06:49:23Z",
+        "fileSize": 218068,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56448,
+        "name": "Normal Maps for Visual Packs",
+        "status": "published",
+        "summary": "Normal maps for old Visual packs",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56448/56448-1746080328-997846127.png",
+        "uid": "429496786048",
+        "updatedAt": "2025-05-01T06:49:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-25T16:07:33Z",
+        "fileSize": 9079,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56409,
+        "name": "Donkey Riding (OpenMW)",
+        "status": "published",
+        "summary": "Explore the lands of Morrowind on a Donkey.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56409/56409-1745596953-711752349.png",
+        "uid": "429496786009",
+        "updatedAt": "2025-05-04T20:36:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-20T14:42:08Z",
+        "fileSize": 27,
+        "modCategory": {
+          "categoryId": 37,
+          "name": "Armour - Shields"
+        },
+        "modId": 56377,
+        "name": "Dwemer Gauntlet",
+        "status": "published",
+        "summary": "Trasform dwemer bracer into dwemer gauntlet",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56377/56377-1745159720-2141423397.png",
+        "uid": "429496785977",
+        "updatedAt": "2025-04-20T14:42:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-22T20:43:20Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56064,
+        "name": "Skylamp Riding",
+        "status": "published",
+        "summary": "Explore the skies of Morrowind with a Skylamp.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56064/56064-1740241941-174475233.png",
+        "uid": "429496785664",
+        "updatedAt": "2025-05-13T14:08:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-23T10:30:16Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 55635,
+        "name": "Oblivion Music Overdose - Dynamic Music",
+        "status": "published",
+        "summary": "This dynamic music script allows you to listen to the music of \"Oblivion Music Overdose\" and \"Oblivion Music Overdose 2\" in the Cyrodiil regions",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55635/55635-1734949807-1047852482.png",
+        "uid": "429496785235",
+        "updatedAt": "2025-01-19T08:44:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-31T08:01:28Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 55340,
+        "name": "Tales and Tallows - Caldera's Night (halloween mod)",
+        "status": "published",
+        "summary": "\"Sequel\" to MelchiorDahr's Mod. This time the pumpkin plants grew in Caldera and the inhabitants immediately took advantage of it to decorate the city for the scariest holiday in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55340/55340-1728887413-327498877.png",
+        "uid": "429496784940",
+        "updatedAt": "2024-10-31T08:01:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-09-24T10:53:26Z",
+        "fileSize": 551,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 55156,
+        "name": "Modder Race",
+        "status": "published",
+        "summary": "This mod add new race.... with my face :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55156/55156-1724775252-690368257.png",
+        "uid": "429496784756",
+        "updatedAt": "2024-09-24T10:53:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-01T09:28:28Z",
+        "fileSize": 485,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 54530,
+        "name": "Dwemer-Tec Suit",
+        "status": "published",
+        "summary": "This mod adds shirt and pants inspired by the vault suit from fallout videogames.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54530/54530-1715705537-85552155.jpeg",
+        "uid": "429496784130",
+        "updatedAt": "2024-05-17T10:28:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-12T13:25:59Z",
+        "fileSize": 9042,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54133,
+        "name": "Normal Map for Castle Vianden",
+        "status": "published",
+        "summary": "Normal maps for Castle Vianden",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54133/54133-1707553289-1932345104.png",
+        "uid": "429496783733",
+        "updatedAt": "2024-02-12T13:25:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-30T10:14:36Z",
+        "fileSize": 1072,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53776,
+        "name": "Vurt's Mournhold Dead Trees II",
+        "status": "published",
+        "summary": "Vurt's Mournhold Trees II dead version",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53776/53776-1701281465-1674412979.png",
+        "uid": "429496783376",
+        "updatedAt": "2023-11-30T10:14:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-23T08:14:37Z",
+        "fileSize": 15529,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 53753,
+        "name": "Windhelm - City of the Kings",
+        "status": "published",
+        "summary": "Add city of Windhelm and the surrounding area, including Dunmeth Pass",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53753/53753-1742218479-1274312610.jpeg",
+        "uid": "429496783353",
+        "updatedAt": "2025-04-05T08:58:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-07T18:45:12Z",
+        "fileSize": 21660,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 53687,
+        "name": "Imperial City of Cyrondiil and related mods",
+        "status": "published",
+        "summary": "Upload Imperial City of Cyrondiil and related mods from Morrowind Modding History",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53687/53687-1699382595-375018664.png",
+        "uid": "429496783287",
+        "updatedAt": "2024-02-07T20:19:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-26T06:12:59Z",
+        "fileSize": 25702,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 53656,
+        "name": "Headless Horseman (halloween mod)",
+        "status": "published",
+        "summary": "During Tales and Tallows's nights a Headless Horseman return for his vengeance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53656/53656-1698300357-394601627.png",
+        "uid": "429496783256",
+        "updatedAt": "2023-10-26T06:12:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-20T16:55:03Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 53635,
+        "name": "Songbook of the North - Dynamic Music",
+        "status": "published",
+        "summary": "This Dynamic Music script allows you to listen to the music from the \"songbook of the north\" mod in Skyrim - Home of the Nords",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53635/53635-1697820862-2050162530.png",
+        "uid": "429496783235",
+        "updatedAt": "2023-10-20T16:55:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-13T07:47:16Z",
+        "fileSize": 8656,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 53190,
+        "name": "Cory - Dog Companion",
+        "status": "published",
+        "summary": "At Seyda Neen, you will find Cory.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53190/53190-1689193971-103031845.png",
+        "uid": "429496782790",
+        "updatedAt": "2024-01-29T18:20:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-28T07:32:13Z",
+        "fileSize": 24,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 52963,
+        "name": "Abandoned Fort",
+        "status": "published",
+        "summary": "The mod adds a picturesque abandoned imperial fort to the Area of the West Gash, this fort has been occupied by bandits for a long time.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52963/52963-1685258884-1141403440.png",
+        "uid": "429496782563",
+        "updatedAt": "2023-05-28T07:32:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-27T06:50:52Z",
+        "fileSize": 95,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 52957,
+        "name": "Unnamed Isle",
+        "status": "published",
+        "summary": "An unnamed isle with an ancient barrow await you!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52957/52957-1722964462-403551210.png",
+        "uid": "429496782557",
+        "updatedAt": "2025-04-07T17:06:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-02T18:02:19Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 52787,
+        "name": "Raven Rock",
+        "status": "published",
+        "summary": "Detailed Raven Rock (help Falco Galenus )",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52787/52787-1683368064-1048116909.png",
+        "uid": "429496782387",
+        "updatedAt": "2023-05-02T18:02:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-04-02T06:44:57Z",
+        "fileSize": 637,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 52600,
+        "name": "All Books Color-Coded and Designed ITA",
+        "status": "published",
+        "summary": "Traduzione italiana per All Books Color-Coded and Designed",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52600/52600-1680417888-892371403.jpeg",
+        "uid": "429496782200",
+        "updatedAt": "2023-04-02T06:44:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-31T17:34:44Z",
+        "fileSize": 795,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 52586,
+        "name": "Collezione Mod GMC Aprile 2005",
+        "status": "published",
+        "summary": "Tutti i mod inclusi nel numero della rivista Giochi per il Mio Computer",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52586/52586-1680275923-604000261.jpeg",
+        "uid": "429496782186",
+        "updatedAt": "2024-02-13T11:32:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-04T08:12:04Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 52443,
+        "name": "The Ash Merchant ITA",
+        "status": "published",
+        "summary": "Traduzione del mod di Alexis966",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52443/52443-1677917413-165275673.png",
+        "uid": "429496782043",
+        "updatedAt": "2023-03-05T08:24:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-03-02T18:27:51Z",
+        "fileSize": 133,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 52436,
+        "name": "Compatibility patch Ald'ruhn and Mountainous Red Mountain",
+        "status": "published",
+        "summary": "Compatibility patch for Ald'ruhn and Mountainous Red Mountain",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52436/52436-1677781018-1514611617.png",
+        "uid": "429496782036",
+        "updatedAt": "2023-03-02T18:55:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-23T08:33:51Z",
+        "fileSize": 39,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 52396,
+        "name": "The shelter of the old pirate ITA",
+        "status": "published",
+        "summary": "Traduzione del mod di Alexis966",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52396/52396-1677140974-841231133.jpeg",
+        "uid": "429496781996",
+        "updatedAt": "2023-02-23T08:33:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-10T18:59:59Z",
+        "fileSize": 649,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 52330,
+        "name": "PlayerHouse",
+        "status": "published",
+        "summary": "House for player  between caldera and Buckmoth Legion Fort",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52330/52330-1676054764-475126321.png",
+        "uid": "429496781930",
+        "updatedAt": "2023-02-10T18:59:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-19T19:12:22Z",
+        "fileSize": 94,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 52188,
+        "name": "Pelagiad",
+        "status": "published",
+        "summary": "Detailed Pelagiad.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52188/52188-1674155396-1739181801.png",
+        "uid": "429496781788",
+        "updatedAt": "2023-01-23T18:06:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-11-16T15:50:03Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 51975,
+        "name": "Snow Prince Armor Redux Fix ITA",
+        "status": "published",
+        "summary": "Traduzione per il mod Snow Prince Armor Redux Fix",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51975/51975-1668613784-1757553144.png",
+        "uid": "429496781575",
+        "updatedAt": "2022-11-16T15:50:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-11-16T15:37:59Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 51974,
+        "name": "Snow Prince Armor Redux FIX",
+        "status": "published",
+        "summary": "Fix for mod Snow Prince Armor Redux",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51974/51974-1668612879-557109965.png",
+        "uid": "429496781574",
+        "updatedAt": "2022-12-09T16:50:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-11-06T15:23:37Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 51951,
+        "name": "Magic Diversity -COMPLETE- ITA",
+        "status": "published",
+        "summary": "Traduzione per il mod Magic Diversity -COMPLETE",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51951/51951-1667802976-1923254621.png",
+        "uid": "429496781551",
+        "updatedAt": "2022-11-06T15:23:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-10-30T07:13:02Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 51925,
+        "name": "Bonemold Armor Replacer ITA",
+        "status": "published",
+        "summary": "Traduzione in italiano della mod Bonemold Replacer",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51925/51925-1672658656-96750980.jpeg",
+        "uid": "429496781525",
+        "updatedAt": "2022-10-30T07:13:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-10-18T17:50:27Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 51906,
+        "name": "Native Dunmer Ebony Armor - Replacer ITA",
+        "status": "published",
+        "summary": "Traduzione della versione \"replacer\" del mod Native Dunmer Ebony Armor compatibile con la traduzione ITP",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51906/51906-1672658725-1392653151.jpeg",
+        "uid": "429496781506",
+        "updatedAt": "2022-10-18T17:50:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-07-10T18:01:32Z",
+        "fileSize": 24208,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 45059,
+        "name": "Video Intro Sottotitoli",
+        "status": "published",
+        "summary": "Video introduttivo sottotitolato",
+        "thumbnailUrl": null,
+        "uid": "429496774659",
+        "updatedAt": "2017-07-10T17:59:40Z"
+      }
+    ],
+    "totalCount": 34
+  }
+}

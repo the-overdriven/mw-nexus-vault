@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2025-05-14T20:48:50.312Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-04T21:11:30Z",
+        "fileSize": 3712740,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 56488,
+        "name": "Tamriel Rebuilt - Grasping Fortune - Fully Voiced",
+        "status": "published",
+        "summary": "Adds fully AI-voiced dialogue to the latest release of Tamriel Rebuilt. Covers all original playable races. New TR races and creatures with dialogue will be voiced in a later update.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56488/56488-1746376650-2057634310.jpeg",
+        "uid": "429496786088",
+        "updatedAt": "2025-05-05T09:28:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-09T18:34:08Z",
+        "fileSize": 75653,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 56331,
+        "name": "AFFresh - Fully Voiced",
+        "status": "published",
+        "summary": "Adds fully AI-voiced dialogue to AFFresh. Covers all playable races and even one creature. Beta release focused on testing quality and gathering feedback.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56331/56331-1744206303-35830789.jpeg",
+        "uid": "429496785931",
+        "updatedAt": "2025-04-09T18:34:08Z"
+      }
+    ],
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "checkedAt": "2025-05-14T20:40:30.367Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 12,
+        "101": 2,
+        "198": 1,
+        "1579": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-13T17:43:00Z",
+        "fileSize": 84,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 56594,
+        "name": "Hit Reactions Animated -- OpenMW",
+        "status": "published",
+        "summary": "Short, pronounced twitches of humanoid NPCs in response to being hit.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56594/56594-1747158041-726790814.png",
+        "uid": "429496786194",
+        "updatedAt": "2025-05-13T17:43:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-13T13:50:50Z",
+        "fileSize": 9646,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56589,
+        "name": "Lua Physics Engine -- OpenMW",
+        "status": "published",
+        "summary": "A deranged mod that implements a somewhat simple and naive physics engine in pure lua and exposes a rich interface for developers. Drag and throw items around, get messed for messing with someone's property.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56589/56589-1747143961-337009405.png",
+        "uid": "429496786189",
+        "updatedAt": "2025-05-13T13:50:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-12T21:57:11Z",
+        "fileSize": 536,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56584,
+        "name": "Dynamic Reticle -- OpenMW",
+        "status": "published",
+        "summary": "-- aka Réticule --Animated customizable reticle with a neat enemy HP widget, hit marker visuals and sounds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1747086913-1245125704.png",
+        "uid": "429496786184",
+        "updatedAt": "2025-05-12T22:17:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-12T17:10:24Z",
+        "fileSize": 1329,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 55327,
+        "name": "Dynamic camera effects and target lock -- OpenMW",
+        "status": "published",
+        "summary": "-- aka Caméra --Subtle dynamic camera and first-person viewmodel (hands) motion. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Highly",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1747084913-384105608.png",
+        "uid": "429496784927",
+        "updatedAt": "2025-05-12T21:24:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-06T23:54:58Z",
+        "fileSize": 359,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 55075,
+        "name": "Stupid-Metal Hitmarker-Mod --- OpenMW",
+        "status": "published",
+        "summary": "Hit em good with better visual feedback!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55075/55075-1722988229-1354703615.png",
+        "uid": "429496784675",
+        "updatedAt": "2025-02-09T20:11:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-04T21:01:40Z",
+        "fileSize": 3719,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55064,
+        "name": "Mercy - Combat AI Overhaul",
+        "status": "published",
+        "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49. With new voice lines and animations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
+        "uid": "429496784664",
+        "updatedAt": "2025-05-14T20:35:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-04T17:49:42Z",
+        "fileSize": 25,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 55062,
+        "name": "Behaviour Tree Lua 2nd Edition",
+        "status": "published",
+        "summary": "Pure Lua behaviour tree library. A modder resource.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55062/55062-1722793766-1192646236.png",
+        "uid": "429496784662",
+        "updatedAt": "2025-01-20T05:58:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-03T16:10:52Z",
+        "fileSize": 1501,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 55059,
+        "name": "One-handed animations and idle fixes",
+        "status": "published",
+        "summary": "Rework of 1h weapon movement and idles aiming to look more natural. Also tweaks 1h attacks and unbugs vanilla idles without making the feet slide. Only affects 3rd-person animations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55059/55059-1722700065-640020498.png",
+        "uid": "429496784659",
+        "updatedAt": "2024-08-03T16:10:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-15T21:19:28Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 54983,
+        "name": "The Bird Yoinker - Where are all birds going OpenMW fix",
+        "status": "published",
+        "summary": "Teleports birds high up into the sky upon entering the cell. If they dare to get close again - gently yoinks them back up where they belong.Specifically tested with \"Only birds\" (https://www.nexusmods.com/morrowind/mods/54373) but probably",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54983/54983-1721077886-1331287127.png",
+        "uid": "429496784583",
+        "updatedAt": "2024-07-15T21:19:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-16T17:18:27Z",
+        "fileSize": 53160,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 53842,
+        "name": "Animation Blending - OpenMW",
+        "status": "published",
+        "summary": "Smooth transitions between nearly every animation in the game. Moddable. Compatible with EVERYTHING.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53842/53842-1702680572-1308312360.png",
+        "uid": "429496783442",
+        "updatedAt": "2023-12-23T21:48:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-04-02T01:01:38Z",
+        "fileSize": 1812,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 52596,
+        "name": "ReAnimation v2 - Rogue - first-person animation pack",
+        "status": "published",
+        "summary": "An immersive reimagining of (some) of the TES3: Morrowind 1st-person animations. Developed for OpenMW engine.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52596/52596-1722631341-1350205614.png",
+        "uid": "429496782196",
+        "updatedAt": "2025-05-12T21:30:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-06-27T09:40:34Z",
+        "fileSize": 4101,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 51544,
+        "name": "Dim Glass - Less Irritating Glass Armor and Weapon",
+        "status": "published",
+        "summary": "Retexture - Dimmer less acidic color for the glass armor and weapon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51544/51544-1656322138-2039242548.jpeg",
+        "uid": "429496781144",
+        "updatedAt": "2022-06-27T09:40:34Z"
+      }
+    ],
+    "totalCount": 12
+  }
+}

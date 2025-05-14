@@ -1,0 +1,320 @@
+{
+  "checkedAt": "2025-05-14T20:50:19.479Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 19,
+        "430": 1,
+        "437": 1,
+        "1085": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-11T16:34:33Z",
+        "fileSize": 89337,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 56572,
+        "name": "Dynamic Sounds for OpenMW",
+        "status": "published",
+        "summary": "Lua audio sound effects extension",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56572/56572-1746980774-956852264.png",
+        "uid": "429496786172",
+        "updatedAt": "2025-05-14T19:17:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-01T09:35:52Z",
+        "fileSize": 41512,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56451,
+        "name": "Hlaalu Architecture Reimagined",
+        "status": "published",
+        "summary": "An HD PBR retexture of the Hlaalu architecture.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56451/56451-1746091256-2113035926.png",
+        "uid": "429496786051",
+        "updatedAt": "2025-05-01T13:08:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-23T20:00:00Z",
+        "fileSize": 40554,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56400,
+        "name": "Golden Saint Shrines",
+        "status": "published",
+        "summary": "An hd retexture for all saint shrines",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56400/56400-1745439702-387227896.png",
+        "uid": "429496786000",
+        "updatedAt": "2025-04-23T20:18:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-23T14:11:49Z",
+        "fileSize": 147033,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56398,
+        "name": "Dwemer Architecture Reimagined",
+        "status": "published",
+        "summary": "A 2k Dwemer texture replacement",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56398/56398-1745415786-784614609.png",
+        "uid": "429496785998",
+        "updatedAt": "2025-04-26T14:42:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-04T15:29:54Z",
+        "fileSize": 41730,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56300,
+        "name": "Indoril and Mournhold Architecture Reimagined",
+        "status": "published",
+        "summary": "A more down-to-hearth Indoril/Mournhold texture replacement",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56300/56300-1743780059-1690984064.png",
+        "uid": "429496785900",
+        "updatedAt": "2025-04-06T09:02:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-23T12:49:03Z",
+        "fileSize": 53894,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56235,
+        "name": "Velothi Architecture Reimagined",
+        "status": "published",
+        "summary": "A re-imagination of the Velothi architecture",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56235/56235-1742733454-1012088883.png",
+        "uid": "429496785835",
+        "updatedAt": "2025-03-23T12:49:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-17T18:38:12Z",
+        "fileSize": 4165,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56209,
+        "name": "Reworked Temple Banners",
+        "status": "published",
+        "summary": "High quality guar skin temple banners.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56209/56209-1742236415-1645942508.png",
+        "uid": "429496785809",
+        "updatedAt": "2025-03-18T13:22:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-17T11:51:06Z",
+        "fileSize": 4345,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56208,
+        "name": "Reworked Tribunal Tapestries",
+        "status": "published",
+        "summary": "An alternative version for Tribunal Tapestries",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56208/56208-1742211728-1202309342.png",
+        "uid": "429496785808",
+        "updatedAt": "2025-03-17T13:42:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-14T17:26:44Z",
+        "fileSize": 13277,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56184,
+        "name": "Reworked Dunmer Saint Banners",
+        "status": "published",
+        "summary": "High Quality Dunmer Saint Banners",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56184/56184-1742663176-181883542.png",
+        "uid": "429496785784",
+        "updatedAt": "2025-03-22T17:09:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-01T16:59:43Z",
+        "fileSize": 27452,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56112,
+        "name": "Realistic Imperial Forts",
+        "status": "published",
+        "summary": "A re-imagining of vanilla imperial forts",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56112/56112-1740847875-1911534116.png",
+        "uid": "429496785712",
+        "updatedAt": "2025-03-02T02:17:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-18T11:19:40Z",
+        "fileSize": 2633,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 56036,
+        "name": "Neon Sign Replacement for Starwind",
+        "status": "published",
+        "summary": "Mesh and texture replacement of some Starwind neon signs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56036/56036-1739877437-1965421828.png",
+        "uid": "429496785636",
+        "updatedAt": "2025-02-18T11:19:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-10T20:15:52Z",
+        "fileSize": 82192,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55982,
+        "name": "Beautiful Textures of the Old Republic",
+        "status": "published",
+        "summary": "A combination of 2k PBR, handmade and upscaled textures for StarWind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55982/55982-1739218018-1012322217.png",
+        "uid": "429496785582",
+        "updatedAt": "2025-02-10T20:15:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-02T18:50:58Z",
+        "fileSize": 6324,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55913,
+        "name": "Eight Divines Tapestries Reimagined",
+        "status": "published",
+        "summary": "Eight Divines Tapestries inspired by ESO",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55913/55913-1738521704-2037449723.png",
+        "uid": "429496785513",
+        "updatedAt": "2025-02-02T18:50:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-19T13:33:44Z",
+        "fileSize": 727883,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55826,
+        "name": "Beautiful Textures of Tamriel",
+        "status": "published",
+        "summary": "Beautiful Textures of Tamriel (BToT), is a retexturing project for Tamriel Data (TRData) that replaces textures used by projects like Tamriel Rebuilt and Project Tamriel with high quality PBR textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55826/55826-1737293055-569855677.png",
+        "uid": "429496785426",
+        "updatedAt": "2025-01-29T18:13:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-21T19:27:48Z",
+        "fileSize": 320,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 55003,
+        "name": "Icon Modernization Project",
+        "status": "published",
+        "summary": "An overhaul of the icons of the base game. Support also for some popular mods (TR, OAAB, ...)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55003/55003-1721589637-1248633384.png",
+        "uid": "429496784603",
+        "updatedAt": "2024-07-21T19:27:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-16T18:42:30Z",
+        "fileSize": 39,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54985,
+        "name": "Interface Reimagined for OpenMW",
+        "status": "published",
+        "summary": "Modernized Dialogue and Decluttering of the UI",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54985/54985-1721161448-1473380916.png",
+        "uid": "429496784585",
+        "updatedAt": "2024-10-05T09:38:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-07T09:03:34Z",
+        "fileSize": 2881,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54928,
+        "name": "Normal and Specular maps for Better Telvanni Crystal",
+        "status": "published",
+        "summary": "Normal and Specular maps for Better Telvanni Crystal",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54928/54928-1720342813-924098893.png",
+        "uid": "429496784528",
+        "updatedAt": "2024-07-07T09:03:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-05T19:08:41Z",
+        "fileSize": 18637,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 53697,
+        "name": "Sharper Normal Maps for Greymarch Dawn - Whispers of Jyggalag",
+        "status": "published",
+        "summary": "High quality, sharper alternative for the default Normal Maps of Greymarch Dawn - Whispers of Jyggalag",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53697/53697-1699210480-1387230664.png",
+        "uid": "429496783297",
+        "updatedAt": "2023-11-05T19:08:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-22T21:41:58Z",
+        "fileSize": 3159,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 53255,
+        "name": "Clean Hi-Res Menu Book",
+        "status": "published",
+        "summary": "Hi-res replacement for the Menu Book UI, with cleaner textures and pleasant colors for better readability.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53255/53255-1690061802-1927312909.png",
+        "uid": "429496782855",
+        "updatedAt": "2024-08-15T21:59:15Z"
+      }
+    ],
+    "totalCount": 19
+  }
+}

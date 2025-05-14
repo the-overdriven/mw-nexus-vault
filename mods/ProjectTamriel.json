@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2025-05-14T20:48:21.995Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2017-05-01T21:24:46Z",
+        "fileSize": 11500,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 44922,
+        "name": "Project Cyrodiil",
+        "status": "published",
+        "summary": "Project Cyrodiil is a new lands mod from the Project Tamriel team that adds part of Cyrodiil, the Imperial Province, to the world of TESIII: Morrowind. PC is entirely compatible with Skyrim: Home of the Nords and Tamriel Rebuilt, and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44922/44922-1734902750-566662840.png",
+        "uid": "429496774522",
+        "updatedAt": "2025-05-05T18:16:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-05-01T20:06:41Z",
+        "fileSize": 9673,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 44921,
+        "name": "Skyrim Home Of The Nords",
+        "status": "published",
+        "summary": "100+ quests, including new regional questlines for the Imperial Guilds, bounty hunting, and miscellaneous quests; 290+ exterior cells of hand-crafted landscape; 330+ interior cells, including the massive cities of Karthwasten and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44921/44921-1735015069-1920434145.jpeg",
+        "uid": "429496774521",
+        "updatedAt": "2025-05-05T18:13:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-12-12T11:31:44Z",
+        "fileSize": 195506,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 42333,
+        "name": "Skyrim_Home_Of_The_Nords (outdated)",
+        "status": "published",
+        "summary": "Attention!\n\nThis version is outdated and should not be used anymore.\n\nAn up-to-date version can be downloaded from our new modpage here:\nhttp://www.nexusmods.com/morrowind/mods/44921/?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42333-1-1355319130.jpg",
+        "uid": "429496771933",
+        "updatedAt": "2012-12-12T13:05:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-06-19T22:42:13Z",
+        "fileSize": 198945,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 42155,
+        "name": "Province_Cyrodiil (outdated)",
+        "status": "published",
+        "summary": "Attention! This version of Stirk is outdated and should not be used anymore.\n\nAn up-to-date version of Stirk can be downloaded from our new modpage:\nhttp://www.nexusmods.com/morrowind/mods/44922/?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42155-1-1340148013.jpg",
+        "uid": "429496771755",
+        "updatedAt": "2012-06-20T02:24:22Z"
+      }
+    ],
+    "totalCount": 4
+  }
+}

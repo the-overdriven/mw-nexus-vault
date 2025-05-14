@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2025-05-14T21:04:00.016Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-14T18:41:25Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56530,
+        "name": "(another) Hotkey Extender for MWSE",
+        "status": "published",
+        "summary": "Bind any key in the keyboard to any spell or enchanted item.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56530/56530-1747247947-1802819273.png",
+        "uid": "429496786130",
+        "updatedAt": "2025-05-14T20:30:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-04T19:55:06Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 56490,
+        "name": "Spellcraft Recognition - MWSE",
+        "status": "published",
+        "summary": "Adds a spellcraft check to recognize spells being cast around the player. Recognizes the spell name and its effects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56490/56490-1746381831-213813692.png",
+        "uid": "429496786090",
+        "updatedAt": "2025-05-08T19:00:45Z"
+      }
+    ],
+    "totalCount": 2
+  }
+}

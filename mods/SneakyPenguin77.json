@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2025-05-14T20:45:48.415Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-07T16:12:48Z",
+        "fileSize": 114,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56512,
+        "name": "Stormrider - Expanded Lands (MWSE)",
+        "status": "published",
+        "summary": "A reupload of the original Expanded Lands version of Stormrider that's compatible with MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56512/56512-1746633923-535821991.png",
+        "uid": "429496786112",
+        "updatedAt": "2025-05-12T00:58:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-04T17:37:24Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 56489,
+        "name": "Ultimate Mehrunes' Razor",
+        "status": "published",
+        "summary": "Combines the damage and enchantment buffs from lordhenrythe23's Buffed Mehrunes' Razor with the Luck based Insta-Kill effect from Revacholiere's Mehrunes' Razor Extended to make the Ultimate Mehrunes' Razor!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56489/56489-1746379805-1378504310.png",
+        "uid": "429496786089",
+        "updatedAt": "2025-05-11T19:11:37Z"
+      }
+    ],
+    "totalCount": 2
+  }
+}

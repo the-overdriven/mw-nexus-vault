@@ -1,0 +1,96 @@
+{
+  "checkedAt": "2025-05-14T20:43:11.592Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5,
+        "101": 1,
+        "110": 12,
+        "1704": 4
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-12T19:26:52Z",
+        "fileSize": 382653,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 56570,
+        "name": "Fantasia Grass Mod",
+        "status": "published",
+        "summary": "Funny grass mod for funny mushroom game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56570/56570-1747067093-1816517082.png",
+        "uid": "429496786170",
+        "updatedAt": "2025-05-14T14:23:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-09T21:53:16Z",
+        "fileSize": 24474,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 56154,
+        "name": "Stranger in a Strange Land - Morrowind Maps",
+        "status": "published",
+        "summary": "A few maps (4096x4096 TGA)  built on top of the excellent Tamriel Rebuilt gridmap for use as a modder's resource or as replacement for other mod-added maps",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56154/56154-1746973999-1771170002.jpeg",
+        "uid": "429496785754",
+        "updatedAt": "2025-05-11T14:36:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-16T16:31:58Z",
+        "fileSize": 896,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 53069,
+        "name": "ModMapper for Morrowind",
+        "status": "published",
+        "summary": "Python 3.7+ script to generate a heatmap of exterior cells showing which/how many mods affect each cell. Includes a list of interior cells and what mods alter them. Does not alter game files, generates a single html file with the map +",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53069/53069-1687345310-484663351.png",
+        "uid": "429496782669",
+        "updatedAt": "2023-06-21T08:01:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-07T17:40:06Z",
+        "fileSize": 89403,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 53034,
+        "name": "The LawnMower for Morrowind",
+        "status": "published",
+        "summary": "Perfect grass that doesn't clip through objects: Lawnmower will clean grassmods faster, better, and more consistently than you can. It removes 99% of unwanted & clipping grass. Comes with already-processed patches for popular grass mods,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53034/53034-1686134768-1938830989.jpeg",
+        "uid": "429496782634",
+        "updatedAt": "2023-06-13T19:36:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-23T20:30:01Z",
+        "fileSize": 93152,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 52931,
+        "name": "Lush Synthesis",
+        "status": "published",
+        "summary": "A modular remix of popular grass mods with some new plants and flowers for Ascadian Isles, Bitter Coast, Grazelands, West Gash, and all rivers/lakes/seas. BCOM/vanilla compatible + TR addon (22.11). Uses LawnMower™ technology: 99% less",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52931/52931-1684872794-2801863.jpeg",
+        "uid": "429496782531",
+        "updatedAt": "2023-06-07T16:48:45Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "checkedAt": "2025-05-14T20:50:28.279Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 13,
+        "120": 5,
+        "130": 60
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-03T03:28:54Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56475,
+        "name": "Thirty-Six - Playable Dice Game",
+        "status": "published",
+        "summary": "Play the Tamriel Rebuilt game of Thirty-Six in real time!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56475/56475-1746242732-1186464513.jpeg",
+        "uid": "429496786075",
+        "updatedAt": "2025-05-03T03:28:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-15T20:40:22Z",
+        "fileSize": 39,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56194,
+        "name": "Press B to Bruh",
+        "status": "published",
+        "summary": "Port of a classic straight from the depths of dead meme hell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56194/56194-1742070854-616732570.jpeg",
+        "uid": "429496785794",
+        "updatedAt": "2025-03-15T20:40:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-03T18:35:52Z",
+        "fileSize": 516,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56122,
+        "name": "Tis But A Scratch - MWSE Limb Dismemberment",
+        "status": "published",
+        "summary": "NPCs can now be dismembered on death, resulting in a bloody mess!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56122/56122-1741026437-1353594629.png",
+        "uid": "429496785722",
+        "updatedAt": "2025-03-22T21:13:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-17T16:12:13Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56029,
+        "name": "Drop Crime - MWSE",
+        "status": "published",
+        "summary": "Contraband like Skooma and Moonsugar are now not only illegal to carry, but to dispose of as well!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56029/56029-1739807939-1525538604.png",
+        "uid": "429496785629",
+        "updatedAt": "2025-03-07T21:41:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-15T04:48:15Z",
+        "fileSize": 1446,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56015,
+        "name": "Casino Gambling - MWSE",
+        "status": "published",
+        "summary": "Adds 3 casinos and 5 new games to win money, or lose it all!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56015/56015-1739594091-1699564414.png",
+        "uid": "429496785615",
+        "updatedAt": "2025-05-01T21:31:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-07T20:57:29Z",
+        "fileSize": 258,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55937,
+        "name": "Iron Crown - Playable Blackjack Card Game",
+        "status": "published",
+        "summary": "Adds a playable version of Blackjack called Iron Crown.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55937/55937-1738961259-838213373.png",
+        "uid": "429496785537",
+        "updatedAt": "2025-05-01T17:57:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-20T18:14:50Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 55837,
+        "name": "MWSE Bound Arrows",
+        "status": "published",
+        "summary": "Dynamically adds infinite Bound Arrows when using a Bound Longbow spell",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55837/55837-1737395046-1301950656.png",
+        "uid": "429496785437",
+        "updatedAt": "2025-01-20T18:14:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-10T16:45:31Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 55562,
+        "name": "Death of a Taxman Reimagined",
+        "status": "published",
+        "summary": "Death of a Taxman remade from the ground up! Now more complex and less straightforward, with real detective work involved!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55562/55562-1733848198-1561958189.jpeg",
+        "uid": "429496785162",
+        "updatedAt": "2025-03-03T15:45:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-23T22:32:18Z",
+        "fileSize": 906,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 55480,
+        "name": "Skyrim Style Quest Notifications Great Patch Hub",
+        "status": "published",
+        "summary": "Adds 800+ new icons and mod support for 2000+ quests!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55480/55480-1732400790-905115982.png",
+        "uid": "429496785080",
+        "updatedAt": "2025-04-30T16:59:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-15T18:56:23Z",
+        "fileSize": 2700,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55343,
+        "name": "Blood and Gore v2.14",
+        "status": "published",
+        "summary": "A reupload of the 2.14 version of Blood & Gore by TheLys",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55343/55343-1729018172-1429239306.png",
+        "uid": "429496784943",
+        "updatedAt": "2024-10-15T18:56:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-11T21:29:04Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 55325,
+        "name": "Blood and Gore OAAB Data and Tamriel Data Patch",
+        "status": "published",
+        "summary": "Patches the creatures and NPCs from OAAB and TR Data to expel blood and gore bits on hit.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55325/55325-1728681956-60050222.png",
+        "uid": "429496784925",
+        "updatedAt": "2025-02-23T02:05:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-09-24T19:33:54Z",
+        "fileSize": 8827,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55257,
+        "name": "Yagrum Bagarn more Dwemer-like Texture",
+        "status": "published",
+        "summary": "Changes Yagrum's texture to be closer to how Dwemer are depicted in other media.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55257/55257-1727205933-87674647.png",
+        "uid": "429496784857",
+        "updatedAt": "2024-09-25T20:03:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-06T03:32:39Z",
+        "fileSize": 477,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54111,
+        "name": "Yagrum Bagarn High Quality Head and UV Fix",
+        "status": "published",
+        "summary": "Fixes the steam pipe in Yagrum's chair and gives him a higher quality head.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54111/54111-1707189435-326927253.png",
+        "uid": "429496783711",
+        "updatedAt": "2024-06-08T16:51:28Z"
+      }
+    ],
+    "totalCount": 13
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2025-05-14T20:55:50.622Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-09-11T19:14:52Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 55216,
+        "name": "Dynamic FPS Optimization",
+        "status": "published",
+        "summary": "An MWSE / OMW plugin that modifies View Distance at runtime based on framerate or user defined parameters.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55216/55216-1742578212-799917980.png",
+        "uid": "429496784816",
+        "updatedAt": "2025-03-24T07:38:53Z"
+      }
+    ],
+    "totalCount": 1
+  }
+}

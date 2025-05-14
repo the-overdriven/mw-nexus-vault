@@ -1,0 +1,95 @@
+{
+  "checkedAt": "2025-05-14T20:49:28.751Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5,
+        "2448": 1,
+        "2653": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2020-03-02T07:38:56Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 47658,
+        "name": "Hand 2 Hand Fix",
+        "status": "published",
+        "summary": "Replaces the broken MCP/openmw strength option with a proper balanced vanilla hand to hand fix. With this, a player wanting to have a monk type character will now find hand to hand a viable skill comparable to using light weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47658/47658-1583134594-1209059634.jpeg",
+        "uid": "429496777258",
+        "updatedAt": "2021-04-19T01:43:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-02-17T14:28:19Z",
+        "fileSize": 19822,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 47605,
+        "name": "Westly Master Head Pack X plus Original Faces Compilation",
+        "status": "published",
+        "summary": "This is simply a compilation of the Westly's Master Head Pack X and the Original Faces Mod.  Original Faces was created for the master head pack, but they were never put together in one place. This mod does that. Enjoy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47605/47605-1581948771-1545809681.jpeg",
+        "uid": "429496777205",
+        "updatedAt": "2021-03-08T13:02:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-07-12T20:56:43Z",
+        "fileSize": 112,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 45865,
+        "name": "Madd Leveler",
+        "status": "published",
+        "summary": "This is just a re-upload of a mod that exists elsewhere but not on Nexus.  I am owed zero credit for this mod.  I just want to make sure this legendary mod doesnt disappear off the web forever...  This is a leveling mod that removes the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45865/45865-1531428823-947714882.jpeg",
+        "uid": "429496775465",
+        "updatedAt": "2018-07-12T20:56:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-07-08T22:38:27Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 45849,
+        "name": "Ebony Shortword Returns",
+        "status": "published",
+        "summary": "There used to be an ebony shortword hidden in the Odai Plataeu in a previous version of Morrowind.  But for some reason a later version of morrowind clipped the sword under the ground so its impossible to get. This mod moves the sword back",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45849/45849-1531088978-906587593.jpeg",
+        "uid": "429496775449",
+        "updatedAt": "2018-07-08T22:38:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-07-06T00:06:54Z",
+        "fileSize": 1231,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 45846,
+        "name": "Morrowind - Hardcore Mode",
+        "status": "published",
+        "summary": "For experienced players, Morrowind can get to be way too easy.  If you want to up your game and enjoy a new Morrowind experience that is very challenging, yet fun, fair, rewarding, and free of exploits, then this mod is for you.  Check out",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45846/45846-1533110801-1833669053.jpeg",
+        "uid": "429496775446",
+        "updatedAt": "2025-05-02T22:22:44Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "checkedAt": "2025-05-14T20:47:20.761Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 8,
+        "101": 4,
+        "1151": 7,
+        "5113": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2023-04-01T07:15:41Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 52568,
+        "name": "Harrods Sun Stone",
+        "status": "published",
+        "summary": "Ever wanted Harrods of London to be referenced in Morrowind? This mod does exactly that!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52568/52568-1680088329-1484524598.png",
+        "uid": "429496782168",
+        "updatedAt": "2023-04-01T07:15:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-12-22T18:52:29Z",
+        "fileSize": 270,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 52089,
+        "name": "Tamriel Rebuilt Old Maps Best Of Both Edition (TROMBOBE)",
+        "status": "published",
+        "summary": "Ever wish that some content from the old Tamriel Rebuilt releases were not cut? Wanted Bal Oyra to stay a peninsular Imperial town? Liked some of Silneil's TG quests? Then, this mod adapts that content to Embers of Empire and makes it play",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52089/52089-1702293770-1611515672.png",
+        "uid": "429496781689",
+        "updatedAt": "2025-05-07T18:09:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-01T06:39:53Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 50930,
+        "name": "Sharpay Vampires",
+        "status": "published",
+        "summary": "Have you ever wanted to RP as Sharpay from High School Musical? Yes? Well, now you can!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50930/50930-1648739656-1979204383.jpeg",
+        "uid": "429496780530",
+        "updatedAt": "2022-04-01T06:39:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-08T10:27:03Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 45641,
+        "name": "Olive the Enchanter",
+        "status": "published",
+        "summary": "Caldera has a new enchanter, and he has created some very weird enchanted artifacts. Will you collect them all?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45641/45641-1525773195-877688503.png",
+        "uid": "429496775241",
+        "updatedAt": "2021-11-24T16:21:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-11-19T15:02:06Z",
+        "fileSize": 48535,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 45324,
+        "name": "City of Balmora - Hlaalu Expansion",
+        "status": "published",
+        "summary": "Not your typical expansion of Balmora - City of Balmora also adds 3 new factions with their own headquarters, several side quests and many caves to explore. You may even decide the future of Vvardenfell for decades ahead...",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45324-4-1511102345.png",
+        "uid": "429496774924",
+        "updatedAt": "2021-05-02T11:23:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-08-28T17:29:24Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 43255,
+        "name": "Distant Mournhold",
+        "status": "published",
+        "summary": "A small mod which adds distant buildings to Mournhold. So you can see the temple from almost any part of the city.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43255-1-1409246861.jpg",
+        "uid": "429496772855",
+        "updatedAt": "2014-08-28T17:29:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-08-22T13:23:50Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 43248,
+        "name": "Global Map Markers",
+        "status": "published",
+        "summary": "This mod adds global map markers to all dungeons on Vvardenfell, Solstheim and the release of Tamriel Rebuilt's DoD and EoE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43248-1-1408717435.jpg",
+        "uid": "429496772848",
+        "updatedAt": "2025-05-08T09:18:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-08-11T12:53:52Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 42642,
+        "name": "Morrowind Rebirth Creeper and Mudcrab gold exploit",
+        "status": "published",
+        "summary": "Simply re-implements the 5,000 gold to Creeper and 10,000 gold to the Mudcrab merchant if you have Morrowind Rebirth V2.4 or greater.",
+        "thumbnailUrl": null,
+        "uid": "429496772242",
+        "updatedAt": "2013-08-11T20:21:35Z"
+      }
+    ],
+    "totalCount": 8
+  }
+}

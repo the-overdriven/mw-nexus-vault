@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2025-05-14T21:01:49.280Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2018-09-28T13:31:13Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 46066,
+        "name": "Outfit Greetings Tweaked",
+        "status": "published",
+        "summary": "Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46066/46066-1538141441-410073531.jpeg",
+        "uid": "429496775666",
+        "updatedAt": "2025-05-14T18:34:42Z"
+      }
+    ],
+    "totalCount": 1
+  }
+}

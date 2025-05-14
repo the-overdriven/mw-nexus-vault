@@ -1,0 +1,159 @@
+{
+  "checkedAt": "2025-05-14T20:51:23.927Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 9,
+        "101": 11,
+        "1704": 7
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T21:26:39Z",
+        "fileSize": 355,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 45579,
+        "name": "Better Bloodmoon",
+        "status": "published",
+        "summary": "Compilation of my mods for Morrowind applied to content of Bloodmoon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45579/45579-1745858447-1396171395.png",
+        "uid": "429496775179",
+        "updatedAt": "2025-04-28T17:01:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T21:16:52Z",
+        "fileSize": 239,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 45578,
+        "name": "Better Tribunal",
+        "status": "published",
+        "summary": "Compilation of my mods for Morrowind applied to content of Tribunal.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45578/45578-1745858644-1117883693.png",
+        "uid": "429496775178",
+        "updatedAt": "2025-04-28T16:58:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T21:10:51Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45577,
+        "name": "Better Morrowind Skills",
+        "status": "published",
+        "summary": "Changes experience gain in all skills in Morrowind.",
+        "thumbnailUrl": null,
+        "uid": "429496775177",
+        "updatedAt": "2025-04-28T16:52:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T20:46:39Z",
+        "fileSize": 114,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 45576,
+        "name": "Better Morrowind Usable Items",
+        "status": "published",
+        "summary": "Changes stats of lockpicks, probes, alchemy apparatus, repair tools and soul gems.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45576/45576-1745859871-861869089.png",
+        "uid": "429496775176",
+        "updatedAt": "2025-04-28T17:05:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T20:39:00Z",
+        "fileSize": 311,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 45575,
+        "name": "Better Morrowind Weapons",
+        "status": "published",
+        "summary": "Changes stats of all base weapons in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45575/45575-1745860122-601532660.png",
+        "uid": "429496775175",
+        "updatedAt": "2025-04-28T17:09:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T20:29:56Z",
+        "fileSize": 48,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 45574,
+        "name": "Better Morrowind Bound Items",
+        "status": "published",
+        "summary": "Changes stats of all bound armor and weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45574/45574-1745860275-1989673849.png",
+        "uid": "429496775174",
+        "updatedAt": "2025-04-28T17:12:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T20:22:10Z",
+        "fileSize": 587,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 45573,
+        "name": "Better Morrowind Creatures",
+        "status": "published",
+        "summary": "Changes stats of most general creatures excluding uncommon ones.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45573/45573-1745860640-691041170.png",
+        "uid": "429496775173",
+        "updatedAt": "2025-04-28T17:18:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T20:10:44Z",
+        "fileSize": 586,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 45572,
+        "name": "Better Morrowind Spells",
+        "status": "published",
+        "summary": "Changes most purchasable spells in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45572/45572-1745862494-1903496746.png",
+        "uid": "429496775172",
+        "updatedAt": "2025-04-28T17:36:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-04-13T17:58:06Z",
+        "fileSize": 490,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 45571,
+        "name": "Better Morrowind Armors",
+        "status": "published",
+        "summary": "Changes stats of all base armor in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45571/45571-1745862726-1621066153.png",
+        "uid": "429496775171",
+        "updatedAt": "2025-04-28T17:53:12Z"
+      }
+    ],
+    "totalCount": 9
+  }
+}

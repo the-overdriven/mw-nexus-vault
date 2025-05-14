@@ -1,0 +1,205 @@
+{
+  "checkedAt": "2025-05-14T20:55:10.334Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 12
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-21T23:03:00Z",
+        "fileSize": 1519,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55623,
+        "name": "OpenMW Visible Rings",
+        "status": "published",
+        "summary": "NEW: Support for rings from Unique Jewelry Redone by Remiros. Wear glasses and goggles while keeping your hair on! See your equipped rings as visible objects on your fingers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55623/55623-1734821813-870652709.png",
+        "uid": "429496785223",
+        "updatedAt": "2025-03-22T16:30:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-13T00:08:29Z",
+        "fileSize": 870,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55572,
+        "name": "OpenMW Dynamic Ambient Visual Effects",
+        "status": "published",
+        "summary": "Now under a new name! NEW : Floating dust in tombs and crypts. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55572/55572-1741462216-1564911577.png",
+        "uid": "429496785172",
+        "updatedAt": "2025-03-11T21:58:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-30T00:33:46Z",
+        "fileSize": 9542,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55508,
+        "name": "OpenMW Impact Effects",
+        "status": "published",
+        "summary": "UPDATE: Preview camera mode now properly supported. Adds visual effects and sounds when you hit objects in the world. For OpenMW 0.49.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55508/55508-1732926148-1534225161.png",
+        "uid": "429496785108",
+        "updatedAt": "2025-04-25T00:31:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-12T23:31:01Z",
+        "fileSize": 328,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55452,
+        "name": "OpenMW Distant Ebonheart - Experimental",
+        "status": "published",
+        "summary": "Makes Ebonheart render as a single object in the Distant Land view, so that it no longer has missing building pieces when far away. Requires a mostly Vanilla Mod list for compatibility. Currently experimental.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55452/55452-1731451113-1801679633.png",
+        "uid": "429496785052",
+        "updatedAt": "2024-11-12T23:31:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-27T21:08:06Z",
+        "fileSize": 1888,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55392,
+        "name": "OpenMW More Dynamic Water Meshes",
+        "status": "published",
+        "summary": "Adds distortion effects to the  water meshes from Tamriel Rebuilt and OAAB data, giving the illusion of a 3D animated water surface.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55392/55392-1730060199-76535356.png",
+        "uid": "429496784992",
+        "updatedAt": "2024-10-27T21:08:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-06-02T21:55:16Z",
+        "fileSize": 289,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 54782,
+        "name": "OpenMW Dynamic Actors",
+        "status": "published",
+        "summary": "UPDATE: Optional download to fix sitting animations for Animated Morrowind. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC's. Customize player Idle animation, or use playlist function to animate player",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54782/54782-1717364168-367310833.png",
+        "uid": "429496784382",
+        "updatedAt": "2025-03-30T00:07:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-11T20:37:00Z",
+        "fileSize": 2430,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 54629,
+        "name": "OpenMW Lua helper utility",
+        "status": "published",
+        "summary": "UPDATE: Tamriel Rebuilt voiced dialogue ESP to support TR release 25.05.09 hotfix. Support mod for use by other OpenMW lua Mods. Requires OpenMW 0.49.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54629/54629-1715543708-1189011810.png",
+        "uid": "429496784229",
+        "updatedAt": "2025-05-10T17:36:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-04T20:20:29Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 54585,
+        "name": "OpenMW Animated Pickup and Shop Around",
+        "status": "published",
+        "summary": "UPDATE: Added the features from Shop Around by Merlord. Supports item animations for Quickloot by OwnlyMe. Based on MWSE Animated Pickup by C3pa, telekinesis style effect when picking up items. Plus Sneak to Steal, block accidental thievery",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54585/54585-1714851124-1692199516.png",
+        "uid": "429496784185",
+        "updatedAt": "2025-04-22T21:17:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-04-25T23:35:14Z",
+        "fileSize": 88,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 54500,
+        "name": "Flight Animated for OpenMW",
+        "status": "published",
+        "summary": "UPDATE: Fix for a bug conflict with the mod ReAnimation v2 Rogue. Why Walk when you can Fly? A more suitable flying animation for when you're levitating in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54500/54500-1714083847-125406856.png",
+        "uid": "429496784100",
+        "updatedAt": "2024-08-18T18:30:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-14T19:53:53Z",
+        "fileSize": 1044,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54155,
+        "name": "OpenMW vanilla candles patched with Enlightened Flames and ILFAS",
+        "status": "published",
+        "summary": "A basic drop in replacer of the vanilla candle models, combining lighting and material improvements from Improved Lights for All Shaders, and the realistic candle flames from Enlightened Flames.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54155/54155-1707936496-1763447181.png",
+        "uid": "429496783755",
+        "updatedAt": "2025-05-08T23:17:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-13T19:50:30Z",
+        "fileSize": 780,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54148,
+        "name": "OpenMW Skyrim Style Quest Notifications",
+        "status": "published",
+        "summary": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54148/54148-1707850703-1609451237.png",
+        "uid": "429496783748",
+        "updatedAt": "2025-04-27T21:56:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-10T21:12:32Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 54137,
+        "name": "OpenMW Voices of Vvardenfell patch",
+        "status": "published",
+        "summary": "NEW version for Full Working of Kezyma's Voices of Vvardenfell, all dialogue now playable. OpenMW 0.49 only.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54137/54137-1715723746-1396111053.png",
+        "uid": "429496783737",
+        "updatedAt": "2025-03-06T21:05:02Z"
+      }
+    ],
+    "totalCount": 12
+  }
+}
