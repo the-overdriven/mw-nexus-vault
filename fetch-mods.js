@@ -125,13 +125,15 @@ for (const uploaderName of modAuthors) {
       const dateCheckedStr = oldAuthorData.checkedAt
       const dateChecked = new Date(dateCheckedStr)
 
+      console.log('------------------------------')
+      console.log('checking author:', uploaderName)
       console.log('last checked author:', dateCheckedStr)
 
       // for each author's mod, check if it was updated since last check, and if it was, update mod's file IDs
       for (const mod of data.data.mods.nodes) {
         const dateUpdatedAt = new Date(mod.updatedAt)
         if (dateUpdatedAt > dateChecked) {
-          console.log(`mod ${mod.name} (id: ${mod.modId}) was updated on ${mod.updatedAt}! last checked:`, mod.checkedAt)
+          console.log(`mod ${mod.name} (id: ${mod.modId}) was updated on ${mod.updatedAt}!`)
 
           const fileIds = await findFileIds(mod.modId)
           console.log(`fetched file ids for mod ${mod.modId}:`, fileIds)
@@ -148,7 +150,7 @@ for (const uploaderName of modAuthors) {
     data = { checkedAt: dateNow.toISOString(), ...data.data }
 
     fs.writeFileSync(outputFile, JSON.stringify(data, null, 2))
-    console.log(`✅ Saved data for ${uploaderName} to ${outputFile}`)
+    console.log(`✅ Saved mod data of ${uploaderName} to ${outputFile}`)
   } catch (err) {
     console.error(`❌ Error fetching data for ${uploaderName}:`, err)
   }
