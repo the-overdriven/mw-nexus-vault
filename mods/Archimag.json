@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:27.414Z",
+  "checkedAt": "2025-05-14T20:27:11.579Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -902,7 +902,7 @@
         "modId": 47095,
         "name": "4NM_MAGIC",
         "status": "published",
-        "summary": "Power of all magic is now scaled from many other factors (resistances, skills, attributes, fatigue...). Critical hits for magic. Secondary effects for different damage types. Adds",
+        "summary": "Power of all magic is now scaled from many other factors (resistances, skills, attributes, fatigue...). Critical hits for magic. Secondary effects for different damage types. Adds A LOT of new magic effects and mechanics.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47095/47095-1590609387-1911782438.jpeg",
         "uid": "429496776695",
         "updatedAt": "2020-07-18T20:11:42Z"
@@ -918,7 +918,7 @@
         "modId": 47062,
         "name": "4NM_ALCHEMY",
         "status": "published",
-        "summary": "No more drinking over 9000 potions! No more alchemical exploits! No more useless poisons! Poison weapons and throw poison bottles! Rebalancing potion brewing formulas. Beautiful",
+        "summary": "No more drinking over 9000 potions! No more alchemical exploits! No more useless poisons! Poison weapons and throw poison bottles! Rebalancing potion brewing formulas. Beautiful potions icons.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47062/47062-1689359107-1681344560.png",
         "uid": "429496776662",
         "updatedAt": "2023-02-28T10:31:46Z"
@@ -934,7 +934,7 @@
         "modId": 47056,
         "name": "4NM_COMBAT",
         "status": "published",
-        "summary": "This is a complete overhaul of weapon combat system. Makes combat truly dynamic and realistic, with every weapon type having it's own unique ability and playstyle. Enhances AI of",
+        "summary": "This is a complete overhaul of weapon combat system. Makes combat truly dynamic and realistic, with every weapon type having it's own unique ability and playstyle. Enhances AI of enemies.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47056/47056-1565287554-1928543205.jpeg",
         "uid": "429496776656",
         "updatedAt": "2020-07-18T20:29:17Z"
@@ -950,7 +950,7 @@
         "modId": 47035,
         "name": "4NM_Training",
         "status": "published",
-        "summary": "The gain of experience in magic skills now depends on the spellcost. The gain of experience in battle skills now depends on damage, hero and enemy levels.Optional: 5 skill points",
+        "summary": "The gain of experience in magic skills now depends on the spellcost. The gain of experience in battle skills now depends on damage, hero and enemy levels.Optional: 5 skill points per level and new leveling mechanics.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47035/47035-1564752149-864602067.png",
         "uid": "429496776635",
         "updatedAt": "2020-01-12T13:07:52Z"

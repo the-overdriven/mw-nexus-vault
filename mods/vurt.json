@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:36:00.041Z",
+  "checkedAt": "2025-05-14T20:27:51.109Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -152,7 +152,7 @@
         "modId": 56248,
         "name": "Vurt's Texture Finder",
         "status": "published",
-        "summary": "A very easy way to get the name of any texture in the game, even the Land textures. Just attack the surface and the name will come up + it will also be logged to textures.log in",
+        "summary": "A very easy way to get the name of any texture in the game, even the Land textures. Just attack the surface and the name will come up + it will also be logged to textures.log in your MWSE/mods/TextureFinder folder.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56248/56248-1743081954-45489649.jpeg",
         "uid": "429496785848",
         "updatedAt": "2025-03-27T13:26:59Z",
@@ -190,7 +190,7 @@
         "modId": 56037,
         "name": "Vurt's Morrowind Visual Resurgence",
         "status": "published",
-        "summary": "AI retexture for the Morrowind textures which should rival the now more outdated AI upscaling methods. ~3400 textures are done. I try to be faithful to the original textures as",
+        "summary": "AI retexture for the Morrowind textures which should rival the now more outdated AI upscaling methods. ~3400 textures are done. I try to be faithful to the original textures as much as i can, but sometimes there will be big changes to make",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56037/56037-1740216692-1839665419.png",
         "uid": "429496785637",
         "updatedAt": "2025-05-11T15:41:42Z",
@@ -212,7 +212,7 @@
         "modId": 55922,
         "name": "Vurt's Bitter Coast Textures",
         "status": "published",
-        "summary": "v0.1 contains: New swamp textures - half-transparent to show actual animated MGE XE Water together with the new swamp textureNew textures for bark, rocks, lilly pads and daedric",
+        "summary": "v0.1 contains: New swamp textures - half-transparent to show actual animated MGE XE Water together with the new swamp textureNew textures for bark, rocks, lilly pads and daedric ruins.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55922/55922-1738689473-1277312687.jpeg",
         "uid": "429496785522",
         "updatedAt": "2025-02-04T17:19:32Z",
@@ -247,7 +247,7 @@
         "modId": 54259,
         "name": "Vurt's Argonians Retexture",
         "status": "published",
-        "summary": "Retexture for Argonians: body, face, hair - v.099 is 4K for the heads. Optional Tamriel Rebuilt, Westley's, and also Silaria's argonians - this will give you 15 new heads + better",
+        "summary": "Retexture for Argonians: body, face, hair - v.099 is 4K for the heads. Optional Tamriel Rebuilt, Westley's, and also Silaria's argonians - this will give you 15 new heads + better head meshes.Liztail's New Beast Bodies Pluginless Version is",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54259/54259-1739228693-2077157501.png",
         "uid": "429496783859",
         "updatedAt": "2025-04-16T09:53:31Z",
@@ -582,7 +582,7 @@
         "modId": 30669,
         "name": "Vurts Leafy West Gash",
         "status": "published",
-        "summary": "Vurt\\'s Leafy West Gash 2.0\n\nFeatures:\n\n\n* Replaces 7 of the 8 dead trees in the West Gash with 5 leafier varieties and 2 new dead trees.\n\n* Retextured tree stumps.\n\n* Animated",
+        "summary": "Vurt\\'s Leafy West Gash 2.0\n\nFeatures:\n\n\n* Replaces 7 of the 8 dead trees in the West Gash with 5 leafier varieties and 2 new dead trees.\n\n* Retextured tree stumps.\n\n* Animated leaves.\n\n* All leafy trees has falling leaves.\n\n* Mod is now",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/30669-1-1287446416.jpg",
         "uid": "429496760269",
         "updatedAt": "2010-10-19T01:04:48Z"

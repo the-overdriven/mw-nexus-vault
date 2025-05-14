@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:40.022Z",
+  "checkedAt": "2025-05-14T20:27:23.553Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -109,7 +109,7 @@
         "modId": 54778,
         "name": "Ahnassi Naturalized",
         "status": "published",
-        "summary": "Tweaks Ahnassi's questline to make it more suitable for low level characters. Also makes Ahnassi's friendship equal opportunity, regardless of gender, and adds a small guest",
+        "summary": "Tweaks Ahnassi's questline to make it more suitable for low level characters. Also makes Ahnassi's friendship equal opportunity, regardless of gender, and adds a small guest bedroom to Ahnassi's house, along with some other minor tweaks.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54778/54778-1717301489-1818338839.png",
         "uid": "429496784378",
         "updatedAt": "2024-06-02T04:15:30Z"
@@ -125,7 +125,7 @@
         "modId": 54750,
         "name": "The Guiding Guild - Dune Inspired Guild Guides",
         "status": "published",
-        "summary": "A lore and visual overhaul of Morrowind's Guild Guides. Adds a new faction headquarters for the Guild Guides beneath the Mournhold Royal Palace, as well as a short questline that",
+        "summary": "A lore and visual overhaul of Morrowind's Guild Guides. Adds a new faction headquarters for the Guild Guides beneath the Mournhold Royal Palace, as well as a short questline that begins on Vvardenfell and eventually ties in to the main",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54750/54750-1716872976-692956777.png",
         "uid": "429496784350",
         "updatedAt": "2025-05-12T03:03:52Z",
@@ -161,7 +161,7 @@
         "modId": 54330,
         "name": "Shroomdoliers and a Fishrooman",
         "status": "published",
-        "summary": "Adds a gondola network between Sadrith Mora, Tel Aruhn, and Tel Fyr, as well as a small fishing boat north of Tel Aruhn. Makes use of some excellent Telvanni boat models by",
+        "summary": "Adds a gondola network between Sadrith Mora, Tel Aruhn, and Tel Fyr, as well as a small fishing boat north of Tel Aruhn. Makes use of some excellent Telvanni boat models by DimNussens.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54330/54330-1710806946-1051444856.png",
         "uid": "429496783930",
         "updatedAt": "2024-03-21T03:48:18Z"
@@ -229,7 +229,7 @@
         "modId": 53544,
         "name": "The Great Seawall of Vivec",
         "status": "published",
-        "summary": "The Great Seawall stands south of Vivec, serving as a fortification to repel naval assaults against the city, and as a chokepoint to control maritime traffic to and from Ebonheart",
+        "summary": "The Great Seawall stands south of Vivec, serving as a fortification to repel naval assaults against the city, and as a chokepoint to control maritime traffic to and from Ebonheart and Vivec. It offers splendid views of both the Ascadian",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53544/53544-1695701860-1533987746.png",
         "uid": "429496783144",
         "updatedAt": "2023-11-04T05:18:01Z"
@@ -385,7 +385,7 @@
         "modId": 50999,
         "name": "Broadsheets and Notice Boards Redone",
         "status": "published",
-        "summary": "This is a long overdue update to my Broadsheets and Notice Boards mod from 2015. Overhauls quests and rewrites documents from the original mod, adds new documents, fixes bugs, and",
+        "summary": "This is a long overdue update to my Broadsheets and Notice Boards mod from 2015. Overhauls quests and rewrites documents from the original mod, adds new documents, fixes bugs, and adds a few other features. Now requires OAAB_Data and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50999/50999-1650360380-678951056.png",
         "uid": "429496780599",
         "updatedAt": "2023-08-20T08:54:07Z"

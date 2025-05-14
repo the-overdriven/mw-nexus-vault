@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:41.964Z",
+  "checkedAt": "2025-05-14T20:27:25.754Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,7 +18,7 @@
         "modId": 56433,
         "name": "No More Easy Sneak In Front Of Actors",
         "status": "published",
-        "summary": "In Morrowind it's not very hard to sneak (without being detected) in front of an actor. It's not realistic. Now it's hard (not if you're behind). And optionally you can fix the",
+        "summary": "In Morrowind it's not very hard to sneak (without being detected) in front of an actor. It's not realistic. Now it's hard (not if you're behind). And optionally you can fix the sneak icon (it's not realistic to know when someone detects you",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56433/56433-1745924438-437635397.png",
         "uid": "429496786033",
         "updatedAt": "2025-04-30T19:47:30Z",
@@ -73,7 +73,7 @@
         "modId": 55420,
         "name": "Npcs and Creatures Rest (OpenMW)",
         "status": "published",
-        "summary": "In Morrowind, NPCs and creatures rest (to regain health and magicka) only when the player rests. It isn't realistic. Now they can also rest at any time. They also regain fatigue",
+        "summary": "In Morrowind, NPCs and creatures rest (to regain health and magicka) only when the player rests. It isn't realistic. Now they can also rest at any time. They also regain fatigue when player is in another cell.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55420/55420-1730757767-738525852.png",
         "uid": "429496785020",
         "updatedAt": "2024-12-29T11:40:54Z"
@@ -121,7 +121,7 @@
         "modId": 55034,
         "name": "Loot_The_Mages_Guild quest improvement",
         "status": "published",
-        "summary": "Little improvement to correct the unrealistic situation when PC wants to enter Ald'Ruhn Guild Mages after the begining of the \"Loot The Mages Guild\" quest: in the original game,",
+        "summary": "Little improvement to correct the unrealistic situation when PC wants to enter Ald'Ruhn Guild Mages after the begining of the \"Loot The Mages Guild\" quest: in the original game, mages leave their Ald'Ruhn guild without warning, and if",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55034/55034-1722247094-762362870.png",
         "uid": "429496784634",
         "updatedAt": "2024-08-18T09:52:08Z"
@@ -137,7 +137,7 @@
         "modId": 54917,
         "name": "Improved Persuasion",
         "status": "published",
-        "summary": "Little persuasion improvement: obstruction of possible flurry of clicks (for example to raise Speechcraft too easily), and addition of small and realistic handicaps (mainly time)",
+        "summary": "Little persuasion improvement: obstruction of possible flurry of clicks (for example to raise Speechcraft too easily), and addition of small and realistic handicaps (mainly time) to balance the possible persuasion benefits.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54917/54917-1720200658-1318822129.png",
         "uid": "429496784517",
         "updatedAt": "2024-07-05T19:13:21Z"
@@ -153,7 +153,7 @@
         "modId": 54858,
         "name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
         "status": "published",
-        "summary": "This mod is an improvement of Protective Guards. Now the guards don't systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of",
+        "summary": "This mod is an improvement of Protective Guards. Now the guards don't systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54858/54858-1718720270-906162306.png",
         "uid": "429496784458",
         "updatedAt": "2025-05-12T16:22:21Z",
@@ -178,7 +178,7 @@
         "modId": 54711,
         "name": "No More Indifferent Actors To Combats (OpenMW)",
         "status": "published",
-        "summary": "In Morrowind most actors don't react when there is a combat around them. No more! Now actors come to see what's happening, they are alarmed and stay at a safe distance. For each of",
+        "summary": "In Morrowind most actors don't react when there is a combat around them. No more! Now actors come to see what's happening, they are alarmed and stay at a safe distance. For each of these actors, if combat(s) are over, or if he moved too",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54711/54711-1716329079-347139024.png",
         "uid": "429496784311",
         "updatedAt": "2024-09-22T21:00:09Z"
@@ -194,7 +194,7 @@
         "modId": 54638,
         "name": "Lock Bash EE",
         "status": "published",
-        "summary": "This mod allows to use brute force to open most doors and containers. It also locks the doors of most shopkeepers/NPCs/Guilds at night (optional and editable, activated by",
+        "summary": "This mod allows to use brute force to open most doors and containers. It also locks the doors of most shopkeepers/NPCs/Guilds at night (optional and editable, activated by default). Breaking locks is illegal in populated area&nbsp;; you get",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54638/54638-1715533737-163844257.png",
         "uid": "429496784238",
         "updatedAt": "2024-07-16T14:03:20Z"
@@ -242,7 +242,7 @@
         "modId": 53090,
         "name": "Enemy Fatigue Bar (OpenMW)",
         "status": "published",
-        "summary": "Some instructions and a little mod to show the fatigue of the enemy. (for the original HUD, or for any mod who change the HUD with the openmw_hud.layout file). NEEDS RECOMPILATION",
+        "summary": "Some instructions and a little mod to show the fatigue of the enemy. (for the original HUD, or for any mod who change the HUD with the openmw_hud.layout file). NEEDS RECOMPILATION OF OPENMW (see below).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53090/53090-1687176790-8316833.png",
         "uid": "429496782690",
         "updatedAt": "2023-06-19T12:53:30Z"
@@ -290,7 +290,7 @@
         "modId": 52429,
         "name": "Regionally Known Criminals",
         "status": "published",
-        "summary": "This mod will make crime on Morrowind region dependent. After a certain crime level people in other towns will also hear about your crimes. The news of your crimes will only spread",
+        "summary": "This mod will make crime on Morrowind region dependent. After a certain crime level people in other towns will also hear about your crimes. The news of your crimes will only spread to towns that have the same kind of guards as in the town",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52429/52429-1677705741-2078218499.png",
         "uid": "429496782029",
         "updatedAt": "2023-03-01T21:26:32Z"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:33.927Z",
+  "checkedAt": "2025-05-14T20:27:17.848Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,7 +18,7 @@
         "modId": 55593,
         "name": "Quest Guider",
         "status": "published",
-        "summary": "Shows comprehensive information about game quests and adds quest markers to the game. The information is generated dynamically based on your mods. Has many settings and the ability",
+        "summary": "Shows comprehensive information about game quests and adds quest markers to the game. The information is generated dynamically based on your mods. Has many settings and the ability to disable features (for example, you can disable markers",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55593/55593-1734509196-1995167322.png",
         "uid": "429496785193",
         "updatedAt": "2025-05-06T17:13:54Z",
@@ -123,7 +123,7 @@
         "modId": 53455,
         "name": "Fancy Door Randomizer for OpenMW",
         "status": "published",
-        "summary": "After activating a door, the mod will randomly teleport you to the destination of another door.Also it can change the destination of the exit door and save any new destination for",
+        "summary": "After activating a door, the mod will randomly teleport you to the destination of another door.Also it can change the destination of the exit door and save any new destination for a while.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53455/53455-1694804506-1352154307.png",
         "uid": "429496783055",
         "updatedAt": "2024-03-11T14:33:19Z"

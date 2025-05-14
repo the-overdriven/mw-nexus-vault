@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:49.033Z",
+  "checkedAt": "2025-05-14T20:27:37.246Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -37,7 +37,7 @@
         "modId": 55943,
         "name": "Antares Creatures Redux",
         "status": "published",
-        "summary": "AI-enhanced textures, clean ESPs and improved packaging for several classic creatures: Antare's Trolls, Treants, Hill Giants, Frost Monarch, Frost Giants, Green Slime, Gargoyles,",
+        "summary": "AI-enhanced textures, clean ESPs and improved packaging for several classic creatures: Antare's Trolls, Treants, Hill Giants, Frost Monarch, Frost Giants, Green Slime, Gargoyles, Medusa, Cecaelia, and Beholder.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55943/55943-1739994720-271054355.png",
         "uid": "429496785543",
         "updatedAt": "2025-02-13T11:54:18Z",
@@ -63,7 +63,7 @@
         "modId": 53365,
         "name": "Bringer of Salvation",
         "status": "published",
-        "summary": "This mod adds a new person to Ebonheart, Serulius Vorenus, who wields a new artifact known as \"Bringer of Salvation.\" This sword is a two-handed blade on par with the most powerful",
+        "summary": "This mod adds a new person to Ebonheart, Serulius Vorenus, who wields a new artifact known as \"Bringer of Salvation.\" This sword is a two-handed blade on par with the most powerful of artifacts, befitting its status as Stendarr's blade of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53365/53365-1691767316-1424870117.jpeg",
         "uid": "429496782965",
         "updatedAt": "2023-08-11T15:19:23Z"
@@ -254,7 +254,7 @@
         "modId": 48921,
         "name": "Simple Combat Mechanics",
         "status": "published",
-        "summary": "Adds a few new, simple, combat mechanics to improve combat variety: combat scavenging for NPCs, disarming (and being disarmed), as well as bystanders that will sometimes flee or",
+        "summary": "Adds a few new, simple, combat mechanics to improve combat variety: combat scavenging for NPCs, disarming (and being disarmed), as well as bystanders that will sometimes flee or assist in some situations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48921/48921-1602362511-1099151353.jpeg",
         "uid": "429496778521",
         "updatedAt": "2020-10-10T21:12:27Z"
@@ -286,7 +286,7 @@
         "modId": 48019,
         "name": "3E 427 A Space Odyssey",
         "status": "published",
-        "summary": "Tarhiel has long dreamed of reaching the sun. Save him from his perilous experiments with the Scrolls of Icarian Flight to go on a quest to unlock a completely new kind of",
+        "summary": "Tarhiel has long dreamed of reaching the sun. Save him from his perilous experiments with the Scrolls of Icarian Flight to go on a quest to unlock a completely new kind of levitation magic: flotation.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48019/48019-1589326532-214674666.jpeg",
         "uid": "429496777619",
         "updatedAt": "2024-06-23T19:05:14Z"
@@ -318,7 +318,7 @@
         "modId": 47948,
         "name": "Miscast Enhanced",
         "status": "published",
-        "summary": "Inspired by the Miscast mod from years ago, this mod adds consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic",
+        "summary": "Inspired by the Miscast mod from years ago, this mod adds consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47948/47948-1588518485-491741019.png",
         "uid": "429496777548",
         "updatedAt": "2025-02-04T22:09:23Z",
@@ -376,7 +376,7 @@
         "modId": 47898,
         "name": "Living With Caius",
         "status": "published",
-        "summary": "Alters Caius Cosades' home in Balmora to be slightly bigger, have a second floor, have a private patio, and have a spare room for the player to live in if they decided to help",
+        "summary": "Alters Caius Cosades' home in Balmora to be slightly bigger, have a second floor, have a private patio, and have a spare room for the player to live in if they decided to help Caius by joining the Blades.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47898/47898-1588294892-680467798.jpeg",
         "uid": "429496777498",
         "updatedAt": "2020-05-01T01:05:54Z"
@@ -456,7 +456,7 @@
         "modId": 47713,
         "name": "Cosmetic Overrides",
         "status": "published",
-        "summary": "Adds the ability to use cosmetic overrides for clothing and armour. Cosmetic Overrides do not affect enchantments, stats, or other gameplay mechanics; they simply change what is",
+        "summary": "Adds the ability to use cosmetic overrides for clothing and armour. Cosmetic Overrides do not affect enchantments, stats, or other gameplay mechanics; they simply change what is rendered on the player.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47713/47713-1584895378-685476199.jpeg",
         "uid": "429496777313",
         "updatedAt": "2025-02-07T02:13:30Z",
@@ -480,7 +480,7 @@
         "modId": 47719,
         "name": "Essential NPCs are Immortal",
         "status": "published",
-        "summary": "Nullifies all forms of damage against NPCs marked as \"Essential\", in all cases. Install this mod if you are too used to being protected from your own actions in Oblivion or Skyrim",
+        "summary": "Nullifies all forms of damage against NPCs marked as \"Essential\", in all cases. Install this mod if you are too used to being protected from your own actions in Oblivion or Skyrim and cannot handle responsibility.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47719/47719-1584985234-113273864.jpeg",
         "uid": "429496777319",
         "updatedAt": "2020-04-05T14:14:33Z"
@@ -512,7 +512,7 @@
         "modId": 47749,
         "name": "Particle Arrow Replacer",
         "status": "published",
-        "summary": "This is a re-upload of Particle Arrow Replacer by Ghostnull, since it is not available anywhere. The plugin adds unique particle effects to all enchanted arrows in Morrowind,",
+        "summary": "This is a re-upload of Particle Arrow Replacer by Ghostnull, since it is not available anywhere. The plugin adds unique particle effects to all enchanted arrows in Morrowind, Tribunal, and Bloodmoon.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47749/47749-1585592550-1243371637.jpeg",
         "uid": "429496777349",
         "updatedAt": "2020-03-30T18:25:31Z"
@@ -528,7 +528,7 @@
         "modId": 47672,
         "name": "MM - Enhanced Light",
         "status": "published",
-        "summary": "The 6th entry in the Magic Mechanics series. The light magic effect has been replaced with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light",
+        "summary": "The 6th entry in the Magic Mechanics series. The light magic effect has been replaced with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light that will follow and float around you and other NPCs. Casting",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47672/47672-1585305186-1629258296.png",
         "uid": "429496777272",
         "updatedAt": "2024-06-23T19:31:00Z"
@@ -544,7 +544,7 @@
         "modId": 47565,
         "name": "MM - Enhanced Invisibility",
         "status": "published",
-        "summary": "The 5th entry in the Magic Mechanics series. Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that",
+        "summary": "The 5th entry in the Magic Mechanics series. Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Also, under the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47565/47565-1581179005-575972490.png",
         "uid": "429496777165",
         "updatedAt": "2024-06-23T19:33:19Z"
@@ -560,7 +560,7 @@
         "modId": 47534,
         "name": "MM - Enhanced Telekinesis",
         "status": "published",
-        "summary": "The fourth entry in the Magic Mechanics mod series, this mod is inspired by Fliggerty's Better Telekinesis. Using telekinesis will now propel objects towards you with new VFX",
+        "summary": "The fourth entry in the Magic Mechanics mod series, this mod is inspired by Fliggerty's Better Telekinesis. Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47534/47534-1579823876-1376524316.png",
         "uid": "429496777134",
         "updatedAt": "2024-06-23T19:26:14Z"
@@ -592,7 +592,7 @@
         "modId": 47480,
         "name": "MM - Enhanced Detection",
         "status": "published",
-        "summary": "The third entry in the Magic Mechanics series, this mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic",
+        "summary": "The third entry in the Magic Mechanics series, this mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47480/47480-1582839624-573171493.png",
         "uid": "429496777080",
         "updatedAt": "2025-02-03T14:38:19Z",
@@ -684,7 +684,7 @@
         "modId": 47338,
         "name": "MM - Cast-On-Swing Enchantments",
         "status": "published",
-        "summary": "Another entry in the Magic Mechanics mod series, weapons with enchantments of Cast-On-Strike and Cast-On-Use types will now work without hitting a target. Just swing your weapon",
+        "summary": "Another entry in the Magic Mechanics mod series, weapons with enchantments of Cast-On-Strike and Cast-On-Use types will now work without hitting a target. Just swing your weapon and the enchantment will work as normal, sending a spell",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47338/47338-1574898435-270925486.jpeg",
         "uid": "429496776938",
         "updatedAt": "2024-06-23T19:15:23Z"
@@ -700,7 +700,7 @@
         "modId": 47270,
         "name": "Fortified Molag Mar",
         "status": "published",
-        "summary": "Visit a reforged Molag Mar to embark upon a series of quests to discover what happened to a missing Buoyant Armiger. Adds 5 increasingly difficult quests, innovative magic effects,",
+        "summary": "Visit a reforged Molag Mar to embark upon a series of quests to discover what happened to a missing Buoyant Armiger. Adds 5 increasingly difficult quests, innovative magic effects, and battles that only a God could win.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47270/47270-1572651851-787386222.png",
         "uid": "429496776870",
         "updatedAt": "2019-11-10T16:14:44Z"
@@ -716,7 +716,7 @@
         "modId": 47234,
         "name": "Deeper Dagoth Ur",
         "status": "published",
-        "summary": "Significant overhaul of the exterior and interior of Dagoth Ur, transforming it into a fortress befitting its legendary status.Ancient technology and the power of the heart of",
+        "summary": "Significant overhaul of the exterior and interior of Dagoth Ur, transforming it into a fortress befitting its legendary status.Ancient technology and the power of the heart of Lorkhan will present new challenges.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47234/47234-1571267315-540977584.png",
         "uid": "429496776834",
         "updatedAt": "2019-10-17T01:03:44Z"
@@ -775,7 +775,7 @@
         "modId": 47105,
         "name": "Illegal Summoning",
         "status": "published",
-        "summary": "Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and",
+        "summary": "Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47105/47105-1566525442-1221131166.jpeg",
         "uid": "429496776705",
         "updatedAt": "2021-07-12T22:03:48Z"
@@ -807,7 +807,7 @@
         "modId": 47008,
         "name": "Chrysopoeia",
         "status": "published",
-        "summary": "Using MWSE Lua and Magicka Expanded, embark on a short quest to gain the power of transmuting items into gold: Chrysopoeia. Search for the most learned alchemist on the island of",
+        "summary": "Using MWSE Lua and Magicka Expanded, embark on a short quest to gain the power of transmuting items into gold: Chrysopoeia. Search for the most learned alchemist on the island of Morrowind to find it. But, remember, nothing is free.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47008/47008-1564772055-2028464238.jpeg",
         "uid": "429496776608",
         "updatedAt": "2024-06-23T19:09:14Z"
@@ -823,7 +823,7 @@
         "modId": 46248,
         "name": "Realistic Movement Speeds",
         "status": "published",
-        "summary": "Using MWSE Lua, modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows",
+        "summary": "Using MWSE Lua, modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46248/46248-1564964402-402085521.jpeg",
         "uid": "429496775848",
         "updatedAt": "2019-09-07T03:09:37Z"

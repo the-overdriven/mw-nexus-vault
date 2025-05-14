@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:42.129Z",
+  "checkedAt": "2025-05-14T20:27:26.389Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -19,7 +19,7 @@
         "modId": 50113,
         "name": "A Sinking Feeling",
         "status": "published",
-        "summary": "No longer can you swim in heavy plate; now your armour, equipment, or carried items drag you down while swimming. Options exist for formulas based on equipped armour weight class,",
+        "summary": "No longer can you swim in heavy plate; now your armour, equipment, or carried items drag you down while swimming. Options exist for formulas based on equipped armour weight class, total equipment weight, or encumbrance percentage.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50113/50113-1628463011-232744151.jpeg",
         "uid": "429496779713",
         "updatedAt": "2021-08-18T07:11:11Z"
@@ -51,7 +51,7 @@
         "modId": 48801,
         "name": "No More Friendly Fire",
         "status": "published",
-        "summary": "Stop friendly fire. Player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Option to stop combat from occurring",
+        "summary": "Stop friendly fire. Player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Option to stop combat from occurring between friendly actors. That's it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48801/48801-1599502357-76915892.png",
         "uid": "429496778401",
         "updatedAt": "2020-10-25T23:35:29Z"
@@ -83,7 +83,7 @@
         "modId": 48632,
         "name": "Door Randomizer",
         "status": "published",
-        "summary": "Randomizes the destination of all cell-change doors. Configuration options such as: randomize chance; pick only cells of type: interior, exterior, both, or match original",
+        "summary": "Randomizes the destination of all cell-change doors. Configuration options such as: randomize chance; pick only cells of type: interior, exterior, both, or match original destination; only pick cells that have a door to place the player",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48632/48632-1596000302-1589133180.png",
         "uid": "429496778232",
         "updatedAt": "2022-05-11T20:39:00Z"
@@ -99,7 +99,7 @@
         "modId": 48622,
         "name": "More Attentive Guards",
         "status": "published",
-        "summary": "Guards with some actual spatial awareness! An MWSE-Lua mod that replicates Inquisitive Guards by RubberMan and Protective Guards by Fliggerty. Guards that catch the player sneaking",
+        "summary": "Guards with some actual spatial awareness! An MWSE-Lua mod that replicates Inquisitive Guards by RubberMan and Protective Guards by Fliggerty. Guards that catch the player sneaking about in town will follow them for a length of time",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48622/48622-1595738958-1339668375.png",
         "uid": "429496778222",
         "updatedAt": "2021-09-12T00:11:32Z"
@@ -131,7 +131,7 @@
         "modId": 48557,
         "name": "More Choppin' Axes",
         "status": "published",
-        "summary": "Modifies axe damage values so that chop is used by default if \"Always Use Best Attack\" is on. Because axes should chop, right? Doesn't change anything that already chops by",
+        "summary": "Modifies axe damage values so that chop is used by default if \"Always Use Best Attack\" is on. Because axes should chop, right? Doesn't change anything that already chops by default.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48557/48557-1594191109-1996898881.png",
         "uid": "429496778157",
         "updatedAt": "2020-07-08T06:47:37Z"
@@ -147,7 +147,7 @@
         "modId": 48453,
         "name": "Activate With A Click",
         "status": "published",
-        "summary": "Activate/interact with a click of the mouse, because simply mapping activate to a mouse button doesn't work when activating objects that are made interactive by an MWSE Lua script.",
+        "summary": "Activate/interact with a click of the mouse, because simply mapping activate to a mouse button doesn't work when activating objects that are made interactive by an MWSE Lua script. Fixes interactivity with objects such as wells and kegs in",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48453/48453-1593051435-1008762264.png",
         "uid": "429496778053",
         "updatedAt": "2020-10-08T05:18:36Z"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:55.599Z",
+  "checkedAt": "2025-05-14T20:27:46.005Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -177,7 +177,7 @@
         "modId": 53032,
         "name": "Morrowind Upscale Project",
         "status": "published",
-        "summary": "The Morrowind Upscale Project is a modding initiative aimed at enhancing the textures in the game Morrowind. This project upscales all the textures to 2048 resolution, resulting in",
+        "summary": "The Morrowind Upscale Project is a modding initiative aimed at enhancing the textures in the game Morrowind. This project upscales all the textures to 2048 resolution, resulting in improved clarity and detail. It is important to note that",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53032/53032-1685968360-1494272782.png",
         "uid": "429496782632",
         "updatedAt": "2023-06-05T13:58:31Z"
@@ -353,7 +353,7 @@
         "modId": 52804,
         "name": "Static's Gold Expansion",
         "status": "published",
-        "summary": "Uses MWSE Dynamic Object Replacer to swap out 4 additional gold coin designs (20 meshes) based off of Septim Gold and Dwemer Dumacs, and promotional images of the CE Greymoore",
+        "summary": "Uses MWSE Dynamic Object Replacer to swap out 4 additional gold coin designs (20 meshes) based off of Septim Gold and Dwemer Dumacs, and promotional images of the CE Greymoore Coins released by ZenniMax",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52804/52804-1683170310-1342054871.png",
         "uid": "429496782404",
         "updatedAt": "2023-07-16T22:30:34Z"
@@ -417,7 +417,7 @@
         "modId": 46022,
         "name": "Static's AoF Hlaalu Atlased",
         "status": "published",
-        "summary": "An Atlased Hlaalu ReplacerUses:AnOldFriend's Hlaalu TexturesRytelier's  Top and side edges from Aesthesia - Hlaalu texturesRemiros'  Project Atlas MeshesStatic for edits, and",
+        "summary": "An Atlased Hlaalu ReplacerUses:AnOldFriend's Hlaalu TexturesRytelier's  Top and side edges from Aesthesia - Hlaalu texturesRemiros'  Project Atlas MeshesStatic for edits, and creating atlas texture using above resources",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46022/46022-1536319634-529872105.png",
         "uid": "429496775622",
         "updatedAt": "2018-09-07T07:47:15Z"
@@ -497,7 +497,7 @@
         "modId": 1616,
         "name": "Japanese House - Vivec Expansion Compatability Patch",
         "status": "published",
-        "summary": "Moves the Guar Island to the Main Land so the Japanese House is usable\n\nJapanese House 1.4: http://mw.modhistory.com/download-44-12115 \nSakura Addon (Not needed but expands on JH):",
+        "summary": "Moves the Guar Island to the Main Land so the Japanese House is usable\n\nJapanese House 1.4: http://mw.modhistory.com/download-44-12115 \nSakura Addon (Not needed but expands on JH): http://mw.modhistory.com/download-44-2315\nVivec Expansion:",
         "thumbnailUrl": null,
         "uid": "429496731216",
         "updatedAt": "2008-01-07T23:52:27Z"

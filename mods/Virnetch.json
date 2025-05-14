@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:59.190Z",
+  "checkedAt": "2025-05-14T20:27:50.399Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,7 +18,7 @@
         "modId": 51249,
         "name": "Enchantment Services Redone - ESR",
         "status": "published",
-        "summary": "Adds NPC services for recharging enchanted items, deciphering magic scrolls and the option to transcribe magic scrolls, both by the player, and through a service. Adds empty",
+        "summary": "Adds NPC services for recharging enchanted items, deciphering magic scrolls and the option to transcribe magic scrolls, both by the player, and through a service. Adds empty scrolls from OAAB to enchanters and booksellers, and disables the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51249/51249-1652649778-323391365.png",
         "uid": "429496780849",
         "updatedAt": "2025-01-30T16:57:44Z",
@@ -37,7 +37,7 @@
         "modId": 50280,
         "name": "Protective Helmets",
         "status": "published",
-        "summary": "Automatically adds resistances to diseases and poisons when wearing a closed helmet. This is mostly to make traveling in a blight storm more immersive while wearing a helmet with a",
+        "summary": "Automatically adds resistances to diseases and poisons when wearing a closed helmet. This is mostly to make traveling in a blight storm more immersive while wearing a helmet with a mod that adds a chance to catch the disease from the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50280/50280-1632675648-486536032.png",
         "uid": "429496779880",
         "updatedAt": "2024-01-10T23:46:21Z"
@@ -53,7 +53,7 @@
         "modId": 50194,
         "name": "Enchanted Weapon Resistance",
         "status": "published",
-        "summary": "Using MWSE-Lua Automatically changes the Ignore normal weapon resistance flag for all enchanted weapons and ammunition to be the same as an unenchanted item with the same mesh.",
+        "summary": "Using MWSE-Lua Automatically changes the Ignore normal weapon resistance flag for all enchanted weapons and ammunition to be the same as an unenchanted item with the same mesh. Blocks cast-on-strike enchantments from triggering when the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50194/50194-1632692742-1964580257.png",
         "uid": "429496779794",
         "updatedAt": "2021-09-14T16:37:38Z"
@@ -117,7 +117,7 @@
         "modId": 48055,
         "name": "Hotkeys Extended",
         "status": "published",
-        "summary": "Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in",
+        "summary": "Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48055/48055-1589558169-117848322.png",
         "uid": "429496777655",
         "updatedAt": "2025-03-07T21:40:07Z",
@@ -152,7 +152,7 @@
         "modId": 47065,
         "name": "Customizable MWSE Multi Mark and Harder Recall",
         "status": "published",
-        "summary": "An overhaul of the mark and recall system using MWSE 2.1 to allow: - Multiple mark locations, even from other mods. Teleport companions to your location. Limit number of marks by",
+        "summary": "An overhaul of the mark and recall system using MWSE 2.1 to allow: - Multiple mark locations, even from other mods. Teleport companions to your location. Limit number of marks by mysticism. - Higher magicka cost and lower cast chance for",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47065/47065-1565874363-2104879205.png",
         "uid": "429496776665",
         "updatedAt": "2025-03-22T13:41:40Z",

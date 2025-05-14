@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:28.675Z",
+  "checkedAt": "2025-05-14T20:27:12.803Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,7 +18,7 @@
         "modId": 50065,
         "name": "Fish With Fishing Poles Expansion",
         "status": "published",
-        "summary": "This is a small ESP file that loads AFTER RacerPlume's Fishing.esp, and a MWSE script that together, aim to make Pole Fishing more useful as a source of food for Ashfall. This",
+        "summary": "This is a small ESP file that loads AFTER RacerPlume's Fishing.esp, and a MWSE script that together, aim to make Pole Fishing more useful as a source of food for Ashfall. This Expansion also makes the Pole Fishing skill visible, and ties it",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50065/50065-1627016073-2040993830.png",
         "uid": "429496779665",
         "updatedAt": "2021-08-20T01:56:16Z"
@@ -34,7 +34,7 @@
         "modId": 50026,
         "name": "Dramatic Vivec BCOM Patch",
         "status": "published",
-        "summary": "Dramatic Vivec updates the largest city in Vvardenfell by completely overhauling the lighting system, and adding flowerbeds, signs, and monuments. This is a version of the ESP that",
+        "summary": "Dramatic Vivec updates the largest city in Vvardenfell by completely overhauling the lighting system, and adding flowerbeds, signs, and monuments. This is a version of the ESP that is compatible with Beautiful Cities of Morrowind (BCoM).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50026/50026-1625553519-506476563.jpeg",
         "uid": "429496779626",
         "updatedAt": "2021-08-04T05:38:10Z"
@@ -50,7 +50,7 @@
         "modId": 50019,
         "name": "DuraGra My House",
         "status": "published",
-        "summary": "Edited Dura Gra-Bol house in Balmora.This is a utilitarian house, and as such it does not attempt to look like you're living there, and it takes some liberties to accelerate",
+        "summary": "Edited Dura Gra-Bol house in Balmora.This is a utilitarian house, and as such it does not attempt to look like you're living there, and it takes some liberties to accelerate gameplay.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50019/50019-1625368693-253366726.jpeg",
         "uid": "429496779619",
         "updatedAt": "2021-07-04T03:27:22Z"
@@ -82,7 +82,7 @@
         "modId": 50002,
         "name": "Mudcrab Island TLAD-BCOM Patch",
         "status": "published",
-        "summary": "TLAD and BCOM versions of the Phaedrus' amazing Mudcrab Island (v1.02) ESP. This replaces the Mudcrab Island ESP but you still need the original mod. Darker interiors, script",
+        "summary": "TLAD and BCOM versions of the Phaedrus' amazing Mudcrab Island (v1.02) ESP. This replaces the Mudcrab Island ESP but you still need the original mod. Darker interiors, script fixes, Ashfall interop.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50002/50002-1624565871-1868212995.jpeg",
         "uid": "429496779602",
         "updatedAt": "2021-07-29T07:14:25Z"
@@ -98,7 +98,7 @@
         "modId": 49371,
         "name": "Atmospheric Sound Effects Expanded",
         "status": "published",
-        "summary": "Contains original cleaned Atmospheric Sound Effects 3.0u4, an updated ASE v3.1, and merged ASE (Duncan) + ASE Expansions (Dark Angel) + Expanded Sounds (PirateLord) ASEE versions.",
+        "summary": "Contains original cleaned Atmospheric Sound Effects 3.0u4, an updated ASE v3.1, and merged ASE (Duncan) + ASE Expansions (Dark Angel) + Expanded Sounds (PirateLord) ASEE versions. Some 440 sound files were cleaned-up, scripts updated,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49371/49371-1615182663-405281897.png",
         "uid": "429496778971",
         "updatedAt": "2021-09-25T23:18:09Z"

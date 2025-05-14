@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:48.401Z",
+  "checkedAt": "2025-05-14T20:27:36.517Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -65,7 +65,7 @@
         "modId": 52815,
         "name": "Wonders of Water",
         "status": "published",
-        "summary": "This mod attempts to make water react more to the world. When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with",
+        "summary": "This mod attempts to make water react more to the world. When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with depth, an effect that can be countered with Night Eye.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52815/52815-1683229587-1441008430.jpeg",
         "uid": "429496782415",
         "updatedAt": "2023-05-04T19:51:53Z"
@@ -81,7 +81,7 @@
         "modId": 51359,
         "name": "External Commands",
         "status": "published",
-        "summary": "Facilitates the reading of json packages from a monitored folder or through a TCP connection to allow the execution of scripts. This allows streamers to have interactive chat",
+        "summary": "Facilitates the reading of json packages from a monitored folder or through a TCP connection to allow the execution of scripts. This allows streamers to have interactive chat commands that modify the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51359/51359-1653686278-1269008634.jpeg",
         "uid": "429496780959",
         "updatedAt": "2022-05-27T21:21:19Z"
@@ -113,7 +113,7 @@
         "modId": 51095,
         "name": "Selection Details",
         "status": "published",
-        "summary": "This mod aims to help mod developers and those working on their install to help diagnose issues. Have you ever wanted to know which texture that rock is using, so you can replace",
+        "summary": "This mod aims to help mod developers and those working on their install to help diagnose issues. Have you ever wanted to know which texture that rock is using, so you can replace it? What head the NPC has so you can change it? What the heck",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51095/51095-1651529747-418263653.jpeg",
         "uid": "429496780695",
         "updatedAt": "2022-05-24T00:29:27Z"
@@ -129,7 +129,7 @@
         "modId": 51084,
         "name": "Smarter Strike Sounds",
         "status": "published",
-        "summary": "This mod improves the logic for selecting an enchantment failure sound. It enables selecting a random effect fail sound, and preventing the same enchantment from playing a sound",
+        "summary": "This mod improves the logic for selecting an enchantment failure sound. It enables selecting a random effect fail sound, and preventing the same enchantment from playing a sound twice (or more) in a row. As a result, enchantment strike",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51084/51084-1651446259-1303810287.jpeg",
         "uid": "429496780684",
         "updatedAt": "2022-05-01T23:07:08Z"
@@ -485,7 +485,7 @@
         "modId": 45672,
         "name": "Permanently Perished",
         "status": "published",
-        "summary": "A simple permadeath mod for Morrowind. When you create a new character, you will be allowed to choose the number of lives the character has (defaults to 1). When the character",
+        "summary": "A simple permadeath mod for Morrowind. When you create a new character, you will be allowed to choose the number of lives the character has (defaults to 1). When the character dies, saves for that character won't be playable.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45672/45672-1526593808-1981019009.jpeg",
         "uid": "429496775272",
         "updatedAt": "2018-05-17T21:56:29Z"
@@ -501,7 +501,7 @@
         "modId": 45657,
         "name": "Sounds of Souls",
         "status": "published",
-        "summary": "Ever think that it's a bit creepy that there are souls trapped just there, on your desk? Would it be even creepier if the souls spoke from beyond the grave? This mod makes them do",
+        "summary": "Ever think that it's a bit creepy that there are souls trapped just there, on your desk? Would it be even creepier if the souls spoke from beyond the grave? This mod makes them do just that!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45657/45657-1526256257-924325996.jpeg",
         "uid": "429496775257",
         "updatedAt": "2018-05-14T00:04:58Z"
@@ -565,7 +565,7 @@
         "modId": 45608,
         "name": "Sophisticated Save System",
         "status": "published",
-        "summary": "This mod changes how saves are handled by Morrowind. The goal of the mod is to provide more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the",
+        "summary": "This mod changes how saves are handled by Morrowind. The goal of the mod is to provide more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45608/45608-1525161687-1397599004.jpeg",
         "uid": "429496775208",
         "updatedAt": "2021-07-06T11:56:23Z"

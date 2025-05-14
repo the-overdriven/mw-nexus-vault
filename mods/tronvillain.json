@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:58.108Z",
+  "checkedAt": "2025-05-14T20:27:48.609Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,7 +18,7 @@
         "modId": 50496,
         "name": "Unique Tombs",
         "status": "published",
-        "summary": "A plugin that retextures all of the Velothi meshes found in vanilla tombs while leaving all of the other Velothi architecture untouched, with example textures fusing Connary's",
+        "summary": "A plugin that retextures all of the Velothi meshes found in vanilla tombs while leaving all of the other Velothi architecture untouched, with example textures fusing Connary's \"Veloth's Sons\" and \"Sewers, the Humid Realm.\" With some",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50496/50496-1638459612-1063503722.jpeg",
         "uid": "429496780096",
         "updatedAt": "2021-12-02T15:49:05Z"
@@ -34,7 +34,7 @@
         "modId": 48008,
         "name": "Better Scamps",
         "status": "published",
-        "summary": "A pluginless mesh replacer for the scamp creature which attempts to fix the UV mapping (distortion, seams, symmetry, random mistakes, and—for some reason—the teeth being mapped",
+        "summary": "A pluginless mesh replacer for the scamp creature which attempts to fix the UV mapping (distortion, seams, symmetry, random mistakes, and—for some reason—the teeth being mapped onto the lips). Also included are vanilla-esque versions of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48008/48008-1591021134-1635527704.jpeg",
         "uid": "429496777608",
         "updatedAt": "2020-05-11T15:24:06Z"
@@ -66,7 +66,7 @@
         "modId": 28729,
         "name": "Better Skulls",
         "status": "published",
-        "summary": "Updated to the most recent version, with new meshes (from the skeleton creature) for the statics, misc. objects, and lights involving skulls—carefully aligned with the original",
+        "summary": "Updated to the most recent version, with new meshes (from the skeleton creature) for the statics, misc. objects, and lights involving skulls—carefully aligned with the original meshes to hopefully sit almost identically in-game.  Also, a",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/28729/28729-1591021589-1029749596.jpeg",
         "uid": "429496758329",
         "updatedAt": "2020-05-13T23:05:19Z"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:50.495Z",
+  "checkedAt": "2025-05-14T20:27:40.941Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -98,7 +98,7 @@
         "modId": 50647,
         "name": "AATL_Data",
         "status": "published",
-        "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts",
+        "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts list, while adding more quests, items, and artifacts that",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
         "uid": "429496780247",
         "updatedAt": "2024-11-28T19:55:45Z"
@@ -130,7 +130,7 @@
         "modId": 46364,
         "name": "Pikas Miscellaneous Mods",
         "status": "published",
-        "summary": "Lots of various mods, from fixes to new models. Some things are pulled from my other mods, but many of the files here are unreleased mods of mine that have been recreated and",
+        "summary": "Lots of various mods, from fixes to new models. Some things are pulled from my other mods, but many of the files here are unreleased mods of mine that have been recreated and improved. There are also a few brand-new mods that I didn't think",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46364/46364-1549142072-1771714646.png",
         "uid": "429496775964",
         "updatedAt": "2024-03-05T16:28:12Z"
@@ -146,7 +146,7 @@
         "modId": 45631,
         "name": "PikachunoTMs Mesh Artifact Improvements and Replacers",
         "status": "published",
-        "summary": "Replaces a lot of the vanilla (plus Tribunal and Bloodmoon) meshes with scratch-built versions with fixed uvs and better shaping. Includes an optional add-on that provides the",
+        "summary": "Replaces a lot of the vanilla (plus Tribunal and Bloodmoon) meshes with scratch-built versions with fixed uvs and better shaping. Includes an optional add-on that provides the Bloodskal Blade with a unique mesh and textures!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45631/45631-1544834775-1961814526.png",
         "uid": "429496775231",
         "updatedAt": "2018-12-15T00:45:36Z"
@@ -194,7 +194,7 @@
         "modId": 43931,
         "name": "Unofficial Morrowind Official Plugins Patched",
         "status": "published",
-        "summary": "An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as",
+        "summary": "An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43931/43931-1600156306-811670806.png",
         "uid": "429496773531",
         "updatedAt": "2024-03-05T00:12:20Z"

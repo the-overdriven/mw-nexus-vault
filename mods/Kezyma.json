@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:40.772Z",
+  "checkedAt": "2025-05-14T20:27:24.242Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -23,7 +23,7 @@
         "modId": 53963,
         "name": "Kezyma's Map Builder for Morrowind",
         "status": "published",
-        "summary": "Generate a full-size map of Morrowind, including any mods you have installed. Generates an html page with the map tiled using Leaflet.js as well as optionally generating a",
+        "summary": "Generate a full-size map of Morrowind, including any mods you have installed. Generates an html page with the map tiled using Leaflet.js as well as optionally generating a full-size png of the entire map.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53963/53963-1704828097-2065763542.png",
         "uid": "429496783563",
         "updatedAt": "2024-01-11T02:28:01Z"
@@ -39,7 +39,7 @@
         "modId": 53606,
         "name": "Kezyma's Mechanics Remastered",
         "status": "published",
-        "summary": "This is an MWSE plugin for Morrowind that aims to provide modernised versions of vanilla mechanics in Morrowind. The plugin is fully modular and each feature can be toggled through",
+        "summary": "This is an MWSE plugin for Morrowind that aims to provide modernised versions of vanilla mechanics in Morrowind. The plugin is fully modular and each feature can be toggled through the Mod Configuration Menu. Features Always Hit & Cast,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53606/53606-1696945957-1590762288.png",
         "uid": "429496783206",
         "updatedAt": "2023-10-18T12:02:23Z"
@@ -71,7 +71,7 @@
         "modId": 52279,
         "name": "Kezyma's Voices of Vvardenfell",
         "status": "published",
-        "summary": "A project to fully voice Morrowind using ElevenAI and MWSE. Comes with an optional 'greetings-only' mode and is easily extensible to add compatibility with other mods with no",
+        "summary": "A project to fully voice Morrowind using ElevenAI and MWSE. Comes with an optional 'greetings-only' mode and is easily extensible to add compatibility with other mods with no knowledge of scripting or the CS and no additional esp.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52279/52279-1675597677-521490875.png",
         "uid": "429496781879",
         "updatedAt": "2024-08-12T15:27:47Z"
@@ -87,7 +87,7 @@
         "modId": 49823,
         "name": "Kezyma's Myar Aranath English Translation Race Fix",
         "status": "published",
-        "summary": "Anyone who's tried playing SureAI's total conversion mod Myar Aranath and also installed the English Translation mod will know that it causes the default Morrowind races to be",
+        "summary": "Anyone who's tried playing SureAI's total conversion mod Myar Aranath and also installed the English Translation mod will know that it causes the default Morrowind races to be offered to the player instead of the original three from the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49823/49823-1640621164-759572339.png",
         "uid": "429496779423",
         "updatedAt": "2021-05-20T19:03:17Z"
@@ -103,7 +103,7 @@
         "modId": 48987,
         "name": "Kezyma's UI Remastered",
         "status": "published",
-        "summary": "This is a UI replacement for Morrowind, intending to completely replace all UI elements in the game. I have packaged everything in a modular way so you can pick and choose which",
+        "summary": "This is a UI replacement for Morrowind, intending to completely replace all UI elements in the game. I have packaged everything in a modular way so you can pick and choose which aspects of UI Remastered you'd like to use.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48987/48987-1640621108-305316680.png",
         "uid": "429496778587",
         "updatedAt": "2023-02-16T14:04:59Z"

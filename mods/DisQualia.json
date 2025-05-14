@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:34.380Z",
+  "checkedAt": "2025-05-14T20:27:18.207Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -19,7 +19,7 @@
         "modId": 55949,
         "name": "The Pilgrimage of Kogobal - A Tribunal Temple Pilgrimage to Solstheim",
         "status": "published",
-        "summary": "Embark on a pilgrimage to the holy Tribunal Temple site of Kogobal on Solstheim, and restore the weapon of a saint to its rightful resting place. An entry in Winter Modjam 2025:",
+        "summary": "Embark on a pilgrimage to the holy Tribunal Temple site of Kogobal on Solstheim, and restore the weapon of a saint to its rightful resting place. An entry in Winter Modjam 2025: 'Pre-existing characters' 'Solstheim' and 'Tribunal Temple",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55949/55949-1739087588-1156938118.png",
         "uid": "429496785549",
         "updatedAt": "2025-02-09T07:57:01Z",
@@ -70,7 +70,7 @@
         "modId": 52967,
         "name": "Races RESPECted - A Race Skill and Attribute Rebalance Mod",
         "status": "published",
-        "summary": "This mod tweaks racial attributes, skill bonuses, and abilities to make the races' unique identities as described in lore and through their vanilla bonuses clearer and better",
+        "summary": "This mod tweaks racial attributes, skill bonuses, and abilities to make the races' unique identities as described in lore and through their vanilla bonuses clearer and better translate them into gameplay. Thanks to the power of MWSE Lua,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52967/52967-1685307401-2094850051.png",
         "uid": "429496782567",
         "updatedAt": "2024-11-26T23:07:49Z"
@@ -86,7 +86,7 @@
         "modId": 52878,
         "name": "An Abandoned Shack Rebuilt",
         "status": "published",
-        "summary": "Rebuilds the Abandoned Shack near Gnaar Mok into a double width shack, with a small second story sleeping area and balcony overlooking the water. Additional details are added to",
+        "summary": "Rebuilds the Abandoned Shack near Gnaar Mok into a double width shack, with a small second story sleeping area and balcony overlooking the water. Additional details are added to flesh out the story of the shack's previous occupant.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52878/52878-1684100286-1461813057.png",
         "uid": "429496782478",
         "updatedAt": "2023-05-14T21:46:17Z"
@@ -102,7 +102,7 @@
         "modId": 52817,
         "name": "MORROWIND Nerevarine - Survivor",
         "status": "published",
-        "summary": "Excited to play STAR WARS Jedi: Survivor? Can't because the PC port caused your computer to burst into flames? Come to Morrowind to soothe your wounded spirit and third-degree",
+        "summary": "Excited to play STAR WARS Jedi: Survivor? Can't because the PC port caused your computer to burst into flames? Come to Morrowind to soothe your wounded spirit and third-degree electrical burns? Then this is the mod for you!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52817/52817-1683239155-1169158234.png",
         "uid": "429496782417",
         "updatedAt": "2023-05-04T22:29:21Z"
@@ -118,7 +118,7 @@
         "modId": 52277,
         "name": "Goldbrand Reforged - The Quest for Eltonbrand",
         "status": "published",
-        "summary": "Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Goldbrand into the mysterious Eltonbrand. Speak to Sirilonwe in the Vivec Mages Guild while carrying",
+        "summary": "Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Goldbrand into the mysterious Eltonbrand. Speak to Sirilonwe in the Vivec Mages Guild while carrying Goldbrand to begin the quest. Part of the 2023 Winter Modjam.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52277/52277-1675581077-1096024427.png",
         "uid": "429496781877",
         "updatedAt": "2024-06-29T03:19:45Z"
@@ -182,7 +182,7 @@
         "modId": 51061,
         "name": "Decomposition of a Taxman",
         "status": "published",
-        "summary": "Causes the body of Seyda Neen's lost taxman, Processus Vitellius, to decompose from a fresh corpse at the beginning of the game to a skeleton after a few days and cleans up the",
+        "summary": "Causes the body of Seyda Neen's lost taxman, Processus Vitellius, to decompose from a fresh corpse at the beginning of the game to a skeleton after a few days and cleans up the body when his murder is reported to the authorities.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51061/51061-1651374605-1157838846.gif",
         "uid": "429496780661",
         "updatedAt": "2022-05-01T03:25:14Z"
@@ -246,7 +246,7 @@
         "modId": 49673,
         "name": "Properly Fitted Female Pants",
         "status": "published",
-        "summary": "Are you tired of all the women in Morrowind having mysterious 'packages' in their pants? Then I have the mod for you!﻿ This mod adds female variants to all the pants in vanilla",
+        "summary": "Are you tired of all the women in Morrowind having mysterious 'packages' in their pants? Then I have the mod for you!﻿ This mod adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49673/49673-1620142040-1893652821.png",
         "uid": "429496779273",
         "updatedAt": "2021-05-04T15:47:28Z"

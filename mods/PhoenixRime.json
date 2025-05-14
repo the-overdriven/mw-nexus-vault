@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:50.306Z",
+  "checkedAt": "2025-05-14T20:27:40.317Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -210,7 +210,7 @@
         "modId": 51309,
         "name": "Atronach Rebalance",
         "status": "published",
-        "summary": "This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and",
+        "summary": "This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and their damage depends on the attack animation.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51309/51309-1653420074-1404016163.jpeg",
         "uid": "429496780909",
         "updatedAt": "2023-09-07T17:18:30Z"
@@ -226,7 +226,7 @@
         "modId": 51269,
         "name": "Summoned Dremora Use Only Daedric Weapons",
         "status": "published",
-        "summary": "With this mod, summoned Dremora will always use Daedric weapons, although their quality will also depend on the level of the player. Up to 8th level, this is a club or dagger. From",
+        "summary": "With this mod, summoned Dremora will always use Daedric weapons, although their quality will also depend on the level of the player. Up to 8th level, this is a club or dagger. From level 9 - mace or short sword. From level 18, a Dremora",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51269/51269-1652951570-1083979730.png",
         "uid": "429496780869",
         "updatedAt": "2022-05-19T09:14:18Z"
@@ -258,7 +258,7 @@
         "modId": 50518,
         "name": "PR Voice Enhanced Russian",
         "status": "published",
-        "summary": "Все диалоги с голосовыми фразами в игре были рассортированы заново, учитывая в первую очередь характер их звучания.Восстановлено множество неиспользуемых реплик, исправлены все",
+        "summary": "Все диалоги с голосовыми фразами в игре были рассортированы заново, учитывая в первую очередь характер их звучания.Восстановлено множество неиспользуемых реплик, исправлены все ошибки.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50518/50518-1639225424-1330198597.jpeg",
         "uid": "429496780118",
         "updatedAt": "2022-08-11T11:58:41Z"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:58.525Z",
+  "checkedAt": "2025-05-14T20:27:49.003Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -50,7 +50,7 @@
         "modId": 50008,
         "name": "MWSE Strategic Magicka Regen",
         "status": "published",
-        "summary": "Adds magicka regeneration that scales with both willpower and your current magicka percentage. Mostly full magicka pools will regenerate almost immediately--dip further into your",
+        "summary": "Adds magicka regeneration that scales with both willpower and your current magicka percentage. Mostly full magicka pools will regenerate almost immediately--dip further into your reserves and it will take exponentially longer to naturally",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50008/50008-1624822909-808804493.png",
         "uid": "429496779608",
         "updatedAt": "2021-06-27T19:42:01Z"
@@ -66,7 +66,7 @@
         "modId": 48111,
         "name": "Disenchant",
         "status": "published",
-        "summary": "Adds a spell to disenchant enchanted items, whether they're player enchanted or from the base game. No more hesitating to enchant those daedric boots you found because your enchant",
+        "summary": "Adds a spell to disenchant enchanted items, whether they're player enchanted or from the base game. No more hesitating to enchant those daedric boots you found because your enchant skill isn't high enough for a suitably powerful effect.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48111/48111-1590369634-1288049011.jpeg",
         "uid": "429496777711",
         "updatedAt": "2020-05-25T08:11:44Z"

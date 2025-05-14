@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:24.142Z",
+  "checkedAt": "2025-05-14T20:27:08.245Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -97,7 +97,7 @@
         "modId": 54754,
         "name": "Door Locks",
         "status": "published",
-        "summary": "Dynamic loading doors locking according to time of day cycle, location, faction, disposition...Meant as a more general/dynamic replacement of Living Cities of Vvardenfell Locks",
+        "summary": "Dynamic loading doors locking according to time of day cycle, location, faction, disposition...Meant as a more general/dynamic replacement of Living Cities of Vvardenfell Locks mod, but it works with or without it already installed.Also can",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54754/54754-1716996739-593538712.png",
         "uid": "429496784354",
         "updatedAt": "2025-04-21T12:37:05Z",
@@ -191,7 +191,7 @@
         "modId": 54280,
         "name": "Smart Topics",
         "status": "published",
-        "summary": "Press Shift while clicking a dialog topic to log/paste to clipboard the dialog INFOPress Shift while activating an actor to log to MWSE.log/paste to clipboard the next dialog",
+        "summary": "Press Shift while clicking a dialog topic to log/paste to clipboard the dialog INFOPress Shift while activating an actor to log to MWSE.log/paste to clipboard the next dialog greeting INFO triggered by that actor.Press Ctrl + Shift while",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54280/54280-1710454643-1281918874.png",
         "uid": "429496783880",
         "updatedAt": "2025-04-11T13:28:02Z",
@@ -363,7 +363,7 @@
         "modId": 52678,
         "name": "Click Clears Input",
         "status": "published",
-        "summary": "Makes MCM filter/Console text input clear by clicking the input text space.If you have UIExpansion installed it should  also work with most of UI Expansion text input filters",
+        "summary": "Makes MCM filter/Console text input clear by clicking the input text space.If you have UIExpansion installed it should  also work with most of UI Expansion text input filters (unless you have other mod conflicts. At least, it works for me,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52678/52678-1681560603-131396011.jpeg",
         "uid": "429496782278",
         "updatedAt": "2025-05-01T19:38:19Z",
@@ -499,7 +499,7 @@
         "modId": 51821,
         "name": "Keepers",
         "status": "published",
-        "summary": "Marks with a suffix character (! by default) items you may want to keep/avoid selling, including:- keys counted/used to open something in game- player items counted in dialog",
+        "summary": "Marks with a suffix character (! by default) items you may want to keep/avoid selling, including:- keys counted/used to open something in game- player items counted in dialog filters- other player items counted and removed from",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51821/51821-1663254045-477380472.jpeg",
         "uid": "429496781421",
         "updatedAt": "2022-09-16T16:25:15Z"
@@ -531,7 +531,7 @@
         "modId": 51484,
         "name": "Player Made Magic Rename",
         "status": "published",
-        "summary": "Player Made Magic RenameCTRL + Click to rename a player made spell or enchanted item from player magic menuCTRL + Equip on paperdoll to rename a player made constant enchanted item",
+        "summary": "Player Made Magic RenameCTRL + Click to rename a player made spell or enchanted item from player magic menuCTRL + Equip on paperdoll to rename a player made constant enchanted item from player inventory menu",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51484/51484-1655121916-644602310.jpeg",
         "uid": "429496781084",
         "updatedAt": "2024-02-26T21:09:40Z"
@@ -547,7 +547,7 @@
         "modId": 51471,
         "name": "Smart Rings",
         "status": "published",
-        "summary": "Rings are given enchanting tiers(1 = No Enchantment, 2 = On Use Enchantment, 3 = Constant Enchantment).When you have the maximum number of rings already equipped and you equip",
+        "summary": "Rings are given enchanting tiers(1 = No Enchantment, 2 = On Use Enchantment, 3 = Constant Enchantment).When you have the maximum number of rings already equipped and you equip another ring,a lower tier ring will be unequipped if available",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51471/51471-1654935072-1966611974.jpeg",
         "uid": "429496781071",
         "updatedAt": "2024-03-23T09:54:12Z"
@@ -563,7 +563,7 @@
         "modId": 50988,
         "name": "Darkening",
         "status": "published",
-        "summary": "on the fly darkening of any interior cell without per-cell customization/color storageNote: as cells light changes are cached per Morrowind.exe game session, changes done in the",
+        "summary": "on the fly darkening of any interior cell without per-cell customization/color storageNote: as cells light changes are cached per Morrowind.exe game session, changes done in the MCM panel are effective only on visiting a not yet visited",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50988/50988-1650104911-2109662694.jpeg",
         "uid": "429496780588",
         "updatedAt": "2024-07-20T11:32:57Z"
@@ -643,7 +643,7 @@
         "modId": 50558,
         "name": "Smart Activate",
         "status": "published",
-        "summary": "Actors menu to choose who to activate between nearby actors. Useful in crowded places. Also can make actors face player when activated, try and avoid actors having blinking eyes",
+        "summary": "Actors menu to choose who to activate between nearby actors. Useful in crowded places. Also can make actors face player when activated, try and avoid actors having blinking eyes closed when talking to player.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50558/50558-1640119619-176919078.jpeg",
         "uid": "429496780158",
         "updatedAt": "2025-05-13T21:02:53Z",
@@ -695,7 +695,7 @@
         "modId": 50214,
         "name": "Mod List",
         "status": "published",
-        "summary": "A MWSE-Lua MCM panel to see and copy to Windows clipboard your current standard mods loading order + your loaded MWSE-Lua mods, so you can easily paste it online in case of",
+        "summary": "A MWSE-Lua MCM panel to see and copy to Windows clipboard your current standard mods loading order + your loaded MWSE-Lua mods, so you can easily paste it online in case of problems.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50214/50214-1630761711-1276911419.jpeg",
         "uid": "429496779814",
         "updatedAt": "2021-12-16T11:53:53Z"
@@ -727,7 +727,7 @@
         "modId": 49848,
         "name": "Smart Companions",
         "status": "published",
-        "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some",
+        "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
         "uid": "429496779448",
         "updatedAt": "2025-05-13T21:36:40Z",
@@ -798,7 +798,7 @@
         "modId": 48930,
         "name": "Read Aloud",
         "status": "published",
-        "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and",
+        "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and Daedric text translated from enchanted scrolls. You can now read",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48930/48930-1602494758-1296927970.jpeg",
         "uid": "429496778530",
         "updatedAt": "2025-02-05T15:03:28Z",
@@ -890,7 +890,7 @@
         "modId": 47945,
         "name": "NOM MC integration",
         "status": "published",
-        "summary": "adds NOM/Morrowind Crafting ingredients to suitable killed creatures, drag & drop food/drinks over player paperdoll, activate and drink from most water source meshes and kegs,",
+        "summary": "adds NOM/Morrowind Crafting ingredients to suitable killed creatures, drag & drop food/drinks over player paperdoll, activate and drink from most water source meshes and kegs, activate and NOM roast from most firepit/log pile/hot coals,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47945/47945-1588512881-1207271738.jpeg",
         "uid": "429496777545",
         "updatedAt": "2023-08-05T14:53:01Z"
@@ -938,7 +938,7 @@
         "modId": 47735,
         "name": "Plain Paper Fix",
         "status": "published",
-        "summary": "A MWSE-Lua mod allowing to pick up a blank sheet of paper without having to read it in Scroll context and then click on \"TAKE\" from the Scroll Interface before getting",
+        "summary": "A MWSE-Lua mod allowing to pick up a blank sheet of paper without having to read it in Scroll context and then click on \"TAKE\" from the Scroll Interface before getting it.Differently from standard scripting available mods it does it without",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47735/47735-1585322965-567566432.jpeg",
         "uid": "429496777335",
         "updatedAt": "2024-02-05T18:02:27Z"
@@ -1002,7 +1002,7 @@
         "modId": 46753,
         "name": "Smart Helmet",
         "status": "published",
-        "summary": "Alt + Z (by default, you can change it) will swap helmet On/OffYou can set the mod to automatically swap helmet on cellchange depending on:- number/distance/fight of hostiles",
+        "summary": "Alt + Z (by default, you can change it) will swap helmet On/OffYou can set the mod to automatically swap helmet on cellchange depending on:- number/distance/fight of hostiles around- current weather- allow/disallow automatic unequipping of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46753/46753-1557760886-328427560.jpeg",
         "uid": "429496776353",
         "updatedAt": "2021-12-27T13:16:02Z"
@@ -1034,7 +1034,7 @@
         "modId": 46094,
         "name": "Loading Doors Lock Tune",
         "status": "published",
-        "summary": "Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key.Should work great with mods like pursuit enhanced allowing",
+        "summary": "Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key.Should work great with mods like pursuit enhanced allowing NPCs to chase you through doors and give purpose to the lock",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46094/46094-1539438285-1279833447.jpeg",
         "uid": "429496775694",
         "updatedAt": "2025-05-10T19:46:03Z",
@@ -1092,7 +1092,7 @@
         "modId": 45681,
         "name": "Morrowind Resources Scanner",
         "status": "published",
-        "summary": "Generates information logs about your entire current Morrowind loading list:- current resource files in Data Files folders- resource files missing from Data Files folders- used",
+        "summary": "Generates information logs about your entire current Morrowind loading list:- current resource files in Data Files folders- resource files missing from Data Files folders- used resource files- unused resource files- can clean your Data",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45681/45681-1526831407-232216853.jpeg",
         "uid": "429496775281",
         "updatedAt": "2020-08-31T15:41:23Z"
@@ -1156,7 +1156,7 @@
         "modId": 43662,
         "name": "ACEG",
         "status": "published",
-        "summary": "Uses tes3cmd.exe and TESTool.exe to generate \"MW Containers Animated exp.esp\" to add animations by Arcimaestro Antares/scripts by qqqbbb to related containers having no script in",
+        "summary": "Uses tes3cmd.exe and TESTool.exe to generate \"MW Containers Animated exp.esp\" to add animations by Arcimaestro Antares/scripts by qqqbbb to related containers having no script in your modlist.",
         "thumbnailUrl": null,
         "uid": "429496773262",
         "updatedAt": "2015-10-02T19:54:01Z"
@@ -1220,7 +1220,7 @@
         "modId": 43128,
         "name": "Where are all birds going",
         "status": "published",
-        "summary": "Where are all birds going? An attempt to bind flawed Morrowind AI to bring life to most beautiful birds.This plugin adds to Morrowind peaceful flying animals based on the wonderful",
+        "summary": "Where are all birds going? An attempt to bind flawed Morrowind AI to bring life to most beautiful birds.This plugin adds to Morrowind peaceful flying animals based on the wonderful models & textures by Lady Eternity & Proudfoot, Cait Sith,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43128-1-1401710565.jpg",
         "uid": "429496772728",
         "updatedAt": "2022-09-01T17:23:40Z"
@@ -1316,7 +1316,7 @@
         "modId": 42454,
         "name": "Scroll Daedric Alphabet",
         "status": "published",
-        "summary": "After many years playing Morrowind, I still can\\'t read daedric on the fly.\nThis mod replaces the standard scroll mesh with one adding a daedric alphabet note, useful to role play",
+        "summary": "After many years playing Morrowind, I still can\\'t read daedric on the fly.\nThis mod replaces the standard scroll mesh with one adding a daedric alphabet note, useful to role play deciphering the scroll in game.\nIt should be compatible with",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42454-1-1363940365.jpg",
         "uid": "429496772054",
         "updatedAt": "2014-05-26T12:03:00Z"
@@ -1332,7 +1332,7 @@
         "modId": 42417,
         "name": "Water Life",
         "status": "published",
-        "summary": "Water Life is an attempt to mix the scripting techniques developed in the \"Where are all bird going?\" plugin with the best aquatic creature modding resources to bring more life",
+        "summary": "Water Life is an attempt to mix the scripting techniques developed in the \"Where are all bird going?\" plugin with the best aquatic creature modding resources to bring more life into Morrowind waters.This plugin mainly adds to Morrowind",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42417-1-1360065961.jpg",
         "uid": "429496772017",
         "updatedAt": "2025-05-09T14:55:02Z",

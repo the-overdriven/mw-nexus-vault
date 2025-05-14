@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:39.337Z",
+  "checkedAt": "2025-05-14T20:27:22.815Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -34,7 +34,7 @@
         "modId": 53142,
         "name": "Abandoned Flat Containers",
         "status": "published",
-        "summary": "An add-on for the Abandoned Flat player home mod that expandes a special storage cell to have containers with massive storage capacity and Lua-powered item sorting.This interior",
+        "summary": "An add-on for the Abandoned Flat player home mod that expandes a special storage cell to have containers with massive storage capacity and Lua-powered item sorting.This interior cell has been totally expanded and revamped with assets from",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53142/53142-1702729922-1107856896.png",
         "uid": "429496782742",
         "updatedAt": "2024-05-11T00:59:32Z"
@@ -242,7 +242,7 @@
         "modId": 51274,
         "name": "Smart Ammo for OpenMW-Lua",
         "status": "published",
-        "summary": "Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it. An OpenMW-Lua port of Abot's",
+        "summary": "Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it. An OpenMW-Lua port of Abot's original.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51274/51274-1653006791-579846367.gif",
         "uid": "429496780874",
         "updatedAt": "2022-06-27T13:39:01Z"

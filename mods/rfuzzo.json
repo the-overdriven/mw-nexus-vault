@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:53.210Z",
+  "checkedAt": "2025-05-14T20:27:43.727Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -70,7 +70,7 @@
         "modId": 54262,
         "name": "PLOX - Load order sorter",
         "status": "published",
-        "summary": "PLOX is a rust re-write of MLOX, a utility tool to sort a modlist topologically according to ordering rules. PLOX also outputs warnings and notes dependent on the mods in your load",
+        "summary": "PLOX is a rust re-write of MLOX, a utility tool to sort a modlist topologically according to ordering rules. PLOX also outputs warnings and notes dependent on the mods in your load order. You can use it as a GUI app or as a commandline",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54262/54262-1710169419-1649708038.png",
         "uid": "429496783862",
         "updatedAt": "2025-05-08T22:34:34Z",
@@ -187,7 +187,7 @@
         "modId": 51123,
         "name": "Immersive Bosmer Corpse Disposal",
         "status": "published",
-        "summary": "This mod changes the \"dispose corpse\" button to \"eat corpse\" if you are playing as a Bosmer and adds some buffs for eating your felled enemies. Includes some logic for use as an",
+        "summary": "This mod changes the \"dispose corpse\" button to \"eat corpse\" if you are playing as a Bosmer and adds some buffs for eating your felled enemies. Includes some logic for use as an Ashfall-addon.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51123/51123-1651682087-1545004340.png",
         "uid": "429496780723",
         "updatedAt": "2022-05-04T16:36:22Z"

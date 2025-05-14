@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:36:01.254Z",
+  "checkedAt": "2025-05-14T20:27:52.342Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -22,7 +22,7 @@
         "modId": 49574,
         "name": "1 Hour Mods",
         "status": "published",
-        "summary": "Brief gameplay addition miscellaneous mods that I created in one hour - more or less.-Bugger off-Fargoth's Property Downgraded-Not Telvanis not Mages Guild-Morrowind Comes Alive",
+        "summary": "Brief gameplay addition miscellaneous mods that I created in one hour - more or less.-Bugger off-Fargoth's Property Downgraded-Not Telvanis not Mages Guild-Morrowind Comes Alive Nerfed Leveled List for Tamriel Rebuilt",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49574/49574-1619026411-1153358313.jpeg",
         "uid": "429496779174",
         "updatedAt": "2021-04-30T17:07:14Z"
@@ -54,7 +54,7 @@
         "modId": 48874,
         "name": "Vvardenfell and Dark Brotherhood Crossover",
         "status": "published",
-        "summary": "-Compatibility patch for To Serve Sithis by Emyn & Vvardenfell Brotherhood by Caeris-Fixed bugs in Emyn's mod-Reflected Emyn's quests through conditions that were absent",
+        "summary": "-Compatibility patch for To Serve Sithis by Emyn & Vvardenfell Brotherhood by Caeris-Fixed bugs in Emyn's mod-Reflected Emyn's quests through conditions that were absent -Possibility to join two factions in sensical manner  -Conflict",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48874/48874-1601126822-1531826212.jpeg",
         "uid": "429496778474",
         "updatedAt": "2023-02-11T11:46:36Z"
@@ -134,7 +134,7 @@
         "modId": 47355,
         "name": "Fighters Guild Egg Poachers Arrest or Go",
         "status": "published",
-        "summary": "Small part of my incoming Fighters Guild Questline Overhaul Mod optionally allows player to bring the egg poachers from Fighters Guild quest to be brought to justice at Imperial",
+        "summary": "Small part of my incoming Fighters Guild Questline Overhaul Mod optionally allows player to bring the egg poachers from Fighters Guild quest to be brought to justice at Imperial fort or you can let them go. If you choose to let them go you",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47355/47355-1575489162-1066363590.jpeg",
         "uid": "429496776955",
         "updatedAt": "2020-01-05T11:58:48Z"
@@ -166,7 +166,7 @@
         "modId": 47336,
         "name": "Fighters Guild Engaer Bounty Fall to the Death",
         "status": "published",
-        "summary": "Stealth way to trick Engaer and stage \"accidental\" death. Also you can warn Engaer about the hit job if you like roleplaying as Telvanni House member and complete the quest by",
+        "summary": "Stealth way to trick Engaer and stage \"accidental\" death. Also you can warn Engaer about the hit job if you like roleplaying as Telvanni House member and complete the quest by sparing him.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47336/47336-1574731588-508474861.jpeg",
         "uid": "429496776936",
         "updatedAt": "2020-07-13T02:15:35Z"
@@ -182,7 +182,7 @@
         "modId": 47310,
         "name": "Fighters Guild Telasero Delaying Consequences",
         "status": "published",
-        "summary": "Simple modification that makes Sondaale of Shimmerene rescue critical depending on how much time you take to complete the quest. If you procrastinate expect the cultists from the",
+        "summary": "Simple modification that makes Sondaale of Shimmerene rescue critical depending on how much time you take to complete the quest. If you procrastinate expect the cultists from the Sixth House to do their job and turn her into corprus",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47310/47310-1573524609-732452156.jpeg",
         "uid": "429496776910",
         "updatedAt": "2019-11-13T05:22:00Z"
@@ -198,7 +198,7 @@
         "modId": 47304,
         "name": "Fighters Guild Sujamma to Dunirai Addon",
         "status": "published",
-        "summary": "Mod offers:-extra quest that cuts down on backtracking in Fighters Guild Sujamma to Dunirai quest-bully Fargoth-defend Fargoth from Hrisskar -bully Fargoth together with",
+        "summary": "Mod offers:-extra quest that cuts down on backtracking in Fighters Guild Sujamma to Dunirai quest-bully Fargoth-defend Fargoth from Hrisskar -bully Fargoth together with Hrisskar-fist fights with Hrisskar and Fargoth-wanted posters if you",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47304/47304-1573151622-118276654.jpeg",
         "uid": "429496776904",
         "updatedAt": "2020-07-17T15:12:28Z"
@@ -230,7 +230,7 @@
         "modId": 47227,
         "name": "Fighters Guild Flin for Elith-Pal",
         "status": "published",
-        "summary": "No more boring fetch and bring quest. Now you will encounter alcoholic Khajiit. Fight for you flin or join his alcoholic binge. You can still do the quest old boring fashion way if",
+        "summary": "No more boring fetch and bring quest. Now you will encounter alcoholic Khajiit. Fight for you flin or join his alcoholic binge. You can still do the quest old boring fashion way if you want.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47227/47227-1570993034-1922450056.jpeg",
         "uid": "429496776827",
         "updatedAt": "2020-07-13T22:13:03Z"
@@ -246,7 +246,7 @@
         "modId": 47214,
         "name": "Fighters Guild Suran Bandits",
         "status": "published",
-        "summary": "Minor overhaul of the quest to provide alternative way of dealing with Saturan bandits in non-violent way. In addition there is a side quest related to bandits in Saturan, Dranas",
+        "summary": "Minor overhaul of the quest to provide alternative way of dealing with Saturan bandits in non-violent way. In addition there is a side quest related to bandits in Saturan, Dranas Sarathram and his slave.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47214/47214-1570500183-101067315.jpeg",
         "uid": "429496776814",
         "updatedAt": "2019-10-09T19:57:06Z"
@@ -310,7 +310,7 @@
         "modId": 47184,
         "name": "Fighters Guild Nchurdamz Dark Deal",
         "status": "published",
-        "summary": "Make a deal with daedra Hrelvesuu rip Larienna Macrina heart out and get daedric rewards. Or just stay out of Macrina and Hrelvesuu standoff altogether without loosing much* of",
+        "summary": "Make a deal with daedra Hrelvesuu rip Larienna Macrina heart out and get daedric rewards. Or just stay out of Macrina and Hrelvesuu standoff altogether without loosing much* of reputation points with Fighters Guild. You can still do the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47184/47184-1568920225-881683657.jpeg",
         "uid": "429496776784",
         "updatedAt": "2019-09-20T14:49:46Z"

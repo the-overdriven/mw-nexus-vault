@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:52.594Z",
+  "checkedAt": "2025-05-14T20:27:43.082Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -51,7 +51,7 @@
         "modId": 48592,
         "name": "Nels Llendo Has Standards",
         "status": "published",
-        "summary": "Makes Nels Llendo less of a choroi yarichin by making him only ask female characters for their kiss if their Personality score is no less than 45 and they do not belong to a beast",
+        "summary": "Makes Nels Llendo less of a choroi yarichin by making him only ask female characters for their kiss if their Personality score is no less than 45 and they do not belong to a beast race.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48592/48592-1595074407-1889994273.gif",
         "uid": "429496778192",
         "updatedAt": "2020-07-18T12:27:00Z"
@@ -275,7 +275,7 @@
         "modId": 44712,
         "name": "Improved Cliff Racer AI",
         "status": "published",
-        "summary": "Makes Cliff Racers' aggressiveness depend on how badly Player is wounded.\nDiseased Cliff Racers now have smaller aggression radius, but are less likely to flee than normal ones.",
+        "summary": "Makes Cliff Racers' aggressiveness depend on how badly Player is wounded.\nDiseased Cliff Racers now have smaller aggression radius, but are less likely to flee than normal ones.\nBlighted Cliff Racers now have larger aggression radius and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44712-0-1484080402.jpg",
         "uid": "429496774312",
         "updatedAt": "2017-01-10T20:43:43Z"
@@ -525,7 +525,7 @@
         "modId": 43576,
         "name": "Correct Iron Warhammer",
         "status": "published",
-        "summary": "This is how in-game dialogues describe iron warhammers: \n\"The iron warhammer has a single head with a balancing spike to penetrate plate armor.\" \nBut in truth, iron warhammers had",
+        "summary": "This is how in-game dialogues describe iron warhammers: \n\"The iron warhammer has a single head with a balancing spike to penetrate plate armor.\" \nBut in truth, iron warhammers had two heads and no spikes at all. \n\nThis mod fixes it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43576-1-1429200588.png",
         "uid": "429496773176",
         "updatedAt": "2015-04-16T16:12:08Z"
@@ -589,7 +589,7 @@
         "modId": 43359,
         "name": "Skeleton and Metal Sparks blood retexture",
         "status": "published",
-        "summary": "While there are a couple of retextures for default red blood available, there were none for two other blood types - Skeleton (white) and Metal Sparks (gold). So, I went and made",
+        "summary": "While there are a couple of retextures for default red blood available, there were none for two other blood types - Skeleton (white) and Metal Sparks (gold). So, I went and made them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43359-1-1417396963.jpg",
         "uid": "429496772959",
         "updatedAt": "2014-12-01T01:25:04Z"
@@ -605,7 +605,7 @@
         "modId": 43343,
         "name": "Vampire Spells Fix",
         "status": "published",
-        "summary": "Fixes vampire NPC scripts, prevents vampire spells and diseases from disappearing.Removes Vampire's Kiss spell from several vampires.Removes unneeded 75 Restoration increase from",
+        "summary": "Fixes vampire NPC scripts, prevents vampire spells and diseases from disappearing.Removes Vampire's Kiss spell from several vampires.Removes unneeded 75 Restoration increase from all the NPC vampires.Vampire script changes from MPP 1.6.6",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43343-1-1416220576.jpg",
         "uid": "429496772943",
         "updatedAt": "2014-11-17T10:34:49Z"

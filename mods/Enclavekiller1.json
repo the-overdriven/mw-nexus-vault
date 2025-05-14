@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:35.071Z",
+  "checkedAt": "2025-05-14T20:27:18.886Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -34,7 +34,7 @@
         "modId": 51133,
         "name": "BDC-Seyda Neen",
         "status": "published",
-        "summary": "Better Dialogue-Choices is a quest overhaul project focused on implementing rpg elements in dialogue while extending quests by giving the player multiple ways to complete them.",
+        "summary": "Better Dialogue-Choices is a quest overhaul project focused on implementing rpg elements in dialogue while extending quests by giving the player multiple ways to complete them. This mod overhauls all Seyda Neen side quests.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51133/51133-1651715743-2035774841.png",
         "uid": "429496780733",
         "updatedAt": "2022-07-10T18:31:19Z"
@@ -66,7 +66,7 @@
         "modId": 49174,
         "name": "Invasion of Stormwatch",
         "status": "published",
-        "summary": "Set out on an adventure to Fort Stormwatch, a high security prison that has been taken over by the Inmates. The job is simple; rescue the hostages, kill the Inmates' leader and",
+        "summary": "Set out on an adventure to Fort Stormwatch, a high security prison that has been taken over by the Inmates. The job is simple; rescue the hostages, kill the Inmates' leader and raise the front gate. But something far more sinister is",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49174/49174-1610074378-30851454.png",
         "uid": "429496778774",
         "updatedAt": "2021-01-13T01:44:57Z"
@@ -98,7 +98,7 @@
         "modId": 47276,
         "name": "Tales of Ald Velothi",
         "status": "published",
-        "summary": "This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the",
+        "summary": "This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47276/47276-1572657488-184746448.png",
         "uid": "429496776876",
         "updatedAt": "2019-11-12T22:21:02Z"
@@ -114,7 +114,7 @@
         "modId": 47237,
         "name": "The Corprusarium- Den of Despair BETA",
         "status": "published",
-        "summary": "This mod rebuilds the Corprusarium from the ground up, overhauling the main level and the bowels, with two new cells.Also included is a complete overhaul of the main quest Corprus",
+        "summary": "This mod rebuilds the Corprusarium from the ground up, overhauling the main level and the bowels, with two new cells.Also included is a complete overhaul of the main quest Corprus Cure, along with a new quest.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47237/47237-1571269665-1565396937.png",
         "uid": "429496776837",
         "updatedAt": "2019-10-17T09:41:48Z"
@@ -146,7 +146,7 @@
         "modId": 46123,
         "name": "The Battle Rite of Mephala",
         "status": "published",
-        "summary": "On a strange island known to few as Crescent Moon Isle, a bloodbath awaits the player in a struggle for survival against a band of crazed assassins, all for the amusement of a few",
+        "summary": "On a strange island known to few as Crescent Moon Isle, a bloodbath awaits the player in a struggle for survival against a band of crazed assassins, all for the amusement of a few cultists hiding away in the shadows.  Partake in the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46123/46123-1541034469-1707345596.jpeg",
         "uid": "429496775723",
         "updatedAt": "2018-11-02T08:11:28Z"
@@ -210,7 +210,7 @@
         "modId": 45254,
         "name": "From Ash to Frost",
         "status": "published",
-        "summary": "Angered by the death of their lord and the Nerevarine's alliance with the East Empire Company, the remnants of the Sixth House has come to Solstheim to deliver salvation to the",
+        "summary": "Angered by the death of their lord and the Nerevarine's alliance with the East Empire Company, the remnants of the Sixth House has come to Solstheim to deliver salvation to the Nordic people.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45254-0-1508395654.jpg",
         "uid": "429496774854",
         "updatedAt": "2017-10-21T20:18:17Z"
@@ -290,7 +290,7 @@
         "modId": 44669,
         "name": "Dreams of the Drunken Mudcrab",
         "status": "published",
-        "summary": "This mod adds a new questline for one of Morrowind's most beloved characters, the Drunken Mudcrab. Before he will barter with you, the Drunken Mudcrab needs you to help improve his",
+        "summary": "This mod adds a new questline for one of Morrowind's most beloved characters, the Drunken Mudcrab. Before he will barter with you, the Drunken Mudcrab needs you to help improve his life by resolving five dreams, each one with a different",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44669-0-1482702276.jpg",
         "uid": "429496774269",
         "updatedAt": "2016-12-28T15:59:06Z"
@@ -306,7 +306,7 @@
         "modId": 44654,
         "name": "Suvanto's Wondrous Shop of Curious Creations",
         "status": "published",
-        "summary": "This mod adds a new shop to the bottom-most level of the Dwemer ruin on the side of Red Mountain known as Bthanchend. The merchant, a Khajiit named Suvanto, sells some of the",
+        "summary": "This mod adds a new shop to the bottom-most level of the Dwemer ruin on the side of Red Mountain known as Bthanchend. The merchant, a Khajiit named Suvanto, sells some of the craziest weaponry and armor in Morrowind.Part of the 2016",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44654-0-1481998962.jpg",
         "uid": "429496774254",
         "updatedAt": "2019-08-27T12:41:41Z"
@@ -338,7 +338,7 @@
         "modId": 44336,
         "name": "The Mysterious Hunter",
         "status": "published",
-        "summary": "The captain of the Seyda Neen guard has unknowingly sent you to your doom.  Or has he?  Adapt and survive or if you are a monster like those that bring doom, help them spread their",
+        "summary": "The captain of the Seyda Neen guard has unknowingly sent you to your doom.  Or has he?  Adapt and survive or if you are a monster like those that bring doom, help them spread their doom!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44336-7-1464596031.jpg",
         "uid": "429496773936",
         "updatedAt": "2016-06-17T21:59:14Z"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:27.065Z",
+  "checkedAt": "2025-05-14T20:27:10.991Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -66,7 +66,7 @@
         "modId": 49654,
         "name": "Character Sound Overhaul",
         "status": "published",
-        "summary": "CSO is a dynamic, customizable sound overhaul of the movement, combat, magic, and item sounds of Morrowind. Including terrain-based footsteps, armor clanking, journal update",
+        "summary": "CSO is a dynamic, customizable sound overhaul of the movement, combat, magic, and item sounds of Morrowind. Including terrain-based footsteps, armor clanking, journal update chimes, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49654/49654-1620019229-1287631691.png",
         "uid": "429496779254",
         "updatedAt": "2025-04-20T04:10:31Z",
@@ -134,7 +134,7 @@
         "modId": 48267,
         "name": "Essential Indicators",
         "status": "published",
-        "summary": "Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to",
+        "summary": "Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48267/48267-1593610901-1398876121.jpeg",
         "uid": "429496777867",
         "updatedAt": "2024-08-22T15:56:38Z"
@@ -182,7 +182,7 @@
         "modId": 47661,
         "name": "Strider Burial",
         "status": "published",
-        "summary": "Strider Burial is an overhaul of the area containing a few Strider husks East of Urshilaku Camp, turning the zone in a small Silt Strider graveyard complete with an optional",
+        "summary": "Strider Burial is an overhaul of the area containing a few Strider husks East of Urshilaku Camp, turning the zone in a small Silt Strider graveyard complete with an optional high-level unmarked quest.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47661/47661-1583307871-420192518.png",
         "uid": "429496777261",
         "updatedAt": "2020-05-18T09:20:24Z"
@@ -198,7 +198,7 @@
         "modId": 47584,
         "name": "Restrictive Saving",
         "status": "published",
-        "summary": "Restrictive Saving is a simple, configurable immersion and challenge mod that allows saving only when resting, once a day, forbids saving altogether, or prevents the player from",
+        "summary": "Restrictive Saving is a simple, configurable immersion and challenge mod that allows saving only when resting, once a day, forbids saving altogether, or prevents the player from saving under a number of other conditions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47584/47584-1581320160-31061510.jpeg",
         "uid": "429496777184",
         "updatedAt": "2020-06-03T12:23:12Z"
@@ -214,7 +214,7 @@
         "modId": 46842,
         "name": "Tooltips Complete",
         "status": "published",
-        "summary": "Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of",
+        "summary": "Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46842/46842-1559228612-1774040276.jpeg",
         "uid": "429496776442",
         "updatedAt": "2024-08-21T16:48:31Z"

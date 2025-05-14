@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:59.395Z",
+  "checkedAt": "2025-05-14T20:27:50.614Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -35,7 +35,7 @@
         "modId": 53014,
         "name": "Dren Plantation - Residence of the Kingpin",
         "status": "published",
-        "summary": "Overhaul of Dren Plantation, ensuring that the inner logic of the location makes sense, bringing a coherent vision for it, making it more interesting to explore, reworking some",
+        "summary": "Overhaul of Dren Plantation, ensuring that the inner logic of the location makes sense, bringing a coherent vision for it, making it more interesting to explore, reworking some elements and adding new ones in order to create emergent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53014/53014-1685724408-1437280831.png",
         "uid": "429496782614",
         "updatedAt": "2023-06-02T16:54:21Z"
@@ -67,7 +67,7 @@
         "modId": 52928,
         "name": "The Art of Alchemy",
         "status": "published",
-        "summary": "MWSE-lua complete overhaul of alchemy system, providing it with immersive gameplay, better integration with other systems and sufficient depth and complexity to be interesting on",
+        "summary": "MWSE-lua complete overhaul of alchemy system, providing it with immersive gameplay, better integration with other systems and sufficient depth and complexity to be interesting on its own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52928/52928-1684871829-707190518.png",
         "uid": "429496782528",
         "updatedAt": "2023-05-29T07:58:45Z"
@@ -179,7 +179,7 @@
         "modId": 51211,
         "name": "Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod.",
         "status": "published",
-        "summary": "Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to",
+        "summary": "Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51211/51211-1652250903-2093915486.png",
         "uid": "429496780811",
         "updatedAt": "2023-03-10T02:13:05Z"
@@ -195,7 +195,7 @@
         "modId": 51128,
         "name": "Morag Tong Secret Identity",
         "status": "published",
-        "summary": "MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of",
+        "summary": "MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of assassins a more unique experience, exploring its twin nature of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51128/51128-1651692689-1422737538.png",
         "uid": "429496780728",
         "updatedAt": "2023-04-08T17:27:33Z"
@@ -259,7 +259,7 @@
         "modId": 49036,
         "name": "Alchemical Knowledge",
         "status": "published",
-        "summary": "MWSE-lua mod, which fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering",
+        "summary": "MWSE-lua mod, which fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49036/49036-1607579858-1276133992.png",
         "uid": "429496778636",
         "updatedAt": "2021-11-28T08:50:16Z"

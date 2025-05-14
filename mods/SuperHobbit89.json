@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:55.746Z",
+  "checkedAt": "2025-05-14T20:27:46.144Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,7 +18,7 @@
         "modId": 47269,
         "name": "Lootable Spellbooks",
         "status": "published",
-        "summary": "Adds spellbooks to the loot tables so that they can be found in various containers and held by NPCs. Reading a spellbook teaches the player the spell associated with the spellbook,",
+        "summary": "Adds spellbooks to the loot tables so that they can be found in various containers and held by NPCs. Reading a spellbook teaches the player the spell associated with the spellbook, offering an alternate method of learning spells instead of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47269/47269-1572504452-709317402.png",
         "uid": "429496776869",
         "updatedAt": "2022-08-15T12:23:38Z"
@@ -34,7 +34,7 @@
         "modId": 47268,
         "name": "Vampire and Werewolf Character Generation",
         "status": "published",
-        "summary": "Prompts the user once (either at the time of character creation or the first time loading a pre-existing save) to ask if they want their character to be a vampire or a werewolf.",
+        "summary": "Prompts the user once (either at the time of character creation or the first time loading a pre-existing save) to ask if they want their character to be a vampire or a werewolf. For vampires, this includes a selection for which of the 3",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47268/47268-1572500573-1445808153.png",
         "uid": "429496776868",
         "updatedAt": "2022-09-16T11:40:33Z"
@@ -50,7 +50,7 @@
         "modId": 47267,
         "name": "Randomize Kagrenac's Tools",
         "status": "published",
-        "summary": "This mod randomly places all three of Kagrenac's Tools (Wraithguard, Keening, and Sunder) across 10 potential pre-defined key locations within Ghostfence instead of their normal",
+        "summary": "This mod randomly places all three of Kagrenac's Tools (Wraithguard, Keening, and Sunder) across 10 potential pre-defined key locations within Ghostfence instead of their normal static locations. There is also a simpler version of this mod",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47267/47267-1572495909-1415834475.png",
         "uid": "429496776867",
         "updatedAt": "2022-08-15T13:14:09Z"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:47.519Z",
+  "checkedAt": "2025-05-14T20:27:35.634Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,7 +18,7 @@
         "modId": 43914,
         "name": "Bury Your Treasure",
         "status": "published",
-        "summary": "A role playing mod that allows you to dig a hole in any exterior cell to put your loot in. Simply purchase a shovel from any outfitter, equip it, and press attack while holding",
+        "summary": "A role playing mod that allows you to dig a hole in any exterior cell to put your loot in. Simply purchase a shovel from any outfitter, equip it, and press attack while holding sneak.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43914-0-1446937797.jpg",
         "uid": "429496773514",
         "updatedAt": "2015-11-07T23:14:19Z"
@@ -34,7 +34,7 @@
         "modId": 43358,
         "name": "Dunmer Strongholds Expanded",
         "status": "published",
-        "summary": "Expands the eleven Dunmer Strongholds on Vvardenfell by adding large, multi-level dungeons generated with the GenMod utility. Basically does for the strongholds what Zappara's",
+        "summary": "Expands the eleven Dunmer Strongholds on Vvardenfell by adding large, multi-level dungeons generated with the GenMod utility. Basically does for the strongholds what Zappara's 'Tombs Expanded' mod did for the Ancestral Tombs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43358-1-1417230777.jpg",
         "uid": "429496772958",
         "updatedAt": "2014-11-29T03:16:09Z"
@@ -50,7 +50,7 @@
         "modId": 43326,
         "name": "Golems",
         "status": "published",
-        "summary": "Adds ten types of Golem to Morrowind's leveled lists. Golems will spawn in the appropriate regions (Mud Golems in the Bitter Coast, Ash Golems in the Molag Amur etc), and around",
+        "summary": "Adds ten types of Golem to Morrowind's leveled lists. Golems will spawn in the appropriate regions (Mud Golems in the Bitter Coast, Ash Golems in the Molag Amur etc), and around Daedric Ruins. The Golems are based on a modified Storm",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43326-1-1414890659.jpg",
         "uid": "429496772926",
         "updatedAt": "2014-11-15T01:18:27Z"
@@ -66,7 +66,7 @@
         "modId": 43030,
         "name": "The Undead",
         "status": "published",
-        "summary": "Adds 300+ new undead enemies to the leveled lists of Vvardenfell, Solstheim, and the Mournhold Sewers. Every creature has its own unique mesh, thanks to the amazing power of",
+        "summary": "Adds 300+ new undead enemies to the leveled lists of Vvardenfell, Solstheim, and the Mournhold Sewers. Every creature has its own unique mesh, thanks to the amazing power of NifSkope. The new undead will appear in the appropriate",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43030-1-1391502745.jpg",
         "uid": "429496772630",
         "updatedAt": "2015-03-27T09:02:44Z"
@@ -82,7 +82,7 @@
         "modId": 42933,
         "name": "Wyrmhaven",
         "status": "published",
-        "summary": "Wyrmhaven is a tiny island far to the west of Solstheim, claimed at various times by a clan of Chimer fleeing the wars with the Dwarves, a fire-breathing dragon, a band of Nordic",
+        "summary": "Wyrmhaven is a tiny island far to the west of Solstheim, claimed at various times by a clan of Chimer fleeing the wars with the Dwarves, a fire-breathing dragon, a band of Nordic exiles, the Breton Kingdom of Farrun, and the Septim Empire.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42933/42933-1635564844-1046243517.png",
         "uid": "429496772533",
         "updatedAt": "2021-10-30T02:35:56Z"
@@ -130,7 +130,7 @@
         "modId": 42131,
         "name": "Carts and Wagons Resource",
         "status": "published",
-        "summary": "Adds three new meshes to Morrowind: one wooden hand cart, and two variants of a larger twin-axle wagon - one with a canopy and one without. All were pieced together in NifSkope out",
+        "summary": "Adds three new meshes to Morrowind: one wooden hand cart, and two variants of a larger twin-axle wagon - one with a canopy and one without. All were pieced together in NifSkope out of existing Morrowind meshes and textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42131-1-1336881480.jpg",
         "uid": "429496771731",
         "updatedAt": "2015-11-03T04:46:50Z"
@@ -146,7 +146,7 @@
         "modId": 42117,
         "name": "Ranked Dremora",
         "status": "published",
-        "summary": "This mod completely overhauls the Dremora in Morrowind, making them more like they are in Oblivion - that is, divided into seven ranks. I have also changed their weapons to",
+        "summary": "This mod completely overhauls the Dremora in Morrowind, making them more like they are in Oblivion - that is, divided into seven ranks. I have also changed their weapons to inferior versions of the daedric ones. This makes daedric weapons a",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42117-1-1336115415.jpg",
         "uid": "429496771717",
         "updatedAt": "2015-11-02T05:55:46Z"
@@ -178,7 +178,7 @@
         "modId": 42103,
         "name": "Ships of the Imperial Navy",
         "status": "published",
-        "summary": "This mod places galleons crewed by Imperial sailors in various places around Morrowind. You will see galleons at Ebonheart, Wolverine Hall, Dagon Fel, Seyda Neen and Fort",
+        "summary": "This mod places galleons crewed by Imperial sailors in various places around Morrowind. You will see galleons at Ebonheart, Wolverine Hall, Dagon Fel, Seyda Neen and Fort Frostmoth. All sailors are scripted to disappear at night. Two",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42103-1-1335676414.jpg",
         "uid": "429496771703",
         "updatedAt": "2012-04-29T05:19:07Z"
@@ -194,7 +194,7 @@
         "modId": 42102,
         "name": "Improved Cursed Items",
         "status": "published",
-        "summary": "This simple mod alters the \\'BILL_MarksDaedraSummon\\' script that is attached to certain items placed upon the altars of Daedric shrines around Vvardenfell. Normally, picking up",
+        "summary": "This simple mod alters the \\'BILL_MarksDaedraSummon\\' script that is attached to certain items placed upon the altars of Daedric shrines around Vvardenfell. Normally, picking up the items will spawn a Dremora Lord behind you, which gets",
         "thumbnailUrl": null,
         "uid": "429496771702",
         "updatedAt": "2012-04-29T00:20:03Z"
@@ -210,7 +210,7 @@
         "modId": 42101,
         "name": "Unique Creatures",
         "status": "published",
-        "summary": "This mod adds new meshes for a number of creatures in Morrowind - namely those which use the same mesh as an existing creature. Now Advanced Steam Centurions look different to",
+        "summary": "This mod adds new meshes for a number of creatures in Morrowind - namely those which use the same mesh as an existing creature. Now Advanced Steam Centurions look different to ordinary Steam Centurions, the various skeleton classes all have",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42101-4-1335857925.jpg",
         "uid": "429496771701",
         "updatedAt": "2012-04-29T00:15:20Z"
@@ -226,7 +226,7 @@
         "modId": 6006,
         "name": "Morrowind Comes Alive",
         "status": "published",
-        "summary": "Adds 1200 types of NPCs to over 550 cells via leveled lists to bring Morrowind to life. All NPCs have random heads, hair, and equipment (so no two will look the same), and appear",
+        "summary": "Adds 1200 types of NPCs to over 550 cells via leveled lists to bring Morrowind to life. All NPCs have random heads, hair, and equipment (so no two will look the same), and appear and disappear at random. The aim of the mod is to alleviate",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/6006-6-1446932043.jpg",
         "uid": "429496735606",
         "updatedAt": "2015-11-07T21:14:16Z"

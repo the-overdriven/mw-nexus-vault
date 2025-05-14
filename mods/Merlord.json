@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:45.011Z",
+  "checkedAt": "2025-05-14T20:27:31.089Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -93,7 +93,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-06-08T05:55:59Z",
-        "fileSize": 24150,
+        "fileSize": 24155,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -101,12 +101,12 @@
         "modId": 53036,
         "name": "Joy of Painting",
         "status": "published",
-        "summary": "Adds a feature-rich painting mechanic to Morrowind, letting you create paintings of in-game scenery that exist not just in the game as objects but are also saved as high-res images",
+        "summary": "Adds a feature-rich painting mechanic to Morrowind, letting you create paintings of in-game scenery that exist not just in the game as objects but are also saved as high-res images on your PC so you can use them outside the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53036/53036-1686202105-660698867.png",
         "uid": "429496782636",
-        "updatedAt": "2025-05-03T03:19:43Z",
+        "updatedAt": "2025-05-14T03:58:04Z",
         "fileIds": [
-          "1000052383",
+          "1000052890",
           "1000038698",
           "1000045704"
         ]
@@ -237,7 +237,7 @@
         "modId": 51242,
         "name": "DRIP - Dynamic Randomised Item Properties",
         "status": "published",
-        "summary": "Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million",
+        "summary": "Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million possible combinations. Chance to apply modifiers configurable",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51242/51242-1652606575-1381684841.png",
         "uid": "429496780842",
         "updatedAt": "2025-01-24T03:40:20Z",
@@ -339,7 +339,7 @@
         "modId": 49057,
         "name": "Ashfall - A Camping Survival and Needs Mod",
         "status": "published",
-        "summary": "Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temperature mechanics, and new visuals, from seeing frost on your breath in cold weather, watching your",
+        "summary": "Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temperature mechanics, and new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49057/49057-1606011263-1925054113.gif",
         "uid": "429496778657",
         "updatedAt": "2025-04-13T00:33:46Z",
@@ -393,7 +393,7 @@
         "modId": 48603,
         "name": "Echoes of the Fallen",
         "status": "published",
-        "summary": "Drop a tombstone at the place of your death, along with an epitaph and an item from your inventory. The next character to come across the tombstone will be able to pay their",
+        "summary": "Drop a tombstone at the place of your death, along with an epitaph and an item from your inventory. The next character to come across the tombstone will be able to pay their respects and receive the item as a relic. Intended for permadeath",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48603/48603-1595241122-1291912146.png",
         "uid": "429496778203",
         "updatedAt": "2020-07-20T10:33:35Z"
@@ -409,7 +409,7 @@
         "modId": 48458,
         "name": "Right Click Menu Exit",
         "status": "published",
-        "summary": "This mod provides one simple feature: any menu can be exited by right clicking. This includes dialog and barter menus, any service menus, as well as the main menu, save/load menu",
+        "summary": "This mod provides one simple feature: any menu can be exited by right clicking. This includes dialog and barter menus, any service menus, as well as the main menu, save/load menu etc.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48458/48458-1593231448-1836854593.jpeg",
         "uid": "429496778058",
         "updatedAt": "2025-01-25T02:49:28Z",
@@ -460,7 +460,7 @@
         "modId": 48293,
         "name": "The Midnight Oil - Lighting Overhaul",
         "status": "published",
-        "summary": "Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with",
+        "summary": "Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48293/48293-1591259363-95459966.png",
         "uid": "429496777893",
         "updatedAt": "2025-03-12T07:51:43Z",
@@ -479,7 +479,7 @@
         "modId": 48292,
         "name": "Less Aggressive Creatures",
         "status": "published",
-        "summary": "Allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased",
+        "summary": "Allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48292/48292-1591229254-982973280.jpeg",
         "uid": "429496777892",
         "updatedAt": "2020-06-04T00:09:10Z"
@@ -511,7 +511,7 @@
         "modId": 48247,
         "name": "The Guar Whisperer",
         "status": "published",
-        "summary": "Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants",
+        "summary": "Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48247/48247-1591943993-569978961.gif",
         "uid": "429496777847",
         "updatedAt": "2024-01-15T10:06:18Z"
@@ -527,7 +527,7 @@
         "modId": 48122,
         "name": "Misc Mates",
         "status": "published",
-        "summary": "NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the",
+        "summary": "NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48122/48122-1590326510-1932570759.png",
         "uid": "429496777722",
         "updatedAt": "2021-11-10T11:32:21Z"
@@ -559,7 +559,7 @@
         "modId": 47283,
         "name": "Merlord's Starting Equipment",
         "status": "published",
-        "summary": "Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with",
+        "summary": "Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL). Uses MWSE/Lua.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47283/47283-1572676478-1865882427.png",
         "uid": "429496776883",
         "updatedAt": "2023-02-26T10:53:44Z"
@@ -671,7 +671,7 @@
         "modId": 46715,
         "name": "Marksman Rebalanced",
         "status": "published",
-        "summary": "Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit",
+        "summary": "Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46715/46715-1557239829-1033321294.png",
         "uid": "429496776315",
         "updatedAt": "2019-05-08T10:16:10Z"
@@ -703,7 +703,7 @@
         "modId": 46687,
         "name": "Limited Intervention",
         "status": "published",
-        "summary": "This mod limits the number of times you can cast Divine and ALMSIVI Intervention, based on your ranks in the Divine Cult and Tribunal Temple, respectively. MCM settings allow you",
+        "summary": "This mod limits the number of times you can cast Divine and ALMSIVI Intervention, based on your ranks in the Divine Cult and Tribunal Temple, respectively. MCM settings allow you to choose how many interventions are granted to you per rank.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46687/46687-1557016940-1518159424.png",
         "uid": "429496776287",
         "updatedAt": "2019-05-05T00:47:11Z"
@@ -735,7 +735,7 @@
         "modId": 46632,
         "name": "Bed Buddies",
         "status": "published",
-        "summary": "Bed Buddies prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no",
+        "summary": "Bed Buddies prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46632/46632-1556793420-385025875.png",
         "uid": "429496776232",
         "updatedAt": "2020-03-24T12:04:24Z"
@@ -751,7 +751,7 @@
         "modId": 46588,
         "name": "Shut the Fuck up Cliff Racers",
         "status": "published",
-        "summary": "Shut the Fuck Up, Cliff Racers! drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh. In the vanilla file, cliff racers",
+        "summary": "Shut the Fuck Up, Cliff Racers! drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh. In the vanilla file, cliff racers play the \"cliff racer moan\" sound during every single idle",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46588/46588-1556673722-1147068922.png",
         "uid": "429496776188",
         "updatedAt": "2019-05-01T01:22:23Z"
@@ -815,7 +815,7 @@
         "modId": 46034,
         "name": "Skills Module",
         "status": "published",
-        "summary": "Skills Module is a framework for MWSE+Lua mods that allows you to easily create new skills in Morrowind with just a few lines of code. Leveling and UI are handled automatically,",
+        "summary": "Skills Module is a framework for MWSE+Lua mods that allows you to easily create new skills in Morrowind with just a few lines of code. Leveling and UI are handled automatically, with new skills added seamlessly into the stats menu.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46034/46034-1536743074-1871465100.png",
         "uid": "429496775634",
         "updatedAt": "2024-08-31T02:20:02Z"
@@ -831,7 +831,7 @@
         "modId": 45890,
         "name": "Brutal Backstabbing",
         "status": "published",
-        "summary": "Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all",
+        "summary": "Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). Mod Configuration Menu includes option for Short Blades only or all weapons. Be warned - NPCs can backstab you as well!Uses the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45890/45890-1532434418-1781357998.png",
         "uid": "429496775490",
         "updatedAt": "2021-03-06T03:29:08Z"
@@ -847,7 +847,7 @@
         "modId": 45845,
         "name": "Automated Ammo Equip",
         "status": "published",
-        "summary": "Switch between bows and crossbows without having to change ammo manually.! This mod automatically equip the first ammo of the correct type from your inventory when equipping a bow",
+        "summary": "Switch between bows and crossbows without having to change ammo manually.! This mod automatically equip the first ammo of the correct type from your inventory when equipping a bow or crossbow, unless you already have the right ammo",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45845/45845-1530792250-2076787763.png",
         "uid": "429496775445",
         "updatedAt": "2018-07-05T12:12:00Z"

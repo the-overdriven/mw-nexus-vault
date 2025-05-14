@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:45.788Z",
+  "checkedAt": "2025-05-14T20:27:34.019Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -85,7 +85,7 @@
         "modId": 52010,
         "name": "Turn Normal Grass and Kelp into Groundcover",
         "status": "published",
-        "summary": "Renders all the grass, ferns, and kelp in the base game as groundcover instead of statics, which looks better and improves performance. Combine it with any other grass mod for",
+        "summary": "Renders all the grass, ferns, and kelp in the base game as groundcover instead of statics, which looks better and improves performance. Combine it with any other grass mod for better FPS, or use it alone for a nice vanilla+ look.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52010/52010-1669913404-2124336250.png",
         "uid": "429496781610",
         "updatedAt": "2023-04-25T05:52:51Z"
@@ -117,7 +117,7 @@
         "modId": 51463,
         "name": "Improved Lights for All Shaders",
         "status": "published",
-        "summary": "Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods. Compatible with MGE, OpenMW, ReShade, True Lights And Darkness, Enlightened Flames, and",
+        "summary": "Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods. Compatible with MGE, OpenMW, ReShade, True Lights And Darkness, Enlightened Flames, and just about everything else.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51463/51463-1654826982-602613374.jpeg",
         "uid": "429496781063",
         "updatedAt": "2025-05-07T22:31:40Z",
@@ -153,7 +153,7 @@
         "modId": 51236,
         "name": "Dynamic Distant Buildings for OpenMW",
         "status": "published",
-        "summary": "Makes distant land more responsive to quest progress. Great House strongholds do not appear in the distance at game start, and the whole Ghostfence vanishes at the end of the main",
+        "summary": "Makes distant land more responsive to quest progress. Great House strongholds do not appear in the distance at game start, and the whole Ghostfence vanishes at the end of the main quest.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51236/51236-1652573718-578443876.jpeg",
         "uid": "429496780836",
         "updatedAt": "2022-05-15T00:16:00Z"

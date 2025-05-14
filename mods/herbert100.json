@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-13T23:35:38.467Z",
+  "checkedAt": "2025-05-14T20:27:21.618Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -37,7 +37,7 @@
         "modId": 54571,
         "name": "herbert's literacy program",
         "status": "published",
-        "summary": "Fundamental overhaul to the way skill books work. Studying skill books will grant permanent bonuses to the relevant skill. The bonus depends on the skill being studied. You can't",
+        "summary": "Fundamental overhaul to the way skill books work. Studying skill books will grant permanent bonuses to the relevant skill. The bonus depends on the skill being studied. You can't learn everything in one sitting: you will need to study the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54571/54571-1714850067-816169514.jpeg",
         "uid": "429496784171",
         "updatedAt": "2024-05-19T05:35:45Z"
@@ -69,7 +69,7 @@
         "modId": 54219,
         "name": "Quick Select Menu",
         "status": "published",
-        "summary": "Adds a quick select menu, trying to fill the gap between quick key items and the rest of your inventory. The menu has several tabs, some of which are generated automatically, based",
+        "summary": "Adds a quick select menu, trying to fill the gap between quick key items and the rest of your inventory. The menu has several tabs, some of which are generated automatically, based on your inventory. e.g., press a button to see all your",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54219/54219-1709404648-574126906.jpeg",
         "uid": "429496783819",
         "updatedAt": "2024-05-05T10:59:05Z"
@@ -85,7 +85,7 @@
         "modId": 54208,
         "name": "HUD Cleaner",
         "status": "published",
-        "summary": "Dynamically hides HUD elements when they aren't relevant. Hides health/magicka/fatigue if they're above 90%. Hides magic icons resulting from permanent bonuses/constant",
+        "summary": "Dynamically hides HUD elements when they aren't relevant. Hides health/magicka/fatigue if they're above 90%. Hides magic icons resulting from permanent bonuses/constant enchantments. Hides weapon/magic icons when weapons are holstered.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54208/54208-1708853955-294277038.jpeg",
         "uid": "429496783808",
         "updatedAt": "2024-03-06T07:42:34Z"
@@ -101,7 +101,7 @@
         "modId": 54203,
         "name": "Quest Log Menu",
         "status": "published",
-        "summary": "Lets you keep track of, and search for, all your active/completed quests by using a dedicated menu. Has robust search functionalities and several convenience features. All relevant",
+        "summary": "Lets you keep track of, and search for, all your active/completed quests by using a dedicated menu. Has robust search functionalities and several convenience features. All relevant journal entries are displayed directly below your quest",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54203/54203-1708802889-1231236311.jpeg",
         "uid": "429496783803",
         "updatedAt": "2024-06-28T12:47:14Z"
@@ -133,7 +133,7 @@
         "modId": 54158,
         "name": "Fortify Magicka Regeneration",
         "status": "published",
-        "summary": "adds a fortify magicka regeneration effect to the game. just like in skyrim. 1 pt of the effect = 1% faster magicka regeneration. requires a compatible magicka regeneration",
+        "summary": "adds a fortify magicka regeneration effect to the game. just like in skyrim. 1 pt of the effect = 1% faster magicka regeneration. requires a compatible magicka regeneration mod.also adds a drain magicka regeneration effect, if you're into",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54158/54158-1708030583-155761481.jpeg",
         "uid": "429496783758",
         "updatedAt": "2024-02-15T21:05:22Z"
@@ -165,7 +165,7 @@
         "modId": 53972,
         "name": "experience carryover",
         "status": "published",
-        "summary": "this mod will make sure you get all the xp you were promised. surplus xp will no longer be lost when leveling up skills. e.g. if your progress towards a skill level up was 95/100",
+        "summary": "this mod will make sure you get all the xp you were promised. surplus xp will no longer be lost when leveling up skills. e.g. if your progress towards a skill level up was 95/100 and you got 20xp, the skill will level up and your progress",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53972/53972-1705073584-1775413870.jpeg",
         "uid": "429496783572",
         "updatedAt": "2024-02-16T06:16:52Z"
@@ -197,7 +197,7 @@
         "modId": 53937,
         "name": "Barter XP Overhaul",
         "status": "published",
-        "summary": "Overhauls the barter XP formula, with the intention of being more realistic and cutting down on the cheese. XP is now awarded based on the value of the sale and how well you've",
+        "summary": "Overhauls the barter XP formula, with the intention of being more realistic and cutting down on the cheese. XP is now awarded based on the value of the sale and how well you've haggled. Designed to be extensible and highly compatible with",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53937/53937-1704464645-539763231.jpeg",
         "uid": "429496783537",
         "updatedAt": "2024-01-05T14:34:56Z"
@@ -213,7 +213,7 @@
         "modId": 53809,
         "name": "More QuickLoot",
         "status": "published",
-        "summary": "QuickLoot, with many new features and a revamped UI. Pick up one item from a stack, see item prices and weights, pickup nearby items. Dedicated menus for bartering, pickpocketing,",
+        "summary": "QuickLoot, with many new features and a revamped UI. Pick up one item from a stack, see item prices and weights, pickup nearby items. Dedicated menus for bartering, pickpocketing, plants, and training, each with their own features and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53809/53809-1702038830-789574628.jpeg",
         "uid": "429496783409",
         "updatedAt": "2024-03-18T16:08:03Z"
@@ -229,7 +229,7 @@
         "modId": 53804,
         "name": "Proportional Magicka Regeneration",
         "status": "published",
-        "summary": "Willpower will determine the percentage of your maximum magicka that gets regenerated each second. Highly configurable. Atronachs can regenerate magicka with customizable",
+        "summary": "Willpower will determine the percentage of your maximum magicka that gets regenerated each second. Highly configurable. Atronachs can regenerate magicka with customizable penalties, or not at all. Works for the player and NPCs. Restores",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53804/53804-1701973463-888158391.jpeg",
         "uid": "429496783404",
         "updatedAt": "2024-02-15T21:14:05Z"
@@ -245,7 +245,7 @@
         "modId": 53803,
         "name": "herbert lib",
         "status": "published",
-        "summary": "Lua library that includes a new logger, a way to automate the creation of Classes (supporting multiple inheritence, instance checking, and some dataclass-like functionality), and a",
+        "summary": "Lua library that includes a new logger, a way to automate the creation of Classes (supporting multiple inheritence, instance checking, and some dataclass-like functionality), and a way to generate polynomial splines. Requires MWSE-lua, but",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53803/53803-1701950896-994526330.jpeg",
         "uid": "429496783403",
         "updatedAt": "2024-06-28T12:43:44Z"
@@ -261,7 +261,7 @@
         "modId": 53782,
         "name": "Proportional Progression Expanded",
         "status": "published",
-        "summary": "Updated verison of NullCascade's Proportional Progression, with MCM support and some new features: custom profiles, modifiers for major/minor/misc/specialization skills, and more.",
+        "summary": "Updated verison of NullCascade's Proportional Progression, with MCM support and some new features: custom profiles, modifiers for major/minor/misc/specialization skills, and more. Backwards compatible with the original mod. Requires",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53782/53782-1702066473-1906773470.jpeg",
         "uid": "429496783382",
         "updatedAt": "2024-02-18T19:58:47Z"
