@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-14T20:48:21.995Z",
+  "checkedAt": "2025-05-14T21:18:22.057Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2017-05-01T21:24:46Z",
-        "fileSize": 11500,
+        "fileSize": 11505,
         "modCategory": {
           "categoryId": 10,
           "name": "New Lands"
@@ -21,7 +21,15 @@
         "summary": "Project Cyrodiil is a new lands mod from the Project Tamriel team that adds part of Cyrodiil, the Imperial Province, to the world of TESIII: Morrowind. PC is entirely compatible with Skyrim: Home of the Nords and Tamriel Rebuilt, and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44922/44922-1734902750-566662840.png",
         "uid": "429496774522",
-        "updatedAt": "2025-05-05T18:16:17Z"
+        "updatedAt": "2025-05-14T21:09:24Z",
+        "fileIds": [
+          "1000052934",
+          "1000011595",
+          "1000011422",
+          "1000048948",
+          "1000049015",
+          "1000007777"
+        ]
       },
       {
         "adultContent": false,
