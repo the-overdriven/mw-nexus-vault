@@ -1,5 +1,5 @@
 # mw-nexus-vault
-Preserving the metadata of TES III: Morrowind mods on NexusMods.com, grouped by author."
+Preserving the metadata of TES III: Morrowind mods on NexusMods.com, grouped by author.
 
 If nexusmods.com ever goes down, a modder is banned or deletes their account/mods, it's important to preserve at least the knowledge of the mods they created.
 
