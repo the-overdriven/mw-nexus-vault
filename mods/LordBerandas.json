@@ -1,0 +1,253 @@
+{
+  "checkedAt": "2025-05-14T22:36:37.101Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 15
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-03-30T14:43:44Z",
+        "fileSize": 320,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54378,
+        "name": "Guide to... replacer",
+        "status": "published",
+        "summary": "This mod replaces all \"Guide to...\" scrolls with an open version showing the map of the region",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54378/54378-1711809333-1386155111.png",
+        "uid": "429496783978",
+        "updatedAt": "2024-03-30T14:43:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-27T20:32:46Z",
+        "fileSize": 5785,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54216,
+        "name": "Daedric Statue Replacer Pack",
+        "status": "published",
+        "summary": "This plugin will replace the meshes and textures of all the Daedric statues in the game. In addition, the eyes of the \"Talker\" statues are now glowmapped with unique colours for that eerie sense of supernatural presence.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54216/54216-1709065717-20215289.png",
+        "uid": "429496783816",
+        "updatedAt": "2024-02-28T18:35:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-27T19:42:18Z",
+        "fileSize": 891,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 54215,
+        "name": "SirLuthor's Tools",
+        "status": "published",
+        "summary": "Blacksmith tools, lockpick and probe model + texture replacer",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54215/54215-1709062150-1179902592.jpeg",
+        "uid": "429496783815",
+        "updatedAt": "2024-02-27T19:42:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-28T09:00:26Z",
+        "fileSize": 29068,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 46824,
+        "name": "Nordic Weapons Replacer PBR",
+        "status": "published",
+        "summary": "Replaces model and textures of Nordic Broadsword and Claymore, for use with the MGE XE with PBR support.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46824/46824-1559033301-882823101.png",
+        "uid": "429496776424",
+        "updatedAt": "2019-06-22T10:21:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-28T09:00:13Z",
+        "fileSize": 24492,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 46823,
+        "name": "Shalk Creature Replacer PBR",
+        "status": "published",
+        "summary": "Replaces the Shalk creature model and textures, for use with the MGE XE with PBR support.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46823/46823-1559032122-435874908.jpeg",
+        "uid": "429496776423",
+        "updatedAt": "2019-08-11T17:33:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-05-25T16:24:43Z",
+        "fileSize": 1120,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 45701,
+        "name": "Serpenthis Ancestral Tomb",
+        "status": "published",
+        "summary": "Adds a simple little ancestral tomb, to the wasteland region of Molag Amur. The dungeon can be located near Molag Mar and it is recommended visiting it on higher levels.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45701/45701-1527264566-260157905.png",
+        "uid": "429496775301",
+        "updatedAt": "2018-05-25T16:24:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-05-15T19:32:36Z",
+        "fileSize": 143,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 44945,
+        "name": "The Royal Game of Ur",
+        "status": "published",
+        "summary": "This mod adds pieces of ancient dwemer boardgame into various ruins around Vvardenfell. Can you collect them all?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44945-2-1494876405.png",
+        "uid": "429496774545",
+        "updatedAt": "2017-05-15T19:31:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-01-26T22:42:53Z",
+        "fileSize": 2557,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 44057,
+        "name": "MOAR Mesh Replacers",
+        "status": "published",
+        "summary": "More detailes meshes for \"com\" and \"de\" dock pieces and others.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44057-0-1453847879.jpg",
+        "uid": "429496773657",
+        "updatedAt": "2016-09-14T21:47:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-06-04T16:17:01Z",
+        "fileSize": 2834,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 43131,
+        "name": "Holidays Across Tamriel - Vvardenfell",
+        "status": "published",
+        "summary": "This mod is inspired by holiday celebrations as they were depicted in TES II: Daggerfall. It adds various religion objects (such as holy icons or statues) to the most of Dunmeri homes and temples, in order to depict deeper impact of",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43131/43131-1727121558-339120077.jpeg",
+        "uid": "429496772731",
+        "updatedAt": "2025-05-14T22:10:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-01-21T11:41:01Z",
+        "fileSize": 214,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42394,
+        "name": "Velothi Frescoes - modders resources",
+        "status": "published",
+        "summary": "Just a retexture of some velothi frescoes to add more variety.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42394-1-1358768578.jpg",
+        "uid": "429496771994",
+        "updatedAt": "2013-01-21T11:41:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-01-20T22:25:50Z",
+        "fileSize": 169,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42391,
+        "name": "Sleds meshes - modders resources",
+        "status": "published",
+        "summary": "set of various sleds",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42391-1-1358720834.jpg",
+        "uid": "429496771991",
+        "updatedAt": "2013-01-20T22:26:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-01-20T22:19:35Z",
+        "fileSize": 763,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42390,
+        "name": "Tents - modders resources",
+        "status": "published",
+        "summary": "Set of tent meshes originally created for the SHotN project.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42390-1-1358720481.jpg",
+        "uid": "429496771990",
+        "updatedAt": "2013-01-20T22:20:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-01-20T22:07:06Z",
+        "fileSize": 1618,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42389,
+        "name": "Malachite Weapons Set - modders resources",
+        "status": "published",
+        "summary": "Set of Malachite weapons - inspired by Skyrim Glass weapons",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42389-1-1358719747.jpg",
+        "uid": "429496771989",
+        "updatedAt": "2013-01-20T22:08:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-01-20T21:48:41Z",
+        "fileSize": 461,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 42388,
+        "name": "Daggerfall inspired meshes - modders resources",
+        "status": "published",
+        "summary": "Small set of objects for Morrowind inspired by Daggerfall sprites",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42388-1-1358718990.jpg",
+        "uid": "429496771988",
+        "updatedAt": "2013-06-06T23:12:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-06-14T10:03:20Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 42151,
+        "name": "Make a pet",
+        "status": "published",
+        "summary": "This mod allows you to create a follower from any creature you encounter on your travels.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42151-0-1470740474.jpg",
+        "uid": "429496771751",
+        "updatedAt": "2016-08-09T10:55:51Z"
+      }
+    ],
+    "totalCount": 15
+  }
+}

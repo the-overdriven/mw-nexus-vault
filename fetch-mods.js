@@ -133,7 +133,7 @@ for (const uploaderName of modAuthors) {
       for (const mod of data.data.mods.nodes) {
         const dateUpdatedAt = new Date(mod.updatedAt)
         if (dateUpdatedAt > dateChecked) {
-          console.log(`mod ${mod.name} (id: ${mod.modId}) was updated on ${mod.updatedAt}!`)
+          console.log(`✨ mod ${mod.name} (id: ${mod.modId}) was updated on ${mod.updatedAt}!`)
 
           const fileIds = await findFileIds(mod.modId)
           console.log(`fetched file ids for mod ${mod.modId}:`, fileIds)
