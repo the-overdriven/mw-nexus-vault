@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-14T22:36:25.155Z",
+  "checkedAt": "2025-05-15T18:26:34.769Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -444,7 +444,15 @@
         "summary": "Overhaul of the corprusarium, making it the creepy place it was meant to be.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49738/49738-1620760277-498921393.gif",
         "uid": "429496779338",
-        "updatedAt": "2024-06-22T16:34:09Z"
+        "updatedAt": "2025-05-14T23:51:27Z",
+        "fileIds": [
+          "1000052942",
+          "1000045864",
+          "1000045865",
+          "1000025650",
+          "1000033877",
+          "1000026109"
+        ]
       },
       {
         "adultContent": false,
