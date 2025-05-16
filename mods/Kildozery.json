@@ -1,14 +1,34 @@
 {
-  "checkedAt": "2025-05-15T18:26:15.314Z",
+  "checkedAt": "2025-05-16T20:57:51.389Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 24,
         "130": 2,
         "6332": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-15T23:50:24Z",
+        "fileSize": 1075,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 55705,
+        "name": "Lucid Disturbing Dreams (OpenMW)",
+        "status": "published",
+        "summary": "Experience the main quest's Disturbing Dreams like never before! This mod converts the four textbox nightmares sent to the player by Dagoth Ur into fully voiced playable sequences.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55705/55705-1747352890-791004299.png",
+        "uid": "429496785305",
+        "updatedAt": "2025-05-16T00:46:03Z",
+        "fileIds": [
+          "1000053026",
+          "1000053022"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-01T21:34:35Z",
@@ -470,6 +490,6 @@
         ]
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

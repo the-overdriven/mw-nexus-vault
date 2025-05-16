@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-15T18:26:20.966Z",
+  "checkedAt": "2025-05-16T20:57:55.763Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -116,10 +116,26 @@
         "modId": 54337,
         "name": "Better Merchants Skills for OpenMW",
         "status": "published",
-        "summary": "Fight Morrowind's broken economy by boosting merchants' mercantile and speechcraft skills. It works with any merchant vanilla or modded and it does not alter NPC's training skills.Settings are provided to prevent very low selling prices on",
+        "summary": "Fight Morrowind's broken economy by boosting merchants' mercantile and speechcraft skills. It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings are provided to prevent very low selling prices on",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2024-07-15T07:40:42Z"
+        "updatedAt": "2025-05-16T14:28:24Z",
+        "fileIds": [
+          "1000053050",
+          "1000044538",
+          "1000053049",
+          "1000043776",
+          "1000043586",
+          "1000043855",
+          "1000044111",
+          "1000043606",
+          "1000043609",
+          "1000043620",
+          "1000043632",
+          "1000044161",
+          "1000043668",
+          "1000046288"
+        ]
       }
     ],
     "totalCount": 5

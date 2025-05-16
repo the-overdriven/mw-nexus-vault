@@ -1,14 +1,36 @@
 {
-  "checkedAt": "2025-05-15T18:26:10.265Z",
+  "checkedAt": "2025-05-16T20:57:48.062Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 47,
+        "100": 48,
         "101": 3,
         "775": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-15T23:05:53Z",
+        "fileSize": 11208,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 55505,
+        "name": "Caswyn - A Nightmare's Favor",
+        "status": "published",
+        "summary": "A grumpy, arrogant, talkative, low-ranking mage whose questline sends you Dreamwalking through the nightmares of others.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55505/55505-1747239175-359323722.png",
+        "uid": "429496785105",
+        "updatedAt": "2025-05-16T13:03:04Z",
+        "fileIds": [
+          "1000053046",
+          "1000053043",
+          "1000052987",
+          "1000053029"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-01-09T00:05:44Z",
@@ -776,6 +798,6 @@
         "updatedAt": "2019-06-17T02:03:35Z"
       }
     ],
-    "totalCount": 47
+    "totalCount": 48
   }
 }

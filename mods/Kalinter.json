@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-05-15T18:26:14.054Z",
+  "checkedAt": "2025-05-16T20:57:50.613Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 24,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-15T23:50:15Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 56621,
+        "name": "The Waters of His Glory",
+        "status": "published",
+        "summary": "Add a Grand Aqueduct to the Ascadian Isles, just to the north west of Vivec City, that brings fresh water to its citizens.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56621/56621-1747352891-1495050046.jpeg",
+        "uid": "429496786221",
+        "updatedAt": "2025-05-15T23:50:15Z",
+        "fileIds": [
+          "1000053023"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-02-23T10:11:57Z",
@@ -407,6 +426,6 @@
         "updatedAt": "2021-12-12T10:54:40Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

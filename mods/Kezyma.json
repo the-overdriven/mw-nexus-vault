@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-15T18:26:15.109Z",
+  "checkedAt": "2025-05-16T20:57:51.225Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -47,7 +47,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-02-13T21:27:55Z",
-        "fileSize": 904,
+        "fileSize": 733,
         "modCategory": {
           "categoryId": 15,
           "name": "Utilities"
@@ -58,7 +58,13 @@
         "summary": "A plugin for Mod Organizer 2 that automatically exports your mod list, enabled plugins, and grass mods to OpenMW whenever you run the game through Mod Organizer.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52345/52345-1676311560-1311660267.png",
         "uid": "429496781945",
-        "updatedAt": "2024-08-06T09:10:39Z"
+        "updatedAt": "2025-05-15T21:44:51Z",
+        "fileIds": [
+          "1000041309",
+          "1000053017",
+          "1000040580",
+          "1000053014"
+        ]
       },
       {
         "adultContent": false,

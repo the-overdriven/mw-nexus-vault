@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2025-05-16T20:58:02.868Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-16T12:09:18Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56624,
+        "name": "Take That -- Parrying Dodging Blocking and Spellbatting",
+        "status": "published",
+        "summary": "Take That! overhauls Morrowind’s melee combat with new, timing-based mechanics: blocking, parrying, dodging, and spell batting. Each mechanic rewards skill, timing, and character build, making combat more dynamic and reactive.All features",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56624/56624-1747397097-1016307333.png",
+        "uid": "429496786224",
+        "updatedAt": "2025-05-16T12:09:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-10T12:26:48Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56551,
+        "name": "Poleplay - A spear and staff mechanics upgrade",
+        "status": "published",
+        "summary": "Introduces new mechanics for staffs and spears - kung fu time!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56551/56551-1746883425-821996465.png",
+        "uid": "429496786151",
+        "updatedAt": "2025-05-10T12:26:48Z"
+      }
+    ],
+    "totalCount": 2
+  }
+}
