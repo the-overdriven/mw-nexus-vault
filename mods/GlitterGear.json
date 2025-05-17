@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-17T17:37:16.884Z",
+  "checkedAt": "2025-05-17T22:17:13.604Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -12,7 +12,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-15T23:05:53Z",
-        "fileSize": 11236,
+        "fileSize": 11245,
         "modCategory": {
           "categoryId": 23,
           "name": "Companions"
@@ -23,12 +23,13 @@
         "summary": "A grumpy, arrogant, talkative, low-ranking mage whose questline sends you Dreamwalking through the nightmares of others.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55505/55505-1747443210-235200018.png",
         "uid": "429496785105",
-        "updatedAt": "2025-05-16T21:29:22Z",
+        "updatedAt": "2025-05-17T20:53:36Z",
         "fileIds": [
-          "1000053081",
+          "1000053136",
           "1000053043",
           "1000052987",
-          "1000053029"
+          "1000053029",
+          "1000053081"
         ]
       },
       {
