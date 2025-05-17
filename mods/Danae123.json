@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-17T00:46:37.928Z",
+  "checkedAt": "2025-05-17T17:37:12.017Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -654,7 +654,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-10-20T21:52:31Z",
-        "fileSize": 179,
+        "fileSize": 184,
         "modCategory": {
           "categoryId": 14,
           "name": "Races, Classes, and Birthsigns"
@@ -665,9 +665,9 @@
         "summary": "100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your class. Loadouts include vanilla, TR, OAAB, and, depending on",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50346/50346-1634756564-1686148877.png",
         "uid": "429496779946",
-        "updatedAt": "2025-05-08T10:26:56Z",
+        "updatedAt": "2025-05-17T11:12:36Z",
         "fileIds": [
-          "1000052628",
+          "1000053109",
           "1000031491",
           "1000041233",
           "1000027668",
@@ -684,6 +684,7 @@
           "1000027516",
           "1000029830",
           "1000027539",
+          "1000052628",
           "1000033946",
           "1000032424",
           "1000027565",

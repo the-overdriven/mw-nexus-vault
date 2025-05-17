@@ -1,15 +1,34 @@
 {
-  "checkedAt": "2025-05-17T00:46:53.307Z",
+  "checkedAt": "2025-05-17T17:37:26.157Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 12,
+        "100": 13,
         "101": 2,
         "198": 1,
         "1579": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-17T13:31:47Z",
+        "fileSize": 28273,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 56634,
+        "name": "Bizarre Morrowind rig (armature) and animation utilities -- Blender 4.3",
+        "status": "published",
+        "summary": "Utilities for easy 1st/3rd person animation export and beast animations retargeting (Blender addon).And a rig with advanced autoposing features and IK controllers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56634/56634-1747488004-986395592.png",
+        "uid": "429496786234",
+        "updatedAt": "2025-05-17T13:31:47Z",
+        "fileIds": [
+          "1000053116"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-13T17:43:00Z",
@@ -24,7 +43,11 @@
         "summary": "Short, pronounced twitches of humanoid NPCs in response to being hit.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56594/56594-1747158041-726790814.png",
         "uid": "429496786194",
-        "updatedAt": "2025-05-13T17:43:00Z"
+        "updatedAt": "2025-05-17T12:56:41Z",
+        "fileIds": [
+          "1000053114",
+          "1000052873"
+        ]
       },
       {
         "adultContent": false,
@@ -45,7 +68,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-12T21:57:11Z",
-        "fileSize": 536,
+        "fileSize": 901,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -56,7 +79,12 @@
         "summary": "-- aka Réticule --Animated customizable reticle with a neat enemy HP widget, hit marker visuals and sounds.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1747086913-1245125704.png",
         "uid": "429496786184",
-        "updatedAt": "2025-05-12T22:17:17Z"
+        "updatedAt": "2025-05-17T12:44:39Z",
+        "fileIds": [
+          "1000053112",
+          "1000052835",
+          "1000052838"
+        ]
       },
       {
         "adultContent": false,
@@ -72,7 +100,16 @@
         "summary": "-- aka Caméra --Subtle dynamic camera and first-person viewmodel (hands) motion. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Highly",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1747084913-384105608.png",
         "uid": "429496784927",
-        "updatedAt": "2025-05-12T21:24:44Z"
+        "updatedAt": "2025-05-17T12:52:48Z",
+        "fileIds": [
+          "1000053113",
+          "1000052831",
+          "1000047650",
+          "1000047671",
+          "1000050237",
+          "1000050255",
+          "1000047863"
+        ]
       },
       {
         "adultContent": false,
@@ -93,7 +130,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-08-04T21:01:40Z",
-        "fileSize": 3719,
+        "fileSize": 3720,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -104,7 +141,22 @@
         "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49. With new voice lines and animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
         "uid": "429496784664",
-        "updatedAt": "2025-05-14T20:35:24Z"
+        "updatedAt": "2025-05-17T13:02:01Z",
+        "fileIds": [
+          "1000051787",
+          "1000053115",
+          "1000046616",
+          "1000046627",
+          "1000047651",
+          "1000051495",
+          "1000046901",
+          "1000051526",
+          "1000046681",
+          "1000047019",
+          "1000047583",
+          "1000047598",
+          "1000052932"
+        ]
       },
       {
         "adultContent": false,
@@ -203,6 +255,6 @@
         "updatedAt": "2022-06-27T09:40:34Z"
       }
     ],
-    "totalCount": 12
+    "totalCount": 13
   }
 }
