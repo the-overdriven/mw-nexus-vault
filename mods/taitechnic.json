@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-16T20:58:03.534Z",
+  "checkedAt": "2025-05-17T00:47:08.117Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -90,7 +90,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-06-02T21:55:16Z",
-        "fileSize": 289,
+        "fileSize": 509,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -98,10 +98,17 @@
         "modId": 54782,
         "name": "OpenMW Dynamic Actors",
         "status": "published",
-        "summary": "UPDATE: Optional download to fix sitting animations for Animated Morrowind. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC's. Customize player Idle animation, or use playlist function to animate player",
+        "summary": "UPDATE: Background blur and widescreen camera effects during dialogue. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC's. Customize player Idle animation, or use playlist function to animate player in any",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54782/54782-1717364168-367310833.png",
         "uid": "429496784382",
-        "updatedAt": "2025-03-30T00:07:06Z"
+        "updatedAt": "2025-05-16T22:35:41Z",
+        "fileIds": [
+          "1000053088",
+          "1000051374",
+          "1000051585",
+          "1000046489",
+          "1000051170"
+        ]
       },
       {
         "adultContent": false,
