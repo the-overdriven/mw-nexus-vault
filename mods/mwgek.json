@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-17T22:17:21.905Z",
+  "checkedAt": "2025-05-18T13:32:13.640Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -101,12 +101,14 @@
         "summary": "Adds icons for faction quests and location specific icons for the misc quests.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55688/55688-1735591079-386362339.jpeg",
         "uid": "429496785288",
-        "updatedAt": "2025-03-16T13:37:02Z",
+        "updatedAt": "2025-05-18T11:22:48Z",
         "fileIds": [
-          "1000051241",
+          "1000053163",
           "1000049420",
           "1000049171",
-          "1000049266"
+          "1000051241",
+          "1000049266",
+          "1000053162"
         ]
       },
       {

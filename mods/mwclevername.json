@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-05-17T22:17:21.767Z",
+  "checkedAt": "2025-05-18T13:32:10.064Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13
+        "100": 14
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-18T02:59:20Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56642,
+        "name": "Unencumbered Movement",
+        "status": "published",
+        "summary": "Removes the encumbrance-based penalties to movement speed and jump height. Being overencumbered will still stop you from moving. Compatible with everything.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56642/56642-1747537060-836513760.png",
+        "uid": "429496786242",
+        "updatedAt": "2025-05-18T02:59:20Z",
+        "fileIds": [
+          "1000053150"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-02-24T02:22:55Z",
@@ -223,6 +242,6 @@
         "updatedAt": "2021-01-23T23:16:16Z"
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }
