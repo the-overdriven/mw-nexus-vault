@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-18T13:32:31.478Z",
+  "checkedAt": "2025-05-19T23:24:34.310Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -68,7 +68,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-10T05:00:32Z",
-        "fileSize": 5042,
+        "fileSize": 4044,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -76,11 +76,12 @@
         "modId": 56334,
         "name": "Vurt's Animated Ascadian Isles Trees",
         "status": "published",
-        "summary": "Animated tree replacer for the AI region, .esp-less.",
+        "summary": "Animated Trees for the AI region, esp-less tree replacer",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56334/56334-1744261540-619642170.jpeg",
         "uid": "429496785934",
-        "updatedAt": "2025-04-30T01:05:11Z",
+        "updatedAt": "2025-05-19T14:58:55Z",
         "fileIds": [
+          "1000053230",
           "1000052221"
         ]
       },

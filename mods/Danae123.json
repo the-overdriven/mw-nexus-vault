@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-05-18T13:31:54.961Z",
+  "checkedAt": "2025-05-19T23:24:08.078Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 101
+        "100": 102
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-19T05:47:12Z",
+        "fileSize": 8516,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 56661,
+        "name": "What The Heart Kneads",
+        "status": "published",
+        "summary": "What The Heart Kneads introduces a nuanced romance, centered around Tarys, a Dunmer Flourwright who runs Suran’s Amberloaf Bakery. Through meaningful interactions, mini-quests, and a faction-based relationship system, players can build a",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56661/56661-1747633387-1434390983.png",
+        "uid": "429496786261",
+        "updatedAt": "2025-05-19T09:14:10Z",
+        "fileIds": [
+          "1000053215",
+          "1000053210"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-11T08:36:34Z",
@@ -61,10 +81,11 @@
         "summary": "Meet Shuri-Viir, an eccentric Argonian jester with a talent for illusion, destruction, and rhyme! This quested companion will accompany you on your travels, offering witty verses, helpful advice, daily gifts, and even training—all while",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56450/56450-1746085016-156655541.png",
         "uid": "429496786050",
-        "updatedAt": "2025-05-13T11:04:16Z",
+        "updatedAt": "2025-05-19T22:32:59Z",
         "fileIds": [
-          "1000052854",
-          "1000052266"
+          "1000053247",
+          "1000052266",
+          "1000052854"
         ]
       },
       {
@@ -665,9 +686,9 @@
         "summary": "100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your class. Loadouts include vanilla, TR, OAAB, and, depending on",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50346/50346-1634756564-1686148877.png",
         "uid": "429496779946",
-        "updatedAt": "2025-05-17T11:12:36Z",
+        "updatedAt": "2025-05-18T13:58:22Z",
         "fileIds": [
-          "1000053109",
+          "1000053172",
           "1000031491",
           "1000041233",
           "1000027668",
@@ -896,7 +917,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-05-14T14:40:31Z",
-        "fileSize": 96809,
+        "fileSize": 96810,
         "modCategory": {
           "categoryId": 7,
           "name": "Items, Objects, and Clothes"
@@ -907,7 +928,14 @@
         "summary": "Brings all of Hilgya the Seamstress to Wares",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49766/49766-1621002934-159216439.png",
         "uid": "429496779366",
-        "updatedAt": "2022-06-10T14:20:33Z"
+        "updatedAt": "2025-05-19T15:34:08Z",
+        "fileIds": [
+          "1000053234",
+          "1000025381",
+          "1000024903",
+          "1000025712",
+          "1000025219"
+        ]
       },
       {
         "adultContent": false,
@@ -938,7 +966,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-05-12T15:11:34Z",
-        "fileSize": 202106,
+        "fileSize": 202104,
         "modCategory": {
           "categoryId": 7,
           "name": "Items, Objects, and Clothes"
@@ -946,10 +974,22 @@
         "modId": 49758,
         "name": "Korana's Mods for Wares",
         "status": "published",
-        "summary": "clothes, weapons, armour and miscellanious items for Wares and Friends and Foes, without conflicts",
+        "summary": "Korana's clothes, weapons, armour and miscellanious items for Wares, without conflicts",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49758/49758-1620831716-804072028.png",
         "uid": "429496779358",
-        "updatedAt": "2022-06-13T11:14:24Z"
+        "updatedAt": "2025-05-19T13:19:20Z",
+        "fileIds": [
+          "1000053222",
+          "1000024606",
+          "1000029507",
+          "1000025377",
+          "1000025645",
+          "1000025400",
+          "1000024905",
+          "1000025194",
+          "1000027003",
+          "1000025067"
+        ]
       },
       {
         "adultContent": false,
@@ -1551,24 +1591,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47219/47219-1571050414-583284209.jpeg",
         "uid": "429496776819",
         "updatedAt": "2020-03-21T10:41:09Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2019-08-26T18:21:48Z",
-        "fileSize": 16038,
-        "modCategory": {
-          "categoryId": 13,
-          "name": "Quests and Adventures"
-        },
-        "modId": 47116,
-        "name": "Middle-Earth Challenge",
-        "status": "published",
-        "summary": "Bring Fargoth alive to the Red Mountain. Fargoth must have his Engraved Ring, Sting and Mithril Mail. Pick a character (Sam, Legolas, Gimli or Gandalf) with their own starting ear, perks, handicaps and tasks.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47116/47116-1566843582-1513722683.jpeg",
-        "uid": "429496776716",
-        "updatedAt": "2019-09-26T11:43:13Z"
       }
     ],
-    "totalCount": 101
+    "totalCount": 102
   }
 }

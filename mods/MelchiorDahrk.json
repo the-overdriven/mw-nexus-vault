@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-18T13:32:08.809Z",
+  "checkedAt": "2025-05-19T23:24:20.848Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -917,7 +917,7 @@
       {
         "adultContent": false,
         "createdAt": "2018-11-12T21:15:08Z",
-        "fileSize": 107612,
+        "fileSize": 194654,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -928,7 +928,15 @@
         "summary": "The goal of Project Atlas is to identify the most performance heavy areas of vanilla Morrowind and some popular mods and target high usage/strain meshes in those areas for atlasing. This effort involves reworking the UVs for those meshes",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45399/45399-1542052298-1724917729.png",
         "uid": "429496774999",
-        "updatedAt": "2022-04-13T07:29:13Z"
+        "updatedAt": "2025-05-19T19:49:24Z",
+        "fileIds": [
+          "1000053240",
+          "1000030096",
+          "1000017378",
+          "1000029187",
+          "1000029284",
+          "1000050041"
+        ]
       },
       {
         "adultContent": false,

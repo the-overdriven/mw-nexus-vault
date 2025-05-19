@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-05-18T13:32:19.538Z",
+  "checkedAt": "2025-05-19T23:24:25.733Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17,
+        "100": 18,
         "4187": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-19T14:14:40Z",
+        "fileSize": 736,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 56667,
+        "name": "Daedric And Glass Skirt At Vender",
+        "status": "published",
+        "summary": "Add Daedric and Glass Skirts to Milie Hastien: Fine Clothier found in Balmora.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56667/56667-1747664062-1691999397.png",
+        "uid": "429496786267",
+        "updatedAt": "2025-05-19T14:14:40Z",
+        "fileIds": [
+          "1000053225"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-10-23T11:53:52Z",
@@ -281,6 +300,6 @@
         "updatedAt": "2023-02-20T18:49:43Z"
       }
     ],
-    "totalCount": 17
+    "totalCount": 18
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-18T13:32:17.392Z",
+  "checkedAt": "2025-05-19T23:24:23.634Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -1146,7 +1146,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-09-02T05:54:33Z",
-        "fileSize": 65,
+        "fileSize": 66,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -1157,7 +1157,17 @@
         "summary": "Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes. Includes MWSE mod implementing light source changes, plus modular",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47133/47133-1588840690-1043171464.png",
         "uid": "429496776733",
-        "updatedAt": "2021-08-18T07:20:40Z"
+        "updatedAt": "2025-05-19T03:48:17Z",
+        "fileIds": [
+          "1000053208",
+          "1000019213",
+          "1000026451",
+          "1000021357",
+          "1000020347",
+          "1000019370",
+          "1000018416",
+          "1000015646"
+        ]
       },
       {
         "adultContent": false,

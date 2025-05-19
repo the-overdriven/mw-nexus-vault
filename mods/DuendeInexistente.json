@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2025-05-19T23:24:11.818Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-08T00:08:32Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56147,
+        "name": "Bearable stake model for Ash Travel Tent",
+        "status": "published",
+        "summary": "Replaces the travel tent's stake model with one that won't make you cry",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56147/56147-1741392392-1693326866.png",
+        "uid": "429496785747",
+        "updatedAt": "2025-03-08T00:08:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-07T21:54:25Z",
+        "fileSize": 39,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56144,
+        "name": "Max' Glow (Enchanted glow retexture)",
+        "status": "published",
+        "summary": "Replaces the default magic item glow with a \"Lighting\" esque effect.It's not showy on thumbnails, so you'll jut have to test it.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56144/56144-1741384285-1172722646.png",
+        "uid": "429496785744",
+        "updatedAt": "2025-03-07T21:54:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-11-06T22:15:39Z",
+        "fileSize": 14320,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 55428,
+        "name": "Better Higher Resolution Icons",
+        "status": "published",
+        "summary": "Takes existing high resolution icon replacers, and inserts the original resolution files as mipmaps where appropriate.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55428/55428-1730931041-1822995277.png",
+        "uid": "429496785028",
+        "updatedAt": "2024-11-07T16:42:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-25T15:05:14Z",
+        "fileSize": 2837,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 52210,
+        "name": "Jangasa hats",
+        "status": "published",
+        "summary": "Aesthetically pleasing light, medium, and heavy jingasa hats",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52210/52210-1674600663-1257504641.png",
+        "uid": "429496781810",
+        "updatedAt": "2023-01-25T16:11:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-02-28T21:10:51Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 50830,
+        "name": "Disgusting chewing noises no more",
+        "status": "published",
+        "summary": "Tired of mods adding those disgusting chewing and swallowing and drinking sounds time and time again?Fear no more. Mute them for good.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50830/50830-1646082493-1371219235.png",
+        "uid": "429496780430",
+        "updatedAt": "2022-02-28T21:15:50Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}
