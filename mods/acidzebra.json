@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-19T23:24:03.635Z",
+  "checkedAt": "2025-05-21T20:59:13.710Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -84,7 +84,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-05-23T20:30:01Z",
-        "fileSize": 93152,
+        "fileSize": 384484,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -92,10 +92,19 @@
         "modId": 52931,
         "name": "Lush Synthesis",
         "status": "published",
-        "summary": "A modular remix of popular grass mods with some new plants and flowers for Ascadian Isles, Bitter Coast, Grazelands, West Gash, and all rivers/lakes/seas. BCOM/vanilla compatible + TR addon (22.11). Uses LawnMower™ technology: 99% less",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52931/52931-1684872794-2801863.jpeg",
+        "summary": "A modular remix of popular grass mods with some new plants and flowers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52931/52931-1747847592-429544553.jpeg",
         "uid": "429496782531",
-        "updatedAt": "2023-06-07T16:48:45Z"
+        "updatedAt": "2025-05-21T19:18:22Z",
+        "fileIds": [
+          "1000053351",
+          "1000038140",
+          "1000038062",
+          "1000038141",
+          "1000038419",
+          "1000038420",
+          "1000038326"
+        ]
       }
     ],
     "totalCount": 5

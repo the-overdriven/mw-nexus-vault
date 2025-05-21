@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-19T23:24:33.726Z",
+  "checkedAt": "2025-05-21T20:59:43.543Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -94,7 +94,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-04-28T19:42:29Z",
-        "fileSize": 5310,
+        "fileSize": 5230,
         "modCategory": {
           "categoryId": 2,
           "name": "Buildings"
@@ -105,9 +105,9 @@
         "summary": "Overhaul of Almalexia's High Chapel in Mournhold, a mod for #ALMSIVI23 challenge.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52737/52737-1682709110-1930928044.png",
         "uid": "429496782337",
-        "updatedAt": "2025-05-18T13:37:50Z",
+        "updatedAt": "2025-05-20T15:46:22Z",
         "fileIds": [
-          "1000053169"
+          "1000053271"
         ]
       },
       {

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-19T23:24:31.687Z",
+  "checkedAt": "2025-05-21T20:59:41.599Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -177,7 +177,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-02-13T19:50:30Z",
-        "fileSize": 780,
+        "fileSize": 748,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -188,7 +188,12 @@
         "summary": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54148/54148-1707850703-1609451237.png",
         "uid": "429496783748",
-        "updatedAt": "2025-04-27T21:56:35Z"
+        "updatedAt": "2025-05-20T18:45:37Z",
+        "fileIds": [
+          "1000053305",
+          "1000048440",
+          "1000052157"
+        ]
       },
       {
         "adultContent": false,
