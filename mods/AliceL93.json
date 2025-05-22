@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-05-21T20:59:15.270Z",
+  "checkedAt": "2025-05-22T21:12:08.777Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 133
+        "100": 134
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-21T22:40:26Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 56692,
+        "name": "Ash and Justice",
+        "status": "published",
+        "summary": "Solve another murder mystery in Vivec. Based very-very loosely on the novel, Crime and Punishment.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56692/56692-1747866940-565457973.png",
+        "uid": "429496786292",
+        "updatedAt": "2025-05-21T22:40:26Z",
+        "fileIds": [
+          "1000053358"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-09T18:52:11Z",
@@ -1276,24 +1295,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47589/47589-1633075656-612499516.png",
         "uid": "429496777189",
         "updatedAt": "2021-10-01T08:08:57Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-02-10T09:37:22Z",
-        "fileSize": 1,
-        "modCategory": {
-          "categoryId": 18,
-          "name": "Bug Fixes"
-        },
-        "modId": 47585,
-        "name": "Ajira Deflowered",
-        "status": "published",
-        "summary": "Modifies Ajira's inventory to be consistent with her quest, in which she asks you to acquire some flowers.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47585/47585-1686235893-385901981.jpeg",
-        "uid": "429496777185",
-        "updatedAt": "2021-10-03T18:44:55Z"
       }
     ],
-    "totalCount": 133
+    "totalCount": 134
   }
 }
