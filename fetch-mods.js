@@ -89,7 +89,7 @@ for (const uploaderName of modAuthors) {
       }
     `,
     variables: {
-      count: 150,
+      count: 80,
       facets: {
         gameId: ["100"]
       },
