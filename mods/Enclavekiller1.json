@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-05-23T17:00:58.302Z",
+  "checkedAt": "2025-06-02T17:57:54.828Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 21
+        "100": 22
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-26T06:35:47Z",
+        "fileSize": 186485,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 56742,
+        "name": "OAAB Odai Plateau",
+        "status": "published",
+        "summary": "Complete remake of House Hlaalu's Stronghold with new exterior/interiors, gameplay mechanics, and quests.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56742/56742-1748239330-1685183011.png",
+        "uid": "429496786342",
+        "updatedAt": "2025-06-02T17:50:28Z",
+        "fileIds": [
+          "1000053588",
+          "1000054010"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2022-08-07T13:32:43Z",
@@ -344,6 +364,6 @@
         "updatedAt": "2016-06-17T21:59:14Z"
       }
     ],
-    "totalCount": 21
+    "totalCount": 22
   }
 }

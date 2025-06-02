@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-05-23T17:00:50.592Z",
+  "checkedAt": "2025-06-02T17:57:30.962Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 134
+        "100": 135
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-28T12:52:09Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 56773,
+        "name": "The Scholar of Dagon Fel",
+        "status": "published",
+        "summary": "A disappearance of a scholar in Dagon Fel is implied by vanilla dialogue but never implemented as a quest. This mod remedies that.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56773/56773-1748436579-1688817907.png",
+        "uid": "429496786373",
+        "updatedAt": "2025-05-28T12:52:09Z",
+        "fileIds": [
+          "1000053712"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-21T22:40:26Z",
@@ -1279,24 +1298,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47598/47598-1632968516-1974764481.png",
         "uid": "429496777198",
         "updatedAt": "2021-09-30T02:22:59Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-02-11T14:22:21Z",
-        "fileSize": 2,
-        "modCategory": {
-          "categoryId": 13,
-          "name": "Quests and Adventures"
-        },
-        "modId": 47589,
-        "name": "Blight at the Hairat-Vassamsi Egg Mine",
-        "status": "published",
-        "summary": "Allows you to cure the kwama queen at the Hairat-Vassamsi Egg Mine.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47589/47589-1633075656-612499516.png",
-        "uid": "429496777189",
-        "updatedAt": "2021-10-01T08:08:57Z"
       }
     ],
-    "totalCount": 134
+    "totalCount": 135
   }
 }

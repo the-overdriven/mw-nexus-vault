@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-23T17:01:12.410Z",
+  "checkedAt": "2025-06-02T17:58:24.445Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -507,7 +507,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-01-22T20:25:46Z",
-        "fileSize": 10184,
+        "fileSize": 6963,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -518,7 +518,18 @@
         "summary": "Overhaul of the Wolverine Hall, turning it into a proper hall. Based on Stav's WHO",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52199/52199-1674507617-1803645867.png",
         "uid": "429496781799",
-        "updatedAt": "2024-08-11T17:56:07Z"
+        "updatedAt": "2025-06-02T17:16:05Z",
+        "fileIds": [
+          "1000054006",
+          "1000037900",
+          "1000039200",
+          "1000041010",
+          "1000041034",
+          "1000046712",
+          "1000043975",
+          "1000042983",
+          "1000042997"
+        ]
       },
       {
         "adultContent": false,

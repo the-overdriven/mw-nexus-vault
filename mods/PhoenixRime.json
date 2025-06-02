@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2025-05-23T17:01:11.255Z",
+  "checkedAt": "2025-06-02T17:58:21.976Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16
+        "100": 18
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-25T04:47:30Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 56726,
+        "name": "Daedric Helmet Armor Rating Fix",
+        "status": "published",
+        "summary": "This modification increases the armor rating of two Daedric helmets (Face of Terror and Face of Inspiration) to the armor rating of the entire set (AR 80), and also increases the durability of the latter by 50, following the price logic.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56726/56726-1748146752-1450254217.jpeg",
+        "uid": "429496786326",
+        "updatedAt": "2025-05-25T04:47:30Z",
+        "fileIds": [
+          "1000053518"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-25T03:40:40Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 56725,
+        "name": "Artefacts Nerfs And Tweaks",
+        "status": "published",
+        "summary": "This modification significantly weakens the game's artifacts with anti-magic properties. Now racial resistances and immunities play a greater role. Several enchantments have been changed to a constant effect.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56725/56725-1748144422-674136147.jpeg",
+        "uid": "429496786325",
+        "updatedAt": "2025-05-25T03:40:40Z",
+        "fileIds": [
+          "1000053515"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-06-02T23:56:10Z",
@@ -264,6 +302,6 @@
         "updatedAt": "2022-08-11T11:58:41Z"
       }
     ],
-    "totalCount": 16
+    "totalCount": 18
   }
 }

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-05-23T17:01:03.615Z",
+  "checkedAt": "2025-06-02T17:58:05.504Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6
+        "100": 7
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-31T12:27:28Z",
+        "fileSize": 92,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 56812,
+        "name": "Pet Shops of Vvardenfell",
+        "status": "published",
+        "summary": "This simple ESP mod adds 10 pet shops scattered across Vvardenfell, where you can purchase various lore-friendly creatures that can follow you, carry items, be fed by you, and be pet by you. Very light on scripting to ensure maximum",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56812/56812-1748690320-121823124.png",
+        "uid": "429496786412",
+        "updatedAt": "2025-05-31T12:27:28Z",
+        "fileIds": [
+          "1000053897"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-02-14T18:13:42Z",
@@ -104,6 +123,6 @@
         "updatedAt": "2024-09-25T08:46:16Z"
       }
     ],
-    "totalCount": 6
+    "totalCount": 7
   }
 }

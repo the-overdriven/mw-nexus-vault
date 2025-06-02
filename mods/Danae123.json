@@ -1,16 +1,54 @@
 {
-  "checkedAt": "2025-05-23T17:00:55.863Z",
+  "checkedAt": "2025-06-02T17:57:46.150Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 102
+        "100": 103
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2025-05-31T11:25:25Z",
+        "fileSize": 58,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56813,
+        "name": "Relic Hunter",
+        "status": "published",
+        "summary": "A new custom class—the Relic Hunter—comes with skills tailored to tomb exploration and artifact recovery. Over 90 ancestral tombs now feature unique urns that trigger guardian encounters for added immersion. Over 30 quests to retrieve",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56813/56813-1748689485-1611893744.png",
+        "uid": "429496786413",
+        "updatedAt": "2025-05-31T11:25:25Z",
+        "fileIds": [
+          "1000053895"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-25T22:21:31Z",
+        "fileSize": 8559,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 56738,
+        "name": "Seams and Schemes",
+        "status": "published",
+        "summary": "A quest mod set in Mournhold’s bustling Great Bazaar, where the noble rivalry of two demanding clients turns a simple errand into a web of high society schemes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56738/56738-1748210974-343508699.png",
+        "uid": "429496786338",
+        "updatedAt": "2025-05-25T22:21:31Z",
+        "fileIds": [
+          "1000053566"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-05-19T05:47:12Z",
-        "fileSize": 8516,
+        "fileSize": 8517,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -21,10 +59,11 @@
         "summary": "What The Heart Kneads introduces a nuanced romance, centered around Tarys, a Dunmer Flourwright who runs Suran’s Amberloaf Bakery. Through meaningful interactions, mini-quests, and a faction-based relationship system, players can build a",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56661/56661-1747633387-1434390983.png",
         "uid": "429496786261",
-        "updatedAt": "2025-05-19T09:14:10Z",
+        "updatedAt": "2025-05-28T12:49:30Z",
         "fileIds": [
-          "1000053215",
-          "1000053210"
+          "1000053711",
+          "1000053210",
+          "1000053215"
         ]
       },
       {
@@ -45,26 +84,6 @@
         "fileIds": [
           "1000052818",
           "1000052758"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-04T07:41:22Z",
-        "fileSize": 34,
-        "modCategory": {
-          "categoryId": 7,
-          "name": "Items, Objects, and Clothes"
-        },
-        "modId": 56484,
-        "name": "Waresified Urns",
-        "status": "published",
-        "summary": "Warsified Urns expands the loot found in tomb urns. By utilizing the Wares levelled lists, this mod offers a wider variety of items, tailored to your modlist.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56484/56484-1746343974-351154752.png",
-        "uid": "429496786084",
-        "updatedAt": "2025-05-12T10:54:36Z",
-        "fileIds": [
-          "1000052804",
-          "1000052436"
         ]
       },
       {
@@ -1210,7 +1229,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-01-27T11:17:31Z",
-        "fileSize": 8898,
+        "fileSize": 8891,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -1221,9 +1240,9 @@
         "summary": "Adds friendly and less friendly npcs to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49251/49251-1611745683-1304399740.png",
         "uid": "429496778851",
-        "updatedAt": "2025-05-14T11:56:13Z",
+        "updatedAt": "2025-05-28T12:10:19Z",
         "fileIds": [
-          "1000052904",
+          "1000053709",
           "1000025357",
           "1000025090",
           "1000025356",
@@ -1576,24 +1595,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47272/47272-1572553789-863879182.png",
         "uid": "429496776872",
         "updatedAt": "2024-11-25T18:19:41Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2019-10-14T10:54:07Z",
-        "fileSize": 5361,
-        "modCategory": {
-          "categoryId": 3,
-          "name": "Dungeons and Locations"
-        },
-        "modId": 47219,
-        "name": "Shal Overgrown",
-        "status": "published",
-        "summary": "Travel to Shal and discover its secrets: the once small cave is now overgrown and even reaches into the nearby Daedric ruin Ashurnibibi.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47219/47219-1571050414-583284209.jpeg",
-        "uid": "429496776819",
-        "updatedAt": "2020-03-21T10:41:09Z"
       }
     ],
-    "totalCount": 102
+    "totalCount": 103
   }
 }

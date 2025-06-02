@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-05-23T17:01:19.681Z",
+  "checkedAt": "2025-06-02T17:58:48.488Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 41
+        "100": 42
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-29T23:08:29Z",
+        "fileSize": 54379,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56571,
+        "name": "Starwind - Guns and Gear",
+        "status": "published",
+        "summary": "Replaces Starwind armor and weapons with new assets.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56571/56571-1746980101-1646817129.png",
+        "uid": "429496786171",
+        "updatedAt": "2025-05-29T23:08:29Z",
+        "fileIds": [
+          "1000053793"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-04-22T03:57:06Z",
@@ -77,7 +96,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-07T15:36:30Z",
-        "fileSize": 410156,
+        "fileSize": 178938,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -88,8 +107,9 @@
         "summary": "Dynamic Music Replacer! Also replaces more vanilla Morrowind sounds with more appropriate sounds for Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55934/55934-1738942540-257070418.png",
         "uid": "429496785534",
-        "updatedAt": "2025-02-19T18:38:04Z",
+        "updatedAt": "2025-05-28T09:09:54Z",
         "fileIds": [
+          "1000053705",
           "1000050524",
           "1000050140"
         ]
@@ -763,6 +783,6 @@
         "updatedAt": "2020-04-11T11:26:10Z"
       }
     ],
-    "totalCount": 41
+    "totalCount": 42
   }
 }

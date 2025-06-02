@@ -1,12 +1,88 @@
 {
-  "checkedAt": "2025-05-23T17:01:18.303Z",
+  "checkedAt": "2025-06-02T17:58:40.621Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17
+        "100": 21
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-30T14:13:00Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 56804,
+        "name": "Interesting Outfits - Project Cyrodiil Guards",
+        "status": "published",
+        "summary": "Replaces the generic guards found in Project: Cyrodiil with randomized variants. There are four male variants and two female variants for Anvil and Sutch Guards. Imperial Navy guards are called \"Imperial Marines\" and have even more variety",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56804/56804-1748614206-1352037777.jpeg",
+        "uid": "429496786404",
+        "updatedAt": "2025-05-30T14:13:00Z",
+        "fileIds": [
+          "1000053841"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-30T11:50:18Z",
+        "fileSize": 61,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 56803,
+        "name": "Interesting Outfits - SHOTN Guards",
+        "status": "published",
+        "summary": "Replaces the generic guards found in SHOTN with new randomised variants. There are 5 guard groupings, each representing the power players in the Reach.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56803/56803-1748605520-443835138.png",
+        "uid": "429496786403",
+        "updatedAt": "2025-05-30T11:50:18Z",
+        "fileIds": [
+          "1000053840"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-29T14:42:58Z",
+        "fileSize": 865,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56789,
+        "name": "Adamantium Weapon Adjustments",
+        "status": "published",
+        "summary": "Increases the Gold Value of Adamantium weapons to make more sense alongside Glass and Ebony.They also now count as Silver Weapons, gaining the same magical 'purity' associated with silver. In game terms, they harm ghosts and are extra",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56789/56789-1748529512-696073613.jpeg",
+        "uid": "429496786389",
+        "updatedAt": "2025-05-29T14:42:58Z",
+        "fileIds": [
+          "1000053774"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-29T13:41:27Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56788,
+        "name": "TR Newspapers on Vvardenfell",
+        "status": "published",
+        "summary": "Places spawns of the Canyon Echo and Ebonheart Bellman in appropriate places on Vvardenfell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56788/56788-1748530837-2045343954.png",
+        "uid": "429496786388",
+        "updatedAt": "2025-05-29T13:41:27Z",
+        "fileIds": [
+          "1000053772"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-03-08T14:51:26Z",
@@ -86,20 +162,20 @@
       {
         "adultContent": false,
         "createdAt": "2025-01-14T13:44:45Z",
-        "fileSize": 501,
+        "fileSize": 525,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
         },
         "modId": 55776,
-        "name": "Interesting Outfits - TR Imperial Guards",
+        "name": "Interesting Outfits - Tamriel Rebuilt Guards",
         "status": "published",
         "summary": "Replaces generic Imperial Guards with levelled variants in the same vein as IO - Imperials and IO - Solstheim.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55776/55776-1736861564-981444249.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55776/55776-1748618284-382006368.png",
         "uid": "429496785376",
-        "updatedAt": "2025-05-01T19:29:41Z",
+        "updatedAt": "2025-06-02T08:35:28Z",
         "fileIds": [
-          "1000052307"
+          "1000053996"
         ]
       },
       {
@@ -181,7 +257,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-10-23T19:46:17Z",
-        "fileSize": 1743,
+        "fileSize": 4084,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -192,10 +268,10 @@
         "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Elucidace, and others to various Imperial-aligned npcs to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53651/53651-1734260584-832745766.png",
         "uid": "429496783251",
-        "updatedAt": "2025-05-12T09:22:15Z",
+        "updatedAt": "2025-05-29T07:55:13Z",
         "fileIds": [
-          "1000052801",
-          "1000052802",
+          "1000053748",
+          "1000053756",
           "1000041621"
         ]
       },
@@ -213,9 +289,9 @@
         "summary": "Overhauls the appearances of Bloodmoon npcs, incorporating faces and assets from Tamriel_Data. Also includes elucidace's excellent Imperial Burgonet helm on a select few npcs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53124/53124-1711696215-1541142680.png",
         "uid": "429496782724",
-        "updatedAt": "2025-04-10T04:58:46Z",
+        "updatedAt": "2025-05-29T07:20:41Z",
         "fileIds": [
-          "1000051835",
+          "1000053754",
           "1000048983"
         ]
       },
@@ -243,7 +319,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-03-31T14:45:17Z",
-        "fileSize": 7,
+        "fileSize": 11,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -254,12 +330,15 @@
         "summary": "Adds randomised Redoran Watchmen to Vvardenfell. You'll find at least one guarding every Redoran settlement, as well as the road leading to Ghostgate.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52585/52585-1680273460-2048452847.png",
         "uid": "429496782185",
-        "updatedAt": "2023-10-27T12:42:41Z"
+        "updatedAt": "2025-05-28T13:56:30Z",
+        "fileIds": [
+          "1000053714"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2023-01-14T14:46:31Z",
-        "fileSize": 11841,
+        "fileSize": 11865,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -270,10 +349,10 @@
         "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Kellborn, RealAshtaar, and others to various Great House and miscellaneous npcs to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52167/52167-1742639887-1993541451.png",
         "uid": "429496781767",
-        "updatedAt": "2025-05-03T07:43:51Z",
+        "updatedAt": "2025-06-02T08:30:08Z",
         "fileIds": [
-          "1000052312",
-          "1000052389",
+          "1000053995",
+          "1000053753",
           "1000040722",
           "1000045586",
           "1000039737",
@@ -300,7 +379,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-10-27T20:54:45Z",
-        "fileSize": 3151,
+        "fileSize": 3150,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -311,8 +390,9 @@
         "summary": "Adds weapons and armour from Tamriel_Data, OAAB_Data and Danke's Armors to Daedric Cultists to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51922/51922-1673631978-1979698301.png",
         "uid": "429496781522",
-        "updatedAt": "2025-05-01T20:32:43Z",
+        "updatedAt": "2025-05-29T07:30:13Z",
         "fileIds": [
+          "1000053755",
           "1000052315"
         ]
       },
@@ -337,6 +417,6 @@
         ]
       }
     ],
-    "totalCount": 17
+    "totalCount": 21
   }
 }

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-05-23T17:00:53.854Z",
+  "checkedAt": "2025-06-02T17:57:43.030Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 21
+        "100": 22
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-29T22:02:03Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 56787,
+        "name": "Boethiah's Quest Starter",
+        "status": "published",
+        "summary": "Adds an alternative, lore-friendly way to start Boethiah's quest.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56787/56787-1748516375-1730567546.jpeg",
+        "uid": "429496786387",
+        "updatedAt": "2025-05-29T22:02:03Z",
+        "fileIds": [
+          "1000053759"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-04-22T06:51:50Z",
@@ -388,6 +407,6 @@
         ]
       }
     ],
-    "totalCount": 21
+    "totalCount": 22
   }
 }

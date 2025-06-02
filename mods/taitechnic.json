@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-23T17:01:16.645Z",
+  "checkedAt": "2025-06-02T17:58:38.761Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,12 @@
         "summary": "NEW: Support for rings from Unique Jewelry Redone by Remiros. Wear glasses and goggles while keeping your hair on! See your equipped rings as visible objects on your fingers.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55623/55623-1734821813-870652709.png",
         "uid": "429496785223",
-        "updatedAt": "2025-03-22T16:30:25Z"
+        "updatedAt": "2025-05-23T21:37:13Z",
+        "fileIds": [
+          "1000053450",
+          "1000051052",
+          "1000051425"
+        ]
       },
       {
         "adultContent": false,

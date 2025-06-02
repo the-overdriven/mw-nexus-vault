@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-05-23T17:00:59.242Z",
+  "checkedAt": "2025-06-02T17:57:56.494Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48,
+        "100": 50,
         "101": 3,
         "775": 1
       }
@@ -11,8 +11,46 @@
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2025-06-01T22:13:47Z",
+        "fileSize": 13986,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56830,
+        "name": "Of Pacts and Patrons -- A Religion Mod",
+        "status": "published",
+        "summary": "Adds religion mechanics to the game, to better roleplay religious characters.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56830/56830-1748814861-1661402987.png",
+        "uid": "429496786430",
+        "updatedAt": "2025-06-02T17:16:19Z",
+        "fileIds": [
+          "1000054007"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-01T11:46:33Z",
+        "fileSize": 69,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 56826,
+        "name": "Arcane Archetypes -- Subclasses for Spellcasters",
+        "status": "published",
+        "summary": "Adds 4 new subclasses/specializations for spellcasters.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56826/56826-1748774667-1881692956.jpeg",
+        "uid": "429496786426",
+        "updatedAt": "2025-06-01T11:46:33Z",
+        "fileIds": [
+          "1000053945"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-05-15T23:05:53Z",
-        "fileSize": 11245,
+        "fileSize": 27580,
         "modCategory": {
           "categoryId": 23,
           "name": "Companions"
@@ -23,13 +61,15 @@
         "summary": "A grumpy, arrogant, talkative, low-ranking mage whose questline sends you Dreamwalking through the nightmares of others.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55505/55505-1747443210-235200018.png",
         "uid": "429496785105",
-        "updatedAt": "2025-05-18T08:34:20Z",
+        "updatedAt": "2025-05-25T12:38:34Z",
         "fileIds": [
-          "1000053160",
+          "1000053533",
           "1000053043",
+          "1000053493",
           "1000052987",
           "1000053029",
-          "1000053081"
+          "1000053081",
+          "1000053516"
         ]
       },
       {
@@ -799,6 +839,6 @@
         "updatedAt": "2019-06-17T02:03:35Z"
       }
     ],
-    "totalCount": 48
+    "totalCount": 50
   }
 }

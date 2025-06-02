@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-23T17:01:06.190Z",
+  "checkedAt": "2025-06-02T17:58:12.053Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -63,27 +63,34 @@
         "summary": "A deranged mod that implements a somewhat simple and naive physics engine in pure lua and exposes a rich interface for developers. Drag and throw items around, get messed for messing with someone's property.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56589/56589-1747143961-337009405.png",
         "uid": "429496786189",
-        "updatedAt": "2025-05-13T13:50:50Z"
+        "updatedAt": "2025-05-25T17:04:38Z",
+        "fileIds": [
+          "1000053548",
+          "1000052861",
+          "1000053485"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-05-12T21:57:11Z",
-        "fileSize": 901,
+        "fileSize": 902,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
         },
         "modId": 56584,
-        "name": "Dynamic Reticle -- OpenMW",
+        "name": "Dynamic Reticle and subtle enemy health bar -- OpenMW",
         "status": "published",
-        "summary": "-- aka Réticule --Animated customizable reticle with a neat enemy HP widget, hit marker visuals and sounds.",
+        "summary": "-- aka Réticule --Animated customizable reticle with a neat enemy HP widget, hit marker visuals and sounds, occasional slow-mo on kill. Everything is adjustable in mod settings.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1747086913-1245125704.png",
         "uid": "429496786184",
-        "updatedAt": "2025-05-17T12:44:39Z",
+        "updatedAt": "2025-05-26T14:37:34Z",
         "fileIds": [
-          "1000053112",
+          "1000053611",
           "1000052835",
-          "1000052838"
+          "1000052838",
+          "1000053112",
+          "1000053486"
         ]
       },
       {

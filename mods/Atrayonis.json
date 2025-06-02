@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-05-23T17:00:52.585Z",
+  "checkedAt": "2025-06-02T17:57:41.026Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -122,7 +122,7 @@
       {
         "adultContent": false,
         "createdAt": "2017-04-06T18:22:44Z",
-        "fileSize": 778,
+        "fileSize": 781,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -133,7 +133,14 @@
         "summary": "Updated Better Robes TR patch to work with Tamriel_Data.",
         "thumbnailUrl": null,
         "uid": "429496774475",
-        "updatedAt": "2024-12-25T17:06:49Z"
+        "updatedAt": "2025-05-29T21:29:55Z",
+        "fileIds": [
+          "1000053789",
+          "1000046429",
+          "1000049039",
+          "1000015821",
+          "1000007664"
+        ]
       },
       {
         "adultContent": false,

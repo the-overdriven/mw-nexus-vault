@@ -1,14 +1,34 @@
 {
-  "checkedAt": "2025-05-23T17:01:21.176Z",
+  "checkedAt": "2025-06-02T17:58:51.228Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 25,
+        "100": 26,
         "110": 2,
         "1151": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-28T22:59:25Z",
+        "fileSize": 12663,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 56782,
+        "name": "Pleasure Island",
+        "status": "published",
+        "summary": "A world of forbidden desires and debauchery awaits.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56782/56782-1748471608-1641916031.png",
+        "uid": "429496786382",
+        "updatedAt": "2025-05-28T22:59:25Z",
+        "fileIds": [
+          "1000053731",
+          "1000053732"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-19T19:33:07Z",
@@ -267,7 +287,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-01-05T21:51:57Z",
-        "fileSize": 9207,
+        "fileSize": 5831,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -278,7 +298,12 @@
         "summary": "A new mineral collector in Ald Rhun is looking for adventurers.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53940/53940-1704490632-2066561134.png",
         "uid": "429496783540",
-        "updatedAt": "2024-01-10T02:07:11Z"
+        "updatedAt": "2025-05-30T19:02:52Z",
+        "fileIds": [
+          "1000053862",
+          "1000053863",
+          "1000041883"
+        ]
       },
       {
         "adultContent": false,
@@ -319,7 +344,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-29T18:12:15Z",
-        "fileSize": 435441,
+        "fileSize": 435787,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -330,9 +355,9 @@
         "summary": "Fixes some incompatibilities with between mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53570/53570-1696010591-156056443.png",
         "uid": "429496783170",
-        "updatedAt": "2025-05-14T20:25:50Z",
+        "updatedAt": "2025-05-28T23:32:35Z",
         "fileIds": [
-          "1000052930",
+          "1000053735",
           "1000048342",
           "1000050502"
         ]
@@ -454,6 +479,6 @@
         "updatedAt": "2023-02-17T01:17:46Z"
       }
     ],
-    "totalCount": 25
+    "totalCount": 26
   }
 }

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-05-23T17:01:03.484Z",
+  "checkedAt": "2025-06-02T17:58:03.411Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24,
+        "100": 26,
         "130": 2,
         "6332": 3
       }
@@ -11,8 +11,46 @@
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2025-06-01T23:19:19Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 56504,
+        "name": "Beta - Mages Guild Catch a Spy - Double Agent Edition",
+        "status": "published",
+        "summary": "Expands on the Mages Guild quest, Catch a Spy, allowing for the player to join House Telvanni via the questchain.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56504/56504-1748819945-512617022.png",
+        "uid": "429496786104",
+        "updatedAt": "2025-06-01T23:19:19Z",
+        "fileIds": [
+          "1000053985"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-23T20:44:25Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56706,
+        "name": "Thrall No More - Free Vampire Cattle",
+        "status": "published",
+        "summary": "Grants the player the ability to free the many vampiric cattle you encounter throughout your travels on Vvardenfell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56706/56706-1748032973-760027256.png",
+        "uid": "429496786306",
+        "updatedAt": "2025-05-23T20:44:25Z",
+        "fileIds": [
+          "1000053445"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-05-15T23:50:24Z",
-        "fileSize": 1079,
+        "fileSize": 6131,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -23,12 +61,13 @@
         "summary": "Experience the main quest's Disturbing Dreams like never before! This mod converts the four textbox nightmares sent to the player by Dagoth Ur into fully voiced playable sequences.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55705/55705-1747352890-791004299.png",
         "uid": "429496785305",
-        "updatedAt": "2025-05-21T21:21:46Z",
+        "updatedAt": "2025-05-29T23:02:05Z",
         "fileIds": [
-          "1000053355",
+          "1000053794",
           "1000053022",
           "1000053026",
           "1000053083",
+          "1000053355",
           "1000053137",
           "1000053139",
           "1000053246"
@@ -495,6 +534,6 @@
         ]
       }
     ],
-    "totalCount": 24
+    "totalCount": 26
   }
 }

@@ -1,15 +1,34 @@
 {
-  "checkedAt": "2025-05-23T17:00:49.989Z",
+  "checkedAt": "2025-06-02T17:57:27.401Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 74,
+        "100": 75,
         "110": 2,
         "1704": 2,
         "2176": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-28T12:49:19Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56772,
+        "name": "Slo Mo",
+        "status": "published",
+        "summary": "Enter Slow Motion mode on selected animation events (Kill / Knock / Hit) or Mouse Wheel Combo",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56772/56772-1748435862-1783133646.jpeg",
+        "uid": "429496786372",
+        "updatedAt": "2025-05-28T12:49:19Z",
+        "fileIds": [
+          "1000053710"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-01T15:18:52Z",
@@ -24,8 +43,9 @@
         "summary": "The mod you didn't know you needed ;-)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56458/56458-1746110755-110994367.png",
         "uid": "429496786058",
-        "updatedAt": "2025-05-01T15:18:52Z",
+        "updatedAt": "2025-05-25T21:39:53Z",
         "fileIds": [
+          "1000053562",
           "1000052292"
         ]
       },
@@ -64,7 +84,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-09-22T09:02:18Z",
-        "fileSize": 4,
+        "fileSize": 5,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -75,13 +95,14 @@
         "summary": "Change Player Point Of View/Zoom by scrolling mouse wheel.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55243/55243-1726995664-2014571906.png",
         "uid": "429496784843",
-        "updatedAt": "2025-03-02T21:32:37Z",
+        "updatedAt": "2025-05-26T16:09:06Z",
         "fileIds": [
-          "1000050877",
+          "1000053614",
           "1000047695",
           "1000048982",
           "1000048985",
           "1000047480",
+          "1000050877",
           "1000047301",
           "1000047329"
         ]
@@ -1435,6 +1456,6 @@
         "updatedAt": "2019-12-28T10:18:12Z"
       }
     ],
-    "totalCount": 74
+    "totalCount": 75
   }
 }

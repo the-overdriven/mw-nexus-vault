@@ -1,12 +1,204 @@
 {
-  "checkedAt": "2025-05-23T17:00:52.429Z",
+  "checkedAt": "2025-06-02T17:57:33.705Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 38
+        "100": 48
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-31T21:32:56Z",
+        "fileSize": 635,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56817,
+        "name": "Mace of Molag Bal Replacer",
+        "status": "published",
+        "summary": "Replaces Mace of Molag Bal with HQ model and HQ texture (1024 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56817/56817-1748727066-1210753066.jpeg",
+        "uid": "429496786417",
+        "updatedAt": "2025-05-31T21:32:56Z",
+        "fileIds": [
+          "1000053918"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-31T10:53:51Z",
+        "fileSize": 12702,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 56811,
+        "name": "Balanced Rings Replacer",
+        "status": "published",
+        "summary": "Replaces artifact rings of: Denstagmer, Phynaster, Mentor, Warlock, Wind, Khajiit, Surrounding, Vampiric - with HQ models and HQ textures (1048 px), adds glowing elements. Changes enchantings to more balanced, logical and lore friendly.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56811/56811-1748688700-163075534.jpeg",
+        "uid": "429496786411",
+        "updatedAt": "2025-05-31T11:08:24Z",
+        "fileIds": [
+          "1000053893"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-30T09:23:32Z",
+        "fileSize": 2142,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 56802,
+        "name": "Boots of Apostle Replacer",
+        "status": "published",
+        "summary": "Replaces Boots of Apostle with HQ model and HQ texture (2048 px).  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56802/56802-1748702738-1214549785.jpeg",
+        "uid": "429496786402",
+        "updatedAt": "2025-05-31T14:45:19Z",
+        "fileIds": [
+          "1000053903"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-27T15:13:41Z",
+        "fileSize": 1157,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 56761,
+        "name": "Ten Pace Boots Replacer Fix",
+        "status": "published",
+        "summary": "Replaces Ten Pace Boots with HQ model and HQ texture (2048 px) and fixes them.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56761/56761-1748358688-1608332012.jpeg",
+        "uid": "429496786361",
+        "updatedAt": "2025-05-30T08:48:03Z",
+        "fileIds": [
+          "1000053832"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-27T08:19:03Z",
+        "fileSize": 607,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56756,
+        "name": "Skullcrusher Replacer",
+        "status": "published",
+        "summary": "Replaces Skullcrusher warhammer with HQ model and HQ texture (1024 px) and adds glowing details.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56756/56756-1748333839-723313709.jpeg",
+        "uid": "429496786356",
+        "updatedAt": "2025-05-27T08:19:03Z",
+        "fileIds": [
+          "1000053651"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-26T13:53:30Z",
+        "fileSize": 11067,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56748,
+        "name": "Bipolar Blade Replacer",
+        "status": "published",
+        "summary": "Replaces Bipolar claymore with HQ model and HQ textures (2048 px), adds glowing gems and adds animated magical particles. Particles are flying in the air after Bipolar blade changes its position. All you need is to place conteining files to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56748/56748-1748268180-996823875.jpeg",
+        "uid": "429496786348",
+        "updatedAt": "2025-05-26T13:53:30Z",
+        "fileIds": [
+          "1000053609"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-25T20:59:19Z",
+        "fileSize": 1707,
+        "modCategory": {
+          "categoryId": 37,
+          "name": "Armour - Shields"
+        },
+        "modId": 56737,
+        "name": "Eleidon's Ward Replacer",
+        "status": "published",
+        "summary": "Replaces Eleidon's Ward towershield  with HQ models and HQ textures (1024 px) and adds glowing details.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56737/56737-1748206614-1965013594.jpeg",
+        "uid": "429496786337",
+        "updatedAt": "2025-05-25T20:59:19Z",
+        "fileIds": [
+          "1000053557"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-25T10:18:18Z",
+        "fileSize": 14750,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 56732,
+        "name": "Trueflame and Hopesfire Patch Replacer",
+        "status": "published",
+        "summary": "This patch replaces Trueflame and Hopesfire with HQ models and HQ textures (1024 px), adds animated particles. Also affects parts of Nerevar's blade. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56732/56732-1748168038-272749207.jpeg",
+        "uid": "429496786332",
+        "updatedAt": "2025-05-25T10:18:18Z",
+        "fileIds": [
+          "1000053521"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-24T21:52:40Z",
+        "fileSize": 13516,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56721,
+        "name": "Auriel's artifacts - Replacer",
+        "status": "published",
+        "summary": "Replaces Auriel's shield and bow with HQ models and HQ textures (2048 px), adds animated glow for a shield.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56721/56721-1748123681-1527243978.jpeg",
+        "uid": "429496786321",
+        "updatedAt": "2025-05-31T11:49:42Z",
+        "fileIds": [
+          "1000053898",
+          "1000053697",
+          "1000053491"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-24T18:54:08Z",
+        "fileSize": 21788,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 56719,
+        "name": "Ebony Reforge",
+        "status": "published",
+        "summary": "This mod replaces ebony armour, weapons, ore, ingredient and adds a cool playable Dunmer male face and hairstyle (compatible with Articus BN Faces).All you need is to place conteining files to your Morrowind/Data directory.Enjoy the game",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56719/56719-1748120662-380423004.jpeg",
+        "uid": "429496786319",
+        "updatedAt": "2025-05-27T20:31:21Z",
+        "fileIds": [
+          "1000053670"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-07T09:17:04Z",
@@ -699,6 +891,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 38
+    "totalCount": 48
   }
 }

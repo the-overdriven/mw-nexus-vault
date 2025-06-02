@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-05-23T17:01:15.648Z",
+  "checkedAt": "2025-06-02T17:58:37.098Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34
+        "100": 35
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-01T07:06:55Z",
+        "fileSize": 33,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 56823,
+        "name": "Fort Moonmoth",
+        "status": "published",
+        "summary": "Fort Moonmoth inspired by Dominik Zdenkovic's drawing",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56823/56823-1748761227-164023268.png",
+        "uid": "429496786423",
+        "updatedAt": "2025-06-01T07:06:55Z",
+        "fileIds": [
+          "1000053936"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-23T09:12:52Z",
@@ -93,7 +112,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-25T16:07:33Z",
-        "fileSize": 9079,
+        "fileSize": 9865,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -104,7 +123,10 @@
         "summary": "Explore the lands of Morrowind on a Donkey.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56409/56409-1745596953-711752349.png",
         "uid": "429496786009",
-        "updatedAt": "2025-05-04T20:36:27Z"
+        "updatedAt": "2025-05-23T21:31:11Z",
+        "fileIds": [
+          "1000053449"
+        ]
       },
       {
         "adultContent": false,
@@ -555,6 +577,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 34
+    "totalCount": 35
   }
 }
