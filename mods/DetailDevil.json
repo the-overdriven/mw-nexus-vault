@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-02T17:57:50.106Z",
+  "checkedAt": "2025-06-05T17:58:52.236Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -57,7 +57,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-01-26T19:10:00Z",
-        "fileSize": 328,
+        "fileSize": 327,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -68,8 +68,9 @@
         "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects followed by crippling skooma addiction.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55869/55869-1737917674-22943108.png",
         "uid": "429496785469",
-        "updatedAt": "2025-05-30T23:55:32Z",
+        "updatedAt": "2025-06-04T18:25:10Z",
         "fileIds": [
+          "1000054103",
           "1000053868",
           "1000049978"
         ]

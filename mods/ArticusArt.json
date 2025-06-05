@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2025-06-02T17:57:33.705Z",
+  "checkedAt": "2025-06-05T17:58:45.162Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48
+        "100": 50
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-04T12:21:46Z",
+        "fileSize": 3571,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 56859,
+        "name": "Cuirass of the Savior's Hide Replacer",
+        "status": "published",
+        "summary": "Replaces Cuirass of the Savior's Hide HQ model and HQ textures (2048 px), also adds a fur cloak in the back and female version. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56859/56859-1749041061-1559870402.jpeg",
+        "uid": "429496786459",
+        "updatedAt": "2025-06-04T12:47:58Z",
+        "fileIds": [
+          "1000054096"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-03T15:27:18Z",
+        "fileSize": 1401,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 56850,
+        "name": "Masque of Clavicus Vile Replacer",
+        "status": "published",
+        "summary": "Replaces Masque of Clavicus Vile with HQ model and HQ textures (1024 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56850/56850-1748964276-1762431680.jpeg",
+        "uid": "429496786450",
+        "updatedAt": "2025-06-03T15:27:18Z",
+        "fileIds": [
+          "1000054039"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-31T21:32:56Z",
@@ -891,6 +929,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 48
+    "totalCount": 50
   }
 }

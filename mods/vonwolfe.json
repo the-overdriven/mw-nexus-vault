@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-02T17:58:48.488Z",
+  "checkedAt": "2025-06-05T17:59:19.367Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-29T23:08:29Z",
-        "fileSize": 54379,
+        "fileSize": 54479,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -21,15 +21,16 @@
         "summary": "Replaces Starwind armor and weapons with new assets.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56571/56571-1746980101-1646817129.png",
         "uid": "429496786171",
-        "updatedAt": "2025-05-29T23:08:29Z",
+        "updatedAt": "2025-06-04T10:17:21Z",
         "fileIds": [
+          "1000054076",
           "1000053793"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-04-22T03:57:06Z",
-        "fileSize": 240477,
+        "fileSize": 253581,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -40,11 +41,12 @@
         "summary": "A complete overhaul of Starwinds weird and wonderful aliens.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56358/56358-1744880847-11731011.png",
         "uid": "429496785958",
-        "updatedAt": "2025-05-02T17:53:02Z",
+        "updatedAt": "2025-06-02T20:19:05Z",
         "fileIds": [
-          "1000052369",
+          "1000054013",
           "1000052056",
           "1000052086",
+          "1000052369",
           "1000052120"
         ]
       },
