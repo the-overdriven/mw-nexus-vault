@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-05T17:58:51.212Z",
+  "checkedAt": "2025-06-06T16:50:50.819Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -201,7 +201,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-07-17T01:47:15Z",
-        "fileSize": 6953,
+        "fileSize": 7964,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -212,15 +212,16 @@
         "summary": "While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51615/51615-1687541032-734153709.png",
         "uid": "429496781215",
-        "updatedAt": "2025-02-22T12:22:48Z",
+        "updatedAt": "2025-06-05T21:11:29Z",
         "fileIds": [
-          "1000050625",
+          "1000054138",
           "1000044047",
           "1000043322",
           "1000048711",
           "1000041295",
           "1000048720",
           "1000042347",
+          "1000050625",
           "1000040906",
           "1000047604"
         ]

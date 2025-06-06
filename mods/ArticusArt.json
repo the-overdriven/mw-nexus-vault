@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-06-05T17:58:45.162Z",
+  "checkedAt": "2025-06-06T16:50:47.820Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 50
+        "100": 51
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-06T15:07:56Z",
+        "fileSize": 16013,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 56875,
+        "name": "Dragonbone Replacer",
+        "status": "published",
+        "summary": "This combination allows to replace Dragonbone assets with HQ models and textures. I couldn't think of anything better than using the SaintBahamut's port to replace the Dragonbone Armor. So now we have a full Dragonbone Replacer with",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56875/56875-1749225373-898227966.jpeg",
+        "uid": "429496786475",
+        "updatedAt": "2025-06-06T16:22:57Z",
+        "fileIds": [
+          "1000054169"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-04T12:21:46Z",
@@ -929,6 +948,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 50
+    "totalCount": 51
   }
 }

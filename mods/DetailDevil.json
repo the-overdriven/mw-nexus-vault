@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-05T17:58:52.236Z",
+  "checkedAt": "2025-06-06T16:50:51.736Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -293,7 +293,13 @@
         "summary": "A new spell has been created that immediately puts opponents to sleep. A spell that is becoming quickly popular among thieves and mischief-makers. Get your hands on one now at Dirty Muriel's Cornerclub in Sadrith Mora before the Imperials",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54798/54798-1717602392-33099400.png",
         "uid": "429496784398",
-        "updatedAt": "2024-07-27T23:20:21Z"
+        "updatedAt": "2025-06-05T21:09:52Z",
+        "fileIds": [
+          "1000054137",
+          "1000046432",
+          "1000045440",
+          "1000046477"
+        ]
       },
       {
         "adultContent": false,

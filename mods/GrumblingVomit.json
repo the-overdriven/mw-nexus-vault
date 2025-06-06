@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-06-05T17:58:55.937Z",
+  "checkedAt": "2025-06-06T16:50:54.717Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 49,
+        "100": 50,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-06T00:09:58Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56869,
+        "name": "Cat-Catchers",
+        "status": "published",
+        "summary": "Beast-races beware! Dunmer Cat-Catchers will pursue you around Morrowind for bounties of 100 gold or more. Deal with the Camonna Tong to halt their attacks.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56869/56869-1749168446-1503297210.jpeg",
+        "uid": "429496786469",
+        "updatedAt": "2025-06-06T00:09:58Z",
+        "fileIds": [
+          "1000054140"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-01T20:55:19Z",
@@ -872,6 +891,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 49
+    "totalCount": 50
   }
 }
