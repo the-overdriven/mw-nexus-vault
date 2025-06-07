@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-06T16:51:10.653Z",
+  "checkedAt": "2025-06-07T11:50:25.764Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -95,7 +95,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-06-02T21:55:16Z",
-        "fileSize": 524,
+        "fileSize": 690,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -106,12 +106,11 @@
         "summary": "UPDATE: Background blur and widescreen camera effects during dialogue. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC's. Customize player Idle animation, or use playlist function to animate player in any",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54782/54782-1717364168-367310833.png",
         "uid": "429496784382",
-        "updatedAt": "2025-05-17T20:40:59Z",
+        "updatedAt": "2025-06-07T08:44:59Z",
         "fileIds": [
-          "1000053133",
+          "1000054201",
           "1000051374",
-          "1000053088",
-          "1000051585",
+          "1000053133",
           "1000046489"
         ]
       },
