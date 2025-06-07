@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2025-06-02T17:58:40.478Z",
+  "checkedAt": "2025-06-07T12:02:28.300Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 53,
-        "120": 2
+        "100": 57,
+        "120": 3
       }
     },
     "nodes": [
@@ -826,6 +826,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2016-03-28T08:37:11Z",
+        "fileSize": 1434,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 44213,
+        "name": "Binyaar Companion Mod",
+        "status": "published",
+        "summary": "Play Morrowind with a new lore-friendly Argonian companion!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44213-0-1459153935.png",
+        "uid": "429496773813",
+        "updatedAt": "2016-03-29T08:56:19Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2014-08-08T09:01:37Z",
         "fileSize": 2,
         "modCategory": {
@@ -839,6 +855,54 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43220-1-1407473089.jpg",
         "uid": "429496772820",
         "updatedAt": "2014-08-08T09:01:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-09-29T10:59:22Z",
+        "fileSize": 8773,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 42763,
+        "name": "Tel Dranori Wizard Tower",
+        "status": "published",
+        "summary": "This mod adds a large Telvanni/Imperial style tower west of Seyda Neen that is geared for Wizards and/or Warriors. Includes a bedroom in another dimension, a merchant, a display room, a teleporter to the Mages' Guilds and return",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42763-1-1380451638.jpg",
+        "uid": "429496772363",
+        "updatedAt": "2016-04-05T18:29:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-09-17T06:02:23Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 42750,
+        "name": "The Badass Birthsign",
+        "status": "published",
+        "summary": "Not happy with your current birthsign? The \"Tower\" just not cutting it on its own? Welcome to the badass birthsign, a single birthsign with all of the positive effects of all of the birthsigns, with none of the negative effects of any?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42750-1-1379284532.jpg",
+        "uid": "429496772350",
+        "updatedAt": "2013-09-17T06:01:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-04-25T08:16:39Z",
+        "fileSize": 143446,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 42491,
+        "name": "The East Empire Company Expansion",
+        "status": "published",
+        "summary": "I found it rather odd that East Empire faction quests were limited to Solstheim, but that massive building in Ebonheart was unused. So, this mod adds a massive Mainland questline for you to embark upon!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42491-2-1366877419.jpg",
+        "uid": "429496772091",
+        "updatedAt": "2013-04-28T23:36:06Z"
       },
       {
         "adultContent": false,
@@ -857,6 +921,6 @@
         "updatedAt": "2017-09-20T09:45:52Z"
       }
     ],
-    "totalCount": 53
+    "totalCount": 57
   }
 }

@@ -141,8 +141,15 @@ for (const uploaderName of modAuthors) {
           mod.fileIds = fileIds
         }
         else {
-          // do not remove previously saved fileIds
-          mod.fileIds = oldAuthorData?.mods.nodes.find(oldDataMod => oldDataMod.modId === mod.modId).fileIds
+          const oldModData = oldAuthorData?.mods.nodes.find(oldDataMod => oldDataMod.modId === mod.modId)
+
+          if (oldModData) {
+            // do not remove previously saved fileIds
+            mod.fileIds = oldModData.fileIds
+          }
+          else {
+            console.log('old mod data not found: ${mod.name} (id: ${mod.modId})')
+          }
         }
       }
     }
