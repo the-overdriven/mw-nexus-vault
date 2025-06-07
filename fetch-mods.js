@@ -148,7 +148,7 @@ for (const uploaderName of modAuthors) {
             mod.fileIds = oldModData.fileIds
           }
           else {
-            console.log('old mod data not found: ${mod.name} (id: ${mod.modId})')
+            console.log(`old mod data not found: ${mod.name} (id: ${mod.modId})`)
           }
         }
       }
