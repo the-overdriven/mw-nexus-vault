@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2025-06-07T11:50:13.416Z",
+  "checkedAt": "2025-06-08T10:41:13.862Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15,
+        "100": 16,
         "110": 1,
         "1704": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-07T15:12:36Z",
+        "fileSize": 608,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 56899,
+        "name": "Daedric Face of Watching",
+        "status": "published",
+        "summary": "Adds a daedric version of the indoril helmet",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56899/56899-1749308853-184117562.png",
+        "uid": "429496786499",
+        "updatedAt": "2025-06-07T15:12:36Z",
+        "fileIds": [
+          "1000054214"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2023-04-07T15:49:59Z",
@@ -250,6 +269,6 @@
         "updatedAt": "2021-03-11T13:52:58Z"
       }
     ],
-    "totalCount": 15
+    "totalCount": 16
   }
 }
