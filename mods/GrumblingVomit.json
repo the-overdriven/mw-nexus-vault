@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-09T11:57:06.864Z",
+  "checkedAt": "2025-06-10T18:04:27.740Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -830,7 +830,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-04-06T19:04:23Z",
-        "fileSize": 54184,
+        "fileSize": 2893,
         "modCategory": {
           "categoryId": 5,
           "name": "Guilds/Factions"
@@ -841,10 +841,12 @@
         "summary": "Fight in the arena and rise up the ranks. Over 140 unique fighters to fight. Can also watch and bet on fights between NPCs. Also adds voiced speeches and crowds to vanilla quest duels.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50954/50954-1705203002-1739922330.jpeg",
         "uid": "429496780554",
-        "updatedAt": "2025-06-05T17:11:44Z",
+        "updatedAt": "2025-06-10T15:57:39Z",
         "fileIds": [
           "1000054110",
           "1000054130",
+          "1000054301",
+          "1000054303",
           "1000041994",
           "1000030035",
           "1000042071",

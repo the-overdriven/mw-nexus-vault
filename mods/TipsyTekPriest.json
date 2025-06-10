@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-09T11:57:20.652Z",
+  "checkedAt": "2025-06-10T18:04:42.276Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -162,7 +162,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-01-14T13:44:45Z",
-        "fileSize": 525,
+        "fileSize": 3180,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -173,9 +173,10 @@
         "summary": "Replaces generic Imperial Guards with levelled variants in the same vein as IO - Imperials and IO - Solstheim.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55776/55776-1748618284-382006368.png",
         "uid": "429496785376",
-        "updatedAt": "2025-06-02T08:35:28Z",
+        "updatedAt": "2025-06-10T08:29:02Z",
         "fileIds": [
-          "1000053996"
+          "1000054287",
+          "1000052307"
         ]
       },
       {
