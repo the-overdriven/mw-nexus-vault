@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-10T18:04:45.646Z",
+  "checkedAt": "2025-06-11T21:49:09.451Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -200,7 +200,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-05-08T23:22:47Z",
-        "fileSize": 73,
+        "fileSize": 91,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -211,9 +211,9 @@
         "summary": "Adds lamp posts along the roads of Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54614/54614-1715210072-84572418.png",
         "uid": "429496784214",
-        "updatedAt": "2025-06-09T21:23:33Z",
+        "updatedAt": "2025-06-10T22:35:42Z",
         "fileIds": [
-          "1000054278"
+          "1000054312"
         ]
       },
       {

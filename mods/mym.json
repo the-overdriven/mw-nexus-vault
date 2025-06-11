@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-10T18:04:34.269Z",
+  "checkedAt": "2025-06-11T21:48:53.409Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,9 +21,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2025-05-26T21:45:21Z",
+        "updatedAt": "2025-06-11T08:36:15Z",
         "fileIds": [
-          "1000053623",
+          "1000054317",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -42,6 +42,7 @@
           "1000051821",
           "1000051826",
           "1000052596",
+          "1000053623",
           "1000051331",
           "1000051352",
           "1000051612",
@@ -120,10 +121,11 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2025-05-25T04:41:51Z",
+        "updatedAt": "2025-06-11T12:02:23Z",
         "fileIds": [
-          "1000053517",
+          "1000054320",
           "1000047616",
+          "1000053517",
           "1000047888",
           "1000047893",
           "1000047897",
