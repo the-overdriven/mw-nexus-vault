@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-11T21:48:37.231Z",
+  "checkedAt": "2025-06-12T18:28:35.509Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -83,11 +83,11 @@
         "name": "Quick Wheel",
         "status": "published",
         "summary": "Quick access wheel like in modern games",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54544/54544-1714603453-140339795.jpeg",
+        "thumbnailUrl": null,
         "uid": "429496784144",
-        "updatedAt": "2025-06-06T10:08:20Z",
+        "updatedAt": "2025-06-12T12:06:53Z",
         "fileIds": [
-          "1000054152"
+          "1000054349"
         ]
       },
       {
@@ -976,10 +976,10 @@
         "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
         "uid": "429496776615",
-        "updatedAt": "2025-06-03T18:33:09Z",
+        "updatedAt": "2025-06-12T12:24:57Z",
         "fileIds": [
           "1000050367",
-          "1000054042"
+          "1000054350"
         ]
       }
     ],

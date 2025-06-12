@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2025-06-11T21:49:02.994Z",
+  "checkedAt": "2025-06-12T18:28:55.226Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3
+        "100": 5
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-12T11:20:34Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56929,
+        "name": "Actual Security Checks for Traps",
+        "status": "published",
+        "summary": "Adds an actual security skill check to disarming traps. Finally those Grandmaster probes will be useful!",
+        "thumbnailUrl": null,
+        "uid": "429496786529",
+        "updatedAt": "2025-06-12T11:20:34Z",
+        "fileIds": [
+          "1000054346"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-12T11:03:09Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 56926,
+        "name": "On Clock Duty (OCD) - Hourly custom event trigger",
+        "status": "published",
+        "summary": "A simple code intended as modders resource that fires an event every in game hour.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56926/56926-1749725978-923485372.png",
+        "uid": "429496786526",
+        "updatedAt": "2025-06-12T11:03:09Z",
+        "fileIds": [
+          "1000054343"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-27T09:15:27Z",
@@ -70,6 +108,6 @@
         ]
       }
     ],
-    "totalCount": 3
+    "totalCount": 5
   }
 }
