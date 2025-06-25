@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-12T18:28:59.708Z",
+  "checkedAt": "2025-06-25T18:19:41.734Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -30,7 +30,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-22T03:57:06Z",
-        "fileSize": 253581,
+        "fileSize": 255718,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -41,13 +41,14 @@
         "summary": "A complete overhaul of Starwinds weird and wonderful aliens.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56358/56358-1744880847-11731011.png",
         "uid": "429496785958",
-        "updatedAt": "2025-06-02T20:19:05Z",
+        "updatedAt": "2025-06-19T18:03:24Z",
         "fileIds": [
-          "1000054013",
+          "1000054558",
           "1000052056",
           "1000052086",
           "1000052369",
-          "1000052120"
+          "1000052120",
+          "1000054013"
         ]
       },
       {
@@ -74,7 +75,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 18125,
+        "fileSize": 46127,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -85,8 +86,9 @@
         "summary": "Adds new voiceovers, dialogue and context to the Endar Spire and Sandriver to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1739181064-2087697923.png",
         "uid": "429496785568",
-        "updatedAt": "2025-02-17T21:02:16Z",
+        "updatedAt": "2025-06-21T17:16:57Z",
         "fileIds": [
+          "1000054604",
           "1000052779",
           "1000050224",
           "1000050251",
@@ -119,7 +121,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-02T14:11:06Z",
-        "fileSize": 137576,
+        "fileSize": 137968,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -130,8 +132,9 @@
         "summary": "Adds new dialogue, quests, and environmental details to Nar Shaddaa in Starwind. Requires Starwind Enhanced.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55911/55911-1738505302-1276388228.png",
         "uid": "429496785511",
-        "updatedAt": "2025-02-18T11:20:59Z",
+        "updatedAt": "2025-06-19T18:06:49Z",
         "fileIds": [
+          "1000054559",
           "1000050488"
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-12T18:28:53.580Z",
+  "checkedAt": "2025-06-25T18:19:29.254Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -167,7 +167,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-08-12T09:05:02Z",
-        "fileSize": 833,
+        "fileSize": 1558,
         "modCategory": {
           "categoryId": 19,
           "name": "Creatures"
@@ -176,9 +176,13 @@
         "name": "Concept Art Ogrim Replacer",
         "status": "published",
         "summary": "Gives a new look for the Ogrim based on Concept Art",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53368/53368-1691827020-229890410.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53368/53368-1750493388-1140453905.jpg",
         "uid": "429496782968",
-        "updatedAt": "2023-08-12T09:05:02Z"
+        "updatedAt": "2025-06-21T13:28:19Z",
+        "fileIds": [
+          "1000054595",
+          "1000039708"
+        ]
       },
       {
         "adultContent": false,
@@ -263,7 +267,16 @@
         "summary": "This mod adds unique robes for each of the Telvanni councilors including Baladas and Uvirith, Each one holds a special powerful enchantment but it won't be easy to acquire.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52278/52278-1675583095-1982740717.png",
         "uid": "429496781878",
-        "updatedAt": "2024-04-06T10:36:12Z"
+        "updatedAt": "2025-06-17T07:45:26Z",
+        "fileIds": [
+          "1000043830",
+          "1000035050",
+          "1000054494",
+          "1000037679",
+          "1000035198",
+          "1000036745",
+          "1000035796"
+        ]
       },
       {
         "adultContent": false,

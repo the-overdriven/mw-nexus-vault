@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-06-12T18:28:50.848Z",
+  "checkedAt": "2025-06-25T18:19:25.993Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 9
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-19T06:47:15Z",
+        "fileSize": 1905,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56977,
+        "name": "Dwemer Plans And Schematics Texture Replacer",
+        "status": "published",
+        "summary": "A pluginless replacer for the six dwemer plans and schematics found in Vvardenfell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56977/56977-1750315960-160073592.png",
+        "uid": "429496786577",
+        "updatedAt": "2025-06-19T06:47:15Z",
+        "fileIds": [
+          "1000054550"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2022-12-16T16:30:56Z",
@@ -136,6 +155,6 @@
         "updatedAt": "2022-07-21T19:47:15Z"
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }

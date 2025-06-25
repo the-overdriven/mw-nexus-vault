@@ -1,12 +1,51 @@
 {
-  "checkedAt": "2025-06-12T18:28:37.689Z",
+  "checkedAt": "2025-06-25T18:18:52.821Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 52
+        "100": 54
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-25T13:10:25Z",
+        "fileSize": 10719,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 57009,
+        "name": "Ebony Regalia by Articus",
+        "status": "published",
+        "summary": "This mod replaces Ebony Mail with HQ models and textures, adds glow, new elements like chainmail (this is the mail right?) and new armor parts. These parts samlessly added to the world and can be found during the Tribunal Temple quests. All",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57009/57009-1750857480-787686506.jpg",
+        "uid": "429496786609",
+        "updatedAt": "2025-06-25T13:10:25Z",
+        "fileIds": [
+          "1000054691"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-14T11:51:58Z",
+        "fileSize": 1217,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 56940,
+        "name": "Bloodworm Helm Replacer",
+        "status": "published",
+        "summary": "Replaces Bloodworm helm with HQ model and HQ textures (2048 px), adds bloody glowing, fixes Crazy Batou NPC. All you need is to place conteining files to your Morrowind/Data Files directory and turn on .esp file. Enjoy the game and don't",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56940/56940-1749901778-1451687947.jpeg",
+        "uid": "429496786540",
+        "updatedAt": "2025-06-14T15:30:30Z",
+        "fileIds": [
+          "1000054398",
+          "1000054404"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-07T20:03:03Z",
@@ -29,7 +68,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-06-06T15:07:56Z",
-        "fileSize": 16013,
+        "fileSize": 15981,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -40,9 +79,9 @@
         "summary": "This combination allows to replace Dragonbone assets with HQ models and textures. I couldn't think of anything better than using the SaintBahamut's port to replace the Dragonbone Armor. So now we have a full Dragonbone Replacer with",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56875/56875-1749225373-898227966.jpeg",
         "uid": "429496786475",
-        "updatedAt": "2025-06-06T16:22:57Z",
+        "updatedAt": "2025-06-25T13:56:51Z",
         "fileIds": [
-          "1000054169"
+          "1000054693"
         ]
       },
       {
@@ -59,9 +98,9 @@
         "summary": "Replaces Cuirass of the Savior's Hide HQ model and HQ textures (2048 px), also adds a fur cloak in the back and female version. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56859/56859-1749041061-1559870402.jpeg",
         "uid": "429496786459",
-        "updatedAt": "2025-06-04T12:47:58Z",
+        "updatedAt": "2025-06-17T07:51:01Z",
         "fileIds": [
-          "1000054096"
+          "1000054495"
         ]
       },
       {
@@ -967,6 +1006,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 52
+    "totalCount": 54
   }
 }

@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-06-12T18:28:39.547Z",
+  "checkedAt": "2025-06-25T18:19:01.978Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 8
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-25T00:16:23Z",
+        "fileSize": 9860,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 57008,
+        "name": "Dallara Adamantium Weaponry",
+        "status": "published",
+        "summary": "-This Mod remake the models of all Adamantium weaponry with new textures, icons and meshes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57008/57008-1750810278-1629706406.jpg",
+        "uid": "429496786608",
+        "updatedAt": "2025-06-25T08:58:51Z",
+        "fileIds": [
+          "1000054685",
+          "1000054680"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-10T00:43:07Z",
@@ -132,6 +152,6 @@
         "updatedAt": "2022-05-31T11:45:54Z"
       }
     ],
-    "totalCount": 7
+    "totalCount": 8
   }
 }

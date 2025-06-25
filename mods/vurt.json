@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-06-12T18:28:59.819Z",
+  "checkedAt": "2025-06-25T18:19:43.595Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35,
+        "100": 34,
         "110": 3,
         "120": 1,
         "130": 6,
@@ -413,27 +413,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2011-03-09T11:16:11Z",
-        "fileSize": 19264,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 37489,
-        "name": "Vurt's Bitter Coast Trees II",
-        "status": "published",
-        "summary": "New trees for the Bitter Coast region.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/37489/37489-1738719160-924980335.jpeg",
-        "uid": "429496767089",
-        "updatedAt": "2025-02-15T17:25:40Z",
-        "fileIds": [
-          "1000050417",
-          "1000005815",
-          "87142"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2011-03-03T01:20:11Z",
         "fileSize": 7619,
         "modCategory": {
@@ -688,6 +667,6 @@
         "updatedAt": "2009-12-09T12:01:09Z"
       }
     ],
-    "totalCount": 35
+    "totalCount": 34
   }
 }

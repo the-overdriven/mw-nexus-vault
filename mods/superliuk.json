@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2025-06-12T18:28:56.984Z",
+  "checkedAt": "2025-06-25T18:19:33.983Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 36
+        "100": 38
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-24T10:14:22Z",
+        "fileSize": 9865,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57006,
+        "name": "Windhelm Horse Riding",
+        "status": "published",
+        "summary": "Explore the lands around Windhelm with a horse.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57006/57006-1750759440-1562403768.png",
+        "uid": "429496786606",
+        "updatedAt": "2025-06-24T10:14:22Z",
+        "fileIds": [
+          "1000054670"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-17T18:14:15Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 56966,
+        "name": "Shipyards of Vvardenfell - SSQN OpenMW",
+        "status": "published",
+        "summary": "Adds icon for quests.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56966/56966-1750184036-204401340.png",
+        "uid": "429496786566",
+        "updatedAt": "2025-06-17T18:14:15Z",
+        "fileIds": [
+          "1000054503"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-12T17:02:42Z",
@@ -278,7 +316,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-23T08:14:37Z",
-        "fileSize": 15529,
+        "fileSize": 15518,
         "modCategory": {
           "categoryId": 10,
           "name": "New Lands"
@@ -289,7 +327,12 @@
         "summary": "Add city of Windhelm and the surrounding area, including Dunmeth Pass",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53753/53753-1742218479-1274312610.jpeg",
         "uid": "429496783353",
-        "updatedAt": "2025-04-05T08:58:03Z"
+        "updatedAt": "2025-06-24T09:27:36Z",
+        "fileIds": [
+          "1000054669",
+          "1000051730",
+          "1000051102"
+        ]
       },
       {
         "adultContent": false,
@@ -353,7 +396,10 @@
         "summary": "At Seyda Neen, you will find Cory.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53190/53190-1689193971-103031845.png",
         "uid": "429496782790",
-        "updatedAt": "2024-01-29T18:20:09Z"
+        "updatedAt": "2025-06-21T16:03:58Z",
+        "fileIds": [
+          "1000054601"
+        ]
       },
       {
         "adultContent": false,
@@ -596,6 +642,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 36
+    "totalCount": 38
   }
 }

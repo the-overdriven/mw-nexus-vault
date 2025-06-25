@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-12T18:28:47.367Z",
+  "checkedAt": "2025-06-25T18:19:20.225Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -69,13 +69,15 @@
         "summary": "Adds a new faction to the game which is focused on non-combat oddjobs and errands for the player.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53845/53845-1702848860-1167044664.jpeg",
         "uid": "429496783445",
-        "updatedAt": "2025-06-07T13:55:31Z",
+        "updatedAt": "2025-06-17T13:01:19Z",
         "fileIds": [
-          "1000054212",
+          "1000054499",
           "1000041555",
           "1000046235",
           "1000046244",
-          "1000054194"
+          "1000054194",
+          "1000054212",
+          "1000054498"
         ]
       },
       {

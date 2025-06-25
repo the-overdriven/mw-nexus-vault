@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-12T18:28:40.493Z",
+  "checkedAt": "2025-06-25T18:19:04.067Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,23 +10,24 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-04T15:25:43Z",
-        "fileSize": 3491,
+        "fileSize": 3492,
         "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
+          "categoryId": 36,
+          "name": "Immersion"
         },
         "modId": 56480,
         "name": "Devilish Needs (OpenMW 0.49)",
         "status": "published",
         "summary": "Eat, drink, sleep, and stay dry or suffer the consequences. This is a one-mod survival solution for the OpenMW engine featuring: Temperature regions, lua icons, detailed cooking and grilling based on Affa's recipes, support for OAAB & TR",
-        "thumbnailUrl": null,
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56480/56480-1746324261-1413175168.jpeg",
         "uid": "429496786080",
-        "updatedAt": "2025-05-28T20:04:14Z",
+        "updatedAt": "2025-06-19T20:17:31Z",
         "fileIds": [
-          "1000053723",
+          "1000054562",
           "1000052739",
           "1000052502",
           "1000053138",
+          "1000053723",
           "1000052446",
           "1000053494"
         ]
@@ -282,7 +283,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-06-05T15:56:47Z",
-        "fileSize": 2,
+        "fileSize": 3,
         "modCategory": {
           "categoryId": 33,
           "name": "Magic"
@@ -293,10 +294,12 @@
         "summary": "A new spell has been created that immediately puts opponents to sleep. A spell that is becoming quickly popular among thieves and mischief-makers. Get your hands on one now at Dirty Muriel's Cornerclub in Sadrith Mora before the Imperials",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54798/54798-1717602392-33099400.png",
         "uid": "429496784398",
-        "updatedAt": "2025-06-05T21:09:52Z",
+        "updatedAt": "2025-06-21T22:01:13Z",
         "fileIds": [
-          "1000054137",
+          "1000054610",
+          "1000054579",
           "1000046432",
+          "1000054137",
           "1000045440",
           "1000046477"
         ]

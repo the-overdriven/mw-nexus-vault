@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-12T18:28:45.059Z",
+  "checkedAt": "2025-06-25T18:19:12.899Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,13 +18,14 @@
           "name": "Guilds/Factions"
         },
         "modId": 56504,
-        "name": "Beta - Mages Guild Catch a Spy - Double Agent Edition",
+        "name": "Mages Guild Catch a Spy - Double Agent Edition",
         "status": "published",
         "summary": "Expands on the Mages Guild quest, Catch a Spy, allowing for the player to join House Telvanni via the questchain.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56504/56504-1748819945-512617022.png",
         "uid": "429496786104",
-        "updatedAt": "2025-06-01T23:19:19Z",
+        "updatedAt": "2025-06-13T23:07:42Z",
         "fileIds": [
+          "1000054391",
           "1000053985"
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-12T18:28:35.509Z",
+  "checkedAt": "2025-06-25T18:18:51.795Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -83,7 +83,7 @@
         "name": "Quick Wheel",
         "status": "published",
         "summary": "Quick access wheel like in modern games",
-        "thumbnailUrl": null,
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54544/54544-1714603453-140339795.jpeg",
         "uid": "429496784144",
         "updatedAt": "2025-06-12T12:06:53Z",
         "fileIds": [
@@ -197,7 +197,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-04-30T23:03:58Z",
-        "fileSize": 28906,
+        "fileSize": 28909,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -208,7 +208,10 @@
         "summary": "How did we play Morrowind for 20 years without this mod?",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52747/52747-1682895594-1097260110.jpeg",
         "uid": "429496782347",
-        "updatedAt": "2024-10-02T16:12:17Z"
+        "updatedAt": "2025-06-15T09:30:42Z",
+        "fileIds": [
+          "1000054433"
+        ]
       },
       {
         "adultContent": false,
