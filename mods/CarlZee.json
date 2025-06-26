@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2025-06-25T18:19:00.851Z",
+  "checkedAt": "2025-06-26T09:59:28.142Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13,
+        "100": 14,
         "120": 5,
         "130": 60
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-26T00:55:48Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 57015,
+        "name": "Godmode No Encumbrance - MWSE",
+        "status": "published",
+        "summary": "Removes nearly all encumbrance when in godmode, just like in the subsequent games.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57015/57015-1750899116-1500676362.png",
+        "uid": "429496786615",
+        "updatedAt": "2025-06-26T00:55:48Z",
+        "fileIds": [
+          "1000054710"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-03T03:28:54Z",
@@ -250,6 +269,6 @@
         "updatedAt": "2024-06-08T16:51:28Z"
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }

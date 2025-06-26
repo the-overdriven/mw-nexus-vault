@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-25T18:18:52.821Z",
+  "checkedAt": "2025-06-26T09:59:26.070Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-06-25T13:10:25Z",
-        "fileSize": 10719,
+        "fileSize": 10779,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -18,12 +18,12 @@
         "modId": 57009,
         "name": "Ebony Regalia by Articus",
         "status": "published",
-        "summary": "This mod replaces Ebony Mail with HQ models and textures, adds glow, new elements like chainmail (this is the mail right?) and new armor parts. These parts samlessly added to the world and can be found during the Tribunal Temple quests. All",
+        "summary": "This mod replaces Ebony Mail with HQ models and textures, adds glow, new elements like chainmail (this is the mail right?) and new armor parts. These parts samlessly added to the world and can be found during the Tribunal Temple quests.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57009/57009-1750857480-787686506.jpg",
         "uid": "429496786609",
-        "updatedAt": "2025-06-25T13:10:25Z",
+        "updatedAt": "2025-06-26T09:05:28Z",
         "fileIds": [
-          "1000054691"
+          "1000054719"
         ]
       },
       {

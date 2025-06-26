@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-25T18:19:03.747Z",
+  "checkedAt": "2025-06-26T09:59:29.779Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -45,7 +45,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-06-07T15:38:47Z",
-        "fileSize": 28219,
+        "fileSize": 14724,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -56,9 +56,9 @@
         "summary": "Expansive overhaul for Dwemer Ruins of Arkngthunch-Sturdumz (exteriors with new interiors) inspired by ESO and my imagination ( ͡° ͜ʖ ͡°)My mod does not alter original Arkngthunch-Sturdumz interior cells so it is compatible with",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54807/54807-1717773490-397979101.jpeg",
         "uid": "429496784407",
-        "updatedAt": "2025-06-04T21:12:09Z",
+        "updatedAt": "2025-06-25T21:01:42Z",
         "fileIds": [
-          "1000053312",
+          "1000054708",
           "1000053446",
           "1000054108",
           "1000053311",
@@ -77,6 +77,7 @@
           "1000045868",
           "1000050732",
           "1000046640",
+          "1000053312",
           "1000048706",
           "1000051779",
           "1000052039",
