@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-06-26T09:59:35.982Z",
+  "checkedAt": "2025-06-27T15:59:48.960Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26
+        "100": 27
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-26T16:29:42Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57034,
+        "name": "Another Dark Brotherhood Attacks Fix",
+        "status": "published",
+        "summary": "This one respects the lore, and is pretty realistic. See description...",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57034/57034-1750954528-1134455663.png",
+        "uid": "429496786634",
+        "updatedAt": "2025-06-26T16:29:42Z",
+        "fileIds": [
+          "1000054732"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-23T12:39:04Z",
@@ -40,8 +59,9 @@
         "summary": "NPCs can call a guard if they see you steal/pickpocket. And better management of guard arrestations. See description...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56985/56985-1750420196-71366275.png",
         "uid": "429496786585",
-        "updatedAt": "2025-06-20T12:05:07Z",
+        "updatedAt": "2025-06-27T09:26:16Z",
         "fileIds": [
+          "1000054748",
           "1000054574"
         ]
       },
@@ -146,10 +166,11 @@
         "summary": "1) Now interrupted sleep counts as 1 hour's sleep...2) Illustrative video for the 4 Dagoth Ur dreams3) At some point of the main quest, player is attacked by cultists in his sleep in town: this isn't realistic. Now the attacks (during his",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55152/55152-1724679903-479911453.png",
         "uid": "429496784752",
-        "updatedAt": "2025-06-15T15:05:18Z",
+        "updatedAt": "2025-06-26T14:45:05Z",
         "fileIds": [
-          "1000054442",
+          "1000054728",
           "1000054040",
+          "1000054442",
           "1000046921"
         ]
       },
@@ -427,8 +448,9 @@
         "summary": "Patch for Antares' Privileges And Services mod: bugs corrections, and improvements added.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52371/52371-1748287888-289058556.png",
         "uid": "429496781971",
-        "updatedAt": "2025-06-19T14:50:28Z",
+        "updatedAt": "2025-06-27T09:49:53Z",
         "fileIds": [
+          "1000054749",
           "1000054555",
           "1000053618",
           "1000053657",
@@ -475,6 +497,6 @@
         "updatedAt": "2023-02-23T07:25:55Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }
