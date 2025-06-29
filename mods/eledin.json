@@ -1,15 +1,35 @@
 {
-  "checkedAt": "2025-06-28T10:24:52.978Z",
+  "checkedAt": "2025-06-29T12:01:38.894Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19,
+        "100": 20,
         "430": 1,
         "437": 1,
         "1085": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-28T10:30:27Z",
+        "fileSize": 2063,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57045,
+        "name": "Alternative Dwemer Plans And Schematics",
+        "status": "published",
+        "summary": "An alternative version of The Iron Chicken's \"Dwemer Plans And Schematics\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57045/57045-1751106058-342955767.png",
+        "uid": "429496786645",
+        "updatedAt": "2025-06-28T11:01:55Z",
+        "fileIds": [
+          "1000054770",
+          "1000054772"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-11T16:34:33Z",
@@ -63,7 +83,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-23T20:00:00Z",
-        "fileSize": 40554,
+        "fileSize": 25628,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -71,10 +91,14 @@
         "modId": 56400,
         "name": "Golden Saint Shrines",
         "status": "published",
-        "summary": "An hd retexture for all saint shrines",
+        "summary": "An hd retexture of all of the saint and good daedra shrines",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56400/56400-1745439702-387227896.png",
         "uid": "429496786000",
-        "updatedAt": "2025-04-23T20:18:54Z"
+        "updatedAt": "2025-06-28T13:57:14Z",
+        "fileIds": [
+          "1000054778",
+          "1000052077"
+        ]
       },
       {
         "adultContent": false,
@@ -340,6 +364,6 @@
         "updatedAt": "2024-08-15T21:59:15Z"
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }

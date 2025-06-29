@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-28T10:24:57.570Z",
+  "checkedAt": "2025-06-29T12:01:45.969Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -122,7 +122,7 @@
       {
         "adultContent": false,
         "createdAt": "2016-01-26T22:42:53Z",
-        "fileSize": 2557,
+        "fileSize": 7490,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -130,10 +130,19 @@
         "modId": 44057,
         "name": "MOAR Mesh Replacers",
         "status": "published",
-        "summary": "More detailes meshes for \"com\" and \"de\" dock pieces and others.",
+        "summary": "More detailes meshes for various game objects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44057-0-1453847879.jpg",
         "uid": "429496773657",
-        "updatedAt": "2016-09-14T21:47:39Z"
+        "updatedAt": "2025-06-29T08:18:50Z",
+        "fileIds": [
+          "1000054796",
+          "1000005002",
+          "1000005011",
+          "1000005016",
+          "1000005022",
+          "1000006546",
+          "1000054775"
+        ]
       },
       {
         "adultContent": false,
