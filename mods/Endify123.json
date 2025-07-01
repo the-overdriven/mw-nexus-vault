@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2025-06-30T09:21:28.311Z",
+  "checkedAt": "2025-07-01T22:34:48.308Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 18,
+        "100": 19,
         "130": 1,
         "1704": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-30T17:58:11Z",
+        "fileSize": 23,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 57059,
+        "name": "Vivec Mages Guild Redone",
+        "status": "published",
+        "summary": "A rework and expansion of the Vivec Mages Guild making it feel more like the regional headquarters of a guild.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57059/57059-1751306412-115799339.png",
+        "uid": "429496786659",
+        "updatedAt": "2025-06-30T17:58:11Z",
+        "fileIds": [
+          "1000054838"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-07-06T21:27:20Z",
@@ -301,6 +320,6 @@
         "updatedAt": "2023-08-07T16:05:21Z"
       }
     ],
-    "totalCount": 18
+    "totalCount": 19
   }
 }

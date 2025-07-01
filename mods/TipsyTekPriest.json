@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-06-30T09:21:43.910Z",
+  "checkedAt": "2025-07-01T22:35:02.629Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -88,8 +88,8 @@
         "createdAt": "2025-05-29T13:41:27Z",
         "fileSize": 8,
         "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
+          "categoryId": 20,
+          "name": "Books and Scrolls"
         },
         "modId": 56788,
         "name": "TR Newspapers on Vvardenfell",
@@ -329,9 +329,9 @@
         "summary": "Overhauls the vanilla character classes with a focus on eliminating skill redundancies while making the classes distinct enoughto have their own identities.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52642/52642-1690482653-1383184191.png",
         "uid": "429496782242",
-        "updatedAt": "2025-04-21T10:45:19Z",
+        "updatedAt": "2025-07-01T08:46:37Z",
         "fileIds": [
-          "1000052044",
+          "1000054852",
           "1000049005",
           "1000052029"
         ]
