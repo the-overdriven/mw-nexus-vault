@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-01T22:35:01.907Z",
+  "checkedAt": "2025-07-02T19:50:29.611Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -195,7 +195,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-02-13T19:50:30Z",
-        "fileSize": 2425,
+        "fileSize": 3119,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -206,11 +206,11 @@
         "summary": "*NEW* Notification banners for New Location Discovered. Add popup notifications when you start or finish a quest, or discover new locations, in the style of Skyrim. Based on nazz190's MWSE Skyrim Style Quest Notifications. Requires OpenMW",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54148/54148-1707850703-1609451237.png",
         "uid": "429496783748",
-        "updatedAt": "2025-06-26T19:52:08Z",
+        "updatedAt": "2025-07-02T19:15:34Z",
         "fileIds": [
-          "1000054736",
+          "1000054882",
           "1000053305",
-          "1000054715"
+          "1000054736"
         ]
       },
       {
