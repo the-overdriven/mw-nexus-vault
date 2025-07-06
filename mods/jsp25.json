@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-07-05T11:19:06.933Z",
+  "checkedAt": "2025-07-06T22:50:06.549Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 32
+        "100": 31
       }
     },
     "nodes": [
@@ -471,44 +471,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2017-04-18T12:58:42Z",
-        "fileSize": 22856,
-        "modCategory": {
-          "categoryId": 29,
-          "name": "Overhauls"
-        },
-        "modId": 44893,
-        "name": "Mines and Caverns",
-        "status": "published",
-        "summary": "This mod improves several vanilla dungeons aesthetically and/or expands them.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44893-0-1493368347.jpg",
-        "uid": "429496774493",
-        "updatedAt": "2025-05-12T22:42:23Z",
-        "fileIds": [
-          "1000052842",
-          "1000008081",
-          "1000022299",
-          "1000015309",
-          "1000044763",
-          "1000014840",
-          "1000022300",
-          "1000052002",
-          "1000043845",
-          "1000049520",
-          "1000047484",
-          "1000039805",
-          "1000042926",
-          "1000046260",
-          "1000017105",
-          "1000008915",
-          "1000051415",
-          "1000023271",
-          "1000037102",
-          "1000044756"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2017-02-25T00:36:02Z",
         "fileSize": 46405,
         "modCategory": {
@@ -572,6 +534,6 @@
         "updatedAt": "2017-01-06T02:24:09Z"
       }
     ],
-    "totalCount": 32
+    "totalCount": 31
   }
 }

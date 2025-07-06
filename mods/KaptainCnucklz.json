@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-05T11:19:07.248Z",
+  "checkedAt": "2025-07-06T22:50:07.060Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -109,7 +109,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-03T21:06:20Z",
-        "fileSize": 1245,
+        "fileSize": 1269,
         "modCategory": {
           "categoryId": 15,
           "name": "Utilities"
@@ -120,11 +120,12 @@
         "summary": "An unofficial extract-and-play DXVK package for running Morrowind in Vulkan. May improve performance with some PCs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53685/53685-1699043627-1181575212.jpeg",
         "uid": "429496783285",
-        "updatedAt": "2025-06-10T21:57:36Z",
+        "updatedAt": "2025-07-05T23:44:14Z",
         "fileIds": [
-          "1000054311",
+          "1000054980",
           "1000040790",
           "1000047388",
+          "1000054311",
           "1000051274",
           "1000048204",
           "1000051814",

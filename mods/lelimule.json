@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-05T11:19:08.303Z",
+  "checkedAt": "2025-07-06T22:50:09.827Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -139,7 +139,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-09-04T10:26:44Z",
-        "fileSize": 6,
+        "fileSize": 9,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -150,7 +150,16 @@
         "summary": "Now actors can get out water without a submarine ramp (!) if the border isn't too high. They are also much less likely to stupidly drown.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55187/55187-1725444574-1592854546.jpeg",
         "uid": "429496784787",
-        "updatedAt": "2024-11-22T14:28:00Z"
+        "updatedAt": "2025-07-06T21:19:42Z",
+        "fileIds": [
+          "1000055005",
+          "1000048390",
+          "1000047661",
+          "1000048295",
+          "1000047076",
+          "1000047077",
+          "1000047081"
+        ]
       },
       {
         "adultContent": false,
