@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-07T19:05:13.001Z",
+  "checkedAt": "2025-07-08T19:39:18.892Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -62,7 +62,11 @@
         "summary": "UPDATE: Preview camera mode now properly supported. Adds visual effects and sounds when you hit objects in the world. For OpenMW 0.49.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55508/55508-1732926148-1534225161.png",
         "uid": "429496785108",
-        "updatedAt": "2025-04-25T00:31:40Z"
+        "updatedAt": "2025-07-07T19:07:41Z",
+        "fileIds": [
+          "1000055033",
+          "1000052093"
+        ]
       },
       {
         "adultContent": false,

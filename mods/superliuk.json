@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-07T19:05:12.484Z",
+  "checkedAt": "2025-07-08T19:39:17.989Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -16,7 +16,7 @@
           "name": "Gameplay"
         },
         "modId": 57006,
-        "name": "Windhelm Horse Riding",
+        "name": "Windhelm Horse Riding (OpenMW)",
         "status": "published",
         "summary": "Explore the lands around Windhelm with a horse.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57006/57006-1750759440-1562403768.png",
@@ -316,7 +316,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-23T08:14:37Z",
-        "fileSize": 15518,
+        "fileSize": 15497,
         "modCategory": {
           "categoryId": 10,
           "name": "New Lands"
@@ -327,9 +327,9 @@
         "summary": "Add city of Windhelm and the surrounding area, including Dunmeth Pass",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53753/53753-1742218479-1274312610.jpeg",
         "uid": "429496783353",
-        "updatedAt": "2025-06-24T09:27:36Z",
+        "updatedAt": "2025-07-08T17:12:16Z",
         "fileIds": [
-          "1000054669",
+          "1000055068",
           "1000051730",
           "1000051102"
         ]

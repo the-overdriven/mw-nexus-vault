@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-07T19:04:55.174Z",
+  "checkedAt": "2025-07-08T19:39:13.586Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -14,18 +14,22 @@
       {
         "adultContent": false,
         "createdAt": "2024-10-06T21:18:11Z",
-        "fileSize": 2,
+        "fileSize": 4,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
         },
         "modId": 55315,
-        "name": "MWSE Disown the Dead -READ DESCRIPTION-",
+        "name": "MWSE Disown the Departed -READ DESCRIPTION-",
         "status": "published",
-        "summary": "Items lose ownership if their owner is dead.",
+        "summary": "Items lose ownership if their owner is dead (or disabled).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55315/55315-1728249329-619646491.png",
         "uid": "429496784915",
-        "updatedAt": "2024-10-06T21:18:11Z"
+        "updatedAt": "2025-07-08T14:43:56Z",
+        "fileIds": [
+          "1000055060",
+          "1000047589"
+        ]
       },
       {
         "adultContent": false,
