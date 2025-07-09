@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-08T19:39:16.442Z",
+  "checkedAt": "2025-07-09T18:11:36.023Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -26,7 +26,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-09T18:34:08Z",
-        "fileSize": 75653,
+        "fileSize": 95708,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -34,10 +34,17 @@
         "modId": 56331,
         "name": "AFFresh - Fully Voiced",
         "status": "published",
-        "summary": "Adds fully AI-voiced dialogue to AFFresh. Covers all playable races and even one creature. Beta release focused on testing quality and gathering feedback.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56331/56331-1744206303-35830789.jpeg",
+        "summary": "Adds fully AI-voiced dialogue to AFFresh. Covers all playable races and even one creature.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56331/56331-1752047893-1058434926.jpg",
         "uid": "429496785931",
-        "updatedAt": "2025-04-09T18:34:08Z"
+        "updatedAt": "2025-07-09T08:15:51Z",
+        "fileIds": [
+          "1000055090",
+          "1000055093",
+          "1000055089",
+          "1000055092",
+          "1000055091"
+        ]
       }
     ],
     "totalCount": 2
