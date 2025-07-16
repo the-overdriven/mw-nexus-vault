@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-16T00:56:50.247Z",
+  "checkedAt": "2025-07-16T23:19:18.389Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -73,9 +73,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2025-06-23T12:45:37Z",
+        "updatedAt": "2025-07-16T11:17:53Z",
         "fileIds": [
-          "1000054650",
+          "1000055256",
           "1000051201",
           "1000048667",
           "1000050717",
@@ -88,6 +88,7 @@
           "1000054092",
           "1000051277",
           "1000048731",
+          "1000054650",
           "1000048787",
           "1000053664",
           "1000050087",
@@ -123,9 +124,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2025-06-14T13:33:13Z",
+        "updatedAt": "2025-07-16T11:29:00Z",
         "fileIds": [
-          "1000054400",
+          "1000055257",
           "1000047616",
           "1000053517",
           "1000047888",
@@ -149,6 +150,7 @@
           "1000047479",
           "1000048250",
           "1000047743",
+          "1000054400",
           "1000047494",
           "1000047760",
           "1000047761",
