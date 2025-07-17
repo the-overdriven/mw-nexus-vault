@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-07-16T23:19:07.053Z",
+  "checkedAt": "2025-07-17T20:58:31.547Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 52
+        "100": 51
       }
     },
     "nodes": [
@@ -760,27 +760,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2018-11-04T20:34:29Z",
-        "fileSize": 89106,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46140,
-        "name": "Dangerous Lava and Oil by Articus",
-        "status": "published",
-        "summary": "This mod adds High Quality (1024) animated textures for lava with particles effect of fire sparks.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46140/46140-1746972010-1670280810.jpeg",
-        "uid": "429496775740",
-        "updatedAt": "2025-04-27T13:53:23Z",
-        "fileIds": [
-          "1000052143",
-          "1000012499",
-          "1000012500"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2018-09-16T19:26:44Z",
         "fileSize": 180484,
         "modCategory": {
@@ -968,6 +947,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 52
+    "totalCount": 51
   }
 }
