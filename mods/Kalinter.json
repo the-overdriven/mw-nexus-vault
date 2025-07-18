@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-07-17T20:58:37.733Z",
+  "checkedAt": "2025-07-18T23:40:13.612Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24,
+        "100": 25,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-18T21:28:34Z",
+        "fileSize": 17,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 57154,
+        "name": "The Talanian Estate",
+        "status": "published",
+        "summary": "Adds a player home for sale to Project Cyrodiil's town of Charach on the Isle of Stirk.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57154/57154-1752873751-2143248288.png",
+        "uid": "429496786754",
+        "updatedAt": "2025-07-18T21:28:34Z",
+        "fileIds": [
+          "1000055323"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-15T23:50:15Z",
@@ -427,6 +446,6 @@
         "updatedAt": "2021-12-12T10:54:40Z"
       }
     ],
-    "totalCount": 24
+    "totalCount": 25
   }
 }

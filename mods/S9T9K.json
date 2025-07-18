@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-07-17T20:58:45.020Z",
+  "checkedAt": "2025-07-18T23:40:21.730Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 2
+        "100": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-18T07:06:04Z",
+        "fileSize": 4187030,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57146,
+        "name": "Project Cyrodiil - Fully Voiced",
+        "status": "published",
+        "summary": "Adds fully AI-voiced dialogue to Project Cyrodiil: Abecean Shores",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57146/57146-1752693878-1602832807.jpg",
+        "uid": "429496786746",
+        "updatedAt": "2025-07-18T07:06:04Z",
+        "fileIds": [
+          "1000055296",
+          "1000055294"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-04T21:11:30Z",
@@ -47,6 +67,6 @@
         ]
       }
     ],
-    "totalCount": 2
+    "totalCount": 3
   }
 }

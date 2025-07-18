@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-17T20:58:30.304Z",
+  "checkedAt": "2025-07-18T23:40:06.546Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -359,10 +359,11 @@
         "summary": "Hide/delete most grass statics references on the fly to be rendered as moving grass by MGE-XE instead.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52764/52764-1682943930-205526499.jpeg",
         "uid": "429496782364",
-        "updatedAt": "2025-06-22T11:56:37Z",
+        "updatedAt": "2025-07-18T10:01:40Z",
         "fileIds": [
-          "1000054619",
+          "1000055309",
           "1000047884",
+          "1000054619",
           "1000037983",
           "1000044387",
           "1000046735",
