@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-18T23:40:17.982Z",
+  "checkedAt": "2025-07-19T22:45:34.460Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -200,13 +200,14 @@
         "summary": "Adds a Fallout 4-style loot menu to Morrowind. Requires MWSE-lua.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46283/46283-1546763708-1781409341.png",
         "uid": "429496775883",
-        "updatedAt": "2025-06-04T02:53:04Z",
+        "updatedAt": "2025-07-19T22:27:33Z",
         "fileIds": [
-          "1000054063",
+          "1000055351",
           "1000023383",
           "1000021258",
           "1000013067",
           "1000047916",
+          "1000054063",
           "1000048011",
           "1000023949",
           "1000013456",

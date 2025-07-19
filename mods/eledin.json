@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-18T23:40:11.524Z",
+  "checkedAt": "2025-07-19T22:45:26.317Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -33,7 +33,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-11T16:34:33Z",
-        "fileSize": 130743,
+        "fileSize": 237272,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -41,12 +41,14 @@
         "modId": 56572,
         "name": "Dynamic Sounds for OpenMW",
         "status": "published",
-        "summary": "Lua sound effects extension",
+        "summary": "Lua sound effects extension that dynamically adds ambient sounds and creature sounds.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56572/56572-1746980774-956852264.png",
         "uid": "429496786172",
-        "updatedAt": "2025-07-05T09:45:29Z",
+        "updatedAt": "2025-07-19T20:52:26Z",
         "fileIds": [
-          "1000054955",
+          "1000055338",
+          "1000055334",
+          "1000055350",
           "1000053784",
           "1000052775",
           "1000052789",
@@ -57,6 +59,7 @@
           "1000053615",
           "1000054385",
           "1000052868",
+          "1000054955",
           "1000052910",
           "1000052926",
           "1000053190",
