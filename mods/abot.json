@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-19T22:45:20.739Z",
+  "checkedAt": "2025-07-20T23:25:13.300Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -604,7 +604,13 @@
         "summary": "on the fly darkening of any interior cell without per-cell customization/color storageNote: as cells light changes are cached per Morrowind.exe game session, changes done in the MCM panel are effective only on visiting a not yet visited",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50988/50988-1650104911-2109662694.jpeg",
         "uid": "429496780588",
-        "updatedAt": "2024-07-20T11:32:57Z"
+        "updatedAt": "2025-07-20T13:19:31Z",
+        "fileIds": [
+          "1000055354",
+          "1000046363",
+          "1000033202",
+          "1000030129"
+        ]
       },
       {
         "adultContent": false,
