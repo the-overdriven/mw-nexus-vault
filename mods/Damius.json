@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-07-20T23:25:18.721Z",
+  "checkedAt": "2025-07-23T20:25:17.784Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 39
+        "100": 40
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-23T19:24:48Z",
+        "fileSize": 617,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 57172,
+        "name": "Glowing Daedric Weapons",
+        "status": "published",
+        "summary": "Adds glowmapping to Vanilla Daedric Weapons",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57172/57172-1753296733-1634297757.png",
+        "uid": "429496786772",
+        "updatedAt": "2025-07-23T19:24:48Z",
+        "fileIds": [
+          "1000055409"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-03-15T01:23:50Z",
@@ -289,7 +308,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-14T02:06:39Z",
-        "fileSize": 196,
+        "fileSize": 132,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -300,7 +319,27 @@
         "summary": "Adds glow maps to several Glass and Daedric mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53504/53504-1694656986-498508784.png",
         "uid": "429496783104",
-        "updatedAt": "2023-12-07T12:15:26Z"
+        "updatedAt": "2025-07-23T19:46:35Z",
+        "fileIds": [
+          "1000040169",
+          "1000040234",
+          "1000040165",
+          "1000055410",
+          "1000055411",
+          "1000040168",
+          "1000055414",
+          "1000055415",
+          "1000055412",
+          "1000055413",
+          "1000055418",
+          "1000055416",
+          "1000055417",
+          "1000041348",
+          "1000040175",
+          "1000040166",
+          "1000040183",
+          "1000040184"
+        ]
       },
       {
         "adultContent": false,
@@ -316,7 +355,12 @@
         "summary": "Glowmaps the glass and daedric items to match Glass Glowset and Daedric Weapons Enhanced.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53482/53482-1694235533-1437926442.png",
         "uid": "429496783082",
-        "updatedAt": "2023-09-09T05:03:09Z"
+        "updatedAt": "2025-07-23T20:00:31Z",
+        "fileIds": [
+          "1000040105",
+          "1000040104",
+          "1000055420"
+        ]
       },
       {
         "adultContent": false,
@@ -693,6 +737,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 39
+    "totalCount": 40
   }
 }

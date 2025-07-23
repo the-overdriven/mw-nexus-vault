@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-20T23:25:34.364Z",
+  "checkedAt": "2025-07-23T20:25:37.921Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -181,7 +181,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-01-14T13:44:45Z",
-        "fileSize": 3180,
+        "fileSize": 3440,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -192,9 +192,9 @@
         "summary": "Replaces generic Imperial Guards with levelled variants in the same vein as IO - Imperials and IO - Solstheim.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55776/55776-1748618284-382006368.png",
         "uid": "429496785376",
-        "updatedAt": "2025-06-10T08:29:02Z",
+        "updatedAt": "2025-07-22T10:19:35Z",
         "fileIds": [
-          "1000054287",
+          "1000055386",
           "1000052307"
         ]
       },
@@ -277,7 +277,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-10-23T19:46:17Z",
-        "fileSize": 4084,
+        "fileSize": 4095,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -288,10 +288,10 @@
         "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Elucidace, and others to various Imperial-aligned npcs to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53651/53651-1734260584-832745766.png",
         "uid": "429496783251",
-        "updatedAt": "2025-05-29T07:55:13Z",
+        "updatedAt": "2025-07-22T09:25:02Z",
         "fileIds": [
-          "1000053748",
-          "1000053756",
+          "1000055384",
+          "1000055385",
           "1000041621"
         ]
       },
@@ -358,7 +358,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-01-14T14:46:31Z",
-        "fileSize": 11865,
+        "fileSize": 11872,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -369,10 +369,10 @@
         "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Kellborn, RealAshtaar, and others to various Great House and miscellaneous npcs to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52167/52167-1742639887-1993541451.png",
         "uid": "429496781767",
-        "updatedAt": "2025-06-02T08:30:08Z",
+        "updatedAt": "2025-07-22T08:33:23Z",
         "fileIds": [
-          "1000053995",
-          "1000053753",
+          "1000055379",
+          "1000055380",
           "1000040722",
           "1000045586",
           "1000039737",

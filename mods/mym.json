@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-20T23:25:26.664Z",
+  "checkedAt": "2025-07-23T20:25:29.634Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,9 +21,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2025-07-20T17:50:03Z",
+        "updatedAt": "2025-07-22T22:01:04Z",
         "fileIds": [
-          "1000055360",
+          "1000055395",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -35,6 +35,7 @@
           "1000050477",
           "1000054317",
           "1000055359",
+          "1000055360",
           "1000051786",
           "1000052811",
           "1000051790",
@@ -64,7 +65,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-07T07:47:50Z",
-        "fileSize": 32,
+        "fileSize": 33,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -75,9 +76,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2025-07-17T12:26:34Z",
+        "updatedAt": "2025-07-23T06:37:34Z",
         "fileIds": [
-          "1000055286",
+          "1000055401",
           "1000051201",
           "1000048667",
           "1000050717",
@@ -86,6 +87,7 @@
           "1000051501",
           "1000048690",
           "1000054341",
+          "1000055367",
           "1000049228",
           "1000054092",
           "1000051277",
@@ -107,6 +109,7 @@
           "1000048864",
           "1000050915",
           "1000048886",
+          "1000055286",
           "1000048887",
           "1000048889",
           "1000050939",
@@ -204,7 +207,7 @@
           "name": "Gameplay"
         },
         "modId": 54337,
-        "name": "Better Merchants Skills for OpenMW",
+        "name": "Better Merchants Skills (OpenMW)",
         "status": "published",
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants. It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
