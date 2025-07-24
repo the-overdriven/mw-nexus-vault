@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-23T20:25:40.747Z",
+  "checkedAt": "2025-07-24T18:10:05.698Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-29T23:08:29Z",
-        "fileSize": 58453,
+        "fileSize": 60398,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -21,10 +21,11 @@
         "summary": "Replaces Starwind armor and weapons with new assets.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56571/56571-1746980101-1646817129.png",
         "uid": "429496786171",
-        "updatedAt": "2025-06-30T10:28:46Z",
+        "updatedAt": "2025-07-24T12:08:57Z",
         "fileIds": [
-          "1000054830",
+          "1000055431",
           "1000053793",
+          "1000054830",
           "1000054076"
         ]
       },
