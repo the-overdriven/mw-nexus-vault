@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2025-07-25T23:41:05.291Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-24T22:43:02Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57178,
+        "name": "Simple Configurable Head Bobbing (MWSE)",
+        "status": "published",
+        "summary": "Beautiful and immersive head bobbing to your MWSE load out! Video example in description.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57178/57178-1753396363-23752585.jpg",
+        "uid": "429496786778",
+        "updatedAt": "2025-07-24T22:43:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-07T16:52:43Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 57093,
+        "name": "Robin's patches",
+        "status": "published",
+        "summary": "Collection of patches made by me.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57093/57093-1751906266-43770887.jpg",
+        "uid": "429496786693",
+        "updatedAt": "2025-07-19T18:17:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-01T21:52:17Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 56832,
+        "name": "Talking Matters Remastered (Speechcraft Overhaul)",
+        "status": "published",
+        "summary": "A complete overhaul of Speechcraft for a more immersive, system driven, and roleplay friendly experience when talking to NPCs. Your speechcraft now dictates how much people want to talk with you, you train speechcraft by talking, talking",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56832/56832-1748812689-1195837440.jpeg",
+        "uid": "429496786432",
+        "updatedAt": "2025-06-01T21:52:17Z"
+      }
+    ],
+    "totalCount": 3
+  }
+}

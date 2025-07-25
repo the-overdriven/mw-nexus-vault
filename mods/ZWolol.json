@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-24T18:10:08.025Z",
+  "checkedAt": "2025-07-25T23:41:09.462Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -57,7 +57,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-02-05T06:18:28Z",
-        "fileSize": 371,
+        "fileSize": 18646,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -68,7 +68,31 @@
         "summary": "Fedezd fel Vardenfell szigetét. Új kalandok várnak rád, izgalmas új helyek, amelyeket felfedezhetsz és feltárhatsz, és új leletek várnak felfedezésre.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50729/50729-1644041424-734806195.jpeg",
         "uid": "429496780329",
-        "updatedAt": "2024-12-06T15:37:07Z"
+        "updatedAt": "2025-07-25T23:36:26Z",
+        "fileIds": [
+          "1000048653",
+          "1000055461",
+          "1000048655",
+          "1000029560",
+          "1000048656",
+          "1000032979",
+          "1000033978",
+          "1000036271",
+          "1000038282",
+          "1000040191",
+          "1000041857",
+          "1000044200",
+          "1000048654",
+          "1000036757",
+          "1000038283",
+          "1000032980",
+          "1000033979",
+          "1000036272",
+          "1000038284",
+          "1000040192",
+          "1000041858",
+          "1000044201"
+        ]
       },
       {
         "adultContent": false,
