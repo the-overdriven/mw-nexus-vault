@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-07-25T23:41:06.815Z",
+  "checkedAt": "2025-07-26T17:24:56.086Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 38
+        "100": 39
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-26T06:48:49Z",
+        "fileSize": 212,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57187,
+        "name": "Nix-Mount Riding (OpenMW)",
+        "status": "published",
+        "summary": "Explore the lands of Morrowind on a Nix-Mount.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57187/57187-1753512148-32906660.png",
+        "uid": "429496786787",
+        "updatedAt": "2025-07-26T06:48:49Z",
+        "fileIds": [
+          "1000055465"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-24T10:14:22Z",
@@ -642,6 +661,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 38
+    "totalCount": 39
   }
 }
