@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-07-27T20:53:36.053Z",
+  "checkedAt": "2025-07-28T19:29:34.169Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13
+        "100": 14
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-27T21:23:23Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57195,
+        "name": "Click to Draw",
+        "status": "published",
+        "summary": "Allows you to use your mouse to ready your weapon, spell, and also put them away.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57195/57195-1753651079-1962931778.jpg",
+        "uid": "429496786795",
+        "updatedAt": "2025-07-27T21:45:52Z",
+        "fileIds": [
+          "1000055504",
+          "1000055503"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-04-12T09:51:05Z",
@@ -239,6 +259,6 @@
         "updatedAt": "2023-09-05T09:33:32Z"
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }

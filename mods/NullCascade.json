@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-07-27T20:53:45.596Z",
+  "checkedAt": "2025-07-28T19:29:45.380Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 36,
+        "100": 37,
         "1155": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-28T16:39:20Z",
+        "fileSize": 11244,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 57200,
+        "name": "MGE XE UF",
+        "status": "published",
+        "summary": "An unofficial fork of MGE XE, testing stable features not yet in the official MGE XE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57200/57200-1753720744-1027953443.jpg",
+        "uid": "429496786800",
+        "updatedAt": "2025-07-28T16:39:20Z",
+        "fileIds": [
+          "1000055519"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-03-05T07:38:59Z",
@@ -619,6 +638,6 @@
         "updatedAt": "2017-11-11T07:20:09Z"
       }
     ],
-    "totalCount": 36
+    "totalCount": 37
   }
 }
