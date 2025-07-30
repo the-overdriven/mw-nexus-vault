@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-28T19:29:43.399Z",
+  "checkedAt": "2025-07-30T20:16:24.918Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -1227,7 +1227,7 @@
       {
         "adultContent": false,
         "createdAt": "2016-03-09T04:27:48Z",
-        "fileSize": 11890,
+        "fileSize": 11495,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -1238,7 +1238,11 @@
         "summary": "Some tweaks and improvements to the original White Suran 2 mod which gives Suran a unique, pearly white texture to distinguish it from other Hlaalu settlements.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44153-7-1457496526.jpg",
         "uid": "429496773753",
-        "updatedAt": "2023-11-30T00:08:17Z"
+        "updatedAt": "2025-07-30T14:56:01Z",
+        "fileIds": [
+          "1000055564",
+          "1000041247"
+        ]
       },
       {
         "adultContent": false,

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-28T19:29:47.757Z",
+  "checkedAt": "2025-07-30T20:16:28.625Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -1368,7 +1368,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-01-15T19:47:55Z",
-        "fileSize": 31045,
+        "fileSize": 23666,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -1379,9 +1379,9 @@
         "summary": "Overhaul of the Ashlander Camps",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49221/49221-1610712676-1916660402.jpeg",
         "uid": "429496778821",
-        "updatedAt": "2025-06-02T18:32:09Z",
+        "updatedAt": "2025-07-28T20:38:29Z",
         "fileIds": [
-          "1000054012",
+          "1000055523",
           "1000022547",
           "1000022535",
           "1000022542",

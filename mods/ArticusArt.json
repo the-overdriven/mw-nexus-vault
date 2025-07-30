@@ -1,69 +1,12 @@
 {
-  "checkedAt": "2025-07-28T19:29:31.981Z",
+  "checkedAt": "2025-07-30T20:16:09.999Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 46
+        "100": 37
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2025-06-04T12:21:46Z",
-        "fileSize": 3571,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 56859,
-        "name": "Cuirass of the Savior's Hide Replacer",
-        "status": "published",
-        "summary": "Replaces Cuirass of the Savior's Hide HQ model and HQ textures (2048 px), also adds a fur cloak in the back and female version. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56859/56859-1749041061-1559870402.jpeg",
-        "uid": "429496786459",
-        "updatedAt": "2025-06-17T07:51:01Z",
-        "fileIds": [
-          "1000054495"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-06-03T15:27:18Z",
-        "fileSize": 1401,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 56850,
-        "name": "Masque of Clavicus Vile Replacer",
-        "status": "published",
-        "summary": "Replaces Masque of Clavicus Vile with HQ model and HQ textures (1024 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56850/56850-1748964276-1762431680.jpeg",
-        "uid": "429496786450",
-        "updatedAt": "2025-06-03T15:27:18Z",
-        "fileIds": [
-          "1000054039"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-31T21:32:56Z",
-        "fileSize": 635,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 56817,
-        "name": "Mace of Molag Bal Replacer",
-        "status": "published",
-        "summary": "Replaces Mace of Molag Bal with HQ model and HQ texture (1024 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56817/56817-1748727066-1210753066.jpeg",
-        "uid": "429496786417",
-        "updatedAt": "2025-05-31T21:32:56Z",
-        "fileIds": [
-          "1000053918"
-        ]
-      },
       {
         "adultContent": false,
         "createdAt": "2025-05-31T10:53:51Z",
@@ -81,101 +24,6 @@
         "updatedAt": "2025-05-31T11:08:24Z",
         "fileIds": [
           "1000053893"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-30T09:23:32Z",
-        "fileSize": 2142,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 56802,
-        "name": "Boots of Apostle Replacer",
-        "status": "published",
-        "summary": "Replaces Boots of Apostle with HQ model and HQ texture (2048 px).  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56802/56802-1748702738-1214549785.jpeg",
-        "uid": "429496786402",
-        "updatedAt": "2025-05-31T14:45:19Z",
-        "fileIds": [
-          "1000053903"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-27T15:13:41Z",
-        "fileSize": 1157,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 56761,
-        "name": "Ten Pace Boots Replacer Fix",
-        "status": "published",
-        "summary": "Replaces Ten Pace Boots with HQ model and HQ texture (2048 px) and fixes them.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56761/56761-1748358688-1608332012.jpeg",
-        "uid": "429496786361",
-        "updatedAt": "2025-05-30T08:48:03Z",
-        "fileIds": [
-          "1000053832"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-27T08:19:03Z",
-        "fileSize": 607,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 56756,
-        "name": "Skullcrusher Replacer",
-        "status": "published",
-        "summary": "Replaces Skullcrusher warhammer with HQ model and HQ texture (1024 px) and adds glowing details.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56756/56756-1748333839-723313709.jpeg",
-        "uid": "429496786356",
-        "updatedAt": "2025-05-27T08:19:03Z",
-        "fileIds": [
-          "1000053651"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-26T13:53:30Z",
-        "fileSize": 11067,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 56748,
-        "name": "Bipolar Blade Replacer",
-        "status": "published",
-        "summary": "Replaces Bipolar claymore with HQ model and HQ textures (2048 px), adds glowing gems and adds animated magical particles. Particles are flying in the air after Bipolar blade changes its position. All you need is to place conteining files to",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56748/56748-1748268180-996823875.jpeg",
-        "uid": "429496786348",
-        "updatedAt": "2025-05-26T13:53:30Z",
-        "fileIds": [
-          "1000053609"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-25T20:59:19Z",
-        "fileSize": 1707,
-        "modCategory": {
-          "categoryId": 37,
-          "name": "Armour - Shields"
-        },
-        "modId": 56737,
-        "name": "Eleidon's Ward Replacer",
-        "status": "published",
-        "summary": "Replaces Eleidon's Ward towershield  with HQ models and HQ textures (1024 px) and adds glowing details.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56737/56737-1748206614-1965013594.jpeg",
-        "uid": "429496786337",
-        "updatedAt": "2025-05-25T20:59:19Z",
-        "fileIds": [
-          "1000053557"
         ]
       },
       {
@@ -662,31 +510,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2018-09-16T19:26:44Z",
-        "fileSize": 180484,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46044,
-        "name": "Daedric Intervention",
-        "status": "published",
-        "summary": "This big pluginless compilation adds a High Quality (2048) textures for Daedric architecture, creatures, armors and weapons.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46044/46044-1552133011-836693969.png",
-        "uid": "429496775644",
-        "updatedAt": "2025-04-25T12:28:03Z",
-        "fileIds": [
-          "1000052103",
-          "1000052097",
-          "1000012729",
-          "1000011950",
-          "1000052098",
-          "1000050081",
-          "1000015545"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2018-09-03T23:32:24Z",
         "fileSize": 15998,
         "modCategory": {
@@ -849,6 +672,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 46
+    "totalCount": 37
   }
 }

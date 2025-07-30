@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-28T19:29:48.680Z",
+  "checkedAt": "2025-07-30T20:16:30.107Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-07-24T22:43:02Z",
-        "fileSize": 5,
+        "fileSize": 7,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -18,14 +18,15 @@
         "modId": 57178,
         "name": "Simple Configurable Head Bobbing (MWSE)",
         "status": "published",
-        "summary": "Beautiful and immersive head bobbing to your MWSE load out! Video example in description.",
+        "summary": "Beautiful and immersive head bobbing, view rolling and camera noise to your MWSE load out! Video example in description.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57178/57178-1753396363-23752585.jpg",
         "uid": "429496786778",
-        "updatedAt": "2025-07-28T10:41:02Z",
+        "updatedAt": "2025-07-29T18:04:01Z",
         "fileIds": [
-          "1000055514",
+          "1000055546",
           "1000055446",
-          "1000055507"
+          "1000055507",
+          "1000055514"
         ]
       },
       {

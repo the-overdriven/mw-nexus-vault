@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-07-28T19:29:34.169Z",
+  "checkedAt": "2025-07-30T20:16:11.460Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -182,7 +182,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-01-01T09:55:51Z",
-        "fileSize": 34,
+        "fileSize": 85,
         "modCategory": {
           "categoryId": 33,
           "name": "Magic"
@@ -193,9 +193,9 @@
         "summary": "Ultimate magicka regeneration mod for Morrowind!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49153/49153-1609427659-1018063805.png",
         "uid": "429496778753",
-        "updatedAt": "2025-07-26T21:11:18Z",
+        "updatedAt": "2025-07-29T17:30:51Z",
         "fileIds": [
-          "1000055477",
+          "1000055544",
           "1000055478",
           "1000032921",
           "1000032944",
@@ -206,6 +206,7 @@
           "1000028315",
           "1000032943",
           "1000023989",
+          "1000055477",
           "1000028857",
           "1000028626"
         ]
