@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-07-31T19:24:07.497Z",
+  "checkedAt": "2025-08-02T19:23:53.876Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3
+        "100": 4
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-02T05:50:38Z",
+        "fileSize": 242,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 57224,
+        "name": "Baar_Dau (COS)",
+        "status": "published",
+        "summary": "Standalone version of Baar Dau from the mod \"Vivec - City of Swords\".Includes the overhauled interior as well as the unique exterior model",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57224/57224-1754113439-1159029882.png",
+        "uid": "429496786824",
+        "updatedAt": "2025-08-02T05:50:38Z",
+        "fileIds": [
+          "1000055606"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-02-24T21:43:09Z",
@@ -60,6 +79,6 @@
         "updatedAt": "2023-12-13T16:34:03Z"
       }
     ],
-    "totalCount": 3
+    "totalCount": 4
   }
 }

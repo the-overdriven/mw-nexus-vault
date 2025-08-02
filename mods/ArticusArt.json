@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-07-31T19:24:03.522Z",
+  "checkedAt": "2025-08-02T19:23:50.570Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 37
+        "100": 34
       }
     },
     "nodes": [
@@ -138,25 +138,6 @@
         "updatedAt": "2025-04-25T12:55:50Z",
         "fileIds": [
           "1000052105"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-28T21:22:11Z",
-        "fileSize": 19232,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 56108,
-        "name": "Insane Dwemer Armor Replacer",
-        "status": "published",
-        "summary": "Replaces Dwemer Armor with new HQ models and 2K textures. This mod is designed to work with InsanitySorrow's dwemer weapons. Helmet has a climate control. Spellbreaker is reforged too.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56108/56108-1742764597-971555088.jpeg",
-        "uid": "429496785708",
-        "updatedAt": "2025-04-24T21:06:05Z",
-        "fileIds": [
-          "1000052090"
         ]
       },
       {
@@ -333,25 +314,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2025-01-02T16:12:50Z",
-        "fileSize": 24544,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 55713,
-        "name": "Templar Armor Replacer by Articus",
-        "status": "published",
-        "summary": "Replaces Templar Armor with new non-segmented version designed to work with Better Bodies or Robert Bodies.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55713/55713-1735834062-993307276.jpeg",
-        "uid": "429496785313",
-        "updatedAt": "2025-01-02T16:30:54Z",
-        "fileIds": [
-          "1000049262"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2024-12-31T15:10:52Z",
         "fileSize": 2535,
         "modCategory": {
@@ -365,25 +327,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55694/55694-1735657565-804193253.jpeg",
         "uid": "429496785294",
         "updatedAt": "2024-12-31T15:10:52Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2024-12-25T10:57:08Z",
-        "fileSize": 32923,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 55645,
-        "name": "Imperial Armor Replacer",
-        "status": "published",
-        "summary": "Replaces Imperial Armor with new non-segmented version designed to work with Better Bodies or Robert Bodies.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55645/55645-1735902571-606390998.jpeg",
-        "uid": "429496785245",
-        "updatedAt": "2025-06-27T00:17:08Z",
-        "fileIds": [
-          "1000054742"
-        ]
       },
       {
         "adultContent": false,
@@ -672,6 +615,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 37
+    "totalCount": 34
   }
 }

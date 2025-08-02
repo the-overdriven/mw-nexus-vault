@@ -1,12 +1,58 @@
 {
-  "checkedAt": "2025-07-31T19:24:17.071Z",
+  "checkedAt": "2025-08-02T19:24:05.230Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3
+        "100": 5
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-02T19:01:20Z",
+        "fileSize": 27000,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57230,
+        "name": "Shipyards of Vvardenfell - Fully Voiced",
+        "status": "published",
+        "summary": "Adds fully AI-voiced dialogue to Shipyards of Vvardenfell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57230/57230-1754160862-628421314.jpg",
+        "uid": "429496786830",
+        "updatedAt": "2025-08-02T19:01:20Z",
+        "fileIds": [
+          "1000055621",
+          "1000055619",
+          "1000055620",
+          "1000055618",
+          "1000055617"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-02T15:59:24Z",
+        "fileSize": 18891,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57227,
+        "name": "Ebonheart Underworks - Fully Voiced",
+        "status": "published",
+        "summary": "Adds fully AI-voiced dialogue to Ebonheart Underworks.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57227/57227-1754149102-880220153.jpg",
+        "uid": "429496786827",
+        "updatedAt": "2025-08-02T15:59:24Z",
+        "fileIds": [
+          "1000055614",
+          "1000055611",
+          "1000055613",
+          "1000055610",
+          "1000055612"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-07-18T07:06:04Z",
@@ -67,6 +113,6 @@
         ]
       }
     ],
-    "totalCount": 3
+    "totalCount": 5
   }
 }
