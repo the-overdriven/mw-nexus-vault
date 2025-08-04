@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-08-04T00:25:10.634Z",
+  "checkedAt": "2025-08-04T21:05:49.794Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 11
+        "100": 12
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-04T05:52:58Z",
+        "fileSize": 70,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 57237,
+        "name": "Death of a Potter",
+        "status": "published",
+        "summary": "In the West Gash a humble potter has me an untimely demises due to some unusual circumstances.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57237/57237-1754285942-728912289.png",
+        "uid": "429496786837",
+        "updatedAt": "2025-08-04T05:52:58Z",
+        "fileIds": [
+          "1000055655"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2023-05-04T16:34:50Z",
@@ -193,6 +212,6 @@
         "updatedAt": "2019-07-05T02:18:33Z"
       }
     ],
-    "totalCount": 11
+    "totalCount": 12
   }
 }

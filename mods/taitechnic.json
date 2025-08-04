@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-04T00:25:19.945Z",
+  "checkedAt": "2025-08-04T21:06:00.595Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -39,13 +39,14 @@
         "modId": 55572,
         "name": "OpenMW Dynamic Ambient Visual Effects",
         "status": "published",
-        "summary": "Now under a new name! NEW : Floating dust in tombs and crypts. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
+        "summary": "NEW : Optional Baar Dau rotating ring add-on. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55572/55572-1741462216-1564911577.png",
         "uid": "429496785172",
-        "updatedAt": "2025-06-23T22:30:07Z",
+        "updatedAt": "2025-08-04T18:43:40Z",
         "fileIds": [
-          "1000054662",
-          "1000051096"
+          "1000055668",
+          "1000055669",
+          "1000054662"
         ]
       },
       {

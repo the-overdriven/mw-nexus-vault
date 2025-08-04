@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-04T00:25:09.009Z",
+  "checkedAt": "2025-08-04T21:05:45.659Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -72,7 +72,14 @@
         "summary": "Adds a quick select menu, trying to fill the gap between quick key items and the rest of your inventory. The menu has several tabs, some of which are generated automatically, based on your inventory. e.g., press a button to see all your",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54219/54219-1709404648-574126906.jpeg",
         "uid": "429496783819",
-        "updatedAt": "2024-05-05T10:59:05Z"
+        "updatedAt": "2025-08-04T09:05:00Z",
+        "fileIds": [
+          "1000055656",
+          "1000043516",
+          "1000044461",
+          "1000043229",
+          "1000043517"
+        ]
       },
       {
         "adultContent": false,
@@ -141,7 +148,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-01-31T13:52:57Z",
-        "fileSize": 18,
+        "fileSize": 17,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -152,7 +159,15 @@
         "summary": "Based on qqqbbb's original mod, rewritten with a focus on interopability and stability. It is now considerably easier for other mods to play open/close animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54083/54083-1706708631-1647080983.jpeg",
         "uid": "429496783683",
-        "updatedAt": "2024-02-18T20:28:31Z"
+        "updatedAt": "2025-08-04T18:11:38Z",
+        "fileIds": [
+          "1000055667",
+          "1000042410",
+          "1000055657",
+          "1000055659",
+          "1000042409",
+          "1000042957"
+        ]
       },
       {
         "adultContent": false,
@@ -205,7 +220,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-12-08T14:32:40Z",
-        "fileSize": 62,
+        "fileSize": 61,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -216,9 +231,9 @@
         "summary": "QuickLoot, with many new features and a revamped UI. Pick up one item from a stack, see item prices and weights, pickup nearby items. Dedicated menus for bartering, pickpocketing, plants, and training, each with their own features and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53809/53809-1702038830-789574628.jpeg",
         "uid": "429496783409",
-        "updatedAt": "2025-06-07T08:10:33Z",
+        "updatedAt": "2025-08-04T10:57:50Z",
         "fileIds": [
-          "1000054200",
+          "1000055663",
           "1000041484",
           "1000041375",
           "1000041636",
@@ -230,9 +245,11 @@
           "1000041776",
           "1000054073",
           "1000042051",
+          "1000055658",
           "1000041868",
           "1000042661",
           "1000054199",
+          "1000054200",
           "1000042994",
           "1000042492"
         ]

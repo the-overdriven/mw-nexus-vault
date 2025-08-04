@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-08-04T00:25:04.029Z",
+  "checkedAt": "2025-08-04T21:05:40.098Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34
+        "100": 33
       }
     },
     "nodes": [
@@ -176,25 +176,6 @@
         "updatedAt": "2025-02-22T10:58:31Z",
         "fileIds": [
           "1000050622"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-15T10:53:07Z",
-        "fileSize": 103983,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 56016,
-        "name": "Articus Telvanni 2K Retexture",
-        "status": "published",
-        "summary": "Replaces Telvanni textures of buildings, furniture, banners and fungus with HQ resolution (2048). All textures are fully reworked and lore friendly.All you need is to copy conteining files to your Morrowind/Data Files directory.Enjoy the",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56016/56016-1739616404-1351577752.jpeg",
-        "uid": "429496785616",
-        "updatedAt": "2025-02-22T08:50:24Z",
-        "fileIds": [
-          "1000050612"
         ]
       },
       {
@@ -615,6 +596,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 34
+    "totalCount": 33
   }
 }
