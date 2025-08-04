@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-02T19:23:58.366Z",
+  "checkedAt": "2025-08-04T00:25:10.922Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,11 +21,12 @@
         "summary": "Now NPCs and Creatures can \"jump\" to overcome obstacles, and during fight. This mod can also unstuck them in some situations. Actors (including player) can get out water.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57167/57167-1753189063-490461608.jpg",
         "uid": "429496786767",
-        "updatedAt": "2025-07-28T07:06:57Z",
+        "updatedAt": "2025-08-03T16:21:39Z",
         "fileIds": [
-          "1000055513",
+          "1000055637",
           "1000055389",
-          "1000055419"
+          "1000055419",
+          "1000055513"
         ]
       },
       {
