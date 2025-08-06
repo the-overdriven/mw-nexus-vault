@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-08-04T21:05:45.659Z",
+  "checkedAt": "2025-08-06T22:03:55.557Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16
+        "100": 17
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-05T09:32:11Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57239,
+        "name": "Herbert's Integer Selection System (HISS)",
+        "status": "published",
+        "summary": "Allows several in-game menus to be navigated by using the 0-9 number keys. Some menus can now also be closed by pressing Escape. (See screenshots.) Requires MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57239/57239-1754385550-1891635792.png",
+        "uid": "429496786839",
+        "updatedAt": "2025-08-05T09:32:11Z",
+        "fileIds": [
+          "1000055675"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-04-01T23:17:59Z",
@@ -303,6 +322,6 @@
         "updatedAt": "2024-02-18T19:58:47Z"
       }
     ],
-    "totalCount": 16
+    "totalCount": 17
   }
 }

@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-08-04T21:05:42.153Z",
+  "checkedAt": "2025-08-06T22:03:52.176Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 40
+        "100": 41
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-05T09:15:17Z",
+        "fileSize": 1746,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 57242,
+        "name": "Darker Pasoroth Armour",
+        "status": "published",
+        "summary": "Darkens Grasping Fortunes unique Pasoroth armour set to more blend in with vanilla Ebony sets.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57242/57242-1754384299-516103534.png",
+        "uid": "429496786842",
+        "updatedAt": "2025-08-06T11:28:54Z",
+        "fileIds": [
+          "1000055674",
+          "1000055696"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-07-23T19:24:48Z",
@@ -744,6 +764,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 40
+    "totalCount": 41
   }
 }

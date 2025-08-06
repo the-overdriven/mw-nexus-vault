@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-04T21:05:41.368Z",
+  "checkedAt": "2025-08-06T22:03:51.228Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -175,7 +175,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-11-23T22:32:18Z",
-        "fileSize": 906,
+        "fileSize": 1081,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -183,15 +183,14 @@
         "modId": 55480,
         "name": "Skyrim Style Quest Notifications Great Patch Hub",
         "status": "published",
-        "summary": "Adds 800+ new icons and mod support for 2000+ quests!",
+        "summary": "Adds 900+ new icons and mod support for 2300+ quests!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55480/55480-1732400790-905115982.png",
         "uid": "429496785080",
-        "updatedAt": "2025-06-16T17:15:56Z",
+        "updatedAt": "2025-08-04T23:22:04Z",
         "fileIds": [
-          "1000052233",
-          "1000052234",
-          "1000054477",
+          "1000055671",
           "1000050438",
+          "1000052233",
           "1000048657",
           "1000048431",
           "1000050747",
@@ -205,7 +204,9 @@
           "1000051675",
           "1000050655",
           "1000048631",
+          "1000054477",
           "1000050439",
+          "1000052234",
           "1000048658",
           "1000050748",
           "1000048452",

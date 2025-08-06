@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-08-04T21:05:56.609Z",
+  "checkedAt": "2025-08-06T22:04:03.597Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 106
+        "100": 107
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-06T18:14:30Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 57252,
+        "name": "Skylamps",
+        "status": "published",
+        "summary": "This is a simple mod that adds Skylamps to the Red Mountain Region.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57252/57252-1754503097-90743290.jpg",
+        "uid": "429496786852",
+        "updatedAt": "2025-08-06T18:14:30Z",
+        "fileIds": [
+          "1000055711"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-12-18T17:51:22Z",
@@ -1522,24 +1541,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48868/48868-1600903121-1129449351.jpeg",
         "uid": "429496778468",
         "updatedAt": "2020-09-23T23:23:59Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-09-21T09:37:14Z",
-        "fileSize": 666,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 48857,
-        "name": "Grass for Trackless Grazeland",
-        "status": "published",
-        "summary": "Custom generated grass for the mod \"Trackless Grazeland\".",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48857/48857-1600678841-2084118104.jpeg",
-        "uid": "429496778457",
-        "updatedAt": "2023-06-25T19:18:22Z"
       }
     ],
-    "totalCount": 106
+    "totalCount": 107
   }
 }
