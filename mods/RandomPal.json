@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-08-06T22:04:03.597Z",
+  "checkedAt": "2025-08-08T18:00:41.656Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 107
+        "100": 108
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-08T15:59:16Z",
+        "fileSize": 32,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 57256,
+        "name": "The House That Grew a Dungeon - A house mod for Tamriel Rebuilt",
+        "status": "published",
+        "summary": "House mod for Tamriel Rebuilt featuring a seamlessly integrated dungeon",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57256/57256-1754588542-871166860.jpg",
+        "uid": "429496786856",
+        "updatedAt": "2025-08-08T15:59:16Z",
+        "fileIds": [
+          "1000055756"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-06T18:14:30Z",
@@ -1525,24 +1544,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48870/48870-1600979621-765950669.jpeg",
         "uid": "429496778470",
         "updatedAt": "2021-03-06T19:23:16Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-09-23T23:23:59Z",
-        "fileSize": 3,
-        "modCategory": {
-          "categoryId": 28,
-          "name": "Patches"
-        },
-        "modId": 48868,
-        "name": "Striderports compatibility patch for RandomPal's town overhauls",
-        "status": "published",
-        "summary": "Compatibility patch for those using my town overhauls",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48868/48868-1600903121-1129449351.jpeg",
-        "uid": "429496778468",
-        "updatedAt": "2020-09-23T23:23:59Z"
       }
     ],
-    "totalCount": 107
+    "totalCount": 108
   }
 }
