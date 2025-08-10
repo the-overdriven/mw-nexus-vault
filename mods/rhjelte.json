@@ -1,16 +1,35 @@
 {
-  "checkedAt": "2025-08-08T18:00:43.093Z",
+  "checkedAt": "2025-08-10T12:30:52.651Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3
+        "100": 4
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2025-08-09T21:42:56Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57271,
+        "name": "Sneak Beneath - A Stand Alone add-on for Modernized 1st Person Experience (MWSE)",
+        "status": "published",
+        "summary": "Sneak Beneath allows you to finally crawl under things while sneaking in 1st person. Camera height is now your actual height! Adds systems to handle when you can stand up so you won't get stuck. Works stand alone, but with some nice extras",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57271/57271-1754774678-513188481.jpg",
+        "uid": "429496786871",
+        "updatedAt": "2025-08-09T21:42:56Z",
+        "fileIds": [
+          "1000055803"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-07-24T22:43:02Z",
-        "fileSize": 13,
+        "fileSize": 14,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -18,11 +37,12 @@
         "modId": 57178,
         "name": "Modernized 1st Person Experience (MWSE)",
         "status": "published",
-        "summary": "(1.5) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
+        "summary": "(1.6) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57178/57178-1754004564-620699054.jpg",
         "uid": "429496786778",
-        "updatedAt": "2025-08-06T13:41:02Z",
+        "updatedAt": "2025-08-08T19:10:14Z",
         "fileIds": [
+          "1000055765",
           "1000055697",
           "1000055600",
           "1000055623",
@@ -66,6 +86,6 @@
         "updatedAt": "2025-06-01T21:52:17Z"
       }
     ],
-    "totalCount": 3
+    "totalCount": 4
   }
 }

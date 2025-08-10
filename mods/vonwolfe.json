@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-08T18:00:46.494Z",
+  "checkedAt": "2025-08-10T12:31:00.384Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -33,7 +33,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-22T03:57:06Z",
-        "fileSize": 253816,
+        "fileSize": 253720,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -44,9 +44,9 @@
         "summary": "A complete overhaul of Starwinds weird and wonderful aliens.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56358/56358-1744880847-11731011.png",
         "uid": "429496785958",
-        "updatedAt": "2025-08-06T14:54:38Z",
+        "updatedAt": "2025-08-09T10:15:36Z",
         "fileIds": [
-          "1000055700",
+          "1000055786",
           "1000054558",
           "1000054837",
           "1000052056",
