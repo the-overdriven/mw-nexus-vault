@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-08-10T12:30:38.299Z",
+  "checkedAt": "2025-08-13T00:06:54.958Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 22
+        "100": 23
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-11T04:27:46Z",
+        "fileSize": 25,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 57275,
+        "name": "Farm Equipment Assisted Recovery",
+        "status": "published",
+        "summary": "Help Savile Imayn recover slaves from bandits and outlaws for gold, hunt down escaped slaves in 4 new quests.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57275/57275-1754885489-797161270.png",
+        "uid": "429496786875",
+        "updatedAt": "2025-08-11T04:27:46Z",
+        "fileIds": [
+          "1000055835",
+          "1000055836"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-26T06:35:47Z",
@@ -366,6 +386,6 @@
         "updatedAt": "2016-06-17T21:59:14Z"
       }
     ],
-    "totalCount": 22
+    "totalCount": 23
   }
 }

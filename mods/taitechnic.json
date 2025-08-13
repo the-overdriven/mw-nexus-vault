@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-10T12:30:57.105Z",
+  "checkedAt": "2025-08-13T00:07:08.420Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -31,7 +31,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-13T00:08:29Z",
-        "fileSize": 870,
+        "fileSize": 871,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -42,10 +42,12 @@
         "summary": "NEW : Optional Baar Dau rotating ring add-on. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55572/55572-1741462216-1564911577.png",
         "uid": "429496785172",
-        "updatedAt": "2025-08-04T18:43:40Z",
+        "updatedAt": "2025-08-11T19:02:04Z",
         "fileIds": [
-          "1000055668",
+          "1000055847",
+          "1000055848",
           "1000055669",
+          "1000055668",
           "1000054662"
         ]
       },
@@ -173,7 +175,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-04-25T23:35:14Z",
-        "fileSize": 88,
+        "fileSize": 118,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -181,10 +183,14 @@
         "modId": 54500,
         "name": "Flight Animated for OpenMW",
         "status": "published",
-        "summary": "UPDATE: Fix for a bug conflict with the mod ReAnimation v2 Rogue. Why Walk when you can Fly? A more suitable flying animation for when you're levitating in Morrowind.",
+        "summary": "UPDATE: Vertical movement using Jump and Sneak. Why Walk when you can Fly? A more suitable flying animation for when you're levitating in Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54500/54500-1714083847-125406856.png",
         "uid": "429496784100",
-        "updatedAt": "2024-08-18T18:30:16Z"
+        "updatedAt": "2025-08-10T19:58:24Z",
+        "fileIds": [
+          "1000055828",
+          "1000046800"
+        ]
       },
       {
         "adultContent": false,

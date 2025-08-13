@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-10T12:30:52.651Z",
+  "checkedAt": "2025-08-13T00:07:05.677Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -16,13 +16,15 @@
           "name": "Immersion"
         },
         "modId": 57271,
-        "name": "Sneak Beneath - A Stand Alone add-on for Modernized 1st Person Experience (MWSE)",
+        "name": "Sneak Beneath - a Stand Alone add-on for Modernized 1st Person Experience (MWSE)",
         "status": "published",
-        "summary": "Sneak Beneath allows you to finally crawl under things while sneaking in 1st person. Camera height is now your actual height! Adds systems to handle when you can stand up so you won't get stuck. Works stand alone, but with some nice extras",
+        "summary": "(1.1.1) Sneak Beneath allows you to finally crawl under things while sneaking in 1st person. Camera height is now your actual height! Adds systems to handle when you can stand up so you won't get stuck. Works stand alone, but with some nice",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57271/57271-1754774678-513188481.jpg",
         "uid": "429496786871",
-        "updatedAt": "2025-08-09T21:42:56Z",
+        "updatedAt": "2025-08-11T19:42:31Z",
         "fileIds": [
+          "1000055850",
+          "1000055829",
           "1000055803"
         ]
       },

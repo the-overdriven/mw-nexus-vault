@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-10T12:30:34.968Z",
+  "checkedAt": "2025-08-13T00:06:50.685Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -31,7 +31,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-03T03:28:54Z",
-        "fileSize": 12,
+        "fileSize": 20,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -42,7 +42,11 @@
         "summary": "Play the Tamriel Rebuilt game of Thirty-Six in real time!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56475/56475-1746242732-1186464513.jpeg",
         "uid": "429496786075",
-        "updatedAt": "2025-05-03T03:28:54Z"
+        "updatedAt": "2025-08-10T18:13:49Z",
+        "fileIds": [
+          "1000055824",
+          "1000052384"
+        ]
       },
       {
         "adultContent": false,
@@ -256,7 +260,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-09-24T19:33:54Z",
-        "fileSize": 8827,
+        "fileSize": 4533,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -267,12 +271,18 @@
         "summary": "Changes Yagrum's texture to be closer to how Dwemer are depicted in other media.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55257/55257-1727205933-87674647.png",
         "uid": "429496784857",
-        "updatedAt": "2024-09-25T20:03:33Z"
+        "updatedAt": "2025-08-11T21:07:40Z",
+        "fileIds": [
+          "1000055865",
+          "1000047376",
+          "1000055846",
+          "1000047348"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2024-02-06T03:32:39Z",
-        "fileSize": 477,
+        "fileSize": 145,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -283,7 +293,13 @@
         "summary": "Fixes the steam pipe in Yagrum's chair and gives him a higher quality head.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54111/54111-1707189435-326927253.png",
         "uid": "429496783711",
-        "updatedAt": "2024-06-08T16:51:28Z"
+        "updatedAt": "2025-08-11T21:06:32Z",
+        "fileIds": [
+          "1000055864",
+          "1000055845",
+          "1000045537",
+          "1000042553"
+        ]
       }
     ],
     "totalCount": 14
