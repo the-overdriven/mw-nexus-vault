@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-13T22:57:53.704Z",
+  "checkedAt": "2025-08-13T23:51:43.647Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "Makes all those infernal screams to be played only when characters are about to die.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55049/55049-1722525555-707684662.png",
         "uid": "429496784649",
-        "updatedAt": "2024-08-01T15:19:38Z"
+        "updatedAt": "2024-08-01T15:19:38Z",
+        "fileIds": [
+          "1000046561"
+        ]
       }
     ],
     "totalCount": 1

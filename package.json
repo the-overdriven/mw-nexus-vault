@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^24.16.1",
+    "url": "^0.11.4"
+  }
+}

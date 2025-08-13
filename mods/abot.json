@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-13T22:57:53.865Z",
+  "checkedAt": "2025-08-13T23:51:43.837Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -24,10 +24,7 @@
         "summary": "Keep journal notes of locations where your stolen goods are confiscated and possibly stored.The information will also be copied to the Windows clipboard.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57243/57243-1754398508-1315449913.jpg",
         "uid": "429496786843",
-        "updatedAt": "2025-08-05T13:00:52Z",
-        "fileIds": [
-          "1000055680"
-        ]
+        "updatedAt": "2025-08-05T13:00:52Z"
       },
       {
         "adultContent": false,
@@ -43,10 +40,7 @@
         "summary": "Enter Slow Motion mode on selected animation events (Kill / Knock / Hit) or Mouse Wheel Combo",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56772/56772-1748435862-1783133646.jpeg",
         "uid": "429496786372",
-        "updatedAt": "2025-05-28T12:49:19Z",
-        "fileIds": [
-          "1000053710"
-        ]
+        "updatedAt": "2025-05-28T12:49:19Z"
       },
       {
         "adultContent": false,
@@ -62,16 +56,7 @@
         "summary": "The mod you didn't know you needed ;-)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56458/56458-1746110755-110994367.png",
         "uid": "429496786058",
-        "updatedAt": "2025-07-29T07:55:45Z",
-        "fileIds": [
-          "1000055532",
-          "1000054273",
-          "1000053562",
-          "1000052292",
-          "1000054900",
-          "1000054435",
-          "1000055521"
-        ]
+        "updatedAt": "2025-07-29T07:55:45Z"
       },
       {
         "adultContent": false,
@@ -119,17 +104,7 @@
         "summary": "Change Player Point Of View/Zoom by scrolling mouse wheel.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55243/55243-1726995664-2014571906.png",
         "uid": "429496784843",
-        "updatedAt": "2025-05-26T16:09:06Z",
-        "fileIds": [
-          "1000053614",
-          "1000047695",
-          "1000048982",
-          "1000048985",
-          "1000047480",
-          "1000050877",
-          "1000047301",
-          "1000047329"
-        ]
+        "updatedAt": "2025-05-26T16:09:06Z"
       },
       {
         "adultContent": false,
@@ -145,23 +120,7 @@
         "summary": "Dynamic loading doors locking according to time of day cycle, location, faction, disposition...Meant as a more general/dynamic replacement of Living Cities of Vvardenfell Locks mod, but it works with or without it already installed.Also can",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54754/54754-1716996739-593538712.png",
         "uid": "429496784354",
-        "updatedAt": "2025-07-25T10:41:49Z",
-        "fileIds": [
-          "1000055452",
-          "1000046106",
-          "1000045851",
-          "1000046367",
-          "1000050741",
-          "1000053059",
-          "1000052045",
-          "1000051571",
-          "1000051354",
-          "1000051618",
-          "1000050098",
-          "1000045237",
-          "1000045254",
-          "1000048096"
-        ]
+        "updatedAt": "2025-07-25T10:41:49Z"
       },
       {
         "adultContent": false,
@@ -209,23 +168,7 @@
         "summary": "try and fix bad-behaved MWSE-Lua sound replacer mods and playSound function",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54423/54423-1712486594-104326761.png",
         "uid": "429496784023",
-        "updatedAt": "2025-02-05T11:16:21Z",
-        "fileIds": [
-          "1000050090",
-          "1000044300",
-          "1000045641",
-          "1000043852",
-          "1000043870",
-          "1000044898",
-          "1000044907",
-          "1000044145",
-          "1000045690",
-          "1000043909",
-          "1000043936",
-          "1000043943",
-          "1000043959",
-          "1000043962"
-        ]
+        "updatedAt": "2025-02-05T11:16:21Z"
       },
       {
         "adultContent": false,
@@ -241,16 +184,7 @@
         "summary": "Press Shift while clicking a dialog topic to log/paste to clipboard the dialog INFOPress Shift while activating an actor to log to MWSE.log/paste to clipboard the next dialog greeting INFO triggered by that actor.Press Ctrl + Shift while",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54280/54280-1710454643-1281918874.png",
         "uid": "429496783880",
-        "updatedAt": "2025-04-11T13:28:02Z",
-        "fileIds": [
-          "1000051854",
-          "1000046092",
-          "1000043608",
-          "1000049298",
-          "1000045990",
-          "1000043470",
-          "1000044541"
-        ]
+        "updatedAt": "2025-04-11T13:28:02Z"
       },
       {
         "adultContent": false,
@@ -266,13 +200,7 @@
         "summary": "only attack to/from player will trigger Battle music",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54021/54021-1705843485-600933743.png",
         "uid": "429496783621",
-        "updatedAt": "2025-02-06T22:02:38Z",
-        "fileIds": [
-          "1000050129",
-          "1000048988",
-          "1000043408",
-          "1000042199"
-        ]
+        "updatedAt": "2025-02-06T22:02:38Z"
       },
       {
         "adultContent": false,
@@ -336,14 +264,7 @@
         "summary": "Info about/open current playing music track",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53091/53091-1687180057-525162515.jpeg",
         "uid": "429496782691",
-        "updatedAt": "2025-07-28T16:40:16Z",
-        "fileIds": [
-          "1000055522",
-          "1000041754",
-          "1000041767",
-          "1000042122",
-          "1000038655"
-        ]
+        "updatedAt": "2025-07-28T16:40:16Z"
       },
       {
         "adultContent": false,
@@ -359,20 +280,7 @@
         "summary": "Dynamically/randomly locks/traps more (not yet interacted with) containers and doors",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52783/52783-1683043546-1547985484.jpeg",
         "uid": "429496782383",
-        "updatedAt": "2025-01-01T22:30:48Z",
-        "fileIds": [
-          "1000049242",
-          "1000041532",
-          "1000038508",
-          "1000046707",
-          "1000038013",
-          "1000037783",
-          "1000039065",
-          "1000038578",
-          "1000039628",
-          "1000038881",
-          "1000037610"
-        ]
+        "updatedAt": "2025-01-01T22:30:48Z"
       },
       {
         "adultContent": false,
@@ -388,17 +296,7 @@
         "summary": "Hide/delete most grass statics references on the fly to be rendered as moving grass by MGE-XE instead.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52764/52764-1682943930-205526499.jpeg",
         "uid": "429496782364",
-        "updatedAt": "2025-07-18T10:01:40Z",
-        "fileIds": [
-          "1000055309",
-          "1000047884",
-          "1000054619",
-          "1000037983",
-          "1000044387",
-          "1000046735",
-          "1000037562",
-          "1000037576"
-        ]
+        "updatedAt": "2025-07-18T10:01:40Z"
       },
       {
         "adultContent": false,
@@ -430,15 +328,7 @@
         "summary": "Makes MCM filter/Console text input clear by clicking the input text space.If you have UIExpansion installed it should  also work with most of UI Expansion text input filters (unless you have other mod conflicts. At least, it works for me,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52678/52678-1681560603-131396011.jpeg",
         "uid": "429496782278",
-        "updatedAt": "2025-06-20T13:30:49Z",
-        "fileIds": [
-          "1000054575",
-          "1000037191",
-          "1000052308",
-          "1000044388",
-          "1000043882",
-          "1000043635"
-        ]
+        "updatedAt": "2025-06-20T13:30:49Z"
       },
       {
         "adultContent": false,
@@ -454,25 +344,7 @@
         "summary": "Actors Footprints",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52284/52284-1675626221-118890036.png",
         "uid": "429496781884",
-        "updatedAt": "2025-02-24T11:21:46Z",
-        "fileIds": [
-          "1000050688",
-          "1000037025",
-          "1000040247",
-          "1000036674",
-          "1000049241",
-          "1000035166",
-          "1000037732",
-          "1000040044",
-          "1000035437",
-          "1000045694",
-          "1000047242",
-          "1000045972",
-          "1000039606",
-          "1000047292",
-          "1000038117",
-          "1000036605"
-        ]
+        "updatedAt": "2025-02-24T11:21:46Z"
       },
       {
         "adultContent": false,
@@ -504,25 +376,7 @@
         "summary": "Hostiles following through loading doors",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51919/51919-1666724190-768928665.jpeg",
         "uid": "429496781519",
-        "updatedAt": "2025-07-31T15:03:07Z",
-        "fileIds": [
-          "1000055588",
-          "1000055103",
-          "1000053060",
-          "1000033608",
-          "1000038507",
-          "1000039796",
-          "1000049811",
-          "1000033441",
-          "1000036279",
-          "1000048070",
-          "1000038099",
-          "1000048087",
-          "1000052196",
-          "1000038905",
-          "1000050043",
-          "1000033443"
-        ]
+        "updatedAt": "2025-07-31T15:03:07Z"
       },
       {
         "adultContent": false,
@@ -634,13 +488,7 @@
         "summary": "on the fly darkening of any interior cell without per-cell customization/color storageNote: as cells light changes are cached per Morrowind.exe game session, changes done in the MCM panel are effective only on visiting a not yet visited",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50988/50988-1650104911-2109662694.jpeg",
         "uid": "429496780588",
-        "updatedAt": "2025-07-20T13:19:31Z",
-        "fileIds": [
-          "1000055354",
-          "1000046363",
-          "1000033202",
-          "1000030129"
-        ]
+        "updatedAt": "2025-07-20T13:19:31Z"
       },
       {
         "adultContent": false,
@@ -656,14 +504,7 @@
         "summary": "Avoid actors getting stuck while opening doors",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50931/50931-1648739564-696721846.jpeg",
         "uid": "429496780531",
-        "updatedAt": "2025-07-14T12:43:28Z",
-        "fileIds": [
-          "1000054270",
-          "1000055213",
-          "1000053333",
-          "1000046404",
-          "1000029950"
-        ]
+        "updatedAt": "2025-07-14T12:43:28Z"
       },
       {
         "adultContent": false,
@@ -727,30 +568,7 @@
         "summary": "Actors menu to choose who to activate between nearby actors.Auto facing: Selected actors slowly turns around and face player on activateBlink Fix: Try and reduce actor blinking eyes remaining closed while talking with player in 1st person",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50558/50558-1640119619-176919078.jpeg",
         "uid": "429496780158",
-        "updatedAt": "2025-07-21T21:40:06Z",
-        "fileIds": [
-          "1000055375",
-          "1000055098",
-          "1000053057",
-          "1000045904",
-          "1000028798",
-          "1000046216",
-          "1000052882",
-          "1000045973",
-          "1000042164",
-          "1000039608",
-          "1000051667",
-          "1000045551",
-          "1000028565",
-          "1000028931",
-          "1000030292",
-          "1000033197",
-          "1000036281",
-          "1000036703",
-          "1000037051",
-          "1000038884",
-          "1000033725"
-        ]
+        "updatedAt": "2025-07-21T21:40:06Z"
       },
       {
         "adultContent": false,
@@ -782,12 +600,7 @@
         "summary": "A MWSE-Lua MCM panel to see and copy to Windows clipboard your current standard mods loading order + your loaded MWSE-Lua mods, so you can easily paste it online in case of problems.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50214/50214-1630761711-1276911419.jpeg",
         "uid": "429496779814",
-        "updatedAt": "2025-07-03T20:36:12Z",
-        "fileIds": [
-          "1000054901",
-          "1000026695",
-          "1000028447"
-        ]
+        "updatedAt": "2025-07-03T20:36:12Z"
       },
       {
         "adultContent": false,
@@ -819,46 +632,7 @@
         "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
         "uid": "429496779448",
-        "updatedAt": "2025-05-13T21:36:40Z",
-        "fileIds": [
-          "1000052884",
-          "1000024979",
-          "1000038913",
-          "1000051971",
-          "1000039197",
-          "1000046877",
-          "1000050984",
-          "1000048432",
-          "1000039224",
-          "1000041530",
-          "1000033610",
-          "1000051282",
-          "1000046677",
-          "1000040043",
-          "1000050799",
-          "1000036730",
-          "1000050810",
-          "1000048768",
-          "1000051853",
-          "1000033422",
-          "1000033726",
-          "1000028614",
-          "1000031948",
-          "1000042703",
-          "1000050130",
-          "1000037865",
-          "1000033263",
-          "1000047856",
-          "1000051953",
-          "1000048114",
-          "1000032758",
-          "1000025094",
-          "1000025722",
-          "1000025954",
-          "1000026006",
-          "1000027919",
-          "1000028200"
-        ]
+        "updatedAt": "2025-05-13T21:36:40Z"
       },
       {
         "adultContent": false,
@@ -890,28 +664,7 @@
         "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and Daedric text translated from enchanted scrolls. You can now read",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48930/48930-1602494758-1296927970.jpeg",
         "uid": "429496778530",
-        "updatedAt": "2025-02-05T15:03:28Z",
-        "fileIds": [
-          "1000050097",
-          "1000021284",
-          "1000021332",
-          "1000021360",
-          "1000046103",
-          "1000049325",
-          "1000044514",
-          "1000021462",
-          "1000021515",
-          "1000022729",
-          "1000026955",
-          "1000027920",
-          "1000028247",
-          "1000028320",
-          "1000028622",
-          "1000028698",
-          "1000028738",
-          "1000033909",
-          "1000039064"
-        ]
+        "updatedAt": "2025-02-05T15:03:28Z"
       },
       {
         "adultContent": false,
@@ -927,15 +680,7 @@
         "summary": "Shows in a dedicated MCM panel the interesting actors you talked to and where you can find them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48843/48843-1600514117-355384559.jpeg",
         "uid": "429496778443",
-        "updatedAt": "2025-07-09T10:04:05Z",
-        "fileIds": [
-          "1000055099",
-          "1000020883",
-          "1000026049",
-          "1000033207",
-          "1000033264",
-          "1000036586"
-        ]
+        "updatedAt": "2025-07-09T10:04:05Z"
       },
       {
         "adultContent": false,
@@ -967,15 +712,7 @@
         "summary": "Passing Time While Reading - MWSE Lua version",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48059/48059-1589635545-2093524888.jpeg",
         "uid": "429496777659",
-        "updatedAt": "2025-07-29T16:57:50Z",
-        "fileIds": [
-          "1000055543",
-          "1000050319",
-          "1000028044",
-          "1000028148",
-          "1000028193",
-          "1000018617"
-        ]
+        "updatedAt": "2025-07-29T16:57:50Z"
       },
       {
         "adultContent": false,
@@ -1007,26 +744,7 @@
         "summary": "Water Sound for MWSE-Lua - simulate water sound when colliding with generic fake animated water meshes",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47794/47794-1586505295-1972572301.jpeg",
         "uid": "429496777394",
-        "updatedAt": "2025-07-26T09:21:02Z",
-        "fileIds": [
-          "1000055469",
-          "1000018454",
-          "1000055440",
-          "1000021098",
-          "1000021101",
-          "1000021164",
-          "1000031432",
-          "1000033269",
-          "1000033727",
-          "1000039605",
-          "1000039926",
-          "1000033435",
-          "1000039505",
-          "1000039575",
-          "1000018003",
-          "1000017872",
-          "1000017891"
-        ]
+        "updatedAt": "2025-07-26T09:21:02Z"
       },
       {
         "adultContent": false,
@@ -1154,33 +872,7 @@
         "summary": "Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key.Should work great with mods like pursuit enhanced allowing NPCs to chase you through doors and give purpose to the lock",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46094/46094-1539438285-1279833447.jpeg",
         "uid": "429496775694",
-        "updatedAt": "2025-05-10T19:46:03Z",
-        "fileIds": [
-          "1000052743",
-          "1000038495",
-          "1000013717",
-          "1000014493",
-          "1000050099",
-          "1000052201",
-          "1000016279",
-          "1000017183",
-          "1000018559",
-          "1000019469",
-          "1000020500",
-          "1000023303",
-          "1000023360",
-          "1000029533",
-          "1000029572",
-          "1000029633",
-          "1000029850",
-          "1000032677",
-          "1000032757",
-          "1000032938",
-          "1000033420",
-          "1000033916",
-          "1000013967",
-          "1000014066"
-        ]
+        "updatedAt": "2025-05-10T19:46:03Z"
       },
       {
         "adultContent": false,
@@ -1452,16 +1144,7 @@
         "summary": "Water Life is an attempt to mix the scripting techniques developed in the \"Where are all bird going?\" plugin with the best aquatic creature modding resources to bring more life into Morrowind waters.This plugin mainly adds to Morrowind",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42417-1-1360065961.jpg",
         "uid": "429496772017",
-        "updatedAt": "2025-05-09T14:55:02Z",
-        "fileIds": [
-          "1000052703",
-          "1000043725",
-          "1000016700",
-          "1000026538",
-          "1000043724",
-          "1000021615",
-          "1000026036"
-        ]
+        "updatedAt": "2025-05-09T14:55:02Z"
       },
       {
         "adultContent": false,

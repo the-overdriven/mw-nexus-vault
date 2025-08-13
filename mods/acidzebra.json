@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-13T22:57:53.967Z",
+  "checkedAt": "2025-08-13T23:51:43.906Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -24,16 +24,7 @@
         "summary": "Funny grass mod for funny mushroom game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56570/56570-1747067093-1816517082.png",
         "uid": "429496786170",
-        "updatedAt": "2025-05-25T17:16:40Z",
-        "fileIds": [
-          "1000053549",
-          "1000053550",
-          "1000052859",
-          "1000052827",
-          "1000052911",
-          "1000053174",
-          "1000052858"
-        ]
+        "updatedAt": "2025-05-25T17:16:40Z"
       },
       {
         "adultContent": false,
@@ -81,24 +72,7 @@
         "summary": "Perfect grass that doesn't clip through objects: Lawnmower will clean grassmods faster, better, and more consistently than you can. It removes 99% of unwanted & clipping grass. Comes with already-processed patches for popular grass mods,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53034/53034-1686134768-1938830989.jpeg",
         "uid": "429496782634",
-        "updatedAt": "2025-06-03T09:18:08Z",
-        "fileIds": [
-          "1000038528",
-          "1000054029",
-          "1000038538",
-          "1000038536",
-          "1000038544",
-          "1000038540",
-          "1000038541",
-          "1000038542",
-          "1000038422",
-          "1000038423",
-          "1000038476",
-          "1000038489",
-          "1000038494",
-          "1000038510",
-          "1000038526"
-        ]
+        "updatedAt": "2025-06-03T09:18:08Z"
       },
       {
         "adultContent": false,
@@ -114,16 +88,7 @@
         "summary": "A modular remix of popular grass mods with some new plants and flowers.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52931/52931-1747847592-429544553.jpeg",
         "uid": "429496782531",
-        "updatedAt": "2025-05-21T19:18:22Z",
-        "fileIds": [
-          "1000053351",
-          "1000038140",
-          "1000038062",
-          "1000038141",
-          "1000038419",
-          "1000038420",
-          "1000038326"
-        ]
+        "updatedAt": "2025-05-21T19:18:22Z"
       }
     ],
     "totalCount": 5

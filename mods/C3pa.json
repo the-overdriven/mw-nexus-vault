@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-13T22:57:56.228Z",
+  "checkedAt": "2025-08-13T23:51:45.207Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -93,7 +93,14 @@
         "summary": "This mod adds a command menu with the following tabs: - General tab - various things to tweak - Player tab - change skills and attributes - Items tab - choose items to add - Spells tab - choose spells to learn - Soul gems tab - add filled",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55193/55193-1725654488-1595738106.jpeg",
         "uid": "429496784793",
-        "updatedAt": "2025-08-13T17:56:00Z"
+        "updatedAt": "2025-08-13T17:56:00Z",
+        "fileIds": [
+          "1000055919",
+          "1000047109",
+          "1000047660",
+          "1000047153",
+          "1000047246"
+        ]
       },
       {
         "adultContent": false,
