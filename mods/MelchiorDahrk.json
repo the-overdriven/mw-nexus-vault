@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-13T00:07:00.932Z",
+  "checkedAt": "2025-08-13T22:58:05.134Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -186,7 +186,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-04-30T23:20:47Z",
-        "fileSize": 4373,
+        "fileSize": 4331,
         "modCategory": {
           "categoryId": 5,
           "name": "Guilds/Factions"
@@ -197,7 +197,7 @@
         "summary": "This mod lets the player take control of the Suran Temple once they advance enough in the Tribunal Temple faction. Through a series of quests (and with some choices to make along the way), you will get to improve the temple.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52749/52749-1682912101-1292282255.png",
         "uid": "429496782349",
-        "updatedAt": "2023-10-30T13:48:13Z"
+        "updatedAt": "2025-08-13T02:01:56Z"
       },
       {
         "adultContent": false,
@@ -1227,7 +1227,7 @@
       {
         "adultContent": false,
         "createdAt": "2016-03-09T04:27:48Z",
-        "fileSize": 11495,
+        "fileSize": 11494,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -1238,11 +1238,7 @@
         "summary": "Some tweaks and improvements to the original White Suran 2 mod which gives Suran a unique, pearly white texture to distinguish it from other Hlaalu settlements.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44153-7-1457496526.jpg",
         "uid": "429496773753",
-        "updatedAt": "2025-07-30T14:56:01Z",
-        "fileIds": [
-          "1000055564",
-          "1000041247"
-        ]
+        "updatedAt": "2025-08-13T02:12:36Z"
       },
       {
         "adultContent": false,
