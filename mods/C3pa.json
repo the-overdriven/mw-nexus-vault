@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-13T23:51:45.207Z",
+  "checkedAt": "2025-08-14T19:26:52.393Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -50,7 +50,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-28T11:08:44Z",
-        "fileSize": 3224,
+        "fileSize": 3223,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -61,7 +61,13 @@
         "summary": "Adds a smoke effect to candles. This mod is an MWSE port of wonderful OpenMW Dynamic Candle Smoke.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55671/55671-1735376161-891540066.jpeg",
         "uid": "429496785271",
-        "updatedAt": "2024-12-30T08:26:59Z"
+        "updatedAt": "2025-08-14T11:58:47Z",
+        "fileIds": [
+          "1000055941",
+          "1000049161",
+          "1000049100",
+          "1000049103"
+        ]
       },
       {
         "adultContent": false,
@@ -190,7 +196,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-01-01T09:55:51Z",
-        "fileSize": 85,
+        "fileSize": 86,
         "modCategory": {
           "categoryId": 33,
           "name": "Magic"
@@ -201,13 +207,14 @@
         "summary": "Ultimate magicka regeneration mod for Morrowind!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49153/49153-1609427659-1018063805.png",
         "uid": "429496778753",
-        "updatedAt": "2025-08-12T14:14:17Z",
+        "updatedAt": "2025-08-14T18:03:03Z",
         "fileIds": [
-          "1000055891",
+          "1000055946",
           "1000055478",
           "1000032921",
           "1000032944",
           "1000028632",
+          "1000055891",
           "1000024968",
           "1000032920",
           "1000022937",
