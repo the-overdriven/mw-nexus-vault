@@ -1,13 +1,51 @@
 {
-  "checkedAt": "2025-08-14T19:27:05.903Z",
+  "checkedAt": "2025-08-16T12:27:44.306Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 50,
+        "100": 52,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-16T01:30:53Z",
+        "fileSize": 103,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 57303,
+        "name": "Bloodmoon Heads Begone",
+        "status": "published",
+        "summary": "Replaces the meshes of Bloodmoon's new Nord heads with similar SHotN, Vanilla, and Tamriel Data heads.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57303/57303-1755307695-1595054054.jpg",
+        "uid": "429496786903",
+        "updatedAt": "2025-08-16T01:30:53Z",
+        "fileIds": [
+          "1000055989"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-15T18:13:08Z",
+        "fileSize": 52,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57301,
+        "name": "Shinathi Shave",
+        "status": "published",
+        "summary": "Edits the meshes and textures of the bearded Shinathi female heads with beards to remove said beards.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57301/57301-1755281458-778907959.jpg",
+        "uid": "429496786901",
+        "updatedAt": "2025-08-15T18:13:08Z",
+        "fileIds": [
+          "1000055980"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-06T00:09:58Z",
@@ -904,6 +942,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 50
+    "totalCount": 52
   }
 }

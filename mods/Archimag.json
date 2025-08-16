@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-08-14T19:26:51.026Z",
+  "checkedAt": "2025-08-16T12:27:27.704Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 60
+        "100": 59
       }
     },
     "nodes": [
@@ -420,22 +420,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49759/49759-1620843686-1393690890.jpeg",
         "uid": "429496779359",
         "updatedAt": "2022-12-22T14:44:25Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2021-05-11T20:54:54Z",
-        "fileSize": 2,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 49756,
-        "name": "Fast Attack",
-        "status": "published",
-        "summary": "Increases weapon attack speed and range depending on your stats",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49756/49756-1620766429-1459684682.jpeg",
-        "uid": "429496779356",
-        "updatedAt": "2021-05-11T20:54:54Z"
       },
       {
         "adultContent": false,
@@ -986,6 +970,6 @@
         ]
       }
     ],
-    "totalCount": 60
+    "totalCount": 59
   }
 }

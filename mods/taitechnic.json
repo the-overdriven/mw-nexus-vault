@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-14T19:27:16.808Z",
+  "checkedAt": "2025-08-16T12:28:12.227Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -42,13 +42,13 @@
         "summary": "NEW : Optional Baar Dau rotating ring add-on. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55572/55572-1741462216-1564911577.png",
         "uid": "429496785172",
-        "updatedAt": "2025-08-13T20:54:52Z",
+        "updatedAt": "2025-08-15T19:20:46Z",
         "fileIds": [
-          "1000055847",
+          "1000055984",
           "1000055925",
           "1000055848",
-          "1000055668",
-          "1000054662"
+          "1000055847",
+          "1000055668"
         ]
       },
       {
@@ -186,8 +186,9 @@
         "summary": "UPDATE: Vertical movement using Jump and Sneak. Why Walk when you can Fly? A more suitable flying animation for when you're levitating in Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54500/54500-1714083847-125406856.png",
         "uid": "429496784100",
-        "updatedAt": "2025-08-10T19:58:24Z",
+        "updatedAt": "2025-08-14T22:56:41Z",
         "fileIds": [
+          "1000055952",
           "1000055828",
           "1000046800"
         ]
