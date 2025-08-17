@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-08-16T12:27:27.704Z",
+  "checkedAt": "2025-08-17T23:58:10.722Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 59
+        "100": 58
       }
     },
     "nodes": [
@@ -948,28 +948,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47035/47035-1564752149-864602067.png",
         "uid": "429496776635",
         "updatedAt": "2020-01-12T13:07:52Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2019-07-26T20:13:59Z",
-        "fileSize": 5828,
-        "modCategory": {
-          "categoryId": 29,
-          "name": "Overhauls"
-        },
-        "modId": 47015,
-        "name": "4NM - Total Gameplay Overhaul",
-        "status": "published",
-        "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
-        "uid": "429496776615",
-        "updatedAt": "2025-06-12T12:24:57Z",
-        "fileIds": [
-          "1000050367",
-          "1000054350"
-        ]
       }
     ],
-    "totalCount": 59
+    "totalCount": 58
   }
 }

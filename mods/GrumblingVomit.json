@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-08-16T12:27:44.306Z",
+  "checkedAt": "2025-08-17T23:58:29.178Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 52,
+        "100": 53,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-17T02:39:56Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 57308,
+        "name": "Dunmer Ebony in Vvardenfell",
+        "status": "published",
+        "summary": "Replaces Ebony helms in Morrowind with TR's Dunmer-inspired Ebony Helms",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57308/57308-1755398310-133772995.jpg",
+        "uid": "429496786908",
+        "updatedAt": "2025-08-17T02:39:56Z",
+        "fileIds": [
+          "1000056015"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-16T01:30:53Z",
@@ -648,7 +667,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-01-30T01:12:01Z",
-        "fileSize": 39758,
+        "fileSize": 40150,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -659,9 +678,9 @@
         "summary": "Adds exteriors to all interior cells with windows. So far, Molag Mar, Caldera, Pelagiad, and Gnisis.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52237/52237-1736998879-106150695.jpeg",
         "uid": "429496781837",
-        "updatedAt": "2025-03-30T20:58:55Z",
+        "updatedAt": "2025-08-17T23:12:26Z",
         "fileIds": [
-          "1000045516",
+          "1000056047",
           "1000051598",
           "1000049554",
           "1000037423",
@@ -670,7 +689,8 @@
           "1000036220",
           "1000034970",
           "1000038309",
-          "1000035010"
+          "1000035010",
+          "1000045516"
         ]
       },
       {
@@ -942,6 +962,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 52
+    "totalCount": 53
   }
 }
