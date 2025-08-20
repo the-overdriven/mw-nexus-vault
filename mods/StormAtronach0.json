@@ -1,12 +1,29 @@
 {
-  "checkedAt": "2025-08-17T23:59:11.257Z",
+  "checkedAt": "2025-08-20T19:15:52.200Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6
+        "100": 7
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-18T07:35:22Z",
+        "fileSize": 2962,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57321,
+        "name": "Stealth Overhaul",
+        "status": "published",
+        "summary": "Stealth Overhaul — a lightweight MWSE-powered rework of sneaking, detection and sneak attacks that makes NPC vision, hearing and investigations more logical, configurable and immersive.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57321/57321-1755502168-540181094.png",
+        "uid": "429496786921",
+        "updatedAt": "2025-08-18T07:35:22Z",
+        "fileIds": []
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-15T13:43:18Z",
@@ -131,6 +148,6 @@
         ]
       }
     ],
-    "totalCount": 6
+    "totalCount": 7
   }
 }

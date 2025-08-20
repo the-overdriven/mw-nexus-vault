@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-17T23:58:29.178Z",
+  "checkedAt": "2025-08-20T19:14:41.682Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -667,7 +667,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-01-30T01:12:01Z",
-        "fileSize": 40150,
+        "fileSize": 4362,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -675,14 +675,14 @@
         "modId": 52237,
         "name": "Morrowind Interiors Project (OpenMW)",
         "status": "published",
-        "summary": "Adds exteriors to all interior cells with windows. So far, Molag Mar, Caldera, Pelagiad, and Gnisis.",
+        "summary": "Adds exteriors to all interior cells with windows. So far, Molag Mar, Caldera, Pelagiad, Maar Gan, Sadrith Mora, Ebonheart, Skaal Village, and Gnisis.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52237/52237-1736998879-106150695.jpeg",
         "uid": "429496781837",
-        "updatedAt": "2025-08-17T23:12:26Z",
+        "updatedAt": "2025-08-18T22:11:48Z",
         "fileIds": [
           "1000056047",
-          "1000051598",
-          "1000049554",
+          "1000056095",
+          "1000056094",
           "1000037423",
           "1000034897",
           "1000040047",
@@ -690,7 +690,8 @@
           "1000034970",
           "1000038309",
           "1000035010",
-          "1000045516"
+          "1000045516",
+          "1000051598"
         ]
       },
       {

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-08-17T23:59:20.737Z",
+  "checkedAt": "2025-08-20T19:16:03.689Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 25,
         "110": 2,
         "1151": 1
       }
@@ -365,7 +365,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-07-08T19:41:34Z",
-        "fileSize": 9963,
+        "fileSize": 9970,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -376,11 +376,8 @@
         "summary": "Overhauls the Strongholds of Valenvaryon, Falasmaryon, Indoranyon, Falensaro, Andraseth, Rotheran, and Telsaro.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53171/53171-1693424535-1142118705.png",
         "uid": "429496782771",
-        "updatedAt": "2025-07-30T22:02:07Z",
-        "fileIds": [
-          "1000055570",
-          "1000038971"
-        ]
+        "updatedAt": "2025-08-19T19:26:39Z",
+        "fileIds": []
       },
       {
         "adultContent": false,
@@ -461,24 +458,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52768/52768-1682962214-2010497739.png",
         "uid": "429496782368",
         "updatedAt": "2023-05-01T18:16:12Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2023-02-17T01:17:46Z",
-        "fileSize": 1537,
-        "modCategory": {
-          "categoryId": 3,
-          "name": "Dungeons and Locations"
-        },
-        "modId": 52368,
-        "name": "Rotheran Overhauled",
-        "status": "published",
-        "summary": "An overhaul of the only Dunmer stronghold in Sheogorad.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52368/52368-1676593512-474338681.png",
-        "uid": "429496781968",
-        "updatedAt": "2023-02-17T01:17:46Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 25
   }
 }

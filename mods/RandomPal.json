@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-17T23:59:07.682Z",
+  "checkedAt": "2025-08-20T19:15:43.174Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -1436,7 +1436,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-12-31T20:38:33Z",
-        "fileSize": 55242,
+        "fileSize": 40476,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -1447,7 +1447,24 @@
         "summary": "Large scale overhaul of Tel Aruhn and Yansirramus Shrine with complete OAAB integration, new quests, and a lot more. A mod submitted for the 2020 Morrowind Modding Madness competition.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49171/49171-1612347767-856918506.png",
         "uid": "429496778771",
-        "updatedAt": "2024-04-16T19:16:27Z"
+        "updatedAt": "2025-08-18T17:35:11Z",
+        "fileIds": [
+          "1000056092",
+          "1000033427",
+          "1000022314",
+          "1000023688",
+          "1000034786",
+          "1000022313",
+          "1000022335",
+          "1000022340",
+          "1000022349",
+          "1000022363",
+          "1000022366",
+          "1000022382",
+          "1000022398",
+          "1000038859",
+          "1000043997"
+        ]
       },
       {
         "adultContent": false,

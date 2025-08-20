@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-17T23:59:04.128Z",
+  "checkedAt": "2025-08-20T19:15:15.922Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-14T10:18:39Z",
-        "fileSize": 628,
+        "fileSize": 631,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -21,9 +21,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2025-07-27T20:47:01Z",
+        "updatedAt": "2025-08-20T11:45:54Z",
         "fileIds": [
-          "1000055502",
+          "1000056162",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -56,6 +56,7 @@
           "1000050885",
           "1000052933",
           "1000052422",
+          "1000055502",
           "1000051664",
           "1000051669",
           "1000051930",
@@ -77,9 +78,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2025-07-23T06:37:34Z",
+        "updatedAt": "2025-08-20T08:34:18Z",
         "fileIds": [
-          "1000055401",
+          "1000056159",
           "1000051201",
           "1000048667",
           "1000050717",
@@ -93,6 +94,7 @@
           "1000054092",
           "1000051277",
           "1000048731",
+          "1000055401",
           "1000054650",
           "1000048787",
           "1000053664",
@@ -131,9 +133,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2025-07-16T11:29:00Z",
+        "updatedAt": "2025-08-20T08:37:56Z",
         "fileIds": [
-          "1000055257",
+          "1000056160",
           "1000047616",
           "1000053517",
           "1000047888",
@@ -169,6 +171,7 @@
           "1000048832",
           "1000051650",
           "1000047573",
+          "1000055257",
           "1000048090",
           "1000047836",
           "1000048094",
@@ -197,7 +200,20 @@
         "summary": "Enemies with melee attacks will now try to hide themselves if the player attacks them from a position they cannot reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54976/54976-1721043142-824690318.jpeg",
         "uid": "429496784576",
-        "updatedAt": "2025-01-23T10:32:19Z"
+        "updatedAt": "2025-08-20T08:28:07Z",
+        "fileIds": [
+          "1000056158",
+          "1000047121",
+          "1000047169",
+          "1000049734",
+          "1000046666",
+          "1000047243",
+          "1000047021",
+          "1000046289",
+          "1000046290",
+          "1000047596",
+          "1000047615"
+        ]
       },
       {
         "adultContent": false,
