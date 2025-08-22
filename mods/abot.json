@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-20T19:14:22.961Z",
+  "checkedAt": "2025-08-22T23:56:26.508Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -256,7 +256,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-07-06T19:30:49Z",
-        "fileSize": 224,
+        "fileSize": 13,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -267,7 +267,13 @@
         "summary": "A MWSE-Lua mod to detect/tweak/fix other non-Lua mods I'm using",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53159/53159-1688671253-725948335.jpeg",
         "uid": "429496782759",
-        "updatedAt": "2024-06-15T17:21:01Z"
+        "updatedAt": "2025-08-21T17:08:20Z",
+        "fileIds": [
+          "1000056225",
+          "1000045689",
+          "1000043253",
+          "1000038911"
+        ]
       },
       {
         "adultContent": false,

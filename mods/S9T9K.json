@@ -1,12 +1,35 @@
 {
-  "checkedAt": "2025-08-20T19:15:50.665Z",
+  "checkedAt": "2025-08-22T23:57:52.747Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 5
+        "100": 6
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-22T20:32:13Z",
+        "fileSize": 1709040,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57346,
+        "name": "Skyrim Home of the Nords - Fully Voiced",
+        "status": "published",
+        "summary": "Adds fully AI-voiced dialogue to Skyrim: Home of the Nords.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57346/57346-1755889973-795162947.jpg",
+        "uid": "429496786946",
+        "updatedAt": "2025-08-22T20:32:13Z",
+        "fileIds": [
+          "1000056263",
+          "1000056264",
+          "1000056262",
+          "1000056265",
+          "1000056266"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-02T19:01:20Z",
@@ -65,7 +88,7 @@
         "name": "Project Cyrodiil - Fully Voiced",
         "status": "published",
         "summary": "Adds fully AI-voiced dialogue to Project Cyrodiil: Abecean Shores",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57146/57146-1752693878-1602832807.jpg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57146/57146-1755894799-1875779804.jpg",
         "uid": "429496786746",
         "updatedAt": "2025-07-18T07:06:04Z",
         "fileIds": [
@@ -113,6 +136,6 @@
         ]
       }
     ],
-    "totalCount": 5
+    "totalCount": 6
   }
 }

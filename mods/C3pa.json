@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-08-20T19:14:26.589Z",
+  "checkedAt": "2025-08-22T23:56:35.269Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14
+        "100": 15
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-21T10:33:22Z",
+        "fileSize": 854,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57333,
+        "name": "Place Stacks for MWSE",
+        "status": "published",
+        "summary": "Implements place stacks functionality. Quickly transfer all the items from your inventory to a container if there is at least one such item in the container.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57333/57333-1755770677-1685114138.jpg",
+        "uid": "429496786933",
+        "updatedAt": "2025-08-21T12:11:29Z",
+        "fileIds": [
+          "1000056208",
+          "1000056207"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-07-27T21:23:23Z",
@@ -277,6 +297,6 @@
         "updatedAt": "2023-09-05T09:33:32Z"
       }
     ],
-    "totalCount": 14
+    "totalCount": 15
   }
 }

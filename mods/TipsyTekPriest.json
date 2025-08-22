@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-20T19:15:57.482Z",
+  "checkedAt": "2025-08-22T23:58:06.968Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -419,7 +419,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-09-22T06:34:42Z",
-        "fileSize": 23,
+        "fileSize": 15,
         "modCategory": {
           "categoryId": 14,
           "name": "Races, Classes, and Birthsigns"
@@ -430,11 +430,8 @@
         "summary": "Makes small tweaks to the Height and Weight values of every race and gender. Women of almost every race are a bit bulkier, Breton men and Bosmer women are a bit shorter, Orcs are much taller, etc.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51844/51844-1663828977-505691834.png",
         "uid": "429496781444",
-        "updatedAt": "2025-02-12T10:06:19Z",
-        "fileIds": [
-          "1000050299",
-          "1000050298"
-        ]
+        "updatedAt": "2025-08-21T13:16:53Z",
+        "fileIds": []
       }
     ],
     "totalCount": 22

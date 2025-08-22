@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-08-20T19:14:41.682Z",
+  "checkedAt": "2025-08-22T23:57:19.413Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 53,
+        "100": 54,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-21T20:49:28Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 57345,
+        "name": "Water Strider Distribution",
+        "status": "published",
+        "summary": "Distributes Water Striders to a few locations",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57345/57345-1755809271-1051239566.jpg",
+        "uid": "429496786945",
+        "updatedAt": "2025-08-21T20:49:28Z",
+        "fileIds": [
+          "1000056234"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-17T02:39:56Z",
@@ -963,6 +982,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 53
+    "totalCount": 54
   }
 }

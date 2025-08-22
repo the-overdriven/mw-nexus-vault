@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-20T19:15:56.452Z",
+  "checkedAt": "2025-08-22T23:58:00.344Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -134,13 +134,14 @@
         "modId": 54629,
         "name": "OpenMW Lua helper utility",
         "status": "published",
-        "summary": "UPDATE: Project Cyrodiil voiced dialogue ESP to support Project Cyrodiil release 25.05a. Support mod for use by other OpenMW lua Mods. Requires OpenMW 0.49.",
+        "summary": "UPDATE: Skyrim HOTN voiced dialogue ESP to support Skyrim HOTN release 25.05. Support mod for use by other OpenMW lua Mods. Requires OpenMW 0.49.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54629/54629-1715543708-1189011810.png",
         "uid": "429496784229",
-        "updatedAt": "2025-08-13T17:26:35Z",
+        "updatedAt": "2025-08-22T22:10:28Z",
         "fileIds": [
           "1000055641",
           "1000049906",
+          "1000056272",
           "1000055320",
           "1000055918",
           "1000053413"

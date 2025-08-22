@@ -1,14 +1,34 @@
 {
-  "checkedAt": "2025-08-20T19:14:27.131Z",
+  "checkedAt": "2025-08-22T23:56:41.298Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14,
+        "100": 15,
         "120": 5,
-        "130": 60
+        "130": 62
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-21T01:11:29Z",
+        "fileSize": 529,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57335,
+        "name": "Tamriel Rebuilt Gremlin High Quality Mesh and Fixes",
+        "status": "published",
+        "summary": "Makes the TR Gremlins a bit less revolting to look at.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57335/57335-1755738012-902523601.png",
+        "uid": "429496786935",
+        "updatedAt": "2025-08-22T16:24:04Z",
+        "fileIds": [
+          "1000056260",
+          "1000056184"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-26T00:55:48Z",
@@ -302,6 +322,6 @@
         ]
       }
     ],
-    "totalCount": 14
+    "totalCount": 15
   }
 }
