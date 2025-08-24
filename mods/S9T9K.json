@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-22T23:57:52.747Z",
+  "checkedAt": "2025-08-24T18:47:52.135Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-08-22T20:32:13Z",
-        "fileSize": 1709040,
+        "fileSize": 1723990,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -21,13 +21,14 @@
         "summary": "Adds fully AI-voiced dialogue to Skyrim: Home of the Nords.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57346/57346-1755889973-795162947.jpg",
         "uid": "429496786946",
-        "updatedAt": "2025-08-22T20:32:13Z",
+        "updatedAt": "2025-08-24T09:07:20Z",
         "fileIds": [
           "1000056263",
           "1000056264",
-          "1000056262",
-          "1000056265",
-          "1000056266"
+          "1000056315",
+          "1000056314",
+          "1000056266",
+          "1000056265"
         ]
       },
       {
