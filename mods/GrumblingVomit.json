@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-08-26T00:36:21.383Z",
+  "checkedAt": "2025-08-26T23:11:05.072Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 54,
+        "100": 55,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-26T22:45:28Z",
+        "fileSize": 449,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57367,
+        "name": "Vampire Hunters",
+        "status": "published",
+        "summary": "Vampires beware! Vampire hunters are here to chase you down.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57367/57367-1756248153-1006509015.jpg",
+        "uid": "429496786967",
+        "updatedAt": "2025-08-26T22:45:28Z",
+        "fileIds": [
+          "1000056414"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-21T20:49:28Z",
@@ -982,6 +1001,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 54
+    "totalCount": 55
   }
 }
