@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-08-24T18:46:41.826Z",
+  "checkedAt": "2025-08-26T00:35:52.102Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 58
+        "100": 57
       }
     },
     "nodes": [
@@ -420,22 +420,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49759/49759-1620843686-1393690890.jpeg",
         "uid": "429496779359",
         "updatedAt": "2022-12-22T14:44:25Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2021-05-10T14:53:37Z",
-        "fileSize": 22,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 49747,
-        "name": "Throw it",
-        "status": "published",
-        "summary": "Allows you to throw any weapon",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49747/49747-1620658354-973238193.jpeg",
-        "uid": "429496779347",
-        "updatedAt": "2022-06-17T16:23:56Z"
       },
       {
         "adultContent": false,
@@ -950,6 +934,6 @@
         "updatedAt": "2020-01-12T13:07:52Z"
       }
     ],
-    "totalCount": 58
+    "totalCount": 57
   }
 }

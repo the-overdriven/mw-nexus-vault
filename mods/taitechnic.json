@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-24T18:47:59.605Z",
+  "checkedAt": "2025-08-26T00:37:21.078Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -31,7 +31,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-13T00:08:29Z",
-        "fileSize": 133,
+        "fileSize": 871,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -42,8 +42,15 @@
         "summary": "NEW : Optional Baar Dau rotating ring add-on. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55572/55572-1741462216-1564911577.png",
         "uid": "429496785172",
-        "updatedAt": "2025-08-16T20:54:50Z",
-        "fileIds": []
+        "updatedAt": "2025-08-24T21:39:38Z",
+        "fileIds": [
+          "1000056340",
+          "1000056010",
+          "1000056009",
+          "1000055925",
+          "1000055668",
+          "1000055984"
+        ]
       },
       {
         "adultContent": false,

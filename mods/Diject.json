@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-24T18:47:24.648Z",
+  "checkedAt": "2025-08-26T00:36:05.882Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -46,11 +46,12 @@
         "summary": "A mod for OpenMW that provides an API for tracking objects and displaying the distance to their nearest position in the game UI.  It also includes a wrapper for creating HUD markers using HUDMarkers mod.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57286/57286-1755624428-1396795037.png",
         "uid": "429496786886",
-        "updatedAt": "2025-08-22T16:14:48Z",
+        "updatedAt": "2025-08-25T16:48:56Z",
         "fileIds": [
-          "1000056259",
+          "1000056365",
           "1000056221",
-          "1000056219"
+          "1000056219",
+          "1000056259"
         ]
       },
       {

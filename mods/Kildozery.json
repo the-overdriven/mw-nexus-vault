@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-24T18:47:39.642Z",
+  "checkedAt": "2025-08-26T00:36:33.253Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -62,9 +62,10 @@
         "summary": "Experience the main quest's Disturbing Dreams like never before! This mod converts the four textbox nightmares sent to the player by Dagoth Ur into fully voiced playable sequences.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55705/55705-1747352890-791004299.png",
         "uid": "429496785305",
-        "updatedAt": "2025-05-29T23:02:05Z",
+        "updatedAt": "2025-08-25T15:22:34Z",
         "fileIds": [
           "1000053794",
+          "1000056359",
           "1000053022",
           "1000053026",
           "1000053083",
@@ -88,12 +89,14 @@
         "summary": "Holy relics of the Temple were lost to the minions of Dagoth Ur, and have since been corrupted by his influence. Reclaim these artifacts, cleanse them of their curses, and restore them to their true power!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55704/55704-1746045210-609789334.png",
         "uid": "429496785304",
-        "updatedAt": "2025-05-10T20:28:00Z",
+        "updatedAt": "2025-08-25T16:39:15Z",
         "fileIds": [
+          "1000056361",
+          "1000056363",
           "1000052746",
-          "1000052745",
           "1000052500",
           "1000052320",
+          "1000052745",
           "1000052501",
           "1000052322"
         ]

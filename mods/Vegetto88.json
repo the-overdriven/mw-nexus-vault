@@ -1,13 +1,35 @@
 {
-  "checkedAt": "2025-08-24T18:48:00.886Z",
+  "checkedAt": "2025-08-26T00:37:32.362Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34,
+        "100": 35,
         "4187": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-24T19:21:12Z",
+        "fileSize": 10562,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 57356,
+        "name": "Concept Art Ghostfence Enhanced   C.A.G.E.",
+        "status": "published",
+        "summary": "Duo Dinamico in RV (Vegetto, RandomPal and RuffinVangarr) presents a concept art implementation of the Ghostgate.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57356/57356-1756062462-1983887707.png",
+        "uid": "429496786956",
+        "updatedAt": "2025-08-25T20:51:55Z",
+        "fileIds": [
+          "1000056381",
+          "1000056336",
+          "1000056339",
+          "1000056338"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-03-15T03:24:48Z",
@@ -571,7 +593,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-09-23T23:34:12Z",
-        "fileSize": 9771,
+        "fileSize": 8495,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -582,7 +604,11 @@
         "summary": "Overhaul the Assarnibibi shrine area. HD and Vanilla version.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48867/48867-1604102085-764261061.jpeg",
         "uid": "429496778467",
-        "updatedAt": "2021-01-23T12:52:45Z"
+        "updatedAt": "2025-08-25T18:48:38Z",
+        "fileIds": [
+          "1000056374",
+          "1000021584"
+        ]
       },
       {
         "adultContent": false,
@@ -715,6 +741,6 @@
         "updatedAt": "2020-04-12T15:58:58Z"
       }
     ],
-    "totalCount": 34
+    "totalCount": 35
   }
 }
