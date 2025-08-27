@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-08-26T23:11:30.645Z",
+  "checkedAt": "2025-08-27T21:33:32.249Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34,
+        "100": 35,
         "110": 3,
         "120": 1,
         "130": 6,
@@ -24,6 +24,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-27T05:36:42Z",
+        "fileSize": 20163,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57369,
+        "name": "Vurt's Animated Grazeland Trees",
+        "status": "published",
+        "summary": "Animated trees for the Grazelands region, including additional palm trees and a bigger tree in optional .esp",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57369/57369-1756272898-1711818201.jpg",
+        "uid": "429496786969",
+        "updatedAt": "2025-08-27T05:45:01Z",
+        "fileIds": [
+          "1000056420"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-09T08:32:23Z",
@@ -666,6 +685,6 @@
         "updatedAt": "2009-12-09T12:01:09Z"
       }
     ],
-    "totalCount": 34
+    "totalCount": 35
   }
 }
