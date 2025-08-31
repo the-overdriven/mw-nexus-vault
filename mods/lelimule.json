@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-08-27T21:33:16.429Z",
+  "checkedAt": "2025-08-31T20:11:34.947Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 28
+        "100": 29
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-30T13:33:31Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57380,
+        "name": "No More Passive Actors When Player Up High (OpenMW)",
+        "status": "published",
+        "summary": "This mod corrects 2 Morrowind pbs when player is up high. See description.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57380/57380-1756560334-1322922487.png",
+        "uid": "429496786980",
+        "updatedAt": "2025-08-30T13:33:31Z",
+        "fileIds": [
+          "1000056486"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-07-22T13:08:58Z",
@@ -536,6 +555,6 @@
         "updatedAt": "2023-02-23T07:25:55Z"
       }
     ],
-    "totalCount": 28
+    "totalCount": 29
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-27T21:33:04.679Z",
+  "checkedAt": "2025-08-31T20:10:54.300Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -51,7 +51,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-03-25T13:01:28Z",
-        "fileSize": 106687,
+        "fileSize": 28,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -62,8 +62,9 @@
         "summary": "-This replacement transform the Rethan Manor in a real Stronghold.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56243/56243-1742907304-61285367.jpeg",
         "uid": "429496785843",
-        "updatedAt": "2025-04-04T22:14:45Z",
+        "updatedAt": "2025-08-28T07:50:00Z",
         "fileIds": [
+          "1000056446",
           "1000051718",
           "1000051496"
         ]

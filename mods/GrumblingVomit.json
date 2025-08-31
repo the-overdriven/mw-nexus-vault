@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-08-27T21:33:13.971Z",
+  "checkedAt": "2025-08-31T20:11:11.898Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 55,
+        "100": 56,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-29T22:09:41Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57377,
+        "name": "Daedric 6th House Chalk",
+        "status": "published",
+        "summary": "Changes the 6th House chalk scribbles to use Daedric font.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57377/57377-1756505292-446093281.jpg",
+        "uid": "429496786977",
+        "updatedAt": "2025-08-29T22:09:41Z",
+        "fileIds": [
+          "1000056474"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-26T22:45:28Z",
@@ -1001,6 +1020,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 55
+    "totalCount": 56
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-08-27T21:33:03.950Z",
+  "checkedAt": "2025-08-31T20:10:53.397Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-08-24T17:57:01Z",
-        "fileSize": 242264,
+        "fileSize": 8756,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -21,15 +21,30 @@
         "summary": "Uncompressed Morrowind, Tamriel Data and OAAB vanilla resolution textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57355/57355-1756055914-602731062.png",
         "uid": "429496786955",
-        "updatedAt": "2025-08-25T15:06:31Z",
+        "updatedAt": "2025-08-31T19:49:13Z",
         "fileIds": [
           "1000056356",
           "1000056330",
           "1000056331",
           "1000056332",
-          "1000056348",
+          "1000056523",
+          "1000056521",
+          "1000056516",
+          "1000056522",
+          "1000056520",
+          "1000056515",
+          "1000056517",
+          "1000056445",
+          "1000056518",
+          "1000056496",
           "1000056349",
-          "1000056333"
+          "1000056333",
+          "1000056527",
+          "1000056348",
+          "1000056444",
+          "1000056479",
+          "1000056491",
+          "1000056498"
         ]
       },
       {
