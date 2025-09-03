@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-09-01T20:27:04.608Z",
+  "checkedAt": "2025-09-03T19:56:08.712Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 8
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-02T12:59:17Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57395,
+        "name": "Second Wind - Regenerate fatigue outside combat fast",
+        "status": "published",
+        "summary": "As it says in the can. Outside combat, you will get a bonus effect to fatigue regeneration. Increase it by crouching and not moving. This bonus will dissapear in combat.No more stamina management outside combat! MWSE only",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57395/57395-1756817944-1756561172.png",
+        "uid": "429496786995",
+        "updatedAt": "2025-09-02T12:59:17Z",
+        "fileIds": [
+          "1000056560"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-18T07:35:22Z",
@@ -115,13 +134,14 @@
         "summary": "Take That! overhauls Morrowind’s melee combat with new, timing-based mechanics: blocking, parrying, dodging, and spell batting. Each mechanic rewards skill, timing, and character build, making combat more dynamic and reactive.All features",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56624/56624-1747397097-1016307333.png",
         "uid": "429496786224",
-        "updatedAt": "2025-07-31T09:43:50Z",
+        "updatedAt": "2025-09-01T21:49:37Z",
         "fileIds": [
-          "1000055584",
+          "1000056552",
           "1000053364",
           "1000053455",
           "1000054490",
           "1000055531",
+          "1000055584",
           "1000053044",
           "1000053111",
           "1000053153"
@@ -148,6 +168,6 @@
         ]
       }
     ],
-    "totalCount": 7
+    "totalCount": 8
   }
 }
