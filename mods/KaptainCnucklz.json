@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-05T01:07:05.312Z",
+  "checkedAt": "2025-09-07T19:42:19.174Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14,
+        "100": 15,
         "101": 16,
         "110": 2,
         "130": 38,
@@ -22,6 +22,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-06T05:58:50Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 57410,
+        "name": "Spell Cast Reduction v3.0 (Reupload)",
+        "status": "published",
+        "summary": "Reduces the casting cost of a spell based on your skill level in the corresponding magic school.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57410/57410-1757137112-144725822.png",
+        "uid": "429496787010",
+        "updatedAt": "2025-09-06T05:58:50Z",
+        "fileIds": [
+          "1000056635"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-01-26T18:43:21Z",
@@ -266,6 +285,6 @@
         "updatedAt": "2020-05-03T15:14:40Z"
       }
     ],
-    "totalCount": 14
+    "totalCount": 15
   }
 }

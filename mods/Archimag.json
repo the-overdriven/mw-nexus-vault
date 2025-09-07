@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-05T01:06:40.942Z",
+  "checkedAt": "2025-09-07T19:41:56.668Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 57
+        "100": 56
       }
     },
     "nodes": [
@@ -105,22 +105,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53829/53829-1702410481-1578877530.jpeg",
         "uid": "429496783429",
         "updatedAt": "2024-01-16T10:01:12Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2023-11-13T22:51:47Z",
-        "fileSize": 6,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 53722,
-        "name": "Eternal Shine",
-        "status": "published",
-        "summary": "Adds a glowing halo to all physical lights",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53722/53722-1700689538-1332347015.jpeg",
-        "uid": "429496783322",
-        "updatedAt": "2023-12-16T19:08:07Z"
       },
       {
         "adultContent": false,
@@ -934,6 +918,6 @@
         "updatedAt": "2020-01-12T13:07:52Z"
       }
     ],
-    "totalCount": 57
+    "totalCount": 56
   }
 }

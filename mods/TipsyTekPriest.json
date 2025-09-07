@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-05T01:07:15.752Z",
+  "checkedAt": "2025-09-07T19:42:46.515Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -217,7 +217,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-02-04T15:21:33Z",
-        "fileSize": 55,
+        "fileSize": 56,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -228,9 +228,9 @@
         "summary": "Overhauls the appearances of Ashlander npcs, incorporating faces and assets from Tamriel_Data and OAAB_Data.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54099/54099-1756897831-1975854472.png",
         "uid": "429496783699",
-        "updatedAt": "2025-09-03T11:01:19Z",
+        "updatedAt": "2025-09-06T09:40:30Z",
         "fileIds": [
-          "1000056570",
+          "1000056639",
           "1000042519",
           "1000051414"
         ]

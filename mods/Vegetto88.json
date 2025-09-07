@@ -1,13 +1,36 @@
 {
-  "checkedAt": "2025-09-05T01:07:22.247Z",
+  "checkedAt": "2025-09-07T19:42:53.276Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35,
+        "100": 36,
         "4187": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-05T19:40:51Z",
+        "fileSize": 18110,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 57408,
+        "name": "L.U.S.T. (Luxury Upgrade Sexy Transport)",
+        "status": "published",
+        "summary": "L.U.S.T. - Luxury Upgrade: Sexy Transport:  This mod is inspired by a Skywind gondola concept - HD and Vanilla.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57408/57408-1757100864-1101625362.png",
+        "uid": "429496787008",
+        "updatedAt": "2025-09-06T13:28:22Z",
+        "fileIds": [
+          "1000056641",
+          "1000056621",
+          "1000056623",
+          "1000056628",
+          "1000056631"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-24T19:21:12Z",
@@ -744,6 +767,6 @@
         "updatedAt": "2020-04-12T15:58:58Z"
       }
     ],
-    "totalCount": 35
+    "totalCount": 36
   }
 }

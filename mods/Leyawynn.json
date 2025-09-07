@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-05T01:07:06.833Z",
+  "checkedAt": "2025-09-07T19:42:26.606Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 53,
+        "100": 52,
         "101": 1,
         "1704": 1
       }
@@ -376,22 +376,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47671/47671-1583452038-1542603002.png",
         "uid": "429496777271",
         "updatedAt": "2020-03-06T14:46:42Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-03-05T17:41:52Z",
-        "fileSize": 3,
-        "modCategory": {
-          "categoryId": 5,
-          "name": "Guilds/Factions"
-        },
-        "modId": 47670,
-        "name": "Quests for Faction Leaders",
-        "status": "published",
-        "summary": "Makes it so that you can still do quests, even if you're the highest rank in the faction.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47670/47670-1583429979-1023743315.png",
-        "uid": "429496777270",
-        "updatedAt": "2020-03-12T20:01:53Z"
       },
       {
         "adultContent": false,
@@ -858,6 +842,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 53
+    "totalCount": 52
   }
 }
