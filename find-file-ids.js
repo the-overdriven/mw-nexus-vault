@@ -27,7 +27,8 @@ async function scrapeNexusMods(url) {
   await page.goto(url, { waitUntil: 'networkidle2', timeout: 0 })
 
   // Wait a bit in case Cloudflare or JS challenge appears
-  await new Promise(r => setTimeout(r, 2000))
+  const delay = Math.floor(Math.random() * (4000 - 2000 + 1)) + 2000
+  await new Promise(r => setTimeout(r, delay))
 
   // Get the HTML after challenge
   const html = await page.content()

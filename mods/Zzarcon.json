@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-07T19:43:01.031Z",
+  "checkedAt": "2025-09-23T22:19:10.927Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -365,7 +365,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-07-08T19:41:34Z",
-        "fileSize": 9970,
+        "fileSize": 15142,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -376,8 +376,11 @@
         "summary": "Overhauls the Strongholds of Valenvaryon, Falasmaryon, Indoranyon, Falensaro, Andraseth, Rotheran, and Telsaro.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53171/53171-1693424535-1142118705.png",
         "uid": "429496782771",
-        "updatedAt": "2025-08-19T19:26:39Z",
-        "fileIds": []
+        "updatedAt": "2025-09-18T02:02:05Z",
+        "fileIds": [
+          "1000056900",
+          "1000038971"
+        ]
       },
       {
         "adultContent": false,
