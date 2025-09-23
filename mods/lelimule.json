@@ -1,16 +1,36 @@
 {
-  "checkedAt": "2025-09-07T19:42:26.269Z",
+  "checkedAt": "2025-09-23T22:00:53.838Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 29
+        "100": 30
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2025-09-12T13:16:20Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57439,
+        "name": "No More Endless Combats Between Actors",
+        "status": "published",
+        "summary": "In Morrowind, combats between actors nevers stops as long as they are alive. Now a combat between actors (but not player) stops after 12 hours (game time).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57439/57439-1757682688-1224340763.jpg",
+        "uid": "429496787039",
+        "updatedAt": "2025-09-12T14:47:57Z",
+        "fileIds": [
+          "1000056760",
+          "1000056759"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-08-30T13:33:31Z",
-        "fileSize": 4,
+        "fileSize": 5,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,10 +41,8 @@
         "summary": "This mod corrects 2 Morrowind pbs when player is up high. See description.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57380/57380-1756560334-1322922487.png",
         "uid": "429496786980",
-        "updatedAt": "2025-08-30T13:33:31Z",
-        "fileIds": [
-          "1000056486"
-        ]
+        "updatedAt": "2025-09-11T12:28:45Z",
+        "fileIds": []
       },
       {
         "adultContent": false,
@@ -555,6 +573,6 @@
         "updatedAt": "2023-02-23T07:25:55Z"
       }
     ],
-    "totalCount": 29
+    "totalCount": 30
   }
 }

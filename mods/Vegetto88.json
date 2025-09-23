@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-07T19:42:53.276Z",
+  "checkedAt": "2025-09-23T22:02:36.523Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -11,7 +11,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-05T19:40:51Z",
-        "fileSize": 18110,
+        "fileSize": 21938,
         "modCategory": {
           "categoryId": 7,
           "name": "Items, Objects, and Clothes"
@@ -22,14 +22,8 @@
         "summary": "L.U.S.T. - Luxury Upgrade: Sexy Transport:  This mod is inspired by a Skywind gondola concept - HD and Vanilla.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57408/57408-1757100864-1101625362.png",
         "uid": "429496787008",
-        "updatedAt": "2025-09-06T13:28:22Z",
-        "fileIds": [
-          "1000056641",
-          "1000056621",
-          "1000056623",
-          "1000056628",
-          "1000056631"
-        ]
+        "updatedAt": "2025-09-09T18:00:02Z",
+        "fileIds": []
       },
       {
         "adultContent": false,
@@ -211,7 +205,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-09-11T15:15:22Z",
-        "fileSize": 1,
+        "fileSize": 2985,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -222,42 +216,8 @@
         "summary": "Small but important things: UV fixes - Add-Ons - Normalmaps - Patches",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51813/51813-1662907793-1191844267.jpeg",
         "uid": "429496781413",
-        "updatedAt": "2025-09-02T16:41:53Z",
-        "fileIds": [
-          "1000033053",
-          "1000040862",
-          "1000056563",
-          "1000033040",
-          "1000033041",
-          "1000033042",
-          "1000050634",
-          "1000033043",
-          "1000044850",
-          "1000043903",
-          "1000036212",
-          "1000055898",
-          "1000048417",
-          "1000042308",
-          "1000033585",
-          "1000041796",
-          "1000033045",
-          "1000033047",
-          "1000034577",
-          "1000033050",
-          "1000033046",
-          "1000033048",
-          "1000033049",
-          "1000033051",
-          "1000033052",
-          "1000048419",
-          "1000034337",
-          "1000048353",
-          "1000033044",
-          "1000033055",
-          "1000033079",
-          "1000033084",
-          "1000033442"
-        ]
+        "updatedAt": "2025-09-09T18:25:33Z",
+        "fileIds": []
       },
       {
         "adultContent": false,

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-07T19:41:56.668Z",
+  "checkedAt": "2025-09-23T21:59:19.806Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 56
+        "100": 54
       }
     },
     "nodes": [
@@ -196,22 +196,6 @@
         "fileIds": [
           "1000054433"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2022-11-13T22:50:38Z",
-        "fileSize": 28,
-        "modCategory": {
-          "categoryId": 24,
-          "name": "User Interface"
-        },
-        "modId": 51968,
-        "name": "Main Menu Overhaul",
-        "status": "published",
-        "summary": "Improves the main menu: 4 mods in 1",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51968/51968-1668379658-1181431830.jpeg",
-        "uid": "429496781568",
-        "updatedAt": "2022-11-13T22:50:38Z"
       },
       {
         "adultContent": false,
@@ -516,22 +500,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49684/49684-1620213403-1165099044.jpeg",
         "uid": "429496779284",
         "updatedAt": "2021-08-20T17:45:57Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2021-05-04T12:50:42Z",
-        "fileSize": 11,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 49670,
-        "name": "Ultra AI",
-        "status": "published",
-        "summary": "Combat AI overhaul",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49670/49670-1620132555-505238506.jpeg",
-        "uid": "429496779270",
-        "updatedAt": "2023-01-11T18:02:31Z"
       },
       {
         "adultContent": false,
@@ -918,6 +886,6 @@
         "updatedAt": "2020-01-12T13:07:52Z"
       }
     ],
-    "totalCount": 56
+    "totalCount": 54
   }
 }

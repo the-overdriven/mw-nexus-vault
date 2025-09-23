@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-09-07T19:41:59.392Z",
+  "checkedAt": "2025-09-23T21:59:32.760Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15
+        "100": 16
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-19T08:57:58Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57474,
+        "name": "Torch Hotkey Expanded",
+        "status": "published",
+        "summary": "Adds a hotkey to ready a light source. Features include automatic reequipping of the weapon if one was unequipped when taking out the light, an MCM to configure the keybind, compatibility with Midnight Oil, and MWSE Containers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57474/57474-1758270894-1000861326.jpg",
+        "uid": "429496787074",
+        "updatedAt": "2025-09-19T10:08:36Z",
+        "fileIds": [
+          "1000056928",
+          "1000056927"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-21T10:33:22Z",
@@ -109,7 +129,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-09-06T21:24:11Z",
-        "fileSize": 2052,
+        "fileSize": 2054,
         "modCategory": {
           "categoryId": 22,
           "name": "Cheats and God items"
@@ -120,12 +140,13 @@
         "summary": "This mod adds a command menu with the following tabs: - General tab - various things to tweak - Player tab - change skills and attributes - Items tab - choose items to add - Spells tab - choose spells to learn - Soul gems tab - add filled",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55193/55193-1725654488-1595738106.jpeg",
         "uid": "429496784793",
-        "updatedAt": "2025-08-13T17:56:00Z",
+        "updatedAt": "2025-09-18T10:58:08Z",
         "fileIds": [
-          "1000055919",
+          "1000056907",
           "1000047109",
           "1000047660",
           "1000047153",
+          "1000055919",
           "1000047246"
         ]
       },
@@ -297,6 +318,6 @@
         "updatedAt": "2023-09-05T09:33:32Z"
       }
     ],
-    "totalCount": 15
+    "totalCount": 16
   }
 }

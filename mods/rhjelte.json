@@ -1,12 +1,29 @@
 {
-  "checkedAt": "2025-09-07T19:42:36.763Z",
+  "checkedAt": "2025-09-23T22:01:45.894Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 4
+        "100": 5
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-16T21:32:28Z",
+        "fileSize": 211,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 57463,
+        "name": "The Wolverine Hall and Sadrith Mora - Seat of Power compatibility patch",
+        "status": "published",
+        "summary": "An edit to make the amazing The Wolverine Hall (Random Pal and Vegetto) to work together with the also great Sadrith Mora - Seat of Power of House Telvanni.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57463/57463-1758057598-1024399090.jpg",
+        "uid": "429496787063",
+        "updatedAt": "2025-09-16T21:32:28Z",
+        "fileIds": []
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-09T21:42:56Z",
@@ -88,6 +105,6 @@
         "updatedAt": "2025-06-01T21:52:17Z"
       }
     ],
-    "totalCount": 4
+    "totalCount": 5
   }
 }

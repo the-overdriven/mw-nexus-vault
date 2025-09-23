@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2025-09-07T19:42:00.116Z",
+  "checkedAt": "2025-09-23T21:59:44.152Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16,
+        "100": 17,
         "120": 5,
         "130": 62
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-21T03:24:14Z",
+        "fileSize": 116,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57479,
+        "name": "Tamriel Rebuilt Muckleech High Quality Mesh and Fixes",
+        "status": "published",
+        "summary": "Makes the TR leech look like an actual leech.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57479/57479-1758424779-1489823770.png",
+        "uid": "429496787079",
+        "updatedAt": "2025-09-21T03:24:14Z",
+        "fileIds": [
+          "1000056957"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-04T16:27:14Z",
@@ -118,7 +137,18 @@
         "summary": "NPCs can now be dismembered on death, resulting in a bloody mess!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56122/56122-1741026437-1353594629.png",
         "uid": "429496785722",
-        "updatedAt": "2025-03-22T21:13:16Z"
+        "updatedAt": "2025-09-08T13:51:23Z",
+        "fileIds": [
+          "1000056701",
+          "1000050901",
+          "1000051079",
+          "1000051136",
+          "1000050902",
+          "1000050919",
+          "1000051435",
+          "1000050940",
+          "1000051197"
+        ]
       },
       {
         "adultContent": false,
@@ -343,6 +373,6 @@
         ]
       }
     ],
-    "totalCount": 16
+    "totalCount": 17
   }
 }

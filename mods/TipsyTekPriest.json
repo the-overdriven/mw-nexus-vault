@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-07T19:42:46.515Z",
+  "checkedAt": "2025-09-23T22:02:28.531Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-06-16T19:54:35Z",
-        "fileSize": 1,
+        "fileSize": 5,
         "modCategory": {
           "categoryId": 19,
           "name": "Creatures"
@@ -21,10 +21,8 @@
         "summary": "Replaces Tamriel_Data's 'lesser' Spider Daedra model with the Perthan model.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56961/56961-1750103382-1118483093.jpeg",
         "uid": "429496786561",
-        "updatedAt": "2025-06-16T19:54:35Z",
-        "fileIds": [
-          "1000054481"
-        ]
+        "updatedAt": "2025-09-14T08:47:24Z",
+        "fileIds": []
       },
       {
         "adultContent": false,
@@ -399,7 +397,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-10-27T20:54:45Z",
-        "fileSize": 3150,
+        "fileSize": 3148,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -410,11 +408,8 @@
         "summary": "Adds weapons and armour from Tamriel_Data, OAAB_Data and Danke's Armors to Daedric Cultists to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51922/51922-1673631978-1979698301.png",
         "uid": "429496781522",
-        "updatedAt": "2025-05-29T07:30:13Z",
-        "fileIds": [
-          "1000053755",
-          "1000052315"
-        ]
+        "updatedAt": "2025-09-22T12:52:40Z",
+        "fileIds": []
       },
       {
         "adultContent": false,
