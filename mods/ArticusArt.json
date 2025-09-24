@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-23T22:17:21.684Z",
+  "checkedAt": "2025-09-24T17:57:57.255Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 33
+        "100": 32
       }
     },
     "nodes": [
@@ -517,22 +517,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2018-06-16T12:49:14Z",
-        "fileSize": 1318,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45789,
-        "name": "Staff of Magnus replacer by Articus - Skyrim style",
-        "status": "published",
-        "summary": "New model and textures for Staff of Magnus. Stone spere is glowing in the dark.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45789/45789-1538850140-2086117627.jpeg",
-        "uid": "429496775389",
-        "updatedAt": "2018-10-08T06:22:32Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2018-06-15T21:03:33Z",
         "fileSize": 2670,
         "modCategory": {
@@ -596,6 +580,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 33
+    "totalCount": 32
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-23T22:17:20.298Z",
+  "checkedAt": "2025-09-24T17:57:47.453Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -311,7 +311,15 @@
         "summary": "Info about/open current playing music track",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53091/53091-1687180057-525162515.jpeg",
         "uid": "429496782691",
-        "updatedAt": "2025-07-28T16:40:16Z"
+        "updatedAt": "2025-09-24T15:25:03Z",
+        "fileIds": [
+          "1000057061",
+          "1000041754",
+          "1000041767",
+          "1000042122",
+          "1000055522",
+          "1000038655"
+        ]
       },
       {
         "adultContent": false,
