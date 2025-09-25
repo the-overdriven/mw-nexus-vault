@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-24T17:57:56.914Z",
+  "checkedAt": "2025-09-25T19:06:36.380Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 54
+        "100": 53
       }
     },
     "nodes": [
@@ -228,22 +228,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51626/51626-1658134081-2036350424.jpeg",
         "uid": "429496781226",
         "updatedAt": "2022-07-18T15:08:33Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2022-04-30T23:34:59Z",
-        "fileSize": 2395,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 51034,
-        "name": "PvP",
-        "status": "published",
-        "summary": "A combat based on parries and dodges. Enemies fight almost like real players.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51034/51034-1651000355-1917987181.jpeg",
-        "uid": "429496780634",
-        "updatedAt": "2024-10-11T09:46:03Z"
       },
       {
         "adultContent": false,
@@ -886,6 +870,6 @@
         "updatedAt": "2020-01-12T13:07:52Z"
       }
     ],
-    "totalCount": 54
+    "totalCount": 53
   }
 }
