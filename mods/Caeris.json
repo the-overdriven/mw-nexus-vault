@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-09-25T19:06:38.343Z",
+  "checkedAt": "2025-09-27T17:38:05.205Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23
+        "100": 24
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-27T05:17:22Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 57509,
+        "name": "Maggots and Graverobbers",
+        "status": "published",
+        "summary": "Follow a trail of corpses, uncover a feud between a vengeful necromancer and a gang of graverobbers, then bring it to a violent end.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57509/57509-1758948363-203608731.jpg",
+        "uid": "429496787109",
+        "updatedAt": "2025-09-27T05:17:22Z",
+        "fileIds": [
+          "1000057138"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-04T09:58:43Z",
@@ -432,6 +451,6 @@
         ]
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

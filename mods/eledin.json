@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-25T19:06:41.257Z",
+  "checkedAt": "2025-09-27T17:38:16.857Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 20,
+        "100": 21,
         "181": 1,
         "430": 1,
         "437": 1,
@@ -12,6 +12,26 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-27T11:54:56Z",
+        "fileSize": 52446,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57515,
+        "name": "Unique Velothi Interiors",
+        "status": "published",
+        "summary": "Custom interior textures for Velothi architecture",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57515/57515-1758969488-184243600.png",
+        "uid": "429496787115",
+        "updatedAt": "2025-09-27T13:58:46Z",
+        "fileIds": [
+          "1000057147",
+          "1000057142"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-28T10:30:27Z",
@@ -387,6 +407,6 @@
         "updatedAt": "2024-08-15T21:59:15Z"
       }
     ],
-    "totalCount": 20
+    "totalCount": 21
   }
 }
