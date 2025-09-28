@@ -1,15 +1,40 @@
 {
-  "checkedAt": "2025-09-27T17:38:16.200Z",
+  "checkedAt": "2025-09-28T23:50:54.465Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 9,
+        "100": 10,
         "110": 1,
         "1704": 1,
-        "4462": 3
+        "4462": 3,
+        "5018": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-28T00:33:03Z",
+        "fileSize": 3027,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 57524,
+        "name": "Maps of Tamriel and Other Lands",
+        "status": "published",
+        "summary": "Contain all the working/source files for maps related to The Elder Scrolls I have published over the years.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57524/57524-1759015759-355372342.jpg",
+        "uid": "429496787124",
+        "updatedAt": "2025-09-28T00:33:03Z",
+        "fileIds": [
+          "1000057178",
+          "1000057176",
+          "1000057173",
+          "1000057174",
+          "1000057177",
+          "1000057175"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-10T23:11:43Z",
@@ -194,6 +219,6 @@
         ]
       }
     ],
-    "totalCount": 9
+    "totalCount": 10
   }
 }

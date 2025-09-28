@@ -1,14 +1,34 @@
 {
-  "checkedAt": "2025-09-27T17:38:43.604Z",
+  "checkedAt": "2025-09-28T23:51:45.986Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 39,
+        "100": 40,
         "110": 1,
         "2736": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-28T08:03:42Z",
+        "fileSize": 3949,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 57514,
+        "name": "Concept Art Scamp Overhaul",
+        "status": "published",
+        "summary": "Adds scamp variants based on concept art, adds facial animations to the vanilla scamp, unique models for Creeper and Lustidrike and adds an optional new area.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57514/57514-1759043653-732157531.jpg",
+        "uid": "429496787114",
+        "updatedAt": "2025-09-28T08:03:42Z",
+        "fileIds": [
+          "1000057185",
+          "1000057190"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-07T18:05:39Z",
@@ -689,6 +709,6 @@
         "updatedAt": "2021-09-26T00:45:01Z"
       }
     ],
-    "totalCount": 39
+    "totalCount": 40
   }
 }

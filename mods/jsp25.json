@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-09-27T17:38:36.348Z",
+  "checkedAt": "2025-09-28T23:51:20.404Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 32
+        "100": 33
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-28T19:35:52Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 57528,
+        "name": "Vanilla Style Dungeons",
+        "status": "published",
+        "summary": "Updated versions of AshTheAlien's vanilla style dungeons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57528/57528-1759085541-1247924849.png",
+        "uid": "429496787128",
+        "updatedAt": "2025-09-28T19:35:52Z",
+        "fileIds": [
+          "1000057204",
+          "1000057203"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-03-22T18:52:04Z",
@@ -573,6 +593,6 @@
         "updatedAt": "2017-01-06T02:24:09Z"
       }
     ],
-    "totalCount": 32
+    "totalCount": 33
   }
 }

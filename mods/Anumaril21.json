@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-09-27T17:38:03.613Z",
+  "checkedAt": "2025-09-28T23:50:33.815Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13
+        "100": 14
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-27T20:46:45Z",
+        "fileSize": 279,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57521,
+        "name": "Furled Sails for Ships",
+        "status": "published",
+        "summary": "Replaces models of ships in port with variants that have folded sails.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57521/57521-1759005665-1962024775.png",
+        "uid": "429496787121",
+        "updatedAt": "2025-09-27T20:46:45Z",
+        "fileIds": [
+          "1000057165",
+          "1000057166"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2022-05-25T07:49:00Z",
@@ -220,6 +240,6 @@
         "updatedAt": "2024-08-21T16:48:31Z"
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }

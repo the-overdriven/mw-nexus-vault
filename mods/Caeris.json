@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-09-27T17:38:05.205Z",
+  "checkedAt": "2025-09-28T23:50:43.996Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24
+        "100": 25
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-28T07:34:47Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57525,
+        "name": "Basic Chargen",
+        "status": "published",
+        "summary": "A straightforward approach to an alternative start mod, as well as a modders resource.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57525/57525-1759031174-1690080335.jpg",
+        "uid": "429496787125",
+        "updatedAt": "2025-09-28T07:34:47Z",
+        "fileIds": [
+          "1000057191",
+          "1000057192"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-27T05:17:22Z",
@@ -451,6 +471,6 @@
         ]
       }
     ],
-    "totalCount": 24
+    "totalCount": 25
   }
 }
