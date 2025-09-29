@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-28T23:51:29.851Z",
+  "checkedAt": "2025-09-29T18:34:06.910Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -40,7 +40,12 @@
         "summary": "Requires MWSE. Allows you to change how the vanilla difficulty slider works and define a difficulty curve. Functions include affecting physical damage, spell resistance, NPC stats, potion strength, repair effectiveness, chance to",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55980/55980-1739178398-6219759.png",
         "uid": "429496785580",
-        "updatedAt": "2025-03-29T15:04:06Z"
+        "updatedAt": "2025-09-29T10:47:11Z",
+        "fileIds": [
+          "1000057220",
+          "1000051570",
+          "1000050376"
+        ]
       },
       {
         "adultContent": false,
@@ -77,7 +82,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-08-21T17:11:55Z",
-        "fileSize": 2685,
+        "fileSize": 2827,
         "modCategory": {
           "categoryId": 23,
           "name": "Companions"
@@ -88,7 +93,20 @@
         "summary": "This MWSE mod allows both NPC and Creature companions to level up with the player based on their Class/Creature Type (Class Mode) or specific player selected build settings (Build Mode). In Class Mode, you also have the choice of changing",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51760/51760-1746636767-1087942086.png",
         "uid": "429496781360",
-        "updatedAt": "2025-05-12T14:44:35Z"
+        "updatedAt": "2025-09-29T07:49:46Z",
+        "fileIds": [
+          "1000057217",
+          "1000038401",
+          "1000038967",
+          "1000051001",
+          "1000052814",
+          "1000052587",
+          "1000048759",
+          "1000037506",
+          "1000048364",
+          "1000032752",
+          "1000048374"
+        ]
       },
       {
         "adultContent": false,
