@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-09-29T18:33:59.109Z",
+  "checkedAt": "2025-10-02T00:37:27.183Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 32
+        "100": 31
       }
     },
     "nodes": [
@@ -119,25 +119,6 @@
         "updatedAt": "2025-04-25T12:26:26Z",
         "fileIds": [
           "1000052102"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-04-06T17:36:17Z",
-        "fileSize": 30231,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 56318,
-        "name": "Glass Revamp",
-        "status": "published",
-        "summary": "This mod replaces glass armor, weapons, ore, ingredient and adds a cool Dunmer male face and hairstyle to play with (compatible with Articus BN Faces). Adds glow and transparency.All you need is to place conteining files to your",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56318/56318-1743960788-1291917446.jpeg",
-        "uid": "429496785918",
-        "updatedAt": "2025-04-25T12:55:50Z",
-        "fileIds": [
-          "1000052105"
         ]
       },
       {
@@ -580,6 +561,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 32
+    "totalCount": 31
   }
 }

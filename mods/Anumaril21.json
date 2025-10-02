@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-29T18:33:58.632Z",
+  "checkedAt": "2025-10-02T00:37:20.342Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-27T20:46:45Z",
-        "fileSize": 279,
+        "fileSize": 280,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -21,10 +21,10 @@
         "summary": "Replaces models of ships in port with variants that have folded sails.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57521/57521-1759005665-1962024775.png",
         "uid": "429496787121",
-        "updatedAt": "2025-09-27T20:46:45Z",
+        "updatedAt": "2025-09-29T18:58:57Z",
         "fileIds": [
-          "1000057165",
-          "1000057166"
+          "1000057235",
+          "1000057236"
         ]
       },
       {

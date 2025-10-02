@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-29T18:34:00.156Z",
+  "checkedAt": "2025-10-02T00:37:28.146Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -304,7 +304,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-09-04T15:25:32Z",
-        "fileSize": 1,
+        "fileSize": 4,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -315,7 +315,17 @@
         "summary": "My collection of small mods and fixes.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47146/47146-1613855576-702266203.png",
         "uid": "429496776746",
-        "updatedAt": "2023-09-05T09:33:32Z"
+        "updatedAt": "2025-09-29T18:45:37Z",
+        "fileIds": [
+          "1000023037",
+          "1000023035",
+          "1000057233",
+          "1000023038",
+          "1000015673",
+          "1000023036",
+          "1000040055",
+          "1000023013"
+        ]
       }
     ],
     "totalCount": 16

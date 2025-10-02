@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-29T18:33:57.920Z",
+  "checkedAt": "2025-10-02T00:37:10.820Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -777,7 +777,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-10-12T09:42:05Z",
-        "fileSize": 71,
+        "fileSize": 69,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -788,7 +788,29 @@
         "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and Daedric text translated from enchanted scrolls. You can now read",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48930/48930-1602494758-1296927970.jpeg",
         "uid": "429496778530",
-        "updatedAt": "2025-02-05T15:03:28Z"
+        "updatedAt": "2025-09-29T19:58:57Z",
+        "fileIds": [
+          "1000057239",
+          "1000021284",
+          "1000021332",
+          "1000021360",
+          "1000046103",
+          "1000049325",
+          "1000050097",
+          "1000044514",
+          "1000021462",
+          "1000021515",
+          "1000022729",
+          "1000026955",
+          "1000027920",
+          "1000028247",
+          "1000028320",
+          "1000028622",
+          "1000028698",
+          "1000028738",
+          "1000033909",
+          "1000039064"
+        ]
       },
       {
         "adultContent": false,

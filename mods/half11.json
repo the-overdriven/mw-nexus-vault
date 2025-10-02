@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-09-29T18:34:04.698Z",
+  "checkedAt": "2025-10-02T00:38:05.561Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -199,7 +199,7 @@
       {
         "adultContent": false,
         "createdAt": "2017-07-31T17:48:32Z",
-        "fileSize": 3479,
+        "fileSize": 4224,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -210,7 +210,14 @@
         "summary": "Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition which attempts to continue where the latest official version of the game left off. Over 9000+ bugs still present in the game have been",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45096/45096-1524658434-931520215.png",
         "uid": "429496774696",
-        "updatedAt": "2023-09-18T19:13:57Z"
+        "updatedAt": "2025-10-01T22:38:00Z",
+        "fileIds": [
+          "1000057302",
+          "1000016399",
+          "1000040215",
+          "1000022245",
+          "1000019704"
+        ]
       }
     ],
     "totalCount": 12
