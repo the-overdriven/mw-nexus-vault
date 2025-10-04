@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-02T00:38:12.428Z",
+  "checkedAt": "2025-10-04T17:39:31.974Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -111,7 +111,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-06-30T16:51:33Z",
-        "fileSize": 127,
+        "fileSize": 130,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -122,9 +122,9 @@
         "summary": "A \"Natural Grow\" leveling mod where your attributes and level grow automatically as your skills increase, and your skills will also decay over time (Optional).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53136/53136-1716514022-700771458.png",
         "uid": "429496782736",
-        "updatedAt": "2025-09-28T03:51:15Z",
+        "updatedAt": "2025-10-02T15:08:14Z",
         "fileIds": [
-          "1000057183",
+          "1000057308",
           "1000041478",
           "1000057095",
           "1000045835",
@@ -150,6 +150,7 @@
           "1000051792",
           "1000052566",
           "1000047453",
+          "1000057183",
           "1000043872",
           "1000051553",
           "1000056163",

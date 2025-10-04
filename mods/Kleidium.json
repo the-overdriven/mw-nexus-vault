@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-10-02T00:38:21.788Z",
+  "checkedAt": "2025-10-04T17:39:48.751Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 8
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-04T14:39:08Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57553,
+        "name": "Message Box",
+        "status": "published",
+        "summary": "This MWSE mod provides a message box that can entirely replace vanilla/modded notifications and track them. Choose between basic message logging, combat logging, exploration logging, quest logging, and more. No more losing track of",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57553/57553-1759584207-844030007.png",
+        "uid": "429496787153",
+        "updatedAt": "2025-10-04T14:39:08Z",
+        "fileIds": [
+          "1000057352"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-31T12:27:28Z",
@@ -141,6 +160,6 @@
         "updatedAt": "2024-09-25T08:46:16Z"
       }
     ],
-    "totalCount": 7
+    "totalCount": 8
   }
 }
