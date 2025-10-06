@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-04T17:39:28.803Z",
+  "checkedAt": "2025-10-06T19:22:54.141Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -62,7 +62,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-11T16:34:33Z",
-        "fileSize": 208145,
+        "fileSize": 214981,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -73,14 +73,16 @@
         "summary": "Lua sound effects extension that dynamically adds ambient sounds and creature sounds.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56572/56572-1746980774-956852264.png",
         "uid": "429496786172",
-        "updatedAt": "2025-09-16T22:18:52Z",
+        "updatedAt": "2025-10-05T18:38:55Z",
         "fileIds": [
-          "1000056881",
+          "1000057398",
           "1000055334",
           "1000055350",
+          "1000057364",
           "1000053784",
           "1000052775",
           "1000055338",
+          "1000056881",
           "1000052789",
           "1000053061",
           "1000052806",
