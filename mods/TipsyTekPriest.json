@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-08T22:07:03.538Z",
+  "checkedAt": "2025-10-11T02:08:11.023Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -275,7 +275,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-10-23T19:46:17Z",
-        "fileSize": 3524,
+        "fileSize": 3523,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -286,10 +286,10 @@
         "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Elucidace, and others to various Imperial-aligned npcs to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53651/53651-1734260584-832745766.png",
         "uid": "429496783251",
-        "updatedAt": "2025-09-27T04:29:33Z",
+        "updatedAt": "2025-10-10T04:35:40Z",
         "fileIds": [
-          "1000057133",
-          "1000057134",
+          "1000057540",
+          "1000057541",
           "1000041621"
         ]
       },
@@ -356,7 +356,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-01-14T14:46:31Z",
-        "fileSize": 11757,
+        "fileSize": 11273,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -367,9 +367,9 @@
         "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Kellborn, RealAshtaar, and others to various Great House and miscellaneous npcs to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52167/52167-1742639887-1993541451.png",
         "uid": "429496781767",
-        "updatedAt": "2025-09-27T04:14:21Z",
+        "updatedAt": "2025-10-10T04:19:56Z",
         "fileIds": [
-          "1000057128",
+          "1000057539",
           "1000057129",
           "1000040722",
           "1000045586",

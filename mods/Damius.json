@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-08T22:06:26.828Z",
+  "checkedAt": "2025-10-11T02:07:17.518Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-10-08T07:22:57Z",
-        "fileSize": 1260,
+        "fileSize": 1261,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -21,8 +21,9 @@
         "summary": "Adds a small settlement to Dunirai to support the miners.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57587/57587-1759905460-1212530219.png",
         "uid": "429496787187",
-        "updatedAt": "2025-10-08T07:22:57Z",
+        "updatedAt": "2025-10-10T19:28:05Z",
         "fileIds": [
+          "1000057553",
           "1000057489"
         ]
       },
@@ -116,7 +117,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-10-26T21:18:04Z",
-        "fileSize": 689,
+        "fileSize": 22453,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -127,7 +128,14 @@
         "summary": "Moves a majority of the exterior changes from Memento Mori to their own interior cells for compatability.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55382/55382-1729884428-1762470667.png",
         "uid": "429496784982",
-        "updatedAt": "2024-11-21T21:57:02Z"
+        "updatedAt": "2025-10-09T15:57:31Z",
+        "fileIds": [
+          "1000057527",
+          "1000057528",
+          "1000047886",
+          "1000047903",
+          "1000048378"
+        ]
       },
       {
         "adultContent": false,

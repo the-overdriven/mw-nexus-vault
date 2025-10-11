@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-08T22:06:56.799Z",
+  "checkedAt": "2025-10-11T02:07:58.626Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -70,7 +70,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-07T07:47:50Z",
-        "fileSize": 33,
+        "fileSize": 35,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -81,9 +81,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2025-09-28T03:47:09Z",
+        "updatedAt": "2025-10-10T07:44:47Z",
         "fileIds": [
-          "1000057182",
+          "1000057542",
           "1000051201",
           "1000048667",
           "1000050717",
@@ -97,6 +97,7 @@
           "1000054092",
           "1000051277",
           "1000048731",
+          "1000057182",
           "1000056159",
           "1000055401",
           "1000054650",

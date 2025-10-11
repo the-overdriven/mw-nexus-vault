@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-10-08T22:06:54.488Z",
+  "checkedAt": "2025-10-11T02:07:56.570Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 52,
+        "100": 51,
         "101": 1,
         "1704": 1
       }
@@ -56,22 +56,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52281/52281-1675605866-1590903173.png",
         "uid": "429496781881",
         "updatedAt": "2023-02-05T14:07:48Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2023-01-07T18:30:20Z",
-        "fileSize": 1,
-        "modCategory": {
-          "categoryId": 18,
-          "name": "Bug Fixes"
-        },
-        "modId": 52144,
-        "name": "No More Generic Egg Miners",
-        "status": "published",
-        "summary": "Fixes an oversight by Bethesda",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52144/52144-1673115927-429547534.png",
-        "uid": "429496781744",
-        "updatedAt": "2023-01-07T18:30:20Z"
       },
       {
         "adultContent": false,
@@ -842,6 +826,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 52
+    "totalCount": 51
   }
 }
