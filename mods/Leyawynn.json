@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-10-11T02:07:56.570Z",
+  "checkedAt": "2025-10-12T14:37:36.015Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 51,
+        "100": 50,
         "101": 1,
         "1704": 1
       }
@@ -200,22 +200,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49426/49426-1616112684-189022948.png",
         "uid": "429496779026",
         "updatedAt": "2021-03-19T12:34:46Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2021-03-12T23:03:03Z",
-        "fileSize": 484,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 49401,
-        "name": "Open Helmets",
-        "status": "published",
-        "summary": "Makes eyes visible through helmets",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49401/49401-1615589437-1332262834.png",
-        "uid": "429496779001",
-        "updatedAt": "2021-03-12T23:03:03Z"
       },
       {
         "adultContent": false,
@@ -826,6 +810,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 51
+    "totalCount": 50
   }
 }
