@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-10-12T14:37:00.875Z",
+  "checkedAt": "2025-10-16T21:55:42.014Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17,
+        "100": 16,
         "120": 5,
         "130": 62
       }
@@ -122,33 +122,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56194/56194-1742070854-616732570.jpeg",
         "uid": "429496785794",
         "updatedAt": "2025-03-15T20:40:22Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-03-03T18:35:52Z",
-        "fileSize": 516,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 56122,
-        "name": "Tis But A Scratch - MWSE Limb Dismemberment",
-        "status": "published",
-        "summary": "NPCs can now be dismembered on death, resulting in a bloody mess!",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56122/56122-1741026437-1353594629.png",
-        "uid": "429496785722",
-        "updatedAt": "2025-09-08T13:51:23Z",
-        "fileIds": [
-          "1000056701",
-          "1000050901",
-          "1000051079",
-          "1000051136",
-          "1000050902",
-          "1000050919",
-          "1000051435",
-          "1000050940",
-          "1000051197"
-        ]
       },
       {
         "adultContent": false,
@@ -374,6 +347,6 @@
         ]
       }
     ],
-    "totalCount": 17
+    "totalCount": 16
   }
 }

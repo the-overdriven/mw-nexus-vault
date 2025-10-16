@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-12T14:36:44.064Z",
+  "checkedAt": "2025-10-16T21:55:10.881Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -617,7 +617,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-12-21T20:58:13Z",
-        "fileSize": 12,
+        "fileSize": 14,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -625,17 +625,18 @@
         "modId": 50558,
         "name": "Smart Activate",
         "status": "published",
-        "summary": "Actors menu to choose who to activate between nearby actors.Auto facing: Selected actors slowly turns around and face player on activateBlink Fix: Try and reduce actor blinking eyes remaining closed while talking with player in 1st person",
+        "summary": "Actors menu to choose who to activate between nearby actors.+ Activation animation, Auto facing, Blink Fix, Immobile actors fix",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50558/50558-1640119619-176919078.jpeg",
         "uid": "429496780158",
-        "updatedAt": "2025-08-14T12:33:58Z",
+        "updatedAt": "2025-10-13T12:12:36Z",
         "fileIds": [
-          "1000055943",
+          "1000057629",
           "1000055098",
           "1000053057",
           "1000055375",
           "1000045904",
           "1000028798",
+          "1000055943",
           "1000046216",
           "1000052882",
           "1000045973",
