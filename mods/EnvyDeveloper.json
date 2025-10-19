@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-16T21:55:51.010Z",
+  "checkedAt": "2025-10-19T18:47:01.281Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -120,7 +120,23 @@
         "summary": "This mod adds global map markers to all dungeons on Vvardenfell, Solstheim and the release of Tamriel Rebuilt's DoD and EoE.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43248-1-1408717435.jpg",
         "uid": "429496772848",
-        "updatedAt": "2025-05-08T09:18:05Z"
+        "updatedAt": "2025-10-17T16:12:00Z",
+        "fileIds": [
+          "1000052593",
+          "1000057721",
+          "1000034144",
+          "1000034155",
+          "1000016763",
+          "1000017536",
+          "1000013247",
+          "1000041418",
+          "1000002809",
+          "1000007728",
+          "1000008587",
+          "1000013248",
+          "1000016997",
+          "1000052626"
+        ]
       },
       {
         "adultContent": false,

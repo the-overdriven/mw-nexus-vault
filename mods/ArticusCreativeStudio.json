@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2025-10-16T21:55:20.113Z",
+  "checkedAt": "2025-10-19T18:46:08.679Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 66
+        "100": 68
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-17T16:43:48Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 57636,
+        "name": "Notes of the Artifact Hunter",
+        "status": "published",
+        "summary": "Changes text in two books: \"Famed Artifacts of Tamriel\" and \"Tamrielic lore\".",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57636/57636-1760719053-2134850139.jpg",
+        "uid": "429496787236",
+        "updatedAt": "2025-10-17T20:11:13Z",
+        "fileIds": [
+          "1000057733"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-17T11:10:13Z",
+        "fileSize": 4811,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 57635,
+        "name": "Stendarr's Hammer Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces Stendarr's Hammer with HQ model and HQ texture (2048 px), adds glowing elements and animated magic effect.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57635/57635-1760699208-818795238.jpg",
+        "uid": "429496787235",
+        "updatedAt": "2025-10-17T11:14:45Z",
+        "fileIds": [
+          "1000057718"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-10-15T17:55:06Z",
@@ -486,7 +524,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-24T18:54:08Z",
-        "fileSize": 21788,
+        "fileSize": 21789,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -497,7 +535,10 @@
         "summary": "This mod replaces ebony armour, weapons, ore, ingredient and adds a cool playable Dunmer male face and hairstyle (compatible with Articus BN Faces).All you need is to place conteining files to your Morrowind/Data directory.Enjoy the game",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56719/56719-1748120662-380423004.jpeg",
         "uid": "429496786319",
-        "updatedAt": "2025-05-27T20:31:21Z"
+        "updatedAt": "2025-10-18T13:49:55Z",
+        "fileIds": [
+          "1000057754"
+        ]
       },
       {
         "adultContent": false,
@@ -1076,6 +1117,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 66
+    "totalCount": 68
   }
 }

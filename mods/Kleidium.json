@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-10-16T21:56:07.668Z",
+  "checkedAt": "2025-10-19T18:47:21.244Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 9
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-17T19:44:36Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 57637,
+        "name": "Firewatch Bolthole",
+        "status": "published",
+        "summary": "This mod adds a secret, yet convenient player home within the Firewatch Sewers for those who need a place to hide. Choose between a furnished version or a non-furnished version.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57637/57637-1760729147-28280810.png",
+        "uid": "429496787237",
+        "updatedAt": "2025-10-17T19:44:36Z",
+        "fileIds": [
+          "1000057732"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-10-04T14:39:08Z",
@@ -166,6 +185,6 @@
         "updatedAt": "2024-09-25T08:46:16Z"
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }

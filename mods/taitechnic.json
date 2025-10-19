@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-16T21:56:45.747Z",
+  "checkedAt": "2025-10-19T18:47:59.676Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-10-16T20:35:23Z",
-        "fileSize": 748,
+        "fileSize": 621,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -21,8 +21,10 @@
         "summary": "Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57633/57633-1760646399-2125603799.png",
         "uid": "429496787233",
-        "updatedAt": "2025-10-16T20:35:23Z",
+        "updatedAt": "2025-10-18T23:22:33Z",
         "fileIds": [
+          "1000057734",
+          "1000057764",
           "1000057707"
         ]
       },

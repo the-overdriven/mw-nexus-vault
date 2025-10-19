@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-10-16T21:56:38.793Z",
+  "checkedAt": "2025-10-19T18:47:51.223Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 43
+        "100": 44
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-18T16:42:03Z",
+        "fileSize": 1839,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57641,
+        "name": "New Wizard's Staff",
+        "status": "published",
+        "summary": "Replace Wizard's Staff with new model",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57641/57641-1760804839-910687411.png",
+        "uid": "429496787241",
+        "updatedAt": "2025-10-18T16:42:03Z",
+        "fileIds": [
+          "1000057757"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-10-15T19:14:24Z",
@@ -734,6 +753,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 43
+    "totalCount": 44
   }
 }

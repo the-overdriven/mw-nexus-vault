@@ -1,0 +1,164 @@
+{
+  "checkedAt": "2025-10-19T18:46:32.827Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 9
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-12T11:51:24Z",
+        "fileSize": 17,
+        "modCategory": {
+          "categoryId": 26,
+          "name": "ENB Preset"
+        },
+        "modId": 57438,
+        "name": "Ultra Bloom",
+        "status": "published",
+        "summary": "Powerful, truly customizable bloom",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57438/57438-1757677316-520241085.jpg",
+        "uid": "429496787038",
+        "updatedAt": "2025-09-12T11:51:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-13T22:51:47Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 53722,
+        "name": "Eternal Shine",
+        "status": "published",
+        "summary": "Adds a glowing halo to all physical lights",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53722/53722-1700689538-1332347015.jpeg",
+        "uid": "429496783322",
+        "updatedAt": "2025-09-05T06:53:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-04-30T23:03:58Z",
+        "fileSize": 28909,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 52747,
+        "name": "Impact Sounds",
+        "status": "published",
+        "summary": "How did we play Morrowind for 20 years without this mod?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52747/52747-1682895594-1097260110.jpeg",
+        "uid": "429496782347",
+        "updatedAt": "2025-06-15T09:30:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-11-13T22:50:38Z",
+        "fileSize": 38,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 51968,
+        "name": "Main Menu Overhaul",
+        "status": "published",
+        "summary": "Improves the main menu: 6 mods in 1",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51968/51968-1668379658-1181431830.jpeg",
+        "uid": "429496781568",
+        "updatedAt": "2025-09-15T14:25:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:34:59Z",
+        "fileSize": 2396,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51034,
+        "name": "PvP",
+        "status": "published",
+        "summary": "A combat based on parries and dodges. Enemies fight almost like real players.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51034/51034-1651000355-1917987181.jpeg",
+        "uid": "429496780634",
+        "updatedAt": "2025-10-17T17:06:55Z",
+        "fileIds": [
+          "1000057724"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-11T20:54:54Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49756,
+        "name": "Fast Attack",
+        "status": "published",
+        "summary": "Increases weapon attack speed and range depending on your stats",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49756/49756-1620766429-1459684682.jpeg",
+        "uid": "429496779356",
+        "updatedAt": "2021-05-11T20:54:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-10T14:53:37Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49747,
+        "name": "Throw it",
+        "status": "published",
+        "summary": "Allows you to throw any weapon",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49747/49747-1620658354-973238193.jpeg",
+        "uid": "429496779347",
+        "updatedAt": "2022-06-17T16:23:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-04T12:50:42Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49670,
+        "name": "Ultra AI",
+        "status": "published",
+        "summary": "Combat AI overhaul",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49670/49670-1620132555-505238506.jpeg",
+        "uid": "429496779270",
+        "updatedAt": "2023-01-11T18:02:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-07-26T20:13:59Z",
+        "fileSize": 13025,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 47015,
+        "name": "4NM - Total Gameplay Overhaul",
+        "status": "published",
+        "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
+        "uid": "429496776615",
+        "updatedAt": "2025-10-17T08:26:55Z",
+        "fileIds": [
+          "1000050367",
+          "1000057716"
+        ]
+      }
+    ],
+    "totalCount": 9
+  }
+}
