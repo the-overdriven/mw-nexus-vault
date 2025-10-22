@@ -1,30 +1,14 @@
 {
-  "checkedAt": "2025-10-19T18:47:30.473Z",
+  "checkedAt": "2025-10-22T22:34:18.281Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 50,
+        "100": 48,
         "101": 1,
         "1704": 1
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2024-05-01T18:41:30Z",
-        "fileSize": 17573,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 54540,
-        "name": "Ashlander Dombrists",
-        "status": "published",
-        "summary": "Adds 6 ashlanders playing a dombra with around 10 minutes of music recorded by myself",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54540/54540-1714588607-1359432801.png",
-        "uid": "429496784140",
-        "updatedAt": "2024-05-01T18:41:30Z"
-      },
       {
         "adultContent": false,
         "createdAt": "2024-04-15T19:50:16Z",
@@ -539,22 +523,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2019-05-20T21:02:10Z",
-        "fileSize": 2086,
-        "modCategory": {
-          "categoryId": 3,
-          "name": "Dungeons and Locations"
-        },
-        "modId": 46786,
-        "name": "Passage of Prayers - High Fane Corridor Overhaul",
-        "status": "published",
-        "summary": "This mod makes the previously empty high fane corridor a more interesting location.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46786/46786-1558349601-419093333.png",
-        "uid": "429496776386",
-        "updatedAt": "2022-12-31T13:40:35Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2019-05-17T12:14:48Z",
         "fileSize": 177,
         "modCategory": {
@@ -810,6 +778,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 50
+    "totalCount": 48
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-19T18:47:21.244Z",
+  "checkedAt": "2025-10-22T22:33:54.496Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -40,12 +40,13 @@
         "summary": "This MWSE mod provides a message box that can entirely replace vanilla/modded notifications and track them. Choose between basic message logging, combat logging, exploration logging, quest logging, and more. No more losing track of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57553/57553-1759584207-844030007.png",
         "uid": "429496787153",
-        "updatedAt": "2025-10-16T12:18:55Z",
+        "updatedAt": "2025-10-19T18:50:45Z",
         "fileIds": [
-          "1000057693",
+          "1000057783",
           "1000057352",
           "1000057377",
           "1000057417",
+          "1000057693",
           "1000057488",
           "1000057514",
           "1000057520"
@@ -121,12 +122,20 @@
         "summary": "This MWSE mod allows you to spend time training rather than wasting time waiting. Gain small experience in trained skill per hour trained, with or without restrictions. Allows the accumulation of a daily streak.  Configurable limits based",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51845/51845-1739717089-745756720.png",
         "uid": "429496781445",
-        "updatedAt": "2025-02-16T21:36:43Z"
+        "updatedAt": "2025-10-20T08:36:09Z",
+        "fileIds": [
+          "1000057803",
+          "1000050445",
+          "1000034100",
+          "1000033162",
+          "1000033191",
+          "1000057784"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2022-08-21T17:11:55Z",
-        "fileSize": 2827,
+        "fileSize": 2963,
         "modCategory": {
           "categoryId": 23,
           "name": "Companions"
@@ -137,15 +146,16 @@
         "summary": "This MWSE mod allows both NPC and Creature companions to level up with the player based on their Class/Creature Type (Class Mode) or specific player selected build settings (Build Mode). In Class Mode, you also have the choice of changing",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51760/51760-1746636767-1087942086.png",
         "uid": "429496781360",
-        "updatedAt": "2025-09-29T07:49:46Z",
+        "updatedAt": "2025-10-19T18:57:37Z",
         "fileIds": [
-          "1000057217",
+          "1000057785",
           "1000038401",
           "1000038967",
           "1000051001",
           "1000052814",
           "1000052587",
           "1000048759",
+          "1000057217",
           "1000037506",
           "1000048364",
           "1000032752",
