@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-22T22:34:26.922Z",
+  "checkedAt": "2025-10-25T10:18:54.244Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -157,13 +157,13 @@
         "modId": 54629,
         "name": "OpenMW Lua helper utility",
         "status": "published",
-        "summary": "UPDATE: Patch for Purists dialogue ESP, updated to support v5.0.3 latest release. Support mod for use by other OpenMW lua Mods. Requires OpenMW 0.49.",
+        "summary": "UPDATE: Patch for Purists dialogue ESP, updated to support v5.0.4 latest release. Support mod for use by other OpenMW lua Mods. Requires OpenMW 0.49.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54629/54629-1715543708-1189011810.png",
         "uid": "429496784229",
-        "updatedAt": "2025-10-21T18:18:39Z",
+        "updatedAt": "2025-10-24T20:46:29Z",
         "fileIds": [
           "1000055641",
-          "1000057832",
+          "1000057909",
           "1000055320",
           "1000056272",
           "1000055918",

@@ -1,12 +1,33 @@
 {
-  "checkedAt": "2025-10-22T22:33:25.616Z",
+  "checkedAt": "2025-10-25T10:18:02.425Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 68
+        "100": 69
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-24T16:30:04Z",
+        "fileSize": 1870,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57683,
+        "name": "Skeleton Key Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces Skeleton Key lockpick with HQ model and HQ texture (2048 px) and adds glowing details.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57683/57683-1761323180-1329250443.png",
+        "uid": "429496787283",
+        "updatedAt": "2025-10-24T19:04:11Z",
+        "fileIds": [
+          "1000057898",
+          "1000057907",
+          "1000057906"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-10-17T16:43:48Z",
@@ -1117,6 +1138,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 68
+    "totalCount": 69
   }
 }
