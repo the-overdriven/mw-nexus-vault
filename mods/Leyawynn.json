@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-10-25T10:18:38.647Z",
+  "checkedAt": "2025-10-28T22:16:43.262Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48,
+        "100": 46,
         "101": 1,
         "1704": 1
       }
@@ -299,22 +299,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2020-03-13T00:27:00Z",
-        "fileSize": 77,
-        "modCategory": {
-          "categoryId": 11,
-          "name": "NPCs"
-        },
-        "modId": 47687,
-        "name": "Vivace",
-        "status": "published",
-        "summary": "Turns Vivec into an imperial. I'm sorry.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47687/47687-1584058759-2015637758.png",
-        "uid": "429496777287",
-        "updatedAt": "2020-03-13T00:27:00Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2020-03-05T23:55:13Z",
         "fileSize": 56,
         "modCategory": {
@@ -555,22 +539,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2019-05-05T13:02:15Z",
-        "fileSize": 1323,
-        "modCategory": {
-          "categoryId": 3,
-          "name": "Dungeons and Locations"
-        },
-        "modId": 46691,
-        "name": "Valley of the Wind Overhaul",
-        "status": "published",
-        "summary": "Overhauls the Valley of the Wind with massive wind torn cliffs and fallen trees.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46691/46691-1580307556-2070527009.png",
-        "uid": "429496776291",
-        "updatedAt": "2020-01-29T14:18:40Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2019-05-02T18:53:48Z",
         "fileSize": 3,
         "modCategory": {
@@ -778,6 +746,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 48
+    "totalCount": 46
   }
 }
