@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-28T22:16:56.422Z",
+  "checkedAt": "2025-11-10T00:42:43.298Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -141,7 +141,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-05-02T11:28:13Z",
-        "fileSize": 707,
+        "fileSize": 762,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -152,13 +152,14 @@
         "summary": "A collection of mesh improvements and (compatibility) patches for various armors and armor mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47920/47920-1588420643-16240443.png",
         "uid": "429496777520",
-        "updatedAt": "2025-01-31T16:33:10Z",
+        "updatedAt": "2025-11-09T12:01:55Z",
         "fileIds": [
-          "1000049950",
+          "1000058265",
           "1000018527",
           "1000020092",
           "1000018288",
           "1000041164",
+          "1000049950",
           "1000041163",
           "1000041176"
         ]
@@ -325,7 +326,7 @@
       {
         "adultContent": false,
         "createdAt": "2016-06-22T17:27:52Z",
-        "fileSize": 1242,
+        "fileSize": 2567,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -336,9 +337,10 @@
         "summary": "A place where I collect my small mods, Patches, Translations and WIPs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44321/44321-1730056785-1460939511.jpeg",
         "uid": "429496773921",
-        "updatedAt": "2025-04-03T19:04:47Z",
+        "updatedAt": "2025-11-08T18:38:11Z",
         "fileIds": [
           "1000005852",
+          "1000058251",
           "1000041953",
           "1000017461",
           "1000005856",
@@ -347,15 +349,15 @@
           "1000047899",
           "1000014115",
           "1000018014",
-          "1000044182",
           "1000006838",
           "1000042860",
           "1000044183",
           "1000051682",
           "1000042522",
           "1000047531",
+          "1000058250",
           "1000014084",
-          "1000008182"
+          "1000044182"
         ]
       },
       {

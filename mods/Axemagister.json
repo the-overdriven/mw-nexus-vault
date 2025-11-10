@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-10-28T22:15:51.865Z",
+  "checkedAt": "2025-11-10T00:40:33.439Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 9
+        "100": 10
       }
     },
     "nodes": [
@@ -92,6 +92,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2022-04-30T23:33:49Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51038,
+        "name": "Parkour",
+        "status": "published",
+        "summary": "Comfortable climbing and pushing off walls",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51038/51038-1651063054-1138470944.jpeg",
+        "uid": "429496780638",
+        "updatedAt": "2022-04-30T23:33:49Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2021-05-11T20:54:54Z",
         "fileSize": 2,
         "modCategory": {
@@ -141,7 +157,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-07-26T20:13:59Z",
-        "fileSize": 13025,
+        "fileSize": 13021,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -152,13 +168,13 @@
         "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
         "uid": "429496776615",
-        "updatedAt": "2025-10-24T18:10:05Z",
+        "updatedAt": "2025-10-30T15:28:03Z",
         "fileIds": [
           "1000050367",
-          "1000057902"
+          "1000058048"
         ]
       }
     ],
-    "totalCount": 9
+    "totalCount": 10
   }
 }

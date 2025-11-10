@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-10-28T22:17:00.025Z",
+  "checkedAt": "2025-11-10T00:43:05.333Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 44
+        "100": 45
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-31T08:38:36Z",
+        "fileSize": 67,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 57716,
+        "name": "Tales and Tallows - Pelagiad's Night (Halloween Mod)",
+        "status": "published",
+        "summary": "\"Sequel\" to MelchiorDahr's Mod. This time the pumpkin plants grew in Pelagiad and the inhabitants immediately took advantage of it to decorate the city for the scariest holiday in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57716/57716-1761899735-802633907.png",
+        "uid": "429496787316",
+        "updatedAt": "2025-10-31T08:38:36Z",
+        "fileIds": [
+          "1000058069"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-10-18T16:42:03Z",
@@ -350,18 +369,21 @@
           "name": "Miscellaneous"
         },
         "modId": 55340,
-        "name": "Tales and Tallows - Caldera's Night (halloween mod)",
+        "name": "Tales and Tallows - Caldera's Night (Halloween Mod)",
         "status": "published",
         "summary": "\"Sequel\" to MelchiorDahr's Mod. This time the pumpkin plants grew in Caldera and the inhabitants immediately took advantage of it to decorate the city for the scariest holiday in Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55340/55340-1728887413-327498877.png",
         "uid": "429496784940",
-        "updatedAt": "2025-09-27T15:17:54Z",
+        "updatedAt": "2025-10-31T08:22:30Z",
         "fileIds": [
           "1000047822",
+          "1000058067",
+          "1000058068",
+          "1000058066",
+          "1000058065",
           "1000057152",
           "1000057153",
-          "1000057151",
-          "1000057149"
+          "1000057151"
         ]
       },
       {
@@ -470,7 +492,7 @@
           "name": "NPCs"
         },
         "modId": 53656,
-        "name": "Headless Horseman (halloween mod)",
+        "name": "Headless Horseman (Halloween Mod)",
         "status": "published",
         "summary": "During Tales and Tallows's nights a Headless Horseman return for his vengeance.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53656/53656-1698300357-394601627.png",
@@ -753,6 +775,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 44
+    "totalCount": 45
   }
 }

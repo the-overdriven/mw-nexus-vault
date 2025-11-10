@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-10-28T22:16:32.463Z",
+  "checkedAt": "2025-11-10T00:42:10.899Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 33
+        "100": 34
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-30T03:28:43Z",
+        "fileSize": 94,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 57709,
+        "name": "Ashir-Dan Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Ashir-Dan.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57709/57709-1761791812-1369412612.png",
+        "uid": "429496787309",
+        "updatedAt": "2025-11-01T11:19:46Z",
+        "fileIds": [
+          "1000058096"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-28T19:35:52Z",
@@ -599,6 +618,6 @@
         "updatedAt": "2017-01-06T02:24:09Z"
       }
     ],
-    "totalCount": 33
+    "totalCount": 34
   }
 }

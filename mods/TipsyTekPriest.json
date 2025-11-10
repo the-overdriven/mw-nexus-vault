@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-10-28T22:17:18.531Z",
+  "checkedAt": "2025-11-10T00:43:57.158Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -103,7 +103,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-03-08T14:51:26Z",
-        "fileSize": 514,
+        "fileSize": 518,
         "modCategory": {
           "categoryId": 20,
           "name": "Books and Scrolls"
@@ -112,11 +112,11 @@
         "name": "The Secret Song of Wulfharth Ash-King",
         "status": "published",
         "summary": "Takes the apocryphal Secret Song of Wulfarth Ash-King from the book \"Five Songs of King Wulfarth\" and moves it to its own volume. A handful of copies can be found scattered around Morrowind in restricted libraries and in the studies of",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56149/56149-1741445094-1670592609.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56149/56149-1741445184-146775583.jpeg",
         "uid": "429496785749",
-        "updatedAt": "2025-04-26T08:48:29Z",
+        "updatedAt": "2025-10-31T09:22:03Z",
         "fileIds": [
-          "1000052121"
+          "1000058071"
         ]
       },
       {
@@ -171,9 +171,9 @@
         "summary": "Expands the \"Legion Uniform\" script to include a greater roster of armours from Vanilla Morrowind and Tamriel_Data. Cuirasses, Helmets and Shields are all included to give the player character a greater range of options while still making",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55932/55932-1738916748-1632403514.jpeg",
         "uid": "429496785532",
-        "updatedAt": "2025-06-15T14:19:18Z",
+        "updatedAt": "2025-11-04T08:44:32Z",
         "fileIds": [
-          "1000054441"
+          "1000058155"
         ]
       },
       {
