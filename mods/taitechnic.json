@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-10T00:43:20.270Z",
+  "checkedAt": "2025-11-16T13:19:45.084Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -40,13 +40,14 @@
         "modId": 55623,
         "name": "OpenMW Visible Rings",
         "status": "published",
-        "summary": "NEW: Support for rings from Unique Jewelry Redone by Remiros. Wear glasses and goggles while keeping your hair on! See your equipped rings as visible objects on your fingers.",
+        "summary": "NEW: Support for rings from Unique Finery Replacer UFR. Wear glasses and goggles while keeping your hair on! See your equipped rings as visible objects on your fingers.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55623/55623-1734821813-870652709.png",
         "uid": "429496785223",
-        "updatedAt": "2025-05-23T21:37:13Z",
+        "updatedAt": "2025-11-13T18:37:19Z",
         "fileIds": [
           "1000053450",
           "1000051052",
+          "1000058373",
           "1000051425"
         ]
       },

@@ -1,15 +1,34 @@
 {
-  "checkedAt": "2025-11-10T00:41:53.879Z",
+  "checkedAt": "2025-11-16T13:18:44.726Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 56,
+        "100": 57,
         "101": 1,
-        "1413": 5,
+        "1413": 6,
         "6892": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-15T01:48:09Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57781,
+        "name": "Northern Diaries S3maphore for Solstheim",
+        "status": "published",
+        "summary": "A S3maphore playlist for Northern Diaries for Solstheim",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57781/57781-1763171269-1876787898.png",
+        "uid": "429496787381",
+        "updatedAt": "2025-11-15T01:48:09Z",
+        "fileIds": [
+          "1000058403"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-29T22:09:41Z",
@@ -738,11 +757,11 @@
         "summary": "Adds exteriors to all interior cells with windows. So far, Molag Mar, Caldera, Pelagiad, Maar Gan, Sadrith Mora, Ebonheart, Skaal Village, and Gnisis.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52237/52237-1736998879-106150695.jpeg",
         "uid": "429496781837",
-        "updatedAt": "2025-08-18T22:11:48Z",
+        "updatedAt": "2025-11-14T18:50:13Z",
         "fileIds": [
           "1000056047",
           "1000056095",
-          "1000056094",
+          "1000058392",
           "1000037423",
           "1000034897",
           "1000040047",
@@ -1023,6 +1042,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 56
+    "totalCount": 57
   }
 }

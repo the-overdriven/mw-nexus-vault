@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-10T00:41:43.051Z",
+  "checkedAt": "2025-11-16T13:18:30.126Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -15,7 +15,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-02T14:35:59Z",
-        "fileSize": 57385,
+        "fileSize": 69158,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -26,16 +26,22 @@
         "summary": "Realistic texture replacement for Redoran architecture",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57722/57722-1762267861-1815429802.png",
         "uid": "429496787322",
-        "updatedAt": "2025-11-04T14:47:43Z",
+        "updatedAt": "2025-11-14T20:09:20Z",
         "fileIds": [
-          "1000058166",
-          "1000058167",
+          "1000058393",
+          "1000058394",
           "1000058139",
-          "1000058113",
+          "1000058395",
+          "1000058396",
           "1000058114",
           "1000058135",
+          "1000058167",
           "1000058112",
-          "1000058133"
+          "1000058372",
+          "1000058133",
+          "1000058166",
+          "1000058371",
+          "1000058369"
         ]
       },
       {

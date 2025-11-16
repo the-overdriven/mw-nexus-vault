@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2025-11-10T00:42:20.962Z",
+  "checkedAt": "2025-11-16T13:19:01.635Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 27,
         "130": 2,
         "6332": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-11T20:07:17Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57767,
+        "name": "Simple Service Refusals BEGONE",
+        "status": "published",
+        "summary": "Simply removes the entire functionality of service refusal for Skooma and Moon Sugar!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57767/57767-1762890437-746372546.png",
+        "uid": "429496787367",
+        "updatedAt": "2025-11-11T20:07:17Z",
+        "fileIds": [
+          "1000058331"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-01T23:19:19Z",
@@ -538,6 +557,6 @@
         ]
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

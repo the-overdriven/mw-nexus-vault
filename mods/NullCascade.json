@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-10T00:42:42.393Z",
+  "checkedAt": "2025-11-16T13:19:26.268Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -239,7 +239,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-06-02T07:06:48Z",
-        "fileSize": 283,
+        "fileSize": 27855,
         "modCategory": {
           "categoryId": 15,
           "name": "Utilities"
@@ -250,14 +250,15 @@
         "summary": "A tool for automatically patching conflicts between mods for TES3: Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46870/46870-1559458965-639767057.png",
         "uid": "429496776470",
-        "updatedAt": "2025-01-20T02:37:41Z",
+        "updatedAt": "2025-11-13T01:30:02Z",
         "fileIds": [
-          "1000049648",
+          "1000058360",
           "1000031646",
           "1000031651",
           "1000031686",
           "1000038823",
           "1000048445",
+          "1000049648",
           "1000014779",
           "1000014812",
           "1000014824",

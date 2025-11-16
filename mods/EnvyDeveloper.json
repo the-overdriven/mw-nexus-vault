@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-10T00:41:53.143Z",
+  "checkedAt": "2025-11-16T13:18:37.874Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -29,7 +29,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-12-22T18:52:29Z",
-        "fileSize": 270,
+        "fileSize": 69,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -37,10 +37,59 @@
         "modId": 52089,
         "name": "Tamriel Rebuilt Old Maps Best Of Both Edition (TROMBOBE)",
         "status": "published",
-        "summary": "Ever wish that some content from the old Tamriel Rebuilt releases were not cut? Wanted Bal Oyra to stay a peninsular Imperial town? Liked some of Silneil's TG quests? Then, this mod adapts that content to Embers of Empire and makes it play",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52089/52089-1702293770-1611515672.png",
+        "summary": "Ever wish that some content from the old Tamriel Rebuilt releases were not cut? Liked some of Silneil's TG quests? Then, this mod adapts that content to Embers of Empire and makes it play nice with the new and overhauled content.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52089/52089-1671735006-1878441447.png",
         "uid": "429496781689",
-        "updatedAt": "2025-05-07T18:09:45Z"
+        "updatedAt": "2025-11-10T18:41:49Z",
+        "fileIds": [
+          "1000058304",
+          "1000058298",
+          "1000058299",
+          "1000058300",
+          "1000058301",
+          "1000058302",
+          "1000058303",
+          "1000034256",
+          "1000041234",
+          "1000052590",
+          "1000049026",
+          "1000049285",
+          "1000044462",
+          "1000041416",
+          "1000034267",
+          "1000052467",
+          "1000041235",
+          "1000052589",
+          "1000049027",
+          "1000049286",
+          "1000044463",
+          "1000041417",
+          "1000034268",
+          "1000052468",
+          "1000052475",
+          "1000041236",
+          "1000049028",
+          "1000044464",
+          "1000034271",
+          "1000052470",
+          "1000041237",
+          "1000049029",
+          "1000044465",
+          "1000034269",
+          "1000052471",
+          "1000041238",
+          "1000049030",
+          "1000044466",
+          "1000034270",
+          "1000052472",
+          "1000049287",
+          "1000052473",
+          "1000041239",
+          "1000049031",
+          "1000044467",
+          "1000034272",
+          "1000052474"
+        ]
       },
       {
         "adultContent": false,

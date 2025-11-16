@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-10T00:42:41.722Z",
+  "checkedAt": "2025-11-16T13:19:18.499Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -28,7 +28,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-05-28T10:35:28Z",
-        "fileSize": 2763,
+        "fileSize": 2761,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -39,8 +39,19 @@
         "summary": "A complete overhaul of every vanilla shipwreck.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51364/51364-1653716185-200254864.png",
         "uid": "429496780964",
-        "updatedAt": "2025-09-20T15:43:32Z",
-        "fileIds": []
+        "updatedAt": "2025-11-16T09:47:49Z",
+        "fileIds": [
+          "1000058434",
+          "1000031756",
+          "1000031775",
+          "1000041525",
+          "1000032080",
+          "1000031116",
+          "1000038033",
+          "1000031734",
+          "1000031741",
+          "1000037631"
+        ]
       },
       {
         "adultContent": false,
