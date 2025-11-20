@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-16T13:19:44.816Z",
+  "checkedAt": "2025-11-20T01:24:37.086Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -453,7 +453,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-23T08:14:37Z",
-        "fileSize": 16400,
+        "fileSize": 16463,
         "modCategory": {
           "categoryId": 10,
           "name": "New Lands"
@@ -464,8 +464,12 @@
         "summary": "Add city of Windhelm and the surrounding area, including Dunmeth Pass",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53753/53753-1742218479-1274312610.jpeg",
         "uid": "429496783353",
-        "updatedAt": "2025-09-23T17:15:12Z",
-        "fileIds": []
+        "updatedAt": "2025-11-18T08:02:42Z",
+        "fileIds": [
+          "1000058487",
+          "1000051730",
+          "1000045700"
+        ]
       },
       {
         "adultContent": false,

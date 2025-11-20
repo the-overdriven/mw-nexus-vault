@@ -1,16 +1,54 @@
 {
-  "checkedAt": "2025-11-16T13:19:18.304Z",
+  "checkedAt": "2025-11-20T01:23:26.074Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 5
+        "100": 7
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2025-11-19T16:06:45Z",
+        "fileSize": 53,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57802,
+        "name": "Skill Evolution",
+        "status": "published",
+        "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763569380-1432664479.png",
+        "uid": "429496787402",
+        "updatedAt": "2025-11-19T16:06:45Z",
+        "fileIds": [
+          "1000058506"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-19T16:06:42Z",
+        "fileSize": 178,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57801,
+        "name": "Natural Character Growth",
+        "status": "published",
+        "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
+        "uid": "429496787401",
+        "updatedAt": "2025-11-19T16:06:42Z",
+        "fileIds": [
+          "1000058505"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-02-14T10:18:39Z",
-        "fileSize": 632,
+        "fileSize": 750,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -21,9 +59,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2025-09-19T20:26:42Z",
+        "updatedAt": "2025-11-17T12:23:29Z",
         "fileIds": [
-          "1000056939",
+          "1000058463",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -45,6 +83,7 @@
           "1000051808",
           "1000056162",
           "1000055395",
+          "1000056939",
           "1000051821",
           "1000051826",
           "1000052596",
@@ -81,9 +120,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2025-10-10T07:44:47Z",
+        "updatedAt": "2025-11-19T16:09:25Z",
         "fileIds": [
-          "1000057542",
+          "1000058507",
           "1000051201",
           "1000048667",
           "1000050717",
@@ -111,6 +150,7 @@
           "1000057025",
           "1000048836",
           "1000048838",
+          "1000057542",
           "1000050891",
           "1000050898",
           "1000051668",
@@ -266,6 +306,6 @@
         ]
       }
     ],
-    "totalCount": 5
+    "totalCount": 7
   }
 }

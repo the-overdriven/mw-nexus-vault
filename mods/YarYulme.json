@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-11-16T13:20:03.707Z",
+  "checkedAt": "2025-11-20T01:25:15.842Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15
+        "100": 16
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-19T17:39:27Z",
+        "fileSize": 124,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57807,
+        "name": "Dwemer puzzle cube replacer",
+        "status": "published",
+        "summary": "Replaces Dwemer puzzle box with ...another mysterious box of steam machinery.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57807/57807-1763573717-1870669420.jpg",
+        "uid": "429496787407",
+        "updatedAt": "2025-11-19T17:39:27Z",
+        "fileIds": [
+          "1000058513"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2023-06-01T05:18:13Z",
@@ -248,6 +267,6 @@
         "updatedAt": "2014-03-08T23:10:33Z"
       }
     ],
-    "totalCount": 15
+    "totalCount": 16
   }
 }
