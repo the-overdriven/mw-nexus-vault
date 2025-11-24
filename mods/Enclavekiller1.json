@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2025-11-20T01:22:43.144Z",
+  "checkedAt": "2025-11-24T11:59:44.142Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23
+        "100": 24
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-23T13:23:57Z",
+        "fileSize": 246975,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 57830,
+        "name": "Darkness Over Dunbal",
+        "status": "published",
+        "summary": "Embark on a nightmarish quest in the middle of a war between Life and Decay to deliver salvation to a hopeless land",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57830/57830-1763902240-1077072763.png",
+        "uid": "429496787430",
+        "updatedAt": "2025-11-23T15:11:18Z",
+        "fileIds": [
+          "1000058630",
+          "1000058626"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-11T04:27:46Z",
@@ -386,6 +406,6 @@
         "updatedAt": "2016-06-17T21:59:14Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

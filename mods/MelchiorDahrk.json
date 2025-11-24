@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-11-20T01:23:23.914Z",
+  "checkedAt": "2025-11-24T12:00:27.792Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 102
+        "100": 103
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-23T23:36:09Z",
+        "fileSize": 84040,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 57831,
+        "name": "The Garden of Dreams",
+        "status": "published",
+        "summary": "Death and fate are connected in The Elder Scrolls universe. Witness this mythical interplay manifest across surreal realms as you follow the path of a doomed individual who is determined to escape their prophesied death.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57831/57831-1763921576-1320180364.png",
+        "uid": "429496787431",
+        "updatedAt": "2025-11-23T23:36:09Z",
+        "fileIds": [
+          "1000058645"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-11-27T23:43:05Z",
@@ -1439,24 +1458,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43527-1-1426390934.png",
         "uid": "429496773127",
         "updatedAt": "2019-01-16T03:11:05Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2014-11-24T01:07:52Z",
-        "fileSize": 12878,
-        "modCategory": {
-          "categoryId": 19,
-          "name": "Creatures"
-        },
-        "modId": 43350,
-        "name": "Spriggans Glow",
-        "status": "published",
-        "summary": "This mod adds a glowbug swarm around Spriggans to make them look more fae-like and magical. It optionally includes a replacer I made for the spriggans themselves, patches for other popular replacers, and masculine \"twiggan\" versions of the",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43350/43350-1536444678-1121286966.png",
-        "uid": "429496772950",
-        "updatedAt": "2022-04-05T13:10:26Z"
       }
     ],
-    "totalCount": 102
+    "totalCount": 103
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-20T01:22:44.317Z",
+  "checkedAt": "2025-11-24T11:59:52.360Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -31,7 +31,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-01-06T22:33:44Z",
-        "fileSize": 90,
+        "fileSize": 91,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -42,8 +42,9 @@
         "summary": "QOL for those who like to explore/search/looting.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53947/53947-1704580115-1701019327.png",
         "uid": "429496783547",
-        "updatedAt": "2025-08-16T18:37:34Z",
+        "updatedAt": "2025-11-21T11:34:31Z",
         "fileIds": [
+          "1000058570",
           "1000055999"
         ]
       },

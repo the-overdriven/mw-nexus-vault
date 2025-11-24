@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-20T01:22:42.900Z",
+  "checkedAt": "2025-11-24T11:59:28.761Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -67,7 +67,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-27T11:54:56Z",
-        "fileSize": 63434,
+        "fileSize": 80850,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -78,17 +78,19 @@
         "summary": "Custom interior textures for Velothi architecture",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57515/57515-1758969488-184243600.png",
         "uid": "429496787115",
-        "updatedAt": "2025-10-01T18:55:16Z",
+        "updatedAt": "2025-11-22T16:33:33Z",
         "fileIds": [
-          "1000057297",
-          "1000057296",
+          "1000058601",
+          "1000058600",
           "1000057147",
           "1000057196",
           "1000057262",
           "1000057295",
+          "1000057297",
           "1000057142",
           "1000057197",
-          "1000057263"
+          "1000057263",
+          "1000057296"
         ]
       },
       {
@@ -194,7 +196,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-23T14:11:49Z",
-        "fileSize": 167483,
+        "fileSize": 54021,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -205,13 +207,16 @@
         "summary": "A 2k Dwemer texture replacement",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56398/56398-1745415786-784614609.png",
         "uid": "429496785998",
-        "updatedAt": "2025-05-19T15:28:19Z",
+        "updatedAt": "2025-11-20T17:21:35Z",
         "fileIds": [
-          "1000052126",
-          "1000053232",
+          "1000058551",
+          "1000058554",
+          "1000058559",
+          "1000058553",
           "1000052071",
           "1000052073",
-          "1000052081"
+          "1000052081",
+          "1000052126"
         ]
       },
       {

@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2025-11-20T01:23:02.071Z",
+  "checkedAt": "2025-11-24T12:00:10.320Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 25,
+        "100": 26,
         "101": 1,
         "7587": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-23T15:16:03Z",
+        "fileSize": 7483,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 57828,
+        "name": "The Fiend of Ald Andalor",
+        "status": "published",
+        "summary": "Explore an overhauled and expanded Andalor Ancestral Tomb and conquer the evil that lies within.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57828/57828-1763880722-1278764930.jpg",
+        "uid": "429496787428",
+        "updatedAt": "2025-11-23T15:16:03Z",
+        "fileIds": [
+          "1000058631"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-07-18T21:28:34Z",
@@ -447,6 +466,6 @@
         "updatedAt": "2021-12-12T10:54:40Z"
       }
     ],
-    "totalCount": 25
+    "totalCount": 26
   }
 }

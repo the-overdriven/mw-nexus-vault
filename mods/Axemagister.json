@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-11-20T01:22:36.402Z",
+  "checkedAt": "2025-11-24T11:59:17.987Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 10
+        "100": 13
       }
     },
     "nodes": [
@@ -156,6 +156,54 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2021-05-04T08:45:01Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49667,
+        "name": "Bomberman",
+        "status": "published",
+        "summary": "Elemental blasts knock enemies back",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49667/49667-1620117822-1642638375.jpeg",
+        "uid": "429496779267",
+        "updatedAt": "2021-05-04T08:45:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-05-02T12:24:46Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49640,
+        "name": "Dash",
+        "status": "published",
+        "summary": "The ability to do dash - fast forward, backward or sideways movement",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49640/49640-1619958260-417558922.jpeg",
+        "uid": "429496779240",
+        "updatedAt": "2021-05-02T12:24:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-09-10T21:39:26Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47169,
+        "name": "DragonDoor",
+        "status": "published",
+        "summary": "Enemies are now chasing you through the doors",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47169/47169-1568151242-379843790.jpeg",
+        "uid": "429496776769",
+        "updatedAt": "2023-11-08T12:11:41Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2019-07-26T20:13:59Z",
         "fileSize": 13047,
         "modCategory": {
@@ -175,6 +223,6 @@
         ]
       }
     ],
-    "totalCount": 10
+    "totalCount": 13
   }
 }
