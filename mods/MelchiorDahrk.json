@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-24T12:00:27.792Z",
+  "checkedAt": "2025-11-28T22:52:49.421Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-23T23:36:09Z",
-        "fileSize": 84040,
+        "fileSize": 84044,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -18,11 +18,12 @@
         "modId": 57831,
         "name": "The Garden of Dreams",
         "status": "published",
-        "summary": "Death and fate are connected in The Elder Scrolls universe. Witness this mythical interplay manifest across surreal realms as you follow the path of a doomed individual who is determined to escape their prophesied death.",
+        "summary": "Witness the mythical interplay of death and fate manifest across surreal realms as you follow the path of a doomed individual who is determined to escape their fate.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57831/57831-1763921576-1320180364.png",
         "uid": "429496787431",
-        "updatedAt": "2025-11-23T23:36:09Z",
+        "updatedAt": "2025-11-24T17:54:28Z",
         "fileIds": [
+          "1000058657",
           "1000058645"
         ]
       },

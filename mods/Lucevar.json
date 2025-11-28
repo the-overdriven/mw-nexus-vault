@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-24T12:00:19.677Z",
+  "checkedAt": "2025-11-28T22:51:49.318Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -663,7 +663,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-06-01T21:53:50Z",
-        "fileSize": 1232,
+        "fileSize": 1039,
         "modCategory": {
           "categoryId": 5,
           "name": "Guilds/Factions"
@@ -674,7 +674,19 @@
         "summary": "Update of Brother Juniper's classic quest mod. Join the Twin Lamps and fight against slavery through ~20 new quests. Now with overhauled locations, bug fixes, and extra dialogue and quest choices.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51424/51424-1654119458-997956944.png",
         "uid": "429496781024",
-        "updatedAt": "2023-01-13T22:59:28Z"
+        "updatedAt": "2025-11-28T19:52:49Z",
+        "fileIds": [
+          "1000058752",
+          "1000058746",
+          "1000034597",
+          "1000058713",
+          "1000058724",
+          "1000031280",
+          "1000031282",
+          "1000058712",
+          "1000031947",
+          "1000031335"
+        ]
       },
       {
         "adultContent": false,
@@ -887,7 +899,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-10-12T22:51:12Z",
-        "fileSize": 7,
+        "fileSize": 15,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -898,7 +910,7 @@
         "summary": "Assorted mods I think people might be interested in, which are too small to justify having their own page.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47224/47224-1570919977-2049538424.png",
         "uid": "429496776824",
-        "updatedAt": "2025-03-08T14:22:37Z",
+        "updatedAt": "2025-11-25T10:16:25Z",
         "fileIds": [
           "1000045829",
           "1000050749",
@@ -932,6 +944,7 @@
           "1000041205",
           "1000050754",
           "1000024323",
+          "1000058676",
           "1000050694",
           "1000015955",
           "1000017118",

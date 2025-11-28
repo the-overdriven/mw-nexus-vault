@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-24T12:01:27.768Z",
+  "checkedAt": "2025-11-28T22:55:09.192Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -27,7 +27,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-22T03:57:06Z",
-        "fileSize": 253817,
+        "fileSize": 253951,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -38,14 +38,15 @@
         "summary": "A complete overhaul of Starwinds weird and wonderful aliens.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56358/56358-1744880847-11731011.png",
         "uid": "429496785958",
-        "updatedAt": "2025-08-28T13:56:26Z",
+        "updatedAt": "2025-11-26T22:10:38Z",
         "fileIds": [
-          "1000056450",
+          "1000058711",
           "1000054558",
           "1000054837",
           "1000052056",
           "1000054880",
           "1000052086",
+          "1000056450",
           "1000052369",
           "1000052120",
           "1000056230",
@@ -73,7 +74,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 480745,
+        "fileSize": 498060,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -84,9 +85,9 @@
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1751279436-1773505273.png",
         "uid": "429496785568",
-        "updatedAt": "2025-11-11T05:59:41Z",
+        "updatedAt": "2025-11-26T17:35:35Z",
         "fileIds": [
-          "1000058319",
+          "1000058703",
           "1000055058",
           "1000056360",
           "1000054836",
@@ -110,6 +111,7 @@
           "1000055235",
           "1000054733",
           "1000057806",
+          "1000058319",
           "1000058073",
           "1000056291",
           "1000057067",

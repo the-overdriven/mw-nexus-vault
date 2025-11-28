@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-24T12:00:08.941Z",
+  "checkedAt": "2025-11-28T22:48:52.061Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -177,8 +177,9 @@
         "summary": "Beast-races beware! Dunmer Cat-Catchers will pursue you around Morrowind for bounties of 100 gold or more. Deal with the Camonna Tong to halt their attacks.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56869/56869-1749168446-1503297210.jpeg",
         "uid": "429496786469",
-        "updatedAt": "2025-06-06T00:09:58Z",
+        "updatedAt": "2025-11-28T00:41:40Z",
         "fileIds": [
+          "1000058735",
           "1000054140"
         ]
       },
@@ -263,21 +264,22 @@
       {
         "adultContent": false,
         "createdAt": "2025-01-25T18:33:52Z",
-        "fileSize": 952,
+        "fileSize": 117,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
         },
         "modId": 55861,
-        "name": "Ebonheart Consolidated (WIP)",
+        "name": "Ebonheart is now Hawkmoth Legion Fort",
         "status": "published",
-        "summary": "Shrinks Ebonheart down to \"Fort Hawkmoth\", renames TR's Old Ebonheart to \"Ebonheart\", moves the Duke to Ebon Tower (WIP)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55861/55861-1737829917-1658944407.jpeg",
+        "summary": "Renames all instances of Ebonheart to Hawkmoth Legion Fort. A few books are unchanged, as they refer to the Dunmer settlement of Ebonheart over on the mainland.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55861/55861-1764272673-1184204577.jpg",
         "uid": "429496785461",
-        "updatedAt": "2025-01-26T00:27:36Z",
+        "updatedAt": "2025-11-27T19:42:23Z",
         "fileIds": [
-          "1000049813",
-          "1000049805"
+          "1000058725",
+          "1000049805",
+          "1000049813"
         ]
       },
       {
@@ -352,7 +354,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-07-14T17:45:21Z",
-        "fileSize": 7,
+        "fileSize": 20,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -363,7 +365,10 @@
         "summary": "Replaces the vanilla steel dagger mesh with a tweaked throwing knife mesh.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54974/54974-1720979038-1905732972.jpeg",
         "uid": "429496784574",
-        "updatedAt": "2024-07-14T17:45:21Z"
+        "updatedAt": "2025-11-27T22:24:41Z",
+        "fileIds": [
+          "1000058734"
+        ]
       },
       {
         "adultContent": false,

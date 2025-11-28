@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-24T12:00:46.753Z",
+  "checkedAt": "2025-11-28T22:53:25.548Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 53,
+        "fileSize": 54,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,9 +21,12 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2025-11-24T09:05:03Z",
+        "updatedAt": "2025-11-28T09:45:11Z",
         "fileIds": [
+          "1000058742",
           "1000058652",
+          "1000058682",
+          "1000058683",
           "1000058506",
           "1000058542"
         ]
@@ -42,10 +45,11 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2025-11-20T10:54:28Z",
+        "updatedAt": "2025-11-25T16:45:17Z",
         "fileIds": [
-          "1000058544",
-          "1000058505"
+          "1000058681",
+          "1000058505",
+          "1000058544"
         ]
       },
       {
@@ -62,13 +66,14 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2025-11-17T12:23:29Z",
+        "updatedAt": "2025-11-25T16:23:52Z",
         "fileIds": [
-          "1000058463",
+          "1000058678",
           "1000052485",
           "1000050449",
           "1000052755",
           "1000051485",
+          "1000058655",
           "1000052512",
           "1000051236",
           "1000050731",
@@ -83,6 +88,7 @@
           "1000051790",
           "1000052058",
           "1000050527",
+          "1000058463",
           "1000051808",
           "1000056162",
           "1000055395",
