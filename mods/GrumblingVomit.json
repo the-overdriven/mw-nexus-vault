@@ -1,15 +1,36 @@
 {
-  "checkedAt": "2025-11-28T22:48:52.061Z",
+  "checkedAt": "2025-12-06T14:56:14.323Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 58,
+        "100": 59,
         "101": 1,
-        "1413": 6,
+        "1413": 7,
         "6892": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-03T00:55:40Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 57869,
+        "name": "Dreugh Man o' War Armor",
+        "status": "published",
+        "summary": "Dreugh Man o' War armor by Alexander",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57869/57869-1764723146-656099486.png",
+        "uid": "429496787469",
+        "updatedAt": "2025-12-03T00:55:40Z",
+        "fileIds": [
+          "1000058881",
+          "1000058882",
+          "1000058883"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-11-18T01:30:03Z",
@@ -1066,6 +1087,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 58
+    "totalCount": 59
   }
 }

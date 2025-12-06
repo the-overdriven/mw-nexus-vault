@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-11-28T22:48:47.578Z",
+  "checkedAt": "2025-12-06T14:54:36.196Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13
+        "100": 14
       }
     },
     "nodes": [
@@ -53,7 +53,10 @@
         "summary": "How did we play Morrowind for 20 years without this mod?",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52747/52747-1682895594-1097260110.jpeg",
         "uid": "429496782347",
-        "updatedAt": "2025-06-15T09:30:42Z"
+        "updatedAt": "2025-12-02T11:49:42Z",
+        "fileIds": [
+          "1000058866"
+        ]
       },
       {
         "adultContent": false,
@@ -140,6 +143,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2021-05-05T11:17:47Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 49684,
+        "name": "BattleMage",
+        "status": "published",
+        "summary": "Targeted weapon enchantments trigger on attack. Bow enchantments are triggered by an arrow hit. The ability to cast spells when attacking.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49684/49684-1620213403-1165099044.jpeg",
+        "uid": "429496779284",
+        "updatedAt": "2021-08-20T17:45:57Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2021-05-04T12:50:42Z",
         "fileSize": 11,
         "modCategory": {
@@ -223,6 +242,6 @@
         ]
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }

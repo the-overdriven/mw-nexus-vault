@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-28T22:48:49.124Z",
+  "checkedAt": "2025-12-06T14:55:02.686Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -61,9 +61,10 @@
         "summary": "Adds glowmapping to Vanilla Daedric Weapons",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57172/57172-1753296733-1634297757.png",
         "uid": "429496786772",
-        "updatedAt": "2025-07-23T19:24:48Z",
+        "updatedAt": "2025-12-03T10:10:43Z",
         "fileIds": [
-          "1000055409"
+          "1000055409",
+          "1000058891"
         ]
       },
       {
@@ -362,7 +363,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-14T02:06:39Z",
-        "fileSize": 54,
+        "fileSize": 100,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -373,14 +374,15 @@
         "summary": "Adds glow maps to several Glass and Daedric mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53504/53504-1694656986-498508784.png",
         "uid": "429496783104",
-        "updatedAt": "2025-11-10T11:49:43Z",
+        "updatedAt": "2025-12-04T21:41:21Z",
         "fileIds": [
           "1000040169",
           "1000040234",
           "1000057671",
           "1000057633",
-          "1000058289",
           "1000058290",
+          "1000058289",
+          "1000058892",
           "1000040165",
           "1000057426",
           "1000057570",
@@ -390,9 +392,10 @@
           "1000055411",
           "1000040168",
           "1000055414",
+          "1000058930",
           "1000055415",
           "1000055412",
-          "1000055413",
+          "1000058898",
           "1000055418",
           "1000055416",
           "1000055417",
@@ -402,6 +405,7 @@
           "1000040175",
           "1000040166",
           "1000040183",
+          "1000055413",
           "1000040184"
         ]
       },

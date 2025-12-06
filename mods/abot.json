@@ -1,15 +1,53 @@
 {
-  "checkedAt": "2025-11-28T22:48:32.490Z",
+  "checkedAt": "2025-12-06T14:54:01.435Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 77,
+        "100": 79,
         "110": 2,
         "1704": 2,
         "2176": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-03T15:51:38Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 57872,
+        "name": "Event Order Test",
+        "status": "published",
+        "summary": "logs to MWSE.log the events order/callsProbably useful mostly for MWSE-Lua mod-makers/advanced users.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57872/57872-1764776520-1277884993.png",
+        "uid": "429496787472",
+        "updatedAt": "2025-12-03T15:51:38Z",
+        "fileIds": [
+          "1000058895"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-29T17:31:11Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57852,
+        "name": "Smart Take",
+        "status": "published",
+        "summary": "- sets Take window default quantity to half the total amount- sets the scrollbar jump to a sensible value- adds buttons to increment/decrement by 1 or 5, halve, double, max the quantity",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57852/57852-1764437070-1579617566.png",
+        "uid": "429496787452",
+        "updatedAt": "2025-11-29T18:31:28Z",
+        "fileIds": [
+          "1000058779"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-14T12:07:00Z",
@@ -798,7 +836,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-10-12T09:42:05Z",
-        "fileSize": 69,
+        "fileSize": 71,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -809,13 +847,14 @@
         "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and Daedric text translated from enchanted scrolls. You can now read",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48930/48930-1602494758-1296927970.jpeg",
         "uid": "429496778530",
-        "updatedAt": "2025-09-29T19:58:57Z",
+        "updatedAt": "2025-12-04T22:12:30Z",
         "fileIds": [
-          "1000057239",
+          "1000058931",
           "1000021284",
           "1000021332",
           "1000021360",
           "1000046103",
+          "1000057239",
           "1000049325",
           "1000050097",
           "1000044514",
@@ -1431,6 +1470,6 @@
         "updatedAt": "2019-12-28T10:18:12Z"
       }
     ],
-    "totalCount": 77
+    "totalCount": 79
   }
 }

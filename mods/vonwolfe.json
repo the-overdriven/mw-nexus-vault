@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-11-28T22:55:09.192Z",
+  "checkedAt": "2025-12-06T14:59:35.980Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -74,7 +74,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 498060,
+        "fileSize": 510049,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -85,9 +85,11 @@
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1751279436-1773505273.png",
         "uid": "429496785568",
-        "updatedAt": "2025-11-26T17:35:35Z",
+        "updatedAt": "2025-12-05T22:06:56Z",
         "fileIds": [
-          "1000058703",
+          "1000058827",
+          "1000058945",
+          "1000058970",
           "1000055058",
           "1000056360",
           "1000054836",
@@ -96,6 +98,7 @@
           "1000057668",
           "1000054604",
           "1000057934",
+          "1000058703",
           "1000056932",
           "1000057956",
           "1000057719",
@@ -149,7 +152,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-02T14:11:06Z",
-        "fileSize": 137930,
+        "fileSize": 137939,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -160,8 +163,14 @@
         "summary": "Adds new dialogue, quests, and environmental details to Nar Shaddaa in Starwind. Requires Starwind Enhanced.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55911/55911-1738505302-1276388228.png",
         "uid": "429496785511",
-        "updatedAt": "2025-08-21T18:39:11Z",
-        "fileIds": []
+        "updatedAt": "2025-12-05T11:09:29Z",
+        "fileIds": [
+          "1000058938",
+          "1000058939",
+          "1000058944",
+          "1000050488",
+          "1000056231"
+        ]
       },
       {
         "adultContent": false,

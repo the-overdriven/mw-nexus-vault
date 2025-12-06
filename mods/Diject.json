@@ -1,16 +1,39 @@
 {
-  "checkedAt": "2025-11-28T22:48:49.875Z",
+  "checkedAt": "2025-12-06T14:55:44.016Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 10
+        "100": 11
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2025-12-06T11:29:36Z",
+        "fileSize": 4033,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57881,
+        "name": "Advanced World Map (OpenMW)",
+        "status": "published",
+        "summary": "In-game interactive world and local map with search, notes, fast travel, and more.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57881/57881-1764944190-1951268735.png",
+        "uid": "429496787481",
+        "updatedAt": "2025-12-06T11:29:36Z",
+        "fileIds": [
+          "1000058989",
+          "1000058976",
+          "1000058977",
+          "1000058980",
+          "1000058979"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-08-22T13:34:53Z",
-        "fileSize": 173,
+        "fileSize": 174,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -21,9 +44,9 @@
         "summary": "Adds a new journal menu (H key) for viewing and tracking quest requirements and objects, and introduces quest markers to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57285/57285-1755018136-1399655819.png",
         "uid": "429496786885",
-        "updatedAt": "2025-11-22T09:28:25Z",
+        "updatedAt": "2025-11-29T12:23:27Z",
         "fileIds": [
-          "1000058431",
+          "1000058770",
           "1000057601",
           "1000057602",
           "1000058592",
@@ -46,7 +69,8 @@
           "1000058175",
           "1000058199",
           "1000058266",
-          "1000058367"
+          "1000058367",
+          "1000058431"
         ]
       },
       {
@@ -237,6 +261,6 @@
         "updatedAt": "2024-07-30T07:57:50Z"
       }
     ],
-    "totalCount": 10
+    "totalCount": 11
   }
 }

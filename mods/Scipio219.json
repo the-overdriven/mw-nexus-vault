@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2025-11-28T22:54:52.399Z",
+  "checkedAt": "2025-12-06T14:59:02.557Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 9,
+        "100": 10,
         "181": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-03T17:41:02Z",
+        "fileSize": 55148,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57875,
+        "name": "MUSE Music Expansion - Temple",
+        "status": "published",
+        "summary": "Choral hymns, mysterious chants, haunting woodwinds...A music expansion for the Temple of original tracks by me created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 3 new combat tracks, as well as generic and combat",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57875/57875-1764783363-1192000679.png",
+        "uid": "429496787475",
+        "updatedAt": "2025-12-03T17:41:02Z",
+        "fileIds": [
+          "1000058897"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-01-05T21:45:37Z",
@@ -185,6 +204,6 @@
         "updatedAt": "2022-08-31T17:16:52Z"
       }
     ],
-    "totalCount": 9
+    "totalCount": 10
   }
 }
