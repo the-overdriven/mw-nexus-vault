@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-06T14:58:11.867Z",
+  "checkedAt": "2025-12-18T11:46:04.704Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 59,
+        "fileSize": 62,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,24 +21,28 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2025-12-05T15:12:05Z",
+        "updatedAt": "2025-12-17T22:12:36Z",
         "fileIds": [
-          "1000058956",
+          "1000059306",
           "1000058652",
           "1000058925",
           "1000058682",
           "1000058683",
           "1000058955",
+          "1000058956",
           "1000058742",
           "1000058506",
+          "1000059294",
+          "1000059303",
           "1000058793",
-          "1000058542"
+          "1000058542",
+          "1000059060"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:42Z",
-        "fileSize": 178,
+        "fileSize": 179,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -49,12 +53,15 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2025-12-05T14:19:15Z",
+        "updatedAt": "2025-12-17T13:30:11Z",
         "fileIds": [
-          "1000058954",
+          "1000059293",
+          "1000059179",
           "1000058681",
+          "1000058954",
           "1000058505",
           "1000058544",
+          "1000059058",
           "1000058876"
         ]
       },
@@ -138,9 +145,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2025-11-29T11:18:02Z",
+        "updatedAt": "2025-12-18T10:15:42Z",
         "fileIds": [
-          "1000058769",
+          "1000059318",
           "1000058545",
           "1000051201",
           "1000048667",
@@ -160,6 +167,7 @@
           "1000055401",
           "1000054650",
           "1000058507",
+          "1000058769",
           "1000048787",
           "1000053664",
           "1000050087",
@@ -285,7 +293,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-03-20T11:14:32Z",
-        "fileSize": 21,
+        "fileSize": 25,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -296,14 +304,15 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2025-11-04T16:01:11Z",
+        "updatedAt": "2025-12-12T16:02:15Z",
         "fileIds": [
-          "1000058171",
+          "1000059144",
           "1000044538",
           "1000057628",
           "1000056354",
           "1000053049",
           "1000053050",
+          "1000058171",
           "1000054861",
           "1000054875",
           "1000056988",

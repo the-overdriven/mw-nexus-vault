@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-12-06T14:56:31.595Z",
+  "checkedAt": "2025-12-18T11:44:00.712Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 11,
+        "100": 12,
         "101": 9,
         "110": 1,
         "941": 11,
@@ -14,6 +14,26 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-06T22:17:38Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57891,
+        "name": "Morrowind Combat Training Wheels (OpenMW)",
+        "status": "published",
+        "summary": "A pure Lua mod that helps new players adapt to Morrowind's combat mechanics with fully configurable training wheels via settings window.     Variable Attack Bonus, Variable Magicka Regeneration, Variable Fatigue Regeneration. Each setting",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57891/57891-1765144916-474705868.png",
+        "uid": "429496787491",
+        "updatedAt": "2025-12-07T21:59:54Z",
+        "fileIds": [
+          "1000059040",
+          "1000058995"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-09-21T15:52:55Z",
@@ -211,30 +231,47 @@
           "name": "Models and Textures"
         },
         "modId": 47210,
-        "name": "Races Redone - Assorted Compatibility Patches",
+        "name": "Mackom's Heads - Assorted Compatibility Patches",
         "status": "published",
-        "summary": "Races Redone patches for quest/companions. Patches: Julan Ashlander Companion (Bonus: Optional Scarred Face for Julan from qwertyquit), Rise of House Telvanni, Sotha Sil Expanded , TR heads replacer (MacKom's heads) Mesh Fix, Uvirith's",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47210/47210-1700869785-1691063494.png",
+        "summary": "MacKom head patches for quest/companions. Patches: Julan Ashlander Companion (Bonus: Optional Scarred Face for Julan from qwertyquit), Rise of House Telvanni, Sotha Sil Expanded , TR heads replacer (MacKom's heads) Mesh Fix, Uvirith's",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47210/47210-1765947326-1602044993.png",
         "uid": "429496776810",
         "updatedAt": "2021-12-15T15:56:21Z"
       },
       {
         "adultContent": false,
         "createdAt": "2019-07-27T16:58:10Z",
-        "fileSize": 79,
+        "fileSize": 22549,
         "modCategory": {
           "categoryId": 6,
           "name": "Body, Face, and Hair"
         },
         "modId": 47017,
-        "name": "Races Redone - Hair and Helmet Fix",
+        "name": "Immersion Friendly Hairs for Mackom's Heads and Helmet Fix",
         "status": "published",
-        "summary": "Fixes issues with hairs clipping into the head/ears of heads.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47017/47017-1700869742-1751554192.png",
+        "summary": "\"Lore/Immersion friendly\" hair that doesn't have clipping issues for MacKom Heads.Note: This was originally a \"fixer\" of the (not Galleo) Races Redone, but since that doesn't exist anymore here it is along with all my fixes. So you can",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47017/47017-1765942342-788569122.png",
         "uid": "429496776617",
-        "updatedAt": "2020-01-29T10:20:01Z"
+        "updatedAt": "2025-12-17T04:19:44Z",
+        "fileIds": [
+          "1000059286",
+          "1000059287",
+          "1000016899",
+          "1000017056",
+          "1000017077",
+          "1000015460",
+          "1000015493",
+          "1000015254",
+          "1000015261",
+          "1000015272",
+          "1000015546",
+          "1000015299",
+          "1000015570",
+          "1000015352",
+          "1000017089"
+        ]
       }
     ],
-    "totalCount": 11
+    "totalCount": 12
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-06T14:56:31.838Z",
+  "checkedAt": "2025-12-18T11:44:14.972Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -141,7 +141,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-05-31T17:49:07Z",
-        "fileSize": 18610,
+        "fileSize": 18622,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -152,7 +152,16 @@
         "summary": "This mod adds a new cozy trading post/tavern to the outskirts of Balmora. There you can meet a Khajiit bard who sings her native songs, try delicious bantam guar meat, and explore the nearby egg mine...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54534/54534-1717175566-954531948.png",
         "uid": "429496784134",
-        "updatedAt": "2024-06-14T15:02:43Z"
+        "updatedAt": "2025-12-16T17:02:11Z",
+        "fileIds": [
+          "1000059274",
+          "1000045534",
+          "1000059188",
+          "1000059214",
+          "1000045667",
+          "1000045512",
+          "1000045273"
+        ]
       },
       {
         "adultContent": false,

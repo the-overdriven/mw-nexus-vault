@@ -1,12 +1,52 @@
 {
-  "checkedAt": "2025-12-06T14:55:35.436Z",
+  "checkedAt": "2025-12-18T11:42:52.810Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 33
+        "100": 34
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-17T19:50:12Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57941,
+        "name": "Devilish Dress Undress Hotkey (OpenMW)",
+        "status": "published",
+        "summary": "Undress and get dressed again by pressing a configurable hotkey. Optionally, you can enable the automatic unequipping of armor while swimming.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57941/57941-1765999653-186563690.png",
+        "uid": "429496787541",
+        "updatedAt": "2025-12-17T19:50:12Z",
+        "fileIds": [
+          "1000059304"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-07T00:21:45Z",
+        "fileSize": 669,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57892,
+        "name": "Devilish Sheathe Your Weapon Gothic Style (OpenMW)",
+        "status": "published",
+        "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
+        "uid": "429496787492",
+        "updatedAt": "2025-12-11T20:31:45Z",
+        "fileIds": [
+          "1000059136",
+          "1000059067",
+          "1000059114"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-11-08T22:35:11Z",
@@ -413,22 +453,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2023-09-24T01:51:10Z",
-        "fileSize": 682,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 53535,
-        "name": "Devilish Sheathe Your Weapon",
-        "status": "published",
-        "summary": "Npcs will now comment on you walking up to them with a drawn weapon. This mod will work for all Npcs of all races and all genders. It can't cause compatibility issues. This is my take on Djangos' \"Sheathe your weapon\" mod intended to be",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53535/53535-1695519700-514992805.jpeg",
-        "uid": "429496783135",
-        "updatedAt": "2023-09-24T05:38:18Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2023-09-06T02:35:50Z",
         "fileSize": 533342,
         "modCategory": {
@@ -753,6 +777,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 33
+    "totalCount": 34
   }
 }

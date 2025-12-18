@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-06T14:55:02.224Z",
+  "checkedAt": "2025-12-18T11:42:36.848Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -222,7 +222,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-11-23T22:32:18Z",
-        "fileSize": 1114,
+        "fileSize": 1137,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -233,9 +233,9 @@
         "summary": "Adds 900+ new icons and mod support for 2300+ quests!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55480/55480-1732400790-905115982.png",
         "uid": "429496785080",
-        "updatedAt": "2025-10-17T04:25:46Z",
+        "updatedAt": "2025-12-08T03:12:27Z",
         "fileIds": [
-          "1000057715",
+          "1000059049",
           "1000050438",
           "1000052233",
           "1000048657",
@@ -244,6 +244,7 @@
           "1000048451",
           "1000049742",
           "1000056412",
+          "1000057715",
           "1000055671",
           "1000050817",
           "1000057493",

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-12-06T14:56:50.797Z",
+  "checkedAt": "2025-12-18T11:44:30.528Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6
+        "100": 7
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-07T11:50:54Z",
+        "fileSize": 13357,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 57895,
+        "name": "SW_Dwemer Bladed Pylon",
+        "status": "published",
+        "summary": "One of ideas for Dwemer Ghostfence pylons with blades, awesome material to make a new Dwemer asset.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57895/57895-1765107494-675523579.jpg",
+        "uid": "429496787495",
+        "updatedAt": "2025-12-07T11:50:54Z",
+        "fileIds": [
+          "1000059014"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-12-14T07:12:31Z",
@@ -26,7 +45,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-11-07T15:17:19Z",
-        "fileSize": 236354,
+        "fileSize": 108821,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -34,10 +53,10 @@
         "modId": 55429,
         "name": "Star Wound - Vvardenfell",
         "status": "published",
-        "summary": "An attempt to make ENTIRE Vvardenfell more true to pre-release map of Morrowind, increase size of landscape to 175%, science, logic and lore. Incorporating (and further overhauling) of some of the best mods (that allows it) to extend lore",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55429/55429-1764969369-297447227.jpg",
+        "summary": "An attempt to make ENTIRE Vvardenfell more true to pre-release map of Morrowind, increase size of landscape to 150%+, science, logic and lore. Incorporating (and further overhauling) of some of the best mods (that allows it) to extend lore",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55429/55429-1765915282-952229549.jpg",
         "uid": "429496785029",
-        "updatedAt": "2025-12-02T20:04:57Z",
+        "updatedAt": "2025-12-09T12:28:13Z",
         "fileIds": [
           "1000058877",
           "1000048448",
@@ -148,6 +167,6 @@
         "updatedAt": "2024-04-20T13:44:29Z"
       }
     ],
-    "totalCount": 6
+    "totalCount": 7
   }
 }

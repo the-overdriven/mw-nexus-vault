@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-12-06T14:59:10.848Z",
+  "checkedAt": "2025-12-18T11:47:11.637Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 46
+        "100": 47
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-15T09:04:14Z",
+        "fileSize": 1729,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57930,
+        "name": "Autumn Textures for Vurt's Animated Ascadian Isles Trees",
+        "status": "published",
+        "summary": "Recolored textures for autumn vibes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57930/57930-1765789274-1200006541.png",
+        "uid": "429496787530",
+        "updatedAt": "2025-12-15T09:04:14Z",
+        "fileIds": [
+          "1000059240"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-10-31T08:38:36Z",
@@ -830,6 +849,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 46
+    "totalCount": 47
   }
 }

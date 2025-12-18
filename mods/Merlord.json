@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-06T14:57:37.460Z",
+  "checkedAt": "2025-12-18T11:45:33.299Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-12T08:19:48Z",
-        "fileSize": 64,
+        "fileSize": 78,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -21,9 +21,9 @@
         "summary": "Alternate Start and chargen overhaul. Over 60 scenarios. Chargen process streamlined and re-ordered. Fully customise your character or randomise everything.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56341/56341-1744445695-1423027054.png",
         "uid": "429496785941",
-        "updatedAt": "2025-04-15T05:36:59Z",
+        "updatedAt": "2025-12-13T11:00:23Z",
         "fileIds": [
-          "1000051939"
+          "1000059178"
         ]
       },
       {
@@ -412,9 +412,9 @@
         "summary": "This mod provides one simple feature: any menu can be exited by right clicking. This includes dialog and barter menus, any service menus, as well as the main menu, save/load menu etc.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48458/48458-1593231448-1836854593.jpeg",
         "uid": "429496778058",
-        "updatedAt": "2025-01-25T02:49:28Z",
+        "updatedAt": "2025-12-11T10:12:30Z",
         "fileIds": [
-          "1000049784"
+          "1000059120"
         ]
       },
       {
@@ -711,7 +711,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-05-04T05:26:12Z",
-        "fileSize": 4,
+        "fileSize": 8,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -719,10 +719,14 @@
         "modId": 46673,
         "name": "Realistic Repair",
         "status": "published",
-        "summary": "Realistic Repair overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge.",
+        "summary": "Realistic Repair overhauls the repair mechanic, by making it so that gear degrades when failing a repair attempt, reducing the maximum condition it can be repaired to until repaired at an anvil or by a blacksmith.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46673/46673-1556947426-1958627396.png",
         "uid": "429496776273",
-        "updatedAt": "2020-12-22T03:55:21Z"
+        "updatedAt": "2025-12-13T11:32:27Z",
+        "fileIds": [
+          "1000059180",
+          "1000022219"
+        ]
       },
       {
         "adultContent": false,

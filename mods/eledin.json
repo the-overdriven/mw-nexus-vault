@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-12-06T14:55:58.822Z",
+  "checkedAt": "2025-12-18T11:43:36.996Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 24,
         "181": 1,
         "430": 1,
         "437": 1,
@@ -12,6 +12,26 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-15T18:10:54Z",
+        "fileSize": 237,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57932,
+        "name": "Improved Fire",
+        "status": "published",
+        "summary": "High quality fire and particles for fire pits, torches and other fire light sources",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57932/57932-1765821569-581403375.png",
+        "uid": "429496787532",
+        "updatedAt": "2025-12-15T18:10:54Z",
+        "fileIds": [
+          "1000059247",
+          "1000059248"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-11-02T14:35:59Z",
@@ -47,7 +67,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-10-22T13:25:09Z",
-        "fileSize": 8173,
+        "fileSize": 8758,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -58,10 +78,11 @@
         "summary": "2k pbr replacements for the base game, oaab and TR spider webs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57668/57668-1761138771-595386217.png",
         "uid": "429496787268",
-        "updatedAt": "2025-10-22T15:20:45Z",
+        "updatedAt": "2025-12-14T00:53:18Z",
         "fileIds": [
-          "1000057846",
-          "1000057844"
+          "1000059206",
+          "1000057844",
+          "1000057846"
         ]
       },
       {
@@ -480,6 +501,6 @@
         "updatedAt": "2024-08-15T21:59:15Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

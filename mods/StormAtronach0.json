@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-12-06T14:59:10.637Z",
+  "checkedAt": "2025-12-18T11:46:55.795Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 9
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-13T13:58:25Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 57917,
+        "name": "The Elder Strolls",
+        "status": "published",
+        "summary": "Why fight? We can't we just enjoy the scenery? If you ask yourself these questions, this mod is for you. It sets the fight level of every creature in the game to 1 on start. Nobody will attack you (Unless you attack them first / taunt them,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57917/57917-1765634127-2071316786.jpg",
+        "uid": "429496787517",
+        "updatedAt": "2025-12-13T13:58:25Z",
+        "fileIds": [
+          "1000059181"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-02T12:59:17Z",
@@ -21,8 +40,9 @@
         "summary": "As it says in the can. Outside combat, you will get a bonus effect to fatigue regeneration. Increase it by crouching and not moving. This bonus will dissapear in combat.No more stamina management outside combat! MWSE only",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57395/57395-1757498109-1315981385.jpg",
         "uid": "429496786995",
-        "updatedAt": "2025-09-02T12:59:17Z",
+        "updatedAt": "2025-12-09T18:26:24Z",
         "fileIds": [
+          "1000059086",
           "1000056560"
         ]
       },
@@ -175,6 +195,6 @@
         ]
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }

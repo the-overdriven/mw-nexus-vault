@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-12-06T14:56:41.132Z",
+  "checkedAt": "2025-12-18T11:44:22.496Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 46,
+        "100": 45,
         "101": 1,
         "1704": 1
       }
@@ -296,22 +296,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47697/47697-1584564223-802709400.png",
         "uid": "429496777297",
         "updatedAt": "2020-03-18T20:45:34Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-03-05T23:55:13Z",
-        "fileSize": 56,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 47671,
-        "name": "Hircine's Artifacts",
-        "status": "published",
-        "summary": "Changes the 2 amulets from the aspect of strength and speed into a mask and boots respectively. Also includes a spear replacer.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47671/47671-1583452038-1542603002.png",
-        "uid": "429496777271",
-        "updatedAt": "2020-03-06T14:46:42Z"
       },
       {
         "adultContent": false,
@@ -746,6 +730,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 46
+    "totalCount": 45
   }
 }
