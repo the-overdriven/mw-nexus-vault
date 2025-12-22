@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-18T11:47:49.296Z",
+  "checkedAt": "2025-12-22T01:34:48.405Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -189,7 +189,7 @@
       {
         "adultContent": false,
         "createdAt": "2018-10-19T11:13:56Z",
-        "fileSize": 856,
+        "fileSize": 857,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -200,7 +200,15 @@
         "summary": "This plugin corrects the UV mapping on the stones. Now they will not be seams and blurred imagesI added some lower parts to some stones.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46104/46104-1539947392-1988581858.jpeg",
         "uid": "429496775704",
-        "updatedAt": "2024-10-09T16:17:40Z"
+        "updatedAt": "2025-12-20T05:44:50Z",
+        "fileIds": [
+          "1000059360",
+          "1000012761",
+          "1000015033",
+          "1000017009",
+          "1000039780",
+          "1000047618"
+        ]
       },
       {
         "adultContent": false,

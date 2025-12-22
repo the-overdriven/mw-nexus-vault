@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-18T11:45:33.299Z",
+  "checkedAt": "2025-12-22T01:34:11.586Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -711,7 +711,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-05-04T05:26:12Z",
-        "fileSize": 8,
+        "fileSize": 22,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -722,9 +722,9 @@
         "summary": "Realistic Repair overhauls the repair mechanic, by making it so that gear degrades when failing a repair attempt, reducing the maximum condition it can be repaired to until repaired at an anvil or by a blacksmith.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46673/46673-1556947426-1958627396.png",
         "uid": "429496776273",
-        "updatedAt": "2025-12-13T11:32:27Z",
+        "updatedAt": "2025-12-21T02:14:03Z",
         "fileIds": [
-          "1000059180",
+          "1000059381",
           "1000022219"
         ]
       },

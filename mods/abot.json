@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-18T11:41:34.149Z",
+  "checkedAt": "2025-12-22T01:32:35.805Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -32,7 +32,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-29T17:31:11Z",
-        "fileSize": 1,
+        "fileSize": 2,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -43,8 +43,9 @@
         "summary": "- sets Take window default quantity to half the total amount- sets the scrollbar jump to a sensible value- adds buttons to increment/decrement by 1 or 5, halve, double, max the quantity",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57852/57852-1764437070-1579617566.png",
         "uid": "429496787452",
-        "updatedAt": "2025-11-29T18:31:28Z",
+        "updatedAt": "2025-12-21T17:55:11Z",
         "fileIds": [
+          "1000059397",
           "1000058779"
         ]
       },
@@ -429,7 +430,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-04-15T12:22:32Z",
-        "fileSize": 1,
+        "fileSize": 2,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -440,7 +441,16 @@
         "summary": "Makes MCM filter/Console text input clear by clicking the input text space.If you have UIExpansion installed it should  also work with most of UI Expansion text input filters (unless you have other mod conflicts. At least, it works for me,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52678/52678-1681560603-131396011.jpeg",
         "uid": "429496782278",
-        "updatedAt": "2025-06-20T13:30:49Z"
+        "updatedAt": "2025-12-21T13:50:52Z",
+        "fileIds": [
+          "1000059396",
+          "1000054575",
+          "1000037191",
+          "1000052308",
+          "1000044388",
+          "1000043882",
+          "1000043635"
+        ]
       },
       {
         "adultContent": false,

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-18T11:44:30.528Z",
+  "checkedAt": "2025-12-22T01:34:01.708Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -45,7 +45,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-11-07T15:17:19Z",
-        "fileSize": 108821,
+        "fileSize": 236354,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -56,9 +56,9 @@
         "summary": "An attempt to make ENTIRE Vvardenfell more true to pre-release map of Morrowind, increase size of landscape to 150%+, science, logic and lore. Incorporating (and further overhauling) of some of the best mods (that allows it) to extend lore",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55429/55429-1765915282-952229549.jpg",
         "uid": "429496785029",
-        "updatedAt": "2025-12-09T12:28:13Z",
+        "updatedAt": "2025-12-18T21:19:43Z",
         "fileIds": [
-          "1000058877",
+          "1000059330",
           "1000048448",
           "1000048586",
           "1000057349",
@@ -73,7 +73,8 @@
           "1000057653",
           "1000050246",
           "1000058330",
-          "1000058621"
+          "1000058621",
+          "1000058877"
         ]
       },
       {

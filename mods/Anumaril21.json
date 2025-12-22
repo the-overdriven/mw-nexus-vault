@@ -1,12 +1,69 @@
 {
-  "checkedAt": "2025-12-18T11:42:06.998Z",
+  "checkedAt": "2025-12-22T01:32:55.062Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14
+        "100": 17
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-18T18:06:45Z",
+        "fileSize": 1880,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 57947,
+        "name": "Ashfront - Ruined Redaynia",
+        "status": "published",
+        "summary": "Implements the cut village of Ald Redaynia and overhauls the nearby Velothi tower it's named for, expanding on existing content as well as adding an optional unmarked quest.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57947/57947-1766079980-407717602.png",
+        "uid": "429496787547",
+        "updatedAt": "2025-12-18T23:52:40Z",
+        "fileIds": [
+          "1000059333"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-18T18:06:01Z",
+        "fileSize": 659,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 57943,
+        "name": "Ashfront - Rotheran Rebuilt",
+        "status": "published",
+        "summary": "Overhauls the Dunmer stronghold of Rotheran, expanding on existing themes and implementing a scripted encounter.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57943/57943-1766075794-1912146960.png",
+        "uid": "429496787543",
+        "updatedAt": "2025-12-18T23:52:02Z",
+        "fileIds": [
+          "1000059332"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-18T18:05:08Z",
+        "fileSize": 30448,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 57944,
+        "name": "Ashfront - Sheogorad",
+        "status": "published",
+        "summary": "Vanilla-Friendly overhaul of the Sheogorad Region characterized by black sand beaches, geothermal activity, and Nordic settlement.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57944/57944-1766076279-475743456.png",
+        "uid": "429496787544",
+        "updatedAt": "2025-12-19T03:22:43Z",
+        "fileIds": [
+          "1000059340"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-27T20:46:45Z",
@@ -240,6 +297,6 @@
         "updatedAt": "2024-08-21T16:48:31Z"
       }
     ],
-    "totalCount": 14
+    "totalCount": 17
   }
 }
