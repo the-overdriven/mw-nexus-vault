@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-22T01:34:48.405Z",
+  "checkedAt": "2025-12-27T23:14:44.478Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -261,7 +261,7 @@
       {
         "adultContent": false,
         "createdAt": "2011-07-11T14:57:32Z",
-        "fileSize": 9933,
+        "fileSize": 9953,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -272,7 +272,14 @@
         "summary": "It is idle time Replacer, correcting lacks of standard models in the form of UV mapping, ledges and cracks.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/39348-2-1310561671.jpg",
         "uid": "429496768948",
-        "updatedAt": "2024-02-11T16:23:03Z"
+        "updatedAt": "2025-12-22T13:01:52Z",
+        "fileIds": [
+          "1000059409",
+          "1000017159",
+          "1000017968",
+          "1000029129",
+          "1000042731"
+        ]
       }
     ],
     "totalCount": 13

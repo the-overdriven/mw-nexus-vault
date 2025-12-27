@@ -1,14 +1,35 @@
 {
-  "checkedAt": "2025-12-22T01:34:34.991Z",
+  "checkedAt": "2025-12-27T23:13:42.616Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 40,
+        "100": 41,
         "110": 1,
         "2736": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-24T06:17:00Z",
+        "fileSize": 24472,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 57935,
+        "name": "Legacy of the Blades",
+        "status": "published",
+        "summary": "Explore a new cave system that goes from the Bitter Coast all the way to the West Gash and discover its ancient treasure.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57935/57935-1766555940-252545149.jpg",
+        "uid": "429496787535",
+        "updatedAt": "2025-12-26T05:11:56Z",
+        "fileIds": [
+          "1000059503",
+          "1000059504",
+          "1000059464"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-28T08:03:42Z",
@@ -242,20 +263,20 @@
       {
         "adultContent": false,
         "createdAt": "2023-05-04T08:45:14Z",
-        "fileSize": 7752,
+        "fileSize": 7754,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
         },
         "modId": 52806,
-        "name": "Cammona Tong Chitin Armor V2",
+        "name": "Camonna Tong Chitin Armor V2",
         "status": "published",
-        "summary": "adds Cammona Tong Chitin armor to the game.",
+        "summary": "adds Camonna Tong Chitin armor to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52806/52806-1748247016-1479764379.png",
         "uid": "429496782406",
-        "updatedAt": "2025-05-26T10:24:15Z",
+        "updatedAt": "2025-12-23T22:03:46Z",
         "fileIds": [
-          "1000053600",
+          "1000059451",
           "1000037656",
           "1000037690"
         ]
@@ -712,6 +733,6 @@
         "updatedAt": "2021-09-26T00:45:01Z"
       }
     ],
-    "totalCount": 40
+    "totalCount": 41
   }
 }

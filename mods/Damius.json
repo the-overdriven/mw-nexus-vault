@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-22T01:33:20.567Z",
+  "checkedAt": "2025-12-27T23:10:57.470Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -363,7 +363,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-14T02:06:39Z",
-        "fileSize": 1271,
+        "fileSize": 79,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -374,7 +374,7 @@
         "summary": "Adds glow maps to several Glass and Daedric mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53504/53504-1694656986-498508784.png",
         "uid": "429496783104",
-        "updatedAt": "2025-12-20T16:13:18Z",
+        "updatedAt": "2025-12-24T19:30:16Z",
         "fileIds": [
           "1000040169",
           "1000040234",
@@ -388,6 +388,7 @@
           "1000057570",
           "1000057571",
           "1000057599",
+          "1000059478",
           "1000055410",
           "1000055411",
           "1000040168",

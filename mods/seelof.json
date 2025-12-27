@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-12-22T01:34:35.445Z",
+  "checkedAt": "2025-12-27T23:14:08.861Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 10
+        "100": 11
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-23T20:42:21Z",
+        "fileSize": 779,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 57968,
+        "name": "Forge of Hilbongard Reignited",
+        "status": "published",
+        "summary": "This mod overhauls and expands the Forge of Hilbongard as well as the adjacent Omaren Ancestral Tomb. Reignite the forge and claim the legendary Skull Crusher for yourself!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57968/57968-1766521609-553896890.jpg",
+        "uid": "429496787568",
+        "updatedAt": "2025-12-23T20:42:21Z",
+        "fileIds": [
+          "1000059450"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-01T18:48:28Z",
@@ -181,6 +200,6 @@
         "updatedAt": "2019-06-10T08:32:15Z"
       }
     ],
-    "totalCount": 10
+    "totalCount": 11
   }
 }

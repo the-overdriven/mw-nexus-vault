@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-12-22T01:34:36.475Z",
+  "checkedAt": "2025-12-27T23:14:18.275Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 47
+        "100": 48
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-24T13:51:51Z",
+        "fileSize": 86,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 57973,
+        "name": "Gluhwein 2022 - No Snow",
+        "status": "published",
+        "summary": "Patch for remove snow on exterior.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57973/57973-1766583985-1577096312.png",
+        "uid": "429496787573",
+        "updatedAt": "2025-12-24T13:51:51Z",
+        "fileIds": [
+          "1000059474"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-15T09:04:14Z",
@@ -849,6 +868,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 47
+    "totalCount": 48
   }
 }

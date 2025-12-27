@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2025-12-22T01:34:35.177Z",
+  "checkedAt": "2025-12-27T23:14:00.468Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6
+        "100": 7
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-24T09:38:37Z",
+        "fileSize": 398428,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57971,
+        "name": "Diverse Voices",
+        "status": "published",
+        "summary": "Adds voices from Oblivion and Skyrim to Morrowind (AI-generated)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57971/57971-1766560640-604400511.jpg",
+        "uid": "429496787571",
+        "updatedAt": "2025-12-24T09:38:37Z",
+        "fileIds": [
+          "1000059467"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-22T20:32:13Z",
@@ -137,6 +156,6 @@
         ]
       }
     ],
-    "totalCount": 6
+    "totalCount": 7
   }
 }

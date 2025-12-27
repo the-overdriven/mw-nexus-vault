@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-22T01:34:01.708Z",
+  "checkedAt": "2025-12-27T23:12:22.105Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -45,7 +45,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-11-07T15:17:19Z",
-        "fileSize": 236354,
+        "fileSize": 23264,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -53,11 +53,12 @@
         "modId": 55429,
         "name": "Star Wound - Vvardenfell",
         "status": "published",
-        "summary": "An attempt to make ENTIRE Vvardenfell more true to pre-release map of Morrowind, increase size of landscape to 150%+, science, logic and lore. Incorporating (and further overhauling) of some of the best mods (that allows it) to extend lore",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55429/55429-1765915282-952229549.jpg",
+        "summary": "An attempt to make ENTIRE Vvardenfell more true to pre-release map of Morrowind, increase size of landscape to 130%+, science, logic and lore. Incorporating (and further overhauling) of some of the best mods (that allows it) to extend lore",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55429/55429-1766859661-1713308474.jpg",
         "uid": "429496785029",
-        "updatedAt": "2025-12-18T21:19:43Z",
+        "updatedAt": "2025-12-25T20:25:57Z",
         "fileIds": [
+          "1000059497",
           "1000059330",
           "1000048448",
           "1000048586",
@@ -67,6 +68,7 @@
           "1000049837",
           "1000054501",
           "1000049388",
+          "1000059428",
           "1000058097",
           "1000057611",
           "1000051220",

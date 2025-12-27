@@ -48,6 +48,7 @@ export async function findFileIds(modId) {
     const response = await scrapeNexusMods(url).catch(console.error)
 
     const $ = cheerio.load(response)
+
     const dataIds = []
 
     $('dt[data-id]').each((_, element) => {

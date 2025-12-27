@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-22T01:34:31.178Z",
+  "checkedAt": "2025-12-27T23:13:22.588Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 62,
+        "fileSize": 64,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,20 +21,23 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2025-12-17T22:12:36Z",
+        "updatedAt": "2025-12-27T06:45:35Z",
         "fileIds": [
-          "1000059306",
+          "1000059525",
           "1000058652",
           "1000058925",
           "1000058682",
           "1000058683",
           "1000058955",
           "1000058956",
+          "1000059472",
           "1000058742",
+          "1000059519",
           "1000058506",
           "1000059294",
           "1000059303",
           "1000058793",
+          "1000059306",
           "1000058542",
           "1000059060"
         ]
@@ -304,16 +307,18 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2025-12-12T16:02:15Z",
+        "updatedAt": "2025-12-27T21:50:06Z",
         "fileIds": [
-          "1000059144",
+          "1000059547",
           "1000044538",
+          "1000059144",
           "1000057628",
           "1000056354",
           "1000053049",
           "1000053050",
           "1000058171",
           "1000054861",
+          "1000059473",
           "1000054875",
           "1000056988",
           "1000054468",

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-12-22T01:34:47.689Z",
+  "checkedAt": "2025-12-27T23:14:35.709Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 42
+        "100": 41
       }
     },
     "nodes": [
@@ -74,7 +74,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 510049,
+        "fileSize": 648577,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -85,10 +85,12 @@
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1765534279-405913005.png",
         "uid": "429496785568",
-        "updatedAt": "2025-12-05T22:06:56Z",
+        "updatedAt": "2025-12-26T17:33:50Z",
         "fileIds": [
-          "1000058827",
+          "1000059513",
+          "1000059510",
           "1000058945",
+          "1000059509",
           "1000058970",
           "1000055058",
           "1000056360",
@@ -112,6 +114,7 @@
           "1000058292",
           "1000057270",
           "1000055235",
+          "1000058827",
           "1000054733",
           "1000057806",
           "1000058319",
@@ -147,29 +150,6 @@
           "1000050524",
           "1000053705",
           "1000050140"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-02T14:11:06Z",
-        "fileSize": 137939,
-        "modCategory": {
-          "categoryId": 3,
-          "name": "Dungeons and Locations"
-        },
-        "modId": 55911,
-        "name": "Sin City - A Starwind Mod",
-        "status": "published",
-        "summary": "Adds new dialogue, quests, and environmental details to Nar Shaddaa in Starwind. Requires Starwind Enhanced.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55911/55911-1738505302-1276388228.png",
-        "uid": "429496785511",
-        "updatedAt": "2025-12-05T11:09:29Z",
-        "fileIds": [
-          "1000058938",
-          "1000058939",
-          "1000058944",
-          "1000050488",
-          "1000056231"
         ]
       },
       {
@@ -822,6 +802,6 @@
         "updatedAt": "2020-04-11T11:26:10Z"
       }
     ],
-    "totalCount": 42
+    "totalCount": 41
   }
 }

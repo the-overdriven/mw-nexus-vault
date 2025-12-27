@@ -1,15 +1,34 @@
 {
-  "checkedAt": "2025-12-22T01:33:58.670Z",
+  "checkedAt": "2025-12-27T23:11:53.932Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 59,
+        "100": 60,
         "101": 1,
         "1413": 7,
         "6892": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-23T23:35:28Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 57969,
+        "name": "Ano Vando Buffed",
+        "status": "published",
+        "summary": "Gives Ano Vando Ebony armor to go with his shield.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57969/57969-1766532808-1595032003.png",
+        "uid": "429496787569",
+        "updatedAt": "2025-12-23T23:35:28Z",
+        "fileIds": [
+          "1000059454"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-03T00:55:40Z",
@@ -102,9 +121,10 @@
         "summary": "Vampires beware! Vampire hunters are here to chase you down.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57367/57367-1756248153-1006509015.jpg",
         "uid": "429496786967",
-        "updatedAt": "2025-08-26T22:45:28Z",
+        "updatedAt": "2025-12-24T04:09:30Z",
         "fileIds": [
-          "1000056414"
+          "1000056414",
+          "1000059461"
         ]
       },
       {
@@ -187,7 +207,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-06-06T00:09:58Z",
-        "fileSize": 6,
+        "fileSize": 8,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -198,10 +218,9 @@
         "summary": "Beast-races beware! Dunmer Cat-Catchers will pursue you around Morrowind for bounties of 100 gold or more. Deal with the Camonna Tong to halt their attacks.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56869/56869-1749168446-1503297210.jpeg",
         "uid": "429496786469",
-        "updatedAt": "2025-11-28T00:41:40Z",
+        "updatedAt": "2025-12-23T22:37:57Z",
         "fileIds": [
-          "1000058735",
-          "1000054140"
+          "1000059452"
         ]
       },
       {
@@ -1087,6 +1106,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 59
+    "totalCount": 60
   }
 }
