@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-27T23:22:49.686Z",
+  "checkedAt": "2025-12-29T00:48:23.709Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -93,7 +93,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-06-08T05:55:59Z",
-        "fileSize": 24645,
+        "fileSize": 36578,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -104,9 +104,9 @@
         "summary": "Adds a feature-rich painting mechanic to Morrowind, letting you create paintings of in-game scenery that exist not just in the game as objects but are also saved as high-res images on your PC so you can use them outside the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53036/53036-1686202105-660698867.png",
         "uid": "429496782636",
-        "updatedAt": "2025-12-27T08:21:05Z",
+        "updatedAt": "2025-12-27T23:56:20Z",
         "fileIds": [
-          "1000059526",
+          "1000059552",
           "1000038698",
           "1000045704"
         ]

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-27T23:22:42.844Z",
+  "checkedAt": "2025-12-29T00:48:01.916Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -508,7 +508,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-05T02:28:52Z",
-        "fileSize": 224060,
+        "fileSize": 214183,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -519,12 +519,14 @@
         "summary": "This is not BCOM but a BCOM extensions module. It includes a BAIN installer where you can choose from 9 mods (or even take them all) that have been made both BCOM compatible and compatible with each other. The goal is to make the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53465/53465-1693886968-2137300983.png",
         "uid": "429496783065",
-        "updatedAt": "2025-02-18T20:59:40Z",
+        "updatedAt": "2025-12-28T00:48:16Z",
         "fileIds": [
-          "1000050511",
-          "1000050512",
+          "1000059555",
+          "1000059556",
           "1000046617",
-          "1000041558"
+          "1000050511",
+          "1000041558",
+          "1000050512"
         ]
       },
       {
@@ -594,7 +596,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-07-30T10:48:23Z",
-        "fileSize": 102515,
+        "fileSize": 102496,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -605,8 +607,9 @@
         "summary": "Surrounded by rumors, a peculiar painter roams the night. Will you help him and become his apprentice? To start the quest, talk to Veradul Dervayn, the artist, who for some odd reason prefers to paint at night. BCOM compatible. The painter",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53307/53307-1693655959-856008895.png",
         "uid": "429496782907",
-        "updatedAt": "2025-05-15T18:03:29Z",
+        "updatedAt": "2025-12-28T00:31:21Z",
         "fileIds": [
+          "1000059554",
           "1000052996",
           "1000046572",
           "1000040012",
