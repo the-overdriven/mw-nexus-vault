@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2025-12-30T00:58:06.315Z",
+  "checkedAt": "2025-12-31T13:28:34.915Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14
+        "100": 16
       }
     },
     "nodes": [
@@ -21,7 +21,10 @@
         "summary": "Powerful, truly customizable bloom",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57438/57438-1757677316-520241085.jpg",
         "uid": "429496787038",
-        "updatedAt": "2025-09-12T11:51:24Z"
+        "updatedAt": "2025-12-30T19:10:50Z",
+        "fileIds": [
+          "1000059618"
+        ]
       },
       {
         "adultContent": false,
@@ -38,6 +41,26 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53722/53722-1700689538-1332347015.jpeg",
         "uid": "429496783322",
         "updatedAt": "2025-09-05T06:53:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-01T15:18:03Z",
+        "fileSize": 101,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 52965,
+        "name": "HeartStrings",
+        "status": "published",
+        "summary": "Total Music Overhaul",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52965/52965-1685292814-649918941.jpeg",
+        "uid": "429496782565",
+        "updatedAt": "2025-12-30T18:03:19Z",
+        "fileIds": [
+          "1000059612",
+          "1000050366"
+        ]
       },
       {
         "adultContent": false,
@@ -207,6 +230,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2021-05-01T22:02:15Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49628,
+        "name": "Grip of Death",
+        "status": "published",
+        "summary": "Change the grip of the weapon from one-handed to two-handed and vice versa",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49628/49628-1619950032-1479984321.jpeg",
+        "uid": "429496779228",
+        "updatedAt": "2021-05-06T10:33:45Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2019-09-10T21:39:26Z",
         "fileSize": 5,
         "modCategory": {
@@ -242,6 +281,6 @@
         ]
       }
     ],
-    "totalCount": 14
+    "totalCount": 16
   }
 }
