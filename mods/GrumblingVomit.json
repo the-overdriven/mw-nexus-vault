@@ -1,15 +1,36 @@
 {
-  "checkedAt": "2025-12-31T13:29:18.065Z",
+  "checkedAt": "2026-01-04T23:58:15.740Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 60,
+        "100": 61,
         "101": 1,
         "1413": 8,
         "6892": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-01T21:59:40Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 58026,
+        "name": "Client Houses",
+        "status": "published",
+        "summary": "Adds a few NPCs to give lore about client houses.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58026/58026-1767303752-1781831101.png",
+        "uid": "429496787626",
+        "updatedAt": "2026-01-01T21:59:40Z",
+        "fileIds": [
+          "1000059657",
+          "1000059659",
+          "1000059658"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-23T23:35:28Z",
@@ -1106,6 +1127,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 60
+    "totalCount": 61
   }
 }

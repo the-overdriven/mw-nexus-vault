@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-31T13:28:58.571Z",
+  "checkedAt": "2026-01-04T23:57:14.406Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -126,7 +126,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-30T02:50:30Z",
-        "fileSize": 101658,
+        "fileSize": 2684,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -137,8 +137,9 @@
         "summary": "A complete story and dialogue overhaul for The Elder Scrolls III: Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55615/55615-1740379662-658823402.jpeg",
         "uid": "429496785215",
-        "updatedAt": "2025-08-24T04:21:01Z",
+        "updatedAt": "2026-01-02T02:05:51Z",
         "fileIds": [
+          "1000059662",
           "1000056313",
           "1000056311",
           "1000054427",

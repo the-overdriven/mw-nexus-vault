@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-31T13:29:22.809Z",
+  "checkedAt": "2026-01-04T23:58:48.512Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -16,14 +16,14 @@
           "name": "Gameplay"
         },
         "modId": 57802,
-        "name": "Skill Evolution",
+        "name": "Skill Evolution (OpenMW)",
         "status": "published",
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2025-12-27T06:45:35Z",
+        "updatedAt": "2026-01-03T22:34:54Z",
         "fileIds": [
-          "1000059525",
+          "1000059718",
           "1000058652",
           "1000058925",
           "1000058682",
@@ -33,6 +33,7 @@
           "1000059472",
           "1000058742",
           "1000059519",
+          "1000059525",
           "1000058506",
           "1000059294",
           "1000059303",
@@ -51,7 +52,7 @@
           "name": "Gameplay"
         },
         "modId": 57801,
-        "name": "Natural Character Growth",
+        "name": "Natural Character Growth (OpenMW)",
         "status": "published",
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
@@ -213,9 +214,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2025-08-20T08:37:56Z",
+        "updatedAt": "2026-01-03T23:24:45Z",
         "fileIds": [
-          "1000056160",
+          "1000059722",
           "1000047616",
           "1000053517",
           "1000047888",
@@ -231,6 +232,7 @@
           "1000047950",
           "1000047960",
           "1000047963",
+          "1000056160",
           "1000047973",
           "1000047721",
           "1000047724",
@@ -298,7 +300,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-03-20T11:14:32Z",
-        "fileSize": 25,
+        "fileSize": 28,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -309,9 +311,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2025-12-27T21:50:06Z",
+        "updatedAt": "2026-01-04T23:52:26Z",
         "fileIds": [
-          "1000059547",
+          "1000059746",
           "1000044538",
           "1000059144",
           "1000057628",
@@ -322,6 +324,7 @@
           "1000054861",
           "1000059473",
           "1000054875",
+          "1000059547",
           "1000056988",
           "1000054468",
           "1000054471",

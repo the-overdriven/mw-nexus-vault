@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-31T13:29:16.351Z",
+  "checkedAt": "2026-01-04T23:57:55.461Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -179,7 +179,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-11-04T13:00:29Z",
-        "fileSize": 3,
+        "fileSize": 4,
         "modCategory": {
           "categoryId": 22,
           "name": "Cheats and God items"
@@ -190,7 +190,12 @@
         "summary": "This is a simple mod that speeds up character creation to the time it takes you to make your character.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50381/50381-1636029403-272164923.jpeg",
         "uid": "429496779981",
-        "updatedAt": "2022-03-28T07:19:09Z"
+        "updatedAt": "2026-01-03T19:31:58Z",
+        "fileIds": [
+          "1000059716",
+          "1000059717",
+          "1000029883"
+        ]
       },
       {
         "adultContent": false,

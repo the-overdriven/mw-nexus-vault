@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-31T13:29:21.683Z",
+  "checkedAt": "2026-01-04T23:58:28.536Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-10-10T19:17:15Z",
-        "fileSize": 21611,
+        "fileSize": 21624,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -21,7 +21,10 @@
         "summary": "SOV_Data is a Morrowind modders' resource for creating colder, snowy biomes set in the north of Sheogorad and the Sea of Ghosts, or adding more variety to landscapes set in Sheogorad and Azura's Coast.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55322/55322-1728587915-154813732.png",
         "uid": "429496784922",
-        "updatedAt": "2024-10-10T19:17:15Z"
+        "updatedAt": "2026-01-02T12:58:30Z",
+        "fileIds": [
+          "1000059678"
+        ]
       },
       {
         "adultContent": false,

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2025-12-31T13:29:45.379Z",
+  "checkedAt": "2026-01-04T23:59:41.795Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -74,7 +74,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 648577,
+        "fileSize": 655508,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -83,11 +83,11 @@
         "name": "A New Hope - A Starwind Mod",
         "status": "published",
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1765534279-405913005.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
         "uid": "429496785568",
-        "updatedAt": "2025-12-26T17:33:50Z",
+        "updatedAt": "2026-01-02T21:22:37Z",
         "fileIds": [
-          "1000059513",
+          "1000059702",
           "1000059510",
           "1000058945",
           "1000059509",
@@ -104,6 +104,7 @@
           "1000056932",
           "1000057956",
           "1000057719",
+          "1000059513",
           "1000055681",
           "1000057218",
           "1000058247",
