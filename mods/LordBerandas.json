@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-04T23:58:27.737Z",
+  "checkedAt": "2026-01-07T12:39:42.613Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -148,7 +148,7 @@
       {
         "adultContent": false,
         "createdAt": "2014-06-04T16:17:01Z",
-        "fileSize": 2845,
+        "fileSize": 2844,
         "modCategory": {
           "categoryId": 7,
           "name": "Items, Objects, and Clothes"
@@ -159,9 +159,10 @@
         "summary": "This mod is inspired by holiday celebrations as they were depicted in TES II: Daggerfall. It adds various religion objects (such as holy icons or statues) to the most of Dunmeri homes and temples, in order to depict deeper impact of",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43131/43131-1727121558-339120077.jpeg",
         "uid": "429496772731",
-        "updatedAt": "2025-12-16T21:19:55Z",
+        "updatedAt": "2026-01-05T23:38:20Z",
         "fileIds": [
           "1000059281",
+          "1000059763",
           "1000002577",
           "1000002784",
           "1000002811",

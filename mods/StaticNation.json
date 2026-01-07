@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-04T23:59:21.361Z",
+  "checkedAt": "2026-01-07T12:41:01.303Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -473,7 +473,7 @@
       {
         "adultContent": false,
         "createdAt": "2006-02-04T04:47:48Z",
-        "fileSize": 16198,
+        "fileSize": 12467,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -484,7 +484,10 @@
         "summary": "Morrowind Septim Coin Gold Replacer now With Dumacs (Dwemer Coins)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/1634-0-1496219452.png",
         "uid": "429496731234",
-        "updatedAt": "2023-08-29T09:44:35Z"
+        "updatedAt": "2026-01-06T22:20:15Z",
+        "fileIds": [
+          "1000059782"
+        ]
       },
       {
         "adultContent": false,

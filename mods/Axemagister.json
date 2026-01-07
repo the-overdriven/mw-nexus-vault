@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-01-04T23:57:13.503Z",
+  "checkedAt": "2026-01-07T12:38:47.167Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16
+        "100": 17
       }
     },
     "nodes": [
@@ -262,6 +262,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2019-08-09T20:13:36Z",
+        "fileSize": 58,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47062,
+        "name": "4NM_ALCHEMY",
+        "status": "published",
+        "summary": "No more drinking over 9000 potions! No more alchemical exploits! No more useless poisons! Poison weapons and throw poison bottles! Rebalancing potion brewing formulas. Beautiful potions icons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47062/47062-1689359107-1681344560.png",
+        "uid": "429496776662",
+        "updatedAt": "2023-02-28T10:31:46Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2019-07-26T20:13:59Z",
         "fileSize": 13087,
         "modCategory": {
@@ -281,6 +297,6 @@
         ]
       }
     ],
-    "totalCount": 16
+    "totalCount": 17
   }
 }

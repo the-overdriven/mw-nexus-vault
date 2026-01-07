@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-01-04T23:57:45.390Z",
+  "checkedAt": "2026-01-07T12:39:21.318Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34
+        "100": 35
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-05T23:37:46Z",
+        "fileSize": 94,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58046,
+        "name": "Devilish Birds (OpenMW)",
+        "status": "published",
+        "summary": "Adds birds and (optionally) cliffracers everywhere you go.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58046/58046-1767657598-1617452014.png",
+        "uid": "429496787646",
+        "updatedAt": "2026-01-05T23:37:46Z",
+        "fileIds": [
+          "1000059762"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-17T19:50:12Z",
@@ -793,6 +812,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 34
+    "totalCount": 35
   }
 }

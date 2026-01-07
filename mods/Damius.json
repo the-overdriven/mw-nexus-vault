@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-04T23:57:25.906Z",
+  "checkedAt": "2026-01-07T12:39:04.600Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-02T10:17:07Z",
-        "fileSize": 3410,
+        "fileSize": 428,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -21,11 +21,15 @@
         "summary": "Darkens the Ebony Mail to look like ebony.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58030/58030-1767347905-1249282754.png",
         "uid": "429496787630",
-        "updatedAt": "2026-01-02T10:17:07Z",
+        "updatedAt": "2026-01-06T00:04:23Z",
         "fileIds": [
           "1000059674",
+          "1000059752",
+          "1000059764",
+          "1000059754",
           "1000059672",
-          "1000059673"
+          "1000059673",
+          "1000059753"
         ]
       },
       {

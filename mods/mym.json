@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-04T23:58:48.512Z",
+  "checkedAt": "2026-01-07T12:40:27.317Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -74,7 +74,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-14T10:18:39Z",
-        "fileSize": 751,
+        "fileSize": 753,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -85,9 +85,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2025-12-05T11:30:38Z",
+        "updatedAt": "2026-01-06T09:53:44Z",
         "fileIds": [
-          "1000058946",
+          "1000059768",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -103,6 +103,7 @@
           "1000058678",
           "1000055359",
           "1000055360",
+          "1000058946",
           "1000051786",
           "1000052811",
           "1000051790",
@@ -279,16 +280,17 @@
         "modId": 54976,
         "name": "Take Cover (OpenMW)",
         "status": "published",
-        "summary": "Enemies with melee attacks will now try to hide themselves if the player attacks them from a position they cannot reach.",
+        "summary": "Actors with melee attacks will now try to hide themselves if their enemies attack them from a position they cannot reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54976/54976-1721043142-824690318.jpeg",
         "uid": "429496784576",
-        "updatedAt": "2025-08-20T08:28:07Z",
+        "updatedAt": "2026-01-06T13:40:10Z",
         "fileIds": [
-          "1000056158",
+          "1000059769",
           "1000047121",
           "1000047169",
           "1000049734",
           "1000046666",
+          "1000056158",
           "1000047243",
           "1000047021",
           "1000046289",
@@ -311,9 +313,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-01-04T23:52:26Z",
+        "updatedAt": "2026-01-07T09:25:55Z",
         "fileIds": [
-          "1000059746",
+          "1000059787",
           "1000044538",
           "1000059144",
           "1000057628",
@@ -324,6 +326,7 @@
           "1000054861",
           "1000059473",
           "1000054875",
+          "1000059746",
           "1000059547",
           "1000056988",
           "1000054468",

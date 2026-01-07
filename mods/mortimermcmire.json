@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-01-04T23:58:48.019Z",
+  "checkedAt": "2026-01-07T12:40:02.408Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 25,
+        "100": 26,
         "2176": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-06T05:04:13Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58047,
+        "name": "Blue Magic",
+        "status": "published",
+        "summary": "Adds Final Fantasy-style Blue Magic - Learn new spells by watching them being cast",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58047/58047-1767675556-1147169983.png",
+        "uid": "429496787647",
+        "updatedAt": "2026-01-06T05:04:13Z",
+        "fileIds": [
+          "1000059766"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-12-09T03:31:44Z",
@@ -310,7 +329,7 @@
       {
         "adultContent": false,
         "createdAt": "2018-05-29T03:00:37Z",
-        "fileSize": 33,
+        "fileSize": 13,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -321,13 +340,10 @@
         "summary": "This mod is intended to rebalance the Bloodmoon expansion in a variety of ways, most importantly by editing the stats of creatures and npcs.This mod rebalances Bloodmoon as if it shipped with Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45714/45714-1527562756-1159560730.png",
         "uid": "429496775314",
-        "updatedAt": "2025-05-08T14:10:57Z",
+        "updatedAt": "2026-01-05T00:32:31Z",
         "fileIds": [
-          "1000052638",
-          "1000052578",
-          "1000010348",
-          "1000016593",
-          "1000029079"
+          "1000059750",
+          "1000052638"
         ]
       },
       {
@@ -443,9 +459,13 @@
         "name": "Wandering Umbra",
         "status": "published",
         "summary": "Randomizes Umbra's location to ten different Vvardenfell locales.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44913-0-1493439725.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44913/44913-1767683335-1051576573.png",
         "uid": "429496774513",
-        "updatedAt": "2017-04-29T16:07:25Z"
+        "updatedAt": "2026-01-06T07:02:56Z",
+        "fileIds": [
+          "1000059767",
+          "1000007765"
+        ]
       },
       {
         "adultContent": false,
@@ -464,6 +484,6 @@
         "updatedAt": "2017-04-03T23:54:59Z"
       }
     ],
-    "totalCount": 25
+    "totalCount": 26
   }
 }
