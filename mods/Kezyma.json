@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-07T12:39:41.466Z",
+  "checkedAt": "2026-01-09T22:47:12.111Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -7,7 +7,7 @@
         "101": 1,
         "130": 1,
         "1704": 8,
-        "2295": 3,
+        "2295": 4,
         "4187": 1
       }
     },
@@ -31,7 +31,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-10-10T13:56:39Z",
-        "fileSize": 14,
+        "fileSize": 8,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -42,12 +42,16 @@
         "summary": "This is an MWSE plugin for Morrowind that aims to provide modernised versions of vanilla mechanics in Morrowind. The plugin is fully modular and each feature can be toggled through the Mod Configuration Menu. Features Always Hit & Cast,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53606/53606-1696945957-1590762288.png",
         "uid": "429496783206",
-        "updatedAt": "2023-10-18T12:02:23Z"
+        "updatedAt": "2026-01-09T16:43:37Z",
+        "fileIds": [
+          "1000059882",
+          "1000059884"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2023-02-13T21:27:55Z",
-        "fileSize": 733,
+        "fileSize": 928,
         "modCategory": {
           "categoryId": 15,
           "name": "Utilities"
@@ -58,12 +62,12 @@
         "summary": "A plugin for Mod Organizer 2 that automatically exports your mod list, enabled plugins, and grass mods to OpenMW whenever you run the game through Mod Organizer.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52345/52345-1676311560-1311660267.png",
         "uid": "429496781945",
-        "updatedAt": "2025-05-15T21:44:51Z",
+        "updatedAt": "2026-01-09T11:44:56Z",
         "fileIds": [
-          "1000041309",
-          "1000053017",
+          "1000059864",
           "1000040580",
-          "1000053014"
+          "1000041309",
+          "1000053017"
         ]
       },
       {

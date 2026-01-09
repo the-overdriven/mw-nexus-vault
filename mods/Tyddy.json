@@ -1,14 +1,45 @@
 {
-  "checkedAt": "2026-01-07T12:41:11.716Z",
+  "checkedAt": "2026-01-09T22:47:56.613Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 39,
+        "100": 40,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-09T15:23:28Z",
+        "fileSize": 10506,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58022,
+        "name": "Moon Retexture Compilation by Tyd - Aestetika of Aetherius",
+        "status": "published",
+        "summary": "A comprehensive high-definition retexture of Masser and Secunda, part of the Aestetika of ... Project. This compilation offers lore-friendly yet visually distinct moon textures, focusing on surface detail, realistic craters, and atmospheric",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58022/58022-1767290134-685573465.png",
+        "uid": "429496787622",
+        "updatedAt": "2026-01-09T15:23:28Z",
+        "fileIds": [
+          "1000059869",
+          "1000059868",
+          "1000059874",
+          "1000059870",
+          "1000059646",
+          "1000059875",
+          "1000059871",
+          "1000059645",
+          "1000059872",
+          "1000059873",
+          "1000059647",
+          "1000059877",
+          "1000059876"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-06-10T15:27:23Z",
@@ -634,6 +665,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 39
+    "totalCount": 40
   }
 }

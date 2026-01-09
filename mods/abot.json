@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-07T12:38:45.963Z",
+  "checkedAt": "2026-01-09T22:46:01.271Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -813,9 +813,9 @@
         "summary": "Actors menu to choose who to activate between nearby actors.+ Activation animation, Auto facing, Blink Fix, Immobile actors fix",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50558/50558-1640119619-176919078.jpeg",
         "uid": "429496780158",
-        "updatedAt": "2025-12-11T17:35:25Z",
+        "updatedAt": "2026-01-07T22:40:14Z",
         "fileIds": [
-          "1000059128",
+          "1000059810",
           "1000057629",
           "1000055098",
           "1000053057",
@@ -832,6 +832,7 @@
           "1000039608",
           "1000051667",
           "1000045551",
+          "1000059128",
           "1000028565",
           "1000028931",
           "1000030292",

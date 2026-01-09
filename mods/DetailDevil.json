@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-07T12:39:21.318Z",
+  "checkedAt": "2026-01-09T22:46:51.401Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,8 +21,9 @@
         "summary": "Adds birds and (optionally) cliffracers everywhere you go.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58046/58046-1767657598-1617452014.png",
         "uid": "429496787646",
-        "updatedAt": "2026-01-05T23:37:46Z",
+        "updatedAt": "2026-01-08T20:09:50Z",
         "fileIds": [
+          "1000059836",
           "1000059762"
         ]
       },
@@ -495,33 +496,15 @@
         "summary": "Malbogatra's \"Rocky Red Mountain\" made compatible with important mods such as BCOM, Memento Mori, Red Mountain Reborn ...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53473/53473-1693964381-1684138319.png",
         "uid": "429496783073",
-        "updatedAt": "2025-05-15T17:31:58Z",
+        "updatedAt": "2026-01-09T16:02:07Z",
         "fileIds": [
           "1000050495",
-          "1000052994",
+          "1000059880",
           "1000044137",
-          "1000040064",
-          "1000040070",
-          "1000040072",
-          "1000040073",
-          "1000040080",
-          "1000040081",
           "1000040083",
-          "1000040086",
-          "1000040181",
-          "1000040098",
-          "1000044751",
-          "1000045268",
-          "1000046881",
-          "1000048511",
-          "1000048513",
-          "1000040118",
           "1000050379",
-          "1000040120",
-          "1000046883",
           "1000048512",
-          "1000050380",
-          "1000045292"
+          "1000050380"
         ]
       },
       {

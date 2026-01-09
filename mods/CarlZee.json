@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-01-07T12:39:04.202Z",
+  "checkedAt": "2026-01-09T22:46:31.951Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16,
+        "100": 17,
         "120": 5,
         "130": 63
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-08T19:07:28Z",
+        "fileSize": 1108,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58066,
+        "name": "Mazte - Playable Mahjong Card Game",
+        "status": "published",
+        "summary": "Adds a playable version of Mahjong called Mazte.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58066/58066-1767898650-1893260274.png",
+        "uid": "429496787666",
+        "updatedAt": "2026-01-08T21:02:38Z",
+        "fileIds": [
+          "1000059838"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-21T03:24:14Z",
@@ -349,6 +368,6 @@
         ]
       }
     ],
-    "totalCount": 16
+    "totalCount": 17
   }
 }
