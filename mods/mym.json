@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-09T22:47:32.707Z",
+  "checkedAt": "2026-01-14T00:41:50.769Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 64,
+        "fileSize": 65,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,13 +21,16 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-01-03T22:34:54Z",
+        "updatedAt": "2026-01-12T14:27:13Z",
         "fileIds": [
-          "1000059718",
+          "1000059967",
+          "1000059919",
           "1000058652",
           "1000058925",
           "1000058682",
           "1000058683",
+          "1000059963",
+          "1000059718",
           "1000058955",
           "1000058956",
           "1000059472",
@@ -57,15 +60,16 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2025-12-28T22:59:44Z",
+        "updatedAt": "2026-01-13T08:22:27Z",
         "fileIds": [
-          "1000059567",
+          "1000059987",
           "1000059179",
           "1000058681",
           "1000058954",
           "1000058505",
           "1000059293",
           "1000059565",
+          "1000059567",
           "1000058544",
           "1000059058",
           "1000058876"
@@ -141,7 +145,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-07T07:47:50Z",
-        "fileSize": 36,
+        "fileSize": 37,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -152,9 +156,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-01-08T17:05:49Z",
+        "updatedAt": "2026-01-12T13:02:48Z",
         "fileIds": [
-          "1000059829",
+          "1000059965",
           "1000058545",
           "1000051201",
           "1000048667",
@@ -179,6 +183,7 @@
           "1000053664",
           "1000050087",
           "1000052912",
+          "1000059829",
           "1000059318",
           "1000051643",
           "1000050365",
@@ -216,10 +221,11 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-01-09T21:25:09Z",
+        "updatedAt": "2026-01-12T17:10:51Z",
         "fileIds": [
-          "1000059893",
+          "1000059968",
           "1000047616",
+          "1000059910",
           "1000053517",
           "1000047888",
           "1000047893",
@@ -269,6 +275,7 @@
           "1000048372",
           "1000051956",
           "1000047605",
+          "1000059893",
           "1000051964"
         ]
       },
@@ -286,14 +293,15 @@
         "summary": "Actors with melee attacks will now try to hide themselves if their enemies attack them from a position they cannot reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54976/54976-1721043142-824690318.jpeg",
         "uid": "429496784576",
-        "updatedAt": "2026-01-06T13:40:10Z",
+        "updatedAt": "2026-01-11T15:53:41Z",
         "fileIds": [
-          "1000059769",
+          "1000059934",
           "1000047121",
           "1000047169",
           "1000049734",
           "1000046666",
           "1000056158",
+          "1000059769",
           "1000047243",
           "1000047021",
           "1000046289",
@@ -316,9 +324,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-01-07T09:25:55Z",
+        "updatedAt": "2026-01-12T13:28:48Z",
         "fileIds": [
-          "1000059787",
+          "1000059966",
           "1000044538",
           "1000059144",
           "1000057628",
@@ -330,6 +338,7 @@
           "1000059473",
           "1000054875",
           "1000059746",
+          "1000059787",
           "1000059547",
           "1000056988",
           "1000054468",

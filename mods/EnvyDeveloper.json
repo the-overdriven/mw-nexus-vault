@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-09T22:47:09.639Z",
+  "checkedAt": "2026-01-14T00:41:21.848Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -29,7 +29,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-12-22T18:52:29Z",
-        "fileSize": 69,
+        "fileSize": 149,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -40,9 +40,9 @@
         "summary": "Ever wish that some content from the old Tamriel Rebuilt releases were not cut? Liked some of Silneil's TG quests? Then, this mod adapts that content to Embers of Empire and makes it play nice with the new and overhauled content.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52089/52089-1671735006-1878441447.png",
         "uid": "429496781689",
-        "updatedAt": "2025-11-10T18:41:49Z",
+        "updatedAt": "2026-01-12T12:13:55Z",
         "fileIds": [
-          "1000058304",
+          "1000059964",
           "1000058298",
           "1000058299",
           "1000058300",
@@ -58,6 +58,7 @@
           "1000041416",
           "1000034267",
           "1000052467",
+          "1000058304",
           "1000041235",
           "1000052589",
           "1000049027",

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-01-09T22:46:51.401Z",
+  "checkedAt": "2026-01-14T00:40:55.876Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35
+        "100": 36
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-12T20:38:12Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58083,
+        "name": "Devilishly Peaceful Wildlife (OpenMW)",
+        "status": "published",
+        "summary": "Makes most smaller animals non-hostile such as crabs, rats, bats, foragers and makes the remaining hostile enemies warn you before they attack. This mods supports Morrowind, Bloodmoon, Tribunal, Tamriel Rebuilt, Project Tamriel creatures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58083/58083-1768249499-1887393527.png",
+        "uid": "429496787683",
+        "updatedAt": "2026-01-12T20:38:12Z",
+        "fileIds": [
+          "1000059976"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-05T23:37:46Z",
@@ -18,7 +37,7 @@
         "modId": 58046,
         "name": "Devilish Birds (OpenMW)",
         "status": "published",
-        "summary": "Adds birds and (optionally) cliffracers everywhere you go.",
+        "summary": "Adds birds and optionally cliffracers everywhere you go.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58046/58046-1767657598-1617452014.png",
         "uid": "429496787646",
         "updatedAt": "2026-01-08T20:09:50Z",
@@ -795,6 +814,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 35
+    "totalCount": 36
   }
 }

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-01-09T22:46:21.775Z",
+  "checkedAt": "2026-01-14T00:40:14.320Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17
+        "100": 18
       }
     },
     "nodes": [
@@ -25,6 +25,22 @@
         "fileIds": [
           "1000059618"
         ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-02T13:53:11Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54549,
+        "name": "Blast Shield",
+        "status": "published",
+        "summary": "Physical barriers protect against AoE spells",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54549/54549-1714657887-1619524073.jpeg",
+        "uid": "429496784149",
+        "updatedAt": "2024-05-02T13:53:11Z"
       },
       {
         "adultContent": false,
@@ -297,6 +313,6 @@
         ]
       }
     ],
-    "totalCount": 17
+    "totalCount": 18
   }
 }

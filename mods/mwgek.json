@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-09T22:47:32.623Z",
+  "checkedAt": "2026-01-14T00:41:41.848Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -214,7 +214,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-03T22:32:33Z",
-        "fileSize": 179,
+        "fileSize": 180,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -225,10 +225,11 @@
         "summary": "Uncover the mystery behind a stolen masterpiece perfume in a questline filled with intrigue, choices, and unique rewards. Will you restore justice, or strike a profitable deal?",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55529/55529-1733263404-782812878.png",
         "uid": "429496785129",
-        "updatedAt": "2025-12-03T19:47:04Z",
+        "updatedAt": "2026-01-13T19:15:04Z",
         "fileIds": [
-          "1000058907",
+          "1000059991",
           "1000048652",
+          "1000058907",
           "1000048723",
           "1000048621",
           "1000048629"

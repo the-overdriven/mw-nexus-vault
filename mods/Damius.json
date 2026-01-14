@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-09T22:46:41.958Z",
+  "checkedAt": "2026-01-14T00:40:24.075Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -439,7 +439,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-09T05:03:09Z",
-        "fileSize": 34,
+        "fileSize": 33,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -450,11 +450,12 @@
         "summary": "Glowmaps the glass and daedric items to match Glass Glowset and Daedric Weapons Enhanced.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53482/53482-1694235533-1437926442.png",
         "uid": "429496783082",
-        "updatedAt": "2025-07-23T20:00:31Z",
+        "updatedAt": "2026-01-12T17:56:22Z",
         "fileIds": [
-          "1000040105",
+          "1000059971",
           "1000040104",
-          "1000055420"
+          "1000055420",
+          "1000040105"
         ]
       },
       {

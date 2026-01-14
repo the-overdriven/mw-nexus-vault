@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-09T22:48:06.906Z",
+  "checkedAt": "2026-01-14T00:43:07.516Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-29T23:08:29Z",
-        "fileSize": 70196,
+        "fileSize": 172831,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -18,11 +18,19 @@
         "modId": 56571,
         "name": "Starwind - Guns and Gear",
         "status": "published",
-        "summary": "Replaces Starwind armor and weapons with new assets.",
+        "summary": "Replaces Starwind armor, clothes and weapons with new assets.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56571/56571-1746980101-1646817129.png",
         "uid": "429496786171",
-        "updatedAt": "2025-08-21T20:18:06Z",
-        "fileIds": []
+        "updatedAt": "2026-01-13T16:47:14Z",
+        "fileIds": [
+          "1000059988",
+          "1000053793",
+          "1000055590",
+          "1000054830",
+          "1000054076",
+          "1000055431",
+          "1000056233"
+        ]
       },
       {
         "adultContent": false,
