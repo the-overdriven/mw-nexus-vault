@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-01-14T00:40:55.876Z",
+  "checkedAt": "2026-01-17T17:42:27.553Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 36
+        "100": 37
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-17T02:33:36Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58098,
+        "name": "Devilish No Generic Daedra (OpenMW)",
+        "status": "published",
+        "summary": "Daedra belong to the realms of Oblivion unless they've been explicitly summoned. This mod removes all generic daedra from the game using a whitelist list for ids  and a blacklist for specific cells like Kora-Dur, Doors of Oblivion cells",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58098/58098-1768605661-1313953826.png",
+        "uid": "429496787698",
+        "updatedAt": "2026-01-17T02:33:36Z",
+        "fileIds": [
+          "1000060065"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-12T20:38:12Z",
@@ -814,6 +833,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 36
+    "totalCount": 37
   }
 }

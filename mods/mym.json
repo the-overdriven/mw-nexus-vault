@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-14T00:41:50.769Z",
+  "checkedAt": "2026-01-17T17:42:58.969Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,15 +21,16 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-01-12T14:27:13Z",
+        "updatedAt": "2026-01-16T15:35:30Z",
         "fileIds": [
-          "1000059967",
+          "1000060054",
           "1000059919",
           "1000058652",
           "1000058925",
           "1000058682",
           "1000058683",
           "1000059963",
+          "1000059967",
           "1000059718",
           "1000058955",
           "1000058956",
@@ -89,9 +90,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2026-01-06T09:53:44Z",
+        "updatedAt": "2026-01-16T15:22:28Z",
         "fileIds": [
-          "1000059768",
+          "1000060053",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -122,6 +123,7 @@
           "1000051826",
           "1000052596",
           "1000053623",
+          "1000059768",
           "1000056448",
           "1000051331",
           "1000058763",
@@ -221,9 +223,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-01-12T17:10:51Z",
+        "updatedAt": "2026-01-15T15:35:49Z",
         "fileIds": [
-          "1000059968",
+          "1000060031",
           "1000047616",
           "1000059910",
           "1000053517",
@@ -235,6 +237,7 @@
           "1000054320",
           "1000052019",
           "1000048441",
+          "1000059968",
           "1000049733",
           "1000059722",
           "1000049227",
@@ -249,6 +252,7 @@
           "1000047729",
           "1000047479",
           "1000048250",
+          "1000060028",
           "1000047743",
           "1000054400",
           "1000047494",
@@ -313,7 +317,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-03-20T11:14:32Z",
-        "fileSize": 28,
+        "fileSize": 29,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -324,9 +328,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-01-12T13:28:48Z",
+        "updatedAt": "2026-01-15T19:40:45Z",
         "fileIds": [
-          "1000059966",
+          "1000060035",
           "1000044538",
           "1000059144",
           "1000057628",
@@ -334,10 +338,13 @@
           "1000053049",
           "1000053050",
           "1000058171",
+          "1000059966",
           "1000054861",
           "1000059473",
           "1000054875",
           "1000059746",
+          "1000060029",
+          "1000060030",
           "1000059787",
           "1000059547",
           "1000056988",
