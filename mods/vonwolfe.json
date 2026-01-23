@@ -1,16 +1,35 @@
 {
-  "checkedAt": "2026-01-17T17:43:37.400Z",
+  "checkedAt": "2026-01-23T00:01:01.735Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 41
+        "100": 42
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-01-20T14:42:07Z",
+        "fileSize": 2567,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58107,
+        "name": "Starwind - Galaxy Map",
+        "status": "published",
+        "summary": "Starwind map replacer for stanistaw's 'Beautiful Paper Map' mod, using a modified version of S.Farnes's (Stoneward13) simplified Galactic map.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58107/58107-1768919842-198167431.png",
+        "uid": "429496787707",
+        "updatedAt": "2026-01-20T14:42:07Z",
+        "fileIds": [
+          "1000060125"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-05-29T23:08:29Z",
-        "fileSize": 172831,
+        "fileSize": 175060,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -21,13 +40,14 @@
         "summary": "Replaces Starwind armor, clothes and weapons with new assets.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56571/56571-1746980101-1646817129.png",
         "uid": "429496786171",
-        "updatedAt": "2026-01-13T16:47:14Z",
+        "updatedAt": "2026-01-21T17:07:06Z",
         "fileIds": [
-          "1000059988",
+          "1000060146",
           "1000053793",
           "1000055590",
           "1000054830",
           "1000054076",
+          "1000059988",
           "1000055431",
           "1000056233"
         ]
@@ -82,7 +102,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 655508,
+        "fileSize": 699440,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -93,9 +113,9 @@
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
         "uid": "429496785568",
-        "updatedAt": "2026-01-02T21:22:37Z",
+        "updatedAt": "2026-01-19T00:04:33Z",
         "fileIds": [
-          "1000059702",
+          "1000060107",
           "1000059510",
           "1000058945",
           "1000059509",
@@ -103,6 +123,7 @@
           "1000055058",
           "1000056360",
           "1000054836",
+          "1000059702",
           "1000055608",
           "1000055364",
           "1000057668",
@@ -811,6 +832,6 @@
         "updatedAt": "2020-04-11T11:26:10Z"
       }
     ],
-    "totalCount": 41
+    "totalCount": 42
   }
 }

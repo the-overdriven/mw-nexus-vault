@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-17T17:42:09.672Z",
+  "checkedAt": "2026-01-22T23:58:57.420Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -61,7 +61,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-06-01T15:18:03Z",
-        "fileSize": 101,
+        "fileSize": 4121210,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -72,10 +72,10 @@
         "summary": "Total Music Overhaul",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52965/52965-1685292814-649918941.jpeg",
         "uid": "429496782565",
-        "updatedAt": "2025-12-30T18:03:19Z",
+        "updatedAt": "2026-01-21T12:06:46Z",
         "fileIds": [
           "1000059612",
-          "1000050366"
+          "1000060140"
         ]
       },
       {

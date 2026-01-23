@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-01-17T17:42:09.398Z",
+  "checkedAt": "2026-01-22T23:58:49.244Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 71
+        "100": 72
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-21T19:30:06Z",
+        "fileSize": 30770,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58111,
+        "name": "Goldbrand Replacer Upgrade by Articus",
+        "status": "published",
+        "summary": "This mod replaces Goldbrand and Eltonbrand swords with HQ models and HQ textures (2048). Adds glowing details and animated magical effects.All you need is to place conteining files to your Morrowind/Data directory.Enjoy the game and don't",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58111/58111-1769023481-1434981487.png",
+        "uid": "429496787711",
+        "updatedAt": "2026-01-21T19:30:06Z",
+        "fileIds": [
+          "1000060148"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-01T20:34:14Z",
@@ -78,7 +97,7 @@
         "name": "Notes of the Artifact Hunter",
         "status": "published",
         "summary": "Changes text in two books: \"Famed Artifacts of Tamriel\" and \"Tamrielic lore\".",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57636/57636-1762703942-1097894612.jpg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57636/57636-1760719053-2134850139.jpg",
         "uid": "429496787236",
         "updatedAt": "2025-10-17T20:11:13Z",
         "fileIds": [
@@ -1179,6 +1198,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 71
+    "totalCount": 72
   }
 }

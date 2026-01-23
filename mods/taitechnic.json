@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-17T17:43:35.928Z",
+  "checkedAt": "2026-01-23T00:00:44.563Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-10-16T20:35:23Z",
-        "fileSize": 1071,
+        "fileSize": 1545,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -18,16 +18,14 @@
         "modId": 57633,
         "name": "OpenMW Dynamic Animations",
         "status": "published",
-        "summary": "UPDATE: By request, attempted improvement of vanilla female walk animation. Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations.",
+        "summary": "UPDATE: Limit the speed of footstep sounds in First Person. Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57633/57633-1760646399-2125603799.png",
         "uid": "429496787233",
-        "updatedAt": "2025-12-30T22:10:44Z",
+        "updatedAt": "2026-01-22T19:55:45Z",
         "fileIds": [
-          "1000059620",
-          "1000059137",
-          "1000058457",
-          "1000059279",
-          "1000059307"
+          "1000060172",
+          "1000060174",
+          "1000059620"
         ]
       },
       {
@@ -91,10 +89,11 @@
         "summary": "UPDATE: Preview camera mode now properly supported. Adds visual effects and sounds when you hit objects in the world. For OpenMW 0.49.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55508/55508-1732926148-1534225161.png",
         "uid": "429496785108",
-        "updatedAt": "2025-07-07T19:07:41Z",
+        "updatedAt": "2026-01-17T17:54:36Z",
         "fileIds": [
-          "1000055033",
-          "1000052093"
+          "1000060074",
+          "1000052093",
+          "1000055033"
         ]
       },
       {

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-17T17:42:18.983Z",
+  "checkedAt": "2026-01-22T23:59:06.345Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -167,7 +167,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-15T04:48:15Z",
-        "fileSize": 1446,
+        "fileSize": 1449,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -178,12 +178,12 @@
         "summary": "Adds 3 casinos and 5 new games to win money, or lose it all!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56015/56015-1739594091-1699564414.png",
         "uid": "429496785615",
-        "updatedAt": "2025-07-04T04:19:32Z",
+        "updatedAt": "2026-01-17T21:10:28Z",
         "fileIds": [
-          "1000052321",
-          "1000054916",
+          "1000060078",
           "1000050446",
           "1000051518",
+          "1000052321",
           "1000051091",
           "1000051110",
           "1000050405",

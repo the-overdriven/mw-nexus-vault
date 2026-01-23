@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-01-17T17:43:35.461Z",
+  "checkedAt": "2026-01-23T00:00:35.097Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 11
+        "100": 12
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-22T11:01:50Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58114,
+        "name": "Attack Types Matter",
+        "status": "published",
+        "summary": "Have you ever whished that weapons had slashing, piercing, and bludgeoning damage types? Have you whished that someone had screened all creatures in the game, and gave them resistances and weaknesses that felt appropriate? That silver was",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58114/58114-1769079421-1655337852.jpg",
+        "uid": "429496787714",
+        "updatedAt": "2026-01-22T11:01:50Z",
+        "fileIds": [
+          "1000060163"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-11T12:43:15Z",
@@ -241,6 +260,6 @@
         ]
       }
     ],
-    "totalCount": 11
+    "totalCount": 12
   }
 }
