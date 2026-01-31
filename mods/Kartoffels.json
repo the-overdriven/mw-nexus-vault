@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-22T23:59:34.247Z",
+  "checkedAt": "2026-01-31T02:07:24.384Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -241,7 +241,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-07-27T16:58:10Z",
-        "fileSize": 22549,
+        "fileSize": 22713,
         "modCategory": {
           "categoryId": 6,
           "name": "Body, Face, and Hair"
@@ -252,9 +252,10 @@
         "summary": "\"Lore/Immersion friendly\" hair that doesn't have clipping issues for MacKom Heads.Note: This was originally a \"fixer\" of the (not Galleo) Races Redone, but since that doesn't exist anymore here it is along with all my fixes. So you can",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47017/47017-1765942342-788569122.png",
         "uid": "429496776617",
-        "updatedAt": "2025-12-17T04:19:44Z",
+        "updatedAt": "2026-01-25T22:59:02Z",
         "fileIds": [
           "1000059286",
+          "1000060255",
           "1000059287",
           "1000016899",
           "1000017056",

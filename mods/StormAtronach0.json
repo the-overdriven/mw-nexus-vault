@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-23T00:00:35.097Z",
+  "checkedAt": "2026-01-31T02:08:24.628Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,20 +10,23 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-22T11:01:50Z",
-        "fileSize": 16,
+        "fileSize": 30,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
         },
         "modId": 58114,
-        "name": "Attack Types Matter",
+        "name": "Attack Types Matter - MWSE",
         "status": "published",
-        "summary": "Have you ever whished that weapons had slashing, piercing, and bludgeoning damage types? Have you whished that someone had screened all creatures in the game, and gave them resistances and weaknesses that felt appropriate? That silver was",
+        "summary": "Have you ever wished that weapons had slashing, piercing, and bludgeoning damage types? Have you wished that someone had screened all creatures in the game, and gave them resistances and weaknesses that felt appropriate? That silver was",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58114/58114-1769079421-1655337852.jpg",
         "uid": "429496787714",
-        "updatedAt": "2026-01-22T11:01:50Z",
+        "updatedAt": "2026-01-29T12:45:00Z",
         "fileIds": [
-          "1000060163"
+          "1000060346",
+          "1000060163",
+          "1000060182",
+          "1000060320"
         ]
       },
       {

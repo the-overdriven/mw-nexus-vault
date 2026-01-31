@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-22T23:59:05.991Z",
+  "checkedAt": "2026-01-31T02:06:26.954Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-08-24T17:57:01Z",
-        "fileSize": 9886,
+        "fileSize": 4429,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -21,25 +21,30 @@
         "summary": "Uncompressed Morrowind, Tamriel Data and OAAB vanilla resolution textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57355/57355-1756055914-602731062.png",
         "uid": "429496786955",
-        "updatedAt": "2026-01-08T08:32:10Z",
+        "updatedAt": "2026-01-26T05:50:42Z",
         "fileIds": [
           "1000056531",
           "1000058220",
           "1000056530",
           "1000056534",
+          "1000060229",
           "1000058179",
           "1000059817",
           "1000057644",
           "1000059032",
+          "1000060266",
           "1000059031",
           "1000059185",
           "1000056521",
           "1000056522",
           "1000056520",
           "1000059187",
+          "1000060228",
           "1000056517",
+          "1000060227",
           "1000056445",
           "1000059818",
+          "1000060268",
           "1000056543",
           "1000057642",
           "1000056542",
@@ -232,7 +237,7 @@
       {
         "adultContent": false,
         "createdAt": "2015-08-17T18:31:14Z",
-        "fileSize": 1,
+        "fileSize": 1043,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -243,7 +248,7 @@
         "summary": "Small mods, tweaks and fixes.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43795-4-1439835554.jpg",
         "uid": "429496773395",
-        "updatedAt": "2026-01-06T18:43:17Z",
+        "updatedAt": "2026-01-27T05:03:08Z",
         "fileIds": [
           "1000042878",
           "1000039579",
@@ -263,6 +268,7 @@
           "1000056930",
           "1000042570",
           "1000051505",
+          "1000060294",
           "1000041171",
           "1000051516",
           "1000051106",

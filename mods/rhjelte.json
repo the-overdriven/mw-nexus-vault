@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-23T00:00:33.799Z",
+  "checkedAt": "2026-01-31T02:08:15.581Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -67,21 +67,22 @@
       {
         "adultContent": false,
         "createdAt": "2025-07-24T22:43:02Z",
-        "fileSize": 14,
+        "fileSize": 15,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
         },
         "modId": 57178,
-        "name": "Modernized 1st Person Experience (MWSE)",
+        "name": "Modernized 1st Person Experience (MWSE) - Head bobbing and camera animations etc",
         "status": "published",
-        "summary": "(1.6) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
+        "summary": "(1.7) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57178/57178-1754004564-620699054.jpg",
         "uid": "429496786778",
-        "updatedAt": "2025-08-08T19:10:14Z",
+        "updatedAt": "2026-01-29T22:13:14Z",
         "fileIds": [
-          "1000055765",
+          "1000060354",
           "1000055697",
+          "1000055765",
           "1000055600",
           "1000055623",
           "1000055645",

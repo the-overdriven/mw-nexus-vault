@@ -1,12 +1,54 @@
 {
-  "checkedAt": "2026-01-22T23:58:49.244Z",
+  "checkedAt": "2026-01-31T02:05:17.227Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 72
+        "100": 74
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-28T15:21:04Z",
+        "fileSize": 1755,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58143,
+        "name": "Mehrunes Razor Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces Mehrunes Dagon Razor with HQ model and HQ texture (2048 px), adds glowing elements and animated effect.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58143/58143-1769607574-99601439.png",
+        "uid": "429496787743",
+        "updatedAt": "2026-01-28T15:21:04Z",
+        "fileIds": [
+          "1000060330"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-24T12:39:21Z",
+        "fileSize": 8878,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 58125,
+        "name": "Randagulf the Bravest",
+        "status": "published",
+        "summary": "This mod replaces Fists of Randagulf and adds new parts of the set with HQ models and textures (2048) and glowing maps. You can get these parts only with Telekinesis spell!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58125/58125-1769257124-1321826832.png",
+        "uid": "429496787725",
+        "updatedAt": "2026-01-25T13:46:57Z",
+        "fileIds": [
+          "1000060212",
+          "1000060213",
+          "1000060215",
+          "1000060214",
+          "1000060235"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-21T19:30:06Z",
@@ -164,7 +206,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-10-12T10:55:33Z",
-        "fileSize": 1390,
+        "fileSize": 1698,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -175,9 +217,9 @@
         "summary": "Replaces daedric warhammer \"Veloth's Judgement\" with HQ model and HQ texture (2048 px) in concept art style, adds glowing elements.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57611/57611-1760266027-313987435.png",
         "uid": "429496787211",
-        "updatedAt": "2025-10-12T11:25:23Z",
+        "updatedAt": "2026-01-25T18:56:06Z",
         "fileIds": [
-          "1000057603"
+          "1000060245"
         ]
       },
       {
@@ -298,7 +340,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-22T12:56:58Z",
-        "fileSize": 1236,
+        "fileSize": 2437,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -309,7 +351,10 @@
         "summary": "Replaces Fang of Haynekhtnamet with HQ model and HQ textures (1024/512 px) and adds glowing elements. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57490/57490-1758545662-1511948111.png",
         "uid": "429496787090",
-        "updatedAt": "2025-09-22T13:53:35Z"
+        "updatedAt": "2026-01-25T17:43:34Z",
+        "fileIds": [
+          "1000060242"
+        ]
       },
       {
         "adultContent": false,
@@ -330,7 +375,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-20T17:46:01Z",
-        "fileSize": 2256,
+        "fileSize": 3437,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -341,7 +386,10 @@
         "summary": "Replaces Spear of Bitter Mercy and Fork of Horripilation with HQ models and HQ textures (2048/1024 px).  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57477/57477-1758390175-1004021086.png",
         "uid": "429496787077",
-        "updatedAt": "2025-09-20T17:46:01Z"
+        "updatedAt": "2026-01-25T18:14:28Z",
+        "fileIds": [
+          "1000060244"
+        ]
       },
       {
         "adultContent": false,
@@ -461,7 +509,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-06-03T15:27:18Z",
-        "fileSize": 1401,
+        "fileSize": 1442,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -470,14 +518,17 @@
         "name": "Masque of Clavicus Vile Replacer",
         "status": "published",
         "summary": "Replaces Masque of Clavicus Vile with HQ model and HQ textures (1024 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56850/56850-1753799455-209609378.jpg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56850/56850-1769381794-677814836.png",
         "uid": "429496786450",
-        "updatedAt": "2025-06-03T15:27:18Z"
+        "updatedAt": "2026-01-28T16:06:53Z",
+        "fileIds": [
+          "1000060332"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-05-31T21:32:56Z",
-        "fileSize": 635,
+        "fileSize": 909,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -488,7 +539,10 @@
         "summary": "Replaces Mace of Molag Bal with HQ model and HQ texture (1024 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56817/56817-1753805650-1212831222.jpg",
         "uid": "429496786417",
-        "updatedAt": "2025-05-31T21:32:56Z"
+        "updatedAt": "2026-01-28T12:34:19Z",
+        "fileIds": [
+          "1000060327"
+        ]
       },
       {
         "adultContent": false,
@@ -624,7 +678,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-07T09:17:04Z",
-        "fileSize": 24360,
+        "fileSize": 12189,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -633,9 +687,12 @@
         "name": "Epic Trees - Ascadian Isles",
         "status": "published",
         "summary": "Yet another Ascadian Isles tree replacer, based on observation of real trees, supported by Vurt. Effects 2 types of trees, bush and Emperor Parasol. All you need is to place conteining files to your Morrowind/Data directory.Enjoy the game",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56509/56509-1746609204-1821309518.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56509/56509-1769457645-1697340860.png",
         "uid": "429496786109",
-        "updatedAt": "2025-05-13T17:07:25Z"
+        "updatedAt": "2026-01-25T22:46:35Z",
+        "fileIds": [
+          "1000060254"
+        ]
       },
       {
         "adultContent": false,
@@ -800,7 +857,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-04T00:43:50Z",
-        "fileSize": 151375,
+        "fileSize": 151453,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -811,7 +868,10 @@
         "summary": "Retexture of caverns with HQ resoultion (2048). All textures are fully reworked and lore friendly.All you need is to place conteining files to your Morrowind/Data Files directory.Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55921/55921-1738702107-2035573539.jpeg",
         "uid": "429496785521",
-        "updatedAt": "2025-03-13T17:17:06Z"
+        "updatedAt": "2026-01-25T20:02:02Z",
+        "fileIds": [
+          "1000060247"
+        ]
       },
       {
         "adultContent": false,
@@ -1198,6 +1258,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 72
+    "totalCount": 74
   }
 }

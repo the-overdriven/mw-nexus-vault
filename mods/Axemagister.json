@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-01-22T23:58:57.420Z",
+  "checkedAt": "2026-01-31T02:06:26.564Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 18
+        "100": 19
       }
     },
     "nodes": [
@@ -262,6 +262,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2019-09-11T17:15:45Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47170,
+        "name": "HardSave",
+        "status": "published",
+        "summary": "You cannot save the game in battle.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47170/47170-1568222066-2116826821.jpeg",
+        "uid": "429496776770",
+        "updatedAt": "2019-09-11T17:15:45Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2019-09-10T21:39:26Z",
         "fileSize": 5,
         "modCategory": {
@@ -313,6 +329,6 @@
         ]
       }
     ],
-    "totalCount": 18
+    "totalCount": 19
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-01-23T00:00:08.607Z",
+  "checkedAt": "2026-01-31T02:07:35.344Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 65,
+        "fileSize": 66,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,9 +21,9 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-01-20T09:33:57Z",
+        "updatedAt": "2026-01-29T11:43:18Z",
         "fileIds": [
-          "1000060122",
+          "1000060344",
           "1000059919",
           "1000058652",
           "1000058925",
@@ -39,6 +39,7 @@
           "1000059519",
           "1000059525",
           "1000058506",
+          "1000060299",
           "1000060054",
           "1000059294",
           "1000059303",
@@ -47,7 +48,8 @@
           "1000058542",
           "1000059060",
           "1000060110",
-          "1000060116"
+          "1000060116",
+          "1000060122"
         ]
       },
       {
@@ -64,12 +66,13 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-01-13T08:22:27Z",
+        "updatedAt": "2026-01-29T12:33:07Z",
         "fileIds": [
-          "1000059987",
+          "1000060345",
           "1000059179",
           "1000058681",
           "1000058954",
+          "1000059987",
           "1000058505",
           "1000059293",
           "1000059565",
@@ -93,9 +96,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2026-01-18T17:00:39Z",
+        "updatedAt": "2026-01-27T15:11:20Z",
         "fileIds": [
-          "1000060099",
+          "1000060300",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -123,8 +126,10 @@
           "1000055395",
           "1000056939",
           "1000051821",
+          "1000060273",
           "1000051826",
           "1000052596",
+          "1000060277",
           "1000053623",
           "1000059768",
           "1000056448",
@@ -137,6 +142,7 @@
           "1000052651",
           "1000058797",
           "1000050361",
+          "1000060099",
           "1000050885",
           "1000052933",
           "1000052422",
@@ -162,9 +168,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-01-12T13:02:48Z",
+        "updatedAt": "2026-01-26T08:22:38Z",
         "fileIds": [
-          "1000059965",
+          "1000060270",
           "1000058545",
           "1000051201",
           "1000048667",
@@ -173,6 +179,7 @@
           "1000048935",
           "1000051501",
           "1000048690",
+          "1000059965",
           "1000054341",
           "1000055367",
           "1000049228",
@@ -332,9 +339,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-01-17T21:23:13Z",
+        "updatedAt": "2026-01-26T08:44:36Z",
         "fileIds": [
-          "1000060079",
+          "1000060272",
           "1000044538",
           "1000059144",
           "1000057628",
@@ -353,6 +360,7 @@
           "1000059787",
           "1000059547",
           "1000056988",
+          "1000060079",
           "1000054468",
           "1000054471",
           "1000056532",
