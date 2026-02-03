@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-01-31T02:06:26.877Z",
+  "checkedAt": "2026-02-03T23:13:18.239Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 7
       }
     },
     "nodes": [
@@ -43,25 +43,6 @@
         "updatedAt": "2024-11-12T12:16:03Z",
         "fileIds": [
           "1000048218"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2022-08-26T15:50:02Z",
-        "fileSize": 2,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 51781,
-        "name": "Saint's Glory - Stronger Shrine Blessings",
-        "status": "published",
-        "summary": "Increase the power and duration of dunmeri saints and the Tribunal shrine blessings. Also change them to fit more to the lore of the saints.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51781/51781-1661528866-483550478.jpeg",
-        "uid": "429496781381",
-        "updatedAt": "2022-08-26T15:50:02Z",
-        "fileIds": [
-          "1000032822"
         ]
       },
       {
@@ -173,6 +154,6 @@
         ]
       }
     ],
-    "totalCount": 8
+    "totalCount": 7
   }
 }

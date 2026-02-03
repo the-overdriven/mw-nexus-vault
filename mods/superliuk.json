@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-01-31T02:08:33.234Z",
+  "checkedAt": "2026-02-03T23:15:13.595Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48
+        "100": 47
       }
     },
     "nodes": [
@@ -210,25 +210,6 @@
         "updatedAt": "2025-06-17T18:14:15Z",
         "fileIds": [
           "1000054503"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-06-12T17:02:42Z",
-        "fileSize": 5,
-        "modCategory": {
-          "categoryId": 28,
-          "name": "Patches"
-        },
-        "modId": 56925,
-        "name": "The Legend of Monkey Island - SSQN OpenMW",
-        "status": "published",
-        "summary": "Adds icon for quests.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56925/56925-1749725360-1415978831.png",
-        "uid": "429496786525",
-        "updatedAt": "2025-06-12T17:02:42Z",
-        "fileIds": [
-          "1000054353"
         ]
       },
       {
@@ -875,6 +856,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 48
+    "totalCount": 47
   }
 }
