@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-03T23:12:18.808Z",
+  "checkedAt": "2026-02-07T01:46:36.264Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -576,8 +576,9 @@
         "summary": "Makes MCM filter/Console text input clear by clicking the input text space.If you have UIExpansion installed it should  also work with most of UI Expansion text input filters (unless you have other mod conflicts. At least, it works for me,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52678/52678-1681560603-131396011.jpeg",
         "uid": "429496782278",
-        "updatedAt": "2025-12-21T13:50:52Z",
+        "updatedAt": "2026-02-05T14:40:18Z",
         "fileIds": [
+          "1000060477",
           "1000059396",
           "1000054575",
           "1000037191",

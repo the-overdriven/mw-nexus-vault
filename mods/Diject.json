@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-03T23:14:23.172Z",
+  "checkedAt": "2026-02-07T01:47:02.325Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-06T11:29:36Z",
-        "fileSize": 4242,
+        "fileSize": 4245,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -21,9 +21,9 @@
         "summary": "In-game interactive world and local map with search, notes, fast travel, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57881/57881-1768123149-272268542.png",
         "uid": "429496787481",
-        "updatedAt": "2026-01-25T11:11:02Z",
+        "updatedAt": "2026-02-04T18:53:54Z",
         "fileIds": [
-          "1000060169",
+          "1000060472",
           "1000058976",
           "1000058977",
           "1000060230",
@@ -41,6 +41,7 @@
           "1000059920",
           "1000060113",
           "1000060130",
+          "1000060169",
           "1000058980",
           "1000059924",
           "1000059772",

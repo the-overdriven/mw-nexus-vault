@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-03T23:15:13.858Z",
+  "checkedAt": "2026-02-07T01:48:09.342Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,11 +21,12 @@
         "summary": "UPDATE: Limit the speed of footstep sounds in First Person. Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57633/57633-1760646399-2125603799.png",
         "uid": "429496787233",
-        "updatedAt": "2026-02-01T21:46:51Z",
+        "updatedAt": "2026-02-04T22:28:22Z",
         "fileIds": [
           "1000060172",
-          "1000060425",
+          "1000060474",
           "1000059620",
+          "1000060425",
           "1000060248",
           "1000060390"
         ]

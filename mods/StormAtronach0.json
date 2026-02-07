@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-03T23:15:06.832Z",
+  "checkedAt": "2026-02-07T01:48:01.622Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -33,7 +33,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-11T12:43:15Z",
-        "fileSize": 4,
+        "fileSize": 8,
         "modCategory": {
           "categoryId": 15,
           "name": "Utilities"
@@ -44,14 +44,15 @@
         "summary": "A lightweight MWSE mod that optimizes Lua's garbage collector to reduce frame stutters during gameplay.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58080/58080-1768134747-160476972.jpg",
         "uid": "429496787680",
-        "updatedAt": "2026-01-12T05:00:21Z",
+        "updatedAt": "2026-02-06T19:12:07Z",
         "fileIds": [
-          "1000059960",
+          "1000060499",
           "1000059942",
           "1000059927",
           "1000059941",
           "1000059950",
-          "1000059957"
+          "1000059957",
+          "1000059960"
         ]
       },
       {

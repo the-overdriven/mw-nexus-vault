@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-03T23:15:24.179Z",
+  "checkedAt": "2026-02-07T01:48:18.724Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -86,7 +86,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-23T15:00:07Z",
-        "fileSize": 96333,
+        "fileSize": 153314,
         "modCategory": {
           "categoryId": 19,
           "name": "Creatures"
@@ -97,13 +97,19 @@
         "summary": "Replaces Starwind's creature models with updated assets. Requires Starwind Enhanced and Tamriel Data.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56075/56075-1740832344-846661692.png",
         "uid": "429496785675",
-        "updatedAt": "2025-09-21T16:05:41Z",
-        "fileIds": []
+        "updatedAt": "2026-02-05T18:29:06Z",
+        "fileIds": [
+          "1000060485",
+          "1000056971",
+          "1000050842",
+          "1000050867",
+          "1000050673"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 688036,
+        "fileSize": 691000,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -114,18 +120,20 @@
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
         "uid": "429496785568",
-        "updatedAt": "2026-01-23T09:24:13Z",
+        "updatedAt": "2026-02-05T23:11:31Z",
         "fileIds": [
-          "1000060186",
+          "1000060489",
           "1000059510",
           "1000058945",
           "1000059509",
           "1000058970",
           "1000055058",
+          "1000060186",
           "1000056360",
           "1000054836",
           "1000059702",
           "1000055608",
+          "1000060475",
           "1000055364",
           "1000057668",
           "1000054604",
