@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-07T01:48:00.045Z",
+  "checkedAt": "2026-02-09T01:12:08.528Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -12,7 +12,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-24T06:17:00Z",
-        "fileSize": 24472,
+        "fileSize": 24657,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -23,11 +23,12 @@
         "summary": "Explore a new cave system that goes from the Bitter Coast all the way to the West Gash and discover its ancient treasure.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57935/57935-1766555940-252545149.jpg",
         "uid": "429496787535",
-        "updatedAt": "2025-12-26T05:11:56Z",
+        "updatedAt": "2026-02-07T15:19:59Z",
         "fileIds": [
-          "1000059503",
+          "1000060519",
           "1000059504",
-          "1000059464"
+          "1000059464",
+          "1000059503"
         ]
       },
       {

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-02-07T01:46:53.344Z",
+  "checkedAt": "2026-02-09T01:10:43.888Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19
+        "100": 20
       }
     },
     "nodes": [
@@ -230,6 +230,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2021-05-03T11:25:50Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49657,
+        "name": "N'wah Shooter - Marksman Overhaul",
+        "status": "published",
+        "summary": "Realistic gravity for arrows. Shaking hands when pulling the string. Multi-shot ability. Arrows stay in objects and ground.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49657/49657-1620041064-668286697.jpeg",
+        "uid": "429496779257",
+        "updatedAt": "2024-12-19T10:26:30Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2021-05-02T12:24:46Z",
         "fileSize": 2,
         "modCategory": {
@@ -311,7 +327,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-07-26T20:13:59Z",
-        "fileSize": 13087,
+        "fileSize": 13150,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -322,13 +338,13 @@
         "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
         "uid": "429496776615",
-        "updatedAt": "2025-12-15T07:57:38Z",
+        "updatedAt": "2026-02-08T07:48:37Z",
         "fileIds": [
           "1000050367",
-          "1000059239"
+          "1000060539"
         ]
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }

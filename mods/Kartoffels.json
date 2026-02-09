@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-02-07T01:47:27.151Z",
+  "checkedAt": "2026-02-09T01:11:24.331Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 12,
+        "100": 13,
         "101": 9,
         "110": 1,
         "941": 11,
@@ -14,6 +14,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-08T03:24:37Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 58181,
+        "name": "Kart's Shader Collection for OpenMW (Toon and Soft Shadow)",
+        "status": "published",
+        "summary": "Collection of shaders for OpenMW: 1. Toon Shader, 2. Soft Shadows.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58181/58181-1770519591-279356004.jpg",
+        "uid": "429496787781",
+        "updatedAt": "2026-02-08T07:05:14Z",
+        "fileIds": [
+          "1000060538"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-06T22:17:38Z",
@@ -273,6 +292,6 @@
         ]
       }
     ],
-    "totalCount": 12
+    "totalCount": 13
   }
 }

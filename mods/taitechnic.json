@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-07T01:48:09.342Z",
+  "checkedAt": "2026-02-09T01:12:17.903Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-10-16T20:35:23Z",
-        "fileSize": 1545,
+        "fileSize": 1598,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -21,14 +21,12 @@
         "summary": "UPDATE: Limit the speed of footstep sounds in First Person. Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57633/57633-1760646399-2125603799.png",
         "uid": "429496787233",
-        "updatedAt": "2026-02-04T22:28:22Z",
+        "updatedAt": "2026-02-08T21:26:02Z",
         "fileIds": [
-          "1000060172",
+          "1000060562",
           "1000060474",
-          "1000059620",
-          "1000060425",
-          "1000060248",
-          "1000060390"
+          "1000060172",
+          "1000060248"
         ]
       },
       {
@@ -138,7 +136,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-06-02T21:55:16Z",
-        "fileSize": 1953,
+        "fileSize": 2040,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -149,12 +147,11 @@
         "summary": "Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC's. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54782/54782-1717364168-367310833.png",
         "uid": "429496784382",
-        "updatedAt": "2026-01-30T21:15:51Z",
+        "updatedAt": "2026-02-08T21:12:49Z",
         "fileIds": [
-          "1000060371",
+          "1000060561",
           "1000054388",
-          "1000059402",
-          "1000059550",
+          "1000060371",
           "1000059110"
         ]
       },
@@ -272,7 +269,12 @@
         "summary": "NEW version for Full Working of Kezyma's Voices of Vvardenfell, all dialogue now playable. OpenMW 0.49 only.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54137/54137-1715723746-1396111053.png",
         "uid": "429496783737",
-        "updatedAt": "2025-03-06T21:05:02Z"
+        "updatedAt": "2026-02-08T21:03:11Z",
+        "fileIds": [
+          "1000060559",
+          "1000043291",
+          "1000050970"
+        ]
       }
     ],
     "totalCount": 13
