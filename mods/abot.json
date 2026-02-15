@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-09T01:10:26.283Z",
+  "checkedAt": "2026-02-15T22:52:39.019Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -943,8 +943,9 @@
         "summary": "A MWSE-Lua MCM panel to see and copy to Windows clipboard your current standard mods loading order + your loaded MWSE-Lua mods, so you can easily paste it online in case of problems.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50214/50214-1630761711-1276911419.jpeg",
         "uid": "429496779814",
-        "updatedAt": "2025-07-03T20:36:12Z",
+        "updatedAt": "2026-02-15T11:50:25Z",
         "fileIds": [
+          "1000060740",
           "1000054901",
           "1000026695",
           "1000028447"

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-02-09T01:11:31.273Z",
+  "checkedAt": "2026-02-15T22:54:20.738Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 2
+        "100": 1
       }
     },
     "nodes": [
@@ -22,24 +22,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56527/56527-1746696957-1501044648.png",
         "uid": "429496786127",
         "updatedAt": "2025-05-08T09:40:11Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-05T15:30:01Z",
-        "fileSize": 80,
-        "modCategory": {
-          "categoryId": 27,
-          "name": "Player homes"
-        },
-        "modId": 56493,
-        "name": "Herbist Cottage",
-        "status": "published",
-        "summary": "Herbist Cottage is a small home overlooking Fields of Kummu, made just for me - a herbalist at heart.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56493/56493-1746458035-102558401.png",
-        "uid": "429496786093",
-        "updatedAt": "2025-05-05T18:00:51Z"
       }
     ],
-    "totalCount": 2
+    "totalCount": 1
   }
 }

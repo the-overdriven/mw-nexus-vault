@@ -1,14 +1,30 @@
 {
-  "checkedAt": "2026-02-09T01:11:22.072Z",
+  "checkedAt": "2026-02-15T22:53:48.835Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 22,
+        "100": 23,
         "1151": 1,
         "6119": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-01T16:15:25Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 56277,
+        "name": "Accurate Crate Lid",
+        "status": "published",
+        "summary": "Morrowind is finally playable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56277/56277-1743442947-1926297924.png",
+        "uid": "429496785877",
+        "updatedAt": "2025-04-01T16:15:25Z"
+      },
       {
         "adultContent": false,
         "createdAt": "2025-01-07T01:10:24Z",
@@ -365,6 +381,6 @@
         "updatedAt": "2024-10-12T06:44:18Z"
       }
     ],
-    "totalCount": 22
+    "totalCount": 23
   }
 }

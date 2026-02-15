@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-09T01:12:42.845Z",
+  "checkedAt": "2026-02-15T22:56:02.264Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -121,7 +121,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-07-26T21:49:56Z",
-        "fileSize": 1117,
+        "fileSize": 1115,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -132,12 +132,16 @@
         "summary": "Overhaul of both the exterior and interior of the Shrine of Azura.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53277/53277-1690409032-1572823910.png",
         "uid": "429496782877",
-        "updatedAt": "2024-01-11T20:47:26Z"
+        "updatedAt": "2026-02-10T21:01:16Z",
+        "fileIds": [
+          "1000060623",
+          "1000042005"
+        ]
       },
       {
         "adultContent": false,
         "createdAt": "2023-04-28T19:42:29Z",
-        "fileSize": 5230,
+        "fileSize": 5229,
         "modCategory": {
           "categoryId": 2,
           "name": "Buildings"
@@ -148,10 +152,11 @@
         "summary": "Overhaul of Almalexia's High Chapel in Mournhold, a mod for #ALMSIVI23 challenge.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52737/52737-1682709110-1930928044.png",
         "uid": "429496782337",
-        "updatedAt": "2025-07-11T21:15:26Z",
+        "updatedAt": "2026-02-13T14:45:30Z",
         "fileIds": [
-          "1000053271",
-          "1000055176"
+          "1000060679",
+          "1000055176",
+          "1000053271"
         ]
       },
       {
@@ -473,7 +478,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-05-02T17:59:00Z",
-        "fileSize": 32261,
+        "fileSize": 20874,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -484,16 +489,17 @@
         "summary": "A fully animated overhaul of Akulakhan's chamber.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49644/49644-1620763734-506062943.gif",
         "uid": "429496779244",
-        "updatedAt": "2025-02-08T14:09:55Z",
+        "updatedAt": "2026-02-13T14:51:53Z",
         "fileIds": [
-          "1000050160",
+          "1000060682",
           "1000033033",
           "1000042006",
           "1000024423",
           "1000024432",
           "1000033199",
           "1000036307",
-          "1000024304"
+          "1000024304",
+          "1000050160"
         ]
       },
       {

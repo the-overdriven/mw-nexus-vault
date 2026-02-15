@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-09T01:11:24.331Z",
+  "checkedAt": "2026-02-15T22:54:12.534Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -17,7 +17,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-02-08T03:24:37Z",
-        "fileSize": 12,
+        "fileSize": 14,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -28,9 +28,9 @@
         "summary": "Collection of shaders for OpenMW: 1. Toon Shader, 2. Soft Shadows.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58181/58181-1770519591-279356004.jpg",
         "uid": "429496787781",
-        "updatedAt": "2026-02-08T07:05:14Z",
+        "updatedAt": "2026-02-09T21:35:02Z",
         "fileIds": [
-          "1000060538"
+          "1000060601"
         ]
       },
       {

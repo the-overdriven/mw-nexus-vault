@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-02-09T01:12:17.595Z",
+  "checkedAt": "2026-02-15T22:55:44.623Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 47
+        "100": 48
       }
     },
     "nodes": [
@@ -210,6 +210,27 @@
         "updatedAt": "2025-06-17T18:14:15Z",
         "fileIds": [
           "1000054503"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-12T17:02:42Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 56925,
+        "name": "The Legend of Monkey Island - Various patches",
+        "status": "published",
+        "summary": "Some patches for The Legend of Monkey Island",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56925/56925-1770838250-223723.png",
+        "uid": "429496786525",
+        "updatedAt": "2026-02-11T18:50:26Z",
+        "fileIds": [
+          "1000054353",
+          "1000060638",
+          "1000060639"
         ]
       },
       {
@@ -856,6 +877,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 47
+    "totalCount": 48
   }
 }

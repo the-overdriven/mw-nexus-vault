@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-09T01:12:17.903Z",
+  "checkedAt": "2026-02-15T22:55:52.731Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -258,7 +258,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-02-10T21:12:32Z",
-        "fileSize": 3,
+        "fileSize": 4,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -266,13 +266,14 @@
         "modId": 54137,
         "name": "OpenMW Voices of Vvardenfell patch",
         "status": "published",
-        "summary": "NEW version for Full Working of Kezyma's Voices of Vvardenfell, all dialogue now playable. OpenMW 0.49 only.",
+        "summary": "NEW version no longer needs ESP dialogue patches!! (Read the requirements) OpenMW script for running Kezyma's \"Voices of Vvardenfell\", and other voiced dialogue mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54137/54137-1715723746-1396111053.png",
         "uid": "429496783737",
-        "updatedAt": "2026-02-08T21:03:11Z",
+        "updatedAt": "2026-02-14T19:54:01Z",
         "fileIds": [
-          "1000060559",
+          "1000060714",
           "1000043291",
+          "1000060559",
           "1000050970"
         ]
       }

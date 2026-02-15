@@ -1,15 +1,34 @@
 {
-  "checkedAt": "2026-02-09T01:11:39.988Z",
+  "checkedAt": "2026-02-15T22:54:30.166Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13,
+        "100": 14,
         "641": 2,
         "1931": 10,
         "2006": 14
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-14T15:30:11Z",
+        "fileSize": 180,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58224,
+        "name": "Unique NPC Greetings",
+        "status": "published",
+        "summary": "Adds ~1000 unique personalized greetings to less important NPCs, making the world feel more alive, diverse, and believable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58224/58224-1771080763-1309590262.png",
+        "uid": "429496787824",
+        "updatedAt": "2026-02-14T15:30:11Z",
+        "fileIds": [
+          "1000060712"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-01-03T00:25:58Z",
@@ -222,6 +241,6 @@
         "updatedAt": "2020-05-23T08:33:11Z"
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-09T01:11:50.323Z",
+  "checkedAt": "2026-02-15T22:54:48.224Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 66,
+        "fileSize": 67,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,9 +21,10 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-01-29T11:43:18Z",
+        "updatedAt": "2026-02-14T10:52:05Z",
         "fileIds": [
-          "1000060344",
+          "1000060707",
+          "1000060676",
           "1000059919",
           "1000058652",
           "1000058925",
@@ -47,6 +48,7 @@
           "1000059306",
           "1000058542",
           "1000059060",
+          "1000060344",
           "1000060110",
           "1000060116",
           "1000060122"
@@ -66,9 +68,9 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-01-29T12:33:07Z",
+        "updatedAt": "2026-02-14T10:49:22Z",
         "fileIds": [
-          "1000060345",
+          "1000060706",
           "1000059179",
           "1000058681",
           "1000058954",
@@ -79,6 +81,7 @@
           "1000059567",
           "1000058544",
           "1000059058",
+          "1000060345",
           "1000058876"
         ]
       },
@@ -157,7 +160,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-07T07:47:50Z",
-        "fileSize": 37,
+        "fileSize": 40,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -168,9 +171,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-01-26T08:22:38Z",
+        "updatedAt": "2026-02-13T10:58:24Z",
         "fileIds": [
-          "1000060270",
+          "1000060675",
           "1000058545",
           "1000051201",
           "1000048667",
@@ -189,6 +192,7 @@
           "1000057182",
           "1000056159",
           "1000055401",
+          "1000060270",
           "1000054650",
           "1000058507",
           "1000058769",
@@ -340,9 +344,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-01-26T08:44:36Z",
+        "updatedAt": "2026-02-13T11:48:44Z",
         "fileIds": [
-          "1000060272",
+          "1000060677",
           "1000044538",
           "1000059144",
           "1000057628",
@@ -355,6 +359,7 @@
           "1000059473",
           "1000054875",
           "1000059746",
+          "1000060272",
           "1000060029",
           "1000060030",
           "1000060035",

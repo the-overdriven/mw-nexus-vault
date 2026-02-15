@@ -1,15 +1,53 @@
 {
-  "checkedAt": "2026-02-09T01:11:22.855Z",
+  "checkedAt": "2026-02-15T22:53:49.566Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 61,
+        "100": 63,
         "101": 1,
         "1413": 8,
         "6892": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-11T03:26:21Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 58204,
+        "name": "Random Chance to Get Gnomed",
+        "status": "published",
+        "summary": "Anywhere from 0 seconds to 9 hours a gnome will appear behind you and go \"Woo!\" before vanishing.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58204/58204-1770780291-675384664.png",
+        "uid": "429496787804",
+        "updatedAt": "2026-02-11T03:26:21Z",
+        "fileIds": [
+          "1000060629"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-09T19:19:16Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 58194,
+        "name": "The Mananaut's Message TD Helm",
+        "status": "published",
+        "summary": "ESP replacer to make the mananaut from The Mananaut's Message use the mananaut helm in Tamriel Data.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58194/58194-1770664550-1976055301.png",
+        "uid": "429496787794",
+        "updatedAt": "2026-02-09T19:19:16Z",
+        "fileIds": [
+          "1000060596"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-01T21:59:40Z",
@@ -993,9 +1031,41 @@
         "name": "Repopulated Morrowind",
         "status": "published",
         "summary": "Adds named NPCs to all cities using leveled lists with items from TR_Data, Morrowind/Bloodmoon/Tribunal. OpenMW/MWSE/Vanilla compatible with optional Beautiful Cities of Morrowind, Tomb of the Snow Prince, Tamriel Rebuilt, and Balmora",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51174/51174-1703824691-1271875600.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51174/51174-1770834408-1719503071.jpg",
         "uid": "429496780774",
-        "updatedAt": "2024-11-12T19:13:21Z"
+        "updatedAt": "2026-02-11T18:01:59Z",
+        "fileIds": [
+          "1000041731",
+          "1000041736",
+          "1000048237",
+          "1000044831",
+          "1000047194",
+          "1000043686",
+          "1000043685",
+          "1000060636",
+          "1000040980",
+          "1000040764",
+          "1000040008",
+          "1000041097",
+          "1000039125",
+          "1000030723",
+          "1000034825",
+          "1000034587",
+          "1000033317",
+          "1000033842",
+          "1000038962",
+          "1000033361",
+          "1000030571",
+          "1000033397",
+          "1000032376",
+          "1000031896",
+          "1000032951",
+          "1000036564",
+          "1000033750",
+          "1000032238",
+          "1000033780",
+          "1000032508"
+        ]
       },
       {
         "adultContent": false,
@@ -1127,6 +1197,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 61
+    "totalCount": 63
   }
 }

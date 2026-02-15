@@ -1,12 +1,35 @@
 {
-  "checkedAt": "2026-02-09T01:11:06.522Z",
+  "checkedAt": "2026-02-15T22:53:23.710Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 43
+        "100": 44
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-11T00:39:09Z",
+        "fileSize": 30692,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58202,
+        "name": "Atlased Orange Narsis",
+        "status": "published",
+        "summary": "Swaps out the vanilla meshes in Orange Narsis for their Project Atlas, MOP, and GITD equivalents.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58202/58202-1770769235-307022479.png",
+        "uid": "429496787802",
+        "updatedAt": "2026-02-12T17:55:28Z",
+        "fileIds": [
+          "1000060658",
+          "1000060626",
+          "1000060659",
+          "1000060660",
+          "1000060625"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-02T10:17:07Z",
@@ -835,6 +858,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 43
+    "totalCount": 44
   }
 }
