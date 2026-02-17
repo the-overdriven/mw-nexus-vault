@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-15T22:53:23.368Z",
+  "checkedAt": "2026-02-17T18:35:43.231Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -167,7 +167,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-15T04:48:15Z",
-        "fileSize": 1449,
+        "fileSize": 2556,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -175,17 +175,18 @@
         "modId": 56015,
         "name": "Casino Gambling - MWSE",
         "status": "published",
-        "summary": "Adds 3 casinos and 5 new games to win money, or lose it all!",
+        "summary": "Adds 3 casinos and 7 new games to win money, or lose it all!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56015/56015-1739594091-1699564414.png",
         "uid": "429496785615",
-        "updatedAt": "2026-01-17T21:10:28Z",
+        "updatedAt": "2026-02-16T23:43:13Z",
         "fileIds": [
-          "1000060078",
+          "1000060799",
           "1000050446",
           "1000051518",
           "1000052321",
           "1000051091",
           "1000051110",
+          "1000060078",
           "1000050405",
           "1000050414"
         ]

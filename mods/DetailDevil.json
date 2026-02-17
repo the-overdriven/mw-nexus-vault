@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-15T22:53:38.425Z",
+  "checkedAt": "2026-02-17T18:35:51.691Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -90,7 +90,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-07T00:21:45Z",
-        "fileSize": 669,
+        "fileSize": 670,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -101,10 +101,11 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-02-02T21:41:12Z",
+        "updatedAt": "2026-02-17T17:56:57Z",
         "fileIds": [
-          "1000060443",
+          "1000060808",
           "1000059136",
+          "1000060443",
           "1000059067",
           "1000059114"
         ]

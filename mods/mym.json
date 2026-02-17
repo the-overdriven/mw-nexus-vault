@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-15T22:54:48.224Z",
+  "checkedAt": "2026-02-17T18:36:09.300Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -88,7 +88,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-14T10:18:39Z",
-        "fileSize": 753,
+        "fileSize": 754,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -99,9 +99,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2026-01-27T15:11:20Z",
+        "updatedAt": "2026-02-16T04:57:08Z",
         "fileIds": [
-          "1000060300",
+          "1000060773",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -138,6 +138,7 @@
           "1000056448",
           "1000051331",
           "1000058763",
+          "1000060300",
           "1000060053",
           "1000051352",
           "1000051612",
