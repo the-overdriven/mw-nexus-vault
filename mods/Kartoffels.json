@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-02-17T18:36:05.014Z",
+  "checkedAt": "2026-02-26T10:42:56.947Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13,
+        "100": 14,
         "101": 9,
         "110": 1,
         "941": 11,
@@ -14,6 +14,30 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-22T21:07:54Z",
+        "fileSize": 100483,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 58277,
+        "name": "OpenMW Experimental Graphics Optimizations",
+        "status": "published",
+        "summary": "Two experimental Optimizations for OpenMW graphics that can double your FPS in cities like Narsis or Old Ebonheart. No I'm not joking.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58277/58277-1771878026-842494882.jpg",
+        "uid": "429496787877",
+        "updatedAt": "2026-02-26T08:24:14Z",
+        "fileIds": [
+          "1000061062",
+          "1000061063",
+          "1000061061",
+          "1000060983",
+          "1000060977",
+          "1000060982"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-02-08T03:24:37Z",
@@ -292,6 +316,6 @@
         ]
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }

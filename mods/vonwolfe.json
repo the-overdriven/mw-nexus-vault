@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-17T18:36:32.122Z",
+  "checkedAt": "2026-02-26T10:45:50.133Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -29,7 +29,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-29T23:08:29Z",
-        "fileSize": 177101,
+        "fileSize": 181286,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -40,9 +40,9 @@
         "summary": "Replaces Starwind armor, clothes and weapons with new assets.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56571/56571-1746980101-1646817129.png",
         "uid": "429496786171",
-        "updatedAt": "2026-02-09T20:22:27Z",
+        "updatedAt": "2026-02-20T15:01:56Z",
         "fileIds": [
-          "1000060600",
+          "1000060877",
           "1000053793",
           "1000055590",
           "1000054830",
@@ -51,6 +51,7 @@
           "1000055431",
           "1000056233",
           "1000060331",
+          "1000060600",
           "1000060146"
         ]
       },
@@ -87,7 +88,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-23T15:00:07Z",
-        "fileSize": 153314,
+        "fileSize": 151783,
         "modCategory": {
           "categoryId": 19,
           "name": "Creatures"
@@ -98,8 +99,9 @@
         "summary": "Replaces Starwind's creature models with updated assets. Requires Starwind Enhanced and Tamriel Data.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56075/56075-1740832344-846661692.png",
         "uid": "429496785675",
-        "updatedAt": "2026-02-05T18:29:06Z",
+        "updatedAt": "2026-02-20T15:06:27Z",
         "fileIds": [
+          "1000060878",
           "1000060485",
           "1000056971",
           "1000050842",
@@ -110,7 +112,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 691000,
+        "fileSize": 705234,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -121,13 +123,14 @@
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
         "uid": "429496785568",
-        "updatedAt": "2026-02-05T23:11:31Z",
+        "updatedAt": "2026-02-23T12:01:15Z",
         "fileIds": [
-          "1000060489",
+          "1000060846",
           "1000059510",
           "1000058945",
           "1000059509",
           "1000058970",
+          "1000060999",
           "1000055058",
           "1000060186",
           "1000056360",
@@ -137,6 +140,7 @@
           "1000060475",
           "1000055364",
           "1000057668",
+          "1000060489",
           "1000054604",
           "1000057934",
           "1000058703",
@@ -173,7 +177,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-07T15:36:30Z",
-        "fileSize": 210045,
+        "fileSize": 227667,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -184,8 +188,9 @@
         "summary": "Dynamic Music Replacer! Also replaces more vanilla Morrowind sounds with more appropriate sounds for Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55934/55934-1738942540-257070418.png",
         "uid": "429496785534",
-        "updatedAt": "2026-02-13T15:57:14Z",
+        "updatedAt": "2026-02-25T14:23:35Z",
         "fileIds": [
+          "1000061050",
           "1000060688",
           "1000054833",
           "1000050524",

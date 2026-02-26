@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-02-17T18:36:09.300Z",
+  "checkedAt": "2026-02-26T10:44:16.705Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 8
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-19T19:38:59Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58254,
+        "name": "State-Based Magicka Regen (OpenMW)",
+        "status": "published",
+        "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
+        "uid": "429496787854",
+        "updatedAt": "2026-02-21T12:06:08Z",
+        "fileIds": [
+          "1000060912",
+          "1000060859"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
@@ -21,12 +41,13 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-02-14T10:52:05Z",
+        "updatedAt": "2026-02-23T12:04:53Z",
         "fileIds": [
-          "1000060707",
+          "1000061000",
           "1000060676",
           "1000059919",
           "1000058652",
+          "1000060707",
           "1000058925",
           "1000058682",
           "1000058683",
@@ -57,7 +78,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:42Z",
-        "fileSize": 180,
+        "fileSize": 181,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -68,8 +89,9 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-02-14T10:49:22Z",
+        "updatedAt": "2026-02-23T12:05:40Z",
         "fileIds": [
+          "1000061002",
           "1000060706",
           "1000059179",
           "1000058681",
@@ -345,10 +367,11 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-02-13T11:48:44Z",
+        "updatedAt": "2026-02-23T15:07:05Z",
         "fileIds": [
-          "1000060677",
+          "1000061008",
           "1000044538",
+          "1000060677",
           "1000059144",
           "1000057628",
           "1000056354",
@@ -387,6 +410,6 @@
         ]
       }
     ],
-    "totalCount": 7
+    "totalCount": 8
   }
 }

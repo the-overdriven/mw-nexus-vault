@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-17T18:35:34.463Z",
+  "checkedAt": "2026-02-26T10:41:39.187Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -332,7 +332,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-10-25T06:51:13Z",
-        "fileSize": 1,
+        "fileSize": 145215,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -343,9 +343,9 @@
         "summary": "A large add-on to the Starwind project. This will include the planet of Endor, a new planet to explore, with new factions and dilemmas to experience. This mod also includes three new playable races, an Ewok variant, protocol droid and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50356/50356-1639118611-81527729.jpeg",
         "uid": "429496779956",
-        "updatedAt": "2025-03-22T18:26:25Z",
+        "updatedAt": "2026-02-20T01:38:39Z",
         "fileIds": [
-          "1000038019",
+          "1000060866",
           "1000051430",
           "1000028522",
           "1000033001",

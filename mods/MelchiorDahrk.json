@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-17T18:36:08.120Z",
+  "checkedAt": "2026-02-26T10:44:07.230Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -122,7 +122,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-01T04:42:25Z",
-        "fileSize": 95500,
+        "fileSize": 124723,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -133,10 +133,12 @@
         "summary": "Plunge into an engaging prequel to the events of the TES4:Shivering Isles expansion as the world shivers with Whispers of Jyggalag. The familiar sights of sewers and Thieves Guild operatives quickly unravel as you find yourself caught",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53679/53679-1699058068-275586858.png",
         "uid": "429496783279",
-        "updatedAt": "2025-07-18T01:57:42Z",
+        "updatedAt": "2026-02-23T01:46:30Z",
         "fileIds": [
-          "1000055303",
+          "1000060990",
           "1000052923",
+          "1000055303",
+          "1000060813",
           "1000051447",
           "1000040730",
           "1000047532"

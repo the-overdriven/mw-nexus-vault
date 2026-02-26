@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-02-17T18:36:06.583Z",
+  "checkedAt": "2026-02-26T10:43:15.768Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 45,
+        "100": 43,
         "101": 1,
         "1704": 1
       }
@@ -139,22 +139,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2021-04-03T19:35:28Z",
-        "fileSize": 133,
-        "modCategory": {
-          "categoryId": 19,
-          "name": "Creatures"
-        },
-        "modId": 49503,
-        "name": "Old Blue Fin",
-        "status": "published",
-        "summary": "Made for the 2021 spring modjamgives old blue fin a blue fin",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49503/49503-1617478891-1569182476.png",
-        "uid": "429496779103",
-        "updatedAt": "2021-04-03T19:41:08Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2021-04-03T00:39:03Z",
         "fileSize": 216,
         "modCategory": {
@@ -168,22 +152,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49495/49495-1617409618-1772488907.png",
         "uid": "429496779095",
         "updatedAt": "2021-04-03T00:39:03Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2021-03-19T00:14:12Z",
-        "fileSize": 109,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 49426,
-        "name": "Inscribed Maar Gan Rock",
-        "status": "published",
-        "summary": "gives the rock in the maar gan shrine an actual inscription like how its described",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49426/49426-1616112684-189022948.png",
-        "uid": "429496779026",
-        "updatedAt": "2021-03-19T12:34:46Z"
       },
       {
         "adultContent": false,
@@ -730,6 +698,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 45
+    "totalCount": 43
   }
 }

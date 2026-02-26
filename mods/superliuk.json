@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-17T18:36:30.080Z",
+  "checkedAt": "2026-02-26T10:45:23.710Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -143,7 +143,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-10-05T08:30:51Z",
-        "fileSize": 255,
+        "fileSize": 401,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -154,8 +154,9 @@
         "summary": "Replace west gash trees with pines and parasol",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57564/57564-1759652770-205189299.png",
         "uid": "429496787164",
-        "updatedAt": "2025-11-21T18:23:50Z",
+        "updatedAt": "2026-02-18T17:22:51Z",
         "fileIds": [
+          "1000060826",
           "1000058582"
         ]
       },
