@@ -1,16 +1,35 @@
 {
-  "checkedAt": "2026-02-26T10:42:44.901Z",
+  "checkedAt": "2026-03-05T19:08:31.790Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 11
+        "100": 12
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-03-03T17:51:10Z",
+        "fileSize": 38,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58324,
+        "name": "Advanced World Map - Tracking",
+        "status": "published",
+        "summary": "An addon for the Advanced World Map mod that displays objects from 'detect' spells.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58324/58324-1772558538-1588145405.png",
+        "uid": "429496787924",
+        "updatedAt": "2026-03-03T17:51:10Z",
+        "fileIds": [
+          "1000061259"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-12-06T11:29:36Z",
-        "fileSize": 4243,
+        "fileSize": 4247,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -21,15 +40,15 @@
         "summary": "In-game interactive world and local map with search, notes, fast travel, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57881/57881-1768123149-272268542.png",
         "uid": "429496787481",
-        "updatedAt": "2026-02-24T18:54:40Z",
+        "updatedAt": "2026-03-05T17:17:18Z",
         "fileIds": [
-          "1000061039",
+          "1000061323",
           "1000058976",
           "1000058977",
+          "1000059921",
           "1000060697",
           "1000060698",
           "1000060699",
-          "1000059921",
           "1000058989",
           "1000059009",
           "1000059084",
@@ -43,6 +62,8 @@
           "1000060130",
           "1000060169",
           "1000060472",
+          "1000061039",
+          "1000061258",
           "1000058980",
           "1000059924",
           "1000060230",
@@ -58,7 +79,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-08-22T13:34:53Z",
-        "fileSize": 174,
+        "fileSize": 207,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -69,9 +90,9 @@
         "summary": "Adds a new journal menu (H key) for viewing and tracking quest requirements and objects, and introduces quest markers to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57285/57285-1755018136-1399655819.png",
         "uid": "429496786885",
-        "updatedAt": "2026-02-03T19:17:56Z",
+        "updatedAt": "2026-03-04T17:20:49Z",
         "fileIds": [
-          "1000060457",
+          "1000061294",
           "1000057601",
           "1000057602",
           "1000059013",
@@ -95,6 +116,7 @@
           "1000056642",
           "1000057604",
           "1000058175",
+          "1000060457",
           "1000058199",
           "1000058266",
           "1000058367",
@@ -102,7 +124,8 @@
           "1000058770",
           "1000059130",
           "1000059972",
-          "1000060411"
+          "1000060411",
+          "1000061260"
         ]
       },
       {
@@ -133,7 +156,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-22T15:02:09Z",
-        "fileSize": 1453,
+        "fileSize": 1421,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -144,9 +167,9 @@
         "summary": "Shows comprehensive information about game quests and adds quest markers to the game. The information is generated dynamically based on your mods. Has many settings and the ability to disable features (for example, you can disable markers",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55593/55593-1734509196-1995167322.png",
         "uid": "429496785193",
-        "updatedAt": "2025-10-28T18:29:26Z",
+        "updatedAt": "2026-03-01T16:07:46Z",
         "fileIds": [
-          "1000058012",
+          "1000061168",
           "1000050139",
           "1000051153",
           "1000051911",
@@ -155,7 +178,8 @@
           "1000053283",
           "1000056224",
           "1000057375",
-          "1000057547"
+          "1000057547",
+          "1000058012"
         ]
       },
       {
@@ -293,6 +317,6 @@
         "updatedAt": "2024-07-30T07:57:50Z"
       }
     ],
-    "totalCount": 11
+    "totalCount": 12
   }
 }

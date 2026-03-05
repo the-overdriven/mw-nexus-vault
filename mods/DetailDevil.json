@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-26T10:42:44.819Z",
+  "checkedAt": "2026-03-05T19:08:00.225Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -49,7 +49,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-05T23:37:46Z",
-        "fileSize": 94,
+        "fileSize": 202,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -57,12 +57,12 @@
         "modId": 58046,
         "name": "Devilish Birds (OpenMW)",
         "status": "published",
-        "summary": "Adds birds and optionally cliffracers everywhere you go.",
+        "summary": "Adds birds and cliffracers everywhere you go.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58046/58046-1767657598-1617452014.png",
         "uid": "429496787646",
-        "updatedAt": "2026-01-08T20:09:50Z",
+        "updatedAt": "2026-02-28T00:28:14Z",
         "fileIds": [
-          "1000059836",
+          "1000061110",
           "1000059762"
         ]
       },
@@ -101,11 +101,12 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-02-17T17:56:57Z",
+        "updatedAt": "2026-03-02T00:06:40Z",
         "fileIds": [
-          "1000060808",
+          "1000061186",
           "1000059136",
           "1000060443",
+          "1000060808",
           "1000059067",
           "1000059114"
         ]
@@ -189,13 +190,14 @@
           "name": "Gameplay"
         },
         "modId": 55869,
-        "name": "Devilish Skooma Overhaul (OpenMW 0.49)",
+        "name": "Devilish Skooma Overhaul (OpenMW)",
         "status": "published",
-        "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects followed by crippling skooma addiction.",
+        "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55869/55869-1737917674-22943108.png",
         "uid": "429496785469",
-        "updatedAt": "2025-06-04T18:25:10Z",
+        "updatedAt": "2026-03-01T00:29:54Z",
         "fileIds": [
+          "1000061155",
           "1000054103",
           "1000053868",
           "1000049978"
@@ -324,7 +326,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-07-29T21:20:25Z",
-        "fileSize": 322,
+        "fileSize": 317,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -335,11 +337,13 @@
         "summary": "Experience the visual and physical effects of alcohol. This is an extended and modified version of Merlord's \"Immersive Alcohol\" for OpenMW that adds shader effects on stages of drunkeness. This mod also adds support for all alcoholic",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55038/55038-1722287291-1735755228.png",
         "uid": "429496784638",
-        "updatedAt": "2025-11-05T21:07:47Z",
+        "updatedAt": "2026-02-28T22:35:08Z",
         "fileIds": [
-          "1000058207",
+          "1000061151",
           "1000049474",
-          "1000046522"
+          "1000058207",
+          "1000046522",
+          "1000061139"
         ]
       },
       {
@@ -498,7 +502,7 @@
         "name": "Devilish Bribery Overhaul",
         "status": "published",
         "summary": "Bribing guards will lower their alarm value (how much they care about crime such as theft, lock picking, assault and murder). If you bribe them with about 2000 drakes, they'll even follow and defend you. Works on OpenMW and MWSE.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54438/54438-1712847360-1000456975.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54438/54438-1772328295-841945950.png",
         "uid": "429496784038",
         "updatedAt": "2024-04-11T15:41:56Z"
       },

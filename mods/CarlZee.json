@@ -1,14 +1,53 @@
 {
-  "checkedAt": "2026-02-26T10:42:12.246Z",
+  "checkedAt": "2026-03-05T19:07:44.464Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17,
+        "100": 19,
         "120": 5,
         "130": 63
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-05T18:56:37Z",
+        "fileSize": 7870,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 58357,
+        "name": "Flame Monarch",
+        "status": "published",
+        "summary": "Adds Flame Monarchs, a stronger variant of Flame Atronachs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58357/58357-1772736349-1127023365.png",
+        "uid": "429496787957",
+        "updatedAt": "2026-03-05T18:56:37Z",
+        "fileIds": [
+          "1000061326"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-02T17:48:25Z",
+        "fileSize": 59319,
+        "modCategory": {
+          "categoryId": 30,
+          "name": "Splash Screens"
+        },
+        "modId": 58323,
+        "name": "Complementary Splash Screens",
+        "status": "published",
+        "summary": "Small pack of 15 splash screens to fill gaps not covered by other splash screen mods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58323/58323-1772473383-1144838028.png",
+        "uid": "429496787923",
+        "updatedAt": "2026-03-02T17:48:25Z",
+        "fileIds": [
+          "1000061226",
+          "1000061227"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-08T19:07:28Z",
@@ -371,6 +410,6 @@
         ]
       }
     ],
-    "totalCount": 17
+    "totalCount": 19
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-26T10:45:50.133Z",
+  "checkedAt": "2026-03-05T19:11:36.359Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -112,7 +112,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 705234,
+        "fileSize": 947947,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -123,14 +123,15 @@
         "summary": "Adds new voiceovers, dialogue and assets to immerse you in the story of Starwind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
         "uid": "429496785568",
-        "updatedAt": "2026-02-23T12:01:15Z",
+        "updatedAt": "2026-03-04T11:27:44Z",
         "fileIds": [
-          "1000060846",
+          "1000061282",
           "1000059510",
           "1000058945",
           "1000059509",
           "1000058970",
           "1000060999",
+          "1000061184",
           "1000055058",
           "1000060186",
           "1000056360",
@@ -153,7 +154,9 @@
           "1000058247",
           "1000055703",
           "1000056995",
+          "1000061094",
           "1000058025",
+          "1000060846",
           "1000054706",
           "1000058292",
           "1000057270",

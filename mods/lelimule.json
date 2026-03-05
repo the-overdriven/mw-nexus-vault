@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-26T10:43:15.561Z",
+  "checkedAt": "2026-03-05T19:09:44.628Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -283,7 +283,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-06-18T15:07:04Z",
-        "fileSize": 5,
+        "fileSize": 6,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -294,12 +294,13 @@
         "summary": "This mod is an improvement of Protective Guards. Now the guards don't systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54858/54858-1718720270-906162306.png",
         "uid": "429496784458",
-        "updatedAt": "2026-02-06T22:22:07Z",
+        "updatedAt": "2026-03-04T12:39:28Z",
         "fileIds": [
-          "1000060502",
+          "1000061283",
           "1000049668",
           "1000052506",
           "1000052819",
+          "1000060502",
           "1000049761",
           "1000045785",
           "1000045800",

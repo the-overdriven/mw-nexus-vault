@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-02-26T10:45:23.710Z",
+  "checkedAt": "2026-03-05T19:11:04.087Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48
+        "100": 49
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-05T12:04:08Z",
+        "fileSize": 22368,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 58353,
+        "name": "Pelagiad Rebuilt",
+        "status": "published",
+        "summary": "Restyling of Pelagiad to make it more like a small town.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58353/58353-1772711836-1749300848.png",
+        "uid": "429496787953",
+        "updatedAt": "2026-03-05T12:04:08Z",
+        "fileIds": [
+          "1000061316"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-24T13:51:51Z",
@@ -525,11 +544,11 @@
         "summary": "Add city of Windhelm and the surrounding area, including Dunmeth Pass",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53753/53753-1742218479-1274312610.jpeg",
         "uid": "429496783353",
-        "updatedAt": "2026-01-03T12:38:37Z",
+        "updatedAt": "2026-03-01T08:28:43Z",
         "fileIds": [
           "1000059709",
-          "1000059710",
           "1000051730",
+          "1000061162",
           "1000045700"
         ]
       },
@@ -878,6 +897,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 48
+    "totalCount": 49
   }
 }

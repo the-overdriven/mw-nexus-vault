@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-02-26T10:44:16.705Z",
+  "checkedAt": "2026-03-05T19:10:17.546Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -183,7 +183,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-07T07:47:50Z",
-        "fileSize": 40,
+        "fileSize": 41,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -194,11 +194,12 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-02-13T10:58:24Z",
+        "updatedAt": "2026-02-28T09:53:56Z",
         "fileIds": [
-          "1000060675",
+          "1000061132",
           "1000058545",
           "1000051201",
+          "1000060675",
           "1000048667",
           "1000050717",
           "1000050979",
@@ -356,7 +357,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-03-20T11:14:32Z",
-        "fileSize": 29,
+        "fileSize": 30,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -367,9 +368,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-02-23T15:07:05Z",
+        "updatedAt": "2026-03-01T18:26:12Z",
         "fileIds": [
-          "1000061008",
+          "1000061176",
           "1000044538",
           "1000060677",
           "1000059144",
@@ -380,6 +381,7 @@
           "1000058171",
           "1000059966",
           "1000054861",
+          "1000061008",
           "1000059473",
           "1000054875",
           "1000059746",
@@ -390,6 +392,7 @@
           "1000059787",
           "1000059547",
           "1000056988",
+          "1000061100",
           "1000060079",
           "1000054468",
           "1000054471",
