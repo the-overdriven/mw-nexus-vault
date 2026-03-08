@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-05T19:08:00.225Z",
+  "checkedAt": "2026-03-08T19:04:39.746Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -80,9 +80,9 @@
         "summary": "Undress and get dressed again by pressing a configurable hotkey. Optionally, you can enable the automatic unequipping of armor while swimming.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57941/57941-1765999653-186563690.png",
         "uid": "429496787541",
-        "updatedAt": "2025-12-19T16:54:49Z",
+        "updatedAt": "2026-03-08T04:30:24Z",
         "fileIds": [
-          "1000059349",
+          "1000061400",
           "1000059304",
           "1000059327"
         ]
@@ -101,12 +101,14 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-03-02T00:06:40Z",
+        "updatedAt": "2026-03-08T16:12:01Z",
         "fileIds": [
-          "1000061186",
+          "1000061414",
           "1000059136",
+          "1000061186",
           "1000060443",
           "1000060808",
+          "1000061360",
           "1000059067",
           "1000059114"
         ]

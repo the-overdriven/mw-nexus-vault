@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-03-05T19:07:20.908Z",
+  "checkedAt": "2026-03-08T19:03:37.461Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 20
+        "100": 22
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-06T09:35:00Z",
+        "fileSize": 169,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58361,
+        "name": "Tracers",
+        "status": "published",
+        "summary": "Enchanted arrows will glow in flight according to their enchantment",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58361/58361-1772789532-581635967.jpg",
+        "uid": "429496787961",
+        "updatedAt": "2026-03-06T09:35:00Z",
+        "fileIds": [
+          "1000061344"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-12T11:51:24Z",
@@ -310,6 +329,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2019-08-19T11:50:09Z",
+        "fileSize": 103155,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 47095,
+        "name": "4NM_MAGIC",
+        "status": "published",
+        "summary": "Power of all magic is now scaled from many other factors (resistances, skills, attributes, fatigue...). Critical hits for magic. Secondary effects for different damage types. Adds A LOT of new magic effects and mechanics.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47095/47095-1590609387-1911782438.jpeg",
+        "uid": "429496776695",
+        "updatedAt": "2020-07-18T20:11:42Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2019-08-09T20:13:36Z",
         "fileSize": 58,
         "modCategory": {
@@ -345,6 +380,6 @@
         ]
       }
     ],
-    "totalCount": 20
+    "totalCount": 22
   }
 }

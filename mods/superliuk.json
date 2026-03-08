@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-03-05T19:11:04.087Z",
+  "checkedAt": "2026-03-08T19:05:25.163Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 49
+        "100": 51
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-07T08:39:32Z",
+        "fileSize": 370,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58368,
+        "name": "Normals and Specular for Chainmail Armor Merchant v1.1",
+        "status": "published",
+        "summary": "Normal maps and some specular maps for Chainmail Armor Merchant v1.1",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58368/58368-1772872420-1811289361.png",
+        "uid": "429496787968",
+        "updatedAt": "2026-03-07T10:17:02Z",
+        "fileIds": [
+          "1000061374",
+          "1000061380"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-03-05T12:04:08Z",
@@ -639,6 +659,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2023-09-25T17:45:52Z",
+        "fileSize": 3127,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 53540,
+        "name": "Authentic Legion for Morrowind",
+        "status": "published",
+        "summary": "Converted complete iron armor from Authentic Legion mod for morrowind",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53540/53540-1701422637-490249160.png",
+        "uid": "429496783140",
+        "updatedAt": "2024-04-06T07:41:17Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2023-07-13T07:47:16Z",
         "fileSize": 8656,
         "modCategory": {
@@ -897,6 +933,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 49
+    "totalCount": 51
   }
 }

@@ -1,30 +1,14 @@
 {
-  "checkedAt": "2026-03-05T19:09:52.165Z",
+  "checkedAt": "2026-03-08T19:05:10.026Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 43,
+        "100": 40,
         "101": 1,
         "1704": 1
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2024-04-15T19:50:16Z",
-        "fileSize": 419,
-        "modCategory": {
-          "categoryId": 3,
-          "name": "Dungeons and Locations"
-        },
-        "modId": 54458,
-        "name": "Ascadian Corkbulb Groves",
-        "status": "published",
-        "summary": "Adds corkbulb trees and roots in places where corkbulbs grow in the Ascadian Isles inspired by concept art",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54458/54458-1713210535-1571790969.png",
-        "uid": "429496784058",
-        "updatedAt": "2024-04-16T12:00:25Z"
-      },
       {
         "adultContent": false,
         "createdAt": "2023-02-05T14:07:48Z",
@@ -267,22 +251,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2020-03-04T03:19:23Z",
-        "fileSize": 63,
-        "modCategory": {
-          "categoryId": 18,
-          "name": "Bug Fixes"
-        },
-        "modId": 47664,
-        "name": "Helseth's Robe Fixed",
-        "status": "published",
-        "summary": "Fixes bad weights on Helseth's robe.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47664/47664-1583291832-1157009076.png",
-        "uid": "429496777264",
-        "updatedAt": "2020-03-04T03:19:23Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2020-02-29T17:55:20Z",
         "fileSize": 1,
         "modCategory": {
@@ -472,22 +440,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46770/46770-1558094500-122792902.png",
         "uid": "429496776370",
         "updatedAt": "2020-01-29T14:50:55Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2019-05-17T09:22:33Z",
-        "fileSize": 525,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46769,
-        "name": "Vanilla Style White Suran",
-        "status": "published",
-        "summary": "Vanilla based textures for MD's White Suran.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46769/46769-1558084026-503123978.png",
-        "uid": "429496776369",
-        "updatedAt": "2020-01-29T14:55:18Z"
       },
       {
         "adultContent": false,
@@ -698,6 +650,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 43
+    "totalCount": 40
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-05T19:07:59.634Z",
+  "checkedAt": "2026-03-08T19:03:53.266Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -118,7 +118,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-03-15T01:23:50Z",
-        "fileSize": 1030,
+        "fileSize": 2159,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -129,12 +129,14 @@
         "summary": "Changes the RR Telvanni Lighthouse crystals to OAAB blue, or changes the OAAB telvanni crystals to RR white.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56187/56187-1742000755-410708451.png",
         "uid": "429496785787",
-        "updatedAt": "2025-03-18T06:02:34Z",
+        "updatedAt": "2026-03-06T07:51:54Z",
         "fileIds": [
+          "1000061341",
           "1000051260",
-          "1000051261",
+          "1000061340",
           "1000051302",
           "1000051174",
+          "1000051261",
           "1000051173"
         ]
       },
@@ -205,7 +207,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-09-24T01:16:00Z",
-        "fileSize": 226,
+        "fileSize": 142,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -216,7 +218,13 @@
         "summary": "Maar Gan has been blessed with a wall to protect the pilgrimage site from danger; The Bulwark of St Roris.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55252/55252-1727133735-1728508320.png",
         "uid": "429496784852",
-        "updatedAt": "2024-09-30T00:04:41Z"
+        "updatedAt": "2026-03-07T01:56:32Z",
+        "fileIds": [
+          "1000061367",
+          "1000047441",
+          "1000061333",
+          "1000047335"
+        ]
       },
       {
         "adultContent": false,
@@ -416,7 +424,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-14T02:06:39Z",
-        "fileSize": 79,
+        "fileSize": 274,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -427,7 +435,7 @@
         "summary": "Adds glow maps to several Glass and Daedric mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53504/53504-1694656986-498508784.png",
         "uid": "429496783104",
-        "updatedAt": "2025-12-24T19:30:16Z",
+        "updatedAt": "2026-03-06T08:13:53Z",
         "fileIds": [
           "1000040169",
           "1000040234",
@@ -443,7 +451,7 @@
           "1000057599",
           "1000059478",
           "1000055410",
-          "1000055411",
+          "1000061342",
           "1000040168",
           "1000055414",
           "1000058930",
@@ -457,6 +465,7 @@
           "1000057428",
           "1000057429",
           "1000040175",
+          "1000055411",
           "1000040166",
           "1000040183",
           "1000058898",
@@ -565,7 +574,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-07-16T12:53:18Z",
-        "fileSize": 244,
+        "fileSize": 198,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -576,7 +585,15 @@
         "summary": "Rebuilds the interior and exterior of the Caldera governors manor to be more imposing.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53220/53220-1689511173-247845185.png",
         "uid": "429496782820",
-        "updatedAt": "2023-08-03T07:31:29Z"
+        "updatedAt": "2026-03-06T01:49:38Z",
+        "fileIds": [
+          "1000061331",
+          "1000039170",
+          "1000039169",
+          "1000039572",
+          "1000039155",
+          "1000039156"
+        ]
       },
       {
         "adultContent": false,
@@ -692,7 +709,12 @@
         "summary": "Adds a glowing beacon cap to Sadrith Mora market and Tel Fyr.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52248/52248-1675174272-824210914.png",
         "uid": "429496781848",
-        "updatedAt": "2023-01-31T14:20:38Z"
+        "updatedAt": "2026-03-06T07:40:02Z",
+        "fileIds": [
+          "1000034924",
+          "1000061337",
+          "1000034926"
+        ]
       },
       {
         "adultContent": false,
@@ -729,7 +751,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-04-06T22:12:08Z",
-        "fileSize": 83,
+        "fileSize": 174,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -740,7 +762,13 @@
         "summary": "A series of navigation beacons along the length of the Azuras Coast.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50957/50957-1649281950-2083860906.png",
         "uid": "429496780557",
-        "updatedAt": "2024-05-19T18:38:37Z"
+        "updatedAt": "2026-03-06T07:42:02Z",
+        "fileIds": [
+          "1000061338",
+          "1000061339",
+          "1000044942",
+          "1000030031"
+        ]
       },
       {
         "adultContent": false,
