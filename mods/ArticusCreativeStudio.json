@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-03-08T19:03:28.838Z",
+  "checkedAt": "2026-03-13T13:23:12.300Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 74
+        "100": 75
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-12T21:34:50Z",
+        "fileSize": 29546,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 58422,
+        "name": "The Devil You Know - Clavicus Vile Armor",
+        "status": "published",
+        "summary": "This mod adds alternative Daedric armor of Clavicus Vile and replaces Masque of Clavicus Vile with HQ models and textures (1024 px). Adds glowing elements and detail maps. All you need is to copy conteining files to your Morrowind/Data",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58422/58422-1773350971-925384058.png",
+        "uid": "429496788022",
+        "updatedAt": "2026-03-13T00:48:09Z",
+        "fileIds": [
+          "1000061590",
+          "1000061585"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-28T15:21:04Z",
@@ -35,7 +55,7 @@
           "name": "Armour"
         },
         "modId": 58125,
-        "name": "Randagulf the Bravest",
+        "name": "Randagulf the Bravest - Armor",
         "status": "published",
         "summary": "This mod replaces Fists of Randagulf and adds new parts of the set with HQ models and textures (2048) and glowing maps. You can get these parts only with Telekinesis spell!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58125/58125-1769257124-1321826832.png",
@@ -1307,6 +1327,6 @@
         "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 74
+    "totalCount": 75
   }
 }

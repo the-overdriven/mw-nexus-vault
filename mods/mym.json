@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-08T19:05:20.220Z",
+  "checkedAt": "2026-03-13T13:24:23.011Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,16 +21,17 @@
         "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
         "uid": "429496787854",
-        "updatedAt": "2026-02-21T12:06:08Z",
+        "updatedAt": "2026-03-09T08:41:15Z",
         "fileIds": [
-          "1000060912",
-          "1000060859"
+          "1000061437",
+          "1000060859",
+          "1000060912"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 67,
+        "fileSize": 68,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -41,23 +42,28 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-02-23T12:04:53Z",
+        "updatedAt": "2026-03-12T14:46:04Z",
         "fileIds": [
-          "1000061000",
+          "1000061565",
           "1000060676",
           "1000059919",
           "1000058652",
+          "1000061469",
           "1000060707",
           "1000058925",
           "1000058682",
           "1000058683",
           "1000059963",
           "1000059967",
+          "1000061505",
           "1000059718",
+          "1000061000",
           "1000058955",
           "1000058956",
           "1000059472",
+          "1000061557",
           "1000058742",
+          "1000061563",
           "1000059519",
           "1000059525",
           "1000058506",
@@ -110,7 +116,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-14T10:18:39Z",
-        "fileSize": 754,
+        "fileSize": 781,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -121,9 +127,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2026-02-16T04:57:08Z",
+        "updatedAt": "2026-03-12T15:51:08Z",
         "fileIds": [
-          "1000060773",
+          "1000061567",
           "1000052485",
           "1000050449",
           "1000052755",
@@ -140,6 +146,7 @@
           "1000055359",
           "1000055360",
           "1000058946",
+          "1000061509",
           "1000051786",
           "1000052811",
           "1000051790",
@@ -149,6 +156,7 @@
           "1000051808",
           "1000056162",
           "1000055395",
+          "1000060773",
           "1000056939",
           "1000051821",
           "1000060273",
@@ -194,9 +202,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-02-28T09:53:56Z",
+        "updatedAt": "2026-03-11T13:08:17Z",
         "fileIds": [
-          "1000061132",
+          "1000061514",
           "1000058545",
           "1000051201",
           "1000060675",
@@ -234,6 +242,7 @@
           "1000048838",
           "1000057542",
           "1000050891",
+          "1000061132",
           "1000050898",
           "1000051668",
           "1000055256",

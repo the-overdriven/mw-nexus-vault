@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-08T19:05:07.213Z",
+  "checkedAt": "2026-03-13T13:24:09.626Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -505,7 +505,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-06-02T02:21:53Z",
-        "fileSize": 6467,
+        "fileSize": 4147,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -516,12 +516,13 @@
         "summary": "Go on an adventure to obtain a strange relic for an even stranger client.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54777/54777-1717295662-686641515.png",
         "uid": "429496784377",
-        "updatedAt": "2025-06-04T18:30:32Z",
+        "updatedAt": "2026-03-09T02:46:42Z",
         "fileIds": [
-          "1000054101",
+          "1000061432",
           "1000054104",
           "1000045338",
-          "1000045365"
+          "1000045365",
+          "1000054101"
         ]
       },
       {

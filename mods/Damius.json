@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-03-08T19:03:53.266Z",
+  "checkedAt": "2026-03-13T13:23:36.506Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 44
+        "100": 45
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-09T05:28:19Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 58380,
+        "name": "Balmora Morag Tong Guildhall Redone",
+        "status": "published",
+        "summary": "Changes the exterior of the Balmora Morag Tong guildhall, with a few small interior changes.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58380/58380-1773033718-1087891087.png",
+        "uid": "429496787980",
+        "updatedAt": "2026-03-09T05:28:19Z",
+        "fileIds": [
+          "1000061434"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-02-11T00:39:09Z",
@@ -892,6 +911,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 44
+    "totalCount": 45
   }
 }

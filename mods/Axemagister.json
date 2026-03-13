@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-08T19:03:37.461Z",
+  "checkedAt": "2026-03-13T13:23:19.407Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -362,7 +362,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-07-26T20:13:59Z",
-        "fileSize": 13349,
+        "fileSize": 13354,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -373,10 +373,10 @@
         "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
         "uid": "429496776615",
-        "updatedAt": "2026-03-05T18:04:45Z",
+        "updatedAt": "2026-03-12T17:34:05Z",
         "fileIds": [
           "1000050367",
-          "1000061325"
+          "1000061572"
         ]
       }
     ],

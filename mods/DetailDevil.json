@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-08T19:04:39.746Z",
+  "checkedAt": "2026-03-13T13:23:45.249Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -604,7 +604,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-08-27T02:04:18Z",
-        "fileSize": 37718,
+        "fileSize": 37417,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -615,15 +615,16 @@
         "summary": "Malbogatra's Rocky West Gash compatible with BCOM, Caldera Priory, Caldera Mine Expanded, Justice for Khartag ...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53420/53420-1693101459-146938389.png",
         "uid": "429496783020",
-        "updatedAt": "2025-12-30T02:38:19Z",
+        "updatedAt": "2026-03-12T20:58:28Z",
         "fileIds": [
-          "1000059598",
-          "1000059597",
+          "1000061581",
+          "1000061582",
           "1000045066",
           "1000045598",
           "1000050471",
           "1000051591",
           "1000045509",
+          "1000059598",
           "1000044761",
           "1000045276",
           "1000045277",
@@ -635,6 +636,7 @@
           "1000050470",
           "1000051590",
           "1000045510",
+          "1000059597",
           "1000045274",
           "1000045275",
           "1000044764",

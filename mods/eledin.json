@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-08T19:05:05.936Z",
+  "checkedAt": "2026-03-13T13:23:59.575Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24,
+        "100": 25,
         "181": 1,
         "430": 1,
         "437": 1,
@@ -13,6 +13,26 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-10T13:40:15Z",
+        "fileSize": 10627,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 58406,
+        "name": "Kitchenware Redone",
+        "status": "published",
+        "summary": "1K PBR retexture + increased variety of some kitchenware objects",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58406/58406-1773149518-913174783.png",
+        "uid": "429496788006",
+        "updatedAt": "2026-03-10T21:20:05Z",
+        "fileIds": [
+          "1000061495",
+          "1000061476"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-15T18:10:54Z",
@@ -504,6 +524,6 @@
         "updatedAt": "2024-08-15T21:59:15Z"
       }
     ],
-    "totalCount": 24
+    "totalCount": 25
   }
 }

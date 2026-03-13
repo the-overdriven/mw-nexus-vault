@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-03-08T19:05:05.563Z",
+  "checkedAt": "2026-03-13T13:23:52.345Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 5
+        "100": 6
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-11T05:02:37Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 58410,
+        "name": "The Battle of Fort Moonmoth",
+        "status": "published",
+        "summary": "Gaius Auravius, an elite legionary at Moonmoth Legion Fort may need some help. Imperial Intelligence believes an army of undead may attack the fort very soon. He has increased the guard, but it may not be enough...",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58410/58410-1773205298-418571384.png",
+        "uid": "429496788010",
+        "updatedAt": "2026-03-11T05:02:37Z",
+        "fileIds": [
+          "1000061504"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-13T05:45:16Z",
@@ -103,6 +122,6 @@
         ]
       }
     ],
-    "totalCount": 5
+    "totalCount": 6
   }
 }

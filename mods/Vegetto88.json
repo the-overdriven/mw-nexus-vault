@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-08T19:05:33.928Z",
+  "checkedAt": "2026-03-13T13:25:05.346Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -11,7 +11,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-02-22T13:24:08Z",
-        "fileSize": 8298,
+        "fileSize": 8327,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -22,8 +22,9 @@
         "summary": "A modder's resource pack with 4 different Alfiq creatures to use in your mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58273/58273-1771765769-108518552.png",
         "uid": "429496787873",
-        "updatedAt": "2026-02-22T13:24:08Z",
+        "updatedAt": "2026-03-13T00:06:58Z",
         "fileIds": [
+          "1000061589",
           "1000060965"
         ]
       },
@@ -720,9 +721,9 @@
         "summary": "The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.The palace is now back to be worthy of God.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48136/48136-1596380511-375108402.jpeg",
         "uid": "429496777736",
-        "updatedAt": "2025-06-07T12:06:31Z",
+        "updatedAt": "2026-03-09T21:56:37Z",
         "fileIds": [
-          "1000054210",
+          "1000061463",
           "1000054163",
           "1000049169",
           "1000024121",
@@ -734,6 +735,7 @@
           "1000043672",
           "1000043174",
           "1000049070",
+          "1000054210",
           "1000043973",
           "1000042979",
           "1000042984",
