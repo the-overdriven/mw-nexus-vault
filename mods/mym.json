@@ -1,16 +1,37 @@
 {
-  "checkedAt": "2026-03-13T13:24:23.011Z",
+  "checkedAt": "2026-04-12T19:29:52.899Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 9
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-04-01T10:16:01Z",
+        "fileSize": 84,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58560,
+        "name": "Magic Rebalance and Fixes",
+        "status": "published",
+        "summary": "This mod attempts to rebalance the magic system in Morrowind. This includes spell effects, stock spells, enchantments and potions.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58560/58560-1775037720-1305163994.png",
+        "uid": "429496788160",
+        "updatedAt": "2026-04-06T16:46:32Z",
+        "fileIds": [
+          "1000062407",
+          "1000062219",
+          "1000062266"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2026-02-19T19:38:59Z",
-        "fileSize": 16,
+        "fileSize": 18,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,17 +42,20 @@
         "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
         "uid": "429496787854",
-        "updatedAt": "2026-03-09T08:41:15Z",
+        "updatedAt": "2026-04-07T07:22:39Z",
         "fileIds": [
-          "1000061437",
+          "1000062424",
+          "1000062234",
+          "1000062267",
           "1000060859",
-          "1000060912"
+          "1000060912",
+          "1000061437"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 68,
+        "fileSize": 69,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -42,10 +66,11 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-03-12T14:46:04Z",
+        "updatedAt": "2026-04-07T07:36:22Z",
         "fileIds": [
-          "1000061565",
+          "1000062425",
           "1000060676",
+          "1000062220",
           "1000059919",
           "1000058652",
           "1000061469",
@@ -54,6 +79,7 @@
           "1000058682",
           "1000058683",
           "1000059963",
+          "1000062269",
           "1000059967",
           "1000061505",
           "1000059718",
@@ -64,6 +90,7 @@
           "1000061557",
           "1000058742",
           "1000061563",
+          "1000061565",
           "1000059519",
           "1000059525",
           "1000058506",
@@ -95,13 +122,15 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-02-23T12:05:40Z",
+        "updatedAt": "2026-04-02T08:24:59Z",
         "fileIds": [
-          "1000061002",
+          "1000062268",
+          "1000062223",
           "1000060706",
           "1000059179",
           "1000058681",
           "1000058954",
+          "1000061002",
           "1000059987",
           "1000058505",
           "1000059293",
@@ -109,6 +138,7 @@
           "1000059567",
           "1000058544",
           "1000059058",
+          "1000061621",
           "1000060345",
           "1000058876"
         ]
@@ -116,7 +146,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-14T10:18:39Z",
-        "fileSize": 781,
+        "fileSize": 1123,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -127,12 +157,15 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1739527942-1322849265.jpeg",
         "uid": "429496785605",
-        "updatedAt": "2026-03-12T15:51:08Z",
+        "updatedAt": "2026-04-08T07:17:45Z",
         "fileIds": [
-          "1000061567",
+          "1000062460",
+          "1000061698",
           "1000052485",
           "1000050449",
           "1000052755",
+          "1000062227",
+          "1000062228",
           "1000051485",
           "1000058655",
           "1000052512",
@@ -165,6 +198,7 @@
           "1000060277",
           "1000053623",
           "1000059768",
+          "1000061567",
           "1000056448",
           "1000051331",
           "1000058763",
@@ -202,9 +236,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-03-11T13:08:17Z",
+        "updatedAt": "2026-04-01T12:09:33Z",
         "fileIds": [
-          "1000061514",
+          "1000062236",
           "1000058545",
           "1000051201",
           "1000060675",
@@ -217,6 +251,7 @@
           "1000059965",
           "1000054341",
           "1000055367",
+          "1000061514",
           "1000049228",
           "1000054092",
           "1000051277",
@@ -260,7 +295,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-10-01T16:03:47Z",
-        "fileSize": 74,
+        "fileSize": 48,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -271,12 +306,13 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-02-05T14:43:23Z",
+        "updatedAt": "2026-04-07T15:20:03Z",
         "fileIds": [
-          "1000060478",
+          "1000062433",
           "1000047616",
           "1000059910",
           "1000053517",
+          "1000062222",
           "1000047888",
           "1000047893",
           "1000047897",
@@ -285,6 +321,7 @@
           "1000054320",
           "1000052019",
           "1000048441",
+          "1000060478",
           "1000059968",
           "1000049733",
           "1000059722",
@@ -315,6 +352,7 @@
           "1000047552",
           "1000048832",
           "1000051650",
+          "1000062402",
           "1000047573",
           "1000055257",
           "1000048090",
@@ -377,9 +415,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-03-01T18:26:12Z",
+        "updatedAt": "2026-03-26T13:54:42Z",
         "fileIds": [
-          "1000061176",
+          "1000061997",
           "1000044538",
           "1000060677",
           "1000059144",
@@ -408,6 +446,7 @@
           "1000056532",
           "1000055020",
           "1000055024",
+          "1000061176",
           "1000043776",
           "1000043586",
           "1000043855",
@@ -422,6 +461,6 @@
         ]
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }

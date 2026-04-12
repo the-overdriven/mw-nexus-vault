@@ -1,12 +1,184 @@
 {
-  "checkedAt": "2026-03-13T13:23:12.300Z",
+  "checkedAt": "2026-04-12T19:22:47.101Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 75
+        "100": 84
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-01T07:34:06Z",
+        "fileSize": 4961,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 58559,
+        "name": "Dark Brotherhood Armor Replacer by Articus",
+        "status": "published",
+        "summary": "This mod replaces Dark Brotherhood armor with HQ models and textures (2048 px). All you need is to place conteining files to your Morrowind/Data directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58559/58559-1775025760-2023923704.png",
+        "uid": "429496788159",
+        "updatedAt": "2026-04-02T14:58:44Z",
+        "fileIds": [
+          "1000062281"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-31T11:41:59Z",
+        "fileSize": 269371,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58551,
+        "name": "Artifact Hunter by Articus - Replacer and overhaul for all artifacts",
+        "status": "published",
+        "summary": "A complete rethinking of the Morrowind artifact system. All HQ replacers and expansions are included. New playbale class, birthsign, face and hair for female Imperials. \"Tamrielic Lore\" and \"Famed Artifacts of Tamriel\" books have been",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58551/58551-1774956947-2056372846.jpg",
+        "uid": "429496788151",
+        "updatedAt": "2026-04-06T12:18:53Z",
+        "fileIds": [
+          "1000062397"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-31T09:48:25Z",
+        "fileSize": 2165,
+        "modCategory": {
+          "categoryId": 37,
+          "name": "Armour - Shields"
+        },
+        "modId": 58550,
+        "name": "Spellbreaker Replacer",
+        "status": "published",
+        "summary": "Replaces Spellbreaker shield  with HQ models and HQ textures (2048 px) and adds glowing details.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58550/58550-1774950349-141356354.png",
+        "uid": "429496788150",
+        "updatedAt": "2026-03-31T09:48:25Z",
+        "fileIds": [
+          "1000062168"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-30T07:43:28Z",
+        "fileSize": 1139,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58541,
+        "name": "Daedric Crescent Replacer by InsanitySorrow",
+        "status": "published",
+        "summary": "Replaces Daedric Crescent artifact with HQ model and HQ textures (2048 px) and adds glowing elements. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58541/58541-1774856513-1232671727.png",
+        "uid": "429496788141",
+        "updatedAt": "2026-03-30T07:43:28Z",
+        "fileIds": [
+          "1000062134"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-29T21:43:23Z",
+        "fileSize": 1463,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58535,
+        "name": "Scourge Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces daedric artifact mace called Scourge with HQ model and HQ textures (2048 px) and adds glowing elements. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58535/58535-1774820360-1836017443.png",
+        "uid": "429496788135",
+        "updatedAt": "2026-03-29T21:43:23Z",
+        "fileIds": [
+          "1000062121"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-29T18:58:22Z",
+        "fileSize": 16570,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58534,
+        "name": "Epic Trees - Solstheim Bloodmoon",
+        "status": "published",
+        "summary": "Yet another Solstheim (DLC Bloodmoon) tree replacer, based on observation of real trees. Effects 2 types of trees - snowy and normal. Leaves are animated. All you need is to place conteining files to your Morrowind/Data directory. Enjoy the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58534/58534-1774810529-978217800.png",
+        "uid": "429496788134",
+        "updatedAt": "2026-03-29T19:04:44Z",
+        "fileIds": [
+          "1000062116",
+          "1000062115"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-28T09:22:25Z",
+        "fileSize": 106188,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58524,
+        "name": "Fantasia Grass Replacer",
+        "status": "published",
+        "summary": "This mod adds High Quality models and textures (2048/1024) for Fantasia Grass Mod. All regions now have an unique, vanilla friendly and natural look.All you need is to place conteining files to your Morrowind/Data directory after the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58524/58524-1774689161-610957581.jpg",
+        "uid": "429496788124",
+        "updatedAt": "2026-03-28T09:22:25Z",
+        "fileIds": [
+          "1000062049"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-26T08:19:21Z",
+        "fileSize": 13812,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58509,
+        "name": "Epic Trees - Sheogorad Azurian Coast",
+        "status": "published",
+        "summary": "Yet another Sheogorad, Azurian Coast tree replacer, based on observation of real mushrooms. Effects emperor parasols with particles, other 2 types of mushroom trees and Telvanni pods. All you need is to place conteining files to your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58509/58509-1774513012-1369052604.png",
+        "uid": "429496788109",
+        "updatedAt": "2026-03-26T08:19:21Z",
+        "fileIds": [
+          "1000061984"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-16T22:38:03Z",
+        "fileSize": 4250,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58461,
+        "name": "Epic Trees - Grazelands",
+        "status": "published",
+        "summary": "Yet another Grazelands tree replacer, based on observation of real trees. Effects 2 types of trees - with leavers and bare. Leaves are animated. All you need is to place conteining files to your Morrowind/Data directory.Enjoy the game and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58461/58461-1773700201-437386544.png",
+        "uid": "429496788061",
+        "updatedAt": "2026-03-22T14:31:01Z",
+        "fileIds": [
+          "1000061885"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-03-12T21:34:50Z",
@@ -199,8 +371,9 @@
         "summary": "Replaces Volendrung warhammer with HQ model and HQ textures (2048 px), adds glowing gem and animated halo. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57626/57626-1760550641-2034824834.png",
         "uid": "429496787226",
-        "updatedAt": "2025-10-15T17:55:06Z",
+        "updatedAt": "2026-03-31T08:14:20Z",
         "fileIds": [
+          "1000062166",
           "1000057673"
         ]
       },
@@ -312,7 +485,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-27T22:49:49Z",
-        "fileSize": 2321,
+        "fileSize": 2430,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -323,7 +496,12 @@
         "summary": "Replaces Bow of Shadows with HQ model and HQ textures (2048 px), adds glowing elements.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57523/57523-1759041539-2112503229.png",
         "uid": "429496787123",
-        "updatedAt": "2025-09-30T21:56:36Z"
+        "updatedAt": "2026-03-31T08:45:05Z",
+        "fileIds": [
+          "1000062167",
+          "1000057271",
+          "1000057266"
+        ]
       },
       {
         "adultContent": false,
@@ -513,7 +691,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-06-06T15:07:56Z",
-        "fileSize": 15981,
+        "fileSize": 15889,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -522,9 +700,13 @@
         "name": "Dragonbone Replacer",
         "status": "published",
         "summary": "This combination allows to replace Dragonbone assets with HQ models and textures. I couldn't think of anything better than using the SaintBahamut's port to replace the Dragonbone Armor. So now we have a full Dragonbone Replacer with",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56875/56875-1749225373-898227966.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56875/56875-1774908652-2047515723.png",
         "uid": "429496786475",
-        "updatedAt": "2025-06-25T13:56:51Z"
+        "updatedAt": "2026-03-30T23:17:00Z",
+        "fileIds": [
+          "1000062155",
+          "1000054693"
+        ]
       },
       {
         "adultContent": false,
@@ -583,7 +765,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-27T15:13:41Z",
-        "fileSize": 1157,
+        "fileSize": 1158,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -594,7 +776,11 @@
         "summary": "Replaces Ten Pace Boots with HQ model and HQ texture (2048 px) and fixes them.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56761/56761-1753805384-1753260411.jpg",
         "uid": "429496786361",
-        "updatedAt": "2025-05-30T08:48:03Z"
+        "updatedAt": "2026-03-30T14:12:29Z",
+        "fileIds": [
+          "1000062142",
+          "1000053832"
+        ]
       },
       {
         "adultContent": false,
@@ -679,7 +865,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-24T18:54:08Z",
-        "fileSize": 21789,
+        "fileSize": 21771,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -690,9 +876,9 @@
         "summary": "This mod replaces ebony armour, weapons, ore, ingredient and adds a cool playable Dunmer male face and hairstyle (compatible with Articus BN Faces).All you need is to place conteining files to your Morrowind/Data directory.Enjoy the game",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56719/56719-1748120662-380423004.jpeg",
         "uid": "429496786319",
-        "updatedAt": "2025-10-18T13:49:55Z",
+        "updatedAt": "2026-04-01T09:30:00Z",
         "fileIds": [
-          "1000057754"
+          "1000062217"
         ]
       },
       {
@@ -707,7 +893,7 @@
         "name": "Epic Trees - Ascadian Isles",
         "status": "published",
         "summary": "Yet another Ascadian Isles tree replacer, based on observation of real trees, supported by Vurt. Effects 2 types of trees, bush and Emperor Parasol. All you need is to place conteining files to your Morrowind/Data directory.Enjoy the game",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56509/56509-1769457645-1697340860.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56509/56509-1773701571-961547736.jpg",
         "uid": "429496786109",
         "updatedAt": "2026-01-25T22:46:35Z",
         "fileIds": [
@@ -717,7 +903,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-29T22:45:56Z",
-        "fileSize": 14301,
+        "fileSize": 14305,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -726,9 +912,13 @@
         "name": "Umbra Replacer by Articus",
         "status": "published",
         "summary": "Replaces Umbra claymore with HQ model and HQ textures (2048, 1024 px), adds glowing animated texture of souls. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56437/56437-1745966635-1225496043.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56437/56437-1774881705-359659218.png",
         "uid": "429496786037",
-        "updatedAt": "2025-04-29T22:45:56Z"
+        "updatedAt": "2026-03-30T14:43:30Z",
+        "fileIds": [
+          "1000062144",
+          "1000052217"
+        ]
       },
       {
         "adultContent": false,
@@ -1072,7 +1262,7 @@
       {
         "adultContent": false,
         "createdAt": "2018-11-24T17:49:33Z",
-        "fileSize": 113721,
+        "fileSize": 104026,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -1083,15 +1273,16 @@
         "summary": "Replaces textures and models of various flora with HQ quality.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46180/46180-1543350672-621052403.jpeg",
         "uid": "429496775780",
-        "updatedAt": "2026-03-08T15:54:53Z",
+        "updatedAt": "2026-03-16T16:15:04Z",
         "fileIds": [
-          "1000061410",
-          "1000061411",
+          "1000061713",
+          "1000061712",
           "1000018414",
           "1000061412",
           "1000025420",
           "1000019240",
           "1000019241",
+          "1000061410",
           "1000012952",
           "1000013072",
           "1000013073",
@@ -1117,6 +1308,7 @@
           "1000012666",
           "1000013257",
           "1000013605",
+          "1000061411",
           "1000013499",
           "1000013501",
           "1000013005",
@@ -1261,72 +1453,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45793/45793-1538514820-38195174.jpeg",
         "uid": "429496775393",
         "updatedAt": "2025-02-05T22:56:01Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-06-15T21:03:33Z",
-        "fileSize": 2670,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45786,
-        "name": "Articus Solstheim Clothes",
-        "status": "published",
-        "summary": "Replaces all the default clothing from the Morrowind DLC Bloodmoon with new non-segmented versions designed to work with Better Bodies or Robert Bodies.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45786/45786-1529096257-296073432.jpeg",
-        "uid": "429496775386",
-        "updatedAt": "2018-10-18T16:38:47Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-06-13T09:15:44Z",
-        "fileSize": 3801,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45773,
-        "name": "Articus Mournhold Clothes",
-        "status": "published",
-        "summary": "This is pluginless replacer of all the default clothing from the Morrowind DLC Tribunal with new non-segmented versions designed to work with Better Bodies or Robert Bodies.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45773/45773-1528880930-1789944488.jpeg",
-        "uid": "429496775373",
-        "updatedAt": "2018-10-18T16:34:38Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-06-12T20:44:47Z",
-        "fileSize": 1693,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45770,
-        "name": "Vurt Mournhold Dead trees",
-        "status": "published",
-        "summary": "Forgotten replacer for Mournhold dead trees by Vurt. Changes comes after ash storms in Mournhold. Trees are animated.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45770/45770-1528899666-1610285435.jpeg",
-        "uid": "429496775370",
-        "updatedAt": "2018-06-12T20:44:47Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-06-11T19:02:41Z",
-        "fileSize": 142804,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45769,
-        "name": "Articus Old Mournhold and Sewers Retexture 2K",
-        "status": "published",
-        "summary": "This mod adds High Quality (2048) textures for Old Mournhold buildings and Sewers.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45769/45769-1531582962-1434977683.jpeg",
-        "uid": "429496775369",
-        "updatedAt": "2018-11-12T18:03:15Z"
       }
     ],
-    "totalCount": 75
+    "totalCount": 84
   }
 }

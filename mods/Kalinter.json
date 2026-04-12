@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-13T13:24:19.617Z",
+  "checkedAt": "2026-04-12T19:28:19.882Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -281,18 +281,22 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-26T04:29:28Z",
-        "fileSize": 111,
+        "fileSize": 5942,
         "modCategory": {
-          "categoryId": 2,
-          "name": "Buildings"
+          "categoryId": 34,
+          "name": "Towns and Villages"
         },
         "modId": 53544,
-        "name": "The Great Seawall of Vivec",
+        "name": "Witness Structure - The Seawall of Vivec",
         "status": "published",
-        "summary": "The Great Seawall stands south of Vivec, serving as a fortification to repel naval assaults against the city, and as a chokepoint to control maritime traffic to and from Ebonheart and Vivec. It offers splendid views of both the Ascadian",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53544/53544-1695701860-1533987746.png",
+        "summary": "A city expansion for Vivec, Witness Structure adds the Seawall of Vivec across the southern end of Norvayn Bay. Complete with new quests, hundreds of lines of unique dialogue, new services, secrets to discover, and more.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53544/53544-1774200057-2105149570.jpg",
         "uid": "429496783144",
-        "updatedAt": "2023-11-04T05:18:01Z"
+        "updatedAt": "2026-04-11T03:06:35Z",
+        "fileIds": [
+          "1000062551",
+          "1000040784"
+        ]
       },
       {
         "adultContent": false,

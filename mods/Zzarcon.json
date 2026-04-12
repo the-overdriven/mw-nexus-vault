@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-13T13:25:22.678Z",
+  "checkedAt": "2026-04-12T19:34:37.431Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 25,
+        "100": 26,
         "110": 2,
         "1151": 1
       }
@@ -11,8 +11,27 @@
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-03-22T02:37:07Z",
+        "fileSize": 8647,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 58489,
+        "name": "Wild Tamriel Fallout New vegas styled Easter eggs",
+        "status": "published",
+        "summary": "Gives Morrowinds Easter eggs a bit more flair",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58489/58489-1774113233-144816607.png",
+        "uid": "429496788089",
+        "updatedAt": "2026-03-22T02:37:07Z",
+        "fileIds": [
+          "1000061865"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-05-28T22:59:25Z",
-        "fileSize": 12674,
+        "fileSize": 12685,
         "modCategory": {
           "categoryId": 10,
           "name": "New Lands"
@@ -23,11 +42,10 @@
         "summary": "A world of forbidden desires and debauchery awaits.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56782/56782-1748471608-1641916031.png",
         "uid": "429496786382",
-        "updatedAt": "2026-01-25T03:38:46Z",
+        "updatedAt": "2026-03-27T01:31:16Z",
         "fileIds": [
-          "1000059779",
-          "1000060226",
-          "1000053732"
+          "1000062012",
+          "1000053731"
         ]
       },
       {
@@ -288,22 +306,20 @@
       {
         "adultContent": false,
         "createdAt": "2024-01-05T21:51:57Z",
-        "fileSize": 5831,
+        "fileSize": 6112,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
         },
         "modId": 53940,
-        "name": "Of Gems and Geodes an Ald Rhun Collector",
+        "name": "Of Gems and Geodes an Ald'Ruhn Collector",
         "status": "published",
         "summary": "A new mineral collector in Ald Rhun is looking for adventurers.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53940/53940-1704490632-2066561134.png",
         "uid": "429496783540",
-        "updatedAt": "2025-05-30T19:02:52Z",
+        "updatedAt": "2026-03-22T17:35:29Z",
         "fileIds": [
-          "1000053862",
-          "1000053863",
-          "1000041883"
+          "1000061891"
         ]
       },
       {
@@ -325,7 +341,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-15T22:04:51Z",
-        "fileSize": 430,
+        "fileSize": 1065,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -336,16 +352,15 @@
         "summary": "A new Bonemold smith has opened shop in Aldrhun.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53732/53732-1700085271-1828805460.png",
         "uid": "429496783332",
-        "updatedAt": "2025-04-11T20:12:52Z",
+        "updatedAt": "2026-03-22T19:55:26Z",
         "fileIds": [
-          "1000051861",
-          "1000040998"
+          "1000061894"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2023-09-29T18:12:15Z",
-        "fileSize": 480667,
+        "fileSize": 160492,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -356,9 +371,17 @@
         "summary": "Fixes some incompatibilities with between mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53570/53570-1696010591-156056443.png",
         "uid": "429496783170",
-        "updatedAt": "2025-11-23T02:43:11Z",
+        "updatedAt": "2026-04-08T19:16:51Z",
         "fileIds": [
-          "1000058617",
+          "1000062437",
+          "1000062436",
+          "1000062438",
+          "1000062439",
+          "1000062476",
+          "1000062440",
+          "1000062475",
+          "1000062441",
+          "1000062442",
           "1000048342",
           "1000050502"
         ]
@@ -464,6 +487,6 @@
         "updatedAt": "2023-05-01T18:16:12Z"
       }
     ],
-    "totalCount": 25
+    "totalCount": 26
   }
 }

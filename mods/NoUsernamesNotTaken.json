@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-13T13:24:59.781Z",
+  "checkedAt": "2026-04-12T19:30:55.745Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 98
+        "100": 97
       }
     },
     "nodes": [
@@ -22,22 +22,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52288/52288-1675631270-916125393.jpeg",
         "uid": "429496781888",
         "updatedAt": "2023-02-05T21:28:09Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2023-01-22T14:46:54Z",
-        "fileSize": 9,
-        "modCategory": {
-          "categoryId": 11,
-          "name": "NPCs"
-        },
-        "modId": 52194,
-        "name": "Caius High As Fuck",
-        "status": "published",
-        "summary": "Mesh edit of Caius Cosades head.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52194/52194-1674397670-685248365.jpeg",
-        "uid": "429496781794",
-        "updatedAt": "2023-01-22T14:46:54Z"
       },
       {
         "adultContent": false,
@@ -1286,8 +1270,24 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46931/46931-1561431165-446133015.png",
         "uid": "429496776531",
         "updatedAt": "2021-12-20T10:58:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-06-25T15:53:17Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 46932,
+        "name": "moar class",
+        "status": "published",
+        "summary": "50 more classes for TES3:Morrowind",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46932/46932-1561433720-963233412.png",
+        "uid": "429496776532",
+        "updatedAt": "2019-06-25T15:53:17Z"
       }
     ],
-    "totalCount": 98
+    "totalCount": 97
   }
 }

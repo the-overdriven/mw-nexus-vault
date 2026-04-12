@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-13T13:25:02.559Z",
+  "checkedAt": "2026-04-12T19:31:55.736Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-24T09:38:37Z",
-        "fileSize": 398428,
+        "fileSize": 505464,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -21,9 +21,11 @@
         "summary": "Adds voices from Oblivion and Skyrim to Morrowind (AI-generated)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57971/57971-1766560640-604400511.jpg",
         "uid": "429496787571",
-        "updatedAt": "2025-12-24T09:38:37Z",
+        "updatedAt": "2026-03-20T17:52:15Z",
         "fileIds": [
-          "1000059467"
+          "1000061836",
+          "1000059467",
+          "1000061715"
         ]
       },
       {

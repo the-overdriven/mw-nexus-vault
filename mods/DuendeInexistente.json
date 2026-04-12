@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2026-03-13T13:23:59.290Z",
+  "checkedAt": "2026-04-12T19:27:16.381Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6
+        "100": 8
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-15T19:38:31Z",
+        "fileSize": 47,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 58449,
+        "name": "Lights 300 with no weirdly pickable objects",
+        "status": "published",
+        "summary": "I love lights300, but it makes a lot of items possible to pick up that it shouldn't. This fixes that.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58449/58449-1773603412-1043169423.png",
+        "uid": "429496788049",
+        "updatedAt": "2026-03-15T19:38:31Z",
+        "fileIds": [
+          "1000061670"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-14T18:23:39Z",
+        "fileSize": 81658,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58435,
+        "name": "Greg's normal maps for openmw compiled",
+        "status": "published",
+        "summary": "Greg's normal maps are spread across like 45 downloads. This compiles them all into a single one.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58435/58435-1773512371-830668126.jpg",
+        "uid": "429496788035",
+        "updatedAt": "2026-03-14T18:23:39Z",
+        "fileIds": [
+          "1000061624"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-07-08T20:00:23Z",
@@ -107,6 +145,6 @@
         "updatedAt": "2022-02-28T21:15:50Z"
       }
     ],
-    "totalCount": 6
+    "totalCount": 8
   }
 }

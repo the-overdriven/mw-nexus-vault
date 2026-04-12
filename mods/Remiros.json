@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-13T13:25:01.936Z",
+  "checkedAt": "2026-04-12T19:31:30.390Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16,
+        "100": 15,
         "110": 12,
         "1704": 15
       }
@@ -72,22 +72,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52161/52161-1673388821-1564322604.png",
         "uid": "429496781761",
         "updatedAt": "2023-01-11T00:07:00Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2023-01-07T19:30:58Z",
-        "fileSize": 498,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 52146,
-        "name": "Feline Ordinators",
-        "status": "published",
-        "summary": "Khajiit is watching you, sugar thief",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52146/52146-1673119667-1435250042.jpeg",
-        "uid": "429496781746",
-        "updatedAt": "2023-01-07T19:30:58Z"
       },
       {
         "adultContent": false,
@@ -266,6 +250,6 @@
         "updatedAt": "2020-05-06T12:28:34Z"
       }
     ],
-    "totalCount": 16
+    "totalCount": 15
   }
 }

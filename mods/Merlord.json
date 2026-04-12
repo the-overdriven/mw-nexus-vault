@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-13T13:24:22.118Z",
+  "checkedAt": "2026-04-12T19:29:52.289Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 59
+        "100": 58
       }
     },
     "nodes": [
@@ -754,22 +754,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2019-05-01T01:22:23Z",
-        "fileSize": 24,
-        "modCategory": {
-          "categoryId": 25,
-          "name": "Audio"
-        },
-        "modId": 46588,
-        "name": "Shut the Fuck up Cliff Racers",
-        "status": "published",
-        "summary": "Shut the Fuck Up, Cliff Racers! drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh. In the vanilla file, cliff racers play the \"cliff racer moan\" sound during every single idle",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46588/46588-1556673722-1147068922.png",
-        "uid": "429496776188",
-        "updatedAt": "2019-05-01T01:22:23Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2019-03-06T10:20:50Z",
         "fileSize": 2,
         "modCategory": {
@@ -1013,6 +997,6 @@
         "updatedAt": "2018-04-24T10:30:11Z"
       }
     ],
-    "totalCount": 59
+    "totalCount": 58
   }
 }

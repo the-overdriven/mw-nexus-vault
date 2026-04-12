@@ -1,16 +1,35 @@
 {
-  "checkedAt": "2026-03-13T13:23:36.048Z",
+  "checkedAt": "2026-04-12T19:25:27.863Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 25
+        "100": 26
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-04-10T09:11:28Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58623,
+        "name": "Good Citizens Hand Over Skooma",
+        "status": "published",
+        "summary": "This is a friendly roleplaying mod for non-drugdealing players. Now, you can hand over your skooma and moon sugar to high-ranking members of the Imperial Cult for a small finder's fee.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58623/58623-1775811680-855439844.jpg",
+        "uid": "429496788223",
+        "updatedAt": "2026-04-10T09:11:28Z",
+        "fileIds": [
+          "1000062521"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-09-28T07:34:47Z",
-        "fileSize": 6,
+        "fileSize": 25,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -21,9 +40,9 @@
         "summary": "A straightforward approach to an alternative start mod, as well as a modders resource.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57525/57525-1759031174-1690080335.jpg",
         "uid": "429496787125",
-        "updatedAt": "2026-02-04T08:08:52Z",
+        "updatedAt": "2026-04-05T08:10:36Z",
         "fileIds": [
-          "1000060464",
+          "1000062359",
           "1000060465"
         ]
       },
@@ -474,6 +493,6 @@
         ]
       }
     ],
-    "totalCount": 25
+    "totalCount": 26
   }
 }

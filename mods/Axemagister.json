@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-13T13:23:19.407Z",
+  "checkedAt": "2026-04-12T19:24:48.189Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 22
+        "100": 24
       }
     },
     "nodes": [
@@ -60,6 +60,25 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54549/54549-1714657887-1619524073.jpeg",
         "uid": "429496784149",
         "updatedAt": "2024-05-02T13:53:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-01T22:46:34Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54544,
+        "name": "Quick Wheel",
+        "status": "published",
+        "summary": "Quick access wheel like in modern games",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54544/54544-1714603453-140339795.jpeg",
+        "uid": "429496784144",
+        "updatedAt": "2026-03-20T19:59:22Z",
+        "fileIds": [
+          "1000061839"
+        ]
       },
       {
         "adultContent": false,
@@ -265,6 +284,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2021-05-02T19:17:55Z",
+        "fileSize": 360,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49646,
+        "name": "Time Shift",
+        "status": "published",
+        "summary": "Bullet-time ability",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49646/49646-1620137390-1566809549.jpeg",
+        "uid": "429496779246",
+        "updatedAt": "2021-05-02T19:17:55Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2021-05-02T12:24:46Z",
         "fileSize": 2,
         "modCategory": {
@@ -362,7 +397,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-07-26T20:13:59Z",
-        "fileSize": 13354,
+        "fileSize": 13678,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -373,13 +408,13 @@
         "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
         "uid": "429496776615",
-        "updatedAt": "2026-03-12T17:34:05Z",
+        "updatedAt": "2026-04-10T18:07:28Z",
         "fileIds": [
           "1000050367",
-          "1000061572"
+          "1000062534"
         ]
       }
     ],
-    "totalCount": 22
+    "totalCount": 24
   }
 }

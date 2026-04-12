@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-13T13:25:01.327Z",
+  "checkedAt": "2026-04-12T19:31:04.984Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -546,7 +546,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-01-22T20:25:46Z",
-        "fileSize": 6963,
+        "fileSize": 6970,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -557,9 +557,9 @@
         "summary": "Overhaul of the Wolverine Hall, turning it into a proper hall. Based on Stav's WHO",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52199/52199-1674507617-1803645867.png",
         "uid": "429496781799",
-        "updatedAt": "2026-02-16T12:21:04Z",
+        "updatedAt": "2026-03-28T08:36:26Z",
         "fileIds": [
-          "1000060786",
+          "1000062045",
           "1000037900",
           "1000039200",
           "1000041010",
@@ -569,6 +569,8 @@
           "1000042983",
           "1000042997",
           "1000054093",
+          "1000062034",
+          "1000060786",
           "1000054006"
         ]
       },
@@ -634,7 +636,12 @@
         "summary": "Adds fireflies around the Bitter Coast and the Ascadian Isles",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51443/51443-1654425956-1858393087.png",
         "uid": "429496781043",
-        "updatedAt": "2024-01-11T19:36:21Z"
+        "updatedAt": "2026-04-12T18:11:23Z",
+        "fileIds": [
+          "1000062615",
+          "1000042003",
+          "1000031383"
+        ]
       },
       {
         "adultContent": false,
@@ -703,7 +710,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-08-26T20:29:10Z",
-        "fileSize": 17,
+        "fileSize": 67,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -714,7 +721,22 @@
         "summary": "Overhaul of the Library of Vivec to make it the interesting place it was meant to be.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50181/50181-1630005841-1404225063.jpeg",
         "uid": "429496779781",
-        "updatedAt": "2023-11-12T10:05:38Z"
+        "updatedAt": "2026-03-19T20:00:14Z",
+        "fileIds": [
+          "1000039513",
+          "1000061811",
+          "1000040954",
+          "1000030831",
+          "1000026772",
+          "1000026560",
+          "1000026561",
+          "1000026566",
+          "1000026842",
+          "1000026598",
+          "1000033903",
+          "1000031885",
+          "1000031994"
+        ]
       },
       {
         "adultContent": false,

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-03-13T13:24:19.428Z",
+  "checkedAt": "2026-04-12T19:28:11.446Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34
+        "100": 35
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-09T23:15:15Z",
+        "fileSize": 120,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 58621,
+        "name": "Kunirai Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Kunirai.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58621/58621-1775776208-716742325.png",
+        "uid": "429496788221",
+        "updatedAt": "2026-04-09T23:15:15Z",
+        "fileIds": [
+          "1000062516"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-10-30T03:28:43Z",
@@ -618,6 +637,6 @@
         "updatedAt": "2017-01-06T02:24:09Z"
       }
     ],
-    "totalCount": 34
+    "totalCount": 35
   }
 }

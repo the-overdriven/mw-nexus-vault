@@ -1,14 +1,35 @@
 {
-  "checkedAt": "2026-03-13T13:25:02.356Z",
+  "checkedAt": "2026-04-12T19:31:30.745Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 42,
+        "100": 43,
         "110": 1,
         "2736": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-07T06:33:37Z",
+        "fileSize": 9032,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 58599,
+        "name": "Indoril Bonesaint Armor",
+        "status": "published",
+        "summary": "A Morrowindified port of Pulcharmsolis' Bonesaint armor + a steel falchion weapon",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58599/58599-1775542135-1343758639.jpg",
+        "uid": "429496788199",
+        "updatedAt": "2026-04-07T06:47:59Z",
+        "fileIds": [
+          "1000062421",
+          "1000062423",
+          "1000062420"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-02-20T20:04:52Z",
@@ -43,10 +64,11 @@
         "summary": "Explore a new cave system that goes from the Bitter Coast all the way to the West Gash and discover its ancient treasure.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57935/57935-1766555940-252545149.jpg",
         "uid": "429496787535",
-        "updatedAt": "2026-02-07T15:19:59Z",
+        "updatedAt": "2026-03-21T06:56:01Z",
         "fileIds": [
           "1000060519",
           "1000059504",
+          "1000061842",
           "1000059464",
           "1000059503"
         ]
@@ -216,7 +238,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-12-09T01:33:25Z",
-        "fileSize": 6154,
+        "fileSize": 7668,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -227,7 +249,11 @@
         "summary": "an updated version of my hd remakes of Ashstaar's Sathil Mercenary and Redoran War Armor",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53812/53812-1702084928-157842543.png",
         "uid": "429496783412",
-        "updatedAt": "2023-12-11T05:36:43Z"
+        "updatedAt": "2026-03-29T06:06:56Z",
+        "fileIds": [
+          "1000062084",
+          "1000041383"
+        ]
       },
       {
         "adultContent": false,
@@ -544,7 +570,7 @@
           "name": "Armour"
         },
         "modId": 50166,
-        "name": "Complete and revised Nordic Iron Armor",
+        "name": "Complete and revised Nordic Iron Armor (OUTDATED)",
         "status": "published",
         "summary": "Adds the completed set of Nordic iron armor to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50166/50166-1629515490-1623360090.png",
@@ -754,6 +780,6 @@
         "updatedAt": "2021-09-26T00:45:01Z"
       }
     ],
-    "totalCount": 42
+    "totalCount": 43
   }
 }

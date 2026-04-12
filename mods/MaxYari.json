@@ -1,15 +1,61 @@
 {
-  "checkedAt": "2026-03-13T13:24:21.766Z",
+  "checkedAt": "2026-04-12T19:29:08.260Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13,
+        "100": 15,
         "101": 2,
         "198": 1,
         "1579": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-15T13:11:58Z",
+        "fileSize": 27,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 58443,
+        "name": "Animated Lanterns and Signs -- OpenMW",
+        "status": "published",
+        "summary": "Procedurally animates surrounding lanterns and guild signs to swing in the wind. Swing strength can be adjusted in settings. Can be easily extended to support any modded objects. As optimised as it can get, virtually 0 performance effect.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58443/58443-1773580084-1568915238.png",
+        "uid": "429496788043",
+        "updatedAt": "2026-04-05T19:51:12Z",
+        "fileIds": [
+          "1000062376",
+          "1000062295",
+          "1000061789",
+          "1000061808",
+          "1000061650",
+          "1000061667"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-15T12:46:30Z",
+        "fileSize": 2784,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58441,
+        "name": "Sneak is Good Now. -- OpenMW",
+        "status": "published",
+        "summary": "An OpenMW mod that makes sneak mechanics playable. Sneak detection is now a visually displayed gradual progress. This mod attempts to strike a balance between gamified mechanics and \"\"\"realism\"\"\".",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58441/58441-1773578450-1185793680.png",
+        "uid": "429496788041",
+        "updatedAt": "2026-04-02T21:03:40Z",
+        "fileIds": [
+          "1000062294",
+          "1000061801",
+          "1000061649",
+          "1000061666"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-17T13:31:47Z",
@@ -106,19 +152,20 @@
           "name": "Animations"
         },
         "modId": 55327,
-        "name": "Dynamic camera effects and target lock -- OpenMW",
+        "name": "Dynamic camera - Immersive 1st and 3rd person camera effects and target lock -- OpenMW",
         "status": "published",
-        "summary": "-- aka Caméra --Subtle dynamic camera and first-person viewmodel (hands) motion. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Highly",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1747084913-384105608.png",
+        "summary": "Subtle dynamic camera and first-person viewmodel (hands) inertia. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Experimental strafe",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1773873803-1720735435.png",
         "uid": "429496784927",
-        "updatedAt": "2026-03-01T19:38:37Z",
+        "updatedAt": "2026-03-18T22:40:52Z",
         "fileIds": [
-          "1000061178",
+          "1000061790",
           "1000060984",
           "1000054592",
           "1000052831",
           "1000053113",
           "1000054961",
+          "1000061178",
           "1000047650",
           "1000047671",
           "1000050237",
@@ -285,6 +332,6 @@
         "updatedAt": "2022-06-27T09:40:34Z"
       }
     ],
-    "totalCount": 13
+    "totalCount": 15
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-13T13:24:20.527Z",
+  "checkedAt": "2026-04-12T19:28:43.516Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -111,7 +111,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-03-29T18:13:04Z",
-        "fileSize": 2080,
+        "fileSize": 2081,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -122,7 +122,10 @@
         "summary": "A mesh and texture replacer for Bloodmoon's spriggan. Looks less like a 2007-era Runescape character",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50920/50920-1648577103-64739183.jpeg",
         "uid": "429496780520",
-        "updatedAt": "2022-03-29T18:13:04Z"
+        "updatedAt": "2026-04-06T21:24:39Z",
+        "fileIds": [
+          "1000062414"
+        ]
       },
       {
         "adultContent": false,

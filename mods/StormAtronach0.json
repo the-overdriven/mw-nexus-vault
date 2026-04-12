@@ -1,12 +1,95 @@
 {
-  "checkedAt": "2026-03-13T13:25:03.678Z",
+  "checkedAt": "2026-04-12T19:32:04.360Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13
+        "100": 17
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-11T11:29:47Z",
+        "fileSize": 48,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58633,
+        "name": "VAIN - Vastly Augmented Intelligence for NPCs in Combat",
+        "status": "published",
+        "summary": "Morrowind's combat AI is 22 years old. Enemies sprint at you until they die or panic. Summoners keep casting bound greaves on themselves. Archers close into melee the moment they feel threatened. High intelligence magic users loop the same",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58633/58633-1775906214-686651082.png",
+        "uid": "429496788233",
+        "updatedAt": "2026-04-11T15:14:21Z",
+        "fileIds": [
+          "1000062579",
+          "1000062564",
+          "1000062576"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-04T04:14:24Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 58582,
+        "name": "MWSE Profiler 2",
+        "status": "published",
+        "summary": "A profiler based on ProFi to measure function time and garbage generation at runtime.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58582/58582-1775275975-82144262.jpg",
+        "uid": "429496788182",
+        "updatedAt": "2026-04-04T04:14:24Z",
+        "fileIds": [
+          "1000062332"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-29T16:03:47Z",
+        "fileSize": 4492,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58531,
+        "name": "Necrocraft Resurrected",
+        "status": "published",
+        "summary": "All the classic Necrocraft, but better! A debug pass of the original Necrocraft mod. Requires original mod assets",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58531/58531-1774800028-2088041224.jpg",
+        "uid": "429496788131",
+        "updatedAt": "2026-03-31T11:51:04Z",
+        "fileIds": [
+          "1000062179",
+          "1000062099"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-15T15:29:14Z",
+        "fileSize": 184,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 58445,
+        "name": "Magicka of the Third Era - Reborn",
+        "status": "published",
+        "summary": "An update to the code of the great Magicka of the Third Era. Requires original mod for assets. Includes a brand new mode, creating a hybrid between full deterministic and dice rolling.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58445/58445-1773588337-1169197189.png",
+        "uid": "429496788045",
+        "updatedAt": "2026-04-07T08:03:10Z",
+        "fileIds": [
+          "1000062427",
+          "1000062352",
+          "1000061656",
+          "1000062177",
+          "1000061690"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-02-12T14:58:37Z",
@@ -29,7 +112,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-22T11:01:50Z",
-        "fileSize": 36,
+        "fileSize": 26,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -40,11 +123,12 @@
         "summary": "Have you ever wished that weapons had slashing, piercing, and bludgeoning damage types? Have you wished that someone had screened all creatures in the game, and gave them resistances and weaknesses that felt appropriate? That silver was",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58114/58114-1769079421-1655337852.jpg",
         "uid": "429496787714",
-        "updatedAt": "2026-02-18T12:16:08Z",
+        "updatedAt": "2026-04-06T09:38:23Z",
         "fileIds": [
-          "1000060820",
+          "1000062393",
           "1000060163",
           "1000060182",
+          "1000060820",
           "1000060320",
           "1000060582",
           "1000060346",
@@ -220,7 +304,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-27T09:15:27Z",
-        "fileSize": 6,
+        "fileSize": 8,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -231,10 +315,11 @@
         "summary": "Summon your ancestors for a little \"help\"—and get blessed, cursed, or just roasted by the family ghosts. Because who doesn’t want unsolicited advice from the afterlife?",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56757/56757-1757494113-426843212.jpg",
         "uid": "429496786357",
-        "updatedAt": "2025-06-18T21:33:10Z",
+        "updatedAt": "2026-04-11T06:43:52Z",
         "fileIds": [
-          "1000053652",
-          "1000054541"
+          "1000062558",
+          "1000054541",
+          "1000053652"
         ]
       },
       {
@@ -286,6 +371,6 @@
         ]
       }
     ],
-    "totalCount": 13
+    "totalCount": 17
   }
 }

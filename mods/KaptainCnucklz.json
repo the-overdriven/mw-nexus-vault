@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-03-13T13:24:19.702Z",
+  "checkedAt": "2026-04-12T19:28:27.800Z",
   "mods": {
     "facetsData": {
       "gameId": {
         "100": 15,
         "101": 15,
         "110": 2,
-        "130": 38,
+        "130": 37,
         "428": 1,
         "875": 1,
         "1151": 26,
@@ -136,7 +136,7 @@
         "modId": 53685,
         "name": "DXVK - Vulkan Translation Layer for Morrowind and MGE XE",
         "status": "published",
-        "summary": "An unofficial extract-and-play DXVK package for running Morrowind in Vulkan. May improve performance with some PCs.",
+        "summary": "An unofficial extract-and-play DXVK package for running Morrowind in Vulkan. May improve performance with some PCs. (Incompatible with OpenMW.)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53685/53685-1754525178-1466317738.png",
         "uid": "429496783285",
         "updatedAt": "2025-08-30T23:00:26Z",
