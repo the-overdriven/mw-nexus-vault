@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-04-12T19:24:48.189Z",
+  "checkedAt": "2026-04-24T21:54:56.197Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24
+        "100": 26
       }
     },
     "nodes": [
@@ -44,6 +44,22 @@
         "fileIds": [
           "1000059618"
         ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-04T15:15:29Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54574,
+        "name": "Rag n'wahs",
+        "status": "published",
+        "summary": "Enemies are knocked back on killing hits",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54574/54574-1714835626-630834487.png",
+        "uid": "429496784174",
+        "updatedAt": "2024-05-04T15:15:29Z"
       },
       {
         "adultContent": false,
@@ -115,6 +131,22 @@
           "1000059612",
           "1000060140"
         ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-06T15:59:29Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52828,
+        "name": "Constant enchantment limit",
+        "status": "published",
+        "summary": "Do you like to decorate yourself with artifacts like a Christmas tree? Then this mod is not for you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52828/52828-1683388678-455468718.jpeg",
+        "uid": "429496782428",
+        "updatedAt": "2025-06-05T07:11:33Z"
       },
       {
         "adultContent": false,
@@ -397,7 +429,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-07-26T20:13:59Z",
-        "fileSize": 13678,
+        "fileSize": 13679,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -408,13 +440,13 @@
         "summary": "Modern gameplay remaster of the game. New perk role-playing system, new game mechanics for leveling, combat, magic, AI, economy, creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47015/47015-1598646301-307841646.jpeg",
         "uid": "429496776615",
-        "updatedAt": "2026-04-10T18:07:28Z",
+        "updatedAt": "2026-04-21T11:02:20Z",
         "fileIds": [
-          "1000050367",
-          "1000062534"
+          "1000062878",
+          "1000050367"
         ]
       }
     ],
-    "totalCount": 24
+    "totalCount": 26
   }
 }

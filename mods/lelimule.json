@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-12T19:28:50.307Z",
+  "checkedAt": "2026-04-24T21:56:44.196Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -518,7 +518,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-02-18T16:07:05Z",
-        "fileSize": 105,
+        "fileSize": 110,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -529,22 +529,23 @@
         "summary": "Patch for Antares' Privileges And Services mod: bugs corrections, and improvements added.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52371/52371-1748287888-289058556.png",
         "uid": "429496781971",
-        "updatedAt": "2025-08-19T13:52:53Z",
+        "updatedAt": "2026-04-13T16:51:53Z",
         "fileIds": [
+          "1000062654",
           "1000056126",
-          "1000054555",
-          "1000053618",
-          "1000053657",
-          "1000054458",
-          "1000054749",
           "1000055277",
-          "1000040229",
-          "1000040515",
+          "1000054749",
+          "1000054555",
+          "1000054458",
+          "1000053657",
+          "1000053618",
           "1000050809",
-          "1000036250",
-          "1000041121",
           "1000042730",
-          "1000040429"
+          "1000041121",
+          "1000040515",
+          "1000040429",
+          "1000040229",
+          "1000036250"
         ]
       },
       {

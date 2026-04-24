@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-12T19:33:25.081Z",
+  "checkedAt": "2026-04-24T21:57:44.968Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -190,8 +190,9 @@
         "summary": "UPDATE: Added the features from Shop Around by Merlord. Supports item animations for Quickloot by OwnlyMe. Based on MWSE Animated Pickup by C3pa, telekinesis style effect when picking up items. Plus Sneak to Steal, block accidental thievery",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54585/54585-1714851124-1692199516.png",
         "uid": "429496784185",
-        "updatedAt": "2026-04-07T18:26:52Z",
+        "updatedAt": "2026-04-24T19:43:46Z",
         "fileIds": [
+          "1000062996",
           "1000062445",
           "1000057989"
         ]
@@ -247,8 +248,9 @@
         "summary": "*NEW* Notification banners for New Location Discovered. Add popup notifications when you start or finish a quest, or discover new locations, in the style of Skyrim. Based on nazz190's MWSE Skyrim Style Quest Notifications. Requires OpenMW",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54148/54148-1707850703-1609451237.png",
         "uid": "429496783748",
-        "updatedAt": "2025-12-10T19:48:50Z",
+        "updatedAt": "2026-04-24T20:02:19Z",
         "fileIds": [
+          "1000062997",
           "1000059109",
           "1000054909"
         ]

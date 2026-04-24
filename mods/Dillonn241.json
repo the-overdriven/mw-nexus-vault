@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-04-12T19:27:08.768Z",
+  "checkedAt": "2026-04-24T21:56:02.150Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 10,
+        "100": 11,
         "110": 1,
         "1704": 1,
         "4462": 3,
@@ -11,6 +11,29 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-13T06:56:07Z",
+        "fileSize": 52,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58660,
+        "name": "Imperial Billiards - Playable Pool Tables",
+        "status": "published",
+        "summary": "Adds playable 5-ball billiards/pool tables to Morrowind and Project Cyrodiil. Compete against AI opponents to win or lose gold! Uses Tamriel_Data assets.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58660/58660-1776061369-154493546.png",
+        "uid": "429496788260",
+        "updatedAt": "2026-04-14T04:50:02Z",
+        "fileIds": [
+          "1000062668",
+          "1000062666",
+          "1000062667",
+          "1000062638",
+          "1000062636"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-28T00:33:03Z",
@@ -224,6 +247,6 @@
         ]
       }
     ],
-    "totalCount": 10
+    "totalCount": 11
   }
 }

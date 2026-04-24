@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-04-12T19:26:15.742Z",
+  "checkedAt": "2026-04-24T21:55:38.396Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 37
+        "100": 35
       }
     },
     "nodes": [
@@ -103,17 +103,18 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-04-10T22:26:24Z",
+        "updatedAt": "2026-04-22T11:24:38Z",
         "fileIds": [
+          "1000062914",
           "1000062546",
-          "1000059136",
-          "1000061186",
-          "1000060443",
-          "1000060808",
-          "1000061360",
-          "1000059067",
           "1000061414",
-          "1000059114"
+          "1000061360",
+          "1000061186",
+          "1000060808",
+          "1000060443",
+          "1000059136",
+          "1000059114",
+          "1000059067"
         ]
       },
       {
@@ -448,36 +449,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2024-06-02T01:56:23Z",
-        "fileSize": 1695,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 54776,
-        "name": "Devilish Carry Weight Overhaul (OpenMW 0.49)",
-        "status": "published",
-        "summary": "You can only carry what you have equipped, what you can stuff in your backpack (100 WU) and fit in your pockets (15 WU). You can buy the backpack from a Khajiit in Arielle's tradehouse in Seyda Neen. 1000 Gold weighs one WU (Weight Unit).",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54776/54776-1717292394-332273949.png",
-        "uid": "429496784376",
-        "updatedAt": "2025-03-30T19:00:20Z",
-        "fileIds": [
-          "1000050174",
-          "1000051596",
-          "1000045404",
-          "1000045417",
-          "1000048793",
-          "1000046559",
-          "1000045337",
-          "1000045406",
-          "1000046473",
-          "1000046475",
-          "1000045553",
-          "1000051467"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2024-05-13T15:50:32Z",
         "fileSize": 332,
         "modCategory": {
@@ -562,7 +533,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-05T02:28:52Z",
-        "fileSize": 214183,
+        "fileSize": 127389,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -573,14 +544,10 @@
         "summary": "This is not BCOM but a BCOM extensions module. It includes a BAIN installer where you can choose from 9 mods (or even take them all) that have been made both BCOM compatible and compatible with each other. The goal is to make the",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53465/53465-1693886968-2137300983.png",
         "uid": "429496783065",
-        "updatedAt": "2025-12-28T00:48:16Z",
+        "updatedAt": "2026-04-20T15:49:26Z",
         "fileIds": [
-          "1000059555",
-          "1000059556",
-          "1000046617",
-          "1000050511",
-          "1000041558",
-          "1000050512"
+          "1000062849",
+          "1000062854"
         ]
       },
       {
@@ -688,22 +655,6 @@
           "1000041551",
           "1000041596"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2023-07-25T19:24:34Z",
-        "fileSize": 69844,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 53265,
-        "name": "Hasphats HQ Telvanni Textures",
-        "status": "published",
-        "summary": "These are the textures and normal maps extracted from the PBR mod. They are simply the best and most underappreciated Telvanni textures out there! Give HasphatAntobolis some praise, I merely repackaged them and uploaded them here (with",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53265/53265-1690311510-2040387805.png",
-        "uid": "429496782865",
-        "updatedAt": "2023-09-14T02:29:34Z"
       },
       {
         "adultContent": false,
@@ -849,6 +800,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 37
+    "totalCount": 35
   }
 }

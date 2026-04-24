@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2026-04-12T19:22:47.101Z",
+  "checkedAt": "2026-04-24T21:54:25.273Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 84
+        "100": 86
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-22T21:33:56Z",
+        "fileSize": 15217,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58731,
+        "name": "Arch-Mage's Staff of Trebonius Replacer",
+        "status": "published",
+        "summary": "Replaces Staff of Trebonius into Arch-Mage's Staff with HQ model and HQ textures (2048 px), adds glowing elements and animated effect. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58731/58731-1776892752-10807938.png",
+        "uid": "429496788331",
+        "updatedAt": "2026-04-22T23:25:49Z",
+        "fileIds": [
+          "1000062945"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-20T13:22:54Z",
+        "fileSize": 1481,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58708,
+        "name": "Steel Jinkblade of the Aegis Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces Steel Jinkblade of the Aegis with new HQ mesh and textures (1024, 2048 px) and adds glow maps. All you need is to copy conteining files to your Morrowind/Data Files directory. Enjoy the game and don't fogret to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58708/58708-1776690896-78064742.png",
+        "uid": "429496788308",
+        "updatedAt": "2026-04-20T13:22:54Z",
+        "fileIds": [
+          "1000062844"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-01T07:34:06Z",
@@ -29,7 +67,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-31T11:41:59Z",
-        "fileSize": 269371,
+        "fileSize": 269400,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -38,11 +76,11 @@
         "name": "Artifact Hunter by Articus - Replacer and overhaul for all artifacts",
         "status": "published",
         "summary": "A complete rethinking of the Morrowind artifact system. All HQ replacers and expansions are included. New playbale class, birthsign, face and hair for female Imperials. \"Tamrielic Lore\" and \"Famed Artifacts of Tamriel\" books have been",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58551/58551-1774956947-2056372846.jpg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58551/58551-1776431171-54516485.jpg",
         "uid": "429496788151",
-        "updatedAt": "2026-04-06T12:18:53Z",
+        "updatedAt": "2026-04-22T08:31:58Z",
         "fileIds": [
-          "1000062397"
+          "1000062910"
         ]
       },
       {
@@ -391,9 +429,9 @@
         "summary": "Replaces Azura's Star with HQ model and HQ textures (2048 px), adds glowing red elements and features daedric throwing stars.  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57618/57618-1760391920-2075886265.png",
         "uid": "429496787218",
-        "updatedAt": "2025-10-13T22:08:47Z",
+        "updatedAt": "2026-04-17T16:44:30Z",
         "fileIds": [
-          "1000057636"
+          "1000062749"
         ]
       },
       {
@@ -1421,40 +1459,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45880/45880-1532164975-1887154727.jpeg",
         "uid": "429496775480",
         "updatedAt": "2019-01-29T07:26:06Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-06-19T11:14:55Z",
-        "fileSize": 6529,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45798,
-        "name": "Articus Lavafall Improved - Detailed Dungeons - Mines and Caverns - Caverns Overhaul",
-        "status": "published",
-        "summary": "!!! Install this mod ONLY if you're using Detailed Dungeons or Mines & Caverns or Caverns Overhaul !!! This small Morrowind mod contains a new animated model for lavafall and new lava textures 2K.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45798/45798-1529406419-201137588.jpeg",
-        "uid": "429496775398",
-        "updatedAt": "2018-12-24T00:38:48Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-06-17T21:35:43Z",
-        "fileSize": 132031,
-        "modCategory": {
-          "categoryId": 6,
-          "name": "Body, Face, and Hair"
-        },
-        "modId": 45793,
-        "name": "Articus BN Faces - Replacer",
-        "status": "published",
-        "summary": "This is lore friendly pluginless replacer of all standart faces and hairs. It contains good looking models and textures with standart quality resolution (256).",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45793/45793-1538514820-38195174.jpeg",
-        "uid": "429496775393",
-        "updatedAt": "2025-02-05T22:56:01Z"
       }
     ],
-    "totalCount": 84
+    "totalCount": 86
   }
 }

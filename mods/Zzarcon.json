@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-04-12T19:34:37.431Z",
+  "checkedAt": "2026-04-24T21:58:16.801Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 25,
         "110": 2,
         "1151": 1
       }
@@ -26,26 +26,6 @@
         "updatedAt": "2026-03-22T02:37:07Z",
         "fileIds": [
           "1000061865"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-05-28T22:59:25Z",
-        "fileSize": 12685,
-        "modCategory": {
-          "categoryId": 10,
-          "name": "New Lands"
-        },
-        "modId": 56782,
-        "name": "Pleasure Island",
-        "status": "published",
-        "summary": "A world of forbidden desires and debauchery awaits.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56782/56782-1748471608-1641916031.png",
-        "uid": "429496786382",
-        "updatedAt": "2026-03-27T01:31:16Z",
-        "fileIds": [
-          "1000062012",
-          "1000053731"
         ]
       },
       {
@@ -487,6 +467,6 @@
         "updatedAt": "2023-05-01T18:16:12Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 25
   }
 }

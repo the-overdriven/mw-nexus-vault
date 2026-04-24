@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-12T19:33:48.411Z",
+  "checkedAt": "2026-04-24T21:58:00.699Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -639,7 +639,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-08-16T01:24:15Z",
-        "fileSize": 165,
+        "fileSize": 168,
         "modCategory": {
           "categoryId": 2,
           "name": "Buildings"
@@ -650,14 +650,16 @@
         "summary": "Part of the Summerjam 2020.This mod adds a unique Nerevar shrine to the Urshilaku camp in a lore-friendly way with an authentic Ashlander style.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48699/48699-1597539983-1870030280.jpeg",
         "uid": "429496778299",
-        "updatedAt": "2025-02-23T09:24:53Z",
+        "updatedAt": "2026-04-21T17:42:51Z",
         "fileIds": [
           "1000020469",
+          "1000062888",
           "1000050668",
           "1000020470",
-          "1000020385",
+          "1000062887",
+          "1000020458",
           "1000020391",
-          "1000020458"
+          "1000020385"
         ]
       },
       {

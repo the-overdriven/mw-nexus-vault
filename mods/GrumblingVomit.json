@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-04-12T19:28:10.521Z",
+  "checkedAt": "2026-04-24T21:56:12.025Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 63,
+        "100": 64,
         "101": 1,
         "1413": 8,
         "1704": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-23T19:44:38Z",
+        "fileSize": 410,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 58736,
+        "name": "Oreyn Bearclaw Helm Replacer",
+        "status": "published",
+        "summary": "Mesh and texture replacer for the Helm of Oreyn Bearclaw",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58736/58736-1776973331-1739592598.png",
+        "uid": "429496788336",
+        "updatedAt": "2026-04-23T19:44:38Z",
+        "fileIds": [
+          "1000062974"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-02-11T03:26:21Z",
@@ -297,9 +316,10 @@
         "summary": "Adds a border to Tamriel Rebuilt's Western Border. Will grow with each release.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56462/56462-1746132704-1112872799.jpeg",
         "uid": "429496786062",
-        "updatedAt": "2026-02-27T23:18:57Z",
+        "updatedAt": "2026-04-23T16:54:37Z",
         "fileIds": [
-          "1000052363"
+          "1000052363",
+          "1000062968"
         ]
       },
       {
@@ -1199,6 +1219,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 63
+    "totalCount": 64
   }
 }

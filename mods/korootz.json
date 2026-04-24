@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-12T19:28:36.197Z",
+  "checkedAt": "2026-04-24T21:56:36.069Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -175,7 +175,14 @@
         "summary": "Blocks all respawns (monsters and guards). If you kill something, it's gone forever. Uninterrupted rest. Configurable. MWSE-only.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53853/53853-1702851411-1994736814.png",
         "uid": "429496783453",
-        "updatedAt": "2024-01-21T16:59:56Z"
+        "updatedAt": "2026-04-18T08:19:36Z",
+        "fileIds": [
+          "1000042207",
+          "1000062768",
+          "1000042198",
+          "1000042190",
+          "1000041520"
+        ]
       },
       {
         "adultContent": false,
