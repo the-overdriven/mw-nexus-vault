@@ -1,16 +1,73 @@
 {
-  "checkedAt": "2026-04-24T21:54:25.273Z",
+  "checkedAt": "2026-04-27T20:59:40.830Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 86
+        "100": 89
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-04-27T12:57:19Z",
+        "fileSize": 1719,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58787,
+        "name": "Magebane Replacer by Articus and Hedgehog12",
+        "status": "published",
+        "summary": "Replaces unique glass claymore Magebane, found in the Urshilaku Burial Cavernsin the Laterus Burial section held by a mummy near the top of the central pillar. HQ model, HQ textures, glowing and trasparency comes as usual. All you need is",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58787/58787-1777294368-1214073017.png",
+        "uid": "429496788387",
+        "updatedAt": "2026-04-27T16:07:46Z",
+        "fileIds": [
+          "1000063139"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-25T21:35:09Z",
+        "fileSize": 2239,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58750,
+        "name": "Black Hands Dagger Replacer",
+        "status": "published",
+        "summary": "Replaces unique Black Hands Dagger, given by Eno Hlaalu after executing Severa Magia. It's designed as dark Daedric dagger with Skyrim style. HQ textures, HQ model, glowing comes as usual. All you need is to place conteining files to your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58750/58750-1777152704-1508166730.png",
+        "uid": "429496788350",
+        "updatedAt": "2026-04-25T21:35:09Z",
+        "fileIds": [
+          "1000063042"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-25T14:23:40Z",
+        "fileSize": 15432,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58743,
+        "name": "Baby Umbra - Soul Drinker Replacer",
+        "status": "published",
+        "summary": "Replaces unique dagger Soul Drinker, given by Ranis Athris in the Balmora Mages Guild at the end of the quest line. It's designed as black Daedric dagger with Umbra motif. HQ textures, HQ model, glowing and animated texture effect comes as",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58743/58743-1777126603-1033498262.png",
+        "uid": "429496788343",
+        "updatedAt": "2026-04-25T14:58:06Z",
+        "fileIds": [
+          "1000063028"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2026-04-22T21:33:56Z",
-        "fileSize": 15217,
+        "fileSize": 15247,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -21,9 +78,9 @@
         "summary": "Replaces Staff of Trebonius into Arch-Mage's Staff with HQ model and HQ textures (2048 px), adds glowing elements and animated effect. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58731/58731-1776892752-10807938.png",
         "uid": "429496788331",
-        "updatedAt": "2026-04-22T23:25:49Z",
+        "updatedAt": "2026-04-25T19:32:32Z",
         "fileIds": [
-          "1000062945"
+          "1000063039"
         ]
       },
       {
@@ -48,7 +105,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-01T07:34:06Z",
-        "fileSize": 4961,
+        "fileSize": 6262,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -59,9 +116,9 @@
         "summary": "This mod replaces Dark Brotherhood armor with HQ models and textures (2048 px). All you need is to place conteining files to your Morrowind/Data directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58559/58559-1775025760-2023923704.png",
         "uid": "429496788159",
-        "updatedAt": "2026-04-02T14:58:44Z",
+        "updatedAt": "2026-04-27T20:55:09Z",
         "fileIds": [
-          "1000062281"
+          "1000063151"
         ]
       },
       {
@@ -491,7 +548,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-30T21:07:21Z",
-        "fileSize": 2150,
+        "fileSize": 2305,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -502,7 +559,10 @@
         "summary": "Replaces Dagger of Symmachus with HQ model and HQ textures (1024 px), adds glowing elements and transparency. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57539/57539-1759266131-1321456087.png",
         "uid": "429496787139",
-        "updatedAt": "2025-10-05T12:00:01Z"
+        "updatedAt": "2026-04-27T16:05:48Z",
+        "fileIds": [
+          "1000063138"
+        ]
       },
       {
         "adultContent": false,
@@ -798,7 +858,10 @@
         "summary": "Replaces Boots of Apostle with HQ model and HQ texture (2048 px).  All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56802/56802-1753801609-941630914.jpg",
         "uid": "429496786402",
-        "updatedAt": "2025-05-31T14:45:19Z"
+        "updatedAt": "2026-04-26T21:32:08Z",
+        "fileIds": [
+          "1000063095"
+        ]
       },
       {
         "adultContent": false,
@@ -1411,56 +1474,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46044/46044-1552133011-836693969.png",
         "uid": "429496775644",
         "updatedAt": "2025-04-25T12:28:03Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-09-03T23:32:24Z",
-        "fileSize": 15998,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46014,
-        "name": "Articus Immersive Crystals - Replacer",
-        "status": "published",
-        "summary": "This small mod adds new 2K glowing textures for crystals.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46014/46014-1536017005-1885844267.jpeg",
-        "uid": "429496775614",
-        "updatedAt": "2018-10-06T18:40:36Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-09-02T22:04:18Z",
-        "fileSize": 127248,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46011,
-        "name": "Articus Mournhold 2K Retexture",
-        "status": "published",
-        "summary": "This mod adds High Quality (2048) textures for City of Mournhold. All textures are fully reworked and Lore friendly.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46011/46011-1543521225-182306525.png",
-        "uid": "429496775611",
-        "updatedAt": "2019-05-19T20:18:25Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-07-17T21:41:11Z",
-        "fileSize": 17544,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45880,
-        "name": "Articus Old Stucco 2K Retexture",
-        "status": "published",
-        "summary": "This mod is a High Quality (2048) textures for old Dunmer ruins and dwellings. All textures are fully reworked and Lore friendly.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45880/45880-1532164975-1887154727.jpeg",
-        "uid": "429496775480",
-        "updatedAt": "2019-01-29T07:26:06Z"
       }
     ],
-    "totalCount": 86
+    "totalCount": 89
   }
 }

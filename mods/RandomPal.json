@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-04-24T21:57:33.658Z",
+  "checkedAt": "2026-04-27T21:01:29.040Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 108
+        "100": 109
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-25T19:32:57Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58748,
+        "name": "Bonesaint Armor - Ghostgate Revision",
+        "status": "published",
+        "summary": "A small overhaul of the original Bonesaint Armor by ruffinvangarr, aimed at giving the set a more distinctive role",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58748/58748-1777145440-164403410.jpg",
+        "uid": "429496788348",
+        "updatedAt": "2026-04-25T19:36:04Z",
+        "fileIds": [
+          "1000063040",
+          "1000063038"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-08-08T15:59:16Z",
@@ -1574,24 +1594,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48862/48862-1601101603-1396358348.jpeg",
         "uid": "429496778462",
         "updatedAt": "2024-05-15T14:21:17Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-09-24T21:20:40Z",
-        "fileSize": 16451,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 48870,
-        "name": "Properly clothed NPCs - A concept art clothing addition",
-        "status": "published",
-        "summary": "Puts proper clothing on some NPCs",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48870/48870-1600979621-765950669.jpeg",
-        "uid": "429496778470",
-        "updatedAt": "2021-03-06T19:23:16Z"
       }
     ],
-    "totalCount": 108
+    "totalCount": 109
   }
 }
