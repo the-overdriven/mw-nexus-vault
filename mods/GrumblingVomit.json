@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-04-27T21:00:59.363Z",
+  "checkedAt": "2026-05-06T20:49:36.675Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 64,
+        "100": 66,
         "101": 1,
         "1413": 8,
         "1704": 1,
@@ -11,6 +11,46 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-04T15:16:44Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 58882,
+        "name": "El Toro's Mino-Taqueria - An NPC-Like Creature Dialogue Tutorial",
+        "status": "published",
+        "summary": "Go on a very short quest for a minotaur to showcase a method for making creature dialogue function like NPC dialogue. Includes PDF tutorial.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58882/58882-1777912030-951191417.jpg",
+        "uid": "429496788482",
+        "updatedAt": "2026-05-04T16:28:22Z",
+        "fileIds": [
+          "1000063604",
+          "1000063602",
+          "1000063601"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-01T18:19:52Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 58838,
+        "name": "Were-Wulf",
+        "status": "published",
+        "summary": "Wulf now lives up to his name",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58838/58838-1777659423-1680286253.jpg",
+        "uid": "429496788438",
+        "updatedAt": "2026-05-01T18:19:52Z",
+        "fileIds": [
+          "1000063376"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-23T19:44:38Z",
@@ -316,10 +356,10 @@
         "summary": "Adds a border to Tamriel Rebuilt's Western Border. Will grow with each release.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56462/56462-1746132704-1112872799.jpeg",
         "uid": "429496786062",
-        "updatedAt": "2026-04-23T16:54:37Z",
+        "updatedAt": "2026-05-06T20:26:52Z",
         "fileIds": [
           "1000052363",
-          "1000062968"
+          "1000063735"
         ]
       },
       {
@@ -580,18 +620,21 @@
       {
         "adultContent": false,
         "createdAt": "2024-05-04T18:07:19Z",
-        "fileSize": 249,
+        "fileSize": 1527,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
         },
         "modId": 54580,
-        "name": "Shade of the Revenant Altar Resource",
+        "name": "Shade of the Revenant Altar",
         "status": "published",
-        "summary": "A resource for the altar for creating black soul gems via the process in Oblivion + an optional plugin that adds one to the game. Supports OpenMW and MWSE.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54580/54580-1714845671-155810367.jpeg",
+        "summary": "A resource for the altar for creating black soul gems via the process in Oblivion + an optional plugins that distribute shrines and books to the world. Supports OpenMW and MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54580/54580-1777416004-549379552.jpg",
         "uid": "429496784180",
-        "updatedAt": "2024-05-04T18:07:19Z"
+        "updatedAt": "2026-04-29T16:54:29Z",
+        "fileIds": [
+          "1000063229"
+        ]
       },
       {
         "adultContent": false,
@@ -891,7 +934,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-01-30T01:12:01Z",
-        "fileSize": 4362,
+        "fileSize": 40149,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -902,20 +945,20 @@
         "summary": "Adds exteriors to all interior cells with windows. So far, Molag Mar, Caldera, Pelagiad, Maar Gan, Sadrith Mora, Ebonheart, Skaal Village, and Gnisis.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52237/52237-1736998879-106150695.jpeg",
         "uid": "429496781837",
-        "updatedAt": "2025-11-14T18:50:13Z",
+        "updatedAt": "2026-05-04T16:02:03Z",
         "fileIds": [
-          "1000056047",
+          "1000063603",
           "1000056095",
           "1000058392",
-          "1000037423",
-          "1000034897",
-          "1000040047",
-          "1000036220",
-          "1000034970",
-          "1000038309",
-          "1000035010",
+          "1000051598",
           "1000045516",
-          "1000051598"
+          "1000040047",
+          "1000038309",
+          "1000037423",
+          "1000036220",
+          "1000035010",
+          "1000034970",
+          "1000034897"
         ]
       },
       {
@@ -1219,6 +1262,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 64
+    "totalCount": 66
   }
 }

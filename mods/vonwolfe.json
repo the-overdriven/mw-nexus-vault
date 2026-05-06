@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-27T21:01:55.460Z",
+  "checkedAt": "2026-05-06T20:52:40.872Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -121,7 +121,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-09T22:59:15Z",
-        "fileSize": 1534560,
+        "fileSize": 1595780,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -132,14 +132,16 @@
         "summary": "New quests, NPCs, dialogue, bugfixes and assets to take Starwind to the next level.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
         "uid": "429496785568",
-        "updatedAt": "2026-04-23T17:59:54Z",
+        "updatedAt": "2026-05-03T22:57:10Z",
         "fileIds": [
-          "1000062970",
+          "1000063560",
           "1000060999",
           "1000059510",
           "1000059509",
           "1000058970",
           "1000058945",
+          "1000063422",
+          "1000062970",
           "1000062802",
           "1000061999",
           "1000061903",

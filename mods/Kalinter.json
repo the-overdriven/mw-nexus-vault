@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-04-27T21:01:07.927Z",
+  "checkedAt": "2026-05-06T20:50:17.512Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 27,
         "101": 1,
         "7587": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-01T01:27:06Z",
+        "fileSize": 26,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 58820,
+        "name": "The Fields of Humility",
+        "status": "published",
+        "summary": "A minor, atmospheric landscape overhaul for the Fields of Kummu.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58820/58820-1777598553-579220582.jpg",
+        "uid": "429496788420",
+        "updatedAt": "2026-05-01T01:27:06Z",
+        "fileIds": [
+          "1000063309"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-11-23T15:16:03Z",
@@ -471,6 +490,6 @@
         "updatedAt": "2021-12-12T10:54:40Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

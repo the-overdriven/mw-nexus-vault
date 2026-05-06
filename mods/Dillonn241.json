@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-27T21:00:50.318Z",
+  "checkedAt": "2026-05-06T20:49:20.528Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -80,7 +80,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-01-01T09:36:55Z",
-        "fileSize": 173,
+        "fileSize": 183,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -91,11 +91,13 @@
         "summary": "Adds a playable version of the board game The Royal Game of Ur to Vvardenfell, with betting and practice options against a full AI. Requires assets from the mod \"The Royal Game of Ur\" by LordBerandas.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53914/53914-1704101096-1000045307.jpeg",
         "uid": "429496783514",
-        "updatedAt": "2025-05-05T21:31:58Z",
+        "updatedAt": "2026-05-02T18:24:15Z",
         "fileIds": [
-          "1000052505",
-          "1000052130",
+          "1000063437",
+          "1000063242",
           "1000052129",
+          "1000063168",
+          "1000052505",
           "1000052128"
         ]
       },

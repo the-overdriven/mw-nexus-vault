@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-04-27T21:00:42.036Z",
+  "checkedAt": "2026-05-06T20:48:55.373Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35
+        "100": 36
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-01T15:03:54Z",
+        "fileSize": 378,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58813,
+        "name": "Devilish Thu'um (OpenMW)",
+        "status": "published",
+        "summary": "Brings the ancient Nordic Thu’um to Morrowind as a living part of Nord tradition. Powerful Nords can call upon the voice in combat. Those above level 25 are much more likely to wield it, while weaker Nords only rarely possess such power.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58813/58813-1777554088-1318911638.png",
+        "uid": "429496788413",
+        "updatedAt": "2026-05-01T19:57:34Z",
+        "fileIds": [
+          "1000063380",
+          "1000063361"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-17T02:33:36Z",
@@ -92,7 +112,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-07T00:21:45Z",
-        "fileSize": 670,
+        "fileSize": 671,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -103,8 +123,9 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-04-22T11:24:38Z",
+        "updatedAt": "2026-05-03T21:15:14Z",
         "fileIds": [
+          "1000063549",
           "1000062914",
           "1000062546",
           "1000061414",
@@ -800,6 +821,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 35
+    "totalCount": 36
   }
 }

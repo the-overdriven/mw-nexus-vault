@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-27T21:00:31.515Z",
+  "checkedAt": "2026-05-06T20:47:59.068Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -82,8 +82,9 @@
         "summary": "This mod allows you to ring the Sixth House bells using the Sixth House Bell Hammer.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56342/56342-1744450638-1656963743.jpeg",
         "uid": "429496785942",
-        "updatedAt": "2025-04-12T09:51:05Z",
+        "updatedAt": "2026-05-01T21:26:04Z",
         "fileIds": [
+          "1000063388",
           "1000051879"
         ]
       },
@@ -247,27 +248,28 @@
         "name": "Magicka Regeneration Suite",
         "status": "published",
         "summary": "Ultimate magicka regeneration mod for Morrowind!",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49153/49153-1609427659-1018063805.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49153/49153-1777672717-855624155.jpg",
         "uid": "429496778753",
-        "updatedAt": "2025-12-27T17:17:47Z",
+        "updatedAt": "2026-05-02T15:22:43Z",
         "fileIds": [
-          "1000059539",
+          "1000063433",
           "1000055478",
-          "1000032921",
-          "1000032944",
-          "1000028632",
-          "1000055891",
-          "1000024968",
+          "1000059539",
           "1000055946",
-          "1000032920",
-          "1000022937",
-          "1000028315",
-          "1000032943",
-          "1000023989",
+          "1000055891",
+          "1000055544",
           "1000055477",
+          "1000032944",
+          "1000032943",
+          "1000032921",
+          "1000032920",
           "1000028857",
+          "1000028632",
           "1000028626",
-          "1000055544"
+          "1000028315",
+          "1000024968",
+          "1000023989",
+          "1000022937"
         ]
       },
       {

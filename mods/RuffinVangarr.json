@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-27T21:01:37.757Z",
+  "checkedAt": "2026-05-06T20:51:50.737Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -96,7 +96,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-07T18:05:39Z",
-        "fileSize": 3352,
+        "fileSize": 3454,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -107,15 +107,16 @@
         "summary": "Explore new Daedric ruins to the east of Urshilaku camp and craft a powerful set of armor with an unusual origin.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56482/56482-1746640388-2139265946.jpeg",
         "uid": "429496786082",
-        "updatedAt": "2025-11-29T07:36:14Z",
+        "updatedAt": "2026-05-03T11:41:47Z",
         "fileIds": [
-          "1000058764",
+          "1000063488",
           "1000052762",
-          "1000052761",
-          "1000057328",
+          "1000058764",
           "1000057331",
-          "1000052582",
-          "1000052697"
+          "1000057328",
+          "1000052761",
+          "1000052697",
+          "1000052582"
         ]
       },
       {

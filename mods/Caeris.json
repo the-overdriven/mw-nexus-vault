@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-04-27T21:00:31.608Z",
+  "checkedAt": "2026-05-06T20:48:14.859Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26
+        "100": 27
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-01T00:05:49Z",
+        "fileSize": 3298,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 58514,
+        "name": "The Dark Brotherhood Attacks",
+        "status": "published",
+        "summary": "This adds a new quest arc to Tribunal that replaces the randomized Dark Brotherhood attacks. Now the Dark Brotherhood have a very well thought-out plan that will take you into the depths of the completely overhauled Arys Ancestral Tomb.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58514/58514-1777456015-1984020576.png",
+        "uid": "429496788114",
+        "updatedAt": "2026-05-01T20:45:46Z",
+        "fileIds": [
+          "1000063254",
+          "1000063384"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-10T09:11:28Z",
@@ -493,6 +513,6 @@
         ]
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

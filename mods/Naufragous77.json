@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-27T21:01:18.730Z",
+  "checkedAt": "2026-05-06T20:51:40.491Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -139,7 +139,7 @@
       {
         "adultContent": false,
         "createdAt": "2019-05-30T13:07:44Z",
-        "fileSize": 5985,
+        "fileSize": 8203,
         "modCategory": {
           "categoryId": 27,
           "name": "Player homes"
@@ -147,10 +147,19 @@
         "modId": 46841,
         "name": "OAAB - Tel Raloran",
         "status": "published",
-        "summary": "A Telvanni mushroom house with MWSE functions.",
+        "summary": "A Telvanni mushroom house with MWSE and OpenMW functions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46841/46841-1559219883-56958050.png",
         "uid": "429496776441",
-        "updatedAt": "2024-12-07T10:15:53Z"
+        "updatedAt": "2026-05-01T10:49:31Z",
+        "fileIds": [
+          "1000063343",
+          "1000029447",
+          "1000029446",
+          "1000029418",
+          "1000014829",
+          "1000014716",
+          "1000014714"
+        ]
       },
       {
         "adultContent": false,

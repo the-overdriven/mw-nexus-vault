@@ -1,16 +1,54 @@
 {
-  "checkedAt": "2026-04-27T20:59:40.830Z",
+  "checkedAt": "2026-05-06T20:47:35.139Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 89
+        "100": 91
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-05-05T09:29:18Z",
+        "fileSize": 21329,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58890,
+        "name": "Dwemer Pneuma-Trap Replacer",
+        "status": "published",
+        "summary": "Replaces Dwemer Pneuma-Trap battleaxe with HQ model and HQ textures (2048 px), adds glowing elements and animated effect. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58890/58890-1777971812-2114521388.png",
+        "uid": "429496788490",
+        "updatedAt": "2026-05-05T09:29:18Z",
+        "fileIds": [
+          "1000063635"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-28T13:13:03Z",
+        "fileSize": 1942,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58801,
+        "name": "Shortbow of Sanguine Sureflight Replacer",
+        "status": "published",
+        "summary": "Replaces unique Shortbow of Sanguine Sureflight, found in the living quarters of the mushroom tower in the settlement of Tel Aruhn. HQ model, HQ textures and glowing comes as usual. All you need is to place conteining files to your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58801/58801-1777380660-1749860237.png",
+        "uid": "429496788401",
+        "updatedAt": "2026-05-03T08:02:24Z",
+        "fileIds": [
+          "1000063473"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2026-04-27T12:57:19Z",
-        "fileSize": 1719,
+        "fileSize": 1823,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -21,9 +59,9 @@
         "summary": "Replaces unique glass claymore Magebane, found in the Urshilaku Burial Cavernsin the Laterus Burial section held by a mummy near the top of the central pillar. HQ model, HQ textures, glowing and trasparency comes as usual. All you need is",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58787/58787-1777294368-1214073017.png",
         "uid": "429496788387",
-        "updatedAt": "2026-04-27T16:07:46Z",
+        "updatedAt": "2026-05-03T21:55:05Z",
         "fileIds": [
-          "1000063139"
+          "1000063551"
         ]
       },
       {
@@ -1442,40 +1480,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46149/46149-1541887127-969983635.jpeg",
         "uid": "429496775749",
         "updatedAt": "2019-05-19T18:07:12Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-11-04T20:34:29Z",
-        "fileSize": 89106,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46140,
-        "name": "Dangerous Lava and Oil by Articus",
-        "status": "published",
-        "summary": "This mod adds High Quality (1024) animated textures for lava with particles effect of fire sparks.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46140/46140-1746972010-1670280810.jpeg",
-        "uid": "429496775740",
-        "updatedAt": "2025-04-27T13:53:23Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-09-16T19:26:44Z",
-        "fileSize": 180484,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46044,
-        "name": "Daedric Intervention",
-        "status": "published",
-        "summary": "This big pluginless compilation adds a High Quality (2048) textures for Daedric architecture, creatures, armors and weapons.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46044/46044-1552133011-836693969.png",
-        "uid": "429496775644",
-        "updatedAt": "2025-04-25T12:28:03Z"
       }
     ],
-    "totalCount": 89
+    "totalCount": 91
   }
 }

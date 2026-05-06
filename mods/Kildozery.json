@@ -1,14 +1,149 @@
 {
-  "checkedAt": "2026-04-27T21:01:08.460Z",
+  "checkedAt": "2026-05-06T20:50:25.621Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 27,
+        "100": 34,
         "130": 2,
         "6332": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-04T20:35:03Z",
+        "fileSize": 19,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58592,
+        "name": "Staves - Custom Skill (OpenMW)",
+        "status": "published",
+        "summary": "Staves! adds a dedicated staff skill for OpenMW, splitting staves out from Blunt Weapon and giving them their own mage-focused combat identity.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58592/58592-1777925235-1753801942.png",
+        "uid": "429496788192",
+        "updatedAt": "2026-05-04T20:35:03Z",
+        "fileIds": [
+          "1000063615"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-03T20:04:23Z",
+        "fileSize": 19,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58590,
+        "name": "Evasion - Custom Skill (OpenMW)",
+        "status": "published",
+        "summary": "Evasion! adds a brand new skill governed by Agility and specialising in Stealth. It grants Sanctuary based on what you're wearing, how encumbered you are, and how tired you are, rewarding light, nimble builds without invalidating armour.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58590/58590-1777837352-1229571268.png",
+        "uid": "429496788190",
+        "updatedAt": "2026-05-03T20:04:23Z",
+        "fileIds": [
+          "1000063541"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-03T15:19:14Z",
+        "fileSize": 20,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58705,
+        "name": "Throwing - Custom Skill (OpenMW)",
+        "status": "published",
+        "summary": "Throwing! adds a dedicated throwing skill for thrown weapons, splitting them out from Marksman and giving them their own unique identity.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58705/58705-1777820865-29531461.png",
+        "uid": "429496788305",
+        "updatedAt": "2026-05-03T19:02:15Z",
+        "fileIds": [
+          "1000063540",
+          "1000063491"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-01T21:57:42Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58571,
+        "name": "Smart Potion Hotkeys (OpenMW)",
+        "status": "published",
+        "summary": "Smart Potion Hotkeys provides nine configurable potion hotkey slots, each bound to a magic effect instead of a specific potion ID.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58571/58571-1777671695-40348480.png",
+        "uid": "429496788171",
+        "updatedAt": "2026-05-01T21:57:42Z",
+        "fileIds": [
+          "1000063387"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-30T23:00:20Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58572,
+        "name": "Dignitas - Reputation Titles and Descriptions (OpenMW)",
+        "status": "published",
+        "summary": "Dignitas extends the reputation line with fame titles that change as your reputation grows.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58572/58572-1777566129-190230350.png",
+        "uid": "429496788172",
+        "updatedAt": "2026-04-30T23:00:20Z",
+        "fileIds": [
+          "1000063196"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-30T23:00:17Z",
+        "fileSize": 79,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58497,
+        "name": "Enumeratio - Player Stats Counters (OpenMW)",
+        "status": "published",
+        "summary": "Enumeratio is a large-scale statistics and records collection system that adds over 90 toggleable and configurable stat counters - Track Player Deaths, Completed Quests, Items Stolen, even Scribs Petted(!), and much, much more!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58497/58497-1777566350-266414624.png",
+        "uid": "429496788097",
+        "updatedAt": "2026-05-04T14:35:40Z",
+        "fileIds": [
+          "1000063599",
+          "1000063291"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-30T23:00:11Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58589,
+        "name": "Commercium - Fair Trade (OpenMW)",
+        "status": "published",
+        "summary": "Commercium! Imagine vanilla bartering... but Good!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58589/58589-1777566111-1350993422.png",
+        "uid": "429496788189",
+        "updatedAt": "2026-04-30T23:00:11Z",
+        "fileIds": [
+          "1000063197"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-11-11T20:07:17Z",
@@ -589,6 +724,6 @@
         ]
       }
     ],
-    "totalCount": 27
+    "totalCount": 34
   }
 }
