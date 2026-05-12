@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-06T20:48:46.923Z",
+  "checkedAt": "2026-05-12T22:28:47.289Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -167,14 +167,18 @@
         "summary": "Changes the RR Telvanni Lighthouse crystals to OAAB blue, or changes the OAAB telvanni crystals to RR white.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56187/56187-1742000755-410708451.png",
         "uid": "429496785787",
-        "updatedAt": "2026-03-06T07:51:54Z",
+        "updatedAt": "2026-05-07T19:35:33Z",
         "fileIds": [
           "1000061341",
-          "1000051260",
           "1000061340",
+          "1000051260",
+          "1000063767",
+          "1000063766",
+          "1000063765",
+          "1000063764",
           "1000051302",
-          "1000051174",
           "1000051261",
+          "1000051174",
           "1000051173"
         ]
       },

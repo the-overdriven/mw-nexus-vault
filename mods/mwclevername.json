@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-06T20:51:40.110Z",
+  "checkedAt": "2026-05-12T22:31:29.184Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14
+        "100": 15
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-09T21:54:00Z",
+        "fileSize": 1018,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58946,
+        "name": "Flat Rate Package for Caius Cosades",
+        "status": "published",
+        "summary": "You can't ship a loose sheet of parchment if you want it to get there intact. Put it in a box!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58946/58946-1778363415-1330903646.png",
+        "uid": "429496788546",
+        "updatedAt": "2026-05-09T21:54:00Z",
+        "fileIds": [
+          "1000063862"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-18T02:59:20Z",
@@ -242,6 +261,6 @@
         "updatedAt": "2021-01-23T23:16:16Z"
       }
     ],
-    "totalCount": 14
+    "totalCount": 15
   }
 }

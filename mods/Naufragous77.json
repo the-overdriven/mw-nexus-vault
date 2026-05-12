@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-05-06T20:51:40.491Z",
+  "checkedAt": "2026-05-12T22:32:01.221Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16,
+        "100": 17,
         "1704": 1,
         "2927": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-09T10:21:09Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58939,
+        "name": "Price Balance - OAAB",
+        "status": "published",
+        "summary": "Price Balance for OAAB",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58939/58939-1778320937-1040128188.png",
+        "uid": "429496788539",
+        "updatedAt": "2026-05-09T10:21:09Z",
+        "fileIds": [
+          "1000063830"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2023-03-11T23:41:03Z",
@@ -290,6 +309,6 @@
         "updatedAt": "2016-04-02T16:59:17Z"
       }
     ],
-    "totalCount": 16
+    "totalCount": 17
   }
 }

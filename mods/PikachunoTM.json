@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-06T20:51:49.482Z",
+  "checkedAt": "2026-05-12T22:32:10.351Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -90,7 +90,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-01-16T01:40:08Z",
-        "fileSize": 18815,
+        "fileSize": 59807,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -101,7 +101,12 @@
         "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts list, while adding more quests, items, and artifacts that",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
         "uid": "429496780247",
-        "updatedAt": "2024-11-28T19:55:45Z"
+        "updatedAt": "2026-05-11T03:23:16Z",
+        "fileIds": [
+          "1000063916",
+          "1000048495",
+          "1000048494"
+        ]
       },
       {
         "adultContent": false,

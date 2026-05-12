@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-05-06T20:50:17.226Z",
+  "checkedAt": "2026-05-12T22:29:29.667Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 21
+        "100": 22
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-08T16:24:13Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 58883,
+        "name": "Misty Step",
+        "status": "published",
+        "summary": "Blink where you look — Misty Step adds a MWSE teleport spell/scroll that let you instantly teleport up to 60 ft to where you aim.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58883/58883-1777959745-1236860133.png",
+        "uid": "429496788483",
+        "updatedAt": "2026-05-08T16:24:13Z",
+        "fileIds": [
+          "1000063806",
+          "1000063628"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2023-08-17T04:05:52Z",
@@ -344,6 +364,6 @@
         "updatedAt": "2023-05-09T15:28:11Z"
       }
     ],
-    "totalCount": 21
+    "totalCount": 22
   }
 }

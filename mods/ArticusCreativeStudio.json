@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-06T20:47:35.139Z",
+  "checkedAt": "2026-05-12T22:28:30.216Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 91
+        "100": 92
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-10T19:59:52Z",
+        "fileSize": 3564,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 58953,
+        "name": "Icicle Replacer",
+        "status": "published",
+        "summary": "Replaces Icicle silver longsword new HQ mesh and textures (2048 px), adds magic glowmap and transparency of ice. All you need is to copy conteining files to your Morrowind/Data Files directory. Enjoy the game and don't fogret to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58953/58953-1778442311-908901995.png",
+        "uid": "429496788553",
+        "updatedAt": "2026-05-10T21:38:54Z",
+        "fileIds": [
+          "1000063905"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-05T09:29:18Z",
@@ -1464,24 +1483,8 @@
           "1000013033",
           "1000013080"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-11-10T22:03:19Z",
-        "fileSize": 142782,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 46149,
-        "name": "Articus Clockwork City of Sotha Sil 2K Retexture",
-        "status": "published",
-        "summary": "This mod adds High Quality (2048) textures for Clockwork City. All textures are fully reworked and Lore friendly.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46149/46149-1541887127-969983635.jpeg",
-        "uid": "429496775749",
-        "updatedAt": "2019-05-19T18:07:12Z"
       }
     ],
-    "totalCount": 91
+    "totalCount": 92
   }
 }

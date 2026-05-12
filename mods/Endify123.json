@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-05-06T20:49:35.970Z",
+  "checkedAt": "2026-05-12T22:29:11.689Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19,
+        "100": 20,
         "130": 1,
         "1704": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-08T19:07:37Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 58931,
+        "name": "Venerable Veloth's Hostel",
+        "status": "published",
+        "summary": "An overhaul of St. Veloth's Hostel in Molag Mar.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58931/58931-1778266682-1261019277.jpg",
+        "uid": "429496788531",
+        "updatedAt": "2026-05-08T19:07:37Z",
+        "fileIds": [
+          "1000063812"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-30T17:58:11Z",
@@ -323,6 +342,6 @@
         "updatedAt": "2023-08-07T16:05:21Z"
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }

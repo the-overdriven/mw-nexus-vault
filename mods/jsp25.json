@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-06T20:50:17.326Z",
+  "checkedAt": "2026-05-12T22:29:37.754Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35
+        "100": 36
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-06T21:08:42Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 58918,
+        "name": "Palansour Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Palansour.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58918/58918-1778101363-565533473.png",
+        "uid": "429496788518",
+        "updatedAt": "2026-05-06T21:08:42Z",
+        "fileIds": [
+          "1000063737"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-09T23:15:15Z",
@@ -637,6 +656,6 @@
         "updatedAt": "2017-01-06T02:24:09Z"
       }
     ],
-    "totalCount": 35
+    "totalCount": 36
   }
 }

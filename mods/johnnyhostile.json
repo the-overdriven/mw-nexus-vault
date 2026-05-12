@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-06T20:50:17.116Z",
+  "checkedAt": "2026-05-12T22:29:21.516Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -257,8 +257,9 @@
         "summary": "A camera mod for OpenMW that auto-swaps between first and third person cameras based on if combat or magic are readied or if you're indoors or not.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51545/51545-1777241586-1864569027.png",
         "uid": "429496781145",
-        "updatedAt": "2026-04-26T22:11:32Z",
+        "updatedAt": "2026-05-09T14:42:09Z",
         "fileIds": [
+          "1000063847",
           "1000063098",
           "1000040588",
           "1000040553",

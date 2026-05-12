@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-06T20:52:07.499Z",
+  "checkedAt": "2026-05-12T22:32:37.249Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 51
+        "100": 52
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-09T07:01:28Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58938,
+        "name": "Northern Lights (OpenMW)",
+        "status": "published",
+        "summary": "An attempt to add the Northern Lights to OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58938/58938-1778307633-566258776.png",
+        "uid": "429496788538",
+        "updatedAt": "2026-05-09T07:01:28Z",
+        "fileIds": [
+          "1000063828"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-03-07T08:39:32Z",
@@ -555,7 +574,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-23T08:14:37Z",
-        "fileSize": 18006,
+        "fileSize": 17985,
         "modCategory": {
           "categoryId": 10,
           "name": "New Lands"
@@ -566,12 +585,13 @@
         "summary": "Add city of Windhelm and the surrounding area, including Dunmeth Pass",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53753/53753-1742218479-1274312610.jpeg",
         "uid": "429496783353",
-        "updatedAt": "2026-05-05T11:35:44Z",
+        "updatedAt": "2026-05-12T19:54:24Z",
         "fileIds": [
-          "1000063645",
+          "1000064019",
           "1000061906",
           "1000061162",
           "1000051730",
+          "1000063645",
           "1000045700"
         ]
       },
@@ -937,6 +957,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 51
+    "totalCount": 52
   }
 }
