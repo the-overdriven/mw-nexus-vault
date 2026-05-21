@@ -1,14 +1,52 @@
 {
-  "checkedAt": "2026-05-12T22:29:20.380Z",
+  "checkedAt": "2026-05-21T00:31:51.283Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 49,
+        "100": 51,
         "101": 3,
         "775": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-18T11:39:43Z",
+        "fileSize": 117,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58721,
+        "name": "Judgement Day- Plead Your Case to the Guards",
+        "status": "published",
+        "summary": "You ever wish there were more options than just going to jail, paying the fine, or resisting arrest? Do you miss Daggerfall’s criminal system?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58721/58721-1776769820-1453768804.png",
+        "uid": "429496788321",
+        "updatedAt": "2026-05-18T11:39:43Z",
+        "fileIds": [
+          "1000064259"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-17T09:46:31Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 58622,
+        "name": "Mehrunes' Razor Teleportation and Pocket Realm",
+        "status": "published",
+        "summary": "Gives the Razor the ability to cut through the fabric of reality, allowing fast travel to various places and a pocket realm.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58622/58622-1775802260-34490357.png",
+        "uid": "429496788222",
+        "updatedAt": "2026-05-17T10:41:58Z",
+        "fileIds": [
+          "1000064211"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-01T22:13:47Z",
@@ -831,6 +869,6 @@
         "updatedAt": "2021-06-30T17:06:08Z"
       }
     ],
-    "totalCount": 49
+    "totalCount": 51
   }
 }

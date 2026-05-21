@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-05-12T22:28:47.289Z",
+  "checkedAt": "2026-05-21T00:31:17.098Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 46
+        "100": 47
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-19T20:38:26Z",
+        "fileSize": 675,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59035,
+        "name": "Sheogorath Revoiced",
+        "status": "published",
+        "summary": "Replaces Sheogoraths daedric quest lines with new voice acting",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59035/59035-1779222388-1468818580.png",
+        "uid": "429496788635",
+        "updatedAt": "2026-05-19T20:38:26Z",
+        "fileIds": [
+          "1000064332",
+          "1000064333"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-18T03:46:51Z",
@@ -466,7 +486,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-14T02:06:39Z",
-        "fileSize": 150,
+        "fileSize": 456,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -477,8 +497,11 @@
         "summary": "Adds glow maps to several Glass and Daedric mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53504/53504-1694656986-498508784.png",
         "uid": "429496783104",
-        "updatedAt": "2026-04-22T21:41:01Z",
+        "updatedAt": "2026-05-20T00:34:01Z",
         "fileIds": [
+          "1000064339",
+          "1000064338",
+          "1000064336",
           "1000062943",
           "1000062758",
           "1000061342",
@@ -489,7 +512,6 @@
           "1000058290",
           "1000058289",
           "1000057671",
-          "1000057633",
           "1000057599",
           "1000057571",
           "1000057570",
@@ -506,6 +528,7 @@
           "1000040168",
           "1000040165",
           "1000058898",
+          "1000057633",
           "1000057429",
           "1000057428",
           "1000057427",
@@ -936,6 +959,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 46
+    "totalCount": 47
   }
 }

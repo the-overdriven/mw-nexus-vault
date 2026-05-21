@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-12T22:28:05.640Z",
+  "checkedAt": "2026-05-21T00:30:25.259Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -688,7 +688,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-10-25T19:01:30Z",
-        "fileSize": 17,
+        "fileSize": 18,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -699,24 +699,25 @@
         "summary": "Hostiles following through loading doors",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51919/51919-1666724190-768928665.jpeg",
         "uid": "429496781519",
-        "updatedAt": "2025-07-31T15:03:07Z",
+        "updatedAt": "2026-05-14T17:48:13Z",
         "fileIds": [
+          "1000064091",
           "1000055588",
           "1000055103",
           "1000053060",
-          "1000033608",
-          "1000038507",
-          "1000039796",
-          "1000049811",
-          "1000033441",
-          "1000036279",
-          "1000048070",
-          "1000038099",
-          "1000048087",
           "1000052196",
-          "1000038905",
           "1000050043",
-          "1000033443"
+          "1000049811",
+          "1000048087",
+          "1000048070",
+          "1000039796",
+          "1000038905",
+          "1000038507",
+          "1000038099",
+          "1000036279",
+          "1000033608",
+          "1000033443",
+          "1000033441"
         ]
       },
       {
@@ -786,12 +787,13 @@
         "summary": "Lava and similar scripted damage sources should use fire damage instead.More realistic and also a fire atronach will no more die walking in lava.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51637/51637-1658420315-1201519123.jpeg",
         "uid": "429496781237",
-        "updatedAt": "2026-03-29T11:11:57Z",
+        "updatedAt": "2026-05-14T17:52:26Z",
         "fileIds": [
+          "1000064092",
           "1000062092",
           "1000035853",
-          "1000032291",
-          "1000032375"
+          "1000032375",
+          "1000032291"
         ]
       },
       {
@@ -1046,7 +1048,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-05-24T11:51:12Z",
-        "fileSize": 33,
+        "fileSize": 34,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -1057,8 +1059,9 @@
         "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
         "uid": "429496779448",
-        "updatedAt": "2026-04-23T18:44:32Z",
+        "updatedAt": "2026-05-14T17:43:54Z",
         "fileIds": [
+          "1000064090",
           "1000062972",
           "1000062777",
           "1000060431",

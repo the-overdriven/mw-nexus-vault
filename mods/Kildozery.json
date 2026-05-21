@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-05-12T22:29:45.592Z",
+  "checkedAt": "2026-05-21T00:32:08.941Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35,
+        "100": 37,
         "130": 2,
         "6332": 3
       }
@@ -11,20 +11,64 @@
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-05-20T20:09:48Z",
+        "fileSize": 24,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59043,
+        "name": "Sly Nerevarine - Tightrope Walking (OpenMW)",
+        "status": "published",
+        "summary": "Walk tightropes like Sly Racoon!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59043/59043-1779306384-1583163958.png",
+        "uid": "429496788643",
+        "updatedAt": "2026-05-20T20:09:48Z",
+        "fileIds": [
+          "1000064366"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-14T23:01:10Z",
+        "fileSize": 69,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58976,
+        "name": "Toxicology - Custom Poisoning Skill (OpenMW)",
+        "status": "published",
+        "summary": "Toxicology! adds a dedicated custom Toxicology (poisoning) skill for OpenMW, giving poison-focused characters of all kinds their own progression path and UI-supported skill identity.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58976/58976-1778847205-2001976636.png",
+        "uid": "429496788576",
+        "updatedAt": "2026-05-19T16:29:29Z",
+        "fileIds": [
+          "1000064318",
+          "1000064193",
+          "1000064147",
+          "1000064137",
+          "1000064124",
+          "1000064106"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2026-05-10T17:22:43Z",
-        "fileSize": 46,
+        "fileSize": 49,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
         },
         "modId": 58929,
-        "name": "Of Pestilence and Purification - Animal Disease Cure and More (OpenMW)",
+        "name": "Of Pestilence and Purification - Animal Disease Curing and More (OpenMW)",
         "status": "published",
         "summary": "Adds both a disease curing and contagion spreading mechanism, for both common disease and blight. Features multiple role-playing paths, unique spells and rewards, and if you're nice, many happy animals!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58929/58929-1778430203-2036699578.png",
         "uid": "429496788529",
-        "updatedAt": "2026-05-12T19:52:22Z",
+        "updatedAt": "2026-05-17T17:56:36Z",
         "fileIds": [
+          "1000064229",
           "1000064018",
           "1000063948",
           "1000063946",
@@ -34,19 +78,24 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-04T20:35:03Z",
-        "fileSize": 22,
+        "fileSize": 28,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
         },
         "modId": 58592,
-        "name": "Staves - Custom Skill (OpenMW)",
+        "name": "Staves - Custom Combat Skill (OpenMW)",
         "status": "published",
         "summary": "Staves! adds a dedicated staff skill for OpenMW, splitting staves out from Blunt Weapon and giving them their own mage-focused combat identity.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58592/58592-1777925235-1753801942.png",
         "uid": "429496788192",
-        "updatedAt": "2026-05-10T20:05:29Z",
+        "updatedAt": "2026-05-19T16:30:38Z",
         "fileIds": [
+          "1000064319",
+          "1000064266",
+          "1000064146",
+          "1000064140",
+          "1000064062",
           "1000063902",
           "1000063802",
           "1000063793",
@@ -56,19 +105,22 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-03T20:04:23Z",
-        "fileSize": 20,
+        "fileSize": 23,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
         },
         "modId": 58590,
-        "name": "Evasion - Custom Skill (OpenMW)",
+        "name": "Evasion - Custom Dodging Skill (OpenMW)",
         "status": "published",
         "summary": "Evasion! adds a brand new skill governed by Agility and specialising in Stealth. It grants Sanctuary based on what you're wearing, how encumbered you are, and how tired you are, rewarding light, nimble builds without invalidating armour.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58590/58590-1777837352-1229571268.png",
         "uid": "429496788190",
-        "updatedAt": "2026-05-08T11:14:52Z",
+        "updatedAt": "2026-05-15T18:19:31Z",
         "fileIds": [
+          "1000064149",
+          "1000064138",
+          "1000064064",
           "1000063794",
           "1000063541"
         ]
@@ -76,19 +128,24 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-03T15:19:14Z",
-        "fileSize": 20,
+        "fileSize": 25,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
         },
         "modId": 58705,
-        "name": "Throwing - Custom Skill (OpenMW)",
+        "name": "Throwing - Custom Combat Skill (OpenMW)",
         "status": "published",
         "summary": "Throwing! adds a dedicated throwing skill for thrown weapons, splitting them out from Marksman and giving them their own unique identity.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58705/58705-1777820865-29531461.png",
         "uid": "429496788305",
-        "updatedAt": "2026-05-08T11:15:35Z",
+        "updatedAt": "2026-05-18T15:04:13Z",
         "fileIds": [
+          "1000064265",
+          "1000064219",
+          "1000064148",
+          "1000064139",
+          "1000064063",
           "1000063795",
           "1000063540",
           "1000063491"
@@ -97,7 +154,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-01T21:57:42Z",
-        "fileSize": 11,
+        "fileSize": 20,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -108,15 +165,17 @@
         "summary": "Smart Potion Hotkeys provides nine configurable potion hotkey slots, each bound to a magic effect instead of a specific potion ID.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58571/58571-1777671695-40348480.png",
         "uid": "429496788171",
-        "updatedAt": "2026-05-01T21:57:42Z",
+        "updatedAt": "2026-05-20T20:05:10Z",
         "fileIds": [
+          "1000064367",
+          "1000064334",
           "1000063387"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2026-04-30T23:00:20Z",
-        "fileSize": 9,
+        "fileSize": 12,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -127,8 +186,9 @@
         "summary": "Dignitas extends the reputation line with fame titles that change as your reputation grows.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58572/58572-1777566129-190230350.png",
         "uid": "429496788172",
-        "updatedAt": "2026-05-10T17:23:59Z",
+        "updatedAt": "2026-05-19T21:28:04Z",
         "fileIds": [
+          "1000064335",
           "1000063899",
           "1000063769",
           "1000063196"
@@ -137,7 +197,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-30T23:00:17Z",
-        "fileSize": 89,
+        "fileSize": 90,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -148,8 +208,9 @@
         "summary": "Enumeratio is a large-scale statistics and records collection system that adds over 90 toggleable and configurable stat counters - Track Player Deaths, Completed Quests, Items Stolen, even Scribs Petted(!), and much, much more!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58497/58497-1777566350-266414624.png",
         "uid": "429496788097",
-        "updatedAt": "2026-05-12T19:31:36Z",
+        "updatedAt": "2026-05-15T11:28:46Z",
         "fileIds": [
+          "1000064125",
           "1000064016",
           "1000063956",
           "1000063898",
@@ -161,7 +222,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-30T23:00:11Z",
-        "fileSize": 19,
+        "fileSize": 29,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -172,8 +233,9 @@
         "summary": "Commercium! Imagine vanilla bartering... but Good!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58589/58589-1777566111-1350993422.png",
         "uid": "429496788189",
-        "updatedAt": "2026-05-12T20:05:30Z",
+        "updatedAt": "2026-05-19T19:58:50Z",
         "fileIds": [
+          "1000064331",
           "1000064020",
           "1000063197"
         ]
@@ -758,6 +820,6 @@
         ]
       }
     ],
-    "totalCount": 35
+    "totalCount": 37
   }
 }

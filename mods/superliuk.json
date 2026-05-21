@@ -1,12 +1,69 @@
 {
-  "checkedAt": "2026-05-12T22:32:37.249Z",
+  "checkedAt": "2026-05-21T00:34:45.377Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 52
+        "100": 55
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-20T19:18:48Z",
+        "fileSize": 1436,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59042,
+        "name": "Iron and Steel Part 1 Weapon Sheating patch",
+        "status": "published",
+        "summary": "Weapon sheathing meshes modified to be compatible with the meshes and textures from “Iron and Steel Part 1”",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59042/59042-1779304191-579225770.png",
+        "uid": "429496788642",
+        "updatedAt": "2026-05-20T19:18:48Z",
+        "fileIds": [
+          "1000064365"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-18T17:32:40Z",
+        "fileSize": 2319,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59030,
+        "name": "Vampire Hunter Hat",
+        "status": "published",
+        "summary": "This mod add new hat inspired by the hat worn by Van Helsing.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59030/59030-1779125594-2058770273.png",
+        "uid": "429496788630",
+        "updatedAt": "2026-05-18T17:32:40Z",
+        "fileIds": [
+          "1000064272"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-13T18:06:17Z",
+        "fileSize": 4266,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58982,
+        "name": "Fantasia Grass for Almalexia Placeholder",
+        "status": "published",
+        "summary": "Fantasia Grass for Almalexia Placeholder",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58982/58982-1778695244-574255229.png",
+        "uid": "429496788582",
+        "updatedAt": "2026-05-13T18:06:17Z",
+        "fileIds": [
+          "1000064058"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-09T07:01:28Z",
@@ -49,7 +106,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-05T12:04:08Z",
-        "fileSize": 22368,
+        "fileSize": 22524,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -60,9 +117,10 @@
         "summary": "Restyling of Pelagiad to make it more like a small town.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58353/58353-1772711836-1749300848.png",
         "uid": "429496787953",
-        "updatedAt": "2026-03-23T18:56:21Z",
+        "updatedAt": "2026-05-17T16:29:51Z",
         "fileIds": [
-          "1000061316",
+          "1000064220",
+          "1000064221",
           "1000061908"
         ]
       },
@@ -957,6 +1015,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 52
+    "totalCount": 55
   }
 }

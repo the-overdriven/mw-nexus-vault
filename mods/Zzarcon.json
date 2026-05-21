@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-05-12T22:33:09.291Z",
+  "checkedAt": "2026-05-21T00:35:28.413Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 27,
         "110": 2,
         "1151": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-15T18:12:05Z",
+        "fileSize": 845,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59003,
+        "name": "Tel Ahini The slavers tower",
+        "status": "published",
+        "summary": "Adds a new tower to an previously uninteresting location.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59003/59003-1778868221-1952103288.png",
+        "uid": "429496788603",
+        "updatedAt": "2026-05-15T18:12:05Z",
+        "fileIds": [
+          "1000064145"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-03T18:39:56Z",
@@ -486,6 +505,6 @@
         "updatedAt": "2023-05-01T18:16:12Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

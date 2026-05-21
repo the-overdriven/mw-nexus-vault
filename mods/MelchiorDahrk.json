@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-12T22:30:58.871Z",
+  "checkedAt": "2026-05-21T00:33:45.106Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -468,7 +468,16 @@
         "summary": "Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of light.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50538/50538-1639865694-925651726.gif",
         "uid": "429496780138",
-        "updatedAt": "2023-01-28T14:13:29Z"
+        "updatedAt": "2026-05-16T20:08:30Z",
+        "fileIds": [
+          "1000064191",
+          "1000031699",
+          "1000034860",
+          "1000028925",
+          "1000028849",
+          "1000028536",
+          "1000028501"
+        ]
       },
       {
         "adultContent": false,

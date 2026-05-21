@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-12T22:28:38.277Z",
+  "checkedAt": "2026-05-21T00:31:07.226Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 27
+        "100": 28
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-15T00:17:05Z",
+        "fileSize": 39,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 58935,
+        "name": "Master Trainers",
+        "status": "published",
+        "summary": "Immersive, lore‑friendly directions and quests for all 27 Master Trainers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58935/58935-1778318452-649590471.png",
+        "uid": "429496788535",
+        "updatedAt": "2026-05-15T00:17:05Z",
+        "fileIds": [
+          "1000063982"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-01T00:05:49Z",
@@ -513,6 +532,6 @@
         ]
       }
     ],
-    "totalCount": 27
+    "totalCount": 28
   }
 }
