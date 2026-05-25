@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2006-05-25T13:59:16.222Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2023-06-01T17:17:06Z",
+        "fileSize": 10996,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 53002,
+        "name": "Habasi - TES3 plugin merging and utility tool",
+        "status": "published",
+        "summary": "Habasi will steal your precious plugins and stash them. It is a command line tool for TES3 plugin merging, e.g. it takes multiple plugins and creates one with their contents.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53002/53002-1685635091-1278365469.jpeg",
+        "uid": "429496782602",
+        "updatedAt": "2024-11-28T21:26:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-04-20T18:28:39Z",
+        "fileSize": 9460,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 52707,
+        "name": "Jobasha - TES3 leveled list merging and deleveling tool",
+        "status": "published",
+        "summary": "Jobasha will perfectly organize all your lists in his library. It is a command line tool for leveled list merging, deleveling and comparison.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52707/52707-1685640714-1568631120.jpeg",
+        "uid": "429496782307",
+        "updatedAt": "2025-01-02T09:26:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-10-10T14:21:10Z",
+        "fileSize": 547,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 50325,
+        "name": "BTBGIsation",
+        "status": "published",
+        "summary": "BTBGI balance changes for Project Tamriel and other mods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50325/50325-1633847138-1174442217.png",
+        "uid": "429496779925",
+        "updatedAt": "2023-11-12T17:12:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-10-18T16:15:55Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 48955,
+        "name": "alvazir's various patches",
+        "status": "published",
+        "summary": "Collection of compatibility patches, fixes, mod expansions and tiny mods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48955/48955-1625305484-223931555.png",
+        "uid": "429496778555",
+        "updatedAt": "2024-10-13T10:20:58Z"
+      }
+    ],
+    "totalCount": 4
+  }
+}

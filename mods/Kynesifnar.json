@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2006-05-25T13:59:51.569Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-08T10:18:40Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 57419,
+        "name": "Bipedal Creature Sounds",
+        "status": "published",
+        "summary": "Allows bipedal creatures such as dremora to occasionally play their \"moan\" sound like other kinds of creatures do rather than being silent outside of combat.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57419/57419-1757326142-2069407033.png",
+        "uid": "429496787019",
+        "updatedAt": "2025-09-09T08:02:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-04T06:54:27Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57400,
+        "name": "Directional Sunrays for Glow in the Dahrk",
+        "status": "published",
+        "summary": "Adjusts the visibility of Glow in the Dahrk's interior sunrays depending on the position of the sun.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57400/57400-1756967928-1967960219.png",
+        "uid": "429496787000",
+        "updatedAt": "2025-09-15T00:45:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-12T04:35:32Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57276,
+        "name": "Harvest Lights - MWSE Edition",
+        "status": "published",
+        "summary": "Disables nearby lights when containers are harvested with Graphic Herbalism and re-enables them once their containers have grown back.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57276/57276-1754901680-191824460.png",
+        "uid": "429496786876",
+        "updatedAt": "2025-08-13T10:24:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-18T16:35:36Z",
+        "fileSize": 92,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55354,
+        "name": "Fixed Bonelord Arms",
+        "status": "published",
+        "summary": "Fixes the bonelord's left forearms so that they are actually positioned correctly, rather than clipping through the upper arms and disconnected from their hands.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55354/55354-1729268972-1911826047.png",
+        "uid": "429496784954",
+        "updatedAt": "2024-10-18T16:35:36Z"
+      }
+    ],
+    "totalCount": 4
+  }
+}

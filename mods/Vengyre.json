@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2006-05-25T13:54:11.325Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4,
+        "101": 3
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-28T14:59:51Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52424,
+        "name": "Weapon Stats Normalizer",
+        "status": "published",
+        "summary": "Changes weapon damage values for all strike types to the best one. Like using \"Always use best strike\" option, but with various animations. Requires MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52424/52424-1677596216-794301031.png",
+        "uid": "429496782024",
+        "updatedAt": "2023-02-28T16:15:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-08-16T14:19:07Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51741,
+        "name": "Armor Training",
+        "status": "published",
+        "summary": "Get accustomed to armor by moving around with it. Slowly level armor while moving at low skill. Highly configurable. Requires MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51741/51741-1660658827-540862823.jpeg",
+        "uid": "429496781341",
+        "updatedAt": "2022-08-16T14:19:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-07-21T10:23:59Z",
+        "fileSize": 149,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 51636,
+        "name": "Magicka of the Third Era - MWSE-lua Magic Overhaul",
+        "status": "published",
+        "summary": "MWSE-lua magic overhaul. Features reworked spell chances and costs with unique formulas for single and multi-effect spells, Illusion effects overhaul, effect synergies, spell rebalance, unique spells, reworked experience gain, Magicka",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51636/51636-1658396860-1168314737.png",
+        "uid": "429496781236",
+        "updatedAt": "2025-02-08T16:58:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-06-28T14:34:36Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 48470,
+        "name": "Dice-Free Magic",
+        "status": "published",
+        "summary": "Removes the random chance to fail your spells, in a hopefully balanced way. You are either guaranteed to succeed or to fail, depending on a spell difficulty. Affected by Fatigue.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48470/48470-1593354315-972417477.jpeg",
+        "uid": "429496778070",
+        "updatedAt": "2020-06-28T14:36:10Z"
+      }
+    ],
+    "totalCount": 4
+  }
+}

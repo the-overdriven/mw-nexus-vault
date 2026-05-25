@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2006-05-25T13:57:02.183Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-02T04:00:18Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58317,
+        "name": "Skip to Main Menu",
+        "status": "published",
+        "summary": "Skips the two starting videos, taking you straight to the main menu!. Note: This does not skip the in game Intro video, only startup.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58317/58317-1772423639-14071312.png",
+        "uid": "429496787917",
+        "updatedAt": "2026-03-02T04:00:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-20T19:02:22Z",
+        "fileSize": 24,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58259,
+        "name": "Sleek Amber UI (Open MW)",
+        "status": "published",
+        "summary": "Reskins the UI with a sleek Amber look. I think it looks very Morrowindie!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58259/58259-1771613782-2020941745.png",
+        "uid": "429496787859",
+        "updatedAt": "2026-02-20T19:02:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-13T02:23:56Z",
+        "fileSize": 825,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58214,
+        "name": "Horizontal Compass (OpenMW)",
+        "status": "published",
+        "summary": "A Simple Horizontal Compass\"No Markers!\"  Just a clean, compass.Community Updates!   Now featuring contributions from the community.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58214/58214-1770948450-1322301178.png",
+        "uid": "429496787814",
+        "updatedAt": "2026-03-02T01:00:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-04T22:05:44Z",
+        "fileSize": 576,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58167,
+        "name": "Pretty Loot (OpenMW)",
+        "status": "published",
+        "summary": "Makes Looting items look pretty.Supports, Normal Items, Quest Items, Magical Items, and Resource Items.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58167/58167-1770333614-1658545522.png",
+        "uid": "429496787767",
+        "updatedAt": "2026-03-02T00:22:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-04T18:51:01Z",
+        "fileSize": 24197,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58166,
+        "name": "Enhanced Painted Icons",
+        "status": "published",
+        "summary": "Replaces Morrowinds Item Icons. to make them look more artistic like oblivion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58166/58166-1770249546-83983953.png",
+        "uid": "429496787766",
+        "updatedAt": "2026-02-04T18:51:01Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}

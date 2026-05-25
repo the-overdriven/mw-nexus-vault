@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2006-05-25T13:55:23.850Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-20T21:55:30Z",
+        "fileSize": 298,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55364,
+        "name": "Maxar's Dynamic Footsteps Sounds (OpenMw 0.49)",
+        "status": "published",
+        "summary": "This mod adds immersive, context-sensitive footstep sounds to OpenMW. It adjusts sounds based on character speed, race, and armor. Features include customizable settings, surface detection, and water depth awareness. Enhance your audio",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55364/55364-1729462205-1552630688.png",
+        "uid": "429496784964",
+        "updatedAt": "2024-10-30T10:35:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-19T20:59:16Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55360,
+        "name": "Maxar's Unpaused (OpenMw 0.49)",
+        "status": "published",
+        "summary": "This mod removes menu pausing in Morrowind, making all game menus (inventory, magic, etc.) function in real-time or with customizable time-slowdown. It prevents exploit techniques involving rapid menu opening/closing for instant buff",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55360/55360-1729371513-1890639517.png",
+        "uid": "429496784960",
+        "updatedAt": "2024-10-29T20:46:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-15T20:43:28Z",
+        "fileSize": 24,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55344,
+        "name": "Maxar's Timed Attacks (OpenMw 0.49)",
+        "status": "published",
+        "summary": "Time your attacks! Charge to boost weapon skills and improve hit chances. Find the sweet spot – overcharging reduces the bonus.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55344/55344-1729442297-467872979.png",
+        "uid": "429496784944",
+        "updatedAt": "2024-10-19T22:07:40Z"
+      }
+    ],
+    "totalCount": 3
+  }
+}

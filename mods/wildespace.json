@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2006-05-25T13:58:52.809Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 7,
+        "101": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2016-12-25T12:35:08Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 44675,
+        "name": "Passive Healthy Wildlife",
+        "status": "published",
+        "summary": "This mod changes the attack setting of MOST non-diseased animals into a\nmuch more PASSIVE state in which they DO NOT attack unless attacked first or \"bothered.\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44675-0-1482670476.jpg",
+        "uid": "429496774275",
+        "updatedAt": "2016-12-25T12:34:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-05-21T07:56:11Z",
+        "fileSize": 145598,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 44311,
+        "name": "Visual Pack Combined",
+        "status": "published",
+        "summary": "This visual pack retextures the game of Morrowind to give a it lush, high-res makeover. Works best with MGE or MGE XE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44311-3-1463815988.jpg",
+        "uid": "429496773911",
+        "updatedAt": "2016-05-21T07:56:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-02-17T18:11:05Z",
+        "fileSize": 136,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 43045,
+        "name": "Lights 300",
+        "status": "published",
+        "summary": "This mod reworks all lights in the game to be more, colorfull, dynamic, magical and realistic.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43045-1-1392660182.jpg",
+        "uid": "429496772645",
+        "updatedAt": "2017-05-01T12:43:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-09-15T13:20:21Z",
+        "fileSize": 92,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 42250,
+        "name": "Almalexia Greetings",
+        "status": "published",
+        "summary": "This mod gives Almalexia\\'s greetings a reverb effect. This makes it sound more authentic and gives Almalexia\\'s voice that etherial quality which I think she should have, rather than sounding like any ordinary Dunmer woman.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42250-1-1347715500.jpg",
+        "uid": "429496771850",
+        "updatedAt": "2012-09-15T13:26:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-09-14T23:25:42Z",
+        "fileSize": 11552,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 42248,
+        "name": "Ambient Town Sounds v1-4",
+        "status": "published",
+        "summary": "This mod adds ambient crowd sounds to most of Morrowind\\'s populated places.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42248-1-1347665400.jpg",
+        "uid": "429496771848",
+        "updatedAt": "2012-09-14T23:28:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-09-14T17:31:36Z",
+        "fileSize": 1156,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 42247,
+        "name": "Visible Mournhold Temple",
+        "status": "published",
+        "summary": "Makes the Mournhold Temple spires and the Castle visible from other Mournhold areas.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42247-1-1347644020.jpg",
+        "uid": "429496771847",
+        "updatedAt": "2017-06-27T07:45:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-09-01T07:55:12Z",
+        "fileSize": 108,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 42221,
+        "name": "Alternative Rat Sound",
+        "status": "published",
+        "summary": "Alternative sound for rats in Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42221-1-1346486459.jpg",
+        "uid": "429496771821",
+        "updatedAt": "2012-09-01T07:56:36Z"
+      }
+    ],
+    "totalCount": 7
+  }
+}

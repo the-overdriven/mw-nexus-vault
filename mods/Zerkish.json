@@ -1,0 +1,79 @@
+{
+  "checkedAt": "2006-05-25T13:55:43.839Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4,
+        "1151": 2,
+        "7587": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-30T00:15:32Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56797,
+        "name": "Zerkish SkillTracker (For OpenMW)",
+        "status": "published",
+        "summary": "Simple Skill Tracker for nerds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56797/56797-1748564285-1209088737.png",
+        "uid": "429496786397",
+        "updatedAt": "2025-05-30T00:15:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-30T00:07:52Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 56795,
+        "name": "Zerkish ModUtils (OpenMW)",
+        "status": "published",
+        "summary": "Utility Lua Library, does nothing on its own.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56795/56795-1748560737-481312501.png",
+        "uid": "429496786395",
+        "updatedAt": "2025-05-30T09:09:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-24T19:08:35Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 56718,
+        "name": "Zerkish AutoSave (For OpenMW)",
+        "status": "published",
+        "summary": "Simple Reliable AutoSaves",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56718/56718-1748113701-1797402610.png",
+        "uid": "429496786318",
+        "updatedAt": "2025-05-24T19:08:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-13T09:13:46Z",
+        "fileSize": 49,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56583,
+        "name": "Zerkish Hotkeys Improved (For OpenMW)",
+        "status": "published",
+        "summary": "Simple Vanilla Friendly Improved Hotkeys (More Hotkeys).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56583/56583-1747311002-900174586.png",
+        "uid": "429496786183",
+        "updatedAt": "2025-06-04T19:30:15Z"
+      }
+    ],
+    "totalCount": 4
+  }
+}

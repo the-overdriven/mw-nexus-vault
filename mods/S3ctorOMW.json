@@ -1,0 +1,222 @@
+{
+  "checkedAt": "2006-05-25T13:57:20.094Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 13,
+        "101": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-01T04:49:54Z",
+        "fileSize": 243,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 58557,
+        "name": "Rubic0n",
+        "status": "published",
+        "summary": "Unsandboxed LuaJIT for OpenMW. The boundary was marked. The marker is cracked. Install it, accept the risk, and make something they said you couldn't.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58557/58557-1775017530-766544269.jpg",
+        "uid": "429496788157",
+        "updatedAt": "2026-04-01T04:49:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-07T05:03:26Z",
+        "fileSize": 322,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 58367,
+        "name": "OpenResty LuaJIT - Extended Functionality and Bugfixes for OpenMW-Lua and MWSE-Lua Mods",
+        "status": "published",
+        "summary": "An improved fork of LuaJIT with additional bugfixes and features not included by OpenMW itself or MWSE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58367/58367-1772859397-470498322.png",
+        "uid": "429496787967",
+        "updatedAt": "2026-03-07T05:03:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-02T00:45:35Z",
+        "fileSize": 6739,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 58027,
+        "name": "Starwind Community Patch Project",
+        "status": "published",
+        "summary": "Fixes dozens of bugs and performance problems in Starwind, brought to you by years of testing from the TSI multiplayer community.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58027/58027-1767314726-2058502096.png",
+        "uid": "429496787627",
+        "updatedAt": "2026-01-02T00:45:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-28T02:42:44Z",
+        "fileSize": 689,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57703,
+        "name": "T4rg3t5 - OpenMW Targeting System",
+        "status": "published",
+        "summary": "Dark Souls Style target locking framework for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57703/57703-1761618343-1717134229.png",
+        "uid": "429496787303",
+        "updatedAt": "2025-10-28T02:42:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-27T04:40:59Z",
+        "fileSize": 1110,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 57512,
+        "name": "VfsTool",
+        "status": "published",
+        "summary": "Command-line tool for introspecting OpenMW installations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57512/57512-1758947882-1508162656.png",
+        "uid": "429496787112",
+        "updatedAt": "2025-10-03T03:16:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-27T04:24:12Z",
+        "fileSize": 1693,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 57511,
+        "name": "S3Lightfixes",
+        "status": "published",
+        "summary": "The ultimate light-fixing utility for OpenMW installations. Written in Rust, cross-platform, and beyond customizable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57511/57511-1758947023-1389570336.png",
+        "uid": "429496787111",
+        "updatedAt": "2026-05-04T19:13:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-12T11:57:35Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 57282,
+        "name": "Static Switching System",
+        "status": "published",
+        "summary": "OpenMW-Lua framework for creating pluginless mesh replacers without load order or patch hassle.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57282/57282-1754999832-1467134674.png",
+        "uid": "429496786882",
+        "updatedAt": "2025-08-16T18:38:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-11T06:51:29Z",
+        "fileSize": 21257,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57126,
+        "name": "Beta Icons Restored and Reimagined",
+        "status": "published",
+        "summary": "Hundreds of handmade new icons, based on Bethesda's beta ones and reimagined in a more vibrant color palette.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57126/57126-1752216605-802059966.png",
+        "uid": "429496786726",
+        "updatedAt": "2025-07-11T08:40:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-11T06:37:32Z",
+        "fileSize": 17,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57125,
+        "name": "Hawk3ye - OpenMW Zooming",
+        "status": "published",
+        "summary": "Toggle/Hold zoom bindings with high degree of mod interoperability.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57125/57125-1752215703-1163730294.png",
+        "uid": "429496786725",
+        "updatedAt": "2025-07-11T08:33:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-02T12:04:33Z",
+        "fileSize": 66794,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56836,
+        "name": "S3maphore - OpenMW Music Management from the Future",
+        "status": "published",
+        "summary": "S3maphore is a replacement both for OpenMW's built-in music management system and Dynamic Music, with a focus on flexibility and performance. Your music, like you'd never get it anywhere else. (And also faster)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56836/56836-1748865326-1226979087.png",
+        "uid": "429496786436",
+        "updatedAt": "2025-10-03T02:18:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-27T06:06:45Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 56417,
+        "name": "H3lp Yours3lf - OpenMW Helper Interfaces",
+        "status": "published",
+        "summary": "Opt-in replacement for the `openmw.self` module with better ergonomics and performance, along with some additional convenience functions for generating Image Atlasses, tracking objects with the camera, and ported C++ code from OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56417/56417-1761344047-235718333.png",
+        "uid": "429496786017",
+        "updatedAt": "2025-10-24T22:14:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-03T23:09:30Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56296,
+        "name": "OPENMW - Chim Climbing",
+        "status": "published",
+        "summary": "The long awaited Lua sequel to CHIM - Movement and Stamina. Climbing module only!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56296/56296-1743721499-159909665.png",
+        "uid": "429496785896",
+        "updatedAt": "2025-04-03T23:09:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-01T10:42:04Z",
+        "fileSize": 26183,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 53675,
+        "name": "The Arcane Academy of Venarius",
+        "status": "published",
+        "summary": "Find a worn-down mage's attempt at their own offshoot of the Mages' Guild. Explore new, unknown dimensions, rebuild the Arcane Academy of Venarius, and find all the secrets the school has to offer!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53675/53675-1698806302-45166289.png",
+        "uid": "429496783275",
+        "updatedAt": "2023-11-01T10:42:04Z"
+      }
+    ],
+    "totalCount": 13
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2006-05-25T13:59:01.836Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-28T15:34:38Z",
+        "fileSize": 23,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 55162,
+        "name": "Westly's Faces Refurbished TR_Data patch",
+        "status": "published",
+        "summary": "Fixes 2 heads included in WFR TR_Data that had the wrong filepath set for their textures",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55162/55162-1724859017-1062878614.png",
+        "uid": "429496784762",
+        "updatedAt": "2024-08-28T15:34:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-08-13T21:08:02Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 55119,
+        "name": "Body Parts Fixes",
+        "status": "published",
+        "summary": "Simple fix for Morrowind using the wrong body parts",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55119/55119-1723582250-1095425124.png",
+        "uid": "429496784719",
+        "updatedAt": "2024-08-14T17:02:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-10-28T17:51:39Z",
+        "fileSize": 22898,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 53667,
+        "name": "Rafael's Shader Pack",
+        "status": "published",
+        "summary": "Optimized postprocess shader pack for OpenMW, making it look better than ever before while still being very Vanilla-friendly",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53667/53667-1775221726-953247892.png",
+        "uid": "429496783267",
+        "updatedAt": "2026-04-28T18:26:38Z"
+      }
+    ],
+    "totalCount": 3
+  }
+}

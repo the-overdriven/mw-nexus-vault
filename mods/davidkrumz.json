@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2006-05-25T13:57:24.781Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2018-03-14T00:36:30Z",
+        "fileSize": 37,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 45530,
+        "name": "Alcohol Shots for Alchemy",
+        "status": "published",
+        "summary": "Alcohol Shots for Alchemy allows the player to use 'shots' of alcohol for consumption or for mixing potions in alchemy. These shots of alcohol are based off of Vvardenfel's main brews: Mazte, Sujamma, Shein, Cyrodillic Brandy, Nord Mead and",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45530/45530-1520987328-1166240137.png",
+        "uid": "429496775130",
+        "updatedAt": "2018-03-14T00:36:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-06-12T21:15:49Z",
+        "fileSize": 277,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 45004,
+        "name": "Weapons and Armor Diversity Overhaul",
+        "status": "published",
+        "summary": "Many of Morrowind's original weapons and armor will have several parallel tiers added to the game. This mod will add over 2500 new weapons and armor to Morrowind!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45004-2-1497302094.png",
+        "uid": "429496774604",
+        "updatedAt": "2017-06-12T21:17:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-05-28T00:24:30Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 44976,
+        "name": "Loot Well Urned",
+        "status": "published",
+        "summary": "Ancestral Tomb Loot Enhancement Mod",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44976-1-1495930665.png",
+        "uid": "429496774576",
+        "updatedAt": "2021-05-18T23:07:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-07-10T03:16:40Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 42179,
+        "name": "Shield Spell Visual Effects Remover",
+        "status": "published",
+        "summary": "Removes the shield visual aura from certain alteration spells.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42179-1-1341890859.jpg",
+        "uid": "429496771779",
+        "updatedAt": "2025-02-26T19:13:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-06-21T05:17:18Z",
+        "fileSize": 54,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 42158,
+        "name": "Diablo 2 Inspired Magic and Unique Items",
+        "status": "published",
+        "summary": "Adds over 400 new weapons and armor to leveled drop lists!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42158-0-1496093000.jpg",
+        "uid": "429496771758",
+        "updatedAt": "2017-05-29T22:09:08Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}

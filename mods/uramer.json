@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2006-05-25T13:58:31.296Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 6
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-30T15:14:19Z",
+        "fileSize": 5885,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 54759,
+        "name": "Songs of the Ashen Winds",
+        "status": "published",
+        "summary": "Turns the books of Ashlander poetry from the game into music boxes with new and original music.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54759/54759-1717082050-1977898666.png",
+        "uid": "429496784359",
+        "updatedAt": "2024-05-30T15:14:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-11T18:42:45Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 53717,
+        "name": "Most Wanted Nerevarine",
+        "status": "published",
+        "summary": "Shows your current crime status in a HUD overlay reminiscent of open world crime games, such as GTA or Cyberpunk.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53717/53717-1699728015-518495636.png",
+        "uid": "429496783317",
+        "updatedAt": "2024-08-19T10:08:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-11-10T22:42:27Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53714,
+        "name": "Perfumed Vampires",
+        "status": "published",
+        "summary": "\"Perfumed Vampires\" allows the player to mask their undead scent by applying perfumes. The effect lasts as long as the perfume itself.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53714/53714-1699656032-222833136.png",
+        "uid": "429496783314",
+        "updatedAt": "2024-07-22T15:44:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-04T17:06:23Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52130,
+        "name": "Quick Spell Casting",
+        "status": "published",
+        "summary": "Cast spells with a single key press, similarly to how it works in Oblivion. Uses standard spell casting hotkey.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52130/52130-1672851561-467749533.png",
+        "uid": "429496781730",
+        "updatedAt": "2024-09-12T10:08:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-15T09:00:39Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 51232,
+        "name": "Attend Me",
+        "status": "published",
+        "summary": "Follower HUD and teleportation",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51232/51232-1652563692-1093372365.png",
+        "uid": "429496780832",
+        "updatedAt": "2025-03-09T08:18:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-08-16T18:05:32Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 48703,
+        "name": "Zainab burial caverns",
+        "status": "published",
+        "summary": "Explore a new Ashlander themed dungeon in this quest.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48703/48703-1597600838-1725997682.png",
+        "uid": "429496778303",
+        "updatedAt": "2023-01-19T19:41:17Z"
+      }
+    ],
+    "totalCount": 6
+  }
+}

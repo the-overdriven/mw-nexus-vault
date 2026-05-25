@@ -1,0 +1,193 @@
+{
+  "checkedAt": "2006-05-25T14:01:26.817Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 11,
+        "101": 1,
+        "1704": 3,
+        "1950": 1,
+        "6144": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-11T02:21:18Z",
+        "fileSize": 9302,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57909,
+        "name": "Darksun's Eclipse - Darksun Shield Replacer",
+        "status": "published",
+        "summary": "Give's the Darksun Shield a unique model replete with effects that live up to it's name.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57909/57909-1765418550-431610210.png",
+        "uid": "429496787509",
+        "updatedAt": "2025-12-12T17:34:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-08T21:33:51Z",
+        "fileSize": 349,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57904,
+        "name": "Furry Colovian Helm",
+        "status": "published",
+        "summary": "Adds a 3D fur effect to Colovian Fur Helms",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57904/57904-1765229093-1142283489.png",
+        "uid": "429496787504",
+        "updatedAt": "2025-12-08T21:33:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-16T00:21:19Z",
+        "fileSize": 4861,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 57784,
+        "name": "Trueflame Ablaze",
+        "status": "published",
+        "summary": "A Trueflame replacer featuring a new mesh, textures, and animations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57784/57784-1763243991-1255676190.png",
+        "uid": "429496787384",
+        "updatedAt": "2025-11-16T00:21:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-12T00:49:27Z",
+        "fileSize": 2356,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57769,
+        "name": "Daggerfall Style Auriel's Shield",
+        "status": "published",
+        "summary": "Replaces Auriel's Shield with a more lore friendly Daggerfall version with animated script.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57769/57769-1762926933-1555916600.png",
+        "uid": "429496787369",
+        "updatedAt": "2025-11-13T02:35:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-07T19:52:05Z",
+        "fileSize": 1561,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57748,
+        "name": "Keening and Sunder Unleashed",
+        "status": "published",
+        "summary": "Gives animations and effects to Keening and Sunder, making them look like the mighty weapons of legend.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57748/57748-1762543136-1165745330.png",
+        "uid": "429496787348",
+        "updatedAt": "2025-11-08T21:46:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-04T22:06:50Z",
+        "fileSize": 284,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57740,
+        "name": "Nordic Mesh Improvements re-Vanillized",
+        "status": "published",
+        "summary": "Replaces the meshes for all Nordic weapons. Vanilla friendly-er.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57740/57740-1762292631-1364352775.png",
+        "uid": "429496787340",
+        "updatedAt": "2025-11-04T22:06:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-30T22:33:03Z",
+        "fileSize": 2482,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57713,
+        "name": "Bump It Up - Patches",
+        "status": "published",
+        "summary": "Patch hub for the Bump It Up project. Bump map everything!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57713/57713-1761863277-2072106408.png",
+        "uid": "429496787313",
+        "updatedAt": "2025-12-01T02:04:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-29T17:48:51Z",
+        "fileSize": 38250,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57708,
+        "name": "Bump It Up - Armors",
+        "status": "published",
+        "summary": "A comprehensive armor overhaul, adding shine to armors via bump maps. Incorporates the best mesh replacers. Complete edition.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57708/57708-1764049439-554814242.png",
+        "uid": "429496787308",
+        "updatedAt": "2025-11-25T05:43:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-27T16:46:01Z",
+        "fileSize": 714,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57699,
+        "name": "Daemacht's Various Improved Meshes",
+        "status": "published",
+        "summary": "Random assortment of improved armor meshes I've made.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57699/57699-1763936305-754131654.png",
+        "uid": "429496787299",
+        "updatedAt": "2025-11-25T05:16:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-09T17:27:39Z",
+        "fileSize": 1044,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 55955,
+        "name": "Return of the King - Karstaag Overhaul",
+        "status": "published",
+        "summary": "A creature overhaul of Karstaag, turning him into the towering, fearsome frost giant he should have always been.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55955/55955-1739120546-606762321.png",
+        "uid": "429496785555",
+        "updatedAt": "2025-02-09T17:27:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-05-11T00:18:06Z",
+        "fileSize": 5116,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 52852,
+        "name": "DOOMWIND",
+        "status": "published",
+        "summary": "Adds Doomguy's armor and weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52852/52852-1683763961-1308565627.png",
+        "uid": "429496782452",
+        "updatedAt": "2023-05-11T00:18:06Z"
+      }
+    ],
+    "totalCount": 11
+  }
+}

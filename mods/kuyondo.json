@@ -1,0 +1,301 @@
+{
+  "checkedAt": "2006-05-25T13:56:47.395Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 18
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-05-18T09:08:04Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54683,
+        "name": "Practical Repair (OpenMW)",
+        "status": "published",
+        "summary": "Alters the repair system, necessitating the use of specific workstations like anvils or forges. Players must strategically locate and utilize these stations to maintain and restore their equipment, adding some realism and challenge to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54683/54683-1715952856-434976676.png",
+        "uid": "429496784283",
+        "updatedAt": "2024-05-20T16:29:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-13T19:15:23Z",
+        "fileSize": 50,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 51224,
+        "name": "Sorcerer of Alteration",
+        "status": "published",
+        "summary": "Journey through this quest mod to improve your alteration magic.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51224/51224-1652468463-590868110.jpeg",
+        "uid": "429496780824",
+        "updatedAt": "2023-06-26T20:02:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-05-09T09:21:15Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51197,
+        "name": "Signpost Fast Travel (MWSE)",
+        "status": "published",
+        "summary": "Provide fast travel in the form of using signposts.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51197/51197-1652086073-1398782643.png",
+        "uid": "429496780797",
+        "updatedAt": "2022-08-25T11:57:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-09-22T22:02:44Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 50271,
+        "name": "Pursuit (OpenMW)",
+        "status": "published",
+        "summary": "Actors can travel through cells to pursue their target.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50271/50271-1701169728-375865343.png",
+        "uid": "429496779871",
+        "updatedAt": "2026-05-12T22:47:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-26T03:17:53Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 48142,
+        "name": "Cursed Offerings",
+        "status": "published",
+        "summary": "Picking up a cursed item will summon a Daedra associated with the corresponding Daedric Prince. Many more options to choose from!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48142/48142-1701176000-2132367692.png",
+        "uid": "429496777742",
+        "updatedAt": "2023-11-18T20:19:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-15T07:43:33Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 48050,
+        "name": "Transporter Lights",
+        "status": "published",
+        "summary": "Transporters equip light at night for more immersion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48050/48050-1701174238-388562287.png",
+        "uid": "429496777650",
+        "updatedAt": "2025-04-22T13:47:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-12T11:43:42Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 48014,
+        "name": "Skill Progress Record (OpenMW)",
+        "status": "published",
+        "summary": "Records your skill increase since last level up.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48014/48014-1700316009-1148192793.png",
+        "uid": "429496777614",
+        "updatedAt": "2023-11-18T13:50:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2020-05-01T15:19:49Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 47914,
+        "name": "Security Adjuster (MWSE)",
+        "status": "published",
+        "summary": "Shows your lockpick and disarm success. Gathers various lockpicking and disarming statistics.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47914/47914-1660965228-1186872039.jpeg",
+        "uid": "429496777514",
+        "updatedAt": "2022-06-16T04:57:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-07-21T00:51:48Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 46992,
+        "name": "Protective Guards (OpenMW)",
+        "status": "published",
+        "summary": "Guards protect against hostile NPCs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46992/46992-1563905467-1888870151.jpeg",
+        "uid": "429496776592",
+        "updatedAt": "2023-11-14T13:48:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-05-20T04:57:23Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 46783,
+        "name": "Roaming Creeper",
+        "status": "published",
+        "summary": "Creeper has gotten bored of his orc patrons and will now move around Morrowind and trade with the locals. It's a better experience than exploiting his gold easily. Poor guy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46783/46783-1701174971-726623760.png",
+        "uid": "429496776383",
+        "updatedAt": "2023-11-26T17:22:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-08-31T08:21:44Z",
+        "fileSize": 2014,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 45992,
+        "name": "Cavern Of The Incarnate Overhaul - OpenMW patch",
+        "status": "published",
+        "summary": "Makes this mod works nicely for OpenMW. Removed bump and environment maps. Also included optional textures and esp.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45992/45992-1535375712-1557883649.jpeg",
+        "uid": "429496775592",
+        "updatedAt": "2018-08-31T08:21:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2018-08-19T07:13:53Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 45967,
+        "name": "Auto Ammo Equip (OpenMW)",
+        "status": "published",
+        "summary": "When a crossbow or bow is equipped, any available arrows or bolts in the inventory will be automatically equipped.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45967/45967-1701168512-1541235188.png",
+        "uid": "429496775567",
+        "updatedAt": "2023-11-18T14:28:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-10-26T17:46:36Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 5,
+          "name": "Guilds/Factions"
+        },
+        "modId": 45260,
+        "name": "Shortcuts",
+        "status": "published",
+        "summary": "Just various shortcuts to make life easier without making the game too easy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45260/45260-1622754714-599914869.png",
+        "uid": "429496774860",
+        "updatedAt": "2021-06-03T21:08:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-09-20T22:07:30Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 45209,
+        "name": "Tel Fyr Amulet Fix",
+        "status": "published",
+        "summary": "Equipping the amulet will cause hang in the OpenMW engine and crash in the original. The amulet script is repaired here.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45209-0-1505940492.jpg",
+        "uid": "429496774809",
+        "updatedAt": "2017-09-20T22:06:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-09-16T22:14:18Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45198,
+        "name": "Wait and Sleep (OpenMW)",
+        "status": "published",
+        "summary": "Wait and Sleep is more immersive",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45198/45198-1586372162-1843660045.jpeg",
+        "uid": "429496774798",
+        "updatedAt": "2022-12-06T17:43:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-09-15T15:46:08Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 45196,
+        "name": "Faction Service",
+        "status": "published",
+        "summary": "Factions services cannot be used for free. Now, players need to become a member and raise their ranks within the faction to use the services.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45196/45196-1634826728-1089164040.jpeg",
+        "uid": "429496774796",
+        "updatedAt": "2021-10-31T17:11:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-06-06T11:41:55Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 44362,
+        "name": "Illegal Items",
+        "status": "published",
+        "summary": "The Imperial Legion needs your help. Collect Illegal Items such as Raw ebony, Raw Glass, and Dwemer items and hand them over to Knight Protectors. A very good immersion plugin, with very balanced rewards.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44362/44362-1561477777-150717316.jpeg",
+        "uid": "429496773962",
+        "updatedAt": "2020-03-19T10:22:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-05-25T15:12:41Z",
+        "fileSize": 79,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 44317,
+        "name": "NifTexture",
+        "status": "published",
+        "summary": "Modders should know what is this already.",
+        "thumbnailUrl": null,
+        "uid": "429496773917",
+        "updatedAt": "2016-05-25T15:12:33Z"
+      }
+    ],
+    "totalCount": 18
+  }
+}

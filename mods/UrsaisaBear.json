@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2006-05-25T13:54:39.220Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1,
+        "1704": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-20T00:40:45Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58706,
+        "name": "Lazy Leveling for OpenMW 0.50.0",
+        "status": "published",
+        "summary": "Lua mod that simplifies leveling. Attributes bonuses on level up have been removed (always x1). Now, get an increase to an attribute for every 5 skill increases from skills that are governed by that attribute. Requires at least OpenMW",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58706/58706-1776645588-759859030.png",
+        "uid": "429496788306",
+        "updatedAt": "2026-05-13T01:11:56Z"
+      }
+    ],
+    "totalCount": 1
+  }
+}

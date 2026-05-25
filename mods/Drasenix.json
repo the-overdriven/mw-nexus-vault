@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2006-05-25T13:58:19.428Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-13T00:02:05Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57288,
+        "name": "Take All Enhanced (TAE) - Open MW",
+        "status": "published",
+        "summary": "In the game, you can now use shortcuts to quickly Take All items of a specific type from a container.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57288/57288-1755043576-969300661.png",
+        "uid": "429496786888",
+        "updatedAt": "2025-08-20T00:15:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-15T16:35:37Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57140,
+        "name": "Smart Interface Menu Opening (SIMO) - Open MW",
+        "status": "published",
+        "summary": "In game, you can now open and close interface menus (one by one, with combinations or with switching method) with a simple keybinding. In addition, you can choose to set the game to (un)pause for each menu and to able/disable Move,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57140/57140-1752597097-426588817.png",
+        "uid": "429496786740",
+        "updatedAt": "2025-09-18T22:13:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-08T17:17:49Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57105,
+        "name": "Show Gold Amount (SGA) - Open MW",
+        "status": "published",
+        "summary": "This mod allows you to display the player's gold amount on the HUD and on the Interface (Inventory, Map, Magic, Stats).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57105/57105-1751994498-1289291385.jpg",
+        "uid": "429496786705",
+        "updatedAt": "2025-07-15T18:25:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-07T22:32:04Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57103,
+        "name": "Click To Close Menu (CTCM) - Open MW",
+        "status": "published",
+        "summary": "Mod that allows to close menus (map, journal, inventory, wait...) with a click.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57103/57103-1751927300-1535940434.jpg",
+        "uid": "429496786703",
+        "updatedAt": "2025-07-18T16:06:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-07T21:13:27Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57101,
+        "name": "Click To Prepare Weapon (CTPW) - Open MW",
+        "status": "published",
+        "summary": "This mod offer the possibility to prepare your weapon with a click",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57101/57101-1751922794-177208970.jpg",
+        "uid": "429496786701",
+        "updatedAt": "2025-07-18T23:38:36Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}

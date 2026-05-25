@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2006-05-25T13:57:29.308Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-10T03:20:20Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 54132,
+        "name": "Rapport - OpenMW Companions",
+        "status": "published",
+        "summary": "Hire any NPC to join you as a companion. Essential features such as inventory sharing, leveling up, and teleportation. Quality of Life features such as disease resistance, fall damage immunity, and levitation.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54132/54132-1725673093-621574248.jpeg",
+        "uid": "429496783732",
+        "updatedAt": "2024-09-03T06:06:39Z"
+      }
+    ],
+    "totalCount": 1
+  }
+}

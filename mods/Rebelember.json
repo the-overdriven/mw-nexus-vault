@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2006-05-25T13:57:53.169Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4,
+        "4187": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-18T19:51:51Z",
+        "fileSize": 470455,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 58699,
+        "name": "Free FPS for OpenMW",
+        "status": "published",
+        "summary": "The very latest OpenMW 0.51 built with added occlusion culling and soft shadows to reclaim +15-30 FPS in dense areas.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58699/58699-1776541518-1563749701.png",
+        "uid": "429496788299",
+        "updatedAt": "2026-04-18T19:51:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-12T21:11:44Z",
+        "fileSize": 18902,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 58654,
+        "name": "Hilgya's Clothing for Robert's Bodies",
+        "status": "published",
+        "summary": "A conversion of outfits from Hilgya the Seamstress, also used in NPC - Outfit Diversity - to fit Robert's Bodies.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58654/58654-1776027836-365538838.jpg",
+        "uid": "429496788254",
+        "updatedAt": "2026-04-12T21:11:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-07T21:34:18Z",
+        "fileSize": 1511,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 58606,
+        "name": "Solstheim Castle Moved and Improved for TOTSP (OpenMW)",
+        "status": "published",
+        "summary": "The best player castle ever made for Morrowind brought back to its former glory and made compatible with modern modlists. ",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58606/58606-1775596997-1797451165.jpg",
+        "uid": "429496788206",
+        "updatedAt": "2026-04-12T19:04:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-28T03:22:52Z",
+        "fileSize": 1212,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 58523,
+        "name": "Completionist Patch Hub",
+        "status": "published",
+        "summary": "An absolute chad of a patch hub for the glorious Completionist mod providing tracking for an additional 1000 quests!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58523/58523-1774665396-2028280012.png",
+        "uid": "429496788123",
+        "updatedAt": "2026-04-11T20:53:09Z"
+      }
+    ],
+    "totalCount": 4
+  }
+}

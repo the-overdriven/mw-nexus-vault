@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2006-05-25T13:58:48.525Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2,
+        "2927": 3
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-08T17:09:40Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57390,
+        "name": "Tab To Close",
+        "status": "published",
+        "summary": "Close chosen UI elements reliably with Tab (or any chosen key!!!!)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57390/57390-1756767490-70987676.jpg",
+        "uid": "429496786990",
+        "updatedAt": "2026-04-08T17:09:40Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-03T15:07:28Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57067,
+        "name": "Place Stacks",
+        "status": "published",
+        "summary": "Brings Valheim's \"place stacks\" mechanic into Morrowind and adds more to it! Have a storage area you want to quickly store items into? Are you dungeon crawling and want to quickly loot all the valuable stuff from a chest first? You can with",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57067/57067-1751514844-2035626448.jpg",
+        "uid": "429496786667",
+        "updatedAt": "2026-04-08T20:28:53Z"
+      }
+    ],
+    "totalCount": 2
+  }
+}

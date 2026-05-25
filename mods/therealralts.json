@@ -1,0 +1,141 @@
+{
+  "checkedAt": "2006-05-25T13:54:55.535Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 8
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-08T18:11:46Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58930,
+        "name": "Fish With Fishing Poles - OpenMW Integrations",
+        "status": "published",
+        "summary": "Integrates RacerPlume's fishing mod with OpenMW Lua.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58930/58930-1778261917-735639355.png",
+        "uid": "429496788530",
+        "updatedAt": "2026-05-11T20:01:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-23T16:01:53Z",
+        "fileSize": 8726,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 58691,
+        "name": "Nifty Spell Pack (OpenMW)",
+        "status": "published",
+        "summary": "Adds a variety of nifty new magic effects: astral projection, death reversal, pocket storage dimensions, and more. All effects are usable in spellmaking and enchanting.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58691/58691-1776463961-1422749445.png",
+        "uid": "429496788291",
+        "updatedAt": "2026-04-23T16:01:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-08T14:44:00Z",
+        "fileSize": 92,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58064,
+        "name": "Magic Window Extender (OpenMW)",
+        "status": "published",
+        "summary": "A Lua replacement for the magic window with quality-of-life tweaks and new functionality.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58064/58064-1767881879-502375672.png",
+        "uid": "429496787664",
+        "updatedAt": "2026-04-20T20:35:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-11T11:07:21Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 57765,
+        "name": "Skill Framework (OpenMW)",
+        "status": "published",
+        "summary": "An OpenMW framework to easily add new vanilla-like skills, with stats window integration. Handles leveling, UI, custom skill books, and dynamic modifiers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57765/57765-1762857235-1598738316.png",
+        "uid": "429496787365",
+        "updatedAt": "2026-05-08T16:17:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-02T23:25:55Z",
+        "fileSize": 25,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57727,
+        "name": "Stats Window Extender (OpenMW)",
+        "status": "published",
+        "summary": "A replacement for the Stats window with built-in tweaks and an API for modders to add new content.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57727/57727-1762124351-1194443852.png",
+        "uid": "429496787327",
+        "updatedAt": "2026-04-17T14:39:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-01T01:06:55Z",
+        "fileSize": 87545,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56814,
+        "name": "Bardcraft (OpenMW)",
+        "status": "published",
+        "summary": "Adds an in-depth bard career path with MIDI-based performances and custom songwriting. Play in taverns or on the street. Recruit other bards and assemble a troupe. Collect music boxes. Compose songs about your adventures. Make a name for",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56814/56814-1752181861-20524167.png",
+        "uid": "429496786414",
+        "updatedAt": "2026-01-09T06:50:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-15T09:03:20Z",
+        "fileSize": 1110,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56355,
+        "name": "Oblivion-Style Lockpicking (OpenMW)",
+        "status": "published",
+        "summary": "Replaces the vanilla lockpicking system with an Oblivion-inspired minigame.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56355/56355-1750124337-639389511.png",
+        "uid": "429496785955",
+        "updatedAt": "2026-05-19T18:40:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-08T02:40:31Z",
+        "fileSize": 13443,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 56323,
+        "name": "Keytars (OpenMW)",
+        "status": "published",
+        "summary": "Adds working keytars, and lets you and followers play them!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56323/56323-1744079427-65882318.png",
+        "uid": "429496785923",
+        "updatedAt": "2025-06-17T20:38:31Z"
+      }
+    ],
+    "totalCount": 8
+  }
+}

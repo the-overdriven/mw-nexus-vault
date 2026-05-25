@@ -1,0 +1,669 @@
+{
+  "checkedAt": "2006-05-25T14:01:36.721Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 41
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-11T16:37:37Z",
+        "fileSize": 718,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 58413,
+        "name": "Dwemer Walkers",
+        "status": "published",
+        "summary": "A small curiosity from the forgotten times of the ancients!The Dwemer ballists revived and went to do good to everyone!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58413/58413-1773246530-1741943569.jpg",
+        "uid": "429496788013",
+        "updatedAt": "2026-03-11T16:37:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-28T06:12:10Z",
+        "fileSize": 64351,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 56982,
+        "name": "And Nerevar is His Glory",
+        "status": "published",
+        "summary": "A some of completed and not completed projects for Morrowind Glory.Which were supposed to be larger releases, or could have been included in the Symphony, but never did.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56982/56982-1750377006-727953495.jpg",
+        "uid": "429496786582",
+        "updatedAt": "2025-09-30T09:52:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-02-09T18:06:02Z",
+        "fileSize": 7180,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 54127,
+        "name": "Nifskope 1.1.3 special build for MW meshes only",
+        "status": "published",
+        "summary": "A special build for Morrowind meshes only. Removed all non supported objects and add support for all correct things.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54127/54127-1707501743-562874213.jpeg",
+        "uid": "429496783727",
+        "updatedAt": "2024-02-09T18:06:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-09-13T23:19:57Z",
+        "fileSize": 10391,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 53500,
+        "name": "Spirit Of Creatures",
+        "status": "published",
+        "summary": "Just a some \"new\" Spirits will glad to Meet You at Night Time on Your Travels!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53500/53500-1694536092-1909638903.jpeg",
+        "uid": "429496783100",
+        "updatedAt": "2023-09-13T23:19:57Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-10-24T17:51:25Z",
+        "fileSize": 1309980,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 51916,
+        "name": "Notes for Modmakers - English version (beta 1.0)",
+        "status": "published",
+        "summary": "Interactive book of Morrowind modding knowledge",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51916/51916-1666563672-596202424.png",
+        "uid": "429496781516",
+        "updatedAt": "2022-10-24T17:51:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-01-01T04:27:01Z",
+        "fileSize": 6302,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 46270,
+        "name": "Hide Your treasures",
+        "status": "published",
+        "summary": "How many  treasures can You found without CS?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46270/46270-1546316388-395654768.jpeg",
+        "uid": "429496775870",
+        "updatedAt": "2023-12-23T22:30:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2017-10-11T10:05:26Z",
+        "fileSize": 103143,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 45204,
+        "name": "Bloodmoon Armor Pack",
+        "status": "published",
+        "summary": "Separate Bloodmoon patch for The Symphony. Replaces Wolf, Bear and Skaal armor along with other small items.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45204-3-1505760382.jpg",
+        "uid": "429496774804",
+        "updatedAt": "2017-09-26T19:57:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-10-01T17:01:25Z",
+        "fileSize": 187947,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 44526,
+        "name": "Travel for Ebony",
+        "status": "published",
+        "summary": "An old and non completed plug. Now just for mod source.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44526-0-1472987526.jpg",
+        "uid": "429496774126",
+        "updatedAt": "2016-09-28T06:58:32Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-09-06T22:34:49Z",
+        "fileSize": 7641,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 44523,
+        "name": "Jammings off",
+        "status": "published",
+        "summary": "Small patch for NPC and Player.This patch is reduces the size for BoundBoxes of all NPC.+ male.+ female.+ beast races+ optional tweak for animation+ background for player into menu modeNow they are haven't get the jamming in narrow places.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44523-3-1472970498.jpg",
+        "uid": "429496774123",
+        "updatedAt": "2022-11-07T01:03:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-07-04T15:35:19Z",
+        "fileSize": 57542,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 44424,
+        "name": "StalhrimArmorPack",
+        "status": "published",
+        "summary": "Stalhrim Armors&Weapons Pack for Symphony Project.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44424-3-1467630212.jpg",
+        "uid": "429496774024",
+        "updatedAt": "2022-09-08T23:08:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-04-01T13:52:56Z",
+        "fileSize": 524836,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 44218,
+        "name": "Notes for Modmakers (RU version)",
+        "status": "published",
+        "summary": "A very small collection of different notes around modding.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44218/44218-1666566642-1982369989.jpeg",
+        "uid": "429496773818",
+        "updatedAt": "2022-10-23T23:29:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2016-02-17T21:02:20Z",
+        "fileSize": 2496480,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 43790,
+        "name": "The Symphony",
+        "status": "published",
+        "summary": "The Symphony, for the glory of Morrowind!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43790/43790-1697726885-1153703528.jpeg",
+        "uid": "429496773390",
+        "updatedAt": "2026-02-10T09:16:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-11-20T22:10:34Z",
+        "fileSize": 75976,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 43933,
+        "name": "DagonFelUpdated",
+        "status": "published",
+        "summary": "Small update this village.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43933-0-1448049852.jpg",
+        "uid": "429496773533",
+        "updatedAt": "2017-07-25T10:20:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-08-02T22:04:34Z",
+        "fileSize": 446,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 43778,
+        "name": "RethanManor",
+        "status": "published",
+        "summary": "Small extender for Rethan Manor.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43778-5-1438550683.jpg",
+        "uid": "429496773378",
+        "updatedAt": "2016-04-21T23:33:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-08-02T22:04:25Z",
+        "fileSize": 2746,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 43724,
+        "name": "Black Staff",
+        "status": "published",
+        "summary": "Very old plug.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43724-1-1438550003.jpg",
+        "uid": "429496773324",
+        "updatedAt": "2015-08-02T21:12:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-15T22:47:45Z",
+        "fileSize": 1244,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 43656,
+        "name": "Rain",
+        "status": "published",
+        "summary": "Plugin resource - a .Nif files of the rain. \nIn archive there are several different models of \"rain\", to choose\n",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43656-6-1433307807.jpg",
+        "uid": "429496773256",
+        "updatedAt": "2015-06-03T05:06:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-15T22:47:41Z",
+        "fileSize": 18402,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43649,
+        "name": "Better armor rev11_Indoril",
+        "status": "published",
+        "summary": "It`s Actually replacer Indoril armors. Bump, glow and all other.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43649-2-1433295699.jpg",
+        "uid": "429496773249",
+        "updatedAt": "2015-07-31T21:29:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-11T21:22:09Z",
+        "fileSize": 20598,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43651,
+        "name": "Better armor rev14_Glass",
+        "status": "published",
+        "summary": "It`s Actually replacer Glass armors. Bump, glow and all other.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43651-3-1433298544.jpg",
+        "uid": "429496773251",
+        "updatedAt": "2015-06-03T02:31:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-11T21:22:04Z",
+        "fileSize": 34996,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43655,
+        "name": "BetterArmor rev10_orcish",
+        "status": "published",
+        "summary": "It`s Actually replacer orcish armors. ",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43655-5-1433306313.jpg",
+        "uid": "429496773255",
+        "updatedAt": "2015-06-03T04:45:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-06T09:48:16Z",
+        "fileSize": 23113,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43653,
+        "name": "Better armor rev15_DaedricUP_made. v 2.0",
+        "status": "published",
+        "summary": "It`s Actually replacer Daedric armors. v 2.0",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43653-4-1433303382.jpg",
+        "uid": "429496773253",
+        "updatedAt": "2015-06-03T03:55:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-07-06T09:48:10Z",
+        "fileSize": 16214,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43652,
+        "name": "Better armor rev15_DaedricUP_Bound",
+        "status": "published",
+        "summary": "It`s Actually replacer Bound Daedric armors. Bump, glow and all other.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43652-4-1433302087.jpg",
+        "uid": "429496773252",
+        "updatedAt": "2015-06-03T03:33:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-06-30T10:08:25Z",
+        "fileSize": 39341,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43658,
+        "name": "Better armor rev9_Bones",
+        "status": "published",
+        "summary": "It`s Actually replacer all bonemold armors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43658-4-1433475763.jpg",
+        "uid": "429496773258",
+        "updatedAt": "2015-06-05T03:48:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-06-30T10:08:09Z",
+        "fileSize": 17040,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43720,
+        "name": "Better armor rev4 Chitin v 2",
+        "status": "published",
+        "summary": "Great Update of Chitin Armor to ver. 2.0",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43720-3-1435657488.jpg",
+        "uid": "429496773320",
+        "updatedAt": "2015-06-30T09:57:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-06-24T05:40:07Z",
+        "fileSize": 43368,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43650,
+        "name": "Better armor rev12_Leather",
+        "status": "published",
+        "summary": "It`s Actually replacer all non complete armors. Bump, glow and all other.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43650-4-1433296919.jpg",
+        "uid": "429496773250",
+        "updatedAt": "2015-06-03T02:07:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-06-24T05:40:02Z",
+        "fileSize": 11105,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43647,
+        "name": "Better armor rev5_Steel. ver 1.2",
+        "status": "published",
+        "summary": "It`s Actually replacer Steel armors ver 1.2",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43647-2-1433290693.jpg",
+        "uid": "429496773247",
+        "updatedAt": "2015-06-03T00:28:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-06-20T05:13:36Z",
+        "fileSize": 13331,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43654,
+        "name": "Better armor rev7_Templar",
+        "status": "published",
+        "summary": "This seventh plug-in of replacer armor set. ",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43654-2-1433304281.jpg",
+        "uid": "429496773254",
+        "updatedAt": "2015-06-03T04:07:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-06-20T05:13:31Z",
+        "fileSize": 32885,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43648,
+        "name": "Better armor rev8_Imperials",
+        "status": "published",
+        "summary": "This eighth plug-in of replacer armor set. \n",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43648-5-1433293416.jpg",
+        "uid": "429496773248",
+        "updatedAt": "2015-07-31T19:45:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2013-01-29T01:10:12Z",
+        "fileSize": 4741,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 42409,
+        "name": "Tutorial - Lod in MW 3dMAX Used Onlu",
+        "status": "published",
+        "summary": "It's a small Tutorial, how to fast create LOD for Morrowind in 3d MAX.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42409-1-1359420289.jpg",
+        "uid": "429496772009",
+        "updatedAt": "2013-01-29T00:32:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2012-02-12T16:06:22Z",
+        "fileSize": 166121,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 41654,
+        "name": "Better Item Suit - corrected ver",
+        "status": "published",
+        "summary": "Full rebuild Morrowind Item.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/41654-2-1329067898.jpg",
+        "uid": "429496771254",
+        "updatedAt": "2012-02-12T16:24:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2010-10-10T09:26:52Z",
+        "fileSize": 54818,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 35094,
+        "name": "Better Armor Tribunal pack",
+        "status": "published",
+        "summary": "This mods changes and replaces all armors in Tribunal. 100% new meshes With\nBump map, Glow Map, Detail map and other map effects are added in all meshes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/35094-1-1286704385.jpg",
+        "uid": "429496764694",
+        "updatedAt": "2010-10-10T09:33:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2010-08-28T19:37:06Z",
+        "fileSize": 193103,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 34278,
+        "name": "Better Weapons Suit",
+        "status": "published",
+        "summary": "This mods changes and replaces all vanila Weapons in MW. 100% new meshes With Bump map, Glow Map, Detail map and other map effects are added in all meshes.\n",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/34278-1-1283025104.jpg",
+        "uid": "429496763878",
+        "updatedAt": "2017-07-25T05:57:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-09-26T18:59:45Z",
+        "fileSize": 8493,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 13279,
+        "name": "BETTER ARMOR rev6 Iron",
+        "status": "published",
+        "summary": "(rev6 Iron)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/13279-1190833492.jpg",
+        "uid": "429496742879",
+        "updatedAt": "2008-01-07T23:16:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-08-30T05:24:57Z",
+        "fileSize": 3185,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 12961,
+        "name": "Better Creature rev4 Dremora",
+        "status": "published",
+        "summary": "rev4 Dremora",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/12961-1190835155.jpg",
+        "uid": "429496742561",
+        "updatedAt": "2008-01-07T23:47:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-08-30T05:12:18Z",
+        "fileSize": 6315,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 12960,
+        "name": "Better Creature rev3 Twilight Finger",
+        "status": "published",
+        "summary": "rev3 Twilight Finger ",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/12960-1190835122.jpg",
+        "uid": "429496742560",
+        "updatedAt": "2008-01-07T23:57:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-08-30T04:56:26Z",
+        "fileSize": 7016,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 12958,
+        "name": "Better Creature rev2 Golden Saint",
+        "status": "published",
+        "summary": "rev2 Golden Saint's",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/12958-1190835082.jpg",
+        "uid": "429496742558",
+        "updatedAt": "2008-01-07T23:42:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-08-30T04:17:52Z",
+        "fileSize": 9299,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 12957,
+        "name": "Better Creature rev1 Daedroth",
+        "status": "published",
+        "summary": "rev1 Daedroth's",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/12957-1190835050.jpg",
+        "uid": "429496742557",
+        "updatedAt": "2008-01-07T23:26:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-07-02T20:55:23Z",
+        "fileSize": 4403,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 11908,
+        "name": "Better dwemers ruins",
+        "status": "published",
+        "summary": "\"Better dwemers ruins\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/11908-1-1195195574.jpg",
+        "uid": "429496741508",
+        "updatedAt": "2008-01-07T23:56:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-07-02T18:26:07Z",
+        "fileSize": 7652,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 11905,
+        "name": "Better armor rev4 Chitin",
+        "status": "published",
+        "summary": "(rev4 Chitin)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/11905-1190834962.jpg",
+        "uid": "429496741505",
+        "updatedAt": "2008-01-08T00:06:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-07-02T17:53:02Z",
+        "fileSize": 3245,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 11904,
+        "name": "BETTER ARMOR rev1 Daedric",
+        "status": "published",
+        "summary": "It`s Actually replacer Daedric armors. ",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/11904-1190834820.jpg",
+        "uid": "429496741504",
+        "updatedAt": "2008-01-07T23:54:33Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-07-02T17:12:54Z",
+        "fileSize": 2115,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 11902,
+        "name": "Better armor rev2 Dwemeric",
+        "status": "published",
+        "summary": "(rev2 Dwemeric)\n",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/11902-1190834857.jpg",
+        "uid": "429496741502",
+        "updatedAt": "2008-01-07T23:30:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2007-07-02T13:58:37Z",
+        "fileSize": 10250,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 11898,
+        "name": "Better armor rev3 Ebony",
+        "status": "published",
+        "summary": "(rev3 Ebony)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/11898-1190834909.jpg",
+        "uid": "429496741498",
+        "updatedAt": "2008-01-07T23:36:24Z"
+      }
+    ],
+    "totalCount": 41
+  }
+}

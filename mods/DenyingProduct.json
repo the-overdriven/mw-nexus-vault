@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2006-05-25T13:55:32.326Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 6
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-23T05:23:16Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 59058,
+        "name": "Gauntlet Cursor",
+        "status": "published",
+        "summary": "Replaces default cursor texture with a little gauntlet",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59058/59058-1779513218-1443592458.png",
+        "uid": "429496788658",
+        "updatedAt": "2026-05-23T05:29:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-04T17:48:53Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 58884,
+        "name": "Dynamic View Distance (FPS Boost)",
+        "status": "published",
+        "summary": "[OpenMW] Boost FPS* with dynamic view distance based on city size.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58884/58884-1777915769-455087223.png",
+        "uid": "429496788484",
+        "updatedAt": "2026-05-04T17:48:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-18T07:12:44Z",
+        "fileSize": 9119,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58683,
+        "name": "Dynamic Map (OpenMW)",
+        "status": "published",
+        "summary": "Map replacer - Dynamically adjust to your installed mods - Controller Supported",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58683/58683-1777700340-1317731932.png",
+        "uid": "429496788283",
+        "updatedAt": "2026-05-24T10:21:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-10T15:40:39Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58625,
+        "name": "Jump Out of the Water (OpenMW)",
+        "status": "published",
+        "summary": "Mod that lets you \"Jump Out of the Water\". No more relying on ramps.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58625/58625-1775827249-906213332.png",
+        "uid": "429496788225",
+        "updatedAt": "2026-04-10T15:40:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-07T03:42:50Z",
+        "fileSize": 43,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58174,
+        "name": "Nearby Doors (OpenMW)",
+        "status": "published",
+        "summary": "Mod that displays nearby doors on the UI",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58174/58174-1770436192-88756444.png",
+        "uid": "429496787774",
+        "updatedAt": "2026-05-17T03:55:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-07-30T02:44:27Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 53303,
+        "name": "Death of a Taxman Expanded",
+        "status": "published",
+        "summary": "This mod expands the Death of a Taxman quest in Morrowind. The killer catches wind of your investigation and goes into hiding. Mistakenly he left a note for his love but it ends up leading the player right to him.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53303/53303-1693013347-1413830208.png",
+        "uid": "429496782903",
+        "updatedAt": "2023-08-26T01:14:20Z"
+      }
+    ],
+    "totalCount": 6
+  }
+}

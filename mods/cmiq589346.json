@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2006-05-25T14:01:45.686Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-08T21:44:37Z",
+        "fileSize": 1048,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 58933,
+        "name": "Effigy",
+        "status": "published",
+        "summary": "A tragic mystery in Cyrodiil.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58933/58933-1778511070-1636819881.jpg",
+        "uid": "429496788533",
+        "updatedAt": "2026-05-11T15:10:41Z"
+      }
+    ],
+    "totalCount": 1
+  }
+}

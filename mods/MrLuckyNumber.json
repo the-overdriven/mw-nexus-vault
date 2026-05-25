@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2006-05-25T13:54:45.430Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2,
+        "2927": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-23T14:35:12Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 58120,
+        "name": "Perfectionist - A Morrowind Skill Tracker",
+        "status": "published",
+        "summary": "An in-game interface to track your skills progress. Designed for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58120/58120-1769180165-697143948.png",
+        "uid": "429496787720",
+        "updatedAt": "2026-01-23T18:34:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-01T02:01:21Z",
+        "fileSize": 34,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 58020,
+        "name": "Completionist - A Morrowind Quest Tracker",
+        "status": "published",
+        "summary": "An in-game checklist interface to track your quest progress. Designed for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58020/58020-1767302698-1198235005.png",
+        "uid": "429496787620",
+        "updatedAt": "2026-01-31T20:08:42Z"
+      }
+    ],
+    "totalCount": 2
+  }
+}

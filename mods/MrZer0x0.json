@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2006-05-25T13:49:59.203Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 6
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-09T09:24:15Z",
+        "fileSize": 67737,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58612,
+        "name": "TES3MP Zer0Custom (0.8.1)",
+        "status": "published",
+        "summary": "TES3MP 0.8.1 Zer0Custom - My custom Windows build of TES3MP - open-source Morrowind multiplayer - with a rebuilt launcher, rewritten rendering shaders, and a fully integrated server management console.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58612/58612-1775726236-2392770.png",
+        "uid": "429496788212",
+        "updatedAt": "2026-04-22T17:48:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-30T18:25:22Z",
+        "fileSize": 214,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 58547,
+        "name": "TES3ZER0EDIT",
+        "status": "published",
+        "summary": "TES3ZER0EDIT is a lightweight browser-based editor for Morrowind TES3 plugins, with record editing, book/text tools, header/master management, dialogue helpers, and early save-related utilities for advanced workflow",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58547/58547-1774922460-1524676343.png",
+        "uid": "429496788147",
+        "updatedAt": "2026-05-22T20:07:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-25T09:49:18Z",
+        "fileSize": 33,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 58503,
+        "name": "TES3ZER0NAME",
+        "status": "published",
+        "summary": "TES3ZER0NAME is a TES-inspired character name generator for players and modders. It helps create lore-friendly names for different races, genders, classes, and styles, making it useful both for new playthroughs and for populating mods with",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58503/58503-1774431849-1318821266.jpg",
+        "uid": "429496788103",
+        "updatedAt": "2026-03-25T09:49:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-24T16:41:08Z",
+        "fileSize": 367,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 58500,
+        "name": "NIFZER0EDIT",
+        "status": "published",
+        "summary": "NIFZER0EDIT - is a browser-based NIF viewer and editor for working with Gamebryo / NetImmerse assets directly in your web browser. It can be used on any operating system without installation, making it a convenient alternative for quick",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58500/58500-1779627095-1122971538.png",
+        "uid": "429496788100",
+        "updatedAt": "2026-05-24T12:57:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-08T20:28:05Z",
+        "fileSize": 51,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 57752,
+        "name": "Custom Shaders for TES3MP",
+        "status": "published",
+        "summary": "I present a custom shader collection I've built over time for my TES3MP project. OpenMW devs advanced post-processing in newer versions, leaving 0.47 projects behind. I'm fixing that—offering my shaders tailored for OpenMW 0.47 & TES3MP",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57752/57752-1762633068-1197933185.png",
+        "uid": "429496787352",
+        "updatedAt": "2025-11-08T20:28:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-19T19:42:49Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 52378,
+        "name": "SkyHUD for OpenMW",
+        "status": "published",
+        "summary": "This is a simple HUD conversion with a more interesting layout on the game screen!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52378/52378-1676835095-1035152828.png",
+        "uid": "429496781978",
+        "updatedAt": "2023-02-20T12:55:17Z"
+      }
+    ],
+    "totalCount": 6
+  }
+}

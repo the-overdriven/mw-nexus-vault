@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2006-05-25T13:57:48.067Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-28T06:14:20Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 57040,
+        "name": "Photo Mode for OpenMW",
+        "status": "published",
+        "summary": "Adds a free-cam and time freeze ability at the push of a button, along with tilting and zooming with configurable speeds for composing screenshots. Gamepads supported.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57040/57040-1751068827-85922656.jpg",
+        "uid": "429496786640",
+        "updatedAt": "2026-03-08T20:40:02Z"
+      }
+    ],
+    "totalCount": 1
+  }
+}

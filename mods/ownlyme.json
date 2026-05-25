@@ -1,0 +1,704 @@
+{
+  "checkedAt": "2006-05-25T13:55:50.321Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 43,
+        "1303": 3,
+        "2696": 1,
+        "4187": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-12T05:54:45Z",
+        "fileSize": 42,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58647,
+        "name": "(OpenMW) Encumbrance Bar",
+        "status": "published",
+        "summary": "A bar for your encumbrance on the hud",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58647/58647-1775973154-1300537086.png",
+        "uid": "429496788247",
+        "updatedAt": "2026-05-18T19:35:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-11T03:53:36Z",
+        "fileSize": 804,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58630,
+        "name": "(OpenMW) Level Up Indicator",
+        "status": "published",
+        "summary": "Shows an arrow when a skill levels up and you can level up your character",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58630/58630-1775879446-1555176789.png",
+        "uid": "429496788230",
+        "updatedAt": "2026-04-12T03:05:09Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-16T13:54:26Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58457,
+        "name": "(OpenMW) Uncapper",
+        "status": "published",
+        "summary": "Uncap skills and attributes, set xp multipliers",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58457/58457-1773669255-2113443055.png",
+        "uid": "429496788057",
+        "updatedAt": "2026-03-16T13:59:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-28T04:45:28Z",
+        "fileSize": 35,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58304,
+        "name": "(OpenMW) Pretty Stats",
+        "status": "published",
+        "summary": "Scrolling HUD widgets to visualize stat changes and when mods mess up your character",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58304/58304-1772253850-927694993.png",
+        "uid": "429496787904",
+        "updatedAt": "2026-03-27T15:43:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-25T04:28:18Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58287,
+        "name": "(OpenMW) Training Prices",
+        "status": "published",
+        "summary": "lets you configure training costs in new ways",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58287/58287-1771993633-342437830.png",
+        "uid": "429496787887",
+        "updatedAt": "2026-04-17T06:47:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-04T14:56:58Z",
+        "fileSize": 231,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58039,
+        "name": "(OpenMW) Time Control",
+        "status": "published",
+        "summary": "UI Widget and hotkeys to control day and simulation timescale and set the current daytime",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58039/58039-1767537480-412916814.png",
+        "uid": "429496787639",
+        "updatedAt": "2026-02-19T13:00:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-02T16:31:45Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58034,
+        "name": "(OpenMW) Pilferer",
+        "status": "published",
+        "summary": "Pilferer basically means thief: It's always about small-scale theft, There's a sneaky quality to it, It often happens in settings like workplaces, stores, or homes, \"Someone's been pilfering snacks from the break room.\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58034/58034-1767371327-76871239.png",
+        "uid": "429496787634",
+        "updatedAt": "2026-03-17T15:18:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-18T06:56:18Z",
+        "fileSize": 207103,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 57946,
+        "name": "(OpenMW)  PBR for Morrowind Enhanced Textures",
+        "status": "published",
+        "summary": "Armors, Dwarven Ruins and other Metals for Rafael's lighting shaders",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57946/57946-1766117142-1285581669.png",
+        "uid": "429496787546",
+        "updatedAt": "2025-12-21T22:47:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-13T05:37:56Z",
+        "fileSize": 28349,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 57915,
+        "name": "(OpenMW) Better Elemental Shields",
+        "status": "published",
+        "summary": "Overhauls elemental shields with proper damage scaling, configurable effects (slow, stun, weakness), VFX replacer included.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57915/57915-1765601664-814028927.png",
+        "uid": "429496787515",
+        "updatedAt": "2026-04-29T13:54:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-04T00:08:49Z",
+        "fileSize": 40,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 57877,
+        "name": "(OpenMW) Quickstart Unchained",
+        "status": "published",
+        "summary": "Up and running within seconds. Bonus: custom scenarios and modding support",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57877/57877-1767178192-501402179.png",
+        "uid": "429496787477",
+        "updatedAt": "2026-02-24T17:02:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-29T17:48:24Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57853,
+        "name": "(OpenMW) Combat360",
+        "status": "published",
+        "summary": "drawing a weapon doesn't disable the 360° movement mode anymore",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57853/57853-1764438453-1962429911.png",
+        "uid": "429496787453",
+        "updatedAt": "2026-03-21T19:37:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-10T20:13:01Z",
+        "fileSize": 35,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 57762,
+        "name": "Less sleep encounters",
+        "status": "published",
+        "summary": "reduces the spawn chance of leveled creatures when you rest (except dark brotherhood)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57762/57762-1762805571-1867492155.png",
+        "uid": "429496787362",
+        "updatedAt": "2025-11-10T20:13:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-04T00:56:30Z",
+        "fileSize": 164,
+        "modCategory": {
+          "categoryId": 22,
+          "name": "Cheats and God items"
+        },
+        "modId": 57551,
+        "name": "(OpenMW) Hearthstone",
+        "status": "published",
+        "summary": "Teleport back to any inn",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57551/57551-1759540969-1409331399.png",
+        "uid": "429496787151",
+        "updatedAt": "2025-11-10T23:57:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-29T01:04:19Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 57530,
+        "name": "(OpenMW) speedyStart",
+        "status": "published",
+        "summary": "Speeds up the game during character creation. Simple and efficient",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57530/57530-1759107813-56721390.png",
+        "uid": "429496787130",
+        "updatedAt": "2025-09-29T01:04:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-27T02:11:10Z",
+        "fileSize": 1660,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57510,
+        "name": "(OpenMW) Leave The Lights Off",
+        "status": "published",
+        "summary": "Outdoor decorative lanterns, torches and lights only turn on at night",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57510/57510-1758980305-504693264.png",
+        "uid": "429496787110",
+        "updatedAt": "2026-03-30T21:19:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-26T16:33:29Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 57508,
+        "name": "(OpenMW) Until Healed Fix",
+        "status": "published",
+        "summary": "The resting time is calculated upfront, so it ignores the regeneration of any mods you might have. This fixes it",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57508/57508-1758904138-1064107717.png",
+        "uid": "429496787108",
+        "updatedAt": "2025-10-05T21:22:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-05T02:49:17Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 57405,
+        "name": "(OpenMW) Fitting Soulgems",
+        "status": "published",
+        "summary": "No more wasted soul gems!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57405/57405-1757045450-61148642.png",
+        "uid": "429496787005",
+        "updatedAt": "2025-09-05T14:54:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-17T15:00:02Z",
+        "fileSize": 39,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 57313,
+        "name": "(OpenMW) Pure Lua Multi Mark",
+        "status": "published",
+        "summary": "Just Lua, using vanilla spell effects",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57313/57313-1755614208-341206144.png",
+        "uid": "429496786913",
+        "updatedAt": "2026-04-20T10:16:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-14T05:53:53Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 57295,
+        "name": "(OpenMW) Abilities Are Modifiers",
+        "status": "published",
+        "summary": "Makes Abilities work like modifiers. That lets you level past 100 and reduces exp per level for affected skills/attributes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57295/57295-1755150795-1141942819.jpg",
+        "uid": "429496786895",
+        "updatedAt": "2026-04-28T06:27:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-11T23:22:19Z",
+        "fileSize": 109,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57281,
+        "name": "(OpenMW) Sealed Fate (Permadeath)",
+        "status": "published",
+        "summary": "Tracks dangerous situations for \"Roguelite\". Optionally deletes your save on death or if you quit while in danger.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57281/57281-1764705606-310024142.png",
+        "uid": "429496786881",
+        "updatedAt": "2026-03-08T00:51:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-06T06:07:10Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57248,
+        "name": "(OpenMW) Simply Crafting",
+        "status": "published",
+        "summary": "Recipe Pack for Crafting Framework",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57248/57248-1754461835-1438052363.png",
+        "uid": "429496786848",
+        "updatedAt": "2026-05-16T15:58:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-06T06:07:03Z",
+        "fileSize": 2215,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57247,
+        "name": "(OpenMW) Crafting Framework",
+        "status": "published",
+        "summary": "UI Mod with support for external recipes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57247/57247-1778187489-2094135824.png",
+        "uid": "429496786847",
+        "updatedAt": "2026-05-18T03:09:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-24T22:24:46Z",
+        "fileSize": 1010,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57177,
+        "name": "(OpenMW) Simply Mining",
+        "status": "published",
+        "summary": "Ores spawned in the world and in caves. Grab a pick and mine them!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57177/57177-1774122800-411084742.png",
+        "uid": "429496786777",
+        "updatedAt": "2026-03-28T14:14:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-22T23:16:15Z",
+        "fileSize": 705,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57169,
+        "name": "(OpenMW) Roguelite",
+        "status": "published",
+        "summary": "Start with weakened stats, complete challenges to start with more blessings on your next run. choose between 22 unique blessings",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57169/57169-1753225890-1622453719.jpg",
+        "uid": "429496786769",
+        "updatedAt": "2026-04-12T15:16:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-10T17:37:29Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57124,
+        "name": "(OpenMW) Much Better Blessings",
+        "status": "published",
+        "summary": "Makes all blessings last 2 days and gives them more useful effects",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57124/57124-1752168947-1298806655.png",
+        "uid": "429496786724",
+        "updatedAt": "2025-07-10T17:37:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-09T08:45:32Z",
+        "fileSize": 5457,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57112,
+        "name": "(OpenMW) HUDMarkers - Detect spells",
+        "status": "published",
+        "summary": "Detect spells on your HUD",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57112/57112-1752340105-2073489141.jpg",
+        "uid": "429496786712",
+        "updatedAt": "2025-08-06T20:55:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-07T08:39:05Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57096,
+        "name": "(OpenMW 0.49) TakeAll Hotkey",
+        "status": "published",
+        "summary": "take all. Kinda obsolete now that quickloot exists, but it can also loot opened books",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57096/57096-1751877955-1583061932.png",
+        "uid": "429496786696",
+        "updatedAt": "2025-07-08T05:45:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-05T21:23:13Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 57088,
+        "name": "(OpenMW 0.49) Third Person Unequip Helmet",
+        "status": "published",
+        "summary": "Simply unequips your helmet when going into third person and re-equips it in first person",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57088/57088-1751750449-1904241063.png",
+        "uid": "429496786688",
+        "updatedAt": "2025-07-05T21:23:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-04T00:24:26Z",
+        "fileSize": 6089,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 57073,
+        "name": "(OpenMW) Worthless soulgems",
+        "status": "published",
+        "summary": "Makes filled soulgems have very little value. Includes visually filled soulgems",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57073/57073-1757084501-899133266.png",
+        "uid": "429496786673",
+        "updatedAt": "2025-09-05T16:24:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-03T00:28:01Z",
+        "fileSize": 176,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57068,
+        "name": "(OpenMW 0.49) Disenchanting",
+        "status": "published",
+        "summary": "Learn how to enchant an item's effects, re-enchant any item, level up by disenchanting",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57068/57068-1751631039-169908554.png",
+        "uid": "429496786668",
+        "updatedAt": "2026-05-06T13:54:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-07-01T04:28:26Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 57062,
+        "name": "(OpenMW 0.49) Improved Vanilla Leveling",
+        "status": "published",
+        "summary": "Keep attribute progress after level up, get health retroactively (optional)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57062/57062-1773456637-18919521.png",
+        "uid": "429496786662",
+        "updatedAt": "2026-03-18T19:14:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-29T23:43:56Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57054,
+        "name": "(OpenMW 0.49) EasySpeechcraft",
+        "status": "published",
+        "summary": "no more quickloading to make people like you",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57054/57054-1751240545-271082906.png",
+        "uid": "429496786654",
+        "updatedAt": "2025-07-16T17:35:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-29T04:28:33Z",
+        "fileSize": 23,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57047,
+        "name": "(OpenMW 0.49) Fix Mercantile Exploit",
+        "status": "published",
+        "summary": "Fixes being able to sell for more than you buy for",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57047/57047-1751171307-1911031791.png",
+        "uid": "429496786647",
+        "updatedAt": "2026-02-01T11:15:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-27T04:46:24Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57039,
+        "name": "(OpenMW 0.49) EasyHarvest",
+        "status": "published",
+        "summary": "Hold the activation key to harvest flowers quicker",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57039/57039-1750999501-953051620.png",
+        "uid": "429496786639",
+        "updatedAt": "2026-03-17T06:34:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-13T21:03:15Z",
+        "fileSize": 929,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56596,
+        "name": "(OpenMW 0.49) Pickpocket Overhaul for QuickLoot",
+        "status": "published",
+        "summary": "Rework of the pickpocketing system. Requires QuickLoot",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56596/56596-1747170145-920388075.png",
+        "uid": "429496786196",
+        "updatedAt": "2025-12-09T22:34:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-08T02:57:42Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56523,
+        "name": "OpenMW Fortify Health Fix",
+        "status": "published",
+        "summary": "Fixes the fortify health effect so it doesn't kill you when the effect runs out while you're at low health and makes it actually fortify your maximum health value.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56523/56523-1746673131-1311899205.png",
+        "uid": "429496786123",
+        "updatedAt": "2026-03-01T17:00:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-08T02:49:44Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56524,
+        "name": "OpenMW Fortify Nerf",
+        "status": "published",
+        "summary": "Nerfs several exploits related to fortify skill / fortify attribute effects through spellcrafting via script",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56524/56524-1746672540-1925912245.png",
+        "uid": "429496786124",
+        "updatedAt": "2026-03-01T16:15:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-02T10:46:38Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 56465,
+        "name": "(OpenMW 0.49) Speed Haste",
+        "status": "published",
+        "summary": "Speed and the governing skill affect your attack- and casting speed",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56465/56465-1746193223-2069999342.png",
+        "uid": "429496786065",
+        "updatedAt": "2026-05-22T17:41:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-10T16:00:27Z",
+        "fileSize": 1222,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54954,
+        "name": "(OpenMW 0.49) Floating Healthbars",
+        "status": "published",
+        "summary": "Can be configured however you like",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54954/54954-1720627196-1122408717.png",
+        "uid": "429496784554",
+        "updatedAt": "2026-02-22T01:22:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-10T15:57:34Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54953,
+        "name": "(OpenMW 0.49) MBSP - Magicka Based Skill Progression",
+        "status": "published",
+        "summary": "Standalone MBSP with additional features",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54953/54953-1720627044-1778595113.png",
+        "uid": "429496784553",
+        "updatedAt": "2026-04-26T19:31:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-10T15:54:04Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54952,
+        "name": "(OpenMW 0.49) Restocking",
+        "status": "published",
+        "summary": "Restocks everything over 24 hours instead of immediately.Ingredients have special rules",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54952/54952-1720626633-119136069.png",
+        "uid": "429496784552",
+        "updatedAt": "2026-04-14T01:39:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-10T15:47:21Z",
+        "fileSize": 146,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54951,
+        "name": "(OpenMW 0.49) Better Bars",
+        "status": "published",
+        "summary": "Inspired by Modernized HUD but more customizations, much better performance and other improvements",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54951/54951-1721392486-1252807064.png",
+        "uid": "429496784551",
+        "updatedAt": "2026-04-17T06:31:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-10T15:45:10Z",
+        "fileSize": 247,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 54950,
+        "name": "(OpenMW 0.49) QuickLoot",
+        "status": "published",
+        "summary": "Take stuff without opening the container",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54950/54950-1720626222-2104346050.png",
+        "uid": "429496784550",
+        "updatedAt": "2026-03-08T08:15:00Z"
+      }
+    ],
+    "totalCount": 43
+  }
+}

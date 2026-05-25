@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2006-05-25T13:56:00.378Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 4
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-30T06:53:33Z",
+        "fileSize": 41,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57856,
+        "name": "HUD Weapon Charge (For OpenMW)",
+        "status": "published",
+        "summary": "Adds Enchanted Weapon Charge under Weapon to HUD",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57856/57856-1764484841-161071304.png",
+        "uid": "429496787456",
+        "updatedAt": "2025-12-03T04:24:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-21T15:25:38Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57660,
+        "name": "Lock Ring Slot",
+        "status": "published",
+        "summary": "Select a ring slot to lock, which prevents that ring from being unintentionally unequipped when swapping rings or selecting spells attached to rings.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57660/57660-1761059776-1772188639.png",
+        "uid": "429496787260",
+        "updatedAt": "2026-01-02T02:39:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-04T20:59:34Z",
+        "fileSize": 1454,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 55305,
+        "name": "BuffTimers (For OpenMW)",
+        "status": "published",
+        "summary": "Adds buff and debuff effect icons to UI which contain timers and dynamic effects for all spell effects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55305/55305-1728074600-987094806.gif",
+        "uid": "429496784905",
+        "updatedAt": "2025-10-23T19:38:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-09-08T17:04:50Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 55201,
+        "name": "MouseWheel Control KeyBinding for OpenMW",
+        "status": "published",
+        "summary": "Lua scripts that allow selection of spells, enchantments and weapons from the press of a key and MouseWheel input",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55201/55201-1725814049-415391378.png",
+        "uid": "429496784801",
+        "updatedAt": "2024-10-04T19:42:39Z"
+      }
+    ],
+    "totalCount": 4
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "checkedAt": "2006-05-25T13:56:34.417Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 31
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-17T01:18:04Z",
+        "fileSize": 99,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58099,
+        "name": "Morrowind Atmospheric Shaders Enhanced (OpenMW)",
+        "status": "published",
+        "summary": "M.A.S.E is an OpenMW post processing shader pack that aims to enhance atmospheric and lighting elements of the game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58099/58099-1768612188-1170473752.png",
+        "uid": "429496787699",
+        "updatedAt": "2026-01-25T11:33:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-31T01:42:18Z",
+        "fileSize": 477912,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57715,
+        "name": "SaintJ's Imperial Town's Remastered - Parallax - PBR",
+        "status": "published",
+        "summary": "Remasters all Imperial Town textures with 2k OpenMW PBR and Parallax textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57715/57715-1761874292-270058484.png",
+        "uid": "429496787315",
+        "updatedAt": "2025-10-31T01:42:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-23T23:05:01Z",
+        "fileSize": 270017,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57679,
+        "name": "SaintJ's Redoran Architecture Remastered - Parallax - PBR",
+        "status": "published",
+        "summary": "Replaces all redoran textures with 2k Parallax and PBR textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57679/57679-1761261081-206985231.png",
+        "uid": "429496787279",
+        "updatedAt": "2025-10-23T23:05:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-16T20:44:22Z",
+        "fileSize": 1804470,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57634,
+        "name": "SaintJ's Tamriel Rebuilt Landscape Remaster - Parallax -PBR",
+        "status": "published",
+        "summary": "Replaces every texture in the data files/textures/TR/lnd folder with HD parallax and PBR textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57634/57634-1760647867-733190042.png",
+        "uid": "429496787234",
+        "updatedAt": "2025-10-16T20:44:22Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-10T22:09:11Z",
+        "fileSize": 2033990,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57594,
+        "name": "SaintJ's OpenMW Landscape Remastered 2.0 - Parallax - PBR",
+        "status": "published",
+        "summary": "The culmination of all of my \"Remastered\" landscape retextures. HD parallax textures for OpenMW with optional PBR.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57594/57594-1760133871-689078521.png",
+        "uid": "429496787194",
+        "updatedAt": "2025-10-10T22:09:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-27T20:44:47Z",
+        "fileSize": 225693,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57522,
+        "name": "SaintJ's Grazelands Remastered - Parallax - PBR",
+        "status": "published",
+        "summary": "Replaces all landscape textures in the Grazelands region with vanilla faithful, 2K parallaxed textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57522/57522-1759005754-1593119978.png",
+        "uid": "429496787122",
+        "updatedAt": "2025-09-27T20:44:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-19T20:32:14Z",
+        "fileSize": 2534,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 57476,
+        "name": "The Red Tower - Red Mountain Terrain Overhaul",
+        "status": "published",
+        "summary": "Significantly raises the height of Red Mountain and changes the shape to be more aesthetic / realistic without placing or deleting a single static.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57476/57476-1758999521-49403067.png",
+        "uid": "429496787076",
+        "updatedAt": "2025-09-27T20:29:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-31T19:01:10Z",
+        "fileSize": 183829,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57383,
+        "name": "SaintJ's West Gash Remastered - Parallax",
+        "status": "published",
+        "summary": "Replaces all landscape textures in the West Gash Region with 2k Parallax textures and a focus on maintaining the vanilla color and style.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57383/57383-1756666522-1212341074.png",
+        "uid": "429496786983",
+        "updatedAt": "2025-08-31T19:01:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-19T21:31:47Z",
+        "fileSize": 276517,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57324,
+        "name": "SaintJ's Ascadian Isle's Remastered - Parallax - PBR",
+        "status": "published",
+        "summary": "Replaces all the terrain textures in the Ascadian Isle's with vanilla accurate 2k Parallax and PBR textures for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57324/57324-1755638908-532699460.png",
+        "uid": "429496786924",
+        "updatedAt": "2025-08-20T01:00:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-13T21:03:28Z",
+        "fileSize": 265346,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57291,
+        "name": "SaintJ's Azura's Coast Remastered - Parallax - PBR",
+        "status": "published",
+        "summary": "Replaces the landscape textures in the Azura's Coast region with realistic 2k Parallax textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57291/57291-1755118498-1448221612.png",
+        "uid": "429496786891",
+        "updatedAt": "2025-08-13T21:03:28Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-17T23:41:57Z",
+        "fileSize": 788523,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56971,
+        "name": "SaintJ's Ashlands and Molag Amur Remastered - Parallax",
+        "status": "published",
+        "summary": "Replaces every landscape and rock texture in the Ashlands, Molag Amur and Red Mountain regions with HD Parallax textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56971/56971-1756502936-962131303.png",
+        "uid": "429496786571",
+        "updatedAt": "2025-08-31T12:17:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-10T00:19:50Z",
+        "fileSize": 246416,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56912,
+        "name": "SaintJ's Bitter Coast Remastered - Parallax",
+        "status": "published",
+        "summary": "Replaces every terrain and rock texture in the bitter coast region with HD parallax and optional PBR",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56912/56912-1749514090-1530240616.png",
+        "uid": "429496786512",
+        "updatedAt": "2025-06-10T00:19:50Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-04T16:35:09Z",
+        "fileSize": 306509,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56862,
+        "name": "SaintJ's Vivec Remastered v2 - Parallax - PBR",
+        "status": "published",
+        "summary": "Replaces all textures in vivec with HD parallax and optional PBR textures",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56862/56862-1749054578-45647771.png",
+        "uid": "429496786462",
+        "updatedAt": "2025-06-06T14:20:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-02T23:54:06Z",
+        "fileSize": 244023,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56842,
+        "name": "SaintJ's Dunmer Stronghold Replacer - Parallax - PBR",
+        "status": "published",
+        "summary": "Replaces all the dunmer stronghold textures with HD parallaxed ones and optional PBR",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56842/56842-1748907266-1533128948.png",
+        "uid": "429496786442",
+        "updatedAt": "2025-06-03T12:58:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-01T00:01:28Z",
+        "fileSize": 308609,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56820,
+        "name": "SaintJ's Imperial Fort Replacer - Parallax",
+        "status": "published",
+        "summary": "Replaces all Imperial fort textures in the game with parallax and some optional PBR.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56820/56820-1748735644-458120842.png",
+        "uid": "429496786420",
+        "updatedAt": "2025-07-11T13:18:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-26T10:39:15Z",
+        "fileSize": 59670,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56746,
+        "name": "SaintJ's Animated West Gash Trees",
+        "status": "published",
+        "summary": "Replaces all trees in the west gash with high quality but still vanilla friendly trees. Pluginless",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56746/56746-1748255644-1682071552.png",
+        "uid": "429496786346",
+        "updatedAt": "2025-05-26T12:12:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-22T22:22:56Z",
+        "fileSize": 948193,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56700,
+        "name": "SaintJ's Solstheim Parallax Retexture - PBR",
+        "status": "published",
+        "summary": "Completely replaces the landscape and architecture of Solstheim in the Bloodmoon expansion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56700/56700-1747952034-1767120128.png",
+        "uid": "429496786300",
+        "updatedAt": "2025-06-05T18:39:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-27T00:05:56Z",
+        "fileSize": 531571,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56416,
+        "name": "SaintJ's Wood Replacer - Parallax - PBR - 2k",
+        "status": "published",
+        "summary": "Replaces most wood textures in the game with Parallax and PBR.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56416/56416-1745712095-1372061356.png",
+        "uid": "429496786016",
+        "updatedAt": "2025-06-07T17:38:34Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-25T00:19:10Z",
+        "fileSize": 290975,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56405,
+        "name": "(outdated) SaintJ's Tamriel Rebuilt Landscape ReTexture - Parallax",
+        "status": "published",
+        "summary": "Replaces the Landscape textures for TR",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56405/56405-1745540100-553007236.png",
+        "uid": "429496786005",
+        "updatedAt": "2025-04-25T00:19:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-22T14:15:27Z",
+        "fileSize": 278672,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56391,
+        "name": "SaintJ's Tapestry Replacer - Parallax",
+        "status": "published",
+        "summary": "Replaces all tapestries in the game with added parallax effect.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56391/56391-1745330967-438471318.png",
+        "uid": "429496785991",
+        "updatedAt": "2025-04-22T14:15:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-19T13:15:15Z",
+        "fileSize": 43236,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56366,
+        "name": "Realistic Aesthesia Grass Replacer",
+        "status": "published",
+        "summary": "Uses Vurt's amazing grass textures to remaster aesthesia grass meshes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56366/56366-1745064150-1281260317.png",
+        "uid": "429496785966",
+        "updatedAt": "2025-04-19T13:15:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-22T03:21:51Z",
+        "fileSize": 26436,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56058,
+        "name": "SaintJ's Dwemer Armor Retexture - PBR",
+        "status": "published",
+        "summary": "Modification of https://www.nexusmods.com/morrowind/mods/11902 , fixed textures and meshes, added PBR.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56058/56058-1740194336-1874343816.png",
+        "uid": "429496785658",
+        "updatedAt": "2025-05-22T14:45:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-21T20:19:16Z",
+        "fileSize": 259440,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56052,
+        "name": "Daedric Intervention PBR and normal maps",
+        "status": "published",
+        "summary": "Modification of https://www.nexusmods.com/morrowind/mods/46044 , added normal maps, clearer textures, PBR.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56052/56052-1740168982-194686416.png",
+        "uid": "429496785652",
+        "updatedAt": "2025-05-22T14:45:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-20T23:32:26Z",
+        "fileSize": 403,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56046,
+        "name": "SaintJ's Orcish Armor Replacer - PBR - Parallax",
+        "status": "published",
+        "summary": "Modification of https://www.nexusmods.com/morrowind/mods/43655?tab=description , fixed proportions, better textures, added PBR, added Parallax on some textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56046/56046-1740094010-1505780340.png",
+        "uid": "429496785646",
+        "updatedAt": "2025-06-18T11:30:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-16T13:39:09Z",
+        "fileSize": 22383,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56022,
+        "name": "SaintJ's Steel Armour Replacer - PBR",
+        "status": "published",
+        "summary": "Modification of https://www.nexusmods.com/morrowind/mods/43647 . Fixes proportions, added normal maps, added PBR textures, improved base textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56022/56022-1739892020-462546237.png",
+        "uid": "429496785622",
+        "updatedAt": "2025-05-22T17:38:35Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-15T22:30:59Z",
+        "fileSize": 37465,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56018,
+        "name": "SaintJ's Iron Armour Replacer - PBR",
+        "status": "published",
+        "summary": "Modification of https://www.nexusmods.com/morrowind/mods/13279 . Fixes meshes, normal maps, improved textures and PBR textures added.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56018/56018-1739658344-1463107784.png",
+        "uid": "429496785618",
+        "updatedAt": "2025-05-22T14:41:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-01-05T11:14:35Z",
+        "fileSize": 507593,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55725,
+        "name": "SaintJ's Dwemer ReTexture - PBR - Parallax",
+        "status": "published",
+        "summary": "Replaces the exterior and interior dwemer set with OpenMW PBR textures for both inverted and non inverted roughness users.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55725/55725-1736033507-919009501.png",
+        "uid": "429496785325",
+        "updatedAt": "2025-08-10T13:05:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-15T00:12:55Z",
+        "fileSize": 470247,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55583,
+        "name": "Wood and Shacks Parallax for OpenMW",
+        "status": "published",
+        "summary": "This mod replaces a lot of the exterior wood textures and also changes the shacks to have yellow thatch like in SVNRs Imperial Towns Revamp.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55583/55583-1734221156-1340571679.png",
+        "uid": "429496785183",
+        "updatedAt": "2024-12-16T20:24:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-08T21:16:18Z",
+        "fileSize": 782561,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55555,
+        "name": "(outdated) SaintJ's Landscape Replacer Parallax Textures for OpenMW",
+        "status": "published",
+        "summary": "FIXED STUTTERING. Parallax landscape textures for most of the regions in Vvardenfell. Also includes textures for Aesthesia Groundcover that are coloured to match the terrain grass colours.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55555/55555-1733692054-1749331451.png",
+        "uid": "429496785155",
+        "updatedAt": "2025-05-24T14:37:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-07-01T22:59:50Z",
+        "fileSize": 127,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 54904,
+        "name": "Better Blocking for OpenMW",
+        "status": "published",
+        "summary": "Complete overhaul of the blocking system for Morrowind, introducing active blocking instead of random block chances.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54904/54904-1719874414-1907444638.png",
+        "uid": "429496784504",
+        "updatedAt": "2024-09-26T08:58:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-12-31T10:39:09Z",
+        "fileSize": 19306,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 52114,
+        "name": "Aesthetically Shiny Things for Openmw (PBR)",
+        "status": "published",
+        "summary": "This mod utilises Zesterer's and wareya's PBR (physically based rendering) to make the textures in the game look much nicer by adding gloss to most things. its supposed to be aesthetic, not realistic but it'll be more realistic looking than",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52114/52114-1672482558-892362875.png",
+        "uid": "429496781714",
+        "updatedAt": "2025-05-22T14:35:04Z"
+      }
+    ],
+    "totalCount": 31
+  }
+}

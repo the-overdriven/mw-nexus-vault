@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2006-05-25T13:51:36.089Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-15T16:18:58Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59001,
+        "name": "Auto Sheathe Before Drawing (OpenMW)",
+        "status": "published",
+        "summary": "Automatically sheathes your current weapon before drawing the next one when you change your equipped weapon. BUT NOW ON OPENMW",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59001/59001-1778861913-309635889.jpg",
+        "uid": "429496788601",
+        "updatedAt": "2026-05-15T16:18:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-05T16:27:27Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58895,
+        "name": "Auto Sheathe Before Drawing",
+        "status": "published",
+        "summary": "Automatically sheathes your current weapon before drawing the next one when you change your equipped weapon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58895/58895-1778000725-742815640.png",
+        "uid": "429496788495",
+        "updatedAt": "2026-05-05T16:27:27Z"
+      }
+    ],
+    "totalCount": 2
+  }
+}

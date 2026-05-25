@@ -1,0 +1,94 @@
+{
+  "checkedAt": "2006-05-25T13:56:05.886Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5,
+        "1704": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-18T23:39:38Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 56976,
+        "name": "telefollow (openmw)",
+        "status": "published",
+        "summary": "npc & creature followers teleport closer to us and teleport with us.",
+        "thumbnailUrl": null,
+        "uid": "429496786576",
+        "updatedAt": "2025-10-27T13:16:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-15T21:30:08Z",
+        "fileSize": 37,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 56954,
+        "name": "proscripts",
+        "status": "published",
+        "summary": "to eliminate script compilation warnings on openmw.",
+        "thumbnailUrl": null,
+        "uid": "429496786554",
+        "updatedAt": "2025-06-15T21:30:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-05T20:14:32Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56867,
+        "name": "omnipresence (openmw)",
+        "status": "published",
+        "summary": "to find a cell by name, and teleport!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56867/56867-1749154227-498782643.png",
+        "uid": "429496786467",
+        "updatedAt": "2025-06-07T14:44:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-28T03:45:17Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56767,
+        "name": "simple magic time hud (openmw)",
+        "status": "published",
+        "summary": "a simple hud to display expiring magic effects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56767/56767-1748461287-1590532200.png",
+        "uid": "429496786367",
+        "updatedAt": "2025-06-08T13:58:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-26T13:12:32Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56747,
+        "name": "speedy magick (openmw)",
+        "status": "published",
+        "summary": "to cast a spell or use an enchantment with a quick key or the ready magic key.  the casting speed depends on our speed attribute.",
+        "thumbnailUrl": null,
+        "uid": "429496786347",
+        "updatedAt": "2026-04-25T09:42:35Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}

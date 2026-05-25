@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2006-05-25T13:50:59.799Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 5
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-18T00:30:31Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56333,
+        "name": "Pursuit (OpenMW Lua) - Saner Creature Behavior",
+        "status": "published",
+        "summary": "Tweak for kuyondo's Pursuit (OpenMW Lua) that ensures only certain appropriate types of creatures can pursue through doors, following vanilla's reasoning for what creatures can open non-cell doors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56333/56333-1763430765-945448557.png",
+        "uid": "429496785933",
+        "updatedAt": "2025-11-18T01:50:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-07T13:47:58Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56183,
+        "name": "ShulShagana's Magic Icon Replacer",
+        "status": "published",
+        "summary": "Replaces the default vanilla swirl with a pair of concentric rings.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56183/56183-1743995851-2114910480.png",
+        "uid": "429496785783",
+        "updatedAt": "2025-04-08T13:39:12Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-27T23:20:52Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 56082,
+        "name": "Blank Enchanted Item Icons (Blue Swirl Be Gone)",
+        "status": "published",
+        "summary": "Versions of the enchanted item interface icons with the vanilla blue swirl removed. Can be used as-is or as a modder's resource.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56082/56082-1740434025-1577194130.png",
+        "uid": "429496785682",
+        "updatedAt": "2025-03-14T14:48:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-24T18:32:06Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 56076,
+        "name": "Quick Char Polished",
+        "status": "published",
+        "summary": "A version of the classic QuickChar -- which gives the option to fast-forward the chargen sequence and drops you in front of Gravius -- that fixes quite a few oversights and removes the tutorial message boxes if the player opts to do the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56076/56076-1744131108-1103099495.png",
+        "uid": "429496785676",
+        "updatedAt": "2025-04-06T14:28:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-22T17:19:44Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56065,
+        "name": "Tiny Transparent Skies for Zesterer's Volumetric Clouds",
+        "status": "published",
+        "summary": "Replace the default skies (sans night) with tiny, performance-improving cloudless skies, intended for use with Zesterer's Volumetric Clouds shader.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56065/56065-1740684577-204046793.png",
+        "uid": "429496785665",
+        "updatedAt": "2025-11-17T17:52:37Z"
+      }
+    ],
+    "totalCount": 5
+  }
+}

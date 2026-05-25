@@ -1,0 +1,125 @@
+{
+  "checkedAt": "2006-05-25T13:56:19.267Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 7
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-21T04:20:10Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57960,
+        "name": "One Key Actions List - OpenMW",
+        "status": "published",
+        "summary": "Free up some controller keybinds",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57960/57960-1766285824-1962578773.jpg",
+        "uid": "429496787560",
+        "updatedAt": "2025-12-21T04:20:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-21T04:18:57Z",
+        "fileSize": 56,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57955,
+        "name": "Actor Interactions - OpenMW",
+        "status": "published",
+        "summary": "Adds UI window to give items, teach spells, feed, and dress up your favorite npc",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57955/57955-1767014791-1805458305.jpg",
+        "uid": "429496787555",
+        "updatedAt": "2025-12-31T10:49:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-28T18:11:32Z",
+        "fileSize": 47,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57845,
+        "name": "Loadouts - OpenMW",
+        "status": "published",
+        "summary": "Save and switch between different loadouts.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57845/57845-1769103869-1412361353.png",
+        "uid": "429496787445",
+        "updatedAt": "2026-02-09T17:43:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-03T17:42:11Z",
+        "fileSize": 35,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57730,
+        "name": "Inventory Manager - OpenMW",
+        "status": "published",
+        "summary": "Inventory text list + Quick stack to nearby containers",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57730/57730-1762190557-975578875.jpg",
+        "uid": "429496787330",
+        "updatedAt": "2025-12-21T04:10:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-02T18:51:42Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57721,
+        "name": "Knockback - OpenMW 0.50",
+        "status": "published",
+        "summary": "knockback enemies on hit.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57721/57721-1762098470-626450555.jpg",
+        "uid": "429496787321",
+        "updatedAt": "2025-11-02T18:51:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-04T06:01:01Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57548,
+        "name": "Hit Kill Feedback - OpenMW",
+        "status": "published",
+        "summary": "Adds damage numbers and some other feedbacks so you know for sure when you have hit/killed something",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57548/57548-1759581736-2010742051.jpg",
+        "uid": "429496787148",
+        "updatedAt": "2025-10-25T04:19:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-26T15:40:46Z",
+        "fileSize": 27,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57501,
+        "name": "Spells Bookmarks - OpenMW",
+        "status": "published",
+        "summary": "Adds UI interface which allows bookmarking spells for easy and quick access.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57501/57501-1762540857-1183371173.png",
+        "uid": "429496787101",
+        "updatedAt": "2025-12-21T04:11:56Z"
+      }
+    ],
+    "totalCount": 7
+  }
+}

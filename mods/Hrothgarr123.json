@@ -1,0 +1,221 @@
+{
+  "checkedAt": "2006-05-25T13:54:16.892Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 13
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-23T08:29:23Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59061,
+        "name": "(OpenMW) Multiple visible rings",
+        "status": "published",
+        "summary": "The character has ten fingers and now he can put a ring on each one.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59061/59061-1779524927-760941290.png",
+        "uid": "429496788661",
+        "updatedAt": "2026-05-23T08:29:23Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-14T12:06:22Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58986,
+        "name": "(OpenMW) Immersive FPV",
+        "status": "published",
+        "summary": "Now you can see your character's body without any additional mods or patches. No matter what body or armor/clothes replacer you are using, now you just can see it like in third person",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58986/58986-1778760037-873245706.png",
+        "uid": "429496788586",
+        "updatedAt": "2026-05-19T14:21:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-13T16:04:41Z",
+        "fileSize": 289,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58980,
+        "name": "(OpenMW) Sitting on chairs",
+        "status": "published",
+        "summary": "Now you can take a seat on any stool, chair, bench or throne. Cushions also added in 1.1",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58980/58980-1778688182-1376206203.png",
+        "uid": "429496788580",
+        "updatedAt": "2026-05-18T06:53:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-11T14:28:27Z",
+        "fileSize": 292,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58960,
+        "name": "(OpenMW) dynamic wait and rest",
+        "status": "published",
+        "summary": "Now you can wait and rest without screen darkening and see a specific animation of waiting/rest",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58960/58960-1779214292-1544658034.png",
+        "uid": "429496788560",
+        "updatedAt": "2026-05-20T08:20:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-07T08:07:32Z",
+        "fileSize": 1426,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58921,
+        "name": "(OpenMW) Better third person selection",
+        "status": "published",
+        "summary": "Now you don't have to look directly at an object to pick it up or activate",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58921/58921-1778141154-1221580526.png",
+        "uid": "429496788521",
+        "updatedAt": "2026-05-09T23:04:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-28T21:20:27Z",
+        "fileSize": 195,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58804,
+        "name": "(OpenMW) Wearable lanterns",
+        "status": "published",
+        "summary": "Now you can put any lantern on your waist by hotkey without occupying any gear slot",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58804/58804-1777410938-2006124891.png",
+        "uid": "429496788404",
+        "updatedAt": "2026-04-28T21:20:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-17T23:34:58Z",
+        "fileSize": 293,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58694,
+        "name": "(OpenMW) InspectIt reload",
+        "status": "published",
+        "summary": "Mod for inspecting any object in world or character's inventory",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58694/58694-1776468523-1422451274.png",
+        "uid": "429496788294",
+        "updatedAt": "2026-04-17T23:34:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-03T14:22:04Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58575,
+        "name": "(OpenMW) Don't run into walls",
+        "status": "published",
+        "summary": "prevents your character to run into walls",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58575/58575-1775225878-473483794.png",
+        "uid": "429496788175",
+        "updatedAt": "2026-04-03T14:22:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-30T11:50:50Z",
+        "fileSize": 236,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 58543,
+        "name": "(OpenMW) Danae's backpacks",
+        "status": "published",
+        "summary": "(OpenMW) Danae's backpacks for OpenMW now do not occupies the gear slots.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58543/58543-1774871805-2131388942.png",
+        "uid": "429496788143",
+        "updatedAt": "2006-05-25T08:29:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-28T17:44:52Z",
+        "fileSize": 5678,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 58527,
+        "name": "(OpenMW) Fashionwind expanded",
+        "status": "published",
+        "summary": "(OpenMW) RuffinVangarr's Fashionwind accessories, ivolga's Circlets and Wearable Piercing and Earrings, Danae’s backpacks now for OpenMW (without using standard slots of equipment.)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58527/58527-1775401436-2052120072.png",
+        "uid": "429496788127",
+        "updatedAt": "2006-05-25T08:13:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-25T12:35:33Z",
+        "fileSize": 49329,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 58504,
+        "name": "(OpenMW) Visible Morrowind finery",
+        "status": "published",
+        "summary": "Visible rings, belts, and amulets for player and NPC’s",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58504/58504-1774501817-1400106821.png",
+        "uid": "429496788104",
+        "updatedAt": "2026-04-03T05:21:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-25T06:54:40Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58502,
+        "name": "(OpenMW) Wade in water",
+        "status": "published",
+        "summary": "Wading in water",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58502/58502-1774676874-1922702315.png",
+        "uid": "429496788102",
+        "updatedAt": "2026-03-28T05:48:54Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-23T21:51:07Z",
+        "fileSize": 85112,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 58498,
+        "name": "(OpenMW) Simply animated cloaks",
+        "status": "published",
+        "summary": "Allows your Nerevarine to wear cloak without taking up standard equipment slots.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58498/58498-1775058874-548677292.png",
+        "uid": "429496788098",
+        "updatedAt": "2026-05-08T06:36:37Z"
+      }
+    ],
+    "totalCount": 13
+  }
+}

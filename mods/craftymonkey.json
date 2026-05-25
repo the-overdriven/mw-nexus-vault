@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2006-05-25T13:56:52.338Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3,
+        "130": 2,
+        "140": 1,
+        "1704": 2
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-18T09:14:38Z",
+        "fileSize": 423,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 53996,
+        "name": "SME - Useful Widgets - Actor Info - Health Bar - Hit Chance",
+        "status": "published",
+        "summary": "A robust user interface Lua mod that adds a configurable Actor info, various healthbars and hit chance widgets. For OpenMW 0.49",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53996/53996-1705570005-401959655.png",
+        "uid": "429496783596",
+        "updatedAt": "2025-04-01T11:02:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-01-03T11:37:59Z",
+        "fileSize": 234,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53923,
+        "name": "Imperial Magicka Regeneration (For OpenMW 0.49)",
+        "status": "published",
+        "summary": "A robust magicka regeneration modification written in OpenMW-Lua, tightly integrated with gameplay and loaded with customizable features.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53923/53923-1704281634-646686849.jpeg",
+        "uid": "429496783523",
+        "updatedAt": "2024-01-08T07:51:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-12-20T17:01:20Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 53862,
+        "name": "Natural Magicka Recovery (For OpenMW 0.48 and newer)",
+        "status": "published",
+        "summary": "This Lua plugin provides a balanced and configurable magicka regeneration for OpenMW 0.48 or newer.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53862/53862-1703581474-236575792.jpeg",
+        "uid": "429496783462",
+        "updatedAt": "2024-01-08T07:08:35Z"
+      }
+    ],
+    "totalCount": 3
+  }
+}

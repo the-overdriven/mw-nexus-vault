@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2006-05-25T13:59:24.571Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-04T16:59:12Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56478,
+        "name": "Shields Up (OpenMW)",
+        "status": "published",
+        "summary": "Raise your shield while also attacking, improved vanilla block experience.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56478/56478-1746276292-4506024.jpeg",
+        "uid": "429496786078",
+        "updatedAt": "2025-05-28T04:55:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-04-26T15:00:39Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56414,
+        "name": "Dodge (OpenMW)",
+        "status": "published",
+        "summary": "Simple dodging inspired by For Honor.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56414/56414-1745677054-1473930594.png",
+        "uid": "429496786014",
+        "updatedAt": "2025-05-01T09:22:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-03-04T08:34:06Z",
+        "fileSize": 17554,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 56128,
+        "name": "Player Combat Voice - OpenMW 0.49",
+        "status": "published",
+        "summary": "Adds voice to all player races.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56128/56128-1741082704-892479996.png",
+        "uid": "429496785728",
+        "updatedAt": "2025-05-17T10:10:13Z"
+      }
+    ],
+    "totalCount": 3
+  }
+}

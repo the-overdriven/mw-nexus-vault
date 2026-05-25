@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2006-05-25T13:55:06.128Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-14T18:10:08Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 57455,
+        "name": "Configurable Leveling Speed",
+        "status": "published",
+        "summary": "Options for configuring the leveling speed of skills on a global, class skill or individual skill basis, for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57455/57455-1757873091-560296995.png",
+        "uid": "429496787055",
+        "updatedAt": "2025-09-22T14:16:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-13T00:07:19Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 57445,
+        "name": "Linear Leveling",
+        "status": "published",
+        "summary": "Vanilla-style leveling with smooth progression and no wasted multipliers, for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57445/57445-1757790841-646738220.png",
+        "uid": "429496787045",
+        "updatedAt": "2025-09-13T00:07:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-12T23:27:28Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 57444,
+        "name": "Vanilla Retroactive Health",
+        "status": "published",
+        "summary": "Configurable retroactive health that uses the vanilla health formula, for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57444/57444-1757793960-303333821.png",
+        "uid": "429496787044",
+        "updatedAt": "2025-09-12T23:36:13Z"
+      }
+    ],
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "checkedAt": "2006-05-25T13:50:48.625Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 28
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-23T14:55:38Z",
+        "fileSize": 270,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59069,
+        "name": "(OpenMW) Consuming Animated",
+        "status": "published",
+        "summary": "Plays an animation when you drink or eat something or NPCs drink something. Special animations for Telvanni Bug Musk.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59069/59069-1779626750-1728400660.png",
+        "uid": "429496788669",
+        "updatedAt": "2006-05-25T00:48:11Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-22T08:07:05Z",
+        "fileSize": 94,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59054,
+        "name": "(OpenMW) Lua Beast Tamer",
+        "status": "published",
+        "summary": "Now you can tame beasts to serve you and pet them. They even level up along with you!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59054/59054-1779491224-1866703170.png",
+        "uid": "429496788654",
+        "updatedAt": "2026-05-23T10:57:41Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-14T10:57:24Z",
+        "fileSize": 210,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58985,
+        "name": "(OpenMW) Don't Tread on My Ancestors",
+        "status": "published",
+        "summary": "Stepping on Dunmeri ashpits has consequences.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58985/58985-1778756070-1112304311.png",
+        "uid": "429496788585",
+        "updatedAt": "2026-05-15T17:31:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-09T17:03:26Z",
+        "fileSize": 899,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58942,
+        "name": "(OpenMW) Bastard",
+        "status": "published",
+        "summary": "Show the world your true colours. Rob everyone.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58942/58942-1778346078-292471991.png",
+        "uid": "429496788542",
+        "updatedAt": "2026-05-09T22:31:01Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-02T15:07:23Z",
+        "fileSize": 128,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58850,
+        "name": "(OpenMW) Lua Bounty Hunter",
+        "status": "published",
+        "summary": "Now you can send criminals to prison instead of killing them. Requires Gothic Style Knockout 2.2+.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58850/58850-1777733345-1361313305.png",
+        "uid": "429496788450",
+        "updatedAt": "2026-05-05T15:49:00Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-26T11:53:37Z",
+        "fileSize": 64,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58753,
+        "name": "Real Weapon Range Extended",
+        "status": "published",
+        "summary": "A few changes to the original mod, more mods are supported.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58753/58753-1777203840-230426865.jpg",
+        "uid": "429496788353",
+        "updatedAt": "2026-05-16T23:34:53Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-21T17:50:35Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58722,
+        "name": "(OpenMW) Logical Damage to the Undead",
+        "status": "published",
+        "summary": "Put undead creatures to rest with the utmost efficiency.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58722/58722-1776793597-476684591.png",
+        "uid": "429496788322",
+        "updatedAt": "2026-05-07T13:36:31Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-11T13:31:24Z",
+        "fileSize": 28,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58635,
+        "name": "(OpenMW) Lua NPC Schedule",
+        "status": "published",
+        "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
+        "uid": "429496788235",
+        "updatedAt": "2026-05-11T18:43:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-03T17:25:05Z",
+        "fileSize": 40,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58576,
+        "name": "(OpenMW) Gothic Style Knockout",
+        "status": "published",
+        "summary": "Now you can knock out NPCs instead of killing them. And they can do the same to you. Oh, and NPCs drop their weapons when they're knocked out. They also loot you while you're out cold. Only work with melee weapons that deal no magical",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58576/58576-1775237031-1951919046.png",
+        "uid": "429496788176",
+        "updatedAt": "2026-05-17T08:59:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-31T16:30:54Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58553,
+        "name": "(OpenMW) Night Patrol",
+        "status": "published",
+        "summary": "Guards tolerate night loitering no more. You will be escorted to the nearest inn or tavern if a guard finds you suspicious.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58553/58553-1774974245-1585727584.png",
+        "uid": "429496788153",
+        "updatedAt": "2026-05-05T16:08:13Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-28T09:35:54Z",
+        "fileSize": 36,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58525,
+        "name": "(OpenMW) Surrender Outlander",
+        "status": "published",
+        "summary": "Now pacifists can bribe thugs to stop or avoid combats. Also, surrender to guards mid-battle.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58525/58525-1774690106-615390987.png",
+        "uid": "429496788125",
+        "updatedAt": "2026-05-05T10:04:14Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-25T22:43:47Z",
+        "fileSize": 56,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 58505,
+        "name": "(OpenMW) Yet Another HUD",
+        "status": "published",
+        "summary": "Just a simple HUD without extra information. It's pretty, though.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58505/58505-1774546533-958874957.png",
+        "uid": "429496788105",
+        "updatedAt": "2006-05-25T00:52:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-20T13:48:08Z",
+        "fileSize": 10,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58485,
+        "name": "(OpenMW) Armor Requirements",
+        "status": "published",
+        "summary": "Now you need sufficient armor skill and governing attribute to equip powerful armor.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58485/58485-1774014195-1065390651.png",
+        "uid": "429496788085",
+        "updatedAt": "2026-05-12T14:35:30Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-19T10:37:12Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58477,
+        "name": "(OpenMW) Weapon Requirements",
+        "status": "published",
+        "summary": "Now you need sufficient weapon skill and governing attribute to wield powerful weapons.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58477/58477-1773916264-314596005.png",
+        "uid": "429496788077",
+        "updatedAt": "2026-05-12T11:55:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-14T11:51:27Z",
+        "fileSize": 104,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58430,
+        "name": "(OpenMW) Disarm em All",
+        "status": "published",
+        "summary": "Now you can disarm your enemies. The downside? They can do the same to you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58430/58430-1773489709-18416247.png",
+        "uid": "429496788030",
+        "updatedAt": "2026-05-14T15:56:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-11T18:25:53Z",
+        "fileSize": 43,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58414,
+        "name": "(OpenMW) Don't Drop Your Loot",
+        "status": "published",
+        "summary": "NPCs can be lured away by you dropping items or shooting arrows. NPCs can pick up your dropped stuff. NPCs can report your illegal goods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58414/58414-1773253210-69949728.png",
+        "uid": "429496788014",
+        "updatedAt": "2026-05-21T09:02:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-11T10:08:26Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58411,
+        "name": "(OpenMW) Challenge of Saint Felms",
+        "status": "published",
+        "summary": "Saint Felms the Bold never read a word in his life, and neither should you, when there is work to be done. Cleanse Morrowind with axe in hand and earn his fury as your own",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58411/58411-1773223502-1944012794.png",
+        "uid": "429496788011",
+        "updatedAt": "2026-03-11T10:08:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-10T09:32:52Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58405,
+        "name": "(OpenMW) Vaults Restricted",
+        "status": "published",
+        "summary": "Guards in Morrowind's vaults finally mean business. Trespass without the rank, and you'll have seconds to run before they attack you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58405/58405-1773135011-606723750.png",
+        "uid": "429496788005",
+        "updatedAt": "2026-05-04T13:14:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-09T12:14:07Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58384,
+        "name": "(OpenMW) Blessing of Saint Aralor",
+        "status": "published",
+        "summary": "Now serving time in prison makes sense. If you're Dunmer who isn't a member of the Imperial Cult, there is a small chance you receive a blessing from Saint Aralor upon being released.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58384/58384-1773058341-212319538.jpg",
+        "uid": "429496787984",
+        "updatedAt": "2026-03-09T12:14:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-09T08:53:02Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58383,
+        "name": "(OpenMW) Blessing of Saint Rilms",
+        "status": "published",
+        "summary": "Dunmeri paupers across Morrowind carry the quiet grace of Saint Rilms the Barefooted, Patron of Pilgrims and Beggars. Those humble enough to give alms may receive her blessing in return.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58383/58383-1773046243-1460304226.jpg",
+        "uid": "429496787983",
+        "updatedAt": "2026-03-09T08:53:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-06T12:44:29Z",
+        "fileSize": 125,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 58362,
+        "name": "(OpenMW) Thieves Pickpocket",
+        "status": "published",
+        "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff, and they might attack you or apologise and return it.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58362/58362-1772800912-318348143.png",
+        "uid": "429496787962",
+        "updatedAt": "2026-05-04T11:24:24Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-05T17:57:48Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58356,
+        "name": "(OpenMW) Dangers of Broken Artifacts",
+        "status": "published",
+        "summary": "A broken enchanted item will spawn a hostile Daedra, like in Daggerfall. But if you're skilled enough, you can tame it.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58356/58356-1772733208-1432766249.png",
+        "uid": "429496787956",
+        "updatedAt": "2026-05-06T10:34:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-04T14:49:27Z",
+        "fileSize": 363,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58345,
+        "name": "(OpenMW) Player On Fire",
+        "status": "published",
+        "summary": "Standing too close to an open fire will burn you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58345/58345-1772635604-1703980544.png",
+        "uid": "429496787945",
+        "updatedAt": "2026-05-13T16:40:03Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-03T19:09:33Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58337,
+        "name": "(OpenMW) No More Excessive Healing",
+        "status": "published",
+        "summary": "A gameplay mod for OpenMW 0.49+ that makes healing a meaningful decision rather than a free resource.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58337/58337-1772564508-2011377830.png",
+        "uid": "429496787937",
+        "updatedAt": "2026-05-05T11:13:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-03-03T17:09:57Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58335,
+        "name": "(OpenMW) Illegal Necromancy",
+        "status": "published",
+        "summary": "Casting Necromancy spells is now illegal. Applies to the player.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58335/58335-1772557589-1206961088.png",
+        "uid": "429496787935",
+        "updatedAt": "2026-05-12T09:39:27Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-28T23:05:59Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 22,
+          "name": "Cheats and God items"
+        },
+        "modId": 58310,
+        "name": "(OpenMW) The Lazy Atronach Birthsign",
+        "status": "published",
+        "summary": "A mod dedicated to every lazy Atronach player out there, designed to make them even lazier.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58310/58310-1772319508-552083935.png",
+        "uid": "429496787910",
+        "updatedAt": "2026-02-28T23:05:59Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-14T22:29:26Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 58227,
+        "name": "A Fox's Den of Mods and Patches",
+        "status": "published",
+        "summary": "It's a collection of various bugfixes and small mods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58227/58227-1771107954-1705217364.png",
+        "uid": "429496787827",
+        "updatedAt": "2026-04-27T14:17:20Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-02-11T10:22:22Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 58206,
+        "name": "Ultimate Animated Morrowind and BCOM OpenMW Patch",
+        "status": "published",
+        "summary": "An omwaddon that prevents sitting Animated Morrowind NPCs from floating or clipping through tables and chairs in BCOM cities. It also fixes the positioning of some incorrectly placed NPCs.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58206/58206-1770805320-1005714672.png",
+        "uid": "429496787806",
+        "updatedAt": "2026-05-03T09:45:18Z"
+      }
+    ],
+    "totalCount": 28
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "checkedAt": "2006-05-25T13:58:42.564Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 24
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-25T00:49:07Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56722,
+        "name": "Solthas Carry Weight Stumble Challenge (OpenMW Lua)",
+        "status": "published",
+        "summary": "You greedy cat! Desire not! The more stuff you're carrying, the more you risk stubbing your toe, or worse.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56722/56722-1748133405-728648760.png",
+        "uid": "429496786322",
+        "updatedAt": "2025-05-25T00:49:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-17T15:53:57Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 56636,
+        "name": "Solthas Skill History Swap Challenge (OpenMW Lua)",
+        "status": "published",
+        "summary": "Revel in horror as your skills are drained based on their history of use. However, when one skill is drained, another is buffed in its stead. Adapt to survive.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56636/56636-1747496909-329264093.png",
+        "uid": "429496786236",
+        "updatedAt": "2025-05-20T19:19:48Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-23T01:35:17Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55372,
+        "name": "Solthas Random Stat Decay Challenge (OpenMW Lua)",
+        "status": "published",
+        "summary": "Random stats get damaged over time. Better restore them before you get too weak and collapse or die!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55372/55372-1729647119-1842851414.png",
+        "uid": "429496784972",
+        "updatedAt": "2024-10-23T01:35:17Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-21T15:52:27Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55366,
+        "name": "Solthas Drain Gold Hurt Challenge (OpenMW Lua)",
+        "status": "published",
+        "summary": "Lose your gold over time. Take ramping damage if your purse gets too light.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55366/55366-1729526280-268280254.png",
+        "uid": "429496784966",
+        "updatedAt": "2025-06-09T15:19:47Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-12T21:46:26Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 55328,
+        "name": "Solthas Cell Locked Challenge (OpenMW Lua)",
+        "status": "published",
+        "summary": "Unlock new cells to visit as you level up. Take damage if you're outside your cell.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55328/55328-1728769277-117724681.png",
+        "uid": "429496784928",
+        "updatedAt": "2024-10-22T03:28:55Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-25T03:55:04Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 52401,
+        "name": "Solthas Sixth House Amulet",
+        "status": "published",
+        "summary": "Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52401/52401-1677297158-937281157.png",
+        "uid": "429496782001",
+        "updatedAt": "2023-02-25T03:55:04Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-20T20:01:58Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52382,
+        "name": "Sneak Step Drain (OpenMW Lua)",
+        "status": "published",
+        "summary": "Sneak to build up a sneak buff, but drain your sneak skill as you move. Based on your gear [weight] and movement skills. Responds to running, walking, sneaking, moving, staying still.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52382/52382-1676922683-1804463116.png",
+        "uid": "429496781982",
+        "updatedAt": "2024-10-12T14:29:21Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-19T06:45:05Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 52374,
+        "name": "Solthas Bodz Stat Shaders (OpenMW Lua)",
+        "status": "published",
+        "summary": "Different shader effects that intensify as your health, magicka, and or fatigue get low. Now you don't need to watch your bars to know when you're low.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52374/52374-1676788700-1870037998.png",
+        "uid": "429496781974",
+        "updatedAt": "2025-04-29T13:39:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-15T06:25:14Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 52354,
+        "name": "Solthas Blight Weather Pack",
+        "status": "published",
+        "summary": "Harsher and more dynamic weather. Worsening blight storms, with roaming beasts and airborne diseases. Traveling through the Blight is especially dangerous. Modular and fully configurable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52354/52354-1676442104-562104070.png",
+        "uid": "429496781954",
+        "updatedAt": "2023-02-24T00:07:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-15T06:13:22Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52352,
+        "name": "Sneak Attack Buff (OpenMW Lua)",
+        "status": "published",
+        "summary": "Charge up your attack for a few seconds while sneaking to trigger a strength buff based on your sneak skill level.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52352/52352-1676441524-2123805085.png",
+        "uid": "429496781952",
+        "updatedAt": "2025-05-15T00:47:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-11T04:26:06Z",
+        "fileSize": 58,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52334,
+        "name": "Daggerfall Dungeon Map (OpenMW Lua)",
+        "status": "published",
+        "summary": "Dynamic astral projection style free cam mode for use as a Daggerfall-style 3D Dungeon Map. Sorta balanced, sorta lore-friendly, fully configurable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52334/52334-1676089397-1710327483.png",
+        "uid": "429496781934",
+        "updatedAt": "2025-05-15T01:04:06Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-11T04:17:53Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52332,
+        "name": "Bow Aim Activate (OpenMW Lua)",
+        "status": "published",
+        "summary": "Fully draw your bow hit activate key to zoom in. Zoom effect scales with your marksman skill. First or third person. Semi-configurable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52332/52332-1677727929-633443142.png",
+        "uid": "429496781932",
+        "updatedAt": "2025-01-24T18:36:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-05T20:51:50Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52287,
+        "name": "Jump Air Dash (OpenMW Lua)",
+        "status": "published",
+        "summary": "Try to jump while jumping (or levitating, or falling) and you'll dash! It costs fatigue, but gives you huge burst speed for a split second. Keeping jumping while out of fatigue, though, and you'll hurt yourself. For Winter Modjam 2023",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52287/52287-1675629513-1639505167.png",
+        "uid": "429496781887",
+        "updatedAt": "2025-05-15T00:46:15Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-05T00:39:33Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52274,
+        "name": "Swim Boost Drain (OpenMW Lua)",
+        "status": "published",
+        "summary": "Try to jump while swimming, and you'll boost! It costs fatigue, but gives you speed. Also, swimming while out of fatigue hurts you! Fully tunable. For Winter Modjam 2023 (Dangers of Vvardenfell, Sea of Ghosts).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52274/52274-1675557479-905155304.png",
+        "uid": "429496781874",
+        "updatedAt": "2025-05-15T00:53:10Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-02-04T05:50:02Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 52267,
+        "name": "Bigger Fish",
+        "status": "published",
+        "summary": "Killing slaughterfish may attract bigger, scarier beasts. For Winter Modjam 2023 (Dangers of Vvardenfell, Sea of Ghosts, Birds of a Feather Flock Together).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52267/52267-1675489276-1919641933.png",
+        "uid": "429496781867",
+        "updatedAt": "2023-02-16T02:37:26Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-27T03:08:45Z",
+        "fileSize": 57,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52221,
+        "name": "Solthas Combat Pack (OpenMW Lua)",
+        "status": "published",
+        "summary": "Get all my combat mods in one place, pre-configured to work together seamlessly. Charge attacks. Timed directional attacks. Dodge \"rolls\". Etc. (Every component mod is individually toggle-able and configurable via the Script Settings menu.)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52221/52221-1677730386-870230826.png",
+        "uid": "429496781821",
+        "updatedAt": "2025-05-15T00:59:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-27T02:27:03Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 35,
+          "name": "Skills and Attributes"
+        },
+        "modId": 52220,
+        "name": "Mod Difficulty and Reset Stats (OpenMW Lua)",
+        "status": "published",
+        "summary": "Multiplicatively modify your stats to change the difficulty! Or, if your attribute or skill modifiers or damage get messed up, reset them!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52220/52220-1676440849-1351426535.png",
+        "uid": "429496781820",
+        "updatedAt": "2023-02-15T06:03:36Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-27T02:22:12Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52219,
+        "name": "Lose More Health (OpenMW Lua)",
+        "status": "published",
+        "summary": "When you lose health, lose more health! (Optional: When you gain health, gain less health! Even when sleeping! (now optional)) Fully configurable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52219/52219-1674786016-1772100402.png",
+        "uid": "429496781819",
+        "updatedAt": "2024-10-22T23:25:25Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-22T03:21:44Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52195,
+        "name": "Timed Directional Attacks (OpenMW Lua)",
+        "status": "published",
+        "summary": "Time your attacks well to get a buff depending on which directional attack you use. Attack again too soon, and you'll fumble. Wait a little longer for a double buff.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52195/52195-1674356887-1824644066.png",
+        "uid": "429496781795",
+        "updatedAt": "2025-05-15T00:56:44Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-20T15:48:03Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52191,
+        "name": "Sneak Jump Dodge (OpenMW Lua)",
+        "status": "published",
+        "summary": "Try to jump while sneaking, and you'll dodge! It's like a dodge roll without the roll. It costs fatigue, but gives you a split second of near invulnerability. Get a jump boost if you crouch jump! Fully tunable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52191/52191-1674785667-1553460933.png",
+        "uid": "429496781791",
+        "updatedAt": "2025-05-15T00:49:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-18T03:36:44Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52184,
+        "name": "Charge Attack Parry (OpenMW Lua)",
+        "status": "published",
+        "summary": "(Combine with Weighty Charged Attacks!) Turn your charged attacks into parries! You'll be slowed while you're charging them up depending on weapon weight and your strength, but you'll get a different defensive buff afterward, depending on",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52184/52184-1674012728-1718339860.png",
+        "uid": "429496781784",
+        "updatedAt": "2025-05-15T00:44:46Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-17T02:52:23Z",
+        "fileSize": 18,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52180,
+        "name": "Weighty Charged Attacks (OpenMW Lua)",
+        "status": "published",
+        "summary": "(Combine with Charge Attack Parry!) Get weightier charged attacks! You'll be slowed while you're charging them up depending on weapon weight and your strength, but you'll get a different attack buff afterward, for grounded or jumping",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52180/52180-1673923543-1070609863.png",
+        "uid": "429496781780",
+        "updatedAt": "2025-05-15T00:57:58Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-15T16:01:09Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52176,
+        "name": "Staff-Spell Stat Buffs (OpenMW Lua)",
+        "status": "published",
+        "summary": "Live out your wizardly fantasies by getting spell-casting buffs while you have a staff in hand. Balanced by tradeoffs. Fully configurable. Requires OpenMW 0.48+.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52176/52176-1673798654-531670804.png",
+        "uid": "429496781776",
+        "updatedAt": "2025-05-15T00:51:43Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2023-01-14T01:36:21Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 52168,
+        "name": "Directional Attack Stat Stances (OpenMW Lua)",
+        "status": "published",
+        "summary": "This mod has been deprecated. Please use my Timed Directional Attacks mod or maybe my entire Combat Pack instead.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52168/52168-1673659479-1309684705.png",
+        "uid": "429496781768",
+        "updatedAt": "2023-01-27T01:40:38Z"
+      }
+    ],
+    "totalCount": 24
+  }
+}
