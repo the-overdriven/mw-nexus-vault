@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:58:42.564Z",
+  "checkedAt": "2026-05-25T15:36:16.070Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "You greedy cat! Desire not! The more stuff you're carrying, the more you risk stubbing your toe, or worse.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56722/56722-1748133405-728648760.png",
         "uid": "429496786322",
-        "updatedAt": "2025-05-25T00:49:07Z"
+        "updatedAt": "2025-05-25T00:49:07Z",
+        "fileIds": [
+          "1000053502"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,12 @@
         "summary": "Revel in horror as your skills are drained based on their history of use. However, when one skill is drained, another is buffed in its stead. Adapt to survive.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56636/56636-1747496909-329264093.png",
         "uid": "429496786236",
-        "updatedAt": "2025-05-20T19:19:48Z"
+        "updatedAt": "2025-05-20T19:19:48Z",
+        "fileIds": [
+          "1000053306",
+          "1000053120",
+          "1000053119"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +61,10 @@
         "summary": "Random stats get damaged over time. Better restore them before you get too weak and collapse or die!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55372/55372-1729647119-1842851414.png",
         "uid": "429496784972",
-        "updatedAt": "2024-10-23T01:35:17Z"
+        "updatedAt": "2024-10-23T01:35:17Z",
+        "fileIds": [
+          "1000047833"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +80,12 @@
         "summary": "Lose your gold over time. Take ramping damage if your purse gets too light.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55366/55366-1729526280-268280254.png",
         "uid": "429496784966",
-        "updatedAt": "2025-06-09T15:19:47Z"
+        "updatedAt": "2025-06-09T15:19:47Z",
+        "fileIds": [
+          "1000054274",
+          "1000047809",
+          "1000047792"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +101,12 @@
         "summary": "Unlock new cells to visit as you level up. Take damage if you're outside your cell.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55328/55328-1728769277-117724681.png",
         "uid": "429496784928",
-        "updatedAt": "2024-10-22T03:28:55Z"
+        "updatedAt": "2024-10-22T03:28:55Z",
+        "fileIds": [
+          "1000047810",
+          "1000047653",
+          "1000047652"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +122,10 @@
         "summary": "Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52401/52401-1677297158-937281157.png",
         "uid": "429496782001",
-        "updatedAt": "2023-02-25T03:55:04Z"
+        "updatedAt": "2023-02-25T03:55:04Z",
+        "fileIds": [
+          "1000036119"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +141,15 @@
         "summary": "Sneak to build up a sneak buff, but drain your sneak skill as you move. Based on your gear [weight] and movement skills. Responds to running, walking, sneaking, moving, staying still.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52382/52382-1676922683-1804463116.png",
         "uid": "429496781982",
-        "updatedAt": "2024-10-12T14:29:21Z"
+        "updatedAt": "2024-10-12T14:29:21Z",
+        "fileIds": [
+          "1000047646",
+          "1000045380",
+          "1000036156",
+          "1000036068",
+          "1000036066",
+          "1000036018"
+        ]
       },
       {
         "adultContent": false,
@@ -133,7 +165,14 @@
         "summary": "Different shader effects that intensify as your health, magicka, and or fatigue get low. Now you don't need to watch your bars to know when you're low.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52374/52374-1676788700-1870037998.png",
         "uid": "429496781974",
-        "updatedAt": "2025-04-29T13:39:06Z"
+        "updatedAt": "2025-04-29T13:39:06Z",
+        "fileIds": [
+          "1000052198",
+          "1000036175",
+          "1000036115",
+          "1000035999",
+          "1000035994"
+        ]
       },
       {
         "adultContent": false,
@@ -149,7 +188,13 @@
         "summary": "Harsher and more dynamic weather. Worsening blight storms, with roaming beasts and airborne diseases. Traveling through the Blight is especially dangerous. Modular and fully configurable.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52354/52354-1676442104-562104070.png",
         "uid": "429496781954",
-        "updatedAt": "2023-02-24T00:07:52Z"
+        "updatedAt": "2023-02-24T00:07:52Z",
+        "fileIds": [
+          "1000036094",
+          "1000035912",
+          "1000035900",
+          "1000035893"
+        ]
       },
       {
         "adultContent": false,
@@ -165,7 +210,16 @@
         "summary": "Charge up your attack for a few seconds while sneaking to trigger a strength buff based on your sneak skill level.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52352/52352-1676441524-2123805085.png",
         "uid": "429496781952",
-        "updatedAt": "2025-05-15T00:47:42Z"
+        "updatedAt": "2025-05-15T00:47:42Z",
+        "fileIds": [
+          "1000052949",
+          "1000052199",
+          "1000052094",
+          "1000036024",
+          "1000035992",
+          "1000035939",
+          "1000035891"
+        ]
       },
       {
         "adultContent": false,
@@ -181,7 +235,17 @@
         "summary": "Dynamic astral projection style free cam mode for use as a Daggerfall-style 3D Dungeon Map. Sorta balanced, sorta lore-friendly, fully configurable.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52334/52334-1676089397-1710327483.png",
         "uid": "429496781934",
-        "updatedAt": "2025-05-15T01:04:06Z"
+        "updatedAt": "2025-05-15T01:04:06Z",
+        "fileIds": [
+          "1000052957",
+          "1000052205",
+          "1000047648",
+          "1000047647",
+          "1000035938",
+          "1000035825",
+          "1000035817",
+          "1000035800"
+        ]
       },
       {
         "adultContent": false,
@@ -197,7 +261,13 @@
         "summary": "Fully draw your bow hit activate key to zoom in. Zoom effect scales with your marksman skill. First or third person. Semi-configurable.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52332/52332-1677727929-633443142.png",
         "uid": "429496781932",
-        "updatedAt": "2025-01-24T18:36:08Z"
+        "updatedAt": "2025-01-24T18:36:08Z",
+        "fileIds": [
+          "1000049768",
+          "1000036221",
+          "1000035940",
+          "1000035799"
+        ]
       },
       {
         "adultContent": false,
@@ -213,7 +283,14 @@
         "summary": "Try to jump while jumping (or levitating, or falling) and you'll dash! It costs fatigue, but gives you huge burst speed for a split second. Keeping jumping while out of fatigue, though, and you'll hurt yourself. For Winter Modjam 2023",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52287/52287-1675629513-1639505167.png",
         "uid": "429496781887",
-        "updatedAt": "2025-05-15T00:46:15Z"
+        "updatedAt": "2025-05-15T00:46:15Z",
+        "fileIds": [
+          "1000052948",
+          "1000052200",
+          "1000035991",
+          "1000035189",
+          "1000035169"
+        ]
       },
       {
         "adultContent": false,
@@ -229,7 +306,15 @@
         "summary": "Try to jump while swimming, and you'll boost! It costs fatigue, but gives you speed. Also, swimming while out of fatigue hurts you! Fully tunable. For Winter Modjam 2023 (Dangers of Vvardenfell, Sea of Ghosts).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52274/52274-1675557479-905155304.png",
         "uid": "429496781874",
-        "updatedAt": "2025-05-15T00:53:10Z"
+        "updatedAt": "2025-05-15T00:53:10Z",
+        "fileIds": [
+          "1000052953",
+          "1000052203",
+          "1000035990",
+          "1000035190",
+          "1000035170",
+          "1000035040"
+        ]
       },
       {
         "adultContent": false,
@@ -245,7 +330,14 @@
         "summary": "Killing slaughterfish may attract bigger, scarier beasts. For Winter Modjam 2023 (Dangers of Vvardenfell, Sea of Ghosts, Birds of a Feather Flock Together).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52267/52267-1675489276-1919641933.png",
         "uid": "429496781867",
-        "updatedAt": "2023-02-16T02:37:26Z"
+        "updatedAt": "2023-02-16T02:37:26Z",
+        "fileIds": [
+          "1000035913",
+          "1000035901",
+          "1000035037",
+          "1000035036",
+          "1000035019"
+        ]
       },
       {
         "adultContent": false,
@@ -261,7 +353,29 @@
         "summary": "Get all my combat mods in one place, pre-configured to work together seamlessly. Charge attacks. Timed directional attacks. Dodge \"rolls\". Etc. (Every component mod is individually toggle-able and configurable via the Script Settings menu.)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52221/52221-1677730386-870230826.png",
         "uid": "429496781821",
-        "updatedAt": "2025-05-15T00:59:42Z"
+        "updatedAt": "2025-05-15T00:59:42Z",
+        "fileIds": [
+          "1000052956",
+          "1000052204",
+          "1000052096",
+          "1000052095",
+          "1000049769",
+          "1000047831",
+          "1000047811",
+          "1000047649",
+          "1000045383",
+          "1000036225",
+          "1000036158",
+          "1000036079",
+          "1000036023",
+          "1000035993",
+          "1000035952",
+          "1000035941",
+          "1000035890",
+          "1000035863",
+          "1000035451",
+          "1000034850"
+        ]
       },
       {
         "adultContent": false,
@@ -277,7 +391,11 @@
         "summary": "Multiplicatively modify your stats to change the difficulty! Or, if your attribute or skill modifiers or damage get messed up, reset them!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52220/52220-1676440849-1351426535.png",
         "uid": "429496781820",
-        "updatedAt": "2023-02-15T06:03:36Z"
+        "updatedAt": "2023-02-15T06:03:36Z",
+        "fileIds": [
+          "1000035889",
+          "1000034849"
+        ]
       },
       {
         "adultContent": false,
@@ -293,7 +411,12 @@
         "summary": "When you lose health, lose more health! (Optional: When you gain health, gain less health! Even when sleeping! (now optional)) Fully configurable.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52219/52219-1674786016-1772100402.png",
         "uid": "429496781819",
-        "updatedAt": "2024-10-22T23:25:25Z"
+        "updatedAt": "2024-10-22T23:25:25Z",
+        "fileIds": [
+          "1000047832",
+          "1000047812",
+          "1000034848"
+        ]
       },
       {
         "adultContent": false,
@@ -309,7 +432,16 @@
         "summary": "Time your attacks well to get a buff depending on which directional attack you use. Attack again too soon, and you'll fumble. Wait a little longer for a double buff.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52195/52195-1674356887-1824644066.png",
         "uid": "429496781795",
-        "updatedAt": "2025-05-15T00:56:44Z"
+        "updatedAt": "2025-05-15T00:56:44Z",
+        "fileIds": [
+          "1000052954",
+          "1000045381",
+          "1000036224",
+          "1000036022",
+          "1000035989",
+          "1000034842",
+          "1000034753"
+        ]
       },
       {
         "adultContent": false,
@@ -325,7 +457,18 @@
         "summary": "Try to jump while sneaking, and you'll dodge! It's like a dodge roll without the roll. It costs fatigue, but gives you a split second of near invulnerability. Get a jump boost if you crouch jump! Fully tunable.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52191/52191-1674785667-1553460933.png",
         "uid": "429496781791",
-        "updatedAt": "2025-05-15T00:49:45Z"
+        "updatedAt": "2025-05-15T00:49:45Z",
+        "fileIds": [
+          "1000052951",
+          "1000052202",
+          "1000049767",
+          "1000047813",
+          "1000047645",
+          "1000036157",
+          "1000035988",
+          "1000034843",
+          "1000034726"
+        ]
       },
       {
         "adultContent": false,
@@ -341,7 +484,20 @@
         "summary": "(Combine with Weighty Charged Attacks!) Turn your charged attacks into parries! You'll be slowed while you're charging them up depending on weapon weight and your strength, but you'll get a different defensive buff afterward, depending on",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52184/52184-1674012728-1718339860.png",
         "uid": "429496781784",
-        "updatedAt": "2025-05-15T00:44:46Z"
+        "updatedAt": "2025-05-15T00:44:46Z",
+        "fileIds": [
+          "1000052947",
+          "1000036223",
+          "1000036021",
+          "1000035987",
+          "1000035951",
+          "1000035942",
+          "1000035864",
+          "1000035449",
+          "1000034844",
+          "1000034709",
+          "1000034667"
+        ]
       },
       {
         "adultContent": false,
@@ -357,7 +513,21 @@
         "summary": "(Combine with Charge Attack Parry!) Get weightier charged attacks! You'll be slowed while you're charging them up depending on weapon weight and your strength, but you'll get a different attack buff afterward, for grounded or jumping",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52180/52180-1673923543-1070609863.png",
         "uid": "429496781780",
-        "updatedAt": "2025-05-15T00:57:58Z"
+        "updatedAt": "2025-05-15T00:57:58Z",
+        "fileIds": [
+          "1000052955",
+          "1000045382",
+          "1000036222",
+          "1000036020",
+          "1000035986",
+          "1000035950",
+          "1000035943",
+          "1000035865",
+          "1000035450",
+          "1000034845",
+          "1000034706",
+          "1000034669"
+        ]
       },
       {
         "adultContent": false,
@@ -373,7 +543,15 @@
         "summary": "Live out your wizardly fantasies by getting spell-casting buffs while you have a staff in hand. Balanced by tradeoffs. Fully configurable. Requires OpenMW 0.48+.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52176/52176-1673798654-531670804.png",
         "uid": "429496781776",
-        "updatedAt": "2025-05-15T00:51:43Z"
+        "updatedAt": "2025-05-15T00:51:43Z",
+        "fileIds": [
+          "1000052952",
+          "1000036019",
+          "1000035985",
+          "1000034846",
+          "1000034705",
+          "1000034637"
+        ]
       },
       {
         "adultContent": false,
@@ -389,7 +567,12 @@
         "summary": "This mod has been deprecated. Please use my Timed Directional Attacks mod or maybe my entire Combat Pack instead.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52168/52168-1673659479-1309684705.png",
         "uid": "429496781768",
-        "updatedAt": "2023-01-27T01:40:38Z"
+        "updatedAt": "2023-01-27T01:40:38Z",
+        "fileIds": [
+          "1000034708",
+          "1000034602",
+          "1000034601"
+        ]
       }
     ],
     "totalCount": 24

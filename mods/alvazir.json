@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:59:16.222Z",
+  "checkedAt": "2026-05-25T14:09:21.960Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,25 @@
         "summary": "Habasi will steal your precious plugins and stash them. It is a command line tool for TES3 plugin merging, e.g. it takes multiple plugins and creates one with their contents.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53002/53002-1685635091-1278365469.jpeg",
         "uid": "429496782602",
-        "updatedAt": "2024-11-28T21:26:39Z"
+        "updatedAt": "2024-11-28T21:26:39Z",
+        "fileIds": [
+          "1000048496",
+          "1000048497",
+          "1000048255",
+          "1000047744",
+          "1000047675",
+          "1000047638",
+          "1000047602",
+          "1000045207",
+          "1000042123",
+          "1000041291",
+          "1000041183",
+          "1000041081",
+          "1000040973",
+          "1000039831",
+          "1000039830",
+          "1000039756"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +55,16 @@
         "summary": "Jobasha will perfectly organize all your lists in his library. It is a command line tool for leveled list merging, deleveling and comparison.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52707/52707-1685640714-1568631120.jpeg",
         "uid": "429496782307",
-        "updatedAt": "2025-01-02T09:26:16Z"
+        "updatedAt": "2025-01-02T09:26:16Z",
+        "fileIds": [
+          "1000049256",
+          "1000042395",
+          "1000042177",
+          "1000041326",
+          "1000041079",
+          "1000041025",
+          "1000037270"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +80,20 @@
         "summary": "BTBGI balance changes for Project Tamriel and other mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50325/50325-1633847138-1174442217.png",
         "uid": "429496779925",
-        "updatedAt": "2023-11-12T17:12:50Z"
+        "updatedAt": "2023-11-12T17:12:50Z",
+        "fileIds": [
+          "1000040957",
+          "1000039786",
+          "1000037369",
+          "1000034327",
+          "1000034251",
+          "1000034166",
+          "1000033606",
+          "1000033596",
+          "1000033459",
+          "1000033351",
+          "1000029437"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +109,48 @@
         "summary": "Collection of compatibility patches, fixes, mod expansions and tiny mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48955/48955-1625305484-223931555.png",
         "uid": "429496778555",
-        "updatedAt": "2024-10-13T10:20:58Z"
+        "updatedAt": "2024-10-13T10:20:58Z",
+        "fileIds": [
+          "1000047663",
+          "1000040956",
+          "1000040860",
+          "1000040859",
+          "1000040858",
+          "1000040857",
+          "1000040856",
+          "1000040855",
+          "1000040854",
+          "1000040768",
+          "1000040732",
+          "1000037321",
+          "1000037319",
+          "1000034205",
+          "1000033864",
+          "1000033760",
+          "1000032915",
+          "1000032156",
+          "1000030691",
+          "1000030037",
+          "1000029411",
+          "1000028601",
+          "1000028294",
+          "1000027902",
+          "1000027900",
+          "1000027526",
+          "1000027525",
+          "1000027522",
+          "1000027521",
+          "1000027519",
+          "1000027517",
+          "1000027504",
+          "1000027433",
+          "1000026964",
+          "1000026178",
+          "1000025799",
+          "1000022167",
+          "1000021554",
+          "1000021374"
+        ]
       }
     ],
     "totalCount": 4

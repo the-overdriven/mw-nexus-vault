@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:54:55.535Z",
+  "checkedAt": "2026-05-25T15:46:04.096Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,12 @@
         "summary": "Integrates RacerPlume's fishing mod with OpenMW Lua.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58930/58930-1778261917-735639355.png",
         "uid": "429496788530",
-        "updatedAt": "2026-05-11T20:01:04Z"
+        "updatedAt": "2026-05-11T20:01:04Z",
+        "fileIds": [
+          "1000063965",
+          "1000063874",
+          "1000063809"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +42,11 @@
         "summary": "Adds a variety of nifty new magic effects: astral projection, death reversal, pocket storage dimensions, and more. All effects are usable in spellmaking and enchanting.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58691/58691-1776463961-1422749445.png",
         "uid": "429496788291",
-        "updatedAt": "2026-04-23T16:01:53Z"
+        "updatedAt": "2026-04-23T16:01:53Z",
+        "fileIds": [
+          "1000062966",
+          "1000062967"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +62,20 @@
         "summary": "A Lua replacement for the magic window with quality-of-life tweaks and new functionality.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58064/58064-1767881879-502375672.png",
         "uid": "429496787664",
-        "updatedAt": "2026-04-20T20:35:24Z"
+        "updatedAt": "2026-04-20T20:35:24Z",
+        "fileIds": [
+          "1000062860",
+          "1000062817",
+          "1000062744",
+          "1000062743",
+          "1000059948",
+          "1000059937",
+          "1000059914",
+          "1000059892",
+          "1000059862",
+          "1000059830",
+          "1000059826"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +91,12 @@
         "summary": "An OpenMW framework to easily add new vanilla-like skills, with stats window integration. Handles leveling, UI, custom skill books, and dynamic modifiers.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57765/57765-1762857235-1598738316.png",
         "uid": "429496787365",
-        "updatedAt": "2026-05-08T16:17:57Z"
+        "updatedAt": "2026-05-08T16:17:57Z",
+        "fileIds": [
+          "1000063805",
+          "1000063460",
+          "1000058356"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +112,19 @@
         "summary": "A replacement for the Stats window with built-in tweaks and an API for modders to add new content.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57727/57727-1762124351-1194443852.png",
         "uid": "429496787327",
-        "updatedAt": "2026-04-17T14:39:00Z"
+        "updatedAt": "2026-04-17T14:39:00Z",
+        "fileIds": [
+          "1000062746",
+          "1000059905",
+          "1000058622",
+          "1000058514",
+          "1000058408",
+          "1000058365",
+          "1000058245",
+          "1000058221",
+          "1000058138",
+          "1000058124"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +140,19 @@
         "summary": "Adds an in-depth bard career path with MIDI-based performances and custom songwriting. Play in taverns or on the street. Recruit other bards and assemble a troupe. Collect music boxes. Compose songs about your adventures. Make a name for",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56814/56814-1752181861-20524167.png",
         "uid": "429496786414",
-        "updatedAt": "2026-01-09T06:50:18Z"
+        "updatedAt": "2026-01-09T06:50:18Z",
+        "fileIds": [
+          "1000059850",
+          "1000054660",
+          "1000054266",
+          "1000054139",
+          "1000054124",
+          "1000054060",
+          "1000054023",
+          "1000054003",
+          "1000053997",
+          "1000053927"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +168,14 @@
         "summary": "Replaces the vanilla lockpicking system with an Oblivion-inspired minigame.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56355/56355-1750124337-639389511.png",
         "uid": "429496785955",
-        "updatedAt": "2026-05-19T18:40:14Z"
+        "updatedAt": "2026-05-19T18:40:14Z",
+        "fileIds": [
+          "1000064328",
+          "1000063385",
+          "1000057663",
+          "1000054417",
+          "1000052015"
+        ]
       },
       {
         "adultContent": false,
@@ -133,7 +191,11 @@
         "summary": "Adds working keytars, and lets you and followers play them!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56323/56323-1744079427-65882318.png",
         "uid": "429496785923",
-        "updatedAt": "2025-06-17T20:38:31Z"
+        "updatedAt": "2025-06-17T20:38:31Z",
+        "fileIds": [
+          "1000054514",
+          "1000051995"
+        ]
       }
     ],
     "totalCount": 8

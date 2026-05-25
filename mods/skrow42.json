@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:51:29.213Z",
+  "checkedAt": "2026-05-25T15:34:48.691Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "Different twist to spellcasting in Morrowind. Level up together with your Eternal Grimoire - get new spells each 24 in-game hours (configurable)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59065/59065-1779537749-1323056468.png",
         "uid": "429496788665",
-        "updatedAt": "2026-05-23T12:03:31Z"
+        "updatedAt": "2026-05-23T12:03:31Z",
+        "fileIds": [
+          "1000064477"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,10 @@
         "summary": "Modathon 2026 Entry - Adds new 2 damaging alteration spells with a twist",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59013/59013-1778933810-1389665071.png",
         "uid": "429496788613",
-        "updatedAt": "2026-05-16T12:18:54Z"
+        "updatedAt": "2026-05-16T12:18:54Z",
+        "fileIds": [
+          "1000064180"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +59,13 @@
         "summary": "May Modathon 2026 Entry - Have an array of light spells from different spell schools, merchant light included!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58954/58954-1778449558-843184814.jpg",
         "uid": "429496788554",
-        "updatedAt": "2026-05-15T18:07:36Z"
+        "updatedAt": "2026-05-15T18:07:36Z",
+        "fileIds": [
+          "1000064144",
+          "1000064003",
+          "1000063953",
+          "1000063906"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +81,11 @@
         "summary": "New series of mods introducing spells to the world of OpenMW. Vol. 1 treats you with 4 new Trap Handling spells ( Spell Framework Plus based)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58681/58681-1776449093-1056659523.png",
         "uid": "429496788281",
-        "updatedAt": "2026-04-17T14:19:00Z"
+        "updatedAt": "2026-04-17T14:19:00Z",
+        "fileIds": [
+          "1000062745",
+          "1000062716"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +101,25 @@
         "summary": "Cast spells in weapon stance just like in Oblivion, no more need to switch to spell stance. 1st and 3rd person animations!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58653/58653-1776021677-86431281.png",
         "uid": "429496788253",
-        "updatedAt": "2026-05-23T11:50:09Z"
+        "updatedAt": "2026-05-23T11:50:09Z",
+        "fileIds": [
+          "1000064472",
+          "1000064178",
+          "1000063858",
+          "1000063640",
+          "1000063632",
+          "1000063597",
+          "1000063582",
+          "1000063547",
+          "1000062875",
+          "1000062792",
+          "1000062791",
+          "1000062734",
+          "1000062714",
+          "1000062659",
+          "1000062627",
+          "1000062619"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +135,18 @@
         "summary": "OpenMW gap of custom spells has been closed. Generate custom spells as you wish with using this interface. Modders resource. Uses OpenMW Spell Api as a base.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58652/58652-1776549126-1686151643.png",
         "uid": "429496788252",
-        "updatedAt": "2026-05-21T07:43:18Z"
+        "updatedAt": "2026-05-21T07:43:18Z",
+        "fileIds": [
+          "1000064390",
+          "1000064314",
+          "1000064311",
+          "1000064164",
+          "1000063981",
+          "1000063631",
+          "1000063596",
+          "1000063548",
+          "1000062885"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +162,26 @@
         "summary": "Witness never seen Ai behavior in Morrowind (OpenMW). Stealing is now very hard (optional ErnBurglary - Burglary Overhaul integration). NPCs will follow you around and search for you in interior cells to prevent stealing. And many more!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57747/57747-1762535215-1583810460.png",
         "uid": "429496787347",
-        "updatedAt": "2025-12-27T18:31:23Z"
+        "updatedAt": "2025-12-27T18:31:23Z",
+        "fileIds": [
+          "1000059541",
+          "1000059444",
+          "1000059441",
+          "1000059437",
+          "1000059357",
+          "1000059323",
+          "1000059322",
+          "1000059116",
+          "1000059115",
+          "1000059041",
+          "1000058874",
+          "1000058872",
+          "1000058858",
+          "1000058453",
+          "1000058400",
+          "1000058263",
+          "1000058223"
+        ]
       },
       {
         "adultContent": false,
@@ -133,7 +197,21 @@
         "summary": "FULL GAMEPAD - KEYBOARD - MOUSE SUPPORT Ultimate Quick Select for OpenMW. Boost your QuickSelect into year 2030",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57590/57590-1759950116-1327829749.png",
         "uid": "429496787190",
-        "updatedAt": "2026-04-01T16:47:23Z"
+        "updatedAt": "2026-04-01T16:47:23Z",
+        "fileIds": [
+          "1000062246",
+          "1000062230",
+          "1000062209",
+          "1000062207",
+          "1000057760",
+          "1000057758",
+          "1000057665",
+          "1000057656",
+          "1000057621",
+          "1000057619",
+          "1000057618",
+          "1000057497"
+        ]
       },
       {
         "adultContent": false,
@@ -149,7 +227,10 @@
         "summary": "Auto Light Drop Mod for OpenMW with Lua Physics and Sound Effects - never fight in darkness again!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57499/57499-1758748734-1055206816.png",
         "uid": "429496787099",
-        "updatedAt": "2026-03-20T14:30:00Z"
+        "updatedAt": "2026-03-20T14:30:00Z",
+        "fileIds": [
+          "1000061827"
+        ]
       },
       {
         "adultContent": false,
@@ -165,7 +246,10 @@
         "summary": "MWGE - Morrowind Gamepad Extender and Pluginless Stealth Toggle",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57391/57391-1756758619-2021736050.png",
         "uid": "429496786991",
-        "updatedAt": "2025-09-01T20:37:01Z"
+        "updatedAt": "2025-09-01T20:37:01Z",
+        "fileIds": [
+          "1000056549"
+        ]
       }
     ],
     "totalCount": 10

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:58:31.296Z",
+  "checkedAt": "2026-05-25T15:47:30.372Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "Turns the books of Ashlander poetry from the game into music boxes with new and original music.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54759/54759-1717082050-1977898666.png",
         "uid": "429496784359",
-        "updatedAt": "2024-05-30T15:14:19Z"
+        "updatedAt": "2024-05-30T15:14:19Z",
+        "fileIds": [
+          "1000045261"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,11 @@
         "summary": "Shows your current crime status in a HUD overlay reminiscent of open world crime games, such as GTA or Cyberpunk.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53717/53717-1699728015-518495636.png",
         "uid": "429496783317",
-        "updatedAt": "2024-08-19T10:08:08Z"
+        "updatedAt": "2024-08-19T10:08:08Z",
+        "fileIds": [
+          "1000046803",
+          "1000040947"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +60,10 @@
         "summary": "\"Perfumed Vampires\" allows the player to mask their undead scent by applying perfumes. The effect lasts as long as the perfume itself.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53714/53714-1699656032-222833136.png",
         "uid": "429496783314",
-        "updatedAt": "2024-07-22T15:44:09Z"
+        "updatedAt": "2024-07-22T15:44:09Z",
+        "fileIds": [
+          "1000046396"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +79,12 @@
         "summary": "Cast spells with a single key press, similarly to how it works in Oblivion. Uses standard spell casting hotkey.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52130/52130-1672851561-467749533.png",
         "uid": "429496781730",
-        "updatedAt": "2024-09-12T10:08:30Z"
+        "updatedAt": "2024-09-12T10:08:30Z",
+        "fileIds": [
+          "1000047179",
+          "1000046375",
+          "1000034459"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +100,11 @@
         "summary": "Follower HUD and teleportation",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51232/51232-1652563692-1093372365.png",
         "uid": "429496780832",
-        "updatedAt": "2025-03-09T08:18:43Z"
+        "updatedAt": "2025-03-09T08:18:43Z",
+        "fileIds": [
+          "1000051019",
+          "1000041072"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +120,12 @@
         "summary": "Explore a new Ashlander themed dungeon in this quest.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48703/48703-1597600838-1725997682.png",
         "uid": "429496778303",
-        "updatedAt": "2023-01-19T19:41:17Z"
+        "updatedAt": "2023-01-19T19:41:17Z",
+        "fileIds": [
+          "1000034701",
+          "1000020433",
+          "1000020428"
+        ]
       }
     ],
     "totalCount": 6

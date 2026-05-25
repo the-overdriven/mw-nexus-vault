@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:58:19.428Z",
+  "checkedAt": "2026-05-25T14:27:13.786Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,12 @@
         "summary": "In the game, you can now use shortcuts to quickly Take All items of a specific type from a container.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57288/57288-1755043576-969300661.png",
         "uid": "429496786888",
-        "updatedAt": "2025-08-20T00:15:50Z"
+        "updatedAt": "2025-08-20T00:15:50Z",
+        "fileIds": [
+          "1000056146",
+          "1000056096",
+          "1000055905"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +42,27 @@
         "summary": "In game, you can now open and close interface menus (one by one, with combinations or with switching method) with a simple keybinding. In addition, you can choose to set the game to (un)pause for each menu and to able/disable Move,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57140/57140-1752597097-426588817.png",
         "uid": "429496786740",
-        "updatedAt": "2025-09-18T22:13:55Z"
+        "updatedAt": "2025-09-18T22:13:55Z",
+        "fileIds": [
+          "1000056922",
+          "1000055654",
+          "1000055317",
+          "1000055300",
+          "1000055298",
+          "1000055297",
+          "1000055293",
+          "1000055291",
+          "1000055271",
+          "1000055267",
+          "1000055252",
+          "1000055251",
+          "1000055250",
+          "1000055249",
+          "1000055248",
+          "1000055247",
+          "1000055246",
+          "1000055237"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +78,15 @@
         "summary": "This mod allows you to display the player's gold amount on the HUD and on the Interface (Inventory, Map, Magic, Stats).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57105/57105-1751994498-1289291385.jpg",
         "uid": "429496786705",
-        "updatedAt": "2025-07-15T18:25:29Z"
+        "updatedAt": "2025-07-15T18:25:29Z",
+        "fileIds": [
+          "1000055244",
+          "1000055075",
+          "1000055220",
+          "1000055149",
+          "1000055140",
+          "1000055069"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +102,14 @@
         "summary": "Mod that allows to close menus (map, journal, inventory, wait...) with a click.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57103/57103-1751927300-1535940434.jpg",
         "uid": "429496786703",
-        "updatedAt": "2025-07-18T16:06:21Z"
+        "updatedAt": "2025-07-18T16:06:21Z",
+        "fileIds": [
+          "1000055314",
+          "1000055239",
+          "1000055119",
+          "1000055057",
+          "1000055043"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +125,16 @@
         "summary": "This mod offer the possibility to prepare your weapon with a click",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57101/57101-1751922794-177208970.jpg",
         "uid": "429496786701",
-        "updatedAt": "2025-07-18T23:38:36Z"
+        "updatedAt": "2025-07-18T23:38:36Z",
+        "fileIds": [
+          "1000055324",
+          "1000055217",
+          "1000055216",
+          "1000055056",
+          "1000055055",
+          "1000055042",
+          "1000055040"
+        ]
       }
     ],
     "totalCount": 5

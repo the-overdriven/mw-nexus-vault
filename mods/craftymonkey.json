@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:56:52.338Z",
+  "checkedAt": "2026-05-25T14:19:51.437Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -24,7 +24,14 @@
         "summary": "A robust user interface Lua mod that adds a configurable Actor info, various healthbars and hit chance widgets. For OpenMW 0.49",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53996/53996-1705570005-401959655.png",
         "uid": "429496783596",
-        "updatedAt": "2025-04-01T11:02:00Z"
+        "updatedAt": "2025-04-01T11:02:00Z",
+        "fileIds": [
+          "1000051624",
+          "1000042913",
+          "1000042252",
+          "1000042166",
+          "1000042150"
+        ]
       },
       {
         "adultContent": false,
@@ -40,7 +47,12 @@
         "summary": "A robust magicka regeneration modification written in OpenMW-Lua, tightly integrated with gameplay and loaded with customizable features.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53923/53923-1704281634-646686849.jpeg",
         "uid": "429496783523",
-        "updatedAt": "2024-01-08T07:51:07Z"
+        "updatedAt": "2024-01-08T07:51:07Z",
+        "fileIds": [
+          "1000041952",
+          "1000041869",
+          "1000041824"
+        ]
       },
       {
         "adultContent": false,
@@ -56,7 +68,12 @@
         "summary": "This Lua plugin provides a balanced and configurable magicka regeneration for OpenMW 0.48 or newer.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53862/53862-1703581474-236575792.jpeg",
         "uid": "429496783462",
-        "updatedAt": "2024-01-08T07:08:35Z"
+        "updatedAt": "2024-01-08T07:08:35Z",
+        "fileIds": [
+          "1000041950",
+          "1000041696",
+          "1000041566"
+        ]
       }
     ],
     "totalCount": 3

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:55:06.128Z",
+  "checkedAt": "2026-05-25T15:07:14.335Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,11 @@
         "summary": "Options for configuring the leveling speed of skills on a global, class skill or individual skill basis, for OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57455/57455-1757873091-560296995.png",
         "uid": "429496787055",
-        "updatedAt": "2025-09-22T14:16:14Z"
+        "updatedAt": "2025-09-22T14:16:14Z",
+        "fileIds": [
+          "1000056999",
+          "1000056840"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +41,10 @@
         "summary": "Vanilla-style leveling with smooth progression and no wasted multipliers, for OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57445/57445-1757790841-646738220.png",
         "uid": "429496787045",
-        "updatedAt": "2025-09-13T00:07:19Z"
+        "updatedAt": "2025-09-13T00:07:19Z",
+        "fileIds": [
+          "1000056783"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +60,10 @@
         "summary": "Configurable retroactive health that uses the vanilla health formula, for OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57444/57444-1757793960-303333821.png",
         "uid": "429496787044",
-        "updatedAt": "2025-09-12T23:36:13Z"
+        "updatedAt": "2025-09-12T23:36:13Z",
+        "fileIds": [
+          "1000056782"
+        ]
       }
     ],
     "totalCount": 3

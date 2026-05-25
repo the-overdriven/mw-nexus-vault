@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:56:34.417Z",
+  "checkedAt": "2026-05-25T15:28:38.723Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "M.A.S.E is an OpenMW post processing shader pack that aims to enhance atmospheric and lighting elements of the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58099/58099-1768612188-1170473752.png",
         "uid": "429496787699",
-        "updatedAt": "2026-01-25T11:33:44Z"
+        "updatedAt": "2026-01-25T11:33:44Z",
+        "fileIds": [
+          "1000060231"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,10 @@
         "summary": "Remasters all Imperial Town textures with 2k OpenMW PBR and Parallax textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57715/57715-1761874292-270058484.png",
         "uid": "429496787315",
-        "updatedAt": "2025-10-31T01:42:18Z"
+        "updatedAt": "2025-10-31T01:42:18Z",
+        "fileIds": [
+          "1000058059"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +59,10 @@
         "summary": "Replaces all redoran textures with 2k Parallax and PBR textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57679/57679-1761261081-206985231.png",
         "uid": "429496787279",
-        "updatedAt": "2025-10-23T23:05:01Z"
+        "updatedAt": "2025-10-23T23:05:01Z",
+        "fileIds": [
+          "1000057887"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +78,10 @@
         "summary": "Replaces every texture in the data files/textures/TR/lnd folder with HD parallax and PBR textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57634/57634-1760647867-733190042.png",
         "uid": "429496787234",
-        "updatedAt": "2025-10-16T20:44:22Z"
+        "updatedAt": "2025-10-16T20:44:22Z",
+        "fileIds": [
+          "1000057708"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +97,10 @@
         "summary": "The culmination of all of my \"Remastered\" landscape retextures. HD parallax textures for OpenMW with optional PBR.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57594/57594-1760133871-689078521.png",
         "uid": "429496787194",
-        "updatedAt": "2025-10-10T22:09:11Z"
+        "updatedAt": "2025-10-10T22:09:11Z",
+        "fileIds": [
+          "1000057545"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +116,10 @@
         "summary": "Replaces all landscape textures in the Grazelands region with vanilla faithful, 2K parallaxed textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57522/57522-1759005754-1593119978.png",
         "uid": "429496787122",
-        "updatedAt": "2025-09-27T20:44:47Z"
+        "updatedAt": "2025-09-27T20:44:47Z",
+        "fileIds": [
+          "1000057167"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +135,11 @@
         "summary": "Significantly raises the height of Red Mountain and changes the shape to be more aesthetic / realistic without placing or deleting a single static.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57476/57476-1758999521-49403067.png",
         "uid": "429496787076",
-        "updatedAt": "2025-09-27T20:29:02Z"
+        "updatedAt": "2025-09-27T20:29:02Z",
+        "fileIds": [
+          "1000057164",
+          "1000056980"
+        ]
       },
       {
         "adultContent": false,
@@ -133,7 +155,10 @@
         "summary": "Replaces all landscape textures in the West Gash Region with 2k Parallax textures and a focus on maintaining the vanilla color and style.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57383/57383-1756666522-1212341074.png",
         "uid": "429496786983",
-        "updatedAt": "2025-08-31T19:01:10Z"
+        "updatedAt": "2025-08-31T19:01:10Z",
+        "fileIds": [
+          "1000056526"
+        ]
       },
       {
         "adultContent": false,
@@ -149,7 +174,11 @@
         "summary": "Replaces all the terrain textures in the Ascadian Isle's with vanilla accurate 2k Parallax and PBR textures for OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57324/57324-1755638908-532699460.png",
         "uid": "429496786924",
-        "updatedAt": "2025-08-20T01:00:41Z"
+        "updatedAt": "2025-08-20T01:00:41Z",
+        "fileIds": [
+          "1000056144",
+          "1000056147"
+        ]
       },
       {
         "adultContent": false,
@@ -165,7 +194,10 @@
         "summary": "Replaces the landscape textures in the Azura's Coast region with realistic 2k Parallax textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57291/57291-1755118498-1448221612.png",
         "uid": "429496786891",
-        "updatedAt": "2025-08-13T21:03:28Z"
+        "updatedAt": "2025-08-13T21:03:28Z",
+        "fileIds": [
+          "1000055927"
+        ]
       },
       {
         "adultContent": false,
@@ -181,7 +213,10 @@
         "summary": "Replaces every landscape and rock texture in the Ashlands, Molag Amur and Red Mountain regions with HD Parallax textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56971/56971-1756502936-962131303.png",
         "uid": "429496786571",
-        "updatedAt": "2025-08-31T12:17:53Z"
+        "updatedAt": "2025-08-31T12:17:53Z",
+        "fileIds": [
+          "1000056510"
+        ]
       },
       {
         "adultContent": false,
@@ -197,7 +232,10 @@
         "summary": "Replaces every terrain and rock texture in the bitter coast region with HD parallax and optional PBR",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56912/56912-1749514090-1530240616.png",
         "uid": "429496786512",
-        "updatedAt": "2025-06-10T00:19:50Z"
+        "updatedAt": "2025-06-10T00:19:50Z",
+        "fileIds": [
+          "1000054281"
+        ]
       },
       {
         "adultContent": false,
@@ -213,7 +251,11 @@
         "summary": "Replaces all textures in vivec with HD parallax and optional PBR textures",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56862/56862-1749054578-45647771.png",
         "uid": "429496786462",
-        "updatedAt": "2025-06-06T14:20:06Z"
+        "updatedAt": "2025-06-06T14:20:06Z",
+        "fileIds": [
+          "1000054159",
+          "1000054100"
+        ]
       },
       {
         "adultContent": false,
@@ -229,7 +271,11 @@
         "summary": "Replaces all the dunmer stronghold textures with HD parallaxed ones and optional PBR",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56842/56842-1748907266-1533128948.png",
         "uid": "429496786442",
-        "updatedAt": "2025-06-03T12:58:34Z"
+        "updatedAt": "2025-06-03T12:58:34Z",
+        "fileIds": [
+          "1000054037",
+          "1000054033"
+        ]
       },
       {
         "adultContent": false,
@@ -245,7 +291,13 @@
         "summary": "Replaces all Imperial fort textures in the game with parallax and some optional PBR.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56820/56820-1748735644-458120842.png",
         "uid": "429496786420",
-        "updatedAt": "2025-07-11T13:18:18Z"
+        "updatedAt": "2025-07-11T13:18:18Z",
+        "fileIds": [
+          "1000055164",
+          "1000055165",
+          "1000054543",
+          "1000053923"
+        ]
       },
       {
         "adultContent": false,
@@ -261,7 +313,11 @@
         "summary": "Replaces all trees in the west gash with high quality but still vanilla friendly trees. Pluginless",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56746/56746-1748255644-1682071552.png",
         "uid": "429496786346",
-        "updatedAt": "2025-05-26T12:12:35Z"
+        "updatedAt": "2025-05-26T12:12:35Z",
+        "fileIds": [
+          "1000053602",
+          "1000053601"
+        ]
       },
       {
         "adultContent": false,
@@ -277,7 +333,11 @@
         "summary": "Completely replaces the landscape and architecture of Solstheim in the Bloodmoon expansion.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56700/56700-1747952034-1767120128.png",
         "uid": "429496786300",
-        "updatedAt": "2025-06-05T18:39:12Z"
+        "updatedAt": "2025-06-05T18:39:12Z",
+        "fileIds": [
+          "1000053416",
+          "1000054134"
+        ]
       },
       {
         "adultContent": false,
@@ -293,7 +353,12 @@
         "summary": "Replaces most wood textures in the game with Parallax and PBR.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56416/56416-1745712095-1372061356.png",
         "uid": "429496786016",
-        "updatedAt": "2025-06-07T17:38:34Z"
+        "updatedAt": "2025-06-07T17:38:34Z",
+        "fileIds": [
+          "1000054217",
+          "1000053380",
+          "1000052133"
+        ]
       },
       {
         "adultContent": false,
@@ -309,7 +374,10 @@
         "summary": "Replaces the Landscape textures for TR",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56405/56405-1745540100-553007236.png",
         "uid": "429496786005",
-        "updatedAt": "2025-04-25T00:19:10Z"
+        "updatedAt": "2025-04-25T00:19:10Z",
+        "fileIds": [
+          "1000052092"
+        ]
       },
       {
         "adultContent": false,
@@ -325,7 +393,10 @@
         "summary": "Replaces all tapestries in the game with added parallax effect.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56391/56391-1745330967-438471318.png",
         "uid": "429496785991",
-        "updatedAt": "2025-04-22T14:15:27Z"
+        "updatedAt": "2025-04-22T14:15:27Z",
+        "fileIds": [
+          "1000052060"
+        ]
       },
       {
         "adultContent": false,
@@ -341,7 +412,10 @@
         "summary": "Uses Vurt's amazing grass textures to remaster aesthesia grass meshes",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56366/56366-1745064150-1281260317.png",
         "uid": "429496785966",
-        "updatedAt": "2025-04-19T13:15:15Z"
+        "updatedAt": "2025-04-19T13:15:15Z",
+        "fileIds": [
+          "1000052020"
+        ]
       },
       {
         "adultContent": false,
@@ -357,7 +431,12 @@
         "summary": "Modification of https://www.nexusmods.com/morrowind/mods/11902 , fixed textures and meshes, added PBR.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56058/56058-1740194336-1874343816.png",
         "uid": "429496785658",
-        "updatedAt": "2025-05-22T14:45:26Z"
+        "updatedAt": "2025-05-22T14:45:26Z",
+        "fileIds": [
+          "1000053377",
+          "1000050648",
+          "1000050606"
+        ]
       },
       {
         "adultContent": false,
@@ -373,7 +452,12 @@
         "summary": "Modification of https://www.nexusmods.com/morrowind/mods/46044 , added normal maps, clearer textures, PBR.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56052/56052-1740168982-194686416.png",
         "uid": "429496785652",
-        "updatedAt": "2025-05-22T14:45:18Z"
+        "updatedAt": "2025-05-22T14:45:18Z",
+        "fileIds": [
+          "1000053375",
+          "1000050596",
+          "1000050595"
+        ]
       },
       {
         "adultContent": false,
@@ -389,7 +473,14 @@
         "summary": "Modification of https://www.nexusmods.com/morrowind/mods/43655?tab=description , fixed proportions, better textures, added PBR, added Parallax on some textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56046/56046-1740094010-1505780340.png",
         "uid": "429496785646",
-        "updatedAt": "2025-06-18T11:30:14Z"
+        "updatedAt": "2025-06-18T11:30:14Z",
+        "fileIds": [
+          "1000053376",
+          "1000054529",
+          "1000050598",
+          "1000050555",
+          "1000050554"
+        ]
       },
       {
         "adultContent": false,
@@ -405,7 +496,16 @@
         "summary": "Modification of https://www.nexusmods.com/morrowind/mods/43647 . Fixes proportions, added normal maps, added PBR textures, improved base textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56022/56022-1739892020-462546237.png",
         "uid": "429496785622",
-        "updatedAt": "2025-05-22T17:38:35Z"
+        "updatedAt": "2025-05-22T17:38:35Z",
+        "fileIds": [
+          "1000053374",
+          "1000053395",
+          "1000050599",
+          "1000050532",
+          "1000050492",
+          "1000050469",
+          "1000050436"
+        ]
       },
       {
         "adultContent": false,
@@ -421,7 +521,13 @@
         "summary": "Modification of https://www.nexusmods.com/morrowind/mods/13279 . Fixes meshes, normal maps, improved textures and PBR textures added.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56018/56018-1739658344-1463107784.png",
         "uid": "429496785618",
-        "updatedAt": "2025-05-22T14:41:41Z"
+        "updatedAt": "2025-05-22T14:41:41Z",
+        "fileIds": [
+          "1000053372",
+          "1000050435",
+          "1000050597",
+          "1000050423"
+        ]
       },
       {
         "adultContent": false,
@@ -437,7 +543,12 @@
         "summary": "Replaces the exterior and interior dwemer set with OpenMW PBR textures for both inverted and non inverted roughness users.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55725/55725-1736033507-919009501.png",
         "uid": "429496785325",
-        "updatedAt": "2025-08-10T13:05:31Z"
+        "updatedAt": "2025-08-10T13:05:31Z",
+        "fileIds": [
+          "1000055814",
+          "1000053373",
+          "1000049323"
+        ]
       },
       {
         "adultContent": false,
@@ -453,7 +564,11 @@
         "summary": "This mod replaces a lot of the exterior wood textures and also changes the shacks to have yellow thatch like in SVNRs Imperial Towns Revamp.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55583/55583-1734221156-1340571679.png",
         "uid": "429496785183",
-        "updatedAt": "2024-12-16T20:24:20Z"
+        "updatedAt": "2024-12-16T20:24:20Z",
+        "fileIds": [
+          "1000048844",
+          "1000048799"
+        ]
       },
       {
         "adultContent": false,
@@ -469,7 +584,15 @@
         "summary": "FIXED STUTTERING. Parallax landscape textures for most of the regions in Vvardenfell. Also includes textures for Aesthesia Groundcover that are coloured to match the terrain grass colours.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55555/55555-1733692054-1749331451.png",
         "uid": "429496785155",
-        "updatedAt": "2025-05-24T14:37:03Z"
+        "updatedAt": "2025-05-24T14:37:03Z",
+        "fileIds": [
+          "1000053467",
+          "1000049423",
+          "1000048835",
+          "1000051985",
+          "1000048834",
+          "1000048698"
+        ]
       },
       {
         "adultContent": false,
@@ -485,7 +608,11 @@
         "summary": "Complete overhaul of the blocking system for Morrowind, introducing active blocking instead of random block chances.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54904/54904-1719874414-1907444638.png",
         "uid": "429496784504",
-        "updatedAt": "2024-09-26T08:58:52Z"
+        "updatedAt": "2024-09-26T08:58:52Z",
+        "fileIds": [
+          "1000047383",
+          "1000046037"
+        ]
       },
       {
         "adultContent": false,
@@ -501,7 +628,11 @@
         "summary": "This mod utilises Zesterer's and wareya's PBR (physically based rendering) to make the textures in the game look much nicer by adding gloss to most things. its supposed to be aesthetic, not realistic but it'll be more realistic looking than",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52114/52114-1672482558-892362875.png",
         "uid": "429496781714",
-        "updatedAt": "2025-05-22T14:35:04Z"
+        "updatedAt": "2025-05-22T14:35:04Z",
+        "fileIds": [
+          "1000053369",
+          "1000037057"
+        ]
       }
     ],
     "totalCount": 31

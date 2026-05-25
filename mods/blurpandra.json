@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:53:36.554Z",
+  "checkedAt": "2026-05-25T14:12:54.902Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "Pay off your debt or face the consequences.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58863/58863-1777779073-1749251591.png",
         "uid": "429496788463",
-        "updatedAt": "2026-05-03T03:36:48Z"
+        "updatedAt": "2026-05-03T03:36:48Z",
+        "fileIds": [
+          "1000063465"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,12 @@
         "summary": "Enchanters can recharge your items for a small fee. Controller compatible.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58757/58757-1777261926-1286234638.png",
         "uid": "429496788357",
-        "updatedAt": "2026-05-02T12:08:45Z"
+        "updatedAt": "2026-05-02T12:08:45Z",
+        "fileIds": [
+          "1000063423",
+          "1000063167",
+          "1000063111"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +61,15 @@
         "summary": "(OpenMW) Shield surfing and hang gliding!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58596/58596-1775442011-802163864.png",
         "uid": "429496788196",
-        "updatedAt": "2026-05-24T14:50:20Z"
+        "updatedAt": "2026-05-24T14:50:20Z",
+        "fileIds": [
+          "1000064543",
+          "1000064240",
+          "1000063026",
+          "1000062548",
+          "1000062416",
+          "1000062399"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +85,10 @@
         "summary": "OpenMW mod that caps Creature maximum Fatigue to 5x their maximum Health. Fatigue values in the base game for Creatures are absurdly high.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58583/58583-1775317822-1445874629.png",
         "uid": "429496788183",
-        "updatedAt": "2026-04-04T05:12:48Z"
+        "updatedAt": "2026-04-04T05:12:48Z",
+        "fileIds": [
+          "1000062334"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +104,11 @@
         "summary": "An openmw mod that adds the Vivec equivalent of the doomguy status bar face.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58491/58491-1774136255-1413542441.png",
         "uid": "429496788091",
-        "updatedAt": "2026-03-22T15:23:27Z"
+        "updatedAt": "2026-03-22T15:23:27Z",
+        "fileIds": [
+          "1000061886",
+          "1000061864"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +124,15 @@
         "summary": "OpenMW mod that removes ownership of ALL items, containers, doors, and beds when Caius Cosades, Tashpi Ashibael, or Vodunius Nuccius leave Vvardenfell.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58267/58267-1771704821-1951562871.png",
         "uid": "429496787867",
-        "updatedAt": "2026-04-13T03:26:25Z"
+        "updatedAt": "2026-04-13T03:26:25Z",
+        "fileIds": [
+          "1000062631",
+          "1000062630",
+          "1000060930",
+          "1000060921",
+          "1000060919",
+          "1000060918"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +148,10 @@
         "summary": "(OpenMW) Get a disposition bonus when you have the same hat.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58132/58132-1769369171-285787124.png",
         "uid": "429496787732",
-        "updatedAt": "2026-03-12T01:54:43Z"
+        "updatedAt": "2026-03-12T01:54:43Z",
+        "fileIds": [
+          "1000061549"
+        ]
       },
       {
         "adultContent": false,
@@ -133,7 +167,11 @@
         "summary": "(OpenMW) Limit merchant Barter Gold based on your Mercantile Skill. You can now be poor in Morrowind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58126/58126-1769290702-1142721844.png",
         "uid": "429496787726",
-        "updatedAt": "2026-01-24T19:44:14Z"
+        "updatedAt": "2026-01-24T19:44:14Z",
+        "fileIds": [
+          "1000060218",
+          "1000060217"
+        ]
       },
       {
         "adultContent": false,
@@ -149,7 +187,10 @@
         "summary": "Use acidzebra's paper map in Lively Map",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58043/58043-1767566353-1295006386.png",
         "uid": "429496787643",
-        "updatedAt": "2026-01-04T22:46:38Z"
+        "updatedAt": "2026-01-04T22:46:38Z",
+        "fileIds": [
+          "1000059743"
+        ]
       },
       {
         "adultContent": false,
@@ -165,7 +206,22 @@
         "summary": "(OpenMW) Customizable 3D* Overworld Map with historic path tracing, custom stamps and notes, fog of war, stamping locations through dialogue, and support for Detect spells.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58037/58037-1767464487-156142406.png",
         "uid": "429496787637",
-        "updatedAt": "2026-03-12T06:25:10Z"
+        "updatedAt": "2026-03-12T06:25:10Z",
+        "fileIds": [
+          "1000061556",
+          "1000061423",
+          "1000061422",
+          "1000061403",
+          "1000060041",
+          "1000059949",
+          "1000059913",
+          "1000059844",
+          "1000059786",
+          "1000059765",
+          "1000059745",
+          "1000059723",
+          "1000059715"
+        ]
       },
       {
         "adultContent": false,
@@ -181,7 +237,13 @@
         "summary": "Dead simple text HUD compass.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57704/57704-1761626983-124443750.png",
         "uid": "429496787304",
-        "updatedAt": "2026-05-21T02:56:14Z"
+        "updatedAt": "2026-05-21T02:56:14Z",
+        "fileIds": [
+          "1000064376",
+          "1000058586",
+          "1000058063",
+          "1000058006"
+        ]
       },
       {
         "adultContent": false,
@@ -197,7 +259,19 @@
         "summary": "OpenMW mod that adds a perk framework.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57615/57615-1760306040-1876127394.png",
         "uid": "429496787215",
-        "updatedAt": "2026-05-20T23:54:17Z"
+        "updatedAt": "2026-05-20T23:54:17Z",
+        "fileIds": [
+          "1000064370",
+          "1000062781",
+          "1000064188",
+          "1000062550",
+          "1000058190",
+          "1000058104",
+          "1000057963",
+          "1000057946",
+          "1000057639",
+          "1000057622"
+        ]
       },
       {
         "adultContent": false,
@@ -213,7 +287,11 @@
         "summary": "OpenMW mod that toggles shaders based on FPS. It's like DFPSO, but for shaders.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57440/57440-1757700326-1397997464.png",
         "uid": "429496787040",
-        "updatedAt": "2025-09-13T17:12:48Z"
+        "updatedAt": "2025-09-13T17:12:48Z",
+        "fileIds": [
+          "1000056802",
+          "1000056769"
+        ]
       },
       {
         "adultContent": false,
@@ -229,7 +307,20 @@
         "summary": "Crunchy, tiny textures. For potatoes and aesthetics.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57378/57378-1756597341-1376447397.png",
         "uid": "429496786978",
-        "updatedAt": "2026-05-17T04:47:06Z"
+        "updatedAt": "2026-05-17T04:47:06Z",
+        "fileIds": [
+          "1000064200",
+          "1000056583",
+          "1000064198",
+          "1000064131",
+          "1000062549",
+          "1000056809",
+          "1000056666",
+          "1000056502",
+          "1000056494",
+          "1000056488",
+          "1000056480"
+        ]
       },
       {
         "adultContent": false,
@@ -245,7 +336,18 @@
         "summary": "OpenMW mod that lets you play without a mouse or analog sticks. Imagine Goldeneye x V.A.T.S. x Ocarina of Time.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57315/57315-1774216151-307250043.png",
         "uid": "429496786915",
-        "updatedAt": "2026-04-25T16:14:54Z"
+        "updatedAt": "2026-04-25T16:14:54Z",
+        "fileIds": [
+          "1000063030",
+          "1000061792",
+          "1000061424",
+          "1000061047",
+          "1000061012",
+          "1000059713",
+          "1000058603",
+          "1000056846",
+          "1000056604"
+        ]
       },
       {
         "adultContent": false,
@@ -261,7 +363,10 @@
         "summary": "Swap out your first-person vanilla hands with HD hands!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57209/57209-1753849647-675394105.png",
         "uid": "429496786809",
-        "updatedAt": "2025-07-30T04:36:33Z"
+        "updatedAt": "2025-07-30T04:36:33Z",
+        "fileIds": [
+          "1000055557"
+        ]
       },
       {
         "adultContent": false,
@@ -277,7 +382,15 @@
         "summary": "OpenMW mod that adds procedurally generated heists to the Thieves Guild.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57149/57149-1752718475-232763974.jpg",
         "uid": "429496786749",
-        "updatedAt": "2025-08-03T18:48:46Z"
+        "updatedAt": "2025-08-03T18:48:46Z",
+        "fileIds": [
+          "1000055640",
+          "1000055593",
+          "1000055511",
+          "1000055489",
+          "1000055326",
+          "1000055280"
+        ]
       },
       {
         "adultContent": false,
@@ -293,7 +406,37 @@
         "summary": "OpenMW mod that overhauls theft. No longer will NPCs forget that you were in their house when all their gems were stolen. Also introduces Trespassing.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56965/56965-1751741667-805785435.jpg",
         "uid": "429496786565",
-        "updatedAt": "2026-05-21T02:32:08Z"
+        "updatedAt": "2026-05-21T02:32:08Z",
+        "fileIds": [
+          "1000064372",
+          "1000058191",
+          "1000058064",
+          "1000057742",
+          "1000056499",
+          "1000055911",
+          "1000055790",
+          "1000055781",
+          "1000055746",
+          "1000055609",
+          "1000055592",
+          "1000055399",
+          "1000055305",
+          "1000055046",
+          "1000054970",
+          "1000054929",
+          "1000054887",
+          "1000054824",
+          "1000054711",
+          "1000054681",
+          "1000054666",
+          "1000054637",
+          "1000054635",
+          "1000054612",
+          "1000054585",
+          "1000054548",
+          "1000054522",
+          "1000054489"
+        ]
       },
       {
         "adultContent": false,
@@ -309,7 +452,14 @@
         "summary": "OpenMW mod for slow and subtle real time magicka regeneration that matches the vanilla game's resting regeneration rate.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56843/56843-1748907712-2035167419.jpeg",
         "uid": "429496786443",
-        "updatedAt": "2026-01-22T03:46:42Z"
+        "updatedAt": "2026-01-22T03:46:42Z",
+        "fileIds": [
+          "1000060159",
+          "1000056187",
+          "1000055405",
+          "1000054114",
+          "1000054053"
+        ]
       }
     ],
     "totalCount": 19

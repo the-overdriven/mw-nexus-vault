@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:56:40.651Z",
+  "checkedAt": "2026-05-25T15:07:53.540Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,21 @@
         "summary": "TES4/TES5 etc inspired, modern-ish active block and weapon parry system.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58658/58658-1776048576-1377273464.png",
         "uid": "429496788258",
-        "updatedAt": "2026-05-24T19:39:00Z"
+        "updatedAt": "2026-05-24T19:39:00Z",
+        "fileIds": [
+          "1000064553",
+          "1000064015",
+          "1000064132",
+          "1000064127",
+          "1000064086",
+          "1000064082",
+          "1000064038",
+          "1000063949",
+          "1000063936",
+          "1000063639",
+          "1000063619",
+          "1000063600"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +51,12 @@
         "summary": "Adds a message on in-game holidays and on characters birthday. Tracks character age.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58281/58281-1772491008-1346893352.png",
         "uid": "429496787881",
-        "updatedAt": "2026-05-11T16:34:24Z"
+        "updatedAt": "2026-05-11T16:34:24Z",
+        "fileIds": [
+          "1000063947",
+          "1000063851",
+          "1000063487"
+        ]
       }
     ],
     "totalCount": 2

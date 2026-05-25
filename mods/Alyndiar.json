@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:54:50.374Z",
+  "checkedAt": "2026-05-25T14:09:58.835Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,11 @@
         "summary": "Auto-zooming when focusing on items, with optional manual zooming. Focus time, zoom speed, total magnification, snap-back duration and manual activation key are all configurable through the Options->Scripts->Auto Zoom menu. Patch for",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58965/58965-1778535617-433488003.png",
         "uid": "429496788565",
-        "updatedAt": "2026-05-15T20:59:34Z"
+        "updatedAt": "2026-05-15T20:59:34Z",
+        "fileIds": [
+          "1000064154",
+          "1000063968"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +41,11 @@
         "summary": "Adds 3 spells and a teleport \"map\" to anywhere on Morrowind, including the full map of Tamriel Rebuilt.\n\nBased on Yacoby's original Fast Travel mod",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44005-0-1452989401.jpg",
         "uid": "429496773605",
-        "updatedAt": "2016-01-17T02:00:19Z"
+        "updatedAt": "2016-01-17T02:00:19Z",
+        "fileIds": [
+          "1000004941",
+          "1000004943"
+        ]
       }
     ],
     "totalCount": 2

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-05-21T00:34:01.845Z",
+  "checkedAt": "2026-05-25T15:21:38.254Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 8
       }
     },
     "nodes": [
@@ -51,8 +51,27 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2022-05-03T10:07:37Z",
+        "fileSize": 7826,
+        "modCategory": {
+          "categoryId": 12,
+          "name": "Official Plugins"
+        },
+        "modId": 51107,
+        "name": "Bethesda Official Plugins Naturalized",
+        "status": "published",
+        "summary": "Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51107/51107-1651570661-441698538.png",
+        "uid": "429496780707",
+        "updatedAt": "2026-05-21T10:56:06Z",
+        "fileIds": [
+          "1000064399"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2022-01-16T01:40:08Z",
-        "fileSize": 62942,
+        "fileSize": 64839,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -63,16 +82,16 @@
         "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts list, while adding more quests, items, and artifacts that",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
         "uid": "429496780247",
-        "updatedAt": "2026-05-18T11:29:37Z",
+        "updatedAt": "2026-05-24T22:29:47Z",
         "fileIds": [
-          "1000064258",
-          "1000064253"
+          "1000064559",
+          "1000064452"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2019-02-02T21:48:47Z",
-        "fileSize": 492,
+        "fileSize": 276,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -83,48 +102,51 @@
         "summary": "Lots of various mods, from fixes to new models. Some things are pulled from my other mods, but many of the files here are unreleased mods of mine that have been recreated and improved. There are also a few brand-new mods that I didn't think",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46364/46364-1549142072-1771714646.png",
         "uid": "429496775964",
-        "updatedAt": "2026-05-18T23:20:21Z",
+        "updatedAt": "2026-05-21T06:50:26Z",
         "fileIds": [
-          "1000064293",
-          "1000015940",
-          "1000020901",
+          "1000064378",
+          "1000064380",
           "1000064295",
           "1000064290",
           "1000064288",
-          "1000020958",
+          "1000064389",
+          "1000064387",
+          "1000064386",
           "1000064300",
           "1000064299",
           "1000064298",
           "1000064297",
           "1000064294",
-          "1000064292",
-          "1000064291",
           "1000030303",
           "1000030302",
           "1000015939",
           "1000015782",
           "1000013511",
-          "1000013361",
           "1000013355",
           "1000013353",
-          "1000013351"
+          "1000013351",
+          "1000064292",
+          "1000064291"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2018-05-05T02:52:27Z",
-        "fileSize": 70,
+        "fileSize": 6404,
         "modCategory": {
           "categoryId": 7,
           "name": "Items, Objects, and Clothes"
         },
         "modId": 45631,
-        "name": "PikachunoTMs Mesh Artifact Improvements and Replacers",
+        "name": "PikachunoTMs Artifact Mesh Improvements",
         "status": "published",
         "summary": "Replaces a lot of the vanilla (plus Tribunal and Bloodmoon) meshes with scratch-built versions with fixed uvs and better shaping. Includes an optional add-on that provides the Bloodskal Blade with a unique mesh and textures!",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45631/45631-1544834775-1961814526.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45631/45631-1525487631-895042698.png",
         "uid": "429496775231",
-        "updatedAt": "2018-12-15T00:45:36Z"
+        "updatedAt": "2026-05-21T06:30:32Z",
+        "fileIds": [
+          "1000064385"
+        ]
       },
       {
         "adultContent": false,
@@ -162,6 +184,6 @@
         ]
       }
     ],
-    "totalCount": 7
+    "totalCount": 8
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:51:49.794Z",
+  "checkedAt": "2026-05-25T15:47:21.570Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,13 @@
         "summary": "This mod replaces the book/scroll in-game UI with a custom one mimicking the vanilla game look, but with additional expansions, like adjustable size.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55126/55126-1723733240-1118755830.png",
         "uid": "429496784726",
-        "updatedAt": "2025-11-18T21:19:29Z"
+        "updatedAt": "2025-11-18T21:19:29Z",
+        "fileIds": [
+          "1000058495",
+          "1000058430",
+          "1000046797",
+          "1000046760"
+        ]
       }
     ],
     "totalCount": 1

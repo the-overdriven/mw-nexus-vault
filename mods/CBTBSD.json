@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:57:12.826Z",
+  "checkedAt": "2026-05-25T14:19:12.464Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,11 @@
         "summary": "Toggle light source items with a single button press!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56995/56995-1750591717-656426233.png",
         "uid": "429496786595",
-        "updatedAt": "2025-06-23T20:32:00Z"
+        "updatedAt": "2025-06-23T20:32:00Z",
+        "fileIds": [
+          "1000054658",
+          "1000054617"
+        ]
       }
     ],
     "totalCount": 1

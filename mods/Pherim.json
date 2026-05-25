@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T00:34:01.646Z",
+  "checkedAt": "2026-05-25T15:18:00.071Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -66,7 +66,11 @@
         "summary": "Configurable Hotkeys for effects-based potion usage",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54036/54036-1706005903-197489416.png",
         "uid": "429496783636",
-        "updatedAt": "2024-01-24T09:03:45Z"
+        "updatedAt": "2024-01-24T09:03:45Z",
+        "fileIds": [
+          "1000042266",
+          "1000042240"
+        ]
       },
       {
         "adultContent": false,
@@ -82,7 +86,10 @@
         "summary": "Guess what - it's a mesh replacer for atronachs!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51617/51617-1658052837-1797223779.jpeg",
         "uid": "429496781217",
-        "updatedAt": "2022-07-17T10:27:31Z"
+        "updatedAt": "2022-07-17T10:27:31Z",
+        "fileIds": [
+          "1000032216"
+        ]
       },
       {
         "adultContent": false,
@@ -98,7 +105,10 @@
         "summary": "Smoothed and more detailed mesh for the Daedroth.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51542/51542-1656272489-687874958.jpeg",
         "uid": "429496781142",
-        "updatedAt": "2022-06-26T22:22:51Z"
+        "updatedAt": "2022-06-26T22:22:51Z",
+        "fileIds": [
+          "1000031876"
+        ]
       },
       {
         "adultContent": false,
@@ -114,7 +124,12 @@
         "summary": "Wibbly-wobbly timey-wimey!Dwemer Puzzle Box replacer inspired by Doctor Who. Also includes a TARDIS mesh resource.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48025/48025-1589395934-1017862968.jpeg",
         "uid": "429496777625",
-        "updatedAt": "2020-05-14T05:57:41Z"
+        "updatedAt": "2020-05-14T05:57:41Z",
+        "fileIds": [
+          "1000018553",
+          "1000018534",
+          "1000018537"
+        ]
       },
       {
         "adultContent": false,
@@ -154,14 +169,14 @@
         "uid": "429496777520",
         "updatedAt": "2026-02-27T17:17:32Z",
         "fileIds": [
-          "1000058265",
-          "1000018527",
           "1000061098",
-          "1000018288",
+          "1000058265",
           "1000041164",
+          "1000018527",
+          "1000018288",
           "1000049950",
-          "1000041163",
-          "1000041176"
+          "1000041176",
+          "1000041163"
         ]
       },
       {
@@ -182,8 +197,8 @@
         "fileIds": [
           "1000049787",
           "1000049951",
-          "1000018283",
-          "1000018560"
+          "1000018560",
+          "1000018283"
         ]
       },
       {
@@ -200,7 +215,11 @@
         "summary": "Replaces Chitin, Bonemold, Dreugh, and other \"organic\" weapon meshes.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47892/47892-1588227099-1031196377.png",
         "uid": "429496777492",
-        "updatedAt": "2023-02-06T15:49:00Z"
+        "updatedAt": "2023-02-06T15:49:00Z",
+        "fileIds": [
+          "1000018190",
+          "1000035303"
+        ]
       },
       {
         "adultContent": false,
@@ -216,7 +235,13 @@
         "summary": "Smooth mesh replacer for the Ogrim.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47829/47829-1587029256-1747262136.jpeg",
         "uid": "429496777429",
-        "updatedAt": "2020-04-24T04:40:14Z"
+        "updatedAt": "2020-04-24T04:40:14Z",
+        "fileIds": [
+          "1000018120",
+          "1000018121",
+          "1000017991",
+          "1000017990"
+        ]
       },
       {
         "adultContent": false,
@@ -232,7 +257,11 @@
         "summary": "Keeps the girls in Desele's from dancing off the stage by making them not greet the player as he approaches them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47738/47738-1585409768-1242601729.jpeg",
         "uid": "429496777338",
-        "updatedAt": "2020-04-15T09:08:44Z"
+        "updatedAt": "2020-04-15T09:08:44Z",
+        "fileIds": [
+          "1000017974",
+          "1000017973"
+        ]
       },
       {
         "adultContent": false,
@@ -248,7 +277,12 @@
         "summary": "Improved meshes with HD textures for the forge, bellows, spearholder and anvil. Optional animated bellows model with optional sounds.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46738/46738-1557495868-826250393.jpeg",
         "uid": "429496776338",
-        "updatedAt": "2023-07-24T08:26:35Z"
+        "updatedAt": "2023-07-24T08:26:35Z",
+        "fileIds": [
+          "1000039316",
+          "1000016995",
+          "1000014473"
+        ]
       },
       {
         "adultContent": false,
@@ -267,10 +301,10 @@
         "updatedAt": "2025-04-27T19:34:01Z",
         "fileIds": [
           "1000014905",
-          "1000014926",
-          "1000020616",
           "1000052145",
           "1000043869",
+          "1000020616",
+          "1000014926",
           "1000052144",
           "1000013973"
         ]
@@ -289,7 +323,11 @@
         "summary": "A mesh and texture replacer for the Gold Armor from LeFemm Armor and Expanded LeFemm Armor. Includes Fixed Plugin for Expanded LeFemm Armor in English, Russian, and German.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46372/46372-1549557095-1664146086.jpeg",
         "uid": "429496775972",
-        "updatedAt": "2020-04-08T09:10:52Z"
+        "updatedAt": "2020-04-08T09:10:52Z",
+        "fileIds": [
+          "1000017842",
+          "1000013406"
+        ]
       },
       {
         "adultContent": false,
@@ -305,7 +343,11 @@
         "summary": "Improved version of \"Better Skulls\" by tronvillain & nONatee.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46012/46012-1536076887-1955664208.jpeg",
         "uid": "429496775612",
-        "updatedAt": "2020-03-11T06:43:11Z"
+        "updatedAt": "2020-03-11T06:43:11Z",
+        "fileIds": [
+          "1000015477",
+          "1000017468"
+        ]
       },
       {
         "adultContent": false,
@@ -321,7 +363,13 @@
         "summary": "Pluto & Charon Textures for Masser & Secunda",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45705/45705-1527361581-1859161332.png",
         "uid": "429496775305",
-        "updatedAt": "2018-06-01T20:02:58Z"
+        "updatedAt": "2018-06-01T20:02:58Z",
+        "fileIds": [
+          "1000010403",
+          "1000010402",
+          "1000010401",
+          "1000010321"
+        ]
       },
       {
         "adultContent": false,
@@ -339,27 +387,27 @@
         "uid": "429496773921",
         "updatedAt": "2026-03-23T16:36:38Z",
         "fileIds": [
-          "1000005852",
           "1000061901",
-          "1000041953",
-          "1000017461",
-          "1000005856",
-          "1000006596",
-          "1000016892",
           "1000047899",
-          "1000014115",
+          "1000041953",
           "1000018014",
+          "1000017461",
+          "1000016892",
+          "1000014115",
           "1000006838",
-          "1000042860",
-          "1000044183",
+          "1000006596",
+          "1000005856",
+          "1000005852",
           "1000051682",
+          "1000044183",
+          "1000042860",
           "1000042522",
-          "1000047531",
           "1000058250",
+          "1000047531",
           "1000061301",
           "1000058251",
-          "1000014084",
-          "1000044182"
+          "1000044182",
+          "1000014084"
         ]
       },
       {
@@ -398,7 +446,11 @@
         "summary": "A mesh and texture replacer for the kwama eggs and egg sacs with optional pulsing animation and bump maps.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43555-1-1427867642.jpg",
         "uid": "429496773155",
-        "updatedAt": "2015-04-01T07:18:21Z"
+        "updatedAt": "2015-04-01T07:18:21Z",
+        "fileIds": [
+          "1000003627",
+          "1000003626"
+        ]
       },
       {
         "adultContent": false,
@@ -435,7 +487,11 @@
         "summary": "Ever wanted to make your own bow for Morrowind, but didn't know how to do the animation? Now you can.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43333-3-1415694781.jpg",
         "uid": "429496772933",
-        "updatedAt": "2014-11-11T08:41:59Z"
+        "updatedAt": "2014-11-11T08:41:59Z",
+        "fileIds": [
+          "1000003029",
+          "1000003028"
+        ]
       },
       {
         "adultContent": false,
@@ -451,7 +507,13 @@
         "summary": "New and more detailed meshes for all steel weapons.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43120-1-1400659691.jpg",
         "uid": "429496772720",
-        "updatedAt": "2019-08-10T20:12:19Z"
+        "updatedAt": "2019-08-10T20:12:19Z",
+        "fileIds": [
+          "1000002995",
+          "1000015386",
+          "1000011216",
+          "1000002998"
+        ]
       },
       {
         "adultContent": false,
@@ -467,7 +529,14 @@
         "summary": "A realistic replacer for the iron weapon meshes and textures with bump maps and reflection maps.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43077/43077-1585135166-441882334.jpeg",
         "uid": "429496772677",
-        "updatedAt": "2020-04-02T05:42:36Z"
+        "updatedAt": "2020-04-02T05:42:36Z",
+        "fileIds": [
+          "1000017669",
+          "1000017668",
+          "1000017759",
+          "1000015398",
+          "1000002910"
+        ]
       },
       {
         "adultContent": false,
@@ -483,7 +552,11 @@
         "summary": "English and  German Version\n\nMakes the Boots of Blinding Speed less overpowered by removing their effect when the player has a weapon drawn, his hands raised to cast a spell or sneaks.",
         "thumbnailUrl": null,
         "uid": "429496772627",
-        "updatedAt": "2014-02-03T20:20:38Z"
+        "updatedAt": "2014-02-03T20:20:38Z",
+        "fileIds": [
+          "1000002287",
+          "1000002286"
+        ]
       },
       {
         "adultContent": false,
@@ -499,7 +572,10 @@
         "summary": "A replacer for the hackle-lo plant with corrected meshes and improved textures",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42784-1-1381387933.jpg",
         "uid": "429496772384",
-        "updatedAt": "2014-03-08T21:12:18Z"
+        "updatedAt": "2014-03-08T21:12:18Z",
+        "fileIds": [
+          "1000002358"
+        ]
       },
       {
         "adultContent": false,
@@ -515,7 +591,17 @@
         "summary": "A replacer for the comberry bush with real 3D branches and berries.Now with new mesh and optional vanilla style textures",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42586/42586-1527397151-1821991569.jpeg",
         "uid": "429496772186",
-        "updatedAt": "2018-11-27T12:53:15Z"
+        "updatedAt": "2018-11-27T12:53:15Z",
+        "fileIds": [
+          "1000012640",
+          "1000008404",
+          "1000010868",
+          "1000008403",
+          "1000002357",
+          "1000000646",
+          "1000000591",
+          "1000000582"
+        ]
       }
     ],
     "totalCount": 27

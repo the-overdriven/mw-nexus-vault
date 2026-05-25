@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:53:31.322Z",
+  "checkedAt": "2026-05-25T15:32:53.834Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -22,7 +22,17 @@
         "summary": "Equalises all attack values (chop, slash, thrust) in the game and it's expansions so that you can access all animations in the game as you fight, but they all do the same damage. Optional Versions for Patch for purists.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58951/58951-1778401868-431286151.png",
         "uid": "429496788551",
-        "updatedAt": "2026-05-11T08:52:30Z"
+        "updatedAt": "2026-05-11T08:52:30Z",
+        "fileIds": [
+          "1000063882",
+          "1000063881",
+          "1000063880",
+          "1000063929",
+          "1000063930",
+          "1000063927",
+          "1000063926",
+          "1000063879"
+        ]
       },
       {
         "adultContent": false,
@@ -38,7 +48,17 @@
         "summary": "OpenMW Engine Fork and Open MW Mod which adds lua scripts that track failed skillusages. In game script menu to adjust accordingly.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58893/58893-1777992156-1971202753.png",
         "uid": "429496788493",
-        "updatedAt": "2026-05-08T12:15:58Z"
+        "updatedAt": "2026-05-08T12:15:58Z",
+        "fileIds": [
+          "1000063800",
+          "1000063799",
+          "1000063781",
+          "1000063778",
+          "1000063777",
+          "1000063682",
+          "1000063679",
+          "1000063652"
+        ]
       }
     ],
     "totalCount": 2

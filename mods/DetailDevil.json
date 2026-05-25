@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T00:31:42.848Z",
+  "checkedAt": "2026-05-25T14:25:31.458Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -60,11 +60,12 @@
         "summary": "Makes most smaller animals non-hostile such as crabs, rats, bats, foragers and makes the remaining hostile enemies warn you before they attack. This mods supports Morrowind, Bloodmoon, Tribunal, Tamriel Rebuilt, Project Tamriel creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58083/58083-1768249499-1887393527.png",
         "uid": "429496787683",
-        "updatedAt": "2026-03-24T22:56:50Z",
+        "updatedAt": "2026-05-23T21:18:56Z",
         "fileIds": [
+          "1000064503",
           "1000061943",
-          "1000059976",
-          "1000060084"
+          "1000060084",
+          "1000059976"
         ]
       },
       {

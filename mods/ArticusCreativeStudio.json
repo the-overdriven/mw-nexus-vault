@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T00:30:58.099Z",
+  "checkedAt": "2026-05-25T14:10:50.257Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-18T10:09:43Z",
-        "fileSize": 63076,
+        "fileSize": 63555,
         "modCategory": {
           "categoryId": 31,
           "name": "Weapons"
@@ -21,9 +21,9 @@
         "summary": "Replaces Iron and Steel weapons with new HQ models and textures (2K/1K). All you need is to copy conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59026/59026-1779098744-959689587.png",
         "uid": "429496788626",
-        "updatedAt": "2026-05-19T07:34:31Z",
+        "updatedAt": "2026-05-21T20:39:31Z",
         "fileIds": [
-          "1000064305"
+          "1000064407"
         ]
       },
       {

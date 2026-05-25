@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:57:20.094Z",
+  "checkedAt": "2026-05-25T15:26:56.191Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -22,7 +22,12 @@
         "summary": "Unsandboxed LuaJIT for OpenMW. The boundary was marked. The marker is cracked. Install it, accept the risk, and make something they said you couldn't.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58557/58557-1775017530-766544269.jpg",
         "uid": "429496788157",
-        "updatedAt": "2026-04-01T04:49:54Z"
+        "updatedAt": "2026-04-01T04:49:54Z",
+        "fileIds": [
+          "1000062213",
+          "1000062212",
+          "1000062211"
+        ]
       },
       {
         "adultContent": false,
@@ -38,7 +43,12 @@
         "summary": "An improved fork of LuaJIT with additional bugfixes and features not included by OpenMW itself or MWSE.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58367/58367-1772859397-470498322.png",
         "uid": "429496787967",
-        "updatedAt": "2026-03-07T05:03:26Z"
+        "updatedAt": "2026-03-07T05:03:26Z",
+        "fileIds": [
+          "1000061373",
+          "1000061372",
+          "1000061371"
+        ]
       },
       {
         "adultContent": false,
@@ -54,7 +64,10 @@
         "summary": "Fixes dozens of bugs and performance problems in Starwind, brought to you by years of testing from the TSI multiplayer community.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58027/58027-1767314726-2058502096.png",
         "uid": "429496787627",
-        "updatedAt": "2026-01-02T00:45:35Z"
+        "updatedAt": "2026-01-02T00:45:35Z",
+        "fileIds": [
+          "1000059661"
+        ]
       },
       {
         "adultContent": false,
@@ -70,7 +83,10 @@
         "summary": "Dark Souls Style target locking framework for OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57703/57703-1761618343-1717134229.png",
         "uid": "429496787303",
-        "updatedAt": "2025-10-28T02:42:44Z"
+        "updatedAt": "2025-10-28T02:42:44Z",
+        "fileIds": [
+          "1000058005"
+        ]
       },
       {
         "adultContent": false,
@@ -86,7 +102,15 @@
         "summary": "Command-line tool for introspecting OpenMW installations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57512/57512-1758947882-1508162656.png",
         "uid": "429496787112",
-        "updatedAt": "2025-10-03T03:16:31Z"
+        "updatedAt": "2025-10-03T03:16:31Z",
+        "fileIds": [
+          "1000057321",
+          "1000057320",
+          "1000057319",
+          "1000057137",
+          "1000057136",
+          "1000057135"
+        ]
       },
       {
         "adultContent": false,
@@ -102,7 +126,20 @@
         "summary": "The ultimate light-fixing utility for OpenMW installations. Written in Rust, cross-platform, and beyond customizable.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57511/57511-1758947023-1389570336.png",
         "uid": "429496787111",
-        "updatedAt": "2026-05-04T19:13:31Z"
+        "updatedAt": "2026-05-04T19:13:31Z",
+        "fileIds": [
+          "1000063613",
+          "1000063612",
+          "1000063611",
+          "1000063610",
+          "1000063272",
+          "1000057318",
+          "1000057317",
+          "1000057316",
+          "1000057132",
+          "1000057131",
+          "1000057130"
+        ]
       },
       {
         "adultContent": false,
@@ -118,7 +155,10 @@
         "summary": "OpenMW-Lua framework for creating pluginless mesh replacers without load order or patch hassle.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57282/57282-1754999832-1467134674.png",
         "uid": "429496786882",
-        "updatedAt": "2025-08-16T18:38:17Z"
+        "updatedAt": "2025-08-16T18:38:17Z",
+        "fileIds": [
+          "1000056000"
+        ]
       },
       {
         "adultContent": false,
@@ -134,7 +174,10 @@
         "summary": "Hundreds of handmade new icons, based on Bethesda's beta ones and reimagined in a more vibrant color palette.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57126/57126-1752216605-802059966.png",
         "uid": "429496786726",
-        "updatedAt": "2025-07-11T08:40:34Z"
+        "updatedAt": "2025-07-11T08:40:34Z",
+        "fileIds": [
+          "1000055162"
+        ]
       },
       {
         "adultContent": false,
@@ -150,7 +193,10 @@
         "summary": "Toggle/Hold zoom bindings with high degree of mod interoperability.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57125/57125-1752215703-1163730294.png",
         "uid": "429496786725",
-        "updatedAt": "2025-07-11T08:33:35Z"
+        "updatedAt": "2025-07-11T08:33:35Z",
+        "fileIds": [
+          "1000055161"
+        ]
       },
       {
         "adultContent": false,
@@ -166,7 +212,13 @@
         "summary": "S3maphore is a replacement both for OpenMW's built-in music management system and Dynamic Music, with a focus on flexibility and performance. Your music, like you'd never get it anywhere else. (And also faster)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56836/56836-1748865326-1226979087.png",
         "uid": "429496786436",
-        "updatedAt": "2025-10-03T02:18:17Z"
+        "updatedAt": "2025-10-03T02:18:17Z",
+        "fileIds": [
+          "1000057315",
+          "1000057303",
+          "1000055349",
+          "1000054148"
+        ]
       },
       {
         "adultContent": false,
@@ -182,7 +234,10 @@
         "summary": "Opt-in replacement for the `openmw.self` module with better ergonomics and performance, along with some additional convenience functions for generating Image Atlasses, tracking objects with the camera, and ported C++ code from OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56417/56417-1761344047-235718333.png",
         "uid": "429496786017",
-        "updatedAt": "2025-10-24T22:14:52Z"
+        "updatedAt": "2025-10-24T22:14:52Z",
+        "fileIds": [
+          "1000057910"
+        ]
       },
       {
         "adultContent": false,
@@ -198,7 +253,10 @@
         "summary": "The long awaited Lua sequel to CHIM - Movement and Stamina. Climbing module only!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56296/56296-1743721499-159909665.png",
         "uid": "429496785896",
-        "updatedAt": "2025-04-03T23:09:30Z"
+        "updatedAt": "2025-04-03T23:09:30Z",
+        "fileIds": [
+          "1000051685"
+        ]
       },
       {
         "adultContent": false,
@@ -214,7 +272,10 @@
         "summary": "Find a worn-down mage's attempt at their own offshoot of the Mages' Guild. Explore new, unknown dimensions, rebuild the Arcane Academy of Venarius, and find all the secrets the school has to offer!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53675/53675-1698806302-45166289.png",
         "uid": "429496783275",
-        "updatedAt": "2023-11-01T10:42:04Z"
+        "updatedAt": "2023-11-01T10:42:04Z",
+        "fileIds": [
+          "1000040739"
+        ]
       }
     ],
     "totalCount": 13

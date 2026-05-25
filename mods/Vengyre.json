@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:54:11.325Z",
+  "checkedAt": "2026-05-25T15:49:20.303Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -22,7 +22,11 @@
         "summary": "Changes weapon damage values for all strike types to the best one. Like using \"Always use best strike\" option, but with various animations. Requires MWSE.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52424/52424-1677596216-794301031.png",
         "uid": "429496782024",
-        "updatedAt": "2023-02-28T16:15:40Z"
+        "updatedAt": "2023-02-28T16:15:40Z",
+        "fileIds": [
+          "1000036202",
+          "1000036200"
+        ]
       },
       {
         "adultContent": false,
@@ -38,7 +42,10 @@
         "summary": "Get accustomed to armor by moving around with it. Slowly level armor while moving at low skill. Highly configurable. Requires MWSE.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51741/51741-1660658827-540862823.jpeg",
         "uid": "429496781341",
-        "updatedAt": "2022-08-16T14:19:07Z"
+        "updatedAt": "2022-08-16T14:19:07Z",
+        "fileIds": [
+          "1000032674"
+        ]
       },
       {
         "adultContent": false,
@@ -54,7 +61,24 @@
         "summary": "MWSE-lua magic overhaul. Features reworked spell chances and costs with unique formulas for single and multi-effect spells, Illusion effects overhaul, effect synergies, spell rebalance, unique spells, reworked experience gain, Magicka",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51636/51636-1658396860-1168314737.png",
         "uid": "429496781236",
-        "updatedAt": "2025-02-08T16:58:32Z"
+        "updatedAt": "2025-02-08T16:58:32Z",
+        "fileIds": [
+          "1000050163",
+          "1000045957",
+          "1000045593",
+          "1000039959",
+          "1000038488",
+          "1000037064",
+          "1000036151",
+          "1000032656",
+          "1000032612",
+          "1000032553",
+          "1000032478",
+          "1000032442",
+          "1000032392",
+          "1000032330",
+          "1000032287"
+        ]
       },
       {
         "adultContent": false,
@@ -70,7 +94,10 @@
         "summary": "Removes the random chance to fail your spells, in a hopefully balanced way. You are either guaranteed to succeed or to fail, depending on a spell difficulty. Affected by Fatigue.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48470/48470-1593354315-972417477.jpeg",
         "uid": "429496778070",
-        "updatedAt": "2020-06-28T14:36:10Z"
+        "updatedAt": "2020-06-28T14:36:10Z",
+        "fileIds": [
+          "1000019596"
+        ]
       }
     ],
     "totalCount": 4

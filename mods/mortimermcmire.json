@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-05-21T00:33:52.555Z",
+  "checkedAt": "2026-05-25T15:07:38.110Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 27,
         "2176": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-24T04:47:07Z",
+        "fileSize": 37,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59077,
+        "name": "Tamriel Rebuilt - Museum of Artifacts",
+        "status": "published",
+        "summary": "Greatly expands the Museum of Artifacts with 42 new vanilla and Tamriel Rebuilt items recreated from past TES games like Arena, Daggerfall, Redguard, and Battlespire.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59077/59077-1779595830-2036580850.png",
+        "uid": "429496788677",
+        "updatedAt": "2026-05-24T04:47:07Z",
+        "fileIds": [
+          "1000064514"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-06T05:04:13Z",
@@ -158,9 +177,9 @@
         "summary": "A fully customizable leveling mod that removes the level-up screen entirely. Never worry about min/maxing skill ups ever again. The functionality of GCD/MADD, but fully customizable and conflict-free. Play how you want, and leave leveling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47452/47452-1577556576-713815768.png",
         "uid": "429496777052",
-        "updatedAt": "2026-05-07T16:44:43Z",
+        "updatedAt": "2026-05-24T22:09:47Z",
         "fileIds": [
-          "1000063759",
+          "1000064556",
           "1000024309",
           "1000018936",
           "1000016965",
@@ -484,6 +503,6 @@
         "updatedAt": "2017-04-03T23:54:59Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

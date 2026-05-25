@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T00:34:43.079Z",
+  "checkedAt": "2026-05-25T15:22:09.585Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,12 @@
         "summary": "An MWSE / OMW plugin that modifies View Distance at runtime based on framerate or user defined parameters.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55216/55216-1742578212-799917980.png",
         "uid": "429496784816",
-        "updatedAt": "2025-03-24T07:38:53Z"
+        "updatedAt": "2025-03-24T07:38:53Z",
+        "fileIds": [
+          "1000049709",
+          "1000051463",
+          "1000047235"
+        ]
       }
     ],
     "totalCount": 1

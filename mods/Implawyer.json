@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:56:19.267Z",
+  "checkedAt": "2026-05-25T14:44:36.753Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "Free up some controller keybinds",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57960/57960-1766285824-1962578773.jpg",
         "uid": "429496787560",
-        "updatedAt": "2025-12-21T04:20:10Z"
+        "updatedAt": "2025-12-21T04:20:10Z",
+        "fileIds": [
+          "1000059384"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,12 @@
         "summary": "Adds UI window to give items, teach spells, feed, and dress up your favorite npc",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57955/57955-1767014791-1805458305.jpg",
         "uid": "429496787555",
-        "updatedAt": "2025-12-31T10:49:39Z"
+        "updatedAt": "2025-12-31T10:49:39Z",
+        "fileIds": [
+          "1000059626",
+          "1000059577",
+          "1000059383"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +61,15 @@
         "summary": "Save and switch between different loadouts.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57845/57845-1769103869-1412361353.png",
         "uid": "429496787445",
-        "updatedAt": "2026-02-09T17:43:01Z"
+        "updatedAt": "2026-02-09T17:43:01Z",
+        "fileIds": [
+          "1000060586",
+          "1000060170",
+          "1000059389",
+          "1000058875",
+          "1000058838",
+          "1000058792"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +85,17 @@
         "summary": "Inventory text list + Quick stack to nearby containers",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57730/57730-1762190557-975578875.jpg",
         "uid": "429496787330",
-        "updatedAt": "2025-12-21T04:10:31Z"
+        "updatedAt": "2025-12-21T04:10:31Z",
+        "fileIds": [
+          "1000059387",
+          "1000058861",
+          "1000058745",
+          "1000058447",
+          "1000058246",
+          "1000058228",
+          "1000058196",
+          "1000058131"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +111,10 @@
         "summary": "knockback enemies on hit.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57721/57721-1762098470-626450555.jpg",
         "uid": "429496787321",
-        "updatedAt": "2025-11-02T18:51:42Z"
+        "updatedAt": "2025-11-02T18:51:42Z",
+        "fileIds": [
+          "1000058118"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +130,13 @@
         "summary": "Adds damage numbers and some other feedbacks so you know for sure when you have hit/killed something",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57548/57548-1759581736-2010742051.jpg",
         "uid": "429496787148",
-        "updatedAt": "2025-10-25T04:19:55Z"
+        "updatedAt": "2025-10-25T04:19:55Z",
+        "fileIds": [
+          "1000057917",
+          "1000057534",
+          "1000057422",
+          "1000057348"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +152,14 @@
         "summary": "Adds UI interface which allows bookmarking spells for easy and quick access.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57501/57501-1762540857-1183371173.png",
         "uid": "429496787101",
-        "updatedAt": "2025-12-21T04:11:56Z"
+        "updatedAt": "2025-12-21T04:11:56Z",
+        "fileIds": [
+          "1000059388",
+          "1000058744",
+          "1000058225",
+          "1000057670",
+          "1000057107"
+        ]
       }
     ],
     "totalCount": 7

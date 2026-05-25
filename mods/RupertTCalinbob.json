@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:58:27.110Z",
+  "checkedAt": "2026-05-25T15:24:18.153Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,11 @@
         "summary": "Adds left-handed \"weapons\" that block like shields, based on standard weapons. Uses new meshes that are adjusted to fit into the character's hand. One-handed versions of two-handed weapons ( claymores, etc. ) added for weapon pairings. 83",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53464/53464-1693828405-758451335.jpeg",
         "uid": "429496783064",
-        "updatedAt": "2023-09-04T12:25:23Z"
+        "updatedAt": "2023-09-04T12:25:23Z",
+        "fileIds": [
+          "1000040041",
+          "1000040042"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +41,11 @@
         "summary": "Adds 16 shields to the game,  representing the Daedra lords. Introduces an NPC to sell the new items. Unique enchantments and icon art.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53357/53357-1692395584-1886745793.png",
         "uid": "429496782957",
-        "updatedAt": "2023-08-12T14:14:10Z"
+        "updatedAt": "2023-08-12T14:14:10Z",
+        "fileIds": [
+          "1000039714",
+          "1000039715"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +61,11 @@
         "summary": "Introduces 5 Black Knight Weapons: large, heavy obsidian weapons that may be wielded by Skeleton Champions. These Champions now also summon a skeleton to their aid, much like the Skeleton Heroes from Oblivion.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52173/52173-1673746748-403931757.png",
         "uid": "429496781773",
-        "updatedAt": "2023-01-15T01:47:11Z"
+        "updatedAt": "2023-01-15T01:47:11Z",
+        "fileIds": [
+          "1000034617",
+          "1000034618"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +81,12 @@
         "summary": "Introduces 23 new \"Orc,\" or Orsimer weapons, and adds them to the random_iron_weapon list at level 5, so that skeletons may have these melee weapons at higher levels. Skeleton Archers now have varied ranged weapons, bonemold arrows and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52160/52160-1673580946-1378061312.png",
         "uid": "429496781760",
-        "updatedAt": "2023-01-13T01:50:03Z"
+        "updatedAt": "2023-01-13T01:50:03Z",
+        "fileIds": [
+          "1000034585",
+          "1000034586",
+          "1000034574"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +102,11 @@
         "summary": "Introduces 21 new minor powers, each intended as \"balanced buffs\" for all 21 vanilla classes. They are based on their in-game descriptions. Creates a new merchant NPC Tandrea Andalen to sell them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52143/52143-1673301710-1529455363.png",
         "uid": "429496781743",
-        "updatedAt": "2023-01-07T16:40:51Z"
+        "updatedAt": "2023-01-07T16:40:51Z",
+        "fileIds": [
+          "1000034511",
+          "1000034512"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +122,15 @@
         "summary": "Adds 18 enchantable wizard staves to the game, obtainable as loot in-game from bonewalkers. These are retextures of vanilla staves, with various textures such as wood, chitin, bonemold, cloth, and various other materials.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52109/52109-1672423444-1396183255.png",
         "uid": "429496781709",
-        "updatedAt": "2023-01-16T15:48:35Z"
+        "updatedAt": "2023-01-16T15:48:35Z",
+        "fileIds": [
+          "1000034645",
+          "1000034646",
+          "1000034373",
+          "1000034594",
+          "1000034593",
+          "1000034372"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +146,13 @@
         "summary": "Adds 27 perpetually-lit light sources: lanterns, torches, and candles in various colors. Available for purchase from a new merchant NPC in the smuggler's den Addamasartus.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52102/52102-1672085192-131618865.png",
         "uid": "429496781702",
-        "updatedAt": "2023-01-13T18:19:37Z"
+        "updatedAt": "2023-01-13T18:19:37Z",
+        "fileIds": [
+          "1000034592",
+          "1000034591",
+          "1000034460",
+          "1000034312"
+        ]
       },
       {
         "adultContent": false,
@@ -133,7 +168,17 @@
         "summary": "Introduces new birthsigns based on Daedric princes, intended for challenge or roleplay runs. Whether your character chooses to embrace their fate or fight it, they can never forget their past. Does not replace or change vanilla birthsigns.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52051/52051-1671205225-1231493992.png",
         "uid": "429496781651",
-        "updatedAt": "2023-01-22T15:26:49Z"
+        "updatedAt": "2023-01-22T15:26:49Z",
+        "fileIds": [
+          "1000034761",
+          "1000034762",
+          "1000034218",
+          "1000034217",
+          "1000034179",
+          "1000034128",
+          "1000034127",
+          "1000034113"
+        ]
       },
       {
         "adultContent": false,
@@ -149,7 +194,11 @@
         "summary": "Reduces the spawn time for most creatures from 72 hours to 1 hour in game, or 2 minutes in real time.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52017/52017-1670013419-1379235221.png",
         "uid": "429496781617",
-        "updatedAt": "2022-12-02T20:37:46Z"
+        "updatedAt": "2022-12-02T20:37:46Z",
+        "fileIds": [
+          "1000033942",
+          "1000033943"
+        ]
       },
       {
         "adultContent": false,
@@ -165,7 +214,12 @@
         "summary": "Creates \"new\" two-handed weapons, inlcuding one-handed clubs, axes, short swords, and broadswords. Damage, reach, and speed adjusted. Find the new loot in smuggler's dens and shops.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52009/52009-1669920369-1705231256.png",
         "uid": "429496781609",
-        "updatedAt": "2022-12-09T17:13:22Z"
+        "updatedAt": "2022-12-09T17:13:22Z",
+        "fileIds": [
+          "1000034080",
+          "1000034081",
+          "1000033923"
+        ]
       },
       {
         "adultContent": false,
@@ -181,7 +235,13 @@
         "summary": "One-handed versions of two-handed weapons are added to the game: bastard swords, greathammers, axes and more. Speed, damage, and reach adjusted.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52007/52007-1669834252-83729042.png",
         "uid": "429496781607",
-        "updatedAt": "2022-12-07T15:54:39Z"
+        "updatedAt": "2022-12-07T15:54:39Z",
+        "fileIds": [
+          "1000034048",
+          "1000034049",
+          "1000033905",
+          "1000033904"
+        ]
       },
       {
         "adultContent": false,
@@ -197,7 +257,12 @@
         "summary": "Support literacy in all its forms! Books to throw, books to swing, books to boost your personality, books to boost your magicka, and many other slightly different versions of the books we know and love. These \"off brand\" books might not be",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51815/51815-1663016211-306939814.png",
         "uid": "429496781415",
-        "updatedAt": "2023-08-17T18:50:32Z"
+        "updatedAt": "2023-08-17T18:50:32Z",
+        "fileIds": [
+          "1000039771",
+          "1000033063",
+          "1000039772"
+        ]
       },
       {
         "adultContent": false,
@@ -213,7 +278,11 @@
         "summary": "Adds exquisite iron and steel \"end-game\" weaponry to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51783/51783-1661564285-75435022.png",
         "uid": "429496781383",
-        "updatedAt": "2022-08-27T14:23:51Z"
+        "updatedAt": "2022-08-27T14:23:51Z",
+        "fileIds": [
+          "1000032833",
+          "1000032851"
+        ]
       },
       {
         "adultContent": false,
@@ -229,7 +298,13 @@
         "summary": "This mod attempts to expand the spear playstyle by adding new spear variants, creating \"javelin\" versions of spears for throwable spears, and adjusting halberds stats. These weapons were placed in-game by adding them to leveled lists and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51730/51730-1673726714-484888019.png",
         "uid": "429496781330",
-        "updatedAt": "2023-01-14T14:45:23Z"
+        "updatedAt": "2023-01-14T14:45:23Z",
+        "fileIds": [
+          "1000034611",
+          "1000034612",
+          "1000034051",
+          "1000032693"
+        ]
       },
       {
         "adultContent": false,
@@ -245,7 +320,10 @@
         "summary": "This mod attempts to expand on the axe playstyle by: reclassifying and readjusting halberds, adding usability to the chitin war axe and miner's pick, and adding a lore-appropriate enchantable axe for magic playthroughs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51724/51724-1660315456-1579062418.png",
         "uid": "429496781324",
-        "updatedAt": "2022-08-12T15:21:40Z"
+        "updatedAt": "2022-08-12T15:21:40Z",
+        "fileIds": [
+          "1000032619"
+        ]
       },
       {
         "adultContent": false,
@@ -261,7 +339,12 @@
         "summary": "This mod buffs and adds enchantments to the most basic shortblades in the game, to make these items sufficiently good, as well as live up to their in-game descriptions by Garothmuk gro-Muzgub. Bloodmoon and Tribunal required.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51681/51681-1670086119-1211923072.png",
         "uid": "429496781281",
-        "updatedAt": "2022-12-03T16:35:45Z"
+        "updatedAt": "2022-12-03T16:35:45Z",
+        "fileIds": [
+          "1000033968",
+          "1000032501",
+          "1000033969"
+        ]
       },
       {
         "adultContent": false,
@@ -277,7 +360,10 @@
         "summary": "This mod attempts to make basic robes less useless, by giving common and expensive robes (20 in total) small CE enchantments. These enchantments have been selected for magic builds, but maybe others may find them useful enough to wear over",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51678/51678-1659538856-2029256665.png",
         "uid": "429496781278",
-        "updatedAt": "2022-08-03T15:04:15Z"
+        "updatedAt": "2022-08-03T15:04:15Z",
+        "fileIds": [
+          "1000032492"
+        ]
       },
       {
         "adultContent": false,
@@ -293,7 +379,13 @@
         "summary": "This mod changes the five staves in the game: wooden, steel, silver, dreugh, and glass, by enchanting them with unusual, useful, but balanced CE enchantments. A few minor changes were made to the base stats as well. Off-hand staves and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51675/51675-1670441493-2116272777.png",
         "uid": "429496781275",
-        "updatedAt": "2022-12-07T19:21:18Z"
+        "updatedAt": "2022-12-07T19:21:18Z",
+        "fileIds": [
+          "1000034054",
+          "1000034055",
+          "1000032828",
+          "1000032486"
+        ]
       },
       {
         "adultContent": false,
@@ -309,7 +401,13 @@
         "summary": "This mod reduces the swing speed for the heaviest axes, longblades, and warhammers in Morrowind. Introduces heft to heavy weapons, adjust range, and adds a quick attack to each of these weapons so that combat has some strategic choices.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51663/51663-1659122877-1066841659.png",
         "uid": "429496781263",
-        "updatedAt": "2022-12-10T21:15:45Z"
+        "updatedAt": "2022-12-10T21:15:45Z",
+        "fileIds": [
+          "1000034094",
+          "1000034095",
+          "1000032443",
+          "1000032426"
+        ]
       }
     ],
     "totalCount": 19

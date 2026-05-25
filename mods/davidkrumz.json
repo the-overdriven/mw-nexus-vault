@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:57:24.781Z",
+  "checkedAt": "2026-05-25T14:24:08.934Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "Alcohol Shots for Alchemy allows the player to use 'shots' of alcohol for consumption or for mixing potions in alchemy. These shots of alcohol are based off of Vvardenfel's main brews: Mazte, Sujamma, Shein, Cyrodillic Brandy, Nord Mead and",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45530/45530-1520987328-1166240137.png",
         "uid": "429496775130",
-        "updatedAt": "2018-03-14T00:36:30Z"
+        "updatedAt": "2018-03-14T00:36:30Z",
+        "fileIds": [
+          "1000009886"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,10 @@
         "summary": "Many of Morrowind's original weapons and armor will have several parallel tiers added to the game. This mod will add over 2500 new weapons and armor to Morrowind!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45004-2-1497302094.png",
         "uid": "429496774604",
-        "updatedAt": "2017-06-12T21:17:46Z"
+        "updatedAt": "2017-06-12T21:17:46Z",
+        "fileIds": [
+          "1000008007"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +59,11 @@
         "summary": "Ancestral Tomb Loot Enhancement Mod",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44976-1-1495930665.png",
         "uid": "429496774576",
-        "updatedAt": "2021-05-18T23:07:00Z"
+        "updatedAt": "2021-05-18T23:07:00Z",
+        "fileIds": [
+          "1000024832",
+          "1000007939"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +79,10 @@
         "summary": "Removes the shield visual aura from certain alteration spells.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42179-1-1341890859.jpg",
         "uid": "429496771779",
-        "updatedAt": "2025-02-26T19:13:30Z"
+        "updatedAt": "2025-02-26T19:13:30Z",
+        "fileIds": [
+          "1000050773"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +98,10 @@
         "summary": "Adds over 400 new weapons and armor to leveled drop lists!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42158-0-1496093000.jpg",
         "uid": "429496771758",
-        "updatedAt": "2017-05-29T22:09:08Z"
+        "updatedAt": "2017-05-29T22:09:08Z",
+        "fileIds": [
+          "1000007938"
+        ]
       }
     ],
     "totalCount": 5

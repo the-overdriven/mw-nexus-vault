@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T14:01:26.817Z",
+  "checkedAt": "2026-05-25T14:20:18.784Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -25,7 +25,10 @@
         "summary": "Give's the Darksun Shield a unique model replete with effects that live up to it's name.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57909/57909-1765418550-431610210.png",
         "uid": "429496787509",
-        "updatedAt": "2025-12-12T17:34:26Z"
+        "updatedAt": "2025-12-12T17:34:26Z",
+        "fileIds": [
+          "1000059147"
+        ]
       },
       {
         "adultContent": false,
@@ -41,7 +44,10 @@
         "summary": "Adds a 3D fur effect to Colovian Fur Helms",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57904/57904-1765229093-1142283489.png",
         "uid": "429496787504",
-        "updatedAt": "2025-12-08T21:33:51Z"
+        "updatedAt": "2025-12-08T21:33:51Z",
+        "fileIds": [
+          "1000059071"
+        ]
       },
       {
         "adultContent": false,
@@ -57,7 +63,10 @@
         "summary": "A Trueflame replacer featuring a new mesh, textures, and animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57784/57784-1763243991-1255676190.png",
         "uid": "429496787384",
-        "updatedAt": "2025-11-16T00:21:19Z"
+        "updatedAt": "2025-11-16T00:21:19Z",
+        "fileIds": [
+          "1000058428"
+        ]
       },
       {
         "adultContent": false,
@@ -73,7 +82,10 @@
         "summary": "Replaces Auriel's Shield with a more lore friendly Daggerfall version with animated script.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57769/57769-1762926933-1555916600.png",
         "uid": "429496787369",
-        "updatedAt": "2025-11-13T02:35:54Z"
+        "updatedAt": "2025-11-13T02:35:54Z",
+        "fileIds": [
+          "1000058363"
+        ]
       },
       {
         "adultContent": false,
@@ -89,7 +101,11 @@
         "summary": "Gives animations and effects to Keening and Sunder, making them look like the mighty weapons of legend.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57748/57748-1762543136-1165745330.png",
         "uid": "429496787348",
-        "updatedAt": "2025-11-08T21:46:30Z"
+        "updatedAt": "2025-11-08T21:46:30Z",
+        "fileIds": [
+          "1000058260",
+          "1000058237"
+        ]
       },
       {
         "adultContent": false,
@@ -105,7 +121,10 @@
         "summary": "Replaces the meshes for all Nordic weapons. Vanilla friendly-er.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57740/57740-1762292631-1364352775.png",
         "uid": "429496787340",
-        "updatedAt": "2025-11-04T22:06:50Z"
+        "updatedAt": "2025-11-04T22:06:50Z",
+        "fileIds": [
+          "1000058187"
+        ]
       },
       {
         "adultContent": false,
@@ -121,7 +140,14 @@
         "summary": "Patch hub for the Bump It Up project. Bump map everything!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57713/57713-1761863277-2072106408.png",
         "uid": "429496787313",
-        "updatedAt": "2025-12-01T02:04:16Z"
+        "updatedAt": "2025-12-01T02:04:16Z",
+        "fileIds": [
+          "1000058822",
+          "1000058820",
+          "1000058344",
+          "1000058238",
+          "1000058052"
+        ]
       },
       {
         "adultContent": false,
@@ -137,7 +163,13 @@
         "summary": "A comprehensive armor overhaul, adding shine to armors via bump maps. Incorporates the best mesh replacers. Complete edition.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57708/57708-1764049439-554814242.png",
         "uid": "429496787308",
-        "updatedAt": "2025-11-25T05:43:11Z"
+        "updatedAt": "2025-11-25T05:43:11Z",
+        "fileIds": [
+          "1000058674",
+          "1000058337",
+          "1000058062",
+          "1000058037"
+        ]
       },
       {
         "adultContent": false,
@@ -153,7 +185,22 @@
         "summary": "Random assortment of improved armor meshes I've made.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57699/57699-1763936305-754131654.png",
         "uid": "429496787299",
-        "updatedAt": "2025-11-25T05:16:18Z"
+        "updatedAt": "2025-11-25T05:16:18Z",
+        "fileIds": [
+          "1000058673",
+          "1000058672",
+          "1000058665",
+          "1000058650",
+          "1000058338",
+          "1000058318",
+          "1000058284",
+          "1000058283",
+          "1000058270",
+          "1000058014",
+          "1000058664",
+          "1000058649",
+          "1000058286"
+        ]
       },
       {
         "adultContent": false,
@@ -169,7 +216,10 @@
         "summary": "A creature overhaul of Karstaag, turning him into the towering, fearsome frost giant he should have always been.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55955/55955-1739120546-606762321.png",
         "uid": "429496785555",
-        "updatedAt": "2025-02-09T17:27:39Z"
+        "updatedAt": "2025-02-09T17:27:39Z",
+        "fileIds": [
+          "1000050197"
+        ]
       },
       {
         "adultContent": false,
@@ -185,7 +235,10 @@
         "summary": "Adds Doomguy's armor and weapons.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52852/52852-1683763961-1308565627.png",
         "uid": "429496782452",
-        "updatedAt": "2023-05-11T00:18:06Z"
+        "updatedAt": "2023-05-11T00:18:06Z",
+        "fileIds": [
+          "1000037791"
+        ]
       }
     ],
     "totalCount": 11

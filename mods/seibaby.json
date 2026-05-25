@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T00:34:44.572Z",
+  "checkedAt": "2026-05-25T15:33:16.912Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "A long collectathon quest involving mysterious gemstones, vampires, and the pursuit of freedom from the crushing burden of being.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53496/53496-1694467615-390689110.png",
         "uid": "429496783096",
-        "updatedAt": "2023-09-11T21:37:04Z"
+        "updatedAt": "2023-09-11T21:37:04Z",
+        "fileIds": [
+          "1000040143"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,10 @@
         "summary": "All those boring urns in ancestral tombs that normally only have Bonemeal in them now occasionally yield some leveled loot. Most commonly, Gravedust, but sometimes a nice little enchanted trinket or gem.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52937/52937-1684965741-867924247.png",
         "uid": "429496782537",
-        "updatedAt": "2023-05-24T22:09:46Z"
+        "updatedAt": "2023-05-24T22:09:46Z",
+        "fileIds": [
+          "1000038081"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +59,10 @@
         "summary": "This mod gives many quest givers a boost in disposition after you complete their quests. Specifically, most of the non-faction affiliated merchants. And a few others.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52934/52934-1684959489-640513094.png",
         "uid": "429496782534",
-        "updatedAt": "2023-05-24T20:20:50Z"
+        "updatedAt": "2023-05-24T20:20:50Z",
+        "fileIds": [
+          "1000038079"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +78,10 @@
         "summary": "This is a small quest addition to the Mages' Guild quest \"A Potion from Skink-in-tree's-shade\" from Edwinna Elbert in Ald'ruhn, potentially restoring some cut content.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52908/52908-1684448905-334435697.png",
         "uid": "429496782508",
-        "updatedAt": "2023-05-18T22:31:28Z"
+        "updatedAt": "2023-05-18T22:31:28Z",
+        "fileIds": [
+          "1000037954"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +97,10 @@
         "summary": "This is a small mod that expands upon the quest \"Steal Chimarvamidium\" from Edwinna Elbert in the Ald'Ruhn Guild of Mages.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52905/52905-1684437882-761749849.png",
         "uid": "429496782505",
-        "updatedAt": "2023-05-20T17:58:02Z"
+        "updatedAt": "2023-05-20T17:58:02Z",
+        "fileIds": [
+          "1000037989"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +116,11 @@
         "summary": "This is a modified version of Lootable Spellbooks, which adds books that teaches spells. I've added some balance touches in line with my preferences.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52897/52897-1684254247-437217404.png",
         "uid": "429496782497",
-        "updatedAt": "2023-05-17T23:33:33Z"
+        "updatedAt": "2023-05-17T23:33:33Z",
+        "fileIds": [
+          "1000037937",
+          "1000037938"
+        ]
       },
       {
         "adultContent": false,
@@ -117,7 +136,10 @@
         "summary": "With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness, ensuring a fresh experience every time you revisit an area.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52135/52135-1672959436-1617161806.png",
         "uid": "429496781735",
-        "updatedAt": "2023-01-13T20:06:39Z"
+        "updatedAt": "2023-01-13T20:06:39Z",
+        "fileIds": [
+          "1000034595"
+        ]
       }
     ],
     "totalCount": 7

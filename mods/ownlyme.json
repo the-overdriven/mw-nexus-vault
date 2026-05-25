@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:55:50.321Z",
+  "checkedAt": "2026-05-25T15:11:52.975Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -24,7 +24,13 @@
         "summary": "A bar for your encumbrance on the hud",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58647/58647-1775973154-1300537086.png",
         "uid": "429496788247",
-        "updatedAt": "2026-05-18T19:35:26Z"
+        "updatedAt": "2026-05-18T19:35:26Z",
+        "fileIds": [
+          "1000064281",
+          "1000062739",
+          "1000062611",
+          "1000062600"
+        ]
       },
       {
         "adultContent": false,
@@ -40,7 +46,12 @@
         "summary": "Shows an arrow when a skill levels up and you can level up your character",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58630/58630-1775879446-1555176789.png",
         "uid": "429496788230",
-        "updatedAt": "2026-04-12T03:05:09Z"
+        "updatedAt": "2026-04-12T03:05:09Z",
+        "fileIds": [
+          "1000062593",
+          "1000062594",
+          "1000062552"
+        ]
       },
       {
         "adultContent": false,
@@ -56,7 +67,11 @@
         "summary": "Uncap skills and attributes, set xp multipliers",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58457/58457-1773669255-2113443055.png",
         "uid": "429496788057",
-        "updatedAt": "2026-03-16T13:59:15Z"
+        "updatedAt": "2026-03-16T13:59:15Z",
+        "fileIds": [
+          "1000061709",
+          "1000061708"
+        ]
       },
       {
         "adultContent": false,
@@ -72,7 +87,13 @@
         "summary": "Scrolling HUD widgets to visualize stat changes and when mods mess up your character",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58304/58304-1772253850-927694993.png",
         "uid": "429496787904",
-        "updatedAt": "2026-03-27T15:43:55Z"
+        "updatedAt": "2026-03-27T15:43:55Z",
+        "fileIds": [
+          "1000062024",
+          "1000062004",
+          "1000061160",
+          "1000061114"
+        ]
       },
       {
         "adultContent": false,
@@ -88,7 +109,12 @@
         "summary": "lets you configure training costs in new ways",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58287/58287-1771993633-342437830.png",
         "uid": "429496787887",
-        "updatedAt": "2026-04-17T06:47:37Z"
+        "updatedAt": "2026-04-17T06:47:37Z",
+        "fileIds": [
+          "1000062741",
+          "1000062728",
+          "1000061045"
+        ]
       },
       {
         "adultContent": false,
@@ -104,7 +130,11 @@
         "summary": "UI Widget and hotkeys to control day and simulation timescale and set the current daytime",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58039/58039-1767537480-412916814.png",
         "uid": "429496787639",
-        "updatedAt": "2026-02-19T13:00:43Z"
+        "updatedAt": "2026-02-19T13:00:43Z",
+        "fileIds": [
+          "1000060852",
+          "1000059727"
+        ]
       },
       {
         "adultContent": false,
@@ -120,7 +150,14 @@
         "summary": "Pilferer basically means thief: It's always about small-scale theft, There's a sneaky quality to it, It often happens in settings like workplaces, stores, or homes, \"Someone's been pilfering snacks from the break room.\"",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58034/58034-1767371327-76871239.png",
         "uid": "429496787634",
-        "updatedAt": "2026-03-17T15:18:44Z"
+        "updatedAt": "2026-03-17T15:18:44Z",
+        "fileIds": [
+          "1000061750",
+          "1000061748",
+          "1000061660",
+          "1000059730",
+          "1000059696"
+        ]
       },
       {
         "adultContent": false,
@@ -136,7 +173,16 @@
         "summary": "Armors, Dwarven Ruins and other Metals for Rafael's lighting shaders",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57946/57946-1766117142-1285581669.png",
         "uid": "429496787546",
-        "updatedAt": "2025-12-21T22:47:26Z"
+        "updatedAt": "2025-12-21T22:47:26Z",
+        "fileIds": [
+          "1000059401",
+          "1000059392",
+          "1000059314",
+          "1000059403",
+          "1000059391",
+          "1000059342",
+          "1000059339"
+        ]
       },
       {
         "adultContent": false,
@@ -152,7 +198,18 @@
         "summary": "Overhauls elemental shields with proper damage scaling, configurable effects (slow, stun, weakness), VFX replacer included.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57915/57915-1765601664-814028927.png",
         "uid": "429496787515",
-        "updatedAt": "2026-04-29T13:54:59Z"
+        "updatedAt": "2026-04-29T13:54:59Z",
+        "fileIds": [
+          "1000063222",
+          "1000059596",
+          "1000059587",
+          "1000059229",
+          "1000059211",
+          "1000059207",
+          "1000059203",
+          "1000059175",
+          "1000059171"
+        ]
       },
       {
         "adultContent": false,
@@ -168,7 +225,13 @@
         "summary": "Up and running within seconds. Bonus: custom scenarios and modding support",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57877/57877-1767178192-501402179.png",
         "uid": "429496787477",
-        "updatedAt": "2026-02-24T17:02:03Z"
+        "updatedAt": "2026-02-24T17:02:03Z",
+        "fileIds": [
+          "1000061035",
+          "1000060890",
+          "1000059632",
+          "1000059625"
+        ]
       },
       {
         "adultContent": false,
@@ -184,7 +247,18 @@
         "summary": "drawing a weapon doesn't disable the 360° movement mode anymore",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57853/57853-1764438453-1962429911.png",
         "uid": "429496787453",
-        "updatedAt": "2026-03-21T19:37:10Z"
+        "updatedAt": "2026-03-21T19:37:10Z",
+        "fileIds": [
+          "1000061860",
+          "1000061366",
+          "1000060833",
+          "1000058969",
+          "1000058968",
+          "1000058832",
+          "1000058783",
+          "1000058782",
+          "1000058780"
+        ]
       },
       {
         "adultContent": false,
@@ -200,7 +274,10 @@
         "summary": "reduces the spawn chance of leveled creatures when you rest (except dark brotherhood)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57762/57762-1762805571-1867492155.png",
         "uid": "429496787362",
-        "updatedAt": "2025-11-10T20:13:01Z"
+        "updatedAt": "2025-11-10T20:13:01Z",
+        "fileIds": [
+          "1000058309"
+        ]
       },
       {
         "adultContent": false,
@@ -216,7 +293,13 @@
         "summary": "Teleport back to any inn",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57551/57551-1759540969-1409331399.png",
         "uid": "429496787151",
-        "updatedAt": "2025-11-10T23:57:26Z"
+        "updatedAt": "2025-11-10T23:57:26Z",
+        "fileIds": [
+          "1000058316",
+          "1000057370",
+          "1000057347",
+          "1000057345"
+        ]
       },
       {
         "adultContent": false,
@@ -232,7 +315,10 @@
         "summary": "Speeds up the game during character creation. Simple and efficient",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57530/57530-1759107813-56721390.png",
         "uid": "429496787130",
-        "updatedAt": "2025-09-29T01:04:19Z"
+        "updatedAt": "2025-09-29T01:04:19Z",
+        "fileIds": [
+          "1000057214"
+        ]
       },
       {
         "adultContent": false,
@@ -248,7 +334,26 @@
         "summary": "Outdoor decorative lanterns, torches and lights only turn on at night",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57510/57510-1758980305-504693264.png",
         "uid": "429496787110",
-        "updatedAt": "2026-03-30T21:19:49Z"
+        "updatedAt": "2026-03-30T21:19:49Z",
+        "fileIds": [
+          "1000062152",
+          "1000062151",
+          "1000061752",
+          "1000061394",
+          "1000061392",
+          "1000061362",
+          "1000059633",
+          "1000059091",
+          "1000058960",
+          "1000058947",
+          "1000058380",
+          "1000058107",
+          "1000057453",
+          "1000057451",
+          "1000057278",
+          "1000057143",
+          "1000057127"
+        ]
       },
       {
         "adultContent": false,
@@ -264,7 +369,13 @@
         "summary": "The resting time is calculated upfront, so it ignores the regeneration of any mods you might have. This fixes it",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57508/57508-1758904138-1064107717.png",
         "uid": "429496787108",
-        "updatedAt": "2025-10-05T21:22:10Z"
+        "updatedAt": "2025-10-05T21:22:10Z",
+        "fileIds": [
+          "1000057409",
+          "1000057111",
+          "1000057110",
+          "1000057109"
+        ]
       },
       {
         "adultContent": false,
@@ -280,7 +391,11 @@
         "summary": "No more wasted soul gems!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57405/57405-1757045450-61148642.png",
         "uid": "429496787005",
-        "updatedAt": "2025-09-05T14:54:02Z"
+        "updatedAt": "2025-09-05T14:54:02Z",
+        "fileIds": [
+          "1000056610",
+          "1000056606"
+        ]
       },
       {
         "adultContent": false,
@@ -296,7 +411,25 @@
         "summary": "Just Lua, using vanilla spell effects",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57313/57313-1755614208-341206144.png",
         "uid": "429496786913",
-        "updatedAt": "2026-04-20T10:16:02Z"
+        "updatedAt": "2026-04-20T10:16:02Z",
+        "fileIds": [
+          "1000062839",
+          "1000060009",
+          "1000058008",
+          "1000056603",
+          "1000056568",
+          "1000056302",
+          "1000056299",
+          "1000056132",
+          "1000056115",
+          "1000056108",
+          "1000056091",
+          "1000056082",
+          "1000056036",
+          "1000056034",
+          "1000056033",
+          "1000056031"
+        ]
       },
       {
         "adultContent": false,
@@ -312,7 +445,19 @@
         "summary": "Makes Abilities work like modifiers. That lets you level past 100 and reduces exp per level for affected skills/attributes",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57295/57295-1755150795-1141942819.jpg",
         "uid": "429496786895",
-        "updatedAt": "2026-04-28T06:27:17Z"
+        "updatedAt": "2026-04-28T06:27:17Z",
+        "fileIds": [
+          "1000063171",
+          "1000062198",
+          "1000062196",
+          "1000062171",
+          "1000062023",
+          "1000061172",
+          "1000061019",
+          "1000060992",
+          "1000060970",
+          "1000055936"
+        ]
       },
       {
         "adultContent": false,
@@ -328,7 +473,22 @@
         "summary": "Tracks dangerous situations for \"Roguelite\". Optionally deletes your save on death or if you quit while in danger.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57281/57281-1764705606-310024142.png",
         "uid": "429496786881",
-        "updatedAt": "2026-03-08T00:51:17Z"
+        "updatedAt": "2026-03-08T00:51:17Z",
+        "fileIds": [
+          "1000061397",
+          "1000060945",
+          "1000058967",
+          "1000058890",
+          "1000058888",
+          "1000058880",
+          "1000058878",
+          "1000057333",
+          "1000056458",
+          "1000055889",
+          "1000055873",
+          "1000055869",
+          "1000055868"
+        ]
       },
       {
         "adultContent": false,
@@ -344,7 +504,18 @@
         "summary": "Recipe Pack for Crafting Framework",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57248/57248-1754461835-1438052363.png",
         "uid": "429496786848",
-        "updatedAt": "2026-05-16T15:58:05Z"
+        "updatedAt": "2026-05-16T15:58:05Z",
+        "fileIds": [
+          "1000064183",
+          "1000055968",
+          "1000059106",
+          "1000056084",
+          "1000055967",
+          "1000055962",
+          "1000055961",
+          "1000055752",
+          "1000055689"
+        ]
       },
       {
         "adultContent": false,
@@ -360,7 +531,31 @@
         "summary": "UI Mod with support for external recipes",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57247/57247-1778187489-2094135824.png",
         "uid": "429496786847",
-        "updatedAt": "2026-05-18T03:09:39Z"
+        "updatedAt": "2026-05-18T03:09:39Z",
+        "fileIds": [
+          "1000064243",
+          "1000064163",
+          "1000055914",
+          "1000064162",
+          "1000063768",
+          "1000059308",
+          "1000059113",
+          "1000056613",
+          "1000056085",
+          "1000055959",
+          "1000055954",
+          "1000055913",
+          "1000055825",
+          "1000055761",
+          "1000055753",
+          "1000055751",
+          "1000055750",
+          "1000055721",
+          "1000055720",
+          "1000055713",
+          "1000055691",
+          "1000055688"
+        ]
       },
       {
         "adultContent": false,
@@ -376,7 +571,27 @@
         "summary": "Ores spawned in the world and in caves. Grab a pick and mine them!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57177/57177-1774122800-411084742.png",
         "uid": "429496786777",
-        "updatedAt": "2026-03-28T14:14:27Z"
+        "updatedAt": "2026-03-28T14:14:27Z",
+        "fileIds": [
+          "1000062061",
+          "1000061934",
+          "1000061861",
+          "1000061844",
+          "1000061491",
+          "1000061479",
+          "1000061446",
+          "1000061445",
+          "1000055995",
+          "1000055960",
+          "1000055958",
+          "1000055762",
+          "1000055754",
+          "1000055686",
+          "1000055534",
+          "1000055498",
+          "1000055480",
+          "1000055445"
+        ]
       },
       {
         "adultContent": false,
@@ -392,7 +607,33 @@
         "summary": "Start with weakened stats, complete challenges to start with more blessings on your next run. choose between 22 unique blessings",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57169/57169-1753225890-1622453719.jpg",
         "uid": "429496786769",
-        "updatedAt": "2026-04-12T15:16:47Z"
+        "updatedAt": "2026-04-12T15:16:47Z",
+        "fileIds": [
+          "1000062610",
+          "1000062081",
+          "1000062076",
+          "1000061661",
+          "1000061433",
+          "1000061431",
+          "1000061406",
+          "1000061179",
+          "1000061043",
+          "1000059095",
+          "1000058020",
+          "1000057275",
+          "1000056460",
+          "1000055885",
+          "1000055884",
+          "1000055870",
+          "1000055867",
+          "1000055807",
+          "1000055806",
+          "1000055749",
+          "1000055719",
+          "1000055472",
+          "1000055424",
+          "1000055397"
+        ]
       },
       {
         "adultContent": false,
@@ -408,7 +649,10 @@
         "summary": "Makes all blessings last 2 days and gives them more useful effects",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57124/57124-1752168947-1298806655.png",
         "uid": "429496786724",
-        "updatedAt": "2025-07-10T17:37:29Z"
+        "updatedAt": "2025-07-10T17:37:29Z",
+        "fileIds": [
+          "1000055143"
+        ]
       },
       {
         "adultContent": false,
@@ -424,7 +668,40 @@
         "summary": "Detect spells on your HUD",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57112/57112-1752340105-2073489141.jpg",
         "uid": "429496786712",
-        "updatedAt": "2025-08-06T20:55:45Z"
+        "updatedAt": "2025-08-06T20:55:45Z",
+        "fileIds": [
+          "1000055718",
+          "1000055687",
+          "1000055642",
+          "1000055535",
+          "1000055527",
+          "1000055496",
+          "1000055487",
+          "1000055444",
+          "1000055368",
+          "1000055363",
+          "1000055311",
+          "1000055287",
+          "1000055285",
+          "1000055275",
+          "1000055274",
+          "1000055214",
+          "1000055202",
+          "1000055183",
+          "1000055166",
+          "1000055160",
+          "1000055153",
+          "1000055152",
+          "1000055151",
+          "1000055150",
+          "1000055145",
+          "1000055128",
+          "1000055126",
+          "1000055125",
+          "1000055106",
+          "1000055105",
+          "1000055095"
+        ]
       },
       {
         "adultContent": false,
@@ -440,7 +717,11 @@
         "summary": "take all. Kinda obsolete now that quickloot exists, but it can also loot opened books",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57096/57096-1751877955-1583061932.png",
         "uid": "429496786696",
-        "updatedAt": "2025-07-08T05:45:55Z"
+        "updatedAt": "2025-07-08T05:45:55Z",
+        "fileIds": [
+          "1000055048",
+          "1000055019"
+        ]
       },
       {
         "adultContent": false,
@@ -456,7 +737,10 @@
         "summary": "Simply unequips your helmet when going into third person and re-equips it in first person",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57088/57088-1751750449-1904241063.png",
         "uid": "429496786688",
-        "updatedAt": "2025-07-05T21:23:13Z"
+        "updatedAt": "2025-07-05T21:23:13Z",
+        "fileIds": [
+          "1000054974"
+        ]
       },
       {
         "adultContent": false,
@@ -472,7 +756,13 @@
         "summary": "Makes filled soulgems have very little value. Includes visually filled soulgems",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57073/57073-1757084501-899133266.png",
         "uid": "429496786673",
-        "updatedAt": "2025-09-05T16:24:38Z"
+        "updatedAt": "2025-09-05T16:24:38Z",
+        "fileIds": [
+          "1000056612",
+          "1000056611",
+          "1000054948",
+          "1000054911"
+        ]
       },
       {
         "adultContent": false,
@@ -488,7 +778,39 @@
         "summary": "Learn how to enchant an item's effects, re-enchant any item, level up by disenchanting",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57068/57068-1751631039-169908554.png",
         "uid": "429496786668",
-        "updatedAt": "2026-05-06T13:54:54Z"
+        "updatedAt": "2026-05-06T13:54:54Z",
+        "fileIds": [
+          "1000063704",
+          "1000063585",
+          "1000063557",
+          "1000063110",
+          "1000058013",
+          "1000058007",
+          "1000057802",
+          "1000056562",
+          "1000055965",
+          "1000055932",
+          "1000055804",
+          "1000055725",
+          "1000055723",
+          "1000055430",
+          "1000055423",
+          "1000055170",
+          "1000055167",
+          "1000055139",
+          "1000055059",
+          "1000055047",
+          "1000055007",
+          "1000054992",
+          "1000054990",
+          "1000054984",
+          "1000054983",
+          "1000054943",
+          "1000054925",
+          "1000054888",
+          "1000054885",
+          "1000054884"
+        ]
       },
       {
         "adultContent": false,
@@ -504,7 +826,19 @@
         "summary": "Keep attribute progress after level up, get health retroactively (optional)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57062/57062-1773456637-18919521.png",
         "uid": "429496786662",
-        "updatedAt": "2026-03-18T19:14:49Z"
+        "updatedAt": "2026-03-18T19:14:49Z",
+        "fileIds": [
+          "1000061786",
+          "1000061608",
+          "1000061607",
+          "1000061738",
+          "1000061736",
+          "1000061606",
+          "1000055266",
+          "1000055168",
+          "1000054850",
+          "1000054848"
+        ]
       },
       {
         "adultContent": false,
@@ -520,7 +854,14 @@
         "summary": "no more quickloading to make people like you",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57054/57054-1751240545-271082906.png",
         "uid": "429496786654",
-        "updatedAt": "2025-07-16T17:35:49Z"
+        "updatedAt": "2025-07-16T17:35:49Z",
+        "fileIds": [
+          "1000055273",
+          "1000055194",
+          "1000055022",
+          "1000054826",
+          "1000054820"
+        ]
       },
       {
         "adultContent": false,
@@ -536,7 +877,18 @@
         "summary": "Fixes being able to sell for more than you buy for",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57047/57047-1751171307-1911031791.png",
         "uid": "429496786647",
-        "updatedAt": "2026-02-01T11:15:22Z"
+        "updatedAt": "2026-02-01T11:15:22Z",
+        "fileIds": [
+          "1000060406",
+          "1000054819",
+          "1000060396",
+          "1000056267",
+          "1000055834",
+          "1000054846",
+          "1000054840",
+          "1000054822",
+          "1000054793"
+        ]
       },
       {
         "adultContent": false,
@@ -552,7 +904,22 @@
         "summary": "Hold the activation key to harvest flowers quicker",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57039/57039-1750999501-953051620.png",
         "uid": "429496786639",
-        "updatedAt": "2026-03-17T06:34:27Z"
+        "updatedAt": "2026-03-17T06:34:27Z",
+        "fileIds": [
+          "1000061739",
+          "1000059586",
+          "1000059090",
+          "1000058410",
+          "1000058051",
+          "1000056457",
+          "1000055992",
+          "1000054814",
+          "1000054754",
+          "1000054753",
+          "1000054752",
+          "1000054751",
+          "1000054747"
+        ]
       },
       {
         "adultContent": false,
@@ -568,7 +935,12 @@
         "summary": "Rework of the pickpocketing system. Requires QuickLoot",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56596/56596-1747170145-920388075.png",
         "uid": "429496786196",
-        "updatedAt": "2025-12-09T22:34:47Z"
+        "updatedAt": "2025-12-09T22:34:47Z",
+        "fileIds": [
+          "1000059088",
+          "1000056455",
+          "1000052883"
+        ]
       },
       {
         "adultContent": false,
@@ -584,7 +956,14 @@
         "summary": "Fixes the fortify health effect so it doesn't kill you when the effect runs out while you're at low health and makes it actually fortify your maximum health value.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56523/56523-1746673131-1311899205.png",
         "uid": "429496786123",
-        "updatedAt": "2026-03-01T17:00:24Z"
+        "updatedAt": "2026-03-01T17:00:24Z",
+        "fileIds": [
+          "1000061174",
+          "1000060937",
+          "1000059582",
+          "1000052615",
+          "1000052614"
+        ]
       },
       {
         "adultContent": false,
@@ -600,7 +979,15 @@
         "summary": "Nerfs several exploits related to fortify skill / fortify attribute effects through spellcrafting via script",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56524/56524-1746672540-1925912245.png",
         "uid": "429496786124",
-        "updatedAt": "2026-03-01T16:15:53Z"
+        "updatedAt": "2026-03-01T16:15:53Z",
+        "fileIds": [
+          "1000061170",
+          "1000061020",
+          "1000061016",
+          "1000055938",
+          "1000052636",
+          "1000052616"
+        ]
       },
       {
         "adultContent": false,
@@ -616,7 +1003,14 @@
         "summary": "Speed and the governing skill affect your attack- and casting speed",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56465/56465-1746193223-2069999342.png",
         "uid": "429496786065",
-        "updatedAt": "2026-05-22T17:41:23Z"
+        "updatedAt": "2026-05-22T17:41:23Z",
+        "fileIds": [
+          "1000064433",
+          "1000052358",
+          "1000052357",
+          "1000052351",
+          "1000052350"
+        ]
       },
       {
         "adultContent": false,
@@ -632,7 +1026,20 @@
         "summary": "Can be configured however you like",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54954/54954-1720627196-1122408717.png",
         "uid": "429496784554",
-        "updatedAt": "2026-02-22T01:22:41Z"
+        "updatedAt": "2026-02-22T01:22:41Z",
+        "fileIds": [
+          "1000060942",
+          "1000047008",
+          "1000059599",
+          "1000059578",
+          "1000055318",
+          "1000055127",
+          "1000054813",
+          "1000049511",
+          "1000047025",
+          "1000046779",
+          "1000046201"
+        ]
       },
       {
         "adultContent": false,
@@ -648,7 +1055,15 @@
         "summary": "Standalone MBSP with additional features",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54953/54953-1720627044-1778595113.png",
         "uid": "429496784553",
-        "updatedAt": "2026-04-26T19:31:59Z"
+        "updatedAt": "2026-04-26T19:31:59Z",
+        "fileIds": [
+          "1000063091",
+          "1000061705",
+          "1000059669",
+          "1000055912",
+          "1000055174",
+          "1000046200"
+        ]
       },
       {
         "adultContent": false,
@@ -664,7 +1079,17 @@
         "summary": "Restocks everything over 24 hours instead of immediately.Ingredients have special rules",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54952/54952-1720626633-119136069.png",
         "uid": "429496784552",
-        "updatedAt": "2026-04-14T01:39:47Z"
+        "updatedAt": "2026-04-14T01:39:47Z",
+        "fileIds": [
+          "1000062664",
+          "1000055743",
+          "1000055742",
+          "1000055740",
+          "1000054994",
+          "1000049685",
+          "1000049512",
+          "1000046199"
+        ]
       },
       {
         "adultContent": false,
@@ -680,7 +1105,29 @@
         "summary": "Inspired by Modernized HUD but more customizations, much better performance and other improvements",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54951/54951-1721392486-1252807064.png",
         "uid": "429496784551",
-        "updatedAt": "2026-04-17T06:31:50Z"
+        "updatedAt": "2026-04-17T06:31:50Z",
+        "fileIds": [
+          "1000062738",
+          "1000062601",
+          "1000061175",
+          "1000061173",
+          "1000061021",
+          "1000059081",
+          "1000059037",
+          "1000059036",
+          "1000058446",
+          "1000058287",
+          "1000058230",
+          "1000057477",
+          "1000057476",
+          "1000054206",
+          "1000052024",
+          "1000049527",
+          "1000049526",
+          "1000049525",
+          "1000049430",
+          "1000046198"
+        ]
       },
       {
         "adultContent": false,
@@ -696,7 +1143,57 @@
         "summary": "Take stuff without opening the container",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54950/54950-1720626222-2104346050.png",
         "uid": "429496784550",
-        "updatedAt": "2026-03-08T08:15:00Z"
+        "updatedAt": "2026-03-08T08:15:00Z",
+        "fileIds": [
+          "1000061407",
+          "1000059089",
+          "1000051340",
+          "1000061237",
+          "1000059621",
+          "1000059584",
+          "1000059101",
+          "1000058865",
+          "1000058857",
+          "1000058565",
+          "1000056934",
+          "1000056933",
+          "1000056852",
+          "1000056822",
+          "1000056456",
+          "1000055991",
+          "1000055365",
+          "1000055215",
+          "1000055184",
+          "1000055163",
+          "1000055138",
+          "1000055101",
+          "1000055100",
+          "1000055097",
+          "1000055084",
+          "1000055050",
+          "1000055049",
+          "1000054959",
+          "1000054868",
+          "1000054867",
+          "1000054791",
+          "1000054744",
+          "1000054667",
+          "1000054622",
+          "1000054593",
+          "1000054500",
+          "1000054478",
+          "1000052880",
+          "1000052131",
+          "1000052054",
+          "1000052052",
+          "1000052036",
+          "1000052023",
+          "1000051994",
+          "1000051967",
+          "1000051844",
+          "1000051831",
+          "1000051811"
+        ]
       }
     ],
     "totalCount": 43

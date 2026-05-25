@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-05-21T00:31:06.456Z",
+  "checkedAt": "2026-05-25T14:10:58.910Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26
+        "100": 27
       }
     },
     "nodes": [
@@ -217,6 +217,22 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51038/51038-1651063054-1138470944.jpeg",
         "uid": "429496780638",
         "updatedAt": "2022-04-30T23:33:49Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2022-04-30T23:32:35Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 51022,
+        "name": "MultiEnchant",
+        "status": "published",
+        "summary": "Multi-enchantments will no longer unfairly increase capacity consumption",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51022/51022-1650833439-891310538.jpeg",
+        "uid": "429496780622",
+        "updatedAt": "2022-04-30T23:32:35Z"
       },
       {
         "adultContent": false,
@@ -447,6 +463,6 @@
         ]
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-05-21T00:31:51.283Z",
+  "checkedAt": "2026-05-25T14:37:10.086Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 51,
+        "100": 52,
         "101": 3,
         "775": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-25T01:32:25Z",
+        "fileSize": 13409,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 58715,
+        "name": "Fons - Shapeshifting Bard Companion",
+        "status": "published",
+        "summary": "Rescue a bard from a mad wizard's lair! Earn his trust! Unlock different shapeshifted forms!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58715/58715-1776761133-1311621155.png",
+        "uid": "429496788315",
+        "updatedAt": "2026-05-25T01:32:25Z",
+        "fileIds": [
+          "1000064567"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-18T11:39:43Z",
@@ -869,6 +888,6 @@
         "updatedAt": "2021-06-30T17:06:08Z"
       }
     ],
-    "totalCount": 51
+    "totalCount": 52
   }
 }

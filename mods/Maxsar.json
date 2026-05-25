@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:55:23.850Z",
+  "checkedAt": "2026-05-25T15:06:42.086Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,20 @@
         "summary": "This mod adds immersive, context-sensitive footstep sounds to OpenMW. It adjusts sounds based on character speed, race, and armor. Features include customizable settings, surface detection, and water depth awareness. Enhance your audio",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55364/55364-1729462205-1552630688.png",
         "uid": "429496784964",
-        "updatedAt": "2024-10-30T10:35:07Z"
+        "updatedAt": "2024-10-30T10:35:07Z",
+        "fileIds": [
+          "1000047952",
+          "1000047866",
+          "1000047841",
+          "1000047827",
+          "1000047826",
+          "1000047825",
+          "1000047824",
+          "1000047821",
+          "1000047819",
+          "1000047787",
+          "1000047778"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +50,13 @@
         "summary": "This mod removes menu pausing in Morrowind, making all game menus (inventory, magic, etc.) function in real-time or with customizable time-slowdown. It prevents exploit techniques involving rapid menu opening/closing for instant buff",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55360/55360-1729371513-1890639517.png",
         "uid": "429496784960",
-        "updatedAt": "2024-10-29T20:46:21Z"
+        "updatedAt": "2024-10-29T20:46:21Z",
+        "fileIds": [
+          "1000047948",
+          "1000047895",
+          "1000047765",
+          "1000047752"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +72,12 @@
         "summary": "Time your attacks! Charge to boost weapon skills and improve hit chances. Find the sweet spot – overcharging reduces the bonus.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55344/55344-1729442297-467872979.png",
         "uid": "429496784944",
-        "updatedAt": "2024-10-19T22:07:40Z"
+        "updatedAt": "2024-10-19T22:07:40Z",
+        "fileIds": [
+          "1000047754",
+          "1000047725",
+          "1000047700"
+        ]
       }
     ],
     "totalCount": 3

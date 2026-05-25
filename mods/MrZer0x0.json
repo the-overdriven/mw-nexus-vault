@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:49:59.203Z",
+  "checkedAt": "2026-05-25T15:08:25.548Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,10 @@
         "summary": "TES3MP 0.8.1 Zer0Custom - My custom Windows build of TES3MP - open-source Morrowind multiplayer - with a rebuilt launcher, rewritten rendering shaders, and a fully integrated server management console.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58612/58612-1775726236-2392770.png",
         "uid": "429496788212",
-        "updatedAt": "2026-04-22T17:48:03Z"
+        "updatedAt": "2026-04-22T17:48:03Z",
+        "fileIds": [
+          "1000062932"
+        ]
       },
       {
         "adultContent": false,
@@ -37,7 +40,10 @@
         "summary": "TES3ZER0EDIT is a lightweight browser-based editor for Morrowind TES3 plugins, with record editing, book/text tools, header/master management, dialogue helpers, and early save-related utilities for advanced workflow",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58547/58547-1774922460-1524676343.png",
         "uid": "429496788147",
-        "updatedAt": "2026-05-22T20:07:54Z"
+        "updatedAt": "2026-05-22T20:07:54Z",
+        "fileIds": [
+          "1000064437"
+        ]
       },
       {
         "adultContent": false,
@@ -53,7 +59,10 @@
         "summary": "TES3ZER0NAME is a TES-inspired character name generator for players and modders. It helps create lore-friendly names for different races, genders, classes, and styles, making it useful both for new playthroughs and for populating mods with",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58503/58503-1774431849-1318821266.jpg",
         "uid": "429496788103",
-        "updatedAt": "2026-03-25T09:49:18Z"
+        "updatedAt": "2026-03-25T09:49:18Z",
+        "fileIds": [
+          "1000061948"
+        ]
       },
       {
         "adultContent": false,
@@ -69,7 +78,11 @@
         "summary": "NIFZER0EDIT - is a browser-based NIF viewer and editor for working with Gamebryo / NetImmerse assets directly in your web browser. It can be used on any operating system without installation, making it a convenient alternative for quick",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58500/58500-1779627095-1122971538.png",
         "uid": "429496788100",
-        "updatedAt": "2026-05-24T12:57:26Z"
+        "updatedAt": "2026-05-24T12:57:26Z",
+        "fileIds": [
+          "1000064538",
+          "1000061935"
+        ]
       },
       {
         "adultContent": false,
@@ -85,7 +98,10 @@
         "summary": "I present a custom shader collection I've built over time for my TES3MP project. OpenMW devs advanced post-processing in newer versions, leaving 0.47 projects behind. I'm fixing that—offering my shaders tailored for OpenMW 0.47 & TES3MP",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57752/57752-1762633068-1197933185.png",
         "uid": "429496787352",
-        "updatedAt": "2025-11-08T20:28:05Z"
+        "updatedAt": "2025-11-08T20:28:05Z",
+        "fileIds": [
+          "1000058256"
+        ]
       },
       {
         "adultContent": false,
@@ -101,7 +117,11 @@
         "summary": "This is a simple HUD conversion with a more interesting layout on the game screen!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52378/52378-1676835095-1035152828.png",
         "uid": "429496781978",
-        "updatedAt": "2023-02-20T12:55:17Z"
+        "updatedAt": "2023-02-20T12:55:17Z",
+        "fileIds": [
+          "1000036013",
+          "1000036005"
+        ]
       }
     ],
     "totalCount": 6

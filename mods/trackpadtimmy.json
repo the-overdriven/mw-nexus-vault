@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2006-05-25T13:57:48.067Z",
+  "checkedAt": "2026-05-25T15:47:09.755Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,15 @@
         "summary": "Adds a free-cam and time freeze ability at the push of a button, along with tilting and zooming with configurable speeds for composing screenshots. Gamepads supported.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57040/57040-1751068827-85922656.jpg",
         "uid": "429496786640",
-        "updatedAt": "2026-03-08T20:40:02Z"
+        "updatedAt": "2026-03-08T20:40:02Z",
+        "fileIds": [
+          "1000061425",
+          "1000056987",
+          "1000055643",
+          "1000054855",
+          "1000054790",
+          "1000054762"
+        ]
       }
     ],
     "totalCount": 1
