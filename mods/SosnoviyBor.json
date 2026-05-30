@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T15:39:44.178Z",
+  "checkedAt": "2026-05-30T09:52:33.721Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -86,7 +86,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-30T23:56:30Z",
-        "fileSize": 15,
+        "fileSize": 2242,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -97,13 +97,13 @@
         "summary": "Select your character's past that will shape their future. Almost 300 traits across 4 types to choose from!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58704/58704-1776598686-424312326.png",
         "uid": "429496788304",
-        "updatedAt": "2026-05-12T11:24:01Z",
+        "updatedAt": "2026-05-28T11:50:50Z",
         "fileIds": [
+          "1000064794",
+          "1000064793",
           "1000063997",
-          "1000063996",
           "1000063995",
           "1000063994",
-          "1000063993",
           "1000063992",
           "1000063991",
           "1000063990"
@@ -183,9 +183,9 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-05-05T17:26:43Z",
+        "updatedAt": "2026-05-28T12:46:54Z",
         "fileIds": [
-          "1000063661"
+          "1000064795"
         ]
       },
       {
@@ -468,7 +468,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-12T19:18:34Z",
-        "fileSize": 26,
+        "fileSize": 29,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -479,9 +479,9 @@
         "summary": "Book ownership actually matters now. Paid books need to be bought. Strangers won't let you browse their shelves for free.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57441/57441-1763748886-473564824.jpg",
         "uid": "429496787041",
-        "updatedAt": "2026-02-01T17:14:18Z",
+        "updatedAt": "2026-05-28T07:32:44Z",
         "fileIds": [
-          "1000060416"
+          "1000064787"
         ]
       },
       {

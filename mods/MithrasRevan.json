@@ -1,0 +1,132 @@
+{
+  "checkedAt": "2026-05-30T09:48:51.334Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 6,
+        "130": 9,
+        "441": 3,
+        "1091": 2,
+        "5388": 1,
+        "6771": 1
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-30T04:07:31Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59160,
+        "name": "Better Fatigue and Running Overall",
+        "status": "published",
+        "summary": "Overall better fatigue regen, running, and drain for weapon swings based on weight. Makes the game significantly less annoying and more in line with modern games",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59160/59160-1780113679-726562902.png",
+        "uid": "429496788760",
+        "updatedAt": "2026-05-30T04:07:31Z",
+        "fileIds": [
+          "1000064944"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-29T20:55:05Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59152,
+        "name": "Greetings only when very close",
+        "status": "published",
+        "summary": "NPCs only talk when you're basically colliding with them. Walk among the crowd in peace.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59152/59152-1780087794-638993585.png",
+        "uid": "429496788752",
+        "updatedAt": "2026-05-29T20:55:05Z",
+        "fileIds": [
+          "1000064910"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-29T20:14:08Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59151,
+        "name": "Very Simple Always Hit Script for Player",
+        "status": "published",
+        "summary": "A very simple one-time script that adds a Fortify Attack 100 spell onto the player so Melee and Ranged attacks always hit. Works mid-game or when creating a new character. Works with custom races (but only for the player). Does not edit",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59151/59151-1780084442-1648833592.png",
+        "uid": "429496788751",
+        "updatedAt": "2026-05-29T20:14:08Z",
+        "fileIds": [
+          "1000064909"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-28T20:10:18Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59136,
+        "name": "Very Simple Vanilla Health and Magicka Regeneration",
+        "status": "published",
+        "summary": "You get Health and Magicka the same value as if you were Resting, but by just playing normally instead. Perfect if you want a \"Vanilla\" regen and just plug and play.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59136/59136-1779998536-1812634399.png",
+        "uid": "429496788736",
+        "updatedAt": "2026-05-28T20:10:18Z",
+        "fileIds": [
+          "1000064831"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-10T11:24:20Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49390,
+        "name": "Silent Stealth Kills",
+        "status": "published",
+        "summary": "When NPCs are stealth-killed, they are dead.》 Meaning they make the appropriate death sound, and no longer spout famous last words like \"You N'wah! Die Fetcher! Stoopid\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49390/49390-1615375324-492283829.jpeg",
+        "uid": "429496778990",
+        "updatedAt": "2021-03-10T11:24:20Z",
+        "fileIds": [
+          "1000023289"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2021-03-10T10:53:53Z",
+        "fileSize": 25355,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 49389,
+        "name": "Morrowind - The Roleplaying Mod (New Starts. Play as a Non Nerevarine. and others)",
+        "status": "published",
+        "summary": "An immersive consistent alternative start where you can choose to play as the Nerevarine or not, begin in a different area, changes when/if the Dark Brotherhood attacks and makes it possible to travel to Mournhould without being attacked,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49389/49389-1615378363-827576865.jpeg",
+        "uid": "429496778989",
+        "updatedAt": "2021-03-10T10:53:53Z",
+        "fileIds": [
+          "1000023288"
+        ]
+      }
+    ],
+    "totalCount": 6
+  }
+}

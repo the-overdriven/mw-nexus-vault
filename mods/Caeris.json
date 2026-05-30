@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-25T14:15:31.705Z",
+  "checkedAt": "2026-05-30T09:46:11.488Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 28
+        "100": 29
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-29T21:29:47Z",
+        "fileSize": 289508,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59153,
+        "name": "Normals for Articus Caverns 2K Retexture",
+        "status": "published",
+        "summary": "A simple set of normal maps for Articus Caverns 2K Retexture for use with OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59153/59153-1780089736-1515918674.png",
+        "uid": "429496788753",
+        "updatedAt": "2026-05-29T21:29:47Z",
+        "fileIds": [
+          "1000064926"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-15T00:17:05Z",
@@ -556,6 +575,6 @@
         ]
       }
     ],
-    "totalCount": 28
+    "totalCount": 29
   }
 }

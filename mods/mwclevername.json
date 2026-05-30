@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T15:09:14.306Z",
+  "checkedAt": "2026-05-30T09:50:21.411Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -223,7 +223,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-02-19T17:34:38Z",
-        "fileSize": 1545,
+        "fileSize": 1635,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -234,9 +234,9 @@
         "summary": "Extends the seafloor around Vvardenfell to hide the edge of the world in OpenMW. Compatible with everything.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50796/50796-1655819348-556467995.png",
         "uid": "429496780396",
-        "updatedAt": "2022-06-21T13:57:12Z",
+        "updatedAt": "2026-05-29T23:12:31Z",
         "fileIds": [
-          "1000031766",
+          "1000064928",
           "1000029394",
           "1000029393"
         ]

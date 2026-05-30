@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-05-25T14:10:33.371Z",
+  "checkedAt": "2026-05-30T09:45:30.881Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 18
+        "100": 19
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-26T16:26:53Z",
+        "fileSize": 39041,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 58990,
+        "name": "Unique Uniques",
+        "status": "published",
+        "summary": "Curated compilation of 200+ unique, vanilla-friendly designs for unique vanilla objects",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58990/58990-1779754594-883737052.png",
+        "uid": "429496788590",
+        "updatedAt": "2026-05-26T16:32:47Z",
+        "fileIds": [
+          "1000064668",
+          "1000064667"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-11T03:40:16Z",
@@ -165,10 +185,11 @@
         "summary": "CSO is a dynamic, customizable sound overhaul of the movement, combat, magic, and item sounds of Morrowind. Including terrain-based footsteps, armor clanking, journal update chimes, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49654/49654-1620019229-1287631691.png",
         "uid": "429496779254",
-        "updatedAt": "2026-05-14T19:04:39Z",
+        "updatedAt": "2026-05-25T23:31:19Z",
         "fileIds": [
-          "1000064095",
+          "1000064622",
           "1000051842",
+          "1000064095",
           "1000052026"
         ]
       },
@@ -223,7 +244,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-06-01T12:44:02Z",
-        "fileSize": 20,
+        "fileSize": 25,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -234,7 +255,14 @@
         "summary": "Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48267/48267-1593610901-1398876121.jpeg",
         "uid": "429496777867",
-        "updatedAt": "2024-08-22T15:56:38Z"
+        "updatedAt": "2026-05-25T23:43:36Z",
+        "fileIds": [
+          "1000064624",
+          "1000046851",
+          "1000046830",
+          "1000046829",
+          "1000020820"
+        ]
       },
       {
         "adultContent": false,
@@ -317,6 +345,6 @@
         "updatedAt": "2024-08-21T16:48:31Z"
       }
     ],
-    "totalCount": 18
+    "totalCount": 19
   }
 }

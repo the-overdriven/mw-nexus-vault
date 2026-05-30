@@ -1,15 +1,34 @@
 {
-  "checkedAt": "2026-05-25T14:09:12.202Z",
+  "checkedAt": "2026-05-30T09:44:13.130Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 84,
+        "100": 85,
         "110": 2,
         "1704": 2,
         "2176": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-26T13:50:38Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59107,
+        "name": "abotGoldWeight",
+        "status": "published",
+        "summary": "Gives gold weight adding a burden effect to the player",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59107/59107-1779802308-1554009365.png",
+        "uid": "429496788707",
+        "updatedAt": "2026-05-26T13:50:38Z",
+        "fileIds": [
+          "1000064665"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-01T14:10:09Z",
@@ -53,7 +72,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-02-03T14:29:36Z",
-        "fileSize": 7,
+        "fileSize": 8,
         "modCategory": {
           "categoryId": 33,
           "name": "Magic"
@@ -64,10 +83,11 @@
         "summary": "a redo of the original using vanilla light magic effect but keeping the animated light orb visuals",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58161/58161-1770128534-1985197087.jpg",
         "uid": "429496787761",
-        "updatedAt": "2026-02-03T16:24:48Z",
+        "updatedAt": "2026-05-25T21:18:18Z",
         "fileIds": [
-          "1000060450",
-          "1000060451"
+          "1000064610",
+          "1000060451",
+          "1000060450"
         ]
       },
       {
@@ -165,8 +185,9 @@
         "summary": "Top menu buttons should have automatically generated (A)ccelerator keys you can Alt + press to click the button",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57297/57297-1755172767-835553303.jpg",
         "uid": "429496786897",
-        "updatedAt": "2025-08-14T12:07:00Z",
+        "updatedAt": "2026-05-25T21:37:37Z",
         "fileIds": [
+          "1000064615",
           "1000055942"
         ]
       },
@@ -344,12 +365,13 @@
         "summary": "Use the defined Sorting Order Key/Right Mouse Click Combos to select Inventory/Contents/Barter items secondary sorting order.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54637/54637-1715532807-2096934215.png",
         "uid": "429496784237",
-        "updatedAt": "2025-10-29T20:21:23Z",
+        "updatedAt": "2026-05-25T21:32:45Z",
         "fileIds": [
-          "1000058032",
+          "1000064614",
           "1000047093",
-          "1000044696",
-          "1000047092"
+          "1000058032",
+          "1000047092",
+          "1000044696"
         ]
       },
       {
@@ -649,25 +671,26 @@
         "summary": "Actors Footprints",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52284/52284-1675626221-118890036.png",
         "uid": "429496781884",
-        "updatedAt": "2026-02-08T12:03:41Z",
+        "updatedAt": "2026-05-25T21:26:24Z",
         "fileIds": [
+          "1000064613",
           "1000060542",
-          "1000037025",
           "1000050688",
-          "1000040247",
-          "1000036674",
           "1000049241",
-          "1000035166",
-          "1000037732",
-          "1000040044",
-          "1000035437",
-          "1000045694",
+          "1000047292",
           "1000047242",
           "1000045972",
+          "1000045694",
+          "1000040247",
+          "1000040044",
           "1000039606",
-          "1000047292",
           "1000038117",
-          "1000036605"
+          "1000037732",
+          "1000037025",
+          "1000036674",
+          "1000036605",
+          "1000035437",
+          "1000035166"
         ]
       },
       {
@@ -700,8 +723,9 @@
         "summary": "Hostiles following through loading doors",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51919/51919-1666724190-768928665.jpeg",
         "uid": "429496781519",
-        "updatedAt": "2026-05-14T17:48:13Z",
+        "updatedAt": "2026-05-25T19:53:27Z",
         "fileIds": [
+          "1000064601",
           "1000064091",
           "1000055588",
           "1000055103",
@@ -788,8 +812,9 @@
         "summary": "Lava and similar scripted damage sources should use fire damage instead.More realistic and also a fire atronach will no more die walking in lava.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51637/51637-1658420315-1201519123.jpeg",
         "uid": "429496781237",
-        "updatedAt": "2026-05-14T17:52:26Z",
+        "updatedAt": "2026-05-25T19:44:01Z",
         "fileIds": [
+          "1000064598",
           "1000064092",
           "1000062092",
           "1000035853",
@@ -1060,8 +1085,9 @@
         "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
         "uid": "429496779448",
-        "updatedAt": "2026-05-14T17:43:54Z",
+        "updatedAt": "2026-05-25T19:47:35Z",
         "fileIds": [
+          "1000064600",
           "1000064090",
           "1000062972",
           "1000062777",
@@ -1201,7 +1227,18 @@
         "summary": "Visible equipped amulets & rings",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48529/48529-1593772445-845377431.jpeg",
         "uid": "429496778129",
-        "updatedAt": "2024-10-21T11:53:19Z"
+        "updatedAt": "2026-05-25T21:49:17Z",
+        "fileIds": [
+          "1000064616",
+          "1000047788",
+          "1000039985",
+          "1000039725",
+          "1000028620",
+          "1000021333",
+          "1000019838",
+          "1000019703",
+          "1000019698"
+        ]
       },
       {
         "adultContent": false,
@@ -1723,24 +1760,8 @@
           "1000021615",
           "1000026036"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2012-11-06T11:05:41Z",
-        "fileSize": 4,
-        "modCategory": {
-          "categoryId": 8,
-          "name": "Miscellaneous"
-        },
-        "modId": 42297,
-        "name": "Shrines 0 Gold Fix",
-        "status": "published",
-        "summary": "Normally shrines ask for 0 gold for blessings when your guild rank is two or better, this mod simply makes shrines give you blessing without asking for 0 gold.",
-        "thumbnailUrl": null,
-        "uid": "429496771897",
-        "updatedAt": "2012-11-06T11:08:26Z"
       }
     ],
-    "totalCount": 84
+    "totalCount": 85
   }
 }

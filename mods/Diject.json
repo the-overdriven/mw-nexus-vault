@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T14:25:39.800Z",
+  "checkedAt": "2026-05-30T09:46:20.839Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -40,9 +40,9 @@
         "summary": "In-game interactive world and local map with search, notes, fast travel, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57881/57881-1778004790-891540524.png",
         "uid": "429496787481",
-        "updatedAt": "2026-05-21T19:17:43Z",
+        "updatedAt": "2026-05-29T17:49:55Z",
         "fileIds": [
-          "1000064403",
+          "1000064900",
           "1000063013",
           "1000061882",
           "1000061877",
@@ -51,6 +51,7 @@
           "1000062989",
           "1000062988",
           "1000059921",
+          "1000064403",
           "1000064326",
           "1000064275",
           "1000064273",
@@ -167,10 +168,11 @@
         "summary": "A mod for OpenMW that provides an API for tracking objects and displaying the distance to their nearest position in the game UI.  It also includes a wrapper for creating HUD markers using HUDMarkers mod.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57286/57286-1755624428-1396795037.png",
         "uid": "429496786886",
-        "updatedAt": "2026-05-08T18:16:57Z",
+        "updatedAt": "2026-05-25T18:19:14Z",
         "fileIds": [
-          "1000063810",
+          "1000064592",
           "1000056221",
+          "1000063810",
           "1000061622",
           "1000057606",
           "1000056914",

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T15:21:38.254Z",
+  "checkedAt": "2026-05-30T09:51:20.741Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -71,7 +71,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-01-16T01:40:08Z",
-        "fileSize": 64839,
+        "fileSize": 65653,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -82,10 +82,10 @@
         "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts list, while adding more quests, items, and artifacts that",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
         "uid": "429496780247",
-        "updatedAt": "2026-05-24T22:29:47Z",
+        "updatedAt": "2026-05-30T00:16:02Z",
         "fileIds": [
-          "1000064559",
-          "1000064452"
+          "1000064931",
+          "1000064930"
         ]
       },
       {
@@ -99,10 +99,10 @@
         "modId": 46364,
         "name": "Pikas Miscellaneous Mods",
         "status": "published",
-        "summary": "Lots of various mods, from fixes to new models. Some things are pulled from my other mods, but many of the files here are unreleased mods of mine that have been recreated and improved. There are also a few brand-new mods that I didn't think",
+        "summary": "A grab-bag collection of mods I no longer intend to work on, but might throw an update out for every once in a blue moon.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46364/46364-1549142072-1771714646.png",
         "uid": "429496775964",
-        "updatedAt": "2026-05-21T06:50:26Z",
+        "updatedAt": "2026-05-29T16:46:52Z",
         "fileIds": [
           "1000064378",
           "1000064380",
@@ -124,9 +124,7 @@
           "1000013511",
           "1000013355",
           "1000013353",
-          "1000013351",
-          "1000064292",
-          "1000064291"
+          "1000013351"
         ]
       },
       {

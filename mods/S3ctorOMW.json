@@ -1,13 +1,108 @@
 {
-  "checkedAt": "2026-05-25T15:26:56.191Z",
+  "checkedAt": "2026-05-30T09:51:39.002Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13,
+        "100": 17,
         "101": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-30T06:02:09Z",
+        "fileSize": 2259,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59161,
+        "name": "Greenmote",
+        "status": "published",
+        "summary": "Greenmote is a blazing-fast Rust groundcover toolkit for Morrowind/OpenMW: Convert turns placed STAT refs into clean groundcover plugins, Unclip inspects/fixes terrain and static clipping so you can stop hand-patching grass mods. GUI + CLI,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59161/59161-1780119564-1334817955.png",
+        "uid": "429496788761",
+        "updatedAt": "2026-05-30T06:02:09Z",
+        "fileIds": [
+          "1000064951",
+          "1000064950",
+          "1000064949",
+          "1000064948",
+          "1000064947",
+          "1000064946"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-28T23:32:31Z",
+        "fileSize": 3775,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59140,
+        "name": "DreamWeave INI Importer",
+        "status": "published",
+        "summary": "Modern Morrowind.ini → OpenMW config importer with CLI, GUI, controller support, portable workflows, and a custom optimized software-rendered Linux/PortMaster build. Lightweight where it counts, safer than hand-editing configs, and built",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59140/59140-1780010819-1574966381.png",
+        "uid": "429496788740",
+        "updatedAt": "2026-05-29T10:29:41Z",
+        "fileIds": [
+          "1000064879",
+          "1000064878",
+          "1000064877",
+          "1000064876",
+          "1000064875",
+          "1000064874",
+          "1000064851",
+          "1000064850",
+          "1000064849",
+          "1000064848",
+          "1000064847",
+          "1000064846"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-28T15:24:17Z",
+        "fileSize": 824,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59132,
+        "name": "DreamWeave Archive Tool",
+        "status": "published",
+        "summary": "Fast, safe Bethesda archive tool powered by dream_archive: multithreaded extraction, creation/planning, verification and diff for TES3/TES4 BSA plus BA2 GNRL/DX10. A modern Rust alternative to bsatool for modders who need speed, provenance,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59132/59132-1779981834-1161614352.png",
+        "uid": "429496788732",
+        "updatedAt": "2026-05-28T15:24:17Z",
+        "fileIds": [
+          "1000064804",
+          "1000064803",
+          "1000064802",
+          "1000064801"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-27T14:21:42Z",
+        "fileSize": 110,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59122,
+        "name": "Cod3x",
+        "status": "published",
+        "summary": "Context-aware LLS annotations for OpenMW with improved auto-complete and OpenMW specializations.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59122/59122-1779891377-1287001163.png",
+        "uid": "429496788722",
+        "updatedAt": "2026-05-29T23:28:30Z",
+        "fileIds": [
+          "1000064929"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-01T04:49:54Z",
@@ -278,6 +373,6 @@
         ]
       }
     ],
-    "totalCount": 13
+    "totalCount": 17
   }
 }

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-05-25T14:59:37.142Z",
+  "checkedAt": "2026-05-30T09:48:29.814Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 18
+        "100": 16
       }
     },
     "nodes": [
@@ -44,25 +44,6 @@
         "fileIds": [
           "1000038760",
           "1000038151"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2022-05-09T09:21:15Z",
-        "fileSize": 8,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 51197,
-        "name": "Signpost Fast Travel (MWSE)",
-        "status": "published",
-        "summary": "Provide fast travel in the form of using signposts.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51197/51197-1652086073-1398782643.png",
-        "uid": "429496780797",
-        "updatedAt": "2022-08-25T11:57:39Z",
-        "fileIds": [
-          "1000032794"
         ]
       },
       {
@@ -145,27 +126,6 @@
           "1000029773",
           "1000029772",
           "1000033056"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-05-01T15:19:49Z",
-        "fileSize": 8,
-        "modCategory": {
-          "categoryId": 8,
-          "name": "Miscellaneous"
-        },
-        "modId": 47914,
-        "name": "Security Adjuster (MWSE)",
-        "status": "published",
-        "summary": "Shows your lockpick and disarm success. Gathers various lockpicking and disarming statistics.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47914/47914-1660965228-1186872039.jpeg",
-        "uid": "429496777514",
-        "updatedAt": "2022-06-16T04:57:28Z",
-        "fileIds": [
-          "1000031664",
-          "1000031556",
-          "1000031521"
         ]
       },
       {
@@ -394,6 +354,6 @@
         ]
       }
     ],
-    "totalCount": 18
+    "totalCount": 16
   }
 }

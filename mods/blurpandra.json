@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-05-25T14:12:54.902Z",
+  "checkedAt": "2026-05-30T09:45:55.745Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19
+        "100": 18
       }
     },
     "nodes": [
@@ -16,13 +16,14 @@
           "name": "Gameplay"
         },
         "modId": 58863,
-        "name": "Dangerous Debt (OpenMW)",
+        "name": "Debtor Background (OpenMW)",
         "status": "published",
-        "summary": "Pay off your debt or face the consequences.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58863/58863-1777779073-1749251591.png",
+        "summary": "Start the game in debt. Uses the Character Traits Framework.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58863/58863-1779738139-292933470.png",
         "uid": "429496788463",
-        "updatedAt": "2026-05-03T03:36:48Z",
+        "updatedAt": "2026-05-25T22:36:09Z",
         "fileIds": [
+          "1000064619",
           "1000063465"
         ]
       },
@@ -275,26 +276,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2025-09-12T18:06:12Z",
-        "fileSize": 22,
-        "modCategory": {
-          "categoryId": 15,
-          "name": "Utilities"
-        },
-        "modId": 57440,
-        "name": "Shader Wrangler",
-        "status": "published",
-        "summary": "OpenMW mod that toggles shaders based on FPS. It's like DFPSO, but for shaders.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57440/57440-1757700326-1397997464.png",
-        "uid": "429496787040",
-        "updatedAt": "2025-09-13T17:12:48Z",
-        "fileIds": [
-          "1000056802",
-          "1000056769"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2025-08-30T07:31:20Z",
         "fileSize": 60242,
         "modCategory": {
@@ -462,6 +443,6 @@
         ]
       }
     ],
-    "totalCount": 19
+    "totalCount": 18
   }
 }

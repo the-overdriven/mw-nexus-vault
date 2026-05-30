@@ -1,14 +1,53 @@
 {
-  "checkedAt": "2026-05-25T15:53:17.503Z",
+  "checkedAt": "2026-05-30T09:53:50.262Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 28,
+        "100": 30,
         "110": 2,
         "1151": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-28T21:02:30Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59137,
+        "name": "Locksmith Nerf",
+        "status": "published",
+        "summary": "Now security matters",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59137/59137-1780001983-914571043.png",
+        "uid": "429496788737",
+        "updatedAt": "2026-05-28T21:02:30Z",
+        "fileIds": [
+          "1000064834",
+          "1000064833"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-28T18:55:02Z",
+        "fileSize": 624,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59134,
+        "name": "Fishermans island",
+        "status": "published",
+        "summary": "An upgrade to the island west of Seyda Neen",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59134/59134-1779993087-1026195543.png",
+        "uid": "429496788734",
+        "updatedAt": "2026-05-28T18:55:02Z",
+        "fileIds": [
+          "1000064823"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-22T01:51:28Z",
@@ -524,6 +563,6 @@
         "updatedAt": "2023-05-01T18:16:12Z"
       }
     ],
-    "totalCount": 28
+    "totalCount": 30
   }
 }

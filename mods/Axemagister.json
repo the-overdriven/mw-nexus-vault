@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-05-25T14:10:58.910Z",
+  "checkedAt": "2026-05-30T09:45:55.151Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 27
+        "100": 28
       }
     },
     "nodes": [
@@ -380,6 +380,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2019-12-09T10:22:44Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 47368,
+        "name": "HardTrade",
+        "status": "published",
+        "summary": "Barter overhaul. Allows you to invest in stores.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47368/47368-1575886835-1882335041.jpeg",
+        "uid": "429496776968",
+        "updatedAt": "2022-05-19T15:51:31Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2019-09-11T17:15:45Z",
         "fileSize": 0,
         "modCategory": {
@@ -463,6 +479,6 @@
         ]
       }
     ],
-    "totalCount": 27
+    "totalCount": 28
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T15:08:25.548Z",
+  "checkedAt": "2026-05-30T09:50:12.025Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -67,7 +67,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-24T16:41:08Z",
-        "fileSize": 367,
+        "fileSize": 427,
         "modCategory": {
           "categoryId": 15,
           "name": "Utilities"
@@ -78,9 +78,9 @@
         "summary": "NIFZER0EDIT - is a browser-based NIF viewer and editor for working with Gamebryo / NetImmerse assets directly in your web browser. It can be used on any operating system without installation, making it a convenient alternative for quick",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58500/58500-1779627095-1122971538.png",
         "uid": "429496788100",
-        "updatedAt": "2026-05-24T12:57:26Z",
+        "updatedAt": "2026-05-26T11:11:03Z",
         "fileIds": [
-          "1000064538",
+          "1000064653",
           "1000061935"
         ]
       },
