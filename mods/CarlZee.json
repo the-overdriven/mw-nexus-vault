@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-05-30T09:46:19.201Z",
+  "checkedAt": "2026-06-06T17:44:39.848Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 21,
+        "100": 22,
         "120": 5,
         "130": 63
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-02T04:34:33Z",
+        "fileSize": 37867,
+        "modCategory": {
+          "categoryId": 23,
+          "name": "Companions"
+        },
+        "modId": 59207,
+        "name": "Thaum - Redguard Redemption",
+        "status": "published",
+        "summary": "Travel with a Redguard companion in search of a missing relative, slowly unravelling a struggle between redemption and revenge.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59207/59207-1780374603-922833412.png",
+        "uid": "429496788807",
+        "updatedAt": "2026-06-02T04:34:33Z",
+        "fileIds": [
+          "1000065129"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-01T16:20:38Z",
@@ -330,7 +349,7 @@
         "modId": 55480,
         "name": "Skyrim Style Quest Notifications Great Patch Hub",
         "status": "published",
-        "summary": "Adds 900+ new icons and mod support for 2300+ quests!",
+        "summary": "Adds 1000+ new icons and mod support for 2500+ quests!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55480/55480-1732400790-905115982.png",
         "uid": "429496785080",
         "updatedAt": "2026-01-16T21:10:31Z",
@@ -450,6 +469,6 @@
         ]
       }
     ],
-    "totalCount": 21
+    "totalCount": 22
   }
 }

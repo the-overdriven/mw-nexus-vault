@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-30T09:45:55.745Z",
+  "checkedAt": "2026-06-06T17:44:24.900Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 18
+        "100": 19
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-05T17:20:42Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 59246,
+        "name": "Nationalist Nerevarine Patch",
+        "status": "published",
+        "summary": "Small changes to AliceL93's mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59246/59246-1780679653-1147396727.png",
+        "uid": "429496788846",
+        "updatedAt": "2026-06-05T17:20:42Z",
+        "fileIds": [
+          "1000065309"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-03T03:36:48Z",
@@ -443,6 +462,6 @@
         ]
       }
     ],
-    "totalCount": 18
+    "totalCount": 19
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-30T09:44:13.130Z",
+  "checkedAt": "2026-06-06T17:43:46.843Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -723,8 +723,9 @@
         "summary": "Hostiles following through loading doors",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51919/51919-1666724190-768928665.jpeg",
         "uid": "429496781519",
-        "updatedAt": "2026-05-25T19:53:27Z",
+        "updatedAt": "2026-05-31T11:21:18Z",
         "fileIds": [
+          "1000064998",
           "1000064601",
           "1000064091",
           "1000055588",
@@ -812,8 +813,9 @@
         "summary": "Lava and similar scripted damage sources should use fire damage instead.More realistic and also a fire atronach will no more die walking in lava.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51637/51637-1658420315-1201519123.jpeg",
         "uid": "429496781237",
-        "updatedAt": "2026-05-25T19:44:01Z",
+        "updatedAt": "2026-05-30T21:31:10Z",
         "fileIds": [
+          "1000064980",
           "1000064598",
           "1000064092",
           "1000062092",
@@ -1085,8 +1087,9 @@
         "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
         "uid": "429496779448",
-        "updatedAt": "2026-05-25T19:47:35Z",
+        "updatedAt": "2026-05-30T21:28:28Z",
         "fileIds": [
+          "1000064979",
           "1000064600",
           "1000064090",
           "1000062972",

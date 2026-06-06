@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-30T09:53:01.933Z",
+  "checkedAt": "2026-06-06T17:52:24.952Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 55
+        "100": 56
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-31T13:33:34Z",
+        "fileSize": 1157,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59174,
+        "name": "Artifact Hunter Weapon Sheating patch",
+        "status": "published",
+        "summary": "Weapon sheathing meshes modified to be compatible with the meshes and textures from “Artifact Hunter by Articus - Replacer and overhaul for all artifacts”",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59174/59174-1780217923-1199917712.png",
+        "uid": "429496788774",
+        "updatedAt": "2026-05-31T13:33:34Z",
+        "fileIds": [
+          "1000065004"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-20T19:18:48Z",
@@ -1015,6 +1034,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 55
+    "totalCount": 56
   }
 }

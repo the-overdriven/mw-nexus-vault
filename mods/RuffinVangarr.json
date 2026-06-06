@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-05-30T09:51:38.733Z",
+  "checkedAt": "2026-06-06T17:50:26.403Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 43,
+        "100": 44,
         "110": 1,
         "2736": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-31T21:33:12Z",
+        "fileSize": 4773,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 59163,
+        "name": "No one expects the Alessian Inquisition",
+        "status": "published",
+        "summary": "A new dungeon with the robes of the Alessian Inquisition. (Don't worry, there are no Monty Python references beyond the name of the mod.)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59163/59163-1780220625-1300226076.png",
+        "uid": "429496788763",
+        "updatedAt": "2026-05-31T21:33:12Z",
+        "fileIds": [
+          "1000065040"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-07T06:33:37Z",
@@ -782,6 +801,6 @@
         "updatedAt": "2021-09-26T00:45:01Z"
       }
     ],
-    "totalCount": 43
+    "totalCount": 44
   }
 }

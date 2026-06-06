@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-30T09:48:51.002Z",
+  "checkedAt": "2026-06-06T17:48:38.735Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -144,7 +144,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-11-01T04:42:25Z",
-        "fileSize": 211322,
+        "fileSize": 96371,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -155,14 +155,14 @@
         "summary": "Plunge into an engaging prequel to the events of the TES4:Shivering Isles expansion as the world shivers with Whispers of Jyggalag. The familiar sights of sewers and Thieves Guild operatives quickly unravel as you find yourself caught",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53679/53679-1699058068-275586858.png",
         "uid": "429496783279",
-        "updatedAt": "2026-03-27T01:27:20Z",
+        "updatedAt": "2026-06-01T12:40:50Z",
         "fileIds": [
-          "1000062010",
-          "1000055303",
+          "1000065065",
           "1000060813",
+          "1000055303",
           "1000051447",
-          "1000040730",
-          "1000047532"
+          "1000047532",
+          "1000040730"
         ]
       },
       {
@@ -457,7 +457,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-12-18T22:08:36Z",
-        "fileSize": 114,
+        "fileSize": 306,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -468,11 +468,11 @@
         "summary": "Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of light.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50538/50538-1639865694-925651726.gif",
         "uid": "429496780138",
-        "updatedAt": "2026-05-16T20:08:30Z",
+        "updatedAt": "2026-05-31T23:16:25Z",
         "fileIds": [
-          "1000064191",
-          "1000031699",
+          "1000065051",
           "1000034860",
+          "1000031699",
           "1000028925",
           "1000028849",
           "1000028536",
@@ -694,7 +694,7 @@
       {
         "adultContent": false,
         "createdAt": "2020-11-16T15:53:00Z",
-        "fileSize": 110913,
+        "fileSize": 111044,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -705,11 +705,12 @@
         "summary": "OAAB_Data is a free-to-use asset repository for the Morrowind Community.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49042/49042-1605537205-589234817.gif",
         "uid": "429496778642",
-        "updatedAt": "2026-05-07T23:34:20Z",
+        "updatedAt": "2026-05-30T15:45:54Z",
         "fileIds": [
-          "1000063770",
+          "1000064960",
           "1000051795",
           "1000063212",
+          "1000063770",
           "1000058961",
           "1000051796",
           "1000051794",
@@ -1130,7 +1131,7 @@
       {
         "adultContent": false,
         "createdAt": "2018-06-02T04:34:06Z",
-        "fileSize": 21389,
+        "fileSize": 21685,
         "modCategory": {
           "categoryId": 38,
           "name": "Armour"
@@ -1141,15 +1142,16 @@
         "summary": "The concept behind the mod is to provide both an immersive experience by adding a uniform to mages guild members as well as to improve gameplay by providing a useful alternative to armor for mages; such as is offered in Skyrim. Many Mages",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45739/45739-1527914166-424910951.png",
         "uid": "429496775339",
-        "updatedAt": "2025-12-08T05:20:56Z",
+        "updatedAt": "2026-06-02T19:55:33Z",
         "fileIds": [
-          "1000059051",
+          "1000065184",
           "1000010410",
-          "1000034056",
-          "1000028171",
+          "1000059051",
+          "1000051381",
           "1000041536",
           "1000039333",
-          "1000051381",
+          "1000034056",
+          "1000028171",
           "1000020973"
         ]
       },
@@ -1347,7 +1349,7 @@
       {
         "adultContent": false,
         "createdAt": "2016-03-09T04:27:48Z",
-        "fileSize": 11501,
+        "fileSize": 11532,
         "modCategory": {
           "categoryId": 34,
           "name": "Towns and Villages"
@@ -1358,13 +1360,14 @@
         "summary": "Some tweaks and improvements to the original White Suran 2 mod which gives Suran a unique, pearly white texture to distinguish it from other Hlaalu settlements.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44153-7-1457496526.jpg",
         "uid": "429496773753",
-        "updatedAt": "2025-08-17T15:45:23Z",
+        "updatedAt": "2026-06-01T02:55:21Z",
         "fileIds": [
+          "1000065059",
           "1000056037",
-          "1000055564",
-          "1000041247",
+          "1000056007",
           "1000055908",
-          "1000056007"
+          "1000055564",
+          "1000041247"
         ]
       },
       {

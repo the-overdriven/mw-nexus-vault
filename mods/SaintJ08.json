@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-30T09:52:11.140Z",
+  "checkedAt": "2026-06-06T17:50:43.379Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 31
+        "100": 32
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-02T00:54:32Z",
+        "fileSize": 496855,
+        "modCategory": {
+          "categoryId": 10,
+          "name": "New Lands"
+        },
+        "modId": 59203,
+        "name": "Beyond Vvardenfell - Tamrielic Wildlands",
+        "status": "published",
+        "summary": "Huge landscape mod that brings all of Tamriel (and a few other continents) to The Elder Scrolls III Morrowind,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59203/59203-1780363480-995880576.png",
+        "uid": "429496788803",
+        "updatedAt": "2026-06-02T00:54:32Z",
+        "fileIds": [
+          "1000065123"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-17T01:18:04Z",
@@ -635,6 +654,6 @@
         ]
       }
     ],
-    "totalCount": 31
+    "totalCount": 32
   }
 }

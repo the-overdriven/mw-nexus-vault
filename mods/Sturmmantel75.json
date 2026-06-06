@@ -1,0 +1,222 @@
+{
+  "checkedAt": "2026-06-06T17:51:09.347Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 9
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-22T22:07:45Z",
+        "fileSize": 85815,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57671,
+        "name": "Morrowind PS1 Demake (pixel style)",
+        "status": "published",
+        "summary": "All textures remade/recolored and pixelated.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57671/57671-1761170187-1828822013.png",
+        "uid": "429496787271",
+        "updatedAt": "2025-10-26T00:04:05Z",
+        "fileIds": [
+          "1000057931",
+          "1000057862"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-09T19:41:57Z",
+        "fileSize": 40575,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57430,
+        "name": "Weird Faces",
+        "status": "published",
+        "summary": "All (?) 140 face textures remade with AI and stitched together with the original (4x upscaled) textures in Photoshop. In a \"Vanilla +\" way - but more weird, angry, sad, beutiful, ugly, sinister, evil ... .",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57430/57430-1757446972-958628814.jpg",
+        "uid": "429496787030",
+        "updatedAt": "2025-10-03T12:03:50Z",
+        "fileIds": [
+          "1000057329",
+          "1000057330"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-06T23:19:13Z",
+        "fileSize": 2583,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57415,
+        "name": "Cartoonish Water Texture Replacer",
+        "status": "published",
+        "summary": "Replacer for the vanilla water textures. No shader, just the textures.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57415/57415-1757272925-315480840.jpg",
+        "uid": "429496787015",
+        "updatedAt": "2025-09-07T19:21:38Z",
+        "fileIds": [
+          "1000056687"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-19T14:59:12Z",
+        "fileSize": 8017,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 57325,
+        "name": "Simple Standard Banners",
+        "status": "published",
+        "summary": "New textures for all standard banners (shops, temples, city-names). 26 in total.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57325/57325-1755615383-1108375753.png",
+        "uid": "429496786925",
+        "updatedAt": "2025-08-19T15:27:04Z",
+        "fileIds": [
+          "1000056136",
+          "1000056135"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-09T00:54:34Z",
+        "fileSize": 9231,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57265,
+        "name": "Artistic Upscaled Icons",
+        "status": "published",
+        "summary": "All icons in the game got upscaled and edited so they look more painted.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57265/57265-1754765399-232827127.png",
+        "uid": "429496786865",
+        "updatedAt": "2025-08-09T15:25:19Z",
+        "fileIds": [
+          "1000055797",
+          "1000055788",
+          "1000055772"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-03T20:12:33Z",
+        "fileSize": 151,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57236,
+        "name": "Dagoth Ur Main Menu",
+        "status": "published",
+        "summary": "Main menu background image replaced, menu typo replaced.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57236/57236-1754339675-1913159867.png",
+        "uid": "429496786836",
+        "updatedAt": "2025-08-04T20:32:35Z",
+        "fileIds": [
+          "1000055670",
+          "1000055644"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-03T10:38:57Z",
+        "fileSize": 53,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57232,
+        "name": "Sharp Book Menu Typo",
+        "status": "published",
+        "summary": "Sharper images of the book/scroll menu UI typo (\"Journal\", \"Next\", \"Prev\" ...).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57232/57232-1754184187-183219339.png",
+        "uid": "429496786832",
+        "updatedAt": "2025-08-03T10:38:57Z",
+        "fileIds": [
+          "1000055625"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-21T13:25:48Z",
+        "fileSize": 1216900,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56992,
+        "name": "Artistic Upscaled Textures - Watercolor Style",
+        "status": "published",
+        "summary": "\"Watercolored\" style for all textures, icons etc. Addons for various mods/assets like Tamriel_Data, OAAB and many others.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56992/56992-1757796127-1949397093.jpg",
+        "uid": "429496786592",
+        "updatedAt": "2025-10-25T12:53:23Z",
+        "fileIds": [
+          "1000057927",
+          "1000057885",
+          "1000056844",
+          "1000056524",
+          "1000056504",
+          "1000056437",
+          "1000056327",
+          "1000056326",
+          "1000056325",
+          "1000056276",
+          "1000056275",
+          "1000056274",
+          "1000056268",
+          "1000056239",
+          "1000056238",
+          "1000056229",
+          "1000056181",
+          "1000056180",
+          "1000056167",
+          "1000056286",
+          "1000057637",
+          "1000057363",
+          "1000057362",
+          "1000057213",
+          "1000057044",
+          "1000057043",
+          "1000057014",
+          "1000056837",
+          "1000056805",
+          "1000056804",
+          "1000056724"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-06-07T22:31:34Z",
+        "fileSize": 1847,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56903,
+        "name": "Book Menu Edits",
+        "status": "published",
+        "summary": "Just a simple change to the book (journal etc.) design.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56903/56903-1759078449-1837891653.png",
+        "uid": "429496786503",
+        "updatedAt": "2025-09-28T16:51:54Z",
+        "fileIds": [
+          "1000057202",
+          "1000054563",
+          "1000054249"
+        ]
+      }
+    ],
+    "totalCount": 9
+  }
+}

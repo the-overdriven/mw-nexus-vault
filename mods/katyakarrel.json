@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-05-30T09:48:22.390Z",
+  "checkedAt": "2026-06-06T17:47:19.822Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19,
+        "100": 20,
         "1704": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-02T20:51:41Z",
+        "fileSize": 19256,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59215,
+        "name": "Molag Mar Outskirts - Bonesaints Temple",
+        "status": "published",
+        "summary": "It enhances the area around Molag Mar by adding a new temple and a lighthouse with docks. Compatible with all mods that touch Molag Mar.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59215/59215-1780431966-602352917.png",
+        "uid": "429496788815",
+        "updatedAt": "2026-06-02T20:51:41Z",
+        "fileIds": [
+          "1000065182"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-03-29T17:43:37Z",
@@ -203,7 +222,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-07T15:32:28Z",
-        "fileSize": 239,
+        "fileSize": 267,
         "modCategory": {
           "categoryId": 18,
           "name": "Bug Fixes"
@@ -214,13 +233,14 @@
         "summary": "It fixes invisible objects in the hands of Animated NPCs when used together with Weapon sheathing. Useful when you have any mod that uses AM as a resource.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53479/53479-1694098678-1676292231.jpeg",
         "uid": "429496783079",
-        "updatedAt": "2025-03-09T09:54:59Z",
+        "updatedAt": "2026-06-06T11:31:20Z",
         "fileIds": [
-          "1000051025",
+          "1000065342",
           "1000040091",
-          "1000040092",
+          "1000051025",
           "1000040159",
-          "1000040106"
+          "1000040106",
+          "1000040092"
         ]
       },
       {
@@ -394,6 +414,6 @@
         "updatedAt": "2022-07-09T05:36:40Z"
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }

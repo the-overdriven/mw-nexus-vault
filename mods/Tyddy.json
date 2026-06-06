@@ -1,14 +1,41 @@
 {
-  "checkedAt": "2026-05-30T09:53:48.323Z",
+  "checkedAt": "2026-06-06T17:52:59.149Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 40,
+        "100": 41,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-31T18:32:48Z",
+        "fileSize": 12899,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 59180,
+        "name": "Anthropographia of Tamriel - Saxhleel Argonians and Hist-Dunmer Mutants",
+        "status": "published",
+        "summary": "First and only race mod from Tyddy inspired by Michael Kirkbride’s post that Argonians are Hist-Dunmer mutants — through change, memory, and the will of the Hist.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59180/59180-1780248408-1089142426.png",
+        "uid": "429496788780",
+        "updatedAt": "2026-06-03T12:07:19Z",
+        "fileIds": [
+          "1000065219",
+          "1000065218",
+          "1000065031",
+          "1000065030",
+          "1000065028",
+          "1000065026",
+          "1000065032",
+          "1000065029",
+          "1000065025"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-01-09T15:23:28Z",
@@ -665,6 +692,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 40
+    "totalCount": 41
   }
 }

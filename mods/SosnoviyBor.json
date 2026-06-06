@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-30T09:52:33.721Z",
+  "checkedAt": "2026-06-06T17:50:51.639Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 30
+        "100": 31
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-01T04:00:33Z",
+        "fileSize": 35,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59130,
+        "name": "Boons and Burdens - OpenMW Background Pack",
+        "status": "published",
+        "summary": "Expansion pack for Character Traits Framework with many new scripted backgrounds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59130/59130-1780080989-41928011.png",
+        "uid": "429496788730",
+        "updatedAt": "2026-06-01T04:00:33Z",
+        "fileIds": [
+          "1000065064"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-14T21:11:07Z",
@@ -610,6 +629,6 @@
         ]
       }
     ],
-    "totalCount": 30
+    "totalCount": 31
   }
 }

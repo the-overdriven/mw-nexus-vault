@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-05-30T09:47:28.832Z",
+  "checkedAt": "2026-06-06T17:46:47.282Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14
+        "100": 15
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-31T20:30:07Z",
+        "fileSize": 352,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59185,
+        "name": "(OpenMW) Animated climbing",
+        "status": "published",
+        "summary": "Now you can overcome low obstacles and climb on mountain or rock in third person (If you dare and if you are confident in your fatigue)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59185/59185-1780259305-708725360.png",
+        "uid": "429496788785",
+        "updatedAt": "2026-06-03T13:51:54Z",
+        "fileIds": [
+          "1000065223"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-28T22:42:08Z",
@@ -305,6 +324,6 @@
         ]
       }
     ],
-    "totalCount": 14
+    "totalCount": 15
   }
 }

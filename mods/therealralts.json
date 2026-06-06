@@ -1,12 +1,52 @@
 {
-  "checkedAt": "2026-05-30T09:53:47.784Z",
+  "checkedAt": "2026-06-06T17:52:43.784Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 10
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-04T10:26:25Z",
+        "fileSize": 580,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 59235,
+        "name": "Freaky Guars",
+        "status": "published",
+        "summary": "Increases the freakiness of guars by 100%.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59235/59235-1780565711-649379512.png",
+        "uid": "429496788835",
+        "updatedAt": "2026-06-04T10:26:25Z",
+        "fileIds": [
+          "1000065257"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-02T04:03:24Z",
+        "fileSize": 97,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 59205,
+        "name": "Inventory Extender (OpenMW)",
+        "status": "published",
+        "summary": "A complete overhaul of the Inventory window with a detailed list view, category filters, favorites, stolen indicators, V/W display, and more.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59205/59205-1780368452-1302228844.png",
+        "uid": "429496788805",
+        "updatedAt": "2026-06-04T21:43:40Z",
+        "fileIds": [
+          "1000065288",
+          "1000065214",
+          "1000065127"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-08T18:11:46Z",
@@ -198,6 +238,6 @@
         ]
       }
     ],
-    "totalCount": 8
+    "totalCount": 10
   }
 }

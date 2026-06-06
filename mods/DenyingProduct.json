@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-30T09:46:20.592Z",
+  "checkedAt": "2026-06-06T17:45:05.036Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -49,7 +49,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-18T07:12:44Z",
-        "fileSize": 9119,
+        "fileSize": 9063,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -58,11 +58,11 @@
         "name": "Dynamic Map (OpenMW)",
         "status": "published",
         "summary": "Map replacer - Dynamically adjust to your installed mods - Controller Supported",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58683/58683-1777700340-1317731932.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58683/58683-1780712440-1535908010.png",
         "uid": "429496788283",
-        "updatedAt": "2026-05-24T10:21:35Z",
+        "updatedAt": "2026-06-06T01:50:41Z",
         "fileIds": [
-          "1000064526"
+          "1000065328"
         ]
       },
       {

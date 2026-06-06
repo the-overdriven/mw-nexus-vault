@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-30T09:53:01.721Z",
+  "checkedAt": "2026-06-06T17:51:00.609Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -51,7 +51,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-04T04:14:24Z",
-        "fileSize": 5,
+        "fileSize": 6,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -62,8 +62,9 @@
         "summary": "A profiler based on ProFi to measure function time and garbage generation at runtime.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58582/58582-1775275975-82144262.jpg",
         "uid": "429496788182",
-        "updatedAt": "2026-04-04T04:14:24Z",
+        "updatedAt": "2026-05-30T18:14:49Z",
         "fileIds": [
+          "1000064966",
           "1000062332"
         ]
       },

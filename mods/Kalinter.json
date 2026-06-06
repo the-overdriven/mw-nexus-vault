@@ -1,14 +1,53 @@
 {
-  "checkedAt": "2026-05-30T09:48:22.049Z",
+  "checkedAt": "2026-06-06T17:46:56.091Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 27,
+        "100": 29,
         "101": 1,
         "7587": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-04T02:18:22Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59232,
+        "name": "So I Tied an Ash Yam to My Belt",
+        "status": "published",
+        "summary": "Which was the style at the time.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59232/59232-1780539331-966090018.jpg",
+        "uid": "429496788832",
+        "updatedAt": "2026-06-04T02:18:22Z",
+        "fileIds": [
+          "1000065248"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-05-31T00:56:14Z",
+        "fileSize": 44,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 59170,
+        "name": "Arkayn Rites",
+        "status": "published",
+        "summary": "Adds a Chapel of Arkay to Pelagiad, complete with a small graveyard and crypt, as well as a brief quest to inter the remains of a fallen legionnaire.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59170/59170-1780188671-158976347.jpg",
+        "uid": "429496788770",
+        "updatedAt": "2026-05-31T03:29:14Z",
+        "fileIds": [
+          "1000064990",
+          "1000064987"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-01T01:27:06Z",
@@ -23,8 +62,9 @@
         "summary": "A minor, atmospheric landscape overhaul for the Fields of Kummu.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58820/58820-1777598553-579220582.jpg",
         "uid": "429496788420",
-        "updatedAt": "2026-05-01T01:27:06Z",
+        "updatedAt": "2026-06-04T00:59:37Z",
         "fileIds": [
+          "1000065246",
           "1000063309"
         ]
       },
@@ -490,6 +530,6 @@
         "updatedAt": "2021-12-12T10:54:40Z"
       }
     ],
-    "totalCount": 27
+    "totalCount": 29
   }
 }

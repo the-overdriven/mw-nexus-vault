@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-30T09:48:22.594Z",
+  "checkedAt": "2026-06-06T17:47:36.449Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -70,7 +70,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-14T23:01:10Z",
-        "fileSize": 63,
+        "fileSize": 64,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -81,8 +81,9 @@
         "summary": "Toxicology! adds a dedicated custom Toxicology (poisoning) skill for OpenMW, giving poison-focused characters of all kinds their own progression path and UI-supported skill identity.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58976/58976-1778847205-2001976636.png",
         "uid": "429496788576",
-        "updatedAt": "2026-05-25T14:31:38Z",
+        "updatedAt": "2026-06-02T20:44:42Z",
         "fileIds": [
+          "1000065194",
           "1000064585",
           "1000064584",
           "1000064318",
@@ -107,8 +108,9 @@
         "summary": "Adds both a disease curing and contagion spreading mechanism, for both common disease and blight. Features multiple role-playing paths, unique spells and rewards, and if you're nice, many happy animals!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58929/58929-1778430203-2036699578.png",
         "uid": "429496788529",
-        "updatedAt": "2026-05-17T17:56:36Z",
+        "updatedAt": "2026-06-02T20:28:43Z",
         "fileIds": [
+          "1000065188",
           "1000064229",
           "1000064018",
           "1000063948",
@@ -119,7 +121,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-04T20:35:03Z",
-        "fileSize": 28,
+        "fileSize": 30,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -130,8 +132,9 @@
         "summary": "Staves! adds a dedicated staff skill for OpenMW, splitting staves out from Blunt Weapon and giving them their own mage-focused combat identity.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58592/58592-1777925235-1753801942.png",
         "uid": "429496788192",
-        "updatedAt": "2026-05-25T14:40:34Z",
+        "updatedAt": "2026-06-02T20:41:21Z",
         "fileIds": [
+          "1000065191",
           "1000064586",
           "1000064554",
           "1000064319",
@@ -148,7 +151,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-03T20:04:23Z",
-        "fileSize": 23,
+        "fileSize": 24,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -159,8 +162,9 @@
         "summary": "Evasion! adds a brand new skill governed by Agility and specialising in Stealth. It grants Sanctuary based on what you're wearing, how encumbered you are, and how tired you are, rewarding light, nimble builds without invalidating armour.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58590/58590-1777837352-1229571268.png",
         "uid": "429496788190",
-        "updatedAt": "2026-05-15T18:19:31Z",
+        "updatedAt": "2026-06-02T20:42:11Z",
         "fileIds": [
+          "1000065193",
           "1000064149",
           "1000064138",
           "1000064064",
@@ -171,7 +175,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-03T15:19:14Z",
-        "fileSize": 25,
+        "fileSize": 26,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -182,8 +186,9 @@
         "summary": "Throwing! adds a dedicated throwing skill for thrown weapons, splitting them out from Marksman and giving them their own unique identity.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58705/58705-1777820865-29531461.png",
         "uid": "429496788305",
-        "updatedAt": "2026-05-24T21:06:49Z",
+        "updatedAt": "2026-06-02T20:41:47Z",
         "fileIds": [
+          "1000065192",
           "1000064555",
           "1000064265",
           "1000064219",
@@ -209,8 +214,10 @@
         "summary": "Smart Potion Hotkeys provides nine configurable potion hotkey slots, each bound to a magic effect instead of a specific potion ID.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58571/58571-1777671695-40348480.png",
         "uid": "429496788171",
-        "updatedAt": "2026-05-24T17:07:26Z",
+        "updatedAt": "2026-06-02T20:53:15Z",
         "fileIds": [
+          "1000065195",
+          "1000065189",
           "1000064545",
           "1000064436",
           "1000064367",

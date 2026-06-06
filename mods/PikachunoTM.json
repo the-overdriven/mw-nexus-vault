@@ -1,12 +1,28 @@
 {
-  "checkedAt": "2026-05-30T09:51:20.741Z",
+  "checkedAt": "2026-06-06T17:50:24.129Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 9
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-01T09:08:42Z",
+        "fileSize": 1140,
+        "modCategory": {
+          "categoryId": 6,
+          "name": "Body, Face, and Hair"
+        },
+        "modId": 59192,
+        "name": "Kawaiijiit - A Khajiit Encutification Mod",
+        "status": "published",
+        "summary": "Makes Khajiit look adorable.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59192/59192-1780304689-555023017.png",
+        "uid": "429496788792",
+        "updatedAt": "2026-06-02T09:09:10Z"
+      },
       {
         "adultContent": false,
         "createdAt": "2024-10-20T09:19:08Z",
@@ -182,6 +198,6 @@
         ]
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }
