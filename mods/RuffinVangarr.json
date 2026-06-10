@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T17:50:26.403Z",
+  "checkedAt": "2026-06-10T23:17:40.641Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -23,8 +23,9 @@
         "summary": "A new dungeon with the robes of the Alessian Inquisition. (Don't worry, there are no Monty Python references beyond the name of the mod.)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59163/59163-1780220625-1300226076.png",
         "uid": "429496788763",
-        "updatedAt": "2026-05-31T21:33:12Z",
+        "updatedAt": "2026-06-08T16:59:08Z",
         "fileIds": [
+          "1000065472",
           "1000065040"
         ]
       },
@@ -118,11 +119,11 @@
         "createdAt": "2025-05-07T18:05:39Z",
         "fileSize": 3454,
         "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
+          "categoryId": 13,
+          "name": "Quests and Adventures"
         },
         "modId": 56482,
-        "name": "Daedric Akaviri Armor",
+        "name": "The Legend of the Master Smith (Daedric Akaviri Armor)",
         "status": "published",
         "summary": "Explore new Daedric ruins to the east of Urshilaku camp and craft a powerful set of armor with an unusual origin.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56482/56482-1746640388-2139265946.jpeg",
@@ -240,11 +241,11 @@
         "createdAt": "2023-12-12T06:38:51Z",
         "fileSize": 46787,
         "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
+          "categoryId": 13,
+          "name": "Quests and Adventures"
         },
         "modId": 53822,
-        "name": "Hammerfell Ansei Warrior Armour",
+        "name": "The last of the Ansei (Hammerfell Ansei Warrior Armour)",
         "status": "published",
         "summary": "Go on an adventure obtain an amazing armour in a Yokudan style.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53822/53822-1702362507-1517281213.png",
@@ -317,8 +318,8 @@
         "createdAt": "2023-05-15T12:02:26Z",
         "fileSize": 2534,
         "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
+          "categoryId": 13,
+          "name": "Quests and Adventures"
         },
         "modId": 52885,
         "name": "The Plague Doctor",

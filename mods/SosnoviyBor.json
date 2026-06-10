@@ -1,12 +1,48 @@
 {
-  "checkedAt": "2026-06-06T17:50:51.639Z",
+  "checkedAt": "2026-06-10T23:17:42.340Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 31
+        "100": 33
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-08T11:09:41Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59272,
+        "name": "Hole in the Pocket (OpenMW)",
+        "status": "published",
+        "summary": "Should've learned sewing when you had a chance!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59272/59272-1780916721-564129988.jpg",
+        "uid": "429496788872",
+        "updatedAt": "2026-06-08T11:09:41Z",
+        "fileIds": [
+          "1000065456"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-08T08:15:49Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59271,
+        "name": "Rock in the Shoe (OpenMW)",
+        "status": "published",
+        "summary": "Based on the real life story. Story about a minor inconvenience.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59271/59271-1780906345-2100274809.png",
+        "uid": "429496788871",
+        "updatedAt": "2026-06-08T08:15:49Z",
+        "fileIds": []
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-01T04:00:33Z",
@@ -40,9 +76,9 @@
         "summary": "ALMSIVI gave you the training dummies, and now I’m giving you the chance to practice with them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58992/58992-1778792626-47954225.png",
         "uid": "429496788592",
-        "updatedAt": "2026-05-14T21:11:07Z",
+        "updatedAt": "2026-06-10T13:30:59Z",
         "fileIds": [
-          "1000064099"
+          "1000065540"
         ]
       },
       {
@@ -105,7 +141,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-30T23:56:30Z",
-        "fileSize": 2242,
+        "fileSize": 21,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -116,12 +152,12 @@
         "summary": "Select your character's past that will shape their future. Almost 300 traits across 4 types to choose from!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58704/58704-1776598686-424312326.png",
         "uid": "429496788304",
-        "updatedAt": "2026-05-28T11:50:50Z",
+        "updatedAt": "2026-06-10T08:13:51Z",
         "fileIds": [
+          "1000065533",
           "1000064794",
           "1000064793",
           "1000063997",
-          "1000063995",
           "1000063994",
           "1000063992",
           "1000063991",
@@ -191,7 +227,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-26T15:12:30Z",
-        "fileSize": 15,
+        "fileSize": 18,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -202,10 +238,7 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-05-28T12:46:54Z",
-        "fileIds": [
-          "1000064795"
-        ]
+        "updatedAt": "2026-06-10T12:31:49Z"
       },
       {
         "adultContent": false,
@@ -393,9 +426,9 @@
         "summary": "Library for centralized and convenient follower tracking.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58053/58053-1767793455-1762329405.png",
         "uid": "429496787653",
-        "updatedAt": "2026-05-14T13:43:11Z",
+        "updatedAt": "2026-06-10T11:22:55Z",
         "fileIds": [
-          "1000064084"
+          "1000065537"
         ]
       },
       {
@@ -629,6 +662,6 @@
         ]
       }
     ],
-    "totalCount": 31
+    "totalCount": 33
   }
 }

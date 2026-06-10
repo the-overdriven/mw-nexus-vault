@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T17:48:28.058Z",
+  "checkedAt": "2026-06-10T23:17:34.791Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -113,7 +113,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-06-20T12:05:07Z",
-        "fileSize": 22,
+        "fileSize": 23,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -124,8 +124,9 @@
         "summary": "In \"civilized areas\", NPCs can call a guard (under conditions) if player has commited a crime. And better management of guard arrestations. See description...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56985/56985-1779800653-1440361043.png",
         "uid": "429496786585",
-        "updatedAt": "2026-05-28T09:00:02Z",
+        "updatedAt": "2026-06-09T19:09:34Z",
         "fileIds": [
+          "1000065513",
           "1000064790",
           "1000064662",
           "1000054748",
@@ -590,7 +591,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-02-18T16:07:05Z",
-        "fileSize": 120,
+        "fileSize": 122,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -601,8 +602,9 @@
         "summary": "Patch for Antares' Privileges And Services mod: bugs corrections, and improvements added.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52371/52371-1748287888-289058556.png",
         "uid": "429496781971",
-        "updatedAt": "2026-05-28T08:55:15Z",
+        "updatedAt": "2026-06-09T18:57:14Z",
         "fileIds": [
+          "1000065512",
           "1000064789",
           "1000064788",
           "1000064661",

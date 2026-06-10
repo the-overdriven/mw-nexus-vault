@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T17:49:41.562Z",
+  "checkedAt": "2026-06-10T23:17:37.333Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -69,8 +69,9 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-06-03T11:36:08Z",
+        "updatedAt": "2026-06-08T10:19:38Z",
         "fileIds": [
+          "1000065454",
           "1000065217",
           "1000065173",
           "1000065170",
@@ -126,7 +127,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:42Z",
-        "fileSize": 187,
+        "fileSize": 188,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -137,8 +138,9 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-06-05T13:49:11Z",
+        "updatedAt": "2026-06-08T10:34:57Z",
         "fileIds": [
+          "1000065455",
           "1000065307",
           "1000065303",
           "1000065159",
@@ -258,8 +260,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-06-03T07:21:35Z",
+        "updatedAt": "2026-06-10T09:52:13Z",
         "fileIds": [
+          "1000065534",
           "1000065213",
           "1000062236",
           "1000061514",
@@ -329,8 +332,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-04-23T08:31:38Z",
+        "updatedAt": "2026-06-10T07:13:29Z",
         "fileIds": [
+          "1000065531",
           "1000062955",
           "1000062433",
           "1000062402",
@@ -397,7 +401,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-07-15T12:20:55Z",
-        "fileSize": 11,
+        "fileSize": 17,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -408,21 +412,22 @@
         "summary": "Actors with melee attacks will now try to hide themselves if their enemies attack them from a position they cannot reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54976/54976-1721043142-824690318.jpeg",
         "uid": "429496784576",
-        "updatedAt": "2026-01-11T15:53:41Z",
+        "updatedAt": "2026-06-10T12:02:29Z",
         "fileIds": [
+          "1000065538",
           "1000059934",
-          "1000047121",
-          "1000047169",
-          "1000049734",
-          "1000046666",
-          "1000056158",
           "1000059769",
-          "1000047243",
-          "1000047021",
-          "1000046289",
-          "1000046290",
+          "1000056158",
+          "1000049734",
+          "1000047615",
           "1000047596",
-          "1000047615"
+          "1000047243",
+          "1000047169",
+          "1000047121",
+          "1000047021",
+          "1000046666",
+          "1000046290",
+          "1000046289"
         ]
       },
       {

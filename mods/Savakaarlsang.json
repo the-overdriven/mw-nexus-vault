@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T17:50:50.429Z",
+  "checkedAt": "2026-06-10T23:17:41.364Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-21T19:48:06Z",
-        "fileSize": 862,
+        "fileSize": 6800,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -21,16 +21,7 @@
         "summary": "Lets NPCs sit, sleep, and use furniture... as well as finally putting a stop to their suspicious loitering.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59046/59046-1779392385-1157512101.jpg",
         "uid": "429496788646",
-        "updatedAt": "2026-05-25T15:45:08Z",
-        "fileIds": [
-          "1000064572",
-          "1000064587",
-          "1000064571",
-          "1000064532",
-          "1000064463",
-          "1000064424",
-          "1000064405"
-        ]
+        "updatedAt": "2026-06-09T20:29:39Z"
       }
     ],
     "totalCount": 1

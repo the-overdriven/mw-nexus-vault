@@ -1,14 +1,35 @@
 {
-  "checkedAt": "2026-06-06T17:48:27.302Z",
+  "checkedAt": "2026-06-10T23:17:34.063Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15,
+        "100": 16,
         "1931": 1,
         "2006": 14
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-07T16:25:59Z",
+        "fileSize": 7,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59268,
+        "name": "Playable Faces",
+        "status": "published",
+        "summary": "Make any face or hair playable by simply dropping its model file to a designated subfolder. Keeps face collection organized and easy to manage.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59268/59268-1780846424-1318175880.png",
+        "uid": "429496788868",
+        "updatedAt": "2026-06-08T17:00:44Z",
+        "fileIds": [
+          "1000065473",
+          "1000065405",
+          "1000065401"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-11T20:00:15Z",
@@ -269,6 +290,6 @@
         "updatedAt": "2020-05-23T08:33:11Z"
       }
     ],
-    "totalCount": 15
+    "totalCount": 16
   }
 }

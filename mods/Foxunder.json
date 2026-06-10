@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T17:45:47.650Z",
+  "checkedAt": "2026-06-10T23:17:31.360Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -30,7 +30,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-26T22:32:18Z",
-        "fileSize": 103,
+        "fileSize": 105,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -38,21 +38,22 @@
         "modId": 59117,
         "name": "(OpenMW) Interactions Animated",
         "status": "published",
-        "summary": "Plays animations when picking up items / activating containers, non-teleport doors or activators",
+        "summary": "Plays animations when picking up items / activating containers, doors or activators",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59117/59117-1779834710-1366291765.jpg",
         "uid": "429496788717",
-        "updatedAt": "2026-06-02T11:55:00Z",
+        "updatedAt": "2026-06-10T17:02:41Z",
         "fileIds": [
+          "1000065550",
+          "1000065426",
+          "1000065363",
           "1000065153",
-          "1000064883",
-          "1000064853",
-          "1000064693"
+          "1000064883"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2026-05-23T14:55:38Z",
-        "fileSize": 409,
+        "fileSize": 410,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -63,11 +64,10 @@
         "summary": "Plays an animation when you drink or eat something or NPCs drink something. Special animations for Telvanni Bug Musk.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59069/59069-1779626750-1728400660.png",
         "uid": "429496788669",
-        "updatedAt": "2026-05-31T17:39:57Z",
+        "updatedAt": "2026-06-10T15:20:13Z",
         "fileIds": [
-          "1000065022",
-          "1000064884",
-          "1000064758"
+          "1000065543",
+          "1000065362"
         ]
       },
       {
@@ -154,7 +154,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-26T11:53:37Z",
-        "fileSize": 64,
+        "fileSize": 3,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -165,20 +165,22 @@
         "summary": "A few changes to the original mod, more mods are supported.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58753/58753-1777203840-230426865.jpg",
         "uid": "429496788353",
-        "updatedAt": "2026-05-16T23:34:53Z",
+        "updatedAt": "2026-06-08T10:15:29Z",
         "fileIds": [
-          "1000063109",
+          "1000065451",
           "1000063063",
+          "1000065453",
+          "1000065452",
+          "1000065450",
+          "1000065449",
+          "1000065448",
+          "1000065447",
+          "1000065439",
           "1000064196",
-          "1000064165",
           "1000063260",
           "1000063214",
-          "1000063107",
-          "1000063106",
-          "1000063105",
-          "1000063104",
-          "1000063103",
-          "1000063102"
+          "1000063109",
+          "1000063103"
         ]
       },
       {

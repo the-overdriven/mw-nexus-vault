@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-06T17:51:00.609Z",
+  "checkedAt": "2026-06-10T23:17:42.620Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 18
+        "100": 19
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-10T19:08:44Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 59294,
+        "name": "Tomorrowind",
+        "status": "published",
+        "summary": "Tired of trying to find the perfect texture replacer? Morrowind looks too good now? Screw that! Let's go RAVE!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59294/59294-1781118447-304374126.png",
+        "uid": "429496788894",
+        "updatedAt": "2026-06-10T19:08:44Z",
+        "fileIds": [
+          "1000065551"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-01T05:47:13Z",
@@ -392,6 +411,6 @@
         ]
       }
     ],
-    "totalCount": 18
+    "totalCount": 19
   }
 }

@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-06-10T23:17:35.359Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 3,
+        "3474": 4
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-10T16:52:33Z",
+        "fileSize": 40987,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59292,
+        "name": "Mage Robes - Voiced Addon",
+        "status": "published",
+        "summary": "Adds voiced lines for the Mage Robes mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59292/59292-1781110132-877701506.png",
+        "uid": "429496788892",
+        "updatedAt": "2026-06-10T16:52:33Z",
+        "fileIds": [
+          "1000065548"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-10T16:37:44Z",
+        "fileSize": 153,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59289,
+        "name": "Lucid Disturbing Dreams - Voiced Addon",
+        "status": "published",
+        "summary": "Adds voiced lines for the Lucid Disturbing Dreams mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59289/59289-1781109227-196619197.png",
+        "uid": "429496788889",
+        "updatedAt": "2026-06-10T16:37:44Z",
+        "fileIds": [
+          "1000065546"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-09T17:34:49Z",
+        "fileSize": 103278,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 59283,
+        "name": "Morrowind Voice Generator",
+        "status": "published",
+        "summary": "Generate voice lines for Morrowind mods using local voices on your GPU or an online provider like ElevenLabs, with a separate voice for every race, gender, or NPC.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59283/59283-1781024651-1762582056.png",
+        "uid": "429496788883",
+        "updatedAt": "2026-06-10T21:10:15Z",
+        "fileIds": [
+          "1000065555",
+          "1000065528",
+          "1000065508",
+          "1000065523"
+        ]
+      }
+    ],
+    "totalCount": 3
+  }
+}

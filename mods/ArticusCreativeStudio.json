@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-06T17:44:14.610Z",
+  "checkedAt": "2026-06-10T23:17:27.292Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 93
+        "100": 94
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-10T16:55:10Z",
+        "fileSize": 4008,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59293,
+        "name": "A Birthday Gift - Immersive Crystals v2 Replacer",
+        "status": "published",
+        "summary": "A drop from my lvl 34 holiday box",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59293/59293-1781110275-1898971337.png",
+        "uid": "429496788893",
+        "updatedAt": "2026-06-10T16:55:10Z",
+        "fileIds": [
+          "1000065549"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-18T10:09:43Z",
@@ -1419,24 +1438,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46379/46379-1740835793-1637580545.jpeg",
         "uid": "429496775979",
         "updatedAt": "2025-03-01T13:58:09Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-12-12T20:51:16Z",
-        "fileSize": 29997,
-        "modCategory": {
-          "categoryId": 17,
-          "name": "Modders Resources and Tutorials"
-        },
-        "modId": 46216,
-        "name": "Fear The Golden Saint - Resource by Articus",
-        "status": "published",
-        "summary": "Some HQ models and textures of Golden Saint for modders to use. Variations may be used as a replacer.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46216/46216-1549489903-538233545.png",
-        "uid": "429496775816",
-        "updatedAt": "2019-02-06T21:21:08Z"
       }
     ],
-    "totalCount": 93
+    "totalCount": 94
   }
 }

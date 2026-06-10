@@ -1,15 +1,36 @@
 {
-  "checkedAt": "2026-06-06T17:50:16.858Z",
+  "checkedAt": "2026-06-10T23:17:38.711Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 43,
+        "100": 44,
         "1303": 3,
         "2696": 1,
         "4187": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-07T13:20:13Z",
+        "fileSize": 106664,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 59245,
+        "name": "(OpenMW) LUA Unleashed - Discord Rich Presence - Improved Performance - Unlocked Sandbox",
+        "status": "published",
+        "summary": "Unlock the full power of LuaJIT. Fixes GC lagspikes and unlocks the sandbox (optional)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59245/59245-1780838397-1933092960.png",
+        "uid": "429496788845",
+        "updatedAt": "2026-06-10T07:12:56Z",
+        "fileIds": [
+          "1000065387",
+          "1000065395",
+          "1000065530"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-12T05:54:45Z",
@@ -1199,6 +1220,6 @@
         ]
       }
     ],
-    "totalCount": 43
+    "totalCount": 44
   }
 }

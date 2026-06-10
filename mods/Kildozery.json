@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T17:47:36.449Z",
+  "checkedAt": "2026-06-10T23:17:33.883Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -151,7 +151,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-03T20:04:23Z",
-        "fileSize": 24,
+        "fileSize": 25,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -162,8 +162,9 @@
         "summary": "Evasion! adds a brand new skill governed by Agility and specialising in Stealth. It grants Sanctuary based on what you're wearing, how encumbered you are, and how tired you are, rewarding light, nimble builds without invalidating armour.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58590/58590-1777837352-1229571268.png",
         "uid": "429496788190",
-        "updatedAt": "2026-06-02T20:42:11Z",
+        "updatedAt": "2026-06-08T16:56:26Z",
         "fileIds": [
+          "1000065469",
           "1000065193",
           "1000064149",
           "1000064138",
