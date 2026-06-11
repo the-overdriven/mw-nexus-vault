@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-10T23:17:37.333Z",
+  "checkedAt": "2026-06-11T17:40:20.688Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -69,8 +69,10 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-06-08T10:19:38Z",
+        "updatedAt": "2026-06-11T15:55:03Z",
         "fileIds": [
+          "1000065587",
+          "1000065586",
           "1000065454",
           "1000065217",
           "1000065173",
@@ -138,8 +140,9 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-06-08T10:34:57Z",
+        "updatedAt": "2026-06-11T12:47:41Z",
         "fileIds": [
+          "1000065580",
           "1000065455",
           "1000065307",
           "1000065303",
@@ -332,8 +335,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-06-10T07:13:29Z",
+        "updatedAt": "2026-06-11T12:38:50Z",
         "fileIds": [
+          "1000065579",
           "1000065531",
           "1000062955",
           "1000062433",

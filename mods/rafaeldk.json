@@ -1,31 +1,12 @@
 {
-  "checkedAt": "2026-06-10T23:17:39.643Z",
+  "checkedAt": "2026-06-11T17:40:47.273Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3
+        "100": 2
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2024-08-28T15:34:38Z",
-        "fileSize": 23,
-        "modCategory": {
-          "categoryId": 18,
-          "name": "Bug Fixes"
-        },
-        "modId": 55162,
-        "name": "Westly's Faces Refurbished TR_Data patch",
-        "status": "published",
-        "summary": "Fixes 2 heads included in WFR TR_Data that had the wrong filepath set for their textures",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55162/55162-1724859017-1062878614.png",
-        "uid": "429496784762",
-        "updatedAt": "2024-08-28T15:34:38Z",
-        "fileIds": [
-          "1000046942"
-        ]
-      },
       {
         "adultContent": false,
         "createdAt": "2024-08-13T21:08:02Z",
@@ -152,6 +133,6 @@
         ]
       }
     ],
-    "totalCount": 3
+    "totalCount": 2
   }
 }
