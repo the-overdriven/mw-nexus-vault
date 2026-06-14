@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-06-11T17:40:00.728Z",
+  "checkedAt": "2026-06-14T20:37:46.596Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16,
+        "100": 17,
         "1931": 1,
         "2006": 14
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-13T22:00:14Z",
+        "fileSize": 277,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59332,
+        "name": "Unique NPC Randomizer",
+        "status": "published",
+        "summary": "Randomizes every NPC's appearance from the pool of available models, minimizing repeats through deck-shuffle-based distribution. Morrowind.exe & OpenMW compatible.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59332/59332-1781363096-326002021.jpg",
+        "uid": "429496788932",
+        "updatedAt": "2026-06-13T22:00:14Z",
+        "fileIds": [
+          "1000065695"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-07T16:25:59Z",
@@ -20,13 +39,12 @@
         "modId": 59268,
         "name": "Playable Faces",
         "status": "published",
-        "summary": "Make any face or hair playable by simply dropping its model file to a designated subfolder. Keeps face collection organized and easy to manage.",
+        "summary": "Make any face or hair playable by simply dropping its model file to a designated subfolder. Keeps face and hair collection organized and easy to manage.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59268/59268-1780846424-1318175880.png",
         "uid": "429496788868",
-        "updatedAt": "2026-06-08T17:00:44Z",
+        "updatedAt": "2026-06-11T22:42:16Z",
         "fileIds": [
-          "1000065473",
-          "1000065405",
+          "1000065603",
           "1000065401"
         ]
       },
@@ -115,7 +133,7 @@
           "name": "User Interface"
         },
         "modId": 55620,
-        "name": "Highlighter",
+        "name": "Highlighter (MWSE)",
         "status": "published",
         "summary": "Highlights usable objects when looking at them",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55620/55620-1734783218-959198096.png",
@@ -131,7 +149,7 @@
           "name": "Audio"
         },
         "modId": 55543,
-        "name": "Musica Continuum",
+        "name": "Musica Continuum (MWSE)",
         "status": "published",
         "summary": "Seamlessly resumes the previous track after theme transitions (HeartStrings fork)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55543/55543-1733573286-375035917.png",
@@ -179,7 +197,7 @@
           "name": "Audio"
         },
         "modId": 53938,
-        "name": "Deathrattle Sounds",
+        "name": "Deathrattle Sounds (MWSE)",
         "status": "published",
         "summary": "NPCs shut up and groan when killed.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53938/53938-1704475009-990189450.jpeg",
@@ -239,7 +257,15 @@
         "summary": "Makes the game more playable by adding big booties. Curated DMRA outfit replacers without the DM part. Affects female hero and female NPCs. Non-nude.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53813/53813-1702253009-662239965.png",
         "uid": "429496783413",
-        "updatedAt": "2024-12-29T23:20:45Z"
+        "updatedAt": "2026-06-13T19:42:06Z",
+        "fileIds": [
+          "1000049147",
+          "1000065687",
+          "1000042017",
+          "1000041758",
+          "1000041757",
+          "1000041394"
+        ]
       },
       {
         "adultContent": false,
@@ -290,6 +316,6 @@
         "updatedAt": "2020-05-23T08:33:11Z"
       }
     ],
-    "totalCount": 16
+    "totalCount": 17
   }
 }

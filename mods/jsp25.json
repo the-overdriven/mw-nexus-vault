@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-11T17:39:59.369Z",
+  "checkedAt": "2026-06-14T20:37:38.074Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 36
+        "100": 37
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-14T16:43:16Z",
+        "fileSize": 43,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59346,
+        "name": "Piran Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Piran.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59346/59346-1781454661-1171517784.png",
+        "uid": "429496788946",
+        "updatedAt": "2026-06-14T16:43:16Z",
+        "fileIds": [
+          "1000065727"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-06T21:08:42Z",
@@ -730,6 +749,6 @@
         ]
       }
     ],
-    "totalCount": 36
+    "totalCount": 37
   }
 }

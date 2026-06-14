@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-11T17:40:50.603Z",
+  "checkedAt": "2026-06-14T20:40:39.001Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -209,7 +209,7 @@
           "name": "Bug Fixes"
         },
         "modId": 58014,
-        "name": "Forget Me Not",
+        "name": "Forget Me Not (Talked To PC fix)",
         "status": "published",
         "summary": "NPCs that have you have talked to will not forget you now. In Morrowind, NPCs will get reset after 72 in game hours of not being loaded. This mod restores the TalkedTo flag next time the NPC is loaded, so they will not have forgotten you.If",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58014/58014-1767174316-580080522.jpg",
@@ -267,20 +267,21 @@
           "name": "Gameplay"
         },
         "modId": 57321,
-        "name": "Stealth Overhaul",
+        "name": "Stealth Overhaul 2",
         "status": "published",
-        "summary": "Stealth Overhaul — a lightweight MWSE-powered rework of sneaking, detection and sneak attacks that makes NPC vision, hearing and investigations more logical, configurable and immersive.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57321/57321-1757499246-863244907.jpg",
+        "summary": "(2.0) An overhaul of how stealth works in Morrowind, complete with new sneak UI and visual feedback. Suspicion based sneaking, Sneak Attacks, Logical NPC senses, configurable and immersive.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57321/57321-1781341397-1554471151.jpg",
         "uid": "429496786921",
-        "updatedAt": "2026-01-13T20:46:49Z",
+        "updatedAt": "2026-06-13T08:44:00Z",
         "fileIds": [
+          "1000065656",
           "1000059992",
-          "1000056080",
           "1000059962",
+          "1000059579",
+          "1000057769",
           "1000057744",
           "1000056736",
-          "1000057769",
-          "1000059579"
+          "1000056080"
         ]
       },
       {

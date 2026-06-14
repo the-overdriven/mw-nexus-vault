@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-06-11T17:40:02.147Z",
+  "checkedAt": "2026-06-14T20:38:09.269Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 9,
+        "100": 8,
         "2945": 1
       }
     },
@@ -74,22 +74,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2020-07-29T05:59:33Z",
-        "fileSize": 5,
-        "modCategory": {
-          "categoryId": 8,
-          "name": "Miscellaneous"
-        },
-        "modId": 48632,
-        "name": "Door Randomizer",
-        "status": "published",
-        "summary": "Randomizes the destination of all cell-change doors. Configuration options such as: randomize chance; pick only cells of type: interior, exterior, both, or match original destination; only pick cells that have a door to place the player",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48632/48632-1596000302-1589133180.png",
-        "uid": "429496778232",
-        "updatedAt": "2022-05-11T20:39:00Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2020-07-26T05:00:34Z",
         "fileSize": 19,
         "modCategory": {
@@ -153,6 +137,6 @@
         "updatedAt": "2020-10-08T05:18:36Z"
       }
     ],
-    "totalCount": 9
+    "totalCount": 8
   }
 }

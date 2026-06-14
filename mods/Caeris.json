@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-11T17:39:39.424Z",
+  "checkedAt": "2026-06-14T20:36:24.743Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -75,12 +75,12 @@
         "modId": 58623,
         "name": "Good Citizens Hand Over Skooma",
         "status": "published",
-        "summary": "This is a friendly roleplaying mod for non-drugdealing players. Now, you can hand over your skooma and moon sugar to high-ranking members of the Imperial Cult for a small finder's fee.",
+        "summary": "This is an immersive mod that allows good players to hand over skooma instead of selling it to their local Khajiit. Now, you can hand over your skooma and moon sugar to high-ranking members of the Imperial Cult or the Tribunal Temple for a",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58623/58623-1775811680-855439844.jpg",
         "uid": "429496788223",
-        "updatedAt": "2026-04-10T09:11:28Z",
+        "updatedAt": "2026-06-12T21:49:26Z",
         "fileIds": [
-          "1000062521"
+          "1000065640"
         ]
       },
       {
@@ -97,10 +97,10 @@
         "summary": "A straightforward approach to an alternative start mod, as well as a modders resource.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57525/57525-1780995290-819485618.png",
         "uid": "429496787125",
-        "updatedAt": "2026-06-09T09:08:30Z",
+        "updatedAt": "2026-06-13T21:53:02Z",
         "fileIds": [
-          "1000065494",
-          "1000065493",
+          "1000065694",
+          "1000065693",
           "1000060465"
         ]
       },

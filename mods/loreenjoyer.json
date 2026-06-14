@@ -1,13 +1,108 @@
 {
-  "checkedAt": "2026-06-11T17:40:02.993Z",
+  "checkedAt": "2026-06-14T20:38:09.773Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 4,
+        "100": 9,
         "3474": 4
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-13T02:45:12Z",
+        "fileSize": 6198,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59317,
+        "name": "Redaynia Restored - Voiced Addon",
+        "status": "published",
+        "summary": "Adds voice lines for \"Redaynia Restored\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59317/59317-1781318594-1472977509.png",
+        "uid": "429496788917",
+        "updatedAt": "2026-06-13T02:45:12Z",
+        "fileIds": [
+          "1000065644"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-12T22:43:32Z",
+        "fileSize": 10061,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59316,
+        "name": "Early Transport to Mournhold - Voiced Addon",
+        "status": "published",
+        "summary": "Adds voice lines for \"Early Transport to Mournhold\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59316/59316-1781303883-1044273344.png",
+        "uid": "429496788916",
+        "updatedAt": "2026-06-12T22:43:32Z",
+        "fileIds": [
+          "1000065641"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-12T04:33:13Z",
+        "fileSize": 9146,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59309,
+        "name": "Mages Guild Catch a Spy - Voiced Addon",
+        "status": "published",
+        "summary": "Adds voice lines for \"Mages Guild Catch a Spy - Telvanni Double Agent Edition\"",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59309/59309-1781303813-1011948112.png",
+        "uid": "429496788909",
+        "updatedAt": "2026-06-12T04:33:13Z",
+        "fileIds": [
+          "1000065614"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-12T04:13:26Z",
+        "fileSize": 35580,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59308,
+        "name": "Witness Structure - The Seawall of Vivec - Voiced Addon",
+        "status": "published",
+        "summary": "Adds voice lines for Witness Structure - The Seawall of Vivec",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59308/59308-1781303753-1098039511.png",
+        "uid": "429496788908",
+        "updatedAt": "2026-06-12T04:13:26Z",
+        "fileIds": [
+          "1000065612"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-11T21:03:39Z",
+        "fileSize": 1829,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59303,
+        "name": "Alfiq Integration - Voiced Addon",
+        "status": "published",
+        "summary": "Adds voiced lines for the Alfiq Integration mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59303/59303-1781211700-573153967.png",
+        "uid": "429496788903",
+        "updatedAt": "2026-06-11T21:03:39Z",
+        "fileIds": [
+          "1000065597"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-11T16:40:53Z",
@@ -79,15 +174,19 @@
         "summary": "Generate voice lines for Morrowind mods using local voices on your GPU or an online provider like ElevenLabs, with a separate voice for every race, gender, or NPC.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59283/59283-1781024651-1762582056.png",
         "uid": "429496788883",
-        "updatedAt": "2026-06-10T21:10:15Z",
+        "updatedAt": "2026-06-13T18:00:24Z",
         "fileIds": [
-          "1000065555",
+          "1000065685",
           "1000065528",
           "1000065508",
+          "1000065680",
+          "1000065639",
+          "1000065604",
+          "1000065555",
           "1000065523"
         ]
       }
     ],
-    "totalCount": 4
+    "totalCount": 9
   }
 }

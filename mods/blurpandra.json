@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-11T17:39:39.027Z",
+  "checkedAt": "2026-06-14T20:35:53.462Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19
+        "100": 20
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-12T01:06:15Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 59306,
+        "name": "Modernized HUD (HUD Hider Edition)",
+        "status": "published",
+        "summary": "Fork of allardpong's Modernized HUD.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59306/59306-1781226193-80231515.png",
+        "uid": "429496788906",
+        "updatedAt": "2026-06-12T01:06:15Z",
+        "fileIds": [
+          "1000065606"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-10T01:23:23Z",
@@ -21,8 +40,10 @@
         "summary": "Dynamically hides the HUD when you don't need it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59286/59286-1781054473-1234384889.png",
         "uid": "429496788886",
-        "updatedAt": "2026-06-10T01:23:23Z",
+        "updatedAt": "2026-06-12T03:25:35Z",
         "fileIds": [
+          "1000065611",
+          "1000065608",
           "1000065521"
         ]
       },
@@ -257,8 +278,9 @@
         "summary": "Dead simple text HUD compass.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57704/57704-1761626983-124443750.png",
         "uid": "429496787304",
-        "updatedAt": "2026-05-21T02:56:14Z",
+        "updatedAt": "2026-06-12T02:35:58Z",
         "fileIds": [
+          "1000065609",
           "1000064376",
           "1000058586",
           "1000058063",
@@ -462,6 +484,6 @@
         ]
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }

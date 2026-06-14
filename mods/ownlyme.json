@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-11T17:40:46.191Z",
+  "checkedAt": "2026-06-14T20:40:03.533Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -24,11 +24,15 @@
         "summary": "Unlock the full power of LuaJIT. Fixes GC lagspikes and unlocks the sandbox (optional)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59245/59245-1780838397-1933092960.png",
         "uid": "429496788845",
-        "updatedAt": "2026-06-10T07:12:56Z",
+        "updatedAt": "2026-06-13T15:02:35Z",
         "fileIds": [
-          "1000065387",
+          "1000065677",
           "1000065395",
-          "1000065530"
+          "1000065679",
+          "1000065676",
+          "1000065673",
+          "1000065530",
+          "1000065387"
         ]
       },
       {
