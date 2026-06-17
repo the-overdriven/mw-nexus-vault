@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-06-14T20:40:14.171Z",
+  "checkedAt": "2026-06-17T22:19:10.813Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17,
+        "100": 16,
         "101": 1,
         "120": 1
       }
@@ -18,7 +18,7 @@
           "name": "Utilities"
         },
         "modId": 59161,
-        "name": "Greenmote",
+        "name": "Greenmote - Groundcoverify Replacement and Grass Fixer",
         "status": "published",
         "summary": "Greenmote is a blazing-fast Rust groundcover toolkit for Morrowind/OpenMW: Convert turns placed STAT refs into clean groundcover plugins, Unclip inspects/fixes terrain and static clipping so you can stop hand-patching grass mods. GUI + CLI,",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59161/59161-1780119564-1334817955.png",
@@ -113,41 +113,20 @@
           "name": "Utilities"
         },
         "modId": 58557,
-        "name": "Rubic0n",
+        "name": "Rubic0n - OpenMW Lua Go Vroom",
         "status": "published",
         "summary": "Ultra-high performance LuaJIT with extensions for OpenMW, TES3MP, MWSE, and DreamWeave. Optionally unsandboxed variant for UNLIMITED POWAH.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58557/58557-1781435826-599873961.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58557/58557-1781589287-1952900672.png",
         "uid": "429496788157",
-        "updatedAt": "2026-06-14T19:45:06Z",
+        "updatedAt": "2026-06-16T00:22:58Z",
         "fileIds": [
-          "1000065737",
-          "1000065736",
-          "1000065735",
-          "1000065706",
-          "1000065705",
-          "1000065704",
+          "1000065801",
+          "1000065800",
+          "1000065799",
+          "1000065798",
+          "1000065797",
+          "1000065796",
           "1000062212"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2026-03-07T05:03:26Z",
-        "fileSize": 322,
-        "modCategory": {
-          "categoryId": 18,
-          "name": "Bug Fixes"
-        },
-        "modId": 58367,
-        "name": "OpenResty LuaJIT - Extended Functionality and Bugfixes for OpenMW-Lua and MWSE-Lua Mods",
-        "status": "published",
-        "summary": "An improved fork of LuaJIT with additional bugfixes and features not included by OpenMW itself or MWSE.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58367/58367-1772859397-470498322.png",
-        "uid": "429496787967",
-        "updatedAt": "2026-03-07T05:03:26Z",
-        "fileIds": [
-          "1000061373",
-          "1000061372",
-          "1000061371"
         ]
       },
       {
@@ -378,6 +357,6 @@
         ]
       }
     ],
-    "totalCount": 17
+    "totalCount": 16
   }
 }

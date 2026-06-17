@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-06-14T20:36:59.241Z",
+  "checkedAt": "2026-06-17T22:17:09.346Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 31
+        "100": 32
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-15T13:26:24Z",
+        "fileSize": 73,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59350,
+        "name": "(OpenMW) Eating Habits",
+        "status": "published",
+        "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
+        "uid": "429496788950",
+        "updatedAt": "2026-06-16T08:56:46Z",
+        "fileIds": [
+          "1000065810",
+          "1000065772"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-14T16:33:59Z",
@@ -21,8 +41,9 @@
         "summary": "Caius has a skooma problem and it shows.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59345/59345-1781454000-237094611.png",
         "uid": "429496788945",
-        "updatedAt": "2026-06-14T16:33:59Z",
+        "updatedAt": "2026-06-14T21:37:40Z",
         "fileIds": [
+          "1000065747",
           "1000065726"
         ]
       },
@@ -84,11 +105,11 @@
         "summary": "Plays an animation when you drink or eat something or NPCs drink something. Special animations for Telvanni Bug Musk.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59069/59069-1779626750-1728400660.png",
         "uid": "429496788669",
-        "updatedAt": "2026-06-14T11:48:54Z",
+        "updatedAt": "2026-06-16T09:52:43Z",
         "fileIds": [
+          "1000065811",
           "1000065713",
-          "1000065543",
-          "1000065362"
+          "1000065543"
         ]
       },
       {
@@ -323,12 +344,10 @@
         "summary": "Just a simple HUD without extra information. It's pretty, though.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58505/58505-1774546533-958874957.png",
         "uid": "429496788105",
-        "updatedAt": "2026-05-25T00:52:04Z",
+        "updatedAt": "2026-06-17T11:00:25Z",
         "fileIds": [
-          "1000064565",
-          "1000064204",
-          "1000063693",
-          "1000061978"
+          "1000065846",
+          "1000064565"
         ]
       },
       {
@@ -503,7 +522,7 @@
         "modId": 58362,
         "name": "(OpenMW) Thieves Pickpocket",
         "status": "published",
-        "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff, and they might attack you or apologise and return it.",
+        "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff by drawing your blade, and they might attack you or apologise and return it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58362/58362-1772800912-318348143.png",
         "uid": "429496787962",
         "updatedAt": "2026-05-04T11:24:24Z",
@@ -665,6 +684,6 @@
         ]
       }
     ],
-    "totalCount": 31
+    "totalCount": 32
   }
 }

@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-06-14T20:36:39.632Z",
+  "checkedAt": "2026-06-17T22:16:32.954Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 22,
+        "100": 23,
         "120": 5,
         "130": 63
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-15T23:55:33Z",
+        "fileSize": 1390,
+        "modCategory": {
+          "categoryId": 20,
+          "name": "Books and Scrolls"
+        },
+        "modId": 59361,
+        "name": "Read the Quran",
+        "status": "published",
+        "summary": "Adds a readable Quran in the form of 30 collectible books.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59361/59361-1781567201-1877426616.jpg",
+        "uid": "429496788961",
+        "updatedAt": "2026-06-15T23:55:33Z",
+        "fileIds": [
+          "1000065795"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-02T04:34:33Z",
@@ -469,6 +488,6 @@
         ]
       }
     ],
-    "totalCount": 22
+    "totalCount": 23
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-14T20:40:23.391Z",
+  "checkedAt": "2026-06-17T22:19:19.122Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -101,27 +101,8 @@
         "summary": "Cast spells in weapon stance just like in Oblivion, no more need to switch to spell stance. 1st and 3rd person animations!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58653/58653-1776021677-86431281.png",
         "uid": "429496788253",
-        "updatedAt": "2026-05-27T17:16:57Z",
-        "fileIds": [
-          "1000064747",
-          "1000064733",
-          "1000064472",
-          "1000064178",
-          "1000063858",
-          "1000063640",
-          "1000063632",
-          "1000063597",
-          "1000063582",
-          "1000063547",
-          "1000062875",
-          "1000062792",
-          "1000062791",
-          "1000062734",
-          "1000062714",
-          "1000062659",
-          "1000062627",
-          "1000062619"
-        ]
+        "updatedAt": "2026-06-17T14:23:22Z",
+        "fileIds": []
       },
       {
         "adultContent": false,
@@ -137,8 +118,9 @@
         "summary": "OpenMW gap of custom spells has been closed. Generate custom spells as you wish with using this interface. Modders resource. Uses OpenMW Spell Api as a base.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58652/58652-1776549126-1686151643.png",
         "uid": "429496788252",
-        "updatedAt": "2026-05-27T17:15:17Z",
+        "updatedAt": "2026-06-16T13:59:28Z",
         "fileIds": [
+          "1000065818",
           "1000064746",
           "1000064390",
           "1000064314",

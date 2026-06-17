@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-14T20:37:37.523Z",
+  "checkedAt": "2026-06-17T22:17:42.359Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15
+        "100": 16
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-14T20:42:30Z",
+        "fileSize": 242,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59348,
+        "name": "(OpenMW) Animated water and hill climb slowdown",
+        "status": "published",
+        "summary": "Animated athletics skill-dependent penalties for water and uphill movement",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59348/59348-1781469480-655922808.png",
+        "uid": "429496788948",
+        "updatedAt": "2026-06-17T20:29:54Z",
+        "fileIds": [
+          "1000065860"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-31T20:30:07Z",
@@ -21,9 +40,9 @@
         "summary": "Now you can overcome low obstacles and climb on mountain or rock in third person (If you dare and if you are confident in your fatigue)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59185/59185-1780259305-708725360.png",
         "uid": "429496788785",
-        "updatedAt": "2026-06-03T13:51:54Z",
+        "updatedAt": "2026-06-17T12:28:12Z",
         "fileIds": [
-          "1000065223"
+          "1000065848"
         ]
       },
       {
@@ -324,6 +343,6 @@
         ]
       }
     ],
-    "totalCount": 15
+    "totalCount": 16
   }
 }
