@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-06-17T22:17:59.186Z",
+  "checkedAt": "2026-06-22T21:25:21.131Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17,
+        "100": 18,
         "1931": 1,
         "2006": 14
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-19T17:25:23Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59386,
+        "name": "Time Multiplier (OpenMW)",
+        "status": "published",
+        "summary": "Press a key to make the time flow faster (x3 by default).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59386/59386-1781886565-793923691.jpg",
+        "uid": "429496788986",
+        "updatedAt": "2026-06-20T18:17:39Z",
+        "fileIds": [
+          "1000065987"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-13T22:00:14Z",
@@ -62,8 +81,9 @@
         "summary": "HP/Endurance overhaul that rewards combat exposure. HP is deleveled and Endurance kill based. Think XP, but simpler.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58956/58956-1778454128-1530716174.jpg",
         "uid": "429496788556",
-        "updatedAt": "2026-05-22T02:13:04Z",
+        "updatedAt": "2026-06-22T16:10:36Z",
         "fileIds": [
+          "1000066057",
           "1000064415",
           "1000064061",
           "1000063964"
@@ -323,6 +343,6 @@
         "updatedAt": "2020-05-23T08:33:11Z"
       }
     ],
-    "totalCount": 17
+    "totalCount": 18
   }
 }

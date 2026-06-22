@@ -1,0 +1,173 @@
+{
+  "checkedAt": "2026-06-22T21:27:37.203Z",
+  "mods": {
+    "facetsData": {
+      "gameId": {
+        "100": 10
+      }
+    },
+    "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-14T17:24:22Z",
+        "fileSize": 1486,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59344,
+        "name": "Hide in Darkness",
+        "status": "published",
+        "summary": "Turn light sources off and on. Sneaking away from light gives you chameleon effect.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59344/59344-1781457753-1723963581.jpg",
+        "uid": "429496788944",
+        "updatedAt": "2026-06-15T05:18:45Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-01-31T13:57:16Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 57929,
+        "name": "Tiny Mods",
+        "status": "published",
+        "summary": "Clothes weigh less, artifacts nerfed, better resting magicka regen, better icons, potion replacer, cure animals, player homes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1777206657-198564113.png",
+        "uid": "429496787529",
+        "updatedAt": "2026-06-18T08:58:16Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-12-12T16:09:16Z",
+        "fileSize": 32,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57820,
+        "name": "Sane Magic Overhaul",
+        "status": "published",
+        "summary": "Adds consequences or limitations to Necromancy, Levitation, Charm, daedra summoning and to other magic. All is optional. Tamriel Rebuilt included. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57820/57820-1775478445-890398478.jpg",
+        "uid": "429496787420",
+        "updatedAt": "2026-06-07T14:22:51Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-20T05:27:26Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57782,
+        "name": "Of Bead and Feather - Custom Potion Sorter",
+        "status": "published",
+        "summary": "Organizes custom potions with descriptive icons and names based on the strongest effects. Quality based potion weight. Any language",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57782/57782-1763315717-564798601.png",
+        "uid": "429496787382",
+        "updatedAt": "2026-04-12T07:57:56Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-11-11T14:41:58Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57757,
+        "name": "Dubious Concoctions - Economy Fix",
+        "status": "published",
+        "summary": "Merchants will only purchase home-brews from a skilled, reputable alchemist. And only certain factions will buy your poisons. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57757/57757-1762841594-1966040782.jpg",
+        "uid": "429496787357",
+        "updatedAt": "2026-03-30T05:03:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-27T11:50:45Z",
+        "fileSize": 6433,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57583,
+        "name": "Scribo - Write on Paper",
+        "status": "published",
+        "summary": "Write on different paper and in a blank book. Use colored inks. Copy books, magic scrolls, regular scrolls and notes. +Read Book Indicator. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57583/57583-1761796003-884952759.png",
+        "uid": "429496787183",
+        "updatedAt": "2026-03-22T16:38:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-03T07:36:37Z",
+        "fileSize": 130,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57543,
+        "name": "Controlled Jumps",
+        "status": "published",
+        "summary": "For high Acrobatics: short hops to avoid ceiling collision indoors, charged jumps for controlled height/distance, and for immersive acrobatics bonus. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57543/57543-1759482607-1812402822.jpg",
+        "uid": "429496787143",
+        "updatedAt": "2026-03-24T17:02:02Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-22T16:56:01Z",
+        "fileSize": 2021,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57491,
+        "name": "Descriptive Icon Pack - Better Icons",
+        "status": "published",
+        "summary": "Better descriptive icons for potions, scrolls, and magic effects. All sizes. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57491/57491-1758558073-1661734366.png",
+        "uid": "429496787091",
+        "updatedAt": "2026-05-11T12:02:39Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-09-06T16:58:45Z",
+        "fileSize": 138,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 57411,
+        "name": "Trained Lungs - Hold Your Breath Underwater 4 Longer",
+        "status": "published",
+        "summary": "Hold your breath underwater for longer, depending on Endurance, Athletics, and Fatigue. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57411/57411-1757176363-470591675.png",
+        "uid": "429496787011",
+        "updatedAt": "2026-01-21T00:22:42Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-08-25T04:38:49Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 57358,
+        "name": "Spells Renamed - Spell Sorter",
+        "status": "published",
+        "summary": "Spells renamed for better sorting in player's spell list.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57358/57358-1766835520-1676949832.png",
+        "uid": "429496786958",
+        "updatedAt": "2026-01-20T03:57:25Z"
+      }
+    ],
+    "totalCount": 10
+  }
+}

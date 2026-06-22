@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-17T22:18:35.473Z",
+  "checkedAt": "2026-06-22T21:26:02.520Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -69,8 +69,11 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-06-17T12:25:14Z",
+        "updatedAt": "2026-06-22T19:20:02Z",
         "fileIds": [
+          "1000066069",
+          "1000065990",
+          "1000065879",
           "1000065847",
           "1000065674",
           "1000065587",

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-17T22:16:25.034Z",
+  "checkedAt": "2026-06-22T21:23:38.318Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 20
+        "100": 21
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-19T19:37:01Z",
+        "fileSize": 85,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 59389,
+        "name": "Morro's Mask HUD",
+        "status": "published",
+        "summary": "OpenMW HUD inspired by Majora's Mask.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59389/59389-1781897685-261309554.png",
+        "uid": "429496788989",
+        "updatedAt": "2026-06-19T19:37:01Z",
+        "fileIds": [
+          "1000065953"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-12T01:06:15Z",
@@ -329,10 +348,11 @@
         "summary": "Crunchy, tiny textures. For potatoes and aesthetics.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57378/57378-1756597341-1376447397.png",
         "uid": "429496786978",
-        "updatedAt": "2026-05-17T04:47:06Z",
+        "updatedAt": "2026-06-20T18:22:34Z",
         "fileIds": [
-          "1000064200",
+          "1000065988",
           "1000056583",
+          "1000064200",
           "1000064198",
           "1000064131",
           "1000062549",
@@ -484,6 +504,6 @@
         ]
       }
     ],
-    "totalCount": 20
+    "totalCount": 21
   }
 }

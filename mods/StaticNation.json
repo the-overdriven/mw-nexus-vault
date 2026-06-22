@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-06-17T22:19:48.721Z",
+  "checkedAt": "2026-06-22T21:27:20.106Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 30,
+        "100": 29,
         "101": 1,
         "736": 3,
         "1151": 1,
@@ -38,14 +38,12 @@
         "modId": 54947,
         "name": "Tamriel Data Texture Upscale",
         "status": "published",
-        "summary": "4x Gigapixel Upscale of Tamriel Data's HD textures",
+        "summary": "Gigapixel Upscale of Tamriel Data's HD textures",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54947/54947-1720653695-1213783.png",
         "uid": "429496784547",
-        "updatedAt": "2025-01-18T15:45:04Z",
+        "updatedAt": "2026-06-18T23:54:13Z",
         "fileIds": [
-          "1000049598",
-          "1000049601",
-          "1000049592"
+          "1000065904"
         ]
       },
       {
@@ -376,22 +374,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2023-04-27T15:05:28Z",
-        "fileSize": 1,
-        "modCategory": {
-          "categoryId": 15,
-          "name": "Utilities"
-        },
-        "modId": 52733,
-        "name": "Static's TESCS Darkmode Instructions",
-        "status": "published",
-        "summary": "Instructions for setting up a Darkmode on the TES CS",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52733/52733-1682606359-351601158.png",
-        "uid": "429496782333",
-        "updatedAt": "2023-04-28T04:49:55Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2023-04-25T03:58:55Z",
         "fileSize": 207,
         "modCategory": {
@@ -506,6 +488,6 @@
         "updatedAt": "2008-01-07T23:52:27Z"
       }
     ],
-    "totalCount": 30
+    "totalCount": 29
   }
 }
