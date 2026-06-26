@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-22T21:26:56.016Z",
+  "checkedAt": "2026-06-26T01:45:56.697Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34
+        "100": 35
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-23T11:57:19Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59422,
+        "name": "Athleticism - Movement Exhaustion (OpenMW)",
+        "status": "published",
+        "summary": "Adding depth to an otherwise unremarkable Athletics skill by introducing a new mechanic - Exhaustion.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59422/59422-1782215784-1441919399.png",
+        "uid": "429496789022",
+        "updatedAt": "2026-06-23T11:57:19Z",
+        "fileIds": [
+          "1000066085"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-19T10:38:46Z",
@@ -21,9 +40,9 @@
         "summary": "A collection of utilities for followers made with performance in mind. Follower HUD, teleportation, immortality and more. Modernized Attend Me, if you will.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59384/59384-1781861215-895215961.jpg",
         "uid": "429496788984",
-        "updatedAt": "2026-06-22T14:36:28Z",
+        "updatedAt": "2026-06-25T02:56:12Z",
         "fileIds": [
-          "1000066054"
+          "1000066156"
         ]
       },
       {
@@ -40,9 +59,9 @@
         "summary": "Should've learned sewing when you had a chance!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59272/59272-1780916721-564129988.jpg",
         "uid": "429496788872",
-        "updatedAt": "2026-06-08T11:09:41Z",
+        "updatedAt": "2026-06-25T19:07:37Z",
         "fileIds": [
-          "1000065456"
+          "1000066184"
         ]
       },
       {
@@ -171,11 +190,11 @@
         "summary": "Select your character's past that will shape their future. Almost 300 traits across 4 types to choose from!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58704/58704-1776598686-424312326.png",
         "uid": "429496788304",
-        "updatedAt": "2026-06-12T07:04:53Z",
+        "updatedAt": "2026-06-25T21:47:27Z",
         "fileIds": [
-          "1000065615",
+          "1000066188",
+          "1000066187",
           "1000065533",
-          "1000064794",
           "1000064793",
           "1000063997",
           "1000063992",
@@ -257,9 +276,9 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-06-15T08:05:49Z",
+        "updatedAt": "2026-06-25T19:29:42Z",
         "fileIds": [
-          "1000065763"
+          "1000066185"
         ]
       },
       {
@@ -685,6 +704,6 @@
         ]
       }
     ],
-    "totalCount": 34
+    "totalCount": 35
   }
 }

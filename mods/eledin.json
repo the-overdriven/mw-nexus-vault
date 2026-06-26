@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-22T21:24:30.691Z",
+  "checkedAt": "2026-06-26T01:43:22.532Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -461,12 +461,13 @@
         "modId": 54985,
         "name": "Interface Reimagined for OpenMW",
         "status": "published",
-        "summary": "Modernized Dialogue and Decluttering of the UI",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54985/54985-1721161448-1473380916.png",
+        "summary": "Modernized Dialogue and UI De-cluttering",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54985/54985-1782322790-1459133427.png",
         "uid": "429496784585",
-        "updatedAt": "2026-04-01T11:49:50Z",
+        "updatedAt": "2026-06-24T12:30:06Z",
         "fileIds": [
-          "1000062232",
+          "1000066137",
+          "1000066138",
           "1000062231",
           "1000062225",
           "1000062221",

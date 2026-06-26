@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-22T21:27:20.106Z",
+  "checkedAt": "2026-06-26T01:46:34.751Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -124,7 +124,12 @@
         "summary": "Full Upscale of OAAB HD Textures",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53379/53379-1692196922-1067681783.png",
         "uid": "429496782979",
-        "updatedAt": "2023-08-18T10:54:41Z"
+        "updatedAt": "2026-06-25T08:32:22Z",
+        "fileIds": [
+          "1000066162",
+          "1000066161",
+          "1000039777"
+        ]
       },
       {
         "adultContent": false,

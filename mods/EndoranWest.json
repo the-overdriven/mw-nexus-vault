@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-06-22T21:24:30.972Z",
+  "checkedAt": "2026-06-26T01:43:31.825Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 24,
         "1151": 1,
         "6119": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-23T15:53:44Z",
+        "fileSize": 75,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59420,
+        "name": "Switchable Scriptures - Crumple Paper",
+        "status": "published",
+        "summary": "You can now finally crumple and uncrumple pages at your leisure.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59420/59420-1782229883-1204079735.png",
+        "uid": "429496789020",
+        "updatedAt": "2026-06-23T15:53:44Z",
+        "fileIds": [
+          "1000066091"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-04-01T16:15:25Z",
@@ -381,6 +400,6 @@
         "updatedAt": "2024-10-12T06:44:18Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

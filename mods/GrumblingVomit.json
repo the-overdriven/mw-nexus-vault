@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-06-22T21:25:18.019Z",
+  "checkedAt": "2026-06-26T01:44:09.907Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 66,
+        "100": 67,
         "101": 1,
         "1413": 8,
         "1704": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-26T01:04:26Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 59439,
+        "name": "The Hennigbrand",
+        "status": "published",
+        "summary": "Adds a secret quest to upgrade the Eltonbrand",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59439/59439-1782435782-942353141.png",
+        "uid": "429496789039",
+        "updatedAt": "2026-06-26T01:04:26Z",
+        "fileIds": [
+          "1000066193"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-04T15:16:44Z",
@@ -353,13 +372,12 @@
         "modId": 56462,
         "name": "Tamriel Rebuilt Border",
         "status": "published",
-        "summary": "Adds a border to Tamriel Rebuilt's Western Border. Will grow with each release.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56462/56462-1746132704-1112872799.jpeg",
+        "summary": "Adds textured land around Tamriel Rebuilt, making the map a filled rectangle. No more staring into the void.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56462/56462-1782404144-1728104800.png",
         "uid": "429496786062",
-        "updatedAt": "2026-05-06T20:26:52Z",
+        "updatedAt": "2026-06-25T22:09:49Z",
         "fileIds": [
-          "1000052363",
-          "1000063735"
+          "1000066189"
         ]
       },
       {
@@ -1262,6 +1280,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 66
+    "totalCount": 67
   }
 }

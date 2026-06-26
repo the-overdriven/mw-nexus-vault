@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-22T21:24:31.251Z",
+  "checkedAt": "2026-06-26T01:43:38.900Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,8 +21,9 @@
         "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
         "uid": "429496788950",
-        "updatedAt": "2026-06-22T18:31:14Z",
+        "updatedAt": "2026-06-25T12:24:05Z",
         "fileIds": [
+          "1000066168",
           "1000066067",
           "1000066056",
           "1000065971"
@@ -103,11 +104,12 @@
         "modId": 59069,
         "name": "(OpenMW) Consuming Animated",
         "status": "published",
-        "summary": "Plays an animation when you drink or eat something or NPCs drink something. Special animations for Telvanni Bug Musk.",
+        "summary": "Plays an animation when you drink or eat something or NPCs drink potions. Special animations for Telvanni Bug Musk, skooma + skooma pipes, hackle-lo/tanna + smoking pipes.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59069/59069-1779626750-1728400660.png",
         "uid": "429496788669",
-        "updatedAt": "2026-06-22T18:30:20Z",
+        "updatedAt": "2026-06-25T11:19:59Z",
         "fileIds": [
+          "1000066166",
           "1000066066",
           "1000066058",
           "1000065811",
@@ -129,11 +131,11 @@
         "summary": "Now you can tame beasts to serve you and pet them. They even level up along with you!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59054/59054-1779491224-1866703170.png",
         "uid": "429496788654",
-        "updatedAt": "2026-06-02T07:52:39Z",
+        "updatedAt": "2026-06-24T01:21:12Z",
         "fileIds": [
+          "1000066110",
           "1000065140",
-          "1000064470",
-          "1000064446"
+          "1000064470"
         ]
       },
       {
@@ -262,8 +264,9 @@
         "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
         "uid": "429496788235",
-        "updatedAt": "2026-06-18T11:04:04Z",
+        "updatedAt": "2026-06-24T19:18:32Z",
         "fileIds": [
+          "1000066142",
           "1000065875",
           "1000063694"
         ]

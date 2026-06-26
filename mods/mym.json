@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-22T21:26:02.520Z",
+  "checkedAt": "2026-06-26T01:44:56.931Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -342,8 +342,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-06-17T12:40:38Z",
+        "updatedAt": "2026-06-25T07:10:46Z",
         "fileIds": [
+          "1000066158",
           "1000065849",
           "1000065579",
           "1000065531",
@@ -456,8 +457,10 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-05-07T09:41:57Z",
+        "updatedAt": "2026-06-25T10:38:56Z",
         "fileIds": [
+          "1000066164",
+          "1000066163",
           "1000063750",
           "1000061997",
           "1000061176",
