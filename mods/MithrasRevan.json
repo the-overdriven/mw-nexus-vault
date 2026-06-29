@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-26T01:44:47.582Z",
+  "checkedAt": "2026-06-29T00:21:08.190Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -59,7 +59,7 @@
           "name": "Gameplay"
         },
         "modId": 59151,
-        "name": "Very Simple Always Hit Script for Player",
+        "name": "Simple Always Hit Script for Player",
         "status": "published",
         "summary": "A very simple one-time script that adds a Fortify Attack 100 spell onto the player so Melee and Ranged attacks always hit. Works mid-game or when creating a new character. Works with custom races (but only for the player). Does not edit",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59151/59151-1780084442-1648833592.png",

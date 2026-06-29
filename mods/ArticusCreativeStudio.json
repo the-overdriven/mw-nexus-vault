@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-26T01:43:11.545Z",
+  "checkedAt": "2026-06-29T00:19:22.813Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 95
+        "100": 96
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-28T23:46:03Z",
+        "fileSize": 22085,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59466,
+        "name": "Iron and Steel - Part 3 - Steel Armor Replacer",
+        "status": "published",
+        "summary": "Replaces Steel armor with new HQ models and textures (2K/1K). All you need is to copy conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59466/59466-1782691638-1597008642.png",
+        "uid": "429496789066",
+        "updatedAt": "2026-06-29T00:15:43Z",
+        "fileIds": [
+          "1000066325"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-19T23:33:46Z",
@@ -1428,24 +1447,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47702/47702-1584653630-1689444622.jpeg",
         "uid": "429496777302",
         "updatedAt": "2021-03-04T10:32:18Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2019-10-03T09:18:38Z",
-        "fileSize": 10501,
-        "modCategory": {
-          "categoryId": 30,
-          "name": "Splash Screens"
-        },
-        "modId": 47211,
-        "name": "Splash Races - Widescreen",
-        "status": "published",
-        "summary": "This mod adds 10 new Splash screens for Morrowind. They are based on original Bethesda concept art of races.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47211/47211-1570094051-701169521.jpeg",
-        "uid": "429496776811",
-        "updatedAt": "2019-10-03T09:18:38Z"
       }
     ],
-    "totalCount": 95
+    "totalCount": 96
   }
 }

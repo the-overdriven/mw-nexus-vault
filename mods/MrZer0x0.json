@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-06-26T01:44:56.608Z",
+  "checkedAt": "2026-06-29T00:21:39.793Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6
+        "100": 7
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-28T22:59:30Z",
+        "fileSize": 21150,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 59463,
+        "name": "GLonD3D12 Renderer Fix for OpenMW (Mesa OpenGL-on-D3D12 Wrapper)",
+        "status": "published",
+        "summary": "Fixes freezing and stability issues in OpenMW on Intel UHD Graphics by using Mesa GLonD3D12 (OpenGL to D3D12 wrapper). Drop the files into your OpenMW folder for smooth gameplay. Based on pal1000/mesa-dist-win. Works great with OpenMW 0.51.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59463/59463-1782687215-1800280562.jpg",
+        "uid": "429496789063",
+        "updatedAt": "2026-06-28T22:59:30Z",
+        "fileIds": [
+          "1000066316"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-04-09T09:24:15Z",
@@ -40,9 +59,9 @@
         "summary": "TES3ZER0EDIT is a lightweight browser-based editor for Morrowind TES3 plugins, with record editing, book/text tools, header/master management, dialogue helpers, and early save-related utilities for advanced workflow",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58547/58547-1774922460-1524676343.png",
         "uid": "429496788147",
-        "updatedAt": "2026-05-22T20:07:54Z",
+        "updatedAt": "2026-06-28T14:44:25Z",
         "fileIds": [
-          "1000064437"
+          "1000066295"
         ]
       },
       {
@@ -124,6 +143,6 @@
         ]
       }
     ],
-    "totalCount": 6
+    "totalCount": 7
   }
 }

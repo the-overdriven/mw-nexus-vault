@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-26T01:44:47.722Z",
+  "checkedAt": "2026-06-29T00:21:08.385Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -9,6 +9,25 @@
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-06-28T01:11:08Z",
+        "fileSize": 21,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 59457,
+        "name": "Hidden Powers (OpenMW)",
+        "status": "published",
+        "summary": "An OpenMW friendly port of Varlothen's excellent races and birthsigns mods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59457/59457-1782608865-2128920164.png",
+        "uid": "429496789057",
+        "updatedAt": "2026-06-28T16:28:31Z",
+        "fileIds": [
+          "1000066303"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-09-14T18:10:08Z",
         "fileSize": 3,
         "modCategory": {
@@ -16,15 +35,14 @@
           "name": "Skills and Attributes"
         },
         "modId": 57455,
-        "name": "Configurable Leveling Speed (OpenMW)",
+        "name": "Smooth Scaling (OpenMW)",
         "status": "published",
-        "summary": "Options for configuring the leveling speed of skills on a global, class skill or individual skill basis.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57455/57455-1757873091-560296995.png",
+        "summary": "A highly configurable skill progression mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57455/57455-1782445044-153183782.png",
         "uid": "429496787055",
-        "updatedAt": "2025-09-22T14:16:14Z",
+        "updatedAt": "2026-06-26T04:06:44Z",
         "fileIds": [
-          "1000056999",
-          "1000056840"
+          "1000066200"
         ]
       },
       {
@@ -38,31 +56,12 @@
         "modId": 57445,
         "name": "Linear Leveling (OpenMW)",
         "status": "published",
-        "summary": "Vanilla-style leveling with smooth progression and no wasted multipliers.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57445/57445-1781314652-1437372165.png",
+        "summary": "A lightweight, vanilla-style leveling overhaul.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57445/57445-1782448092-93572425.png",
         "uid": "429496787045",
-        "updatedAt": "2026-06-13T01:02:36Z",
+        "updatedAt": "2026-06-26T04:29:37Z",
         "fileIds": [
-          "1000065643"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-09-12T23:27:28Z",
-        "fileSize": 2,
-        "modCategory": {
-          "categoryId": 35,
-          "name": "Skills and Attributes"
-        },
-        "modId": 57444,
-        "name": "Vanilla Retroactive Health (OpenMW)",
-        "status": "published",
-        "summary": "Configurable retroactive health that uses the vanilla health formula.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57444/57444-1757793960-303333821.png",
-        "uid": "429496787044",
-        "updatedAt": "2026-06-13T00:20:35Z",
-        "fileIds": [
-          "1000065642"
+          "1000066204"
         ]
       }
     ],

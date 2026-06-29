@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-06-26T01:43:20.782Z",
+  "checkedAt": "2026-06-29T00:19:49.849Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19
+        "100": 20
       }
     },
     "nodes": [
@@ -367,6 +367,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2018-07-28T22:48:30Z",
+        "fileSize": 229,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 45902,
+        "name": "Black Soul Gems",
+        "status": "published",
+        "summary": "This mod allows you to soul trap NPCs on Vvardenfell.OPENMW ONLY. There is another mod that works with MWSE in the original engine.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45902/45902-1532817549-1623854772.png",
+        "uid": "429496775502",
+        "updatedAt": "2026-03-11T02:35:25Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2015-11-08T22:13:55Z",
         "fileSize": 1377,
         "modCategory": {
@@ -387,6 +403,6 @@
         ]
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }
