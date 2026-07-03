@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-06-29T00:20:23.146Z",
+  "checkedAt": "2026-07-03T18:54:34.557Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24,
+        "100": 25,
         "181": 1,
         "430": 1,
         "437": 1,
@@ -14,6 +14,27 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-30T21:36:48Z",
+        "fileSize": 56342,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 59481,
+        "name": "Dynamic Sounds Phoenix",
+        "status": "published",
+        "summary": "An user friendly, extensible soundbank based system that dynamically adds sounds to Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59481/59481-1782854587-534167778.png",
+        "uid": "429496789081",
+        "updatedAt": "2026-07-03T18:12:46Z",
+        "fileIds": [
+          "1000066557",
+          "1000066565",
+          "1000066512"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-03-10T13:40:15Z",
@@ -542,6 +563,6 @@
         ]
       }
     ],
-    "totalCount": 24
+    "totalCount": 25
   }
 }

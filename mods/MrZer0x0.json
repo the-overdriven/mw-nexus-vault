@@ -1,12 +1,51 @@
 {
-  "checkedAt": "2026-06-29T00:21:39.793Z",
+  "checkedAt": "2026-07-03T18:56:10.472Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 9
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-30T22:17:35Z",
+        "fileSize": 2955,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 59485,
+        "name": "Complete Water Shaders and PBR for OpenMW 0.51",
+        "status": "published",
+        "summary": "Modern, highly realistic water shader for OpenMW 0.51 featuring PBR lighting, advanced waves, full caustics on all underwater objects, rain ripples, SSS, and dynamic water types.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59485/59485-1782855600-296327109.png",
+        "uid": "429496789085",
+        "updatedAt": "2026-07-03T17:28:28Z",
+        "fileIds": [
+          "1000066563",
+          "1000066473"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-29T17:48:31Z",
+        "fileSize": 40,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 59475,
+        "name": "Reality Water and SkyUI HUD",
+        "status": "published",
+        "summary": "Advanced water shaders & minimalist HUD for OpenMW 0.51",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59475/59475-1782754520-700283405.jpg",
+        "uid": "429496789075",
+        "updatedAt": "2026-06-29T17:48:31Z",
+        "fileIds": [
+          "1000066363"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-28T22:59:30Z",
@@ -21,9 +60,9 @@
         "summary": "Fixes freezing and stability issues in OpenMW on Intel UHD Graphics by using Mesa GLonD3D12 (OpenGL to D3D12 wrapper). Drop the files into your OpenMW folder for smooth gameplay. Based on pal1000/mesa-dist-win. Works great with OpenMW 0.51.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59463/59463-1782687215-1800280562.jpg",
         "uid": "429496789063",
-        "updatedAt": "2026-06-28T22:59:30Z",
+        "updatedAt": "2026-06-30T22:39:31Z",
         "fileIds": [
-          "1000066316"
+          "1000066423"
         ]
       },
       {
@@ -59,9 +98,10 @@
         "summary": "TES3ZER0EDIT is a lightweight browser-based editor for Morrowind TES3 plugins, with record editing, book/text tools, header/master management, dialogue helpers, and early save-related utilities for advanced workflow",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58547/58547-1774922460-1524676343.png",
         "uid": "429496788147",
-        "updatedAt": "2026-06-28T14:44:25Z",
+        "updatedAt": "2026-07-02T11:11:12Z",
         "fileIds": [
-          "1000066295"
+          "1000066510",
+          "1000066508"
         ]
       },
       {
@@ -143,6 +183,6 @@
         ]
       }
     ],
-    "totalCount": 7
+    "totalCount": 9
   }
 }

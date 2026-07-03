@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-06-29T00:22:08.082Z",
+  "checkedAt": "2026-07-03T18:57:14.164Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16,
+        "100": 17,
         "101": 1,
         "120": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-01T12:39:20Z",
+        "fileSize": 32,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59488,
+        "name": "FlexTag - The Tagging Framework That HOLDS",
+        "status": "published",
+        "summary": "HI. DAVEY MAYS HERE. Your mod is LEAKING record IDs everywhere and you didn't even know it. Well I've got the fix, and I'm not gonna just tell you it holds — I'm gonna SHOW you. One SLAP of FlexTag and that leak is GONE. Act now. Your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59488/59488-1782909042-1405676031.png",
+        "uid": "429496789088",
+        "updatedAt": "2026-07-01T12:39:20Z",
+        "fileIds": [
+          "1000066457"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-30T06:02:09Z",
@@ -356,6 +375,6 @@
         ]
       }
     ],
-    "totalCount": 16
+    "totalCount": 17
   }
 }

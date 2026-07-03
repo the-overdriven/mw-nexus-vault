@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-06-29T00:20:42.601Z",
+  "checkedAt": "2026-07-03T18:55:34.983Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 37
+        "100": 38
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-06-29T05:11:55Z",
+        "fileSize": 40,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59467,
+        "name": "Ashirbadon Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Ashirbadon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59467/59467-1782709748-314036814.png",
+        "uid": "429496789067",
+        "updatedAt": "2026-06-29T05:39:32Z",
+        "fileIds": [
+          "1000066335",
+          "1000066334"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-14T16:43:16Z",
@@ -749,6 +769,6 @@
         ]
       }
     ],
-    "totalCount": 37
+    "totalCount": 38
   }
 }
