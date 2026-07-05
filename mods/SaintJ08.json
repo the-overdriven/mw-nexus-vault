@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-03T18:57:22.612Z",
+  "checkedAt": "2026-07-05T18:56:59.300Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -38,11 +38,12 @@
         "modId": 58099,
         "name": "Morrowind Atmospheric Shaders Enhanced (OpenMW)",
         "status": "published",
-        "summary": "M.A.S.E is an OpenMW post processing shader pack that aims to enhance atmospheric and lighting elements of the game.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58099/58099-1768612188-1170473752.png",
+        "summary": "M.A.S.E is an OpenMW post processing shader pack that aims to enhance atmospheric and lighting elements of the game. (I suggest you use the default settings provided and don't mess with them)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58099/58099-1783164356-1837746841.png",
         "uid": "429496787699",
-        "updatedAt": "2026-01-25T11:33:44Z",
+        "updatedAt": "2026-07-04T11:35:28Z",
         "fileIds": [
+          "1000066604",
           "1000060231"
         ]
       },

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-03T18:57:23.949Z",
+  "checkedAt": "2026-07-05T18:57:08.487Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35
+        "100": 36
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-04T08:53:31Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59509,
+        "name": "Start Saver (OpenMW)",
+        "status": "published",
+        "summary": "Automatically saves your game after you finish the character creation.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59509/59509-1783155125-2067413495.png",
+        "uid": "429496789109",
+        "updatedAt": "2026-07-04T08:53:31Z",
+        "fileIds": [
+          "1000066596"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-23T11:57:19Z",
@@ -704,6 +723,6 @@
         ]
       }
     ],
-    "totalCount": 35
+    "totalCount": 36
   }
 }

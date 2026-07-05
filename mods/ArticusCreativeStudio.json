@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-03T18:53:57.932Z",
+  "checkedAt": "2026-07-05T18:54:23.764Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 96
+        "100": 94
       }
     },
     "nodes": [
@@ -21,9 +21,9 @@
         "summary": "Replaces Steel armor with new HQ models and textures (2K/1K). All you need is to copy conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59466/59466-1782691638-1597008642.png",
         "uid": "429496789066",
-        "updatedAt": "2026-06-29T16:05:04Z",
+        "updatedAt": "2026-07-05T11:59:15Z",
         "fileIds": [
-          "1000066356"
+          "1000066645"
         ]
       },
       {
@@ -1370,22 +1370,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2025-01-02T16:12:50Z",
-        "fileSize": 24544,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 55713,
-        "name": "Templar Armor Replacer by Articus",
-        "status": "published",
-        "summary": "Replaces Templar Armor with new non-segmented version designed to work with Better Bodies or Robert Bodies.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55713/55713-1735834062-993307276.jpeg",
-        "uid": "429496785313",
-        "updatedAt": "2025-01-02T16:30:54Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2024-12-31T15:10:52Z",
         "fileSize": 2535,
         "modCategory": {
@@ -1399,22 +1383,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55694/55694-1735657565-804193253.jpeg",
         "uid": "429496785294",
         "updatedAt": "2024-12-31T15:10:52Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2024-12-25T10:57:08Z",
-        "fileSize": 32923,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 55645,
-        "name": "Imperial Armor Replacer",
-        "status": "published",
-        "summary": "Replaces Imperial Armor with new non-segmented version designed to work with Better Bodies or Robert Bodies.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55645/55645-1735902571-606390998.jpeg",
-        "uid": "429496785245",
-        "updatedAt": "2025-06-27T00:17:08Z"
       },
       {
         "adultContent": false,
@@ -1447,8 +1415,40 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47702/47702-1584653630-1689444622.jpeg",
         "uid": "429496777302",
         "updatedAt": "2021-03-04T10:32:18Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-10-03T09:18:38Z",
+        "fileSize": 10501,
+        "modCategory": {
+          "categoryId": 30,
+          "name": "Splash Screens"
+        },
+        "modId": 47211,
+        "name": "Splash Races - Widescreen",
+        "status": "published",
+        "summary": "This mod adds 10 new Splash screens for Morrowind. They are based on original Bethesda concept art of races.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47211/47211-1570094051-701169521.jpeg",
+        "uid": "429496776811",
+        "updatedAt": "2019-10-03T09:18:38Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2019-02-10T18:58:23Z",
+        "fileSize": 25056,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 46379,
+        "name": "Articus Various Retextures",
+        "status": "published",
+        "summary": "Retextures various stuff of Morrowind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46379/46379-1740835793-1637580545.jpeg",
+        "uid": "429496775979",
+        "updatedAt": "2025-03-01T13:58:09Z"
       }
     ],
-    "totalCount": 96
+    "totalCount": 94
   }
 }

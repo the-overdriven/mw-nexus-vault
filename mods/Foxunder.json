@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-03T18:54:43.943Z",
+  "checkedAt": "2026-07-05T18:55:26.545Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,13 +21,11 @@
         "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
         "uid": "429496788950",
-        "updatedAt": "2026-06-30T19:13:53Z",
+        "updatedAt": "2026-07-04T19:33:24Z",
         "fileIds": [
+          "1000066624",
           "1000066408",
-          "1000066168",
-          "1000066067",
-          "1000066056",
-          "1000065971"
+          "1000066168"
         ]
       },
       {
@@ -64,8 +62,9 @@
         "summary": "Plays the praying animation during your pilgrimages or prayers to altars and shrines.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59182/59182-1780249463-1505929427.png",
         "uid": "429496788782",
-        "updatedAt": "2026-07-03T11:51:38Z",
+        "updatedAt": "2026-07-04T09:27:22Z",
         "fileIds": [
+          "1000066597",
           "1000066552",
           "1000065141",
           "1000065045"
@@ -85,14 +84,11 @@
         "summary": "Plays animations when picking up items / activating containers, doors or activators",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59117/59117-1779834710-1366291765.jpg",
         "uid": "429496788717",
-        "updatedAt": "2026-06-13T21:30:54Z",
+        "updatedAt": "2026-07-04T09:28:53Z",
         "fileIds": [
+          "1000066599",
           "1000065692",
-          "1000065550",
-          "1000065426",
-          "1000065363",
-          "1000065153",
-          "1000064883"
+          "1000065550"
         ]
       },
       {
@@ -134,8 +130,10 @@
         "summary": "Now you can tame beasts to serve you and pet them. They even level up along with you!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59054/59054-1779491224-1866703170.png",
         "uid": "429496788654",
-        "updatedAt": "2026-06-24T01:21:12Z",
+        "updatedAt": "2026-07-03T23:21:31Z",
         "fileIds": [
+          "1000066582",
+          "1000066576",
           "1000066110",
           "1000065140",
           "1000064470"
@@ -330,11 +328,10 @@
         "summary": "Now pacifists can bribe thugs to stop or avoid combats. Also, surrender to guards mid-battle, but sheathe your weapon first.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58525/58525-1774690106-615390987.png",
         "uid": "429496788125",
-        "updatedAt": "2026-05-05T10:04:14Z",
+        "updatedAt": "2026-07-04T15:02:00Z",
         "fileIds": [
-          "1000063638",
-          "1000063400",
-          "1000062867"
+          "1000066612",
+          "1000063638"
         ]
       },
       {
@@ -658,8 +655,9 @@
         "summary": "It's a collection of various bugfixes and small mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58227/58227-1771107954-1705217364.png",
         "uid": "429496787827",
-        "updatedAt": "2026-07-01T19:58:40Z",
+        "updatedAt": "2026-07-03T19:24:17Z",
         "fileIds": [
+          "1000066572",
           "1000065732",
           "1000065607",
           "1000063135",
