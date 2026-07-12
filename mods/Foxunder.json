@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-05T18:55:26.545Z",
+  "checkedAt": "2026-07-12T12:06:19.375Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -62,12 +62,12 @@
         "summary": "Plays the praying animation during your pilgrimages or prayers to altars and shrines.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59182/59182-1780249463-1505929427.png",
         "uid": "429496788782",
-        "updatedAt": "2026-07-04T09:27:22Z",
+        "updatedAt": "2026-07-06T18:59:15Z",
         "fileIds": [
+          "1000066731",
           "1000066597",
           "1000066552",
-          "1000065141",
-          "1000065045"
+          "1000065141"
         ]
       },
       {
@@ -265,8 +265,9 @@
         "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
         "uid": "429496788235",
-        "updatedAt": "2026-06-24T19:18:32Z",
+        "updatedAt": "2026-07-08T22:52:04Z",
         "fileIds": [
+          "1000066813",
           "1000066142",
           "1000065875",
           "1000063694"
@@ -368,8 +369,9 @@
         "summary": "Now you need sufficient armor skill and governing attribute to equip powerful armor.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58485/58485-1774014195-1065390651.png",
         "uid": "429496788085",
-        "updatedAt": "2026-07-03T08:29:36Z",
+        "updatedAt": "2026-07-10T20:12:50Z",
         "fileIds": [
+          "1000066914",
           "1000066544",
           "1000066049",
           "1000065940",
@@ -390,8 +392,9 @@
         "summary": "Now you need sufficient weapon skill and governing attribute to wield powerful weapons.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58477/58477-1773916264-314596005.png",
         "uid": "429496788077",
-        "updatedAt": "2026-07-03T08:27:42Z",
+        "updatedAt": "2026-07-10T20:11:33Z",
         "fileIds": [
+          "1000066913",
           "1000066543",
           "1000066050",
           "1000065972",
@@ -435,12 +438,11 @@
         "summary": "NPCs can be lured away by you dropping items or shooting arrows. NPCs can pick up your dropped stuff. NPCs can report your illegal goods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58414/58414-1773253210-69949728.png",
         "uid": "429496788014",
-        "updatedAt": "2026-05-21T09:02:03Z",
+        "updatedAt": "2026-07-09T10:21:25Z",
         "fileIds": [
+          "1000066833",
           "1000064393",
-          "1000064028",
-          "1000064055",
-          "1000063415"
+          "1000064028"
         ]
       },
       {

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-05T18:56:18.475Z",
+  "checkedAt": "2026-07-12T12:07:01.078Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -375,8 +375,10 @@
         "summary": "Adds textured land around Tamriel Rebuilt, making the map a filled rectangle. No more staring into the void.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56462/56462-1782412224-1186751097.png",
         "uid": "429496786062",
-        "updatedAt": "2026-06-25T22:09:49Z",
+        "updatedAt": "2026-07-12T02:49:16Z",
         "fileIds": [
+          "1000066981",
+          "1000066982",
           "1000066189"
         ]
       },

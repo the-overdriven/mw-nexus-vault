@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-05T18:57:18.059Z",
+  "checkedAt": "2026-07-12T12:09:42.897Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,15 +18,16 @@
         "modId": 57633,
         "name": "OpenMW Dynamic Animations",
         "status": "published",
-        "summary": "UPDATE: Limit the speed of footstep sounds in First Person. Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations.",
+        "summary": "Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations. Also provides a few improvements to player movement animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57633/57633-1760646399-2125603799.png",
         "uid": "429496787233",
-        "updatedAt": "2026-06-19T21:39:48Z",
+        "updatedAt": "2026-07-11T22:10:36Z",
         "fileIds": [
+          "1000066972",
+          "1000066916",
           "1000065954",
           "1000065637",
-          "1000064683",
-          "1000063811"
+          "1000064683"
         ]
       },
       {

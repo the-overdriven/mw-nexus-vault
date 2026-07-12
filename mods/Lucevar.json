@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-05T18:56:22.672Z",
+  "checkedAt": "2026-07-12T12:07:44.753Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 57
+        "100": 58
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-06T12:47:25Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 59534,
+        "name": "Seyda Neen Census and Excise Office Window Fix",
+        "status": "published",
+        "summary": "Adds windows to the C&E office interior so that it matches the exterior.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59534/59534-1783341960-745730959.png",
+        "uid": "429496789134",
+        "updatedAt": "2026-07-06T13:29:14Z",
+        "fileIds": [
+          "1000066711"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-03-03T21:40:41Z",
@@ -1067,6 +1086,6 @@
         "updatedAt": "2023-11-22T19:50:32Z"
       }
     ],
-    "totalCount": 57
+    "totalCount": 58
   }
 }

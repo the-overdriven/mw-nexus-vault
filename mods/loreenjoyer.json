@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-05T18:56:22.416Z",
+  "checkedAt": "2026-07-12T12:07:37.308Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -174,16 +174,14 @@
         "summary": "Generate voice lines for Morrowind mods using local voices on your GPU or an online provider like ElevenLabs, with a separate voice for every race, gender, or NPC.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59283/59283-1781024651-1762582056.png",
         "uid": "429496788883",
-        "updatedAt": "2026-06-13T18:00:24Z",
+        "updatedAt": "2026-07-06T16:03:20Z",
         "fileIds": [
-          "1000065685",
-          "1000065528",
-          "1000065508",
-          "1000065680",
-          "1000065639",
-          "1000065604",
-          "1000065555",
-          "1000065523"
+          "1000066720",
+          "1000066682",
+          "1000066680",
+          "1000066681",
+          "1000066683",
+          "1000065685"
         ]
       }
     ],

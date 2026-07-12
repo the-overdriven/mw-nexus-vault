@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-05T18:57:08.487Z",
+  "checkedAt": "2026-07-12T12:08:40.985Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 36
+        "100": 37
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-08T01:03:05Z",
+        "fileSize": 120,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59550,
+        "name": "Stranger in a Hostile Land (OpenMW)",
+        "status": "published",
+        "summary": "More intricate racial attitudes to truly make you feel like an outlander.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59550/59550-1783466076-860126380.gif",
+        "uid": "429496789150",
+        "updatedAt": "2026-07-08T19:02:02Z",
+        "fileIds": [
+          "1000066808"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-04T08:53:31Z",
@@ -59,9 +78,9 @@
         "summary": "A collection of utilities for followers made with performance in mind. Follower HUD, teleportation, immortality and more. Modernized Attend Me, if you will.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59384/59384-1781861215-895215961.jpg",
         "uid": "429496788984",
-        "updatedAt": "2026-06-27T07:31:59Z",
+        "updatedAt": "2026-07-09T04:18:40Z",
         "fileIds": [
-          "1000066239"
+          "1000066822"
         ]
       },
       {
@@ -133,9 +152,9 @@
         "summary": "ALMSIVI gave you the training dummies, and now I’m giving you the chance to practice with them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58992/58992-1778792626-47954225.png",
         "uid": "429496788592",
-        "updatedAt": "2026-06-10T13:30:59Z",
+        "updatedAt": "2026-07-11T08:34:25Z",
         "fileIds": [
-          "1000065540"
+          "1000066944"
         ]
       },
       {
@@ -295,9 +314,9 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-06-25T19:29:42Z",
+        "updatedAt": "2026-07-08T20:34:45Z",
         "fileIds": [
-          "1000066185"
+          "1000066810"
         ]
       },
       {
@@ -543,8 +562,9 @@
         "summary": "Break locks with the power of your muscles!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57841/57841-1764115539-112873440.png",
         "uid": "429496787441",
-        "updatedAt": "2026-01-27T10:44:49Z",
+        "updatedAt": "2026-07-11T06:55:43Z",
         "fileIds": [
+          "1000066941",
           "1000060297",
           "1000058867",
           "1000058759",
@@ -723,6 +743,6 @@
         ]
       }
     ],
-    "totalCount": 36
+    "totalCount": 37
   }
 }

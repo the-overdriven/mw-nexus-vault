@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-05T18:57:18.682Z",
+  "checkedAt": "2026-07-12T12:10:00.124Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -80,7 +80,7 @@
           "name": "Gameplay"
         },
         "modId": 57757,
-        "name": "Dubious Concoctions - Economy Fix",
+        "name": "Dubious Concoctions",
         "status": "published",
         "summary": "Merchants will only purchase home-brews from a skilled, reputable alchemist. And only certain factions will buy your poisons. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57757/57757-1762841594-1966040782.jpg",
@@ -128,7 +128,7 @@
           "name": "User Interface"
         },
         "modId": 57491,
-        "name": "Descriptive Icon Pack - Better Icons",
+        "name": "Descriptive Icon Pack",
         "status": "published",
         "summary": "Better descriptive icons for potions, scrolls, and magic effects. All sizes. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57491/57491-1758558073-1661734366.png",
@@ -144,7 +144,7 @@
           "name": "Gameplay"
         },
         "modId": 57411,
-        "name": "Trained Lungs - Hold Your Breath Underwater 4 Longer",
+        "name": "Trained Lungs - Hold Your Breath Underwater",
         "status": "published",
         "summary": "Hold your breath underwater for longer, depending on Endurance, Athletics, and Fatigue. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57411/57411-1757176363-470591675.png",
@@ -160,7 +160,7 @@
           "name": "User Interface"
         },
         "modId": 57358,
-        "name": "Spells Renamed - Spell Sorter",
+        "name": "Standard Spells Renamed",
         "status": "published",
         "summary": "Spells renamed for better sorting in player's spell list.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57358/57358-1766835520-1676949832.png",
