@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T12:07:52.636Z",
+  "checkedAt": "2026-07-16T20:06:48.077Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -512,7 +512,13 @@
         "summary": "Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50237/50237-1631297943-623246093.png",
         "uid": "429496779837",
-        "updatedAt": "2021-09-29T17:12:57Z"
+        "updatedAt": "2026-07-16T03:10:52Z",
+        "fileIds": [
+          "1000067135",
+          "1000027093",
+          "1000027067",
+          "1000026763"
+        ]
       },
       {
         "adultContent": false,

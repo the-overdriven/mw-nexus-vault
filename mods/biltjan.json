@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-12T12:04:04.789Z",
+  "checkedAt": "2026-07-16T20:04:25.628Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 6
       }
     },
     "nodes": [
@@ -62,27 +62,6 @@
         "updatedAt": "2022-08-19T06:59:43Z",
         "fileIds": [
           "1000032726"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2022-08-17T09:09:09Z",
-        "fileSize": 15,
-        "modCategory": {
-          "categoryId": 33,
-          "name": "Magic"
-        },
-        "modId": 51746,
-        "name": "Magicka Awakening - Illusion",
-        "status": "published",
-        "summary": "Improves Illusion effects as you level up in Illusion. Permanently calm/fear/rally/frenzy enemies, \"steal\" visions with blind, light reduce enemies willpower, charm makes buying things cheaper, sound applied after silence, chameleon applied",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51746/51746-1660725221-1771598029.png",
-        "uid": "429496781346",
-        "updatedAt": "2024-09-15T12:28:30Z",
-        "fileIds": [
-          "1000047221",
-          "1000032689",
-          "1000032701"
         ]
       },
       {
@@ -154,6 +133,6 @@
         ]
       }
     ],
-    "totalCount": 7
+    "totalCount": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T12:03:37.218Z",
+  "checkedAt": "2026-07-16T20:03:26.266Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -1093,8 +1093,9 @@
         "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
         "uid": "429496779448",
-        "updatedAt": "2026-06-08T07:22:37Z",
+        "updatedAt": "2026-07-15T10:09:44Z",
         "fileIds": [
+          "1000067095",
           "1000065441",
           "1000064979",
           "1000064600",

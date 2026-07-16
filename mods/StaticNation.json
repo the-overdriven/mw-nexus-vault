@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-12T12:09:18.871Z",
+  "checkedAt": "2026-07-16T20:07:59.036Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 29,
+        "100": 31,
         "101": 1,
         "736": 3,
         "1151": 1,
@@ -11,6 +11,46 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-15T16:23:06Z",
+        "fileSize": 30482,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59608,
+        "name": "PNG - DDS Texture Converter",
+        "status": "published",
+        "summary": "Two-way batch texture conversion — plus a full DirectXTex / NVIDIA Texture Tools toolkit",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59608/59608-1784132525-556642151.png",
+        "uid": "429496789208",
+        "updatedAt": "2026-07-15T16:23:06Z",
+        "fileIds": [
+          "1000067114"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-15T16:03:01Z",
+        "fileSize": 14864,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59606,
+        "name": "MLOX Subset Sort",
+        "status": "published",
+        "summary": "Tool for Sorting and Creating a customizations.toml for use with MOMW Tools (OpenMW)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59606/59606-1784131022-877662960.png",
+        "uid": "429496789206",
+        "updatedAt": "2026-07-16T08:36:33Z",
+        "fileIds": [
+          "1000067141",
+          "1000067138",
+          "1000067112"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2024-10-01T21:51:51Z",
@@ -162,12 +202,17 @@
           "name": "Armour"
         },
         "modId": 53217,
-        "name": "Static's Ashlander Turbans",
+        "name": "Static's Ashlander Turbans and Robes",
         "status": "published",
-        "summary": "50 Ashlander/Khajiit Turbans, 1 New NPC Merchant in Ebonheart",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53217/53217-1689510040-43366134.png",
+        "summary": "250 Ashlander/Khajiit Turbans, 200 Ceremonial Robes, 1 New NPC Merchant in Ebonheart",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53217/53217-1784130402-412585861.png",
         "uid": "429496782817",
-        "updatedAt": "2023-07-16T08:20:16Z"
+        "updatedAt": "2026-07-15T16:35:24Z",
+        "fileIds": [
+          "1000067116",
+          "1000039147",
+          "1000039143"
+        ]
       },
       {
         "adultContent": false,
@@ -545,6 +590,6 @@
         "updatedAt": "2008-01-07T23:52:27Z"
       }
     ],
-    "totalCount": 29
+    "totalCount": 31
   }
 }

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-12T12:10:00.230Z",
+  "checkedAt": "2026-07-16T20:08:32.983Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 22
+        "100": 21
       }
     },
     "nodes": [
@@ -368,28 +368,12 @@
         "summary": "Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Kellborn, RealAshtaar, and others to various Great House and miscellaneous npcs to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52167/52167-1742639887-1993541451.png",
         "uid": "429496781767",
-        "updatedAt": "2026-02-22T05:40:22Z",
+        "updatedAt": "2026-07-15T01:28:07Z",
         "fileIds": [
-          "1000060949",
+          "1000067084",
           "1000057129",
           "1000055379"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2022-11-24T19:20:00Z",
-        "fileSize": 2426,
-        "modCategory": {
-          "categoryId": 14,
-          "name": "Races, Classes, and Birthsigns"
-        },
-        "modId": 51988,
-        "name": "Diverse Cyrodils",
-        "status": "published",
-        "summary": "Adds a variant Imperial race to represent a small part of cosmopolitan Cyrodiil's ethnic diversity. Based on the models for Tamriel_Data's Keptu-Quey.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51988/51988-1675595484-535779784.png",
-        "uid": "429496781588",
-        "updatedAt": "2023-03-06T03:03:49Z"
       },
       {
         "adultContent": false,
@@ -405,10 +389,10 @@
         "summary": "Adds weapons and armour from Tamriel_Data, OAAB_Data and Danke's Armors to Daedric Cultists to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51922/51922-1673631978-1979698301.png",
         "uid": "429496781522",
-        "updatedAt": "2025-10-12T05:39:47Z",
+        "updatedAt": "2026-07-15T01:20:46Z",
         "fileIds": [
-          "1000057596",
-          "1000057597",
+          "1000067082",
+          "1000067083",
           "1000052315"
         ]
       },
@@ -430,6 +414,6 @@
         "fileIds": []
       }
     ],
-    "totalCount": 22
+    "totalCount": 21
   }
 }

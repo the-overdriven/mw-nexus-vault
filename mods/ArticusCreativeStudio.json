@@ -1,12 +1,107 @@
 {
-  "checkedAt": "2026-07-12T12:03:47.556Z",
+  "checkedAt": "2026-07-16T20:03:35.805Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 95
+        "100": 100
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-16T19:16:55Z",
+        "fileSize": 4679,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59615,
+        "name": "Studded Leather Replacer",
+        "status": "published",
+        "summary": "Replaces 2 items: Imperial studded leather cuirass and leather bracers. HQ meshes, HQ textures (2048 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59615/59615-1784229337-1627837660.png",
+        "uid": "429496789215",
+        "updatedAt": "2026-07-16T19:41:29Z",
+        "fileIds": [
+          "1000067164"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-15T23:47:59Z",
+        "fileSize": 5953,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59613,
+        "name": "Colovian Leather Armor Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces 3 items, pretending them to be in one setting: heavy leather boots, Colovian fur hat and cloth bracers. HQ meshes, HQ textures (2048 px). I allowed myself some deviation from vanilla and decided to remake a single leather bracer",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59613/59613-1784160567-842767895.png",
+        "uid": "429496789213",
+        "updatedAt": "2026-07-16T09:34:47Z",
+        "fileIds": [
+          "1000067144"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-15T22:03:40Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59611,
+        "name": "Armor for Beginners",
+        "status": "published",
+        "summary": "Now, instead of having to hunt down all the pieces of starting equipment, you can buy them from Arille at the beginning of the game. He sells Imperial chainmail, netch leather and iron armor.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59611/59611-1784153111-2134557880.png",
+        "uid": "429496789211",
+        "updatedAt": "2026-07-15T22:03:40Z",
+        "fileIds": [
+          "1000067128"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-14T23:27:47Z",
+        "fileSize": 34850,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59598,
+        "name": "Imperial Armor Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces Imperial Armor with new HQ meshes and textures (2048 px). Non-segmented version designed to work with Better Bodies or Robert Bodies.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59598/59598-1784072492-987386301.png",
+        "uid": "429496789198",
+        "updatedAt": "2026-07-15T00:01:20Z",
+        "fileIds": [
+          "1000067081"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-13T08:10:25Z",
+        "fileSize": 28413,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 59588,
+        "name": "Foeburner Replacer and Fix",
+        "status": "published",
+        "summary": "Replaces Foeburner dwemer claymore with HQ model and HQ textures (1024/512 px), adds glowing animated fire effect. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59588/59588-1783930147-650914753.png",
+        "uid": "429496789188",
+        "updatedAt": "2026-07-13T08:10:25Z",
+        "fileIds": [
+          "1000067030"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-08T11:18:21Z",
@@ -268,9 +363,9 @@
         "summary": "This mod replaces Dark Brotherhood armor with HQ models and textures (2048 px). All you need is to place conteining files to your Morrowind/Data directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58559/58559-1775025760-2023923704.png",
         "uid": "429496788159",
-        "updatedAt": "2026-04-27T20:55:09Z",
+        "updatedAt": "2026-07-12T12:26:50Z",
         "fileIds": [
-          "1000063151"
+          "1000066993"
         ]
       },
       {
@@ -1370,88 +1465,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55894/55894-1738233123-673597230.jpeg",
         "uid": "429496785494",
         "updatedAt": "2025-01-31T23:29:41Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-01-07T01:05:34Z",
-        "fileSize": 297638,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 55740,
-        "name": "Imperial Intervention",
-        "status": "published",
-        "summary": "This big pluginless compilation adds a High Quality (2048) textures for Imperial architecture, furniture, armors and weapons. All textures are seamless and made by hand.Pack includes new meshes for Imperial armors and weapons.All textures",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55740/55740-1736211298-900811139.jpeg",
-        "uid": "429496785340",
-        "updatedAt": "2025-06-27T00:19:14Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2024-12-31T15:10:52Z",
-        "fileSize": 2535,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 55694,
-        "name": "Ancestor Ghost Reworked by HedgeHog12 and Articus",
-        "status": "published",
-        "summary": "Replaces Ancestor Ghost from Symphony with new balanced version with properly made design, lore friendly colors and shapes.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55694/55694-1735657565-804193253.jpeg",
-        "uid": "429496785294",
-        "updatedAt": "2024-12-31T15:10:52Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-06-11T15:53:03Z",
-        "fileSize": 61802,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 48319,
-        "name": "Articus 6th House Dagoth - HD Nightmare Retexture 2K",
-        "status": "published",
-        "summary": "6th House was never been so scary and realistic! This mod adds a High Quality (2048) textures for House Dagoth. All textures are fully reworked and Lore friendly.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48319/48319-1591889772-457060829.jpeg",
-        "uid": "429496777919",
-        "updatedAt": "2020-06-11T15:53:03Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-03-19T21:51:15Z",
-        "fileSize": 402372,
-        "modCategory": {
-          "categoryId": 21,
-          "name": "Animations"
-        },
-        "modId": 47702,
-        "name": "Magic VFX Retexture by Articus",
-        "status": "published",
-        "summary": "This mod adds High Quality (512) animated textures for magic effects. All textures are fully reworked and vanilla friendly.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47702/47702-1584653630-1689444622.jpeg",
-        "uid": "429496777302",
-        "updatedAt": "2021-03-04T10:32:18Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2019-10-03T09:18:38Z",
-        "fileSize": 10501,
-        "modCategory": {
-          "categoryId": 30,
-          "name": "Splash Screens"
-        },
-        "modId": 47211,
-        "name": "Splash Races - Widescreen",
-        "status": "published",
-        "summary": "This mod adds 10 new Splash screens for Morrowind. They are based on original Bethesda concept art of races.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47211/47211-1570094051-701169521.jpeg",
-        "uid": "429496776811",
-        "updatedAt": "2019-10-03T09:18:38Z"
       }
     ],
-    "totalCount": 95
+    "totalCount": 100
   }
 }

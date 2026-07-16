@@ -1,12 +1,76 @@
 {
-  "checkedAt": "2026-07-12T12:07:44.753Z",
+  "checkedAt": "2026-07-16T20:05:59.988Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 58
+        "100": 61
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-16T10:46:57Z",
+        "fileSize": 63,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 59614,
+        "name": "Wolverine Hall Overhaul Overhauled Overhauled Again",
+        "status": "published",
+        "summary": "Mort and TitusTheBard's Wolverine Hall overhauled 'til overhaul stops looking like a real word. This time with OAAB and TD interior decoration.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59614/59614-1784198482-1685303332.png",
+        "uid": "429496789214",
+        "updatedAt": "2026-07-16T10:46:57Z",
+        "fileIds": [
+          "1000067146"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-15T15:27:44Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 59601,
+        "name": "Ashfront Patch Collection",
+        "status": "published",
+        "summary": "Assorted patches for various Ashfront modules and other mods",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59601/59601-1784125707-1802554076.png",
+        "uid": "429496789201",
+        "updatedAt": "2026-07-15T15:27:44Z",
+        "fileIds": [
+          "1000067109",
+          "1000067108",
+          "1000067107",
+          "1000067103",
+          "1000067102",
+          "1000067101"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-13T18:49:30Z",
+        "fileSize": 49,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 59590,
+        "name": "Nordic Moldy Horker Inn",
+        "status": "published",
+        "summary": "Overhauls Grumpy's The Moldy Horker inn on Solstheim to use new Nordic furniture made for SHOTN. Optionally the three EEC workers can now be found there before the start of the Raven Rock questline.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59590/59590-1783967726-886176297.png",
+        "uid": "429496789190",
+        "updatedAt": "2026-07-14T09:17:33Z",
+        "fileIds": [
+          "1000067045",
+          "1000067044",
+          "1000067068"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-06T12:47:25Z",
@@ -256,7 +320,11 @@
         "summary": "Korana's Provincial Bath Shoppe, now with a questline suitable for low level characters and overhauled interior using OAAB/TD assets. Also adds new perfumes and other toiletry items by DimNussens and Lucevar. Requires the original mod.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55012/55012-1721853313-383435302.png",
         "uid": "429496784612",
-        "updatedAt": "2024-07-24T20:41:40Z"
+        "updatedAt": "2026-07-13T23:10:09Z",
+        "fileIds": [
+          "1000067054",
+          "1000046431"
+        ]
       },
       {
         "adultContent": false,
@@ -531,7 +599,12 @@
         "summary": "Overhauls the Lucky Lockup Tavern in Balmora - subtle atmospheric improvements on the original floor, with a new basement with a kitchen and places for all the NPCs to sleep.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53186/53186-1689098710-553928906.png",
         "uid": "429496782786",
-        "updatedAt": "2024-07-10T11:52:58Z"
+        "updatedAt": "2026-07-13T12:33:49Z",
+        "fileIds": [
+          "1000067038",
+          "1000046196",
+          "1000041137"
+        ]
       },
       {
         "adultContent": false,
@@ -929,48 +1002,52 @@
         "summary": "Assorted mods I think people might be interested in, which are too small to justify having their own page.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47224/47224-1570919977-2049538424.png",
         "uid": "429496776824",
-        "updatedAt": "2025-11-30T15:20:21Z",
+        "updatedAt": "2026-07-16T09:55:16Z",
         "fileIds": [
-          "1000045829",
-          "1000050749",
-          "1000024331",
-          "1000015964",
-          "1000016694",
-          "1000050700",
-          "1000016709",
-          "1000015956",
-          "1000038909",
-          "1000058794",
-          "1000017122",
-          "1000034065",
-          "1000016766",
-          "1000038564",
-          "1000051004",
-          "1000050714",
-          "1000034615",
-          "1000022507",
-          "1000050701",
-          "1000050313",
-          "1000024327",
-          "1000050753",
-          "1000024326",
-          "1000050677",
+          "1000067145",
+          "1000067143",
+          "1000067142",
+          "1000067139",
           "1000058796",
-          "1000024328",
+          "1000058795",
+          "1000058794",
+          "1000058676",
+          "1000051004",
+          "1000050754",
+          "1000050753",
+          "1000050749",
           "1000050715",
+          "1000050714",
+          "1000050701",
+          "1000050700",
+          "1000050677",
+          "1000050382",
+          "1000050313",
+          "1000045829",
           "1000041280",
+          "1000041205",
+          "1000038909",
+          "1000038564",
+          "1000034615",
+          "1000034065",
+          "1000024331",
+          "1000024328",
+          "1000024327",
+          "1000024326",
+          "1000024323",
+          "1000022507",
+          "1000017122",
+          "1000016766",
+          "1000016709",
+          "1000016694",
           "1000016670",
           "1000016664",
-          "1000058795",
-          "1000050382",
-          "1000041205",
-          "1000050754",
-          "1000024323",
-          "1000058676",
+          "1000015964",
+          "1000015956",
           "1000050694",
-          "1000015955",
+          "1000041204",
           "1000017118",
-          "1000041204"
+          "1000015955"
         ]
       },
       {
@@ -1086,6 +1163,6 @@
         "updatedAt": "2023-11-22T19:50:32Z"
       }
     ],
-    "totalCount": 58
+    "totalCount": 61
   }
 }

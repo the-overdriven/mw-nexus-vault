@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-12T12:07:01.078Z",
+  "checkedAt": "2026-07-16T20:05:47.512Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 67,
+        "100": 68,
         "101": 1,
         "1413": 8,
         "1704": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-13T21:48:30Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 59592,
+        "name": "Xenn's Shadowscales Tweaks",
+        "status": "published",
+        "summary": "Small adjustments to Xenn's Shadowscales, fixes invisible vampire heads, they now use Argonian voices. ESP replacer, requires original mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59592/59592-1783979160-901973063.jpg",
+        "uid": "429496789192",
+        "updatedAt": "2026-07-13T21:48:30Z",
+        "fileIds": [
+          "1000067052"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-26T01:04:26Z",
@@ -1282,6 +1301,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 67
+    "totalCount": 68
   }
 }
