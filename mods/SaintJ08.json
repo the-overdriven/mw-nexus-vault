@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-16T20:07:31.871Z",
+  "checkedAt": "2026-07-17T22:01:45.448Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 32
+        "100": 33
       }
     },
     "nodes": [
@@ -440,6 +440,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2025-04-18T10:17:07Z",
+        "fileSize": 8585,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56363,
+        "name": "Lysol's Hlaalu textures ReColoured",
+        "status": "published",
+        "summary": "Makes https://www.nexusmods.com/morrowind/mods/44297 less green and more yellowy.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56363/56363-1744971214-523866208.png",
+        "uid": "429496785963",
+        "updatedAt": "2025-04-18T10:17:07Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-02-22T03:21:51Z",
         "fileSize": 26436,
         "modCategory": {
@@ -656,6 +672,6 @@
         ]
       }
     ],
-    "totalCount": 32
+    "totalCount": 33
   }
 }

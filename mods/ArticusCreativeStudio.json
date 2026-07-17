@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-16T20:03:35.805Z",
+  "checkedAt": "2026-07-17T22:00:33.527Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 100
+        "100": 101
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-17T21:10:10Z",
+        "fileSize": 14292,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59625,
+        "name": "Imperial Chainmail Armor Replacer by Articus",
+        "status": "published",
+        "summary": "This mod replaces Imperial Chainmail Armor with HQ meshes and HQ textures (2048 px) with complete armor joints. Compatible with Rober's Bodies and Better Bodies. Female version included. All you need is to place conteining files to your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59625/59625-1784322113-306772692.jpg",
+        "uid": "429496789225",
+        "updatedAt": "2026-07-17T21:44:46Z",
+        "fileIds": [
+          "1000067199"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-16T19:16:55Z",
@@ -21,9 +40,9 @@
         "summary": "Replaces 2 items: Imperial studded leather cuirass and leather bracers. HQ meshes, HQ textures (2048 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59615/59615-1784229337-1627837660.png",
         "uid": "429496789215",
-        "updatedAt": "2026-07-16T19:41:29Z",
+        "updatedAt": "2026-07-16T23:20:59Z",
         "fileIds": [
-          "1000067164"
+          "1000067167"
         ]
       },
       {
@@ -1449,24 +1468,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55917/55917-1738584877-609813565.jpeg",
         "uid": "429496785517",
         "updatedAt": "2025-02-03T21:00:27Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-01-30T10:22:29Z",
-        "fileSize": 44868,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 55894,
-        "name": "Indoril Armor and Clothing Replacer",
-        "status": "published",
-        "summary": "Replaces Indoril Armor and Clothing with new HQ models and textures. Works with Better Bodies and Robert's BodiesAll you need is to copy conteining files to your Morrowind/Data Files directory.Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55894/55894-1738233123-673597230.jpeg",
-        "uid": "429496785494",
-        "updatedAt": "2025-01-31T23:29:41Z"
       }
     ],
-    "totalCount": 100
+    "totalCount": 101
   }
 }

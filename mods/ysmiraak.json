@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-16T20:09:00.499Z",
+  "checkedAt": "2026-07-17T22:01:58.385Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -82,14 +82,15 @@
         "summary": "a simple hud to display expiring magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56767/56767-1748461287-1590532200.png",
         "uid": "429496786367",
-        "updatedAt": "2025-06-08T13:58:00Z",
+        "updatedAt": "2026-07-17T12:34:32Z",
         "fileIds": [
-          "1000054228",
+          "1000067178",
+          "1000067187",
+          "1000067180",
+          "1000067179",
           "1000054248",
-          "1000054247",
           "1000054239",
-          "1000054230",
-          "1000054229",
+          "1000054228",
           "1000054186",
           "1000053986",
           "1000053687"
