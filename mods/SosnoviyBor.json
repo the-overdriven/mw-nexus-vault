@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-17T22:01:46.592Z",
+  "checkedAt": "2026-07-21T22:46:41.984Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -78,9 +78,9 @@
         "summary": "A collection of utilities for followers made with performance in mind. Follower HUD, teleportation, immortality and more. Modernized Attend Me, if you will.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59384/59384-1781861215-895215961.jpg",
         "uid": "429496788984",
-        "updatedAt": "2026-07-09T04:18:40Z",
+        "updatedAt": "2026-07-20T08:49:55Z",
         "fileIds": [
-          "1000066822"
+          "1000067277"
         ]
       },
       {
@@ -314,9 +314,9 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-07-14T10:29:09Z",
+        "updatedAt": "2026-07-21T09:00:04Z",
         "fileIds": [
-          "1000067069"
+          "1000067307"
         ]
       },
       {
@@ -505,8 +505,9 @@
         "summary": "Library for centralized and convenient follower tracking.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58053/58053-1767793455-1762329405.png",
         "uid": "429496787653",
-        "updatedAt": "2026-06-19T10:33:42Z",
+        "updatedAt": "2026-07-19T16:03:39Z",
         "fileIds": [
+          "1000067256",
           "1000065930"
         ]
       },

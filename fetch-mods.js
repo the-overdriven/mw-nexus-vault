@@ -138,7 +138,9 @@ for (const uploaderName of modAuthors) {
           const fileIds = await findFileIds(mod.modId)
           console.log(`fetched file ids for mod ${mod.modId}:`, fileIds)
 
-          mod.fileIds = fileIds
+          if (fileIds.length) {
+            mod.fileIds = fileIds
+          }
         }
         else {
           const oldModData = oldAuthorData?.mods.nodes.find(oldDataMod => oldDataMod.modId === mod.modId)

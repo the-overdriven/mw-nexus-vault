@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-17T22:01:46.807Z",
+  "checkedAt": "2026-07-21T22:47:09.119Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -42,10 +42,11 @@
         "name": "MLOX Subset Sort",
         "status": "published",
         "summary": "Tool for Sorting and Creating a customizations.toml for use with MOMW Tools (OpenMW)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59606/59606-1784131022-877662960.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59606/59606-1784353545-1783230387.png",
         "uid": "429496789206",
-        "updatedAt": "2026-07-17T05:52:59Z",
+        "updatedAt": "2026-07-18T05:12:12Z",
         "fileIds": [
+          "1000067204",
           "1000067171",
           "1000067141",
           "1000067138",
@@ -261,8 +262,10 @@
         "summary": "Armour set bonuses for Morrowind — wear matched sets for scaling, lore-themed effects. 130+ sets, Tamriel Rebuilt/OAAB/NOD/AATL support, no ESP. MWSE and OpenMW versions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52911/52911-1782808276-802178859.png",
         "uid": "429496782511",
-        "updatedAt": "2026-07-11T06:47:08Z",
+        "updatedAt": "2026-07-21T06:28:06Z",
         "fileIds": [
+          "1000067302",
+          "1000067301",
           "1000066940",
           "1000066939",
           "1000066783",

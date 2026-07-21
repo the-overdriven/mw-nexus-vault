@@ -19,6 +19,7 @@ async function scrapeNexusMods(url) {
   const browser = await puppeteer.launch({
     // headless: false,
     headless: 'shell',
+    // Target your local AppData Brave installation
     executablePath: `${process.env.LOCALAPPDATA}\\BraveSoftware\\Brave-Browser\\Application\\brave.exe`,
     args: [
       '--no-sandbox',
@@ -29,6 +30,7 @@ async function scrapeNexusMods(url) {
       '--excludeSwitches=enable-automation' 
     ]
   })
+
 
   // Open pages using target contexts to separate fingerprinting footprints
   const pages = await browser.pages()

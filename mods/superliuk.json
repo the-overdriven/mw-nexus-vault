@@ -1,12 +1,33 @@
 {
-  "checkedAt": "2026-07-17T22:01:55.352Z",
+  "checkedAt": "2026-07-21T22:47:27.230Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 56
+        "100": 57
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-21T19:59:03Z",
+        "fileSize": 123,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 59637,
+        "name": "Superliuk's Small Mods and WIPs",
+        "status": "published",
+        "summary": "Collection of little mod or WIP that don't deserve their own page.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59637/59637-1784454857-1075889588.png",
+        "uid": "429496789237",
+        "updatedAt": "2026-07-21T19:59:03Z",
+        "fileIds": [
+          "1000067325",
+          "1000067265",
+          "1000067244"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-31T13:33:34Z",
@@ -1035,6 +1056,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 56
+    "totalCount": 57
   }
 }
