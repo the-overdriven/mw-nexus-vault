@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T22:44:34.031Z",
+  "checkedAt": "2026-07-26T12:00:52.274Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -266,10 +266,15 @@
         "modId": 49522,
         "name": "Marandus Rebuilt",
         "status": "published",
-        "summary": "The once generic stronghold of Marandus has now been given a facelift to truly show that it's now a Redoran conquest.",
+        "summary": "Marandus is expanded, given more background, quests, and content.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49522/49522-1617579918-1187505179.png",
         "uid": "429496779122",
-        "updatedAt": "2021-04-11T23:16:19Z"
+        "updatedAt": "2026-07-23T15:17:37Z",
+        "fileIds": [
+          "1000067410",
+          "1000023774",
+          "1000023759"
+        ]
       },
       {
         "adultContent": false,

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T22:43:53.740Z",
+  "checkedAt": "2026-07-26T11:58:29.514Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -367,10 +367,13 @@
         "summary": "OpenMW mod that adds a perk framework.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57615/57615-1760306040-1876127394.png",
         "uid": "429496787215",
-        "updatedAt": "2026-05-20T23:54:17Z",
+        "updatedAt": "2026-07-26T11:08:19Z",
         "fileIds": [
           "1000064370",
           "1000062781",
+          "1000067579",
+          "1000067577",
+          "1000067493",
           "1000064188",
           "1000062550",
           "1000058190",
@@ -539,7 +542,7 @@
         "name": "Slow Magicka Regen",
         "status": "published",
         "summary": "OpenMW mod for slow and subtle real time magicka regeneration that matches the vanilla game's resting regeneration rate.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56843/56843-1748907712-2035167419.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56843/56843-1784747314-84433811.png",
         "uid": "429496786443",
         "updatedAt": "2026-01-22T03:46:42Z",
         "fileIds": [

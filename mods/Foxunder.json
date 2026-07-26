@@ -1,12 +1,33 @@
 {
-  "checkedAt": "2026-07-21T22:44:34.250Z",
+  "checkedAt": "2026-07-26T12:01:01.660Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34
+        "100": 35
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-23T20:40:25Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59667,
+        "name": "(OpenMW) Hidden Traps",
+        "status": "published",
+        "summary": "This chest is safe to open. Or is it?",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59667/59667-1784838557-917731311.png",
+        "uid": "429496789267",
+        "updatedAt": "2026-07-25T09:44:43Z",
+        "fileIds": [
+          "1000067522",
+          "1000067474",
+          "1000067431"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-21T21:00:06Z",
@@ -21,8 +42,9 @@
         "summary": "Now NPCs can unlock locked doors to fight you even if they don't have keys.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59652/59652-1784667513-543879199.png",
         "uid": "429496789252",
-        "updatedAt": "2026-07-21T21:08:17Z",
+        "updatedAt": "2026-07-22T14:36:21Z",
         "fileIds": [
+          "1000067361",
           "1000067329"
         ]
       },
@@ -40,8 +62,9 @@
         "summary": "Covers voice lines that are not added by Kezyma's Voices of Vvardenfell.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59648/59648-1784549222-2056167161.png",
         "uid": "429496789248",
-        "updatedAt": "2026-07-20T12:29:44Z",
+        "updatedAt": "2026-07-23T21:41:07Z",
         "fileIds": [
+          "1000067436",
           "1000067289"
         ]
       },
@@ -59,8 +82,9 @@
         "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
         "uid": "429496788950",
-        "updatedAt": "2026-07-04T19:33:24Z",
+        "updatedAt": "2026-07-23T20:09:35Z",
         "fileIds": [
+          "1000067427",
           "1000066624",
           "1000066408",
           "1000066168"
@@ -121,11 +145,12 @@
         "modId": 59117,
         "name": "(OpenMW) Interactions Animated",
         "status": "published",
-        "summary": "Plays animations when picking up items / activating containers, doors or activators",
+        "summary": "Plays animations when picking up items / activating containers, doors or activators. Also during dialogues.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59117/59117-1779834710-1366291765.jpg",
         "uid": "429496788717",
-        "updatedAt": "2026-07-18T16:44:41Z",
+        "updatedAt": "2026-07-23T20:18:47Z",
         "fileIds": [
+          "1000067429",
           "1000067220",
           "1000066599",
           "1000065692",
@@ -743,6 +768,6 @@
         ]
       }
     ],
-    "totalCount": 34
+    "totalCount": 35
   }
 }

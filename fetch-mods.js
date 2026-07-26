@@ -26,7 +26,6 @@ try {
   console.error('Error reading directory:', err.message)
 }
 
-
 // Get uploaderName from command-line argument, if it exists
 if (process.argv[2]) {
   modAuthors = [process.argv[2]]

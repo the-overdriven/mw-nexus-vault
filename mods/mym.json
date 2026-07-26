@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T22:46:01.294Z",
+  "checkedAt": "2026-07-26T12:02:02.547Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -71,8 +71,10 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-07-19T18:44:14Z",
+        "updatedAt": "2026-07-22T12:41:07Z",
         "fileIds": [
+          "1000067357",
+          "1000067344",
           "1000067266",
           "1000067120",
           "1000067099",
@@ -152,8 +154,11 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-07-15T08:09:15Z",
+        "updatedAt": "2026-07-24T21:42:51Z",
         "fileIds": [
+          "1000067500",
+          "1000067499",
+          "1000067343",
           "1000067091",
           "1000066778",
           "1000065855",
@@ -200,8 +205,10 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1784550238-1449709001.jpg",
         "uid": "429496785605",
-        "updatedAt": "2026-07-20T12:22:16Z",
+        "updatedAt": "2026-07-23T07:30:32Z",
         "fileIds": [
+          "1000067389",
+          "1000067363",
           "1000067290",
           "1000062460",
           "1000062228",
@@ -279,8 +286,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-07-17T22:00:52Z",
+        "updatedAt": "2026-07-22T12:04:12Z",
         "fileIds": [
+          "1000067353",
           "1000067201",
           "1000067022",
           "1000065534",

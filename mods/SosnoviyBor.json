@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-21T22:46:41.984Z",
+  "checkedAt": "2026-07-26T12:05:02.332Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 37
+        "100": 38
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-25T12:17:21Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 59680,
+        "name": "Text Set Settings Renderer (OpenMW)",
+        "status": "published",
+        "summary": "A custom settings renderer for text lists. The mod does nothing on its own - it's a library/utility for other modders and mods to use.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59680/59680-1784980281-389044931.png",
+        "uid": "429496789280",
+        "updatedAt": "2026-07-25T17:41:26Z",
+        "fileIds": [
+          "1000067542"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-08T01:03:05Z",
@@ -78,9 +97,9 @@
         "summary": "A collection of utilities for followers made with performance in mind. Follower HUD, teleportation, immortality and more. Modernized Attend Me, if you will.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59384/59384-1781861215-895215961.jpg",
         "uid": "429496788984",
-        "updatedAt": "2026-07-20T08:49:55Z",
+        "updatedAt": "2026-07-25T09:47:38Z",
         "fileIds": [
-          "1000067277"
+          "1000067523"
         ]
       },
       {
@@ -228,10 +247,10 @@
         "summary": "Select your character's past that will shape their future. Almost 300 traits across 4 types to choose from!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58704/58704-1776598686-424312326.png",
         "uid": "429496788304",
-        "updatedAt": "2026-07-14T13:28:41Z",
+        "updatedAt": "2026-07-25T17:10:20Z",
         "fileIds": [
+          "1000067541",
           "1000067072",
-          "1000066337",
           "1000065533",
           "1000064793",
           "1000063997",
@@ -314,9 +333,9 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-07-21T09:00:04Z",
+        "updatedAt": "2026-07-24T14:42:49Z",
         "fileIds": [
-          "1000067307"
+          "1000067481"
         ]
       },
       {
@@ -525,9 +544,9 @@
         "summary": "Rebelling followers begone!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57975/57975-1766605107-1861789311.jpg",
         "uid": "429496787575",
-        "updatedAt": "2026-05-08T11:31:39Z",
+        "updatedAt": "2026-07-25T09:43:37Z",
         "fileIds": [
-          "1000063796"
+          "1000067521"
         ]
       },
       {
@@ -563,8 +582,11 @@
         "summary": "Break locks with the power of your muscles!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57841/57841-1764115539-112873440.png",
         "uid": "429496787441",
-        "updatedAt": "2026-07-11T06:55:43Z",
+        "updatedAt": "2026-07-25T08:43:49Z",
         "fileIds": [
+          "1000067517",
+          "1000067471",
+          "1000067413",
           "1000066941",
           "1000060297",
           "1000058867",
@@ -612,9 +634,9 @@
         "summary": "Book ownership actually matters now. Paid books need to be bought. Strangers won't let you browse their shelves for free.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57441/57441-1763748886-473564824.jpg",
         "uid": "429496787041",
-        "updatedAt": "2026-05-28T07:32:44Z",
+        "updatedAt": "2026-07-23T15:41:03Z",
         "fileIds": [
-          "1000064787"
+          "1000067412"
         ]
       },
       {
@@ -744,6 +766,6 @@
         ]
       }
     ],
-    "totalCount": 37
+    "totalCount": 38
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T22:44:23.432Z",
+  "checkedAt": "2026-07-26T12:00:23.203Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -124,15 +124,18 @@
         "summary": "Adds a new journal menu (H key) for viewing and tracking quest requirements and objects, and introduces quest markers to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57285/57285-1755018136-1399655819.png",
         "uid": "429496786885",
-        "updatedAt": "2026-07-15T16:30:34Z",
+        "updatedAt": "2026-07-25T10:02:19Z",
         "fileIds": [
           "1000067115",
           "1000063837",
           "1000063836",
+          "1000067527",
+          "1000067526",
+          "1000067525",
+          "1000066248",
           "1000065630",
           "1000065629",
           "1000065628",
-          "1000066248",
           "1000065339",
           "1000063840",
           "1000063839",
@@ -217,8 +220,9 @@
         "summary": "Shows comprehensive information about game quests and adds quest markers to the game. The information is generated dynamically based on your mods. Has many settings and the ability to disable features (for example, you can disable markers",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55593/55593-1734509196-1995167322.png",
         "uid": "429496785193",
-        "updatedAt": "2026-03-01T16:07:46Z",
+        "updatedAt": "2026-07-25T08:56:34Z",
         "fileIds": [
+          "1000067519",
           "1000061168",
           "1000058012",
           "1000057547",

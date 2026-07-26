@@ -1,15 +1,73 @@
 {
-  "checkedAt": "2026-07-21T22:46:29.655Z",
+  "checkedAt": "2026-07-26T12:02:41.069Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 44,
+        "100": 47,
         "1303": 3,
         "2696": 1,
         "4187": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-25T00:35:33Z",
+        "fileSize": 126,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 59673,
+        "name": "(OpenMW) Super Settings Renderers (Library)",
+        "status": "published",
+        "summary": "optionalRenderer, SuperColorPicker, SuperKeybind, SuperSelect, SuperSlider (does nothing on its own)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59673/59673-1784917962-1469931586.png",
+        "uid": "429496789273",
+        "updatedAt": "2026-07-25T00:35:33Z",
+        "fileIds": [
+          "1000067506"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-24T13:44:56Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 59674,
+        "name": "(OpenMW) Shared Ray (Library)",
+        "status": "published",
+        "summary": "Shared raycast service (does nothing on its own)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59674/59674-1784899825-28196079.png",
+        "uid": "429496789274",
+        "updatedAt": "2026-07-24T13:44:56Z",
+        "fileIds": [
+          "1000067477"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-24T01:53:14Z",
+        "fileSize": 44,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 59670,
+        "name": "(OpenMW) Shared Tooltip (Library)",
+        "status": "published",
+        "summary": "Bundle this with your mod. Does nothing on its own.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59670/59670-1784857841-1077140270.png",
+        "uid": "429496789270",
+        "updatedAt": "2026-07-26T02:24:52Z",
+        "fileIds": [
+          "1000067560",
+          "1000067448"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-07T13:20:13Z",
@@ -964,8 +1022,9 @@
         "summary": "Rework of the pickpocketing system. Requires QuickLoot",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56596/56596-1747170145-920388075.png",
         "uid": "429496786196",
-        "updatedAt": "2025-12-09T22:34:47Z",
+        "updatedAt": "2026-07-23T12:16:12Z",
         "fileIds": [
+          "1000067405",
           "1000059088",
           "1000056455",
           "1000052883"
@@ -1169,20 +1228,24 @@
           "name": "User Interface"
         },
         "modId": 54950,
-        "name": "(OpenMW 0.49) QuickLoot",
+        "name": "(OpenMW 0.50) QuickLoot",
         "status": "published",
         "summary": "Take stuff without opening the container",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54950/54950-1720626222-2104346050.png",
         "uid": "429496784550",
-        "updatedAt": "2026-03-08T08:15:00Z",
+        "updatedAt": "2026-07-26T03:09:11Z",
         "fileIds": [
-          "1000061407",
-          "1000059089",
+          "1000067561",
+          "1000067378",
           "1000051340",
+          "1000067404",
+          "1000067380",
+          "1000061407",
           "1000061237",
           "1000059621",
           "1000059584",
           "1000059101",
+          "1000059089",
           "1000058865",
           "1000058857",
           "1000058565",
@@ -1227,6 +1290,6 @@
         ]
       }
     ],
-    "totalCount": 44
+    "totalCount": 47
   }
 }

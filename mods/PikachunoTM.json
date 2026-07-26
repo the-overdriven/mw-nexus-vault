@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T22:46:30.005Z",
+  "checkedAt": "2026-07-26T12:03:26.646Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -37,12 +37,9 @@
         "summary": "Compatibility patches for various mods to work with AATL_Data and AATL_Main.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55361/55361-1729415573-746748503.jpeg",
         "uid": "429496784961",
-        "updatedAt": "2026-05-18T20:53:42Z",
+        "updatedAt": "2026-07-23T17:19:50Z",
         "fileIds": [
-          "1000064285",
-          "1000064262",
-          "1000064261",
-          "1000047780"
+          "1000067419"
         ]
       },
       {
@@ -59,9 +56,9 @@
         "summary": "Main page for AATL-Based Mods by the AATL Team.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54147/54147-1729303003-371747853.png",
         "uid": "429496783747",
-        "updatedAt": "2026-05-18T11:13:58Z",
+        "updatedAt": "2026-07-24T06:59:17Z",
         "fileIds": [
-          "1000064255",
+          "1000067459",
           "1000047755"
         ]
       },
@@ -98,10 +95,10 @@
         "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts list, while adding more quests, items, and artifacts that",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
         "uid": "429496780247",
-        "updatedAt": "2026-05-30T00:16:02Z",
+        "updatedAt": "2026-07-26T11:11:16Z",
         "fileIds": [
-          "1000064931",
-          "1000064930"
+          "1000067578",
+          "1000067580"
         ]
       },
       {

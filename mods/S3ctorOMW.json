@@ -1,14 +1,52 @@
 {
-  "checkedAt": "2026-07-21T22:46:31.870Z",
+  "checkedAt": "2026-07-26T12:03:56.325Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17,
+        "100": 19,
         "101": 1,
         "120": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-23T21:18:17Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59668,
+        "name": "Horiz0n - OpenMW View Distance Manager",
+        "status": "published",
+        "summary": "View distance manager implemented in OpenMW-Lua to maximize framerate *and* viewing distance whenever possible.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59668/59668-1784839464-1263364251.png",
+        "uid": "429496789268",
+        "updatedAt": "2026-07-26T00:32:19Z",
+        "fileIds": [
+          "1000067558"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-23T21:18:14Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59665,
+        "name": "S4V3R - Simple Automatic Saves",
+        "status": "published",
+        "summary": "Brutally opinionated auto-save framework for OpenMW, with start saves and combat start/stop saves.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59665/59665-1784832663-577050142.png",
+        "uid": "429496789265",
+        "updatedAt": "2026-07-24T23:51:51Z",
+        "fileIds": [
+          "1000067503"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-01T12:39:20Z",
@@ -180,9 +218,9 @@
         "summary": "Dark Souls Style target locking framework for OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57703/57703-1761618343-1717134229.png",
         "uid": "429496787303",
-        "updatedAt": "2025-10-28T02:42:44Z",
+        "updatedAt": "2026-07-24T02:11:48Z",
         "fileIds": [
-          "1000058005"
+          "1000067450"
         ]
       },
       {
@@ -331,9 +369,9 @@
         "summary": "Opt-in replacement for the `openmw.self` module with better ergonomics and performance, along with some additional convenience functions for generating Image Atlasses, tracking objects with the camera, and ported C++ code from OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56417/56417-1782526729-745356886.png",
         "uid": "429496786017",
-        "updatedAt": "2026-06-27T02:26:36Z",
+        "updatedAt": "2026-07-24T13:42:37Z",
         "fileIds": [
-          "1000066237"
+          "1000067476"
         ]
       },
       {
@@ -375,6 +413,6 @@
         ]
       }
     ],
-    "totalCount": 17
+    "totalCount": 19
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T22:46:41.629Z",
+  "checkedAt": "2026-07-26T12:04:34.394Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -81,8 +81,12 @@
         "summary": "New series of mods introducing spells to the world of OpenMW. Vol. 1 treats you with 4 new Trap Handling spells ( Spell Framework Plus based)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58681/58681-1776449093-1056659523.png",
         "uid": "429496788281",
-        "updatedAt": "2026-07-07T21:42:12Z",
+        "updatedAt": "2026-07-25T22:45:24Z",
         "fileIds": [
+          "1000067554",
+          "1000067373",
+          "1000067370",
+          "1000067368",
           "1000066786",
           "1000062745",
           "1000062716"
@@ -97,13 +101,35 @@
           "name": "Overhauls"
         },
         "modId": 58653,
-        "name": "Oblivion Style Spellcasting Quickcasting ( OpenMW )",
+        "name": "Oblivion Style Spellcasting Quickcasting OSSC ( OpenMW )",
         "status": "published",
         "summary": "Cast spells in weapon stance just like in Oblivion, no more need to switch to spell stance. 1st and 3rd person animations!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58653/58653-1776021677-86431281.png",
         "uid": "429496788253",
-        "updatedAt": "2026-06-17T14:23:22Z",
-        "fileIds": []
+        "updatedAt": "2026-07-25T22:47:15Z",
+        "fileIds": [
+          "1000067555",
+          "1000065851",
+          "1000065817",
+          "1000064747",
+          "1000064733",
+          "1000064472",
+          "1000064178",
+          "1000063858",
+          "1000063640",
+          "1000063632",
+          "1000063597",
+          "1000063582",
+          "1000063547",
+          "1000062875",
+          "1000062792",
+          "1000062791",
+          "1000062734",
+          "1000062714",
+          "1000062659",
+          "1000062627",
+          "1000062619"
+        ]
       },
       {
         "adultContent": false,
@@ -119,8 +145,9 @@
         "summary": "OpenMW gap of custom spells has been closed. Generate custom spells as you wish with using this interface. Modders resource. Uses OpenMW Spell Api as a base.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58652/58652-1776549126-1686151643.png",
         "uid": "429496788252",
-        "updatedAt": "2026-06-16T13:59:28Z",
+        "updatedAt": "2026-07-25T22:43:41Z",
         "fileIds": [
+          "1000067553",
           "1000065818",
           "1000064746",
           "1000064390",
