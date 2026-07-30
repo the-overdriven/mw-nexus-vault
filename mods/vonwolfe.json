@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-26T12:06:54.711Z",
+  "checkedAt": "2026-07-30T20:59:04.904Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -108,13 +108,14 @@
         "summary": "Replaces Starwind's creature models with updated assets. Requires Starwind Enhanced and Tamriel Data.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56075/56075-1740832344-846661692.png",
         "uid": "429496785675",
-        "updatedAt": "2026-02-20T15:06:27Z",
+        "updatedAt": "2026-07-29T14:49:15Z",
         "fileIds": [
+          "1000067736",
           "1000060878",
           "1000060485",
           "1000056971",
-          "1000050842",
           "1000050867",
+          "1000050842",
           "1000050673"
         ]
       },

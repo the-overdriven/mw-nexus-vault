@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-26T12:01:47.007Z",
+  "checkedAt": "2026-07-30T20:54:29.451Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 68,
+        "100": 69,
         "101": 1,
         "1413": 8,
         "1704": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-29T20:45:47Z",
+        "fileSize": 56,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 59721,
+        "name": "Morrowind Qaja-kar Tweaked",
+        "status": "published",
+        "summary": "Edits LegoManIAm94's Morrowind Qaja-kar to use vanilla variables so that other khajiit races can be used. Also corrects some typos and grammer, but maybe not everything has been fixed.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59721/59721-1785357799-1770388555.jpg",
+        "uid": "429496789321",
+        "updatedAt": "2026-07-29T20:45:47Z",
+        "fileIds": [
+          "1000067771"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-13T21:48:30Z",
@@ -1301,6 +1320,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 68
+    "totalCount": 69
   }
 }

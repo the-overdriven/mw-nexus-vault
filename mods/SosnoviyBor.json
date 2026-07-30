@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-26T12:05:02.332Z",
+  "checkedAt": "2026-07-30T20:57:16.216Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 38
+        "100": 39
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-27T14:52:24Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59697,
+        "name": "(s)Light Improvements (OpenMW)",
+        "status": "published",
+        "summary": "Slight improvements to your lights - disabled pulse and flicker, modifiers for duration and weight and more. Compatible with any mods without any patching.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59697/59697-1785162886-1436977472.png",
+        "uid": "429496789297",
+        "updatedAt": "2026-07-27T14:52:24Z",
+        "fileIds": [
+          "1000067638"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-25T12:17:21Z",
@@ -40,9 +59,10 @@
         "summary": "More intricate racial attitudes to truly make you feel like an outlander.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59550/59550-1783466076-860126380.gif",
         "uid": "429496789150",
-        "updatedAt": "2026-07-08T19:02:02Z",
+        "updatedAt": "2026-07-27T07:52:34Z",
         "fileIds": [
-          "1000066808"
+          "1000066808",
+          "1000067617"
         ]
       },
       {
@@ -97,9 +117,9 @@
         "summary": "A collection of utilities for followers made with performance in mind. Follower HUD, teleportation, immortality and more. Modernized Attend Me, if you will.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59384/59384-1781861215-895215961.jpg",
         "uid": "429496788984",
-        "updatedAt": "2026-07-25T09:47:38Z",
+        "updatedAt": "2026-07-27T08:24:04Z",
         "fileIds": [
-          "1000067523"
+          "1000067619"
         ]
       },
       {
@@ -228,9 +248,9 @@
         "summary": "Adds a hotkey to give followers commands based on what you're looking at.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58818/58818-1777591966-1859850688.png",
         "uid": "429496788418",
-        "updatedAt": "2026-05-16T19:30:11Z",
+        "updatedAt": "2026-07-27T08:28:05Z",
         "fileIds": [
-          "1000064190"
+          "1000067620"
         ]
       },
       {
@@ -582,8 +602,9 @@
         "summary": "Break locks with the power of your muscles!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57841/57841-1764115539-112873440.png",
         "uid": "429496787441",
-        "updatedAt": "2026-07-25T08:43:49Z",
+        "updatedAt": "2026-07-27T06:43:49Z",
         "fileIds": [
+          "1000067616",
           "1000067517",
           "1000067471",
           "1000067413",
@@ -766,6 +787,6 @@
         ]
       }
     ],
-    "totalCount": 38
+    "totalCount": 39
   }
 }

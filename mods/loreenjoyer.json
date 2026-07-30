@@ -1,13 +1,55 @@
 {
-  "checkedAt": "2026-07-26T12:01:50.990Z",
+  "checkedAt": "2026-07-30T20:54:43.061Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 9,
+        "100": 11,
         "3474": 4
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-27T21:34:39Z",
+        "fileSize": 410757,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 59700,
+        "name": "Free FPS for OpenMW (Updated)",
+        "status": "published",
+        "summary": "Updated version of \"Free FPS for OpenMW\", which adds occlusion culling and soft shadows to reclaim +15-30 FPS in dense areas",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59700/59700-1785187683-2007242072.png",
+        "uid": "429496789300",
+        "updatedAt": "2026-07-28T00:19:43Z",
+        "fileIds": [
+          "1000067676",
+          "1000067674",
+          "1000067660"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-27T02:43:27Z",
+        "fileSize": 379,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 59693,
+        "name": "Frame Generation (OpenMW)",
+        "status": "published",
+        "summary": "Doubles your framerate in OpenMW by generating an intermediate frame between every two rendered frames.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59693/59693-1785119802-1541269857.png",
+        "uid": "429496789293",
+        "updatedAt": "2026-07-27T18:07:33Z",
+        "fileIds": [
+          "1000067655",
+          "1000067653",
+          "1000067654"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-13T02:45:12Z",
@@ -186,6 +228,6 @@
         ]
       }
     ],
-    "totalCount": 9
+    "totalCount": 11
   }
 }

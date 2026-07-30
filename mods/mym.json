@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-26T12:02:02.547Z",
+  "checkedAt": "2026-07-30T20:55:13.891Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,8 +21,9 @@
         "summary": "This mod attempts to rebalance the magic system in Morrowind. This includes spell effects, stock spells, enchantments and potions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58560/58560-1775037720-1305163994.png",
         "uid": "429496788160",
-        "updatedAt": "2026-06-30T14:07:13Z",
+        "updatedAt": "2026-07-29T18:34:25Z",
         "fileIds": [
+          "1000067751",
           "1000066396",
           "1000064251",
           "1000063751",
@@ -41,13 +42,14 @@
           "name": "Gameplay"
         },
         "modId": 58254,
-        "name": "State-Based Magicka Regen (OpenMW)",
+        "name": "State-Based Magicka Regen (SBMR)",
         "status": "published",
         "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
         "uid": "429496787854",
-        "updatedAt": "2026-07-20T05:15:57Z",
+        "updatedAt": "2026-07-29T18:26:14Z",
         "fileIds": [
+          "1000067746",
           "1000067274",
           "1000062424",
           "1000062267",
@@ -71,8 +73,11 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-07-22T12:41:07Z",
+        "updatedAt": "2026-07-29T18:35:02Z",
         "fileIds": [
+          "1000067749",
+          "1000067735",
+          "1000067727",
           "1000067357",
           "1000067344",
           "1000067266",
@@ -154,8 +159,11 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-07-24T21:42:51Z",
+        "updatedAt": "2026-07-29T18:34:46Z",
         "fileIds": [
+          "1000067750",
+          "1000067729",
+          "1000067646",
           "1000067500",
           "1000067499",
           "1000067343",
@@ -203,10 +211,13 @@
         "name": "Fresh Loot (OpenMW)",
         "status": "published",
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1784550238-1449709001.jpg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1785225172-1276238880.png",
         "uid": "429496785605",
-        "updatedAt": "2026-07-23T07:30:32Z",
+        "updatedAt": "2026-07-29T18:35:38Z",
         "fileIds": [
+          "1000067689",
+          "1000067686",
+          "1000067685",
           "1000067389",
           "1000067363",
           "1000067290",
@@ -286,8 +297,10 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-07-22T12:04:12Z",
+        "updatedAt": "2026-07-29T18:35:19Z",
         "fileIds": [
+          "1000067747",
+          "1000067687",
           "1000067353",
           "1000067201",
           "1000067022",
@@ -361,8 +374,10 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-06-25T07:10:46Z",
+        "updatedAt": "2026-07-29T18:35:28Z",
         "fileIds": [
+          "1000067745",
+          "1000067691",
           "1000066158",
           "1000065849",
           "1000065579",
@@ -444,8 +459,9 @@
         "summary": "Actors with melee attacks will now try to hide themselves if their enemies attack them from a position they cannot reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54976/54976-1721043142-824690318.jpeg",
         "uid": "429496784576",
-        "updatedAt": "2026-06-10T12:02:29Z",
+        "updatedAt": "2026-07-29T18:35:11Z",
         "fileIds": [
+          "1000067748",
           "1000065538",
           "1000059934",
           "1000059769",
@@ -476,8 +492,9 @@
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-06-25T10:38:56Z",
+        "updatedAt": "2026-07-29T18:35:48Z",
         "fileIds": [
+          "1000067759",
           "1000066164",
           "1000066163",
           "1000063750",

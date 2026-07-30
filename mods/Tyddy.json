@@ -1,14 +1,39 @@
 {
-  "checkedAt": "2026-07-26T12:06:44.943Z",
+  "checkedAt": "2026-07-30T20:58:35.887Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 41,
+        "100": 42,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-30T14:38:11Z",
+        "fileSize": 350692,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59713,
+        "name": "Landscape - Aendemika of Vvardenfell - The Sacred Island",
+        "status": "published",
+        "summary": "The retexture of the Vvardenfell landscape. This mod covers only non-volcanic biomes. For Ashlands check \"Star Wound\", for Solstheim - \"Breath of All-Maker\".",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59713/59713-1785422013-915908554.png",
+        "uid": "429496789313",
+        "updatedAt": "2026-07-30T14:38:11Z",
+        "fileIds": [
+          "1000067802",
+          "1000067801",
+          "1000067799",
+          "1000067797",
+          "1000067796",
+          "1000067794",
+          "1000067800"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-31T18:32:48Z",
@@ -692,6 +717,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 41
+    "totalCount": 42
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-26T12:02:41.069Z",
+  "checkedAt": "2026-07-30T20:56:49.578Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -62,8 +62,9 @@
         "summary": "Bundle this with your mod. Does nothing on its own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59670/59670-1784857841-1077140270.png",
         "uid": "429496789270",
-        "updatedAt": "2026-07-26T02:24:52Z",
+        "updatedAt": "2026-07-27T02:36:00Z",
         "fileIds": [
+          "1000067610",
           "1000067560",
           "1000067448"
         ]
@@ -1233,11 +1234,12 @@
         "summary": "Take stuff without opening the container",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54950/54950-1720626222-2104346050.png",
         "uid": "429496784550",
-        "updatedAt": "2026-07-26T03:09:11Z",
+        "updatedAt": "2026-07-27T02:40:45Z",
         "fileIds": [
-          "1000067561",
+          "1000067613",
           "1000067378",
           "1000051340",
+          "1000067561",
           "1000067404",
           "1000067380",
           "1000061407",

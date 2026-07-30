@@ -1,35 +1,17 @@
 {
-  "checkedAt": "2026-07-26T12:06:06.906Z",
+  "checkedAt": "2026-07-30T20:58:03.309Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 31,
+        "100": 30,
         "101": 1,
         "736": 3,
         "1151": 1,
-        "1704": 1
+        "1704": 1,
+        "2295": 1
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2026-07-15T16:23:06Z",
-        "fileSize": 30482,
-        "modCategory": {
-          "categoryId": 15,
-          "name": "Utilities"
-        },
-        "modId": 59608,
-        "name": "PNG - DDS Texture Converter",
-        "status": "published",
-        "summary": "Two-way batch texture conversion — plus a full DirectXTex / NVIDIA Texture Tools toolkit",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59608/59608-1784132525-556642151.png",
-        "uid": "429496789208",
-        "updatedAt": "2026-07-15T16:23:06Z",
-        "fileIds": [
-          "1000067114"
-        ]
-      },
       {
         "adultContent": false,
         "createdAt": "2026-07-15T16:03:01Z",
@@ -39,14 +21,14 @@
           "name": "Utilities"
         },
         "modId": 59606,
-        "name": "MLOX Subset Sort",
+        "name": "Wraithguard Toolkit",
         "status": "published",
-        "summary": "Tool for Sorting and Creating a customizations.toml for use with MOMW Tools (OpenMW)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59606/59606-1784353545-1783230387.png",
+        "summary": "Tool for Sorting and Creating a customizations.toml for use with MOMW Tools (OpenMW), Data File Conflict Viewer, Mesh and Texture Viewer, Cell and Conflict Heat mapper, Landscape Viewer, MLOX Rule Maker, Pathgrid Viewer, Field Diff Viewer,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59606/59606-1785383974-2036058725.png",
         "uid": "429496789206",
-        "updatedAt": "2026-07-22T04:28:20Z",
+        "updatedAt": "2026-07-29T23:17:13Z",
         "fileIds": [
-          "1000067339",
+          "1000067776",
           "1000067204",
           "1000067171",
           "1000067141",
@@ -266,8 +248,10 @@
         "summary": "Armour set bonuses for Morrowind — wear matched sets for scaling, lore-themed effects. 130+ sets, Tamriel Rebuilt/OAAB/NOD/AATL support, no ESP. MWSE and OpenMW versions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52911/52911-1782808276-802178859.png",
         "uid": "429496782511",
-        "updatedAt": "2026-07-21T06:28:06Z",
+        "updatedAt": "2026-07-30T17:20:00Z",
         "fileIds": [
+          "1000067820",
+          "1000067818",
           "1000067302",
           "1000067301",
           "1000066940",
@@ -598,6 +582,6 @@
         "updatedAt": "2008-01-07T23:52:27Z"
       }
     ],
-    "totalCount": 31
+    "totalCount": 30
   }
 }

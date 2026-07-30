@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2026-07-26T11:58:28.632Z",
+  "checkedAt": "2026-07-30T20:51:46.914Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 100
+        "100": 102
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-28T10:14:54Z",
+        "fileSize": 1030,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59706,
+        "name": "Imperial Newtscale Cuirass Replacer",
+        "status": "published",
+        "summary": "Replaces forgotten by everyone Imperial Newtscale cuirass with HQ meshes, HQ textures (2048 px), adds female version. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59706/59706-1785233609-2127446765.png",
+        "uid": "429496789306",
+        "updatedAt": "2026-07-28T10:20:48Z",
+        "fileIds": [
+          "1000067693"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-26T14:06:32Z",
+        "fileSize": 22394,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59688,
+        "name": "Templar Armor Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces Templar Armor with new non-segmented version designed to work with Better Bodies or Robert Bodies. HQ textures (2048 px) and meshes. Female version is included. All you need is to copy conteining files to your Morrowind/Data Files",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59688/59688-1785074646-452905676.jpg",
+        "uid": "429496789288",
+        "updatedAt": "2026-07-26T20:17:04Z",
+        "fileIds": [
+          "1000067599"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-17T21:10:10Z",
@@ -1433,43 +1471,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55941/55941-1738983791-1892913787.jpeg",
         "uid": "429496785541",
         "updatedAt": "2025-02-08T03:06:18Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-04T00:43:50Z",
-        "fileSize": 151453,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 55921,
-        "name": "Articus Caverns 2K Retexture",
-        "status": "published",
-        "summary": "Retexture of caverns with HQ resoultion (2048). All textures are fully reworked and lore friendly.All you need is to place conteining files to your Morrowind/Data Files directory.Enjoy the game and don't forget to endorse! :)",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55921/55921-1738702107-2035573539.jpeg",
-        "uid": "429496785521",
-        "updatedAt": "2026-01-25T20:02:02Z",
-        "fileIds": [
-          "1000060247"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-03T12:20:11Z",
-        "fileSize": 64706,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 55917,
-        "name": "Articus Hlaalu 2K Retexture",
-        "status": "published",
-        "summary": "Replaces Hlaalu textures of buildings and furniture with HQ resolution (2048). All textures are fully reworked and lore friendly. All you need is to copy conteining files to your Morrowind/Data Files directory.Enjoy the game and don't",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55917/55917-1738584877-609813565.jpeg",
-        "uid": "429496785517",
-        "updatedAt": "2025-02-03T21:00:27Z"
       }
     ],
-    "totalCount": 100
+    "totalCount": 102
   }
 }

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-26T12:06:44.771Z",
+  "checkedAt": "2026-07-30T20:58:35.677Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 21
+        "100": 20
       }
     },
     "nodes": [
@@ -173,22 +173,6 @@
           "1000046421",
           "1000046420"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2024-06-08T07:30:19Z",
-        "fileSize": 14033,
-        "modCategory": {
-          "categoryId": 6,
-          "name": "Body, Face, and Hair"
-        },
-        "modId": 54811,
-        "name": "Body Options - Furry Edition with 1st Person View",
-        "status": "published",
-        "summary": "This mod adds in gear that overlays your characters skin giving your character a busty chest (naturally large) or a bimbo chest (implants). These skins are also viewable in first person view. Look down and see your chest!",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54811/54811-1717828355-1737639989.png",
-        "uid": "429496784411",
-        "updatedAt": "2024-06-08T07:30:19Z"
       },
       {
         "adultContent": false,
@@ -406,6 +390,6 @@
         "updatedAt": "2024-10-17T03:51:59Z"
       }
     ],
-    "totalCount": 21
+    "totalCount": 20
   }
 }

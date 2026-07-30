@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-07-26T12:01:46.507Z",
+  "checkedAt": "2026-07-30T20:54:19.537Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3,
+        "100": 4,
         "130": 1,
         "5609": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-28T22:16:25Z",
+        "fileSize": 9311,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 59710,
+        "name": "Morrowind Voice Generator RU",
+        "status": "published",
+        "summary": "Это адаптация поддержки русского текста для ИИ генератора голоса Morrowind Voice Generator.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59710/59710-1785275174-141032875.png",
+        "uid": "429496789310",
+        "updatedAt": "2026-07-28T22:16:25Z",
+        "fileIds": [
+          "1000067712"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-10T18:23:39Z",
@@ -68,6 +87,6 @@
         ]
       }
     ],
-    "totalCount": 3
+    "totalCount": 4
   }
 }
