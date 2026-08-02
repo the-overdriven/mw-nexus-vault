@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-30T20:53:33.507Z",
+  "checkedAt": "2026-08-02T20:51:38.437Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -198,8 +198,9 @@
         "summary": "Now you can tame beasts to serve you and pet them. They even level up along with you!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59054/59054-1779491224-1866703170.png",
         "uid": "429496788654",
-        "updatedAt": "2026-07-03T23:21:31Z",
+        "updatedAt": "2026-08-02T18:28:35Z",
         "fileIds": [
+          "1000067952",
           "1000066582",
           "1000066576",
           "1000066110",
@@ -358,11 +359,10 @@
         "summary": "Now you can knock out NPCs instead of killing them. And they can do the same to you. Oh, and NPCs drop their weapons when they're knocked out. They also loot you while you're out cold. Only work with melee weapons that deal no magical",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58576/58576-1775237031-1951919046.png",
         "uid": "429496788176",
-        "updatedAt": "2026-06-02T19:17:06Z",
+        "updatedAt": "2026-08-02T12:17:58Z",
         "fileIds": [
-          "1000065178",
-          "1000064735",
-          "1000064205"
+          "1000067932",
+          "1000065178"
         ]
       },
       {

@@ -1,14 +1,83 @@
 {
-  "checkedAt": "2026-07-30T20:58:35.887Z",
+  "checkedAt": "2026-08-02T20:53:25.670Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 42,
+        "100": 45,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-02T16:18:17Z",
+        "fileSize": 139310,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59755,
+        "name": "Landscape - Aendemika of Solstheim - The Breath of All-Maker",
+        "status": "published",
+        "summary": "The retexture of the Solstheim landscape. This mod covers the island's biomes and icy landscape. Additionally, it changes the textures of the tombs and barrows. For Vvardenfell check \"Sacred Island\", for Ashlands - \"Star-Wound\".",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59755/59755-1785672667-1416482347.png",
+        "uid": "429496789355",
+        "updatedAt": "2026-08-02T16:18:17Z",
+        "fileIds": [
+          "1000067942",
+          "1000067941",
+          "1000067947",
+          "1000067946",
+          "1000067945",
+          "1000067944",
+          "1000067943"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-02T09:42:36Z",
+        "fileSize": 3432,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59752,
+        "name": "G.A.S. - Green Azura Shrines - Aestetika of Vvardenfell",
+        "status": "published",
+        "summary": "Azura's shrines rebuilt in green marble. A Static Switching System module recolours her Daedric ruins only where you choose, leaving every other shrine in Morrowind untouched. Therefore, Azura's shrine finally matches the Cavern of the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59752/59752-1785663328-447533549.png",
+        "uid": "429496789352",
+        "updatedAt": "2026-08-02T09:42:36Z",
+        "fileIds": [
+          "1000067925"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-07-31T13:32:10Z",
+        "fileSize": 346868,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59730,
+        "name": "Landscape - Aendemika of Vvardenfell - The Star-Wound",
+        "status": "published",
+        "summary": "The retexture of the Ashlands landscape. This mod covers only ashen/volcanic biomes. For Vvardenfell check \"Sacred Island\", for Solstheim - \"Breath of All-Maker\".",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59730/59730-1785502326-27972061.png",
+        "uid": "429496789330",
+        "updatedAt": "2026-07-31T13:32:10Z",
+        "fileIds": [
+          "1000067862",
+          "1000067859",
+          "1000067863",
+          "1000067861",
+          "1000067860",
+          "1000067858",
+          "1000067864"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-30T14:38:11Z",
@@ -717,6 +786,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 42
+    "totalCount": 45
   }
 }

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-30T20:52:06.409Z",
+  "checkedAt": "2026-08-02T20:50:11.581Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24
+        "100": 25
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-02T14:02:27Z",
+        "fileSize": 1616,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59756,
+        "name": "Emissive Alcohol",
+        "status": "published",
+        "summary": "Makes alcohol more emissive.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59756/59756-1785679229-1617972976.png",
+        "uid": "429496789356",
+        "updatedAt": "2026-08-02T14:02:27Z",
+        "fileIds": [
+          "1000067935"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-29T21:32:34Z",
@@ -21,8 +40,9 @@
         "summary": "Improve FPS by reducing quality of distant objects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59714/59714-1785360609-858322752.png",
         "uid": "429496789314",
-        "updatedAt": "2026-07-29T21:32:34Z",
+        "updatedAt": "2026-07-31T03:00:27Z",
         "fileIds": [
+          "1000067838",
           "1000067734"
         ]
       },
@@ -575,6 +595,6 @@
         ]
       }
     ],
-    "totalCount": 24
+    "totalCount": 25
   }
 }

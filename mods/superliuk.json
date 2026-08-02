@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-07-30T20:58:23.424Z",
+  "checkedAt": "2026-08-02T20:52:56.880Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 57
+        "100": 58
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-02T06:23:36Z",
+        "fileSize": 101062,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 59750,
+        "name": "Superliuk's Various Patches",
+        "status": "published",
+        "summary": "Collection of patches that don't deserve their own page.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59750/59750-1785651337-1725142916.png",
+        "uid": "429496789350",
+        "updatedAt": "2026-08-02T06:23:36Z",
+        "fileIds": [
+          "1000067919"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-21T19:59:03Z",
@@ -19,7 +38,7 @@
         "name": "Superliuk's Small Mods and WIPs",
         "status": "published",
         "summary": "Collection of little mod or WIP that don't deserve their own page.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59637/59637-1784454857-1075889588.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59637/59637-1785651389-1927963609.jpg",
         "uid": "429496789237",
         "updatedAt": "2026-07-28T18:03:12Z",
         "fileIds": [
@@ -685,9 +704,10 @@
         "summary": "Add city of Windhelm and the surrounding area, including Dunmeth Pass",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53753/53753-1742218479-1274312610.jpeg",
         "uid": "429496783353",
-        "updatedAt": "2026-05-12T19:54:24Z",
+        "updatedAt": "2026-08-02T06:07:58Z",
         "fileIds": [
           "1000064019",
+          "1000067918",
           "1000061906",
           "1000061162",
           "1000051730",
@@ -1057,6 +1077,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 57
+    "totalCount": 58
   }
 }

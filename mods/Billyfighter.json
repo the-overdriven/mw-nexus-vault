@@ -1,13 +1,34 @@
 {
-  "checkedAt": "2026-07-30T20:52:06.193Z",
+  "checkedAt": "2026-08-02T20:50:00.338Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 27,
         "582": 2
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-02T10:08:16Z",
+        "fileSize": 74438,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 59754,
+        "name": "Lord of Rebirth",
+        "status": "published",
+        "summary": "Explore a realm in conflict between undead void pirates and a group of alchemists with members from all over Tamriel. Join one of them or find an alternate path to end the stalemate. Includes new weapons and items to earn as rewards.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59754/59754-1785665043-2136726413.png",
+        "uid": "429496789354",
+        "updatedAt": "2026-08-02T10:08:16Z",
+        "fileIds": [
+          "1000067926",
+          "1000067928",
+          "1000067927"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-05-01T15:19:58Z",
@@ -472,6 +493,6 @@
         "updatedAt": "2024-06-24T03:57:58Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

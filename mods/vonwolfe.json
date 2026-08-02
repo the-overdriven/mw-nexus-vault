@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-30T20:59:04.904Z",
+  "checkedAt": "2026-08-02T20:53:53.292Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,11 +18,12 @@
         "modId": 58107,
         "name": "Starwind - Galaxy Map",
         "status": "published",
-        "summary": "Starwind map replacer for stanistaw's 'Beautiful Paper Map' mod, using a modified version of S.Farnes's (Stoneward13) simplified Galactic map.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58107/58107-1775247174-994186613.jpg",
+        "summary": "Starwind map replacer in lua, using a modified version of S.Farnes's (Stoneward13) simplified Galactic map.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58107/58107-1785525358-1339729623.png",
         "uid": "429496787707",
-        "updatedAt": "2026-04-03T20:14:31Z",
+        "updatedAt": "2026-07-31T19:17:05Z",
         "fileIds": [
+          "1000067874",
           "1000062326",
           "1000060125"
         ]
@@ -133,14 +134,15 @@
         "summary": "New quests, NPCs, dialogue, bugfixes and assets to take Starwind to the next level.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
         "uid": "429496785568",
-        "updatedAt": "2026-07-24T16:01:03Z",
+        "updatedAt": "2026-07-31T10:38:32Z",
         "fileIds": [
-          "1000067482",
+          "1000067853",
           "1000060999",
           "1000059510",
           "1000059509",
           "1000058970",
           "1000058945",
+          "1000067482",
           "1000067105",
           "1000066729",
           "1000066165",

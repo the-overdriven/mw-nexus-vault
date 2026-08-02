@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-30T20:55:13.891Z",
+  "checkedAt": "2026-08-02T20:52:32.209Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -459,8 +459,9 @@
         "summary": "Actors with melee attacks will now try to hide themselves if their enemies attack them from a position they cannot reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54976/54976-1721043142-824690318.jpeg",
         "uid": "429496784576",
-        "updatedAt": "2026-07-29T18:35:11Z",
+        "updatedAt": "2026-07-31T18:02:09Z",
         "fileIds": [
+          "1000067873",
           "1000067748",
           "1000065538",
           "1000059934",

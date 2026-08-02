@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-30T20:58:35.273Z",
+  "checkedAt": "2026-08-02T20:53:16.003Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -16,7 +16,7 @@
           "name": "Gameplay"
         },
         "modId": 59344,
-        "name": "Hide in Darkness",
+        "name": "Hide in Darkness - Turn Lights Off (OpenMW)",
         "status": "published",
         "summary": "Turn light sources off and on. Sneaking away from light gives you chameleon effect.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59344/59344-1781457753-1723963581.jpg",
@@ -40,7 +40,21 @@
         "summary": "Clothes weigh less, artifacts nerfed, better resting magicka regen, better icons, potion replacer, cure animals, player homes",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1777206657-198564113.png",
         "uid": "429496787529",
-        "updatedAt": "2026-06-18T08:58:16Z"
+        "updatedAt": "2026-08-02T10:55:44Z",
+        "fileIds": [
+          "1000067929",
+          "1000067892",
+          "1000065874",
+          "1000063923",
+          "1000063070",
+          "1000062730",
+          "1000062726",
+          "1000062492",
+          "1000062247",
+          "1000061868",
+          "1000061169",
+          "1000065769"
+        ]
       },
       {
         "adultContent": false,
@@ -77,7 +91,7 @@
           "name": "User Interface"
         },
         "modId": 57782,
-        "name": "Of Bead and Feather - Custom Potion Sorter",
+        "name": "Of Bead and Feather - Custom Potion Sorter (OpenMW)",
         "status": "published",
         "summary": "Organizes custom potions with descriptive icons and names based on the strongest effects. Quality based potion weight. Any language",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57782/57782-1763315717-564798601.png",
@@ -93,7 +107,7 @@
           "name": "Gameplay"
         },
         "modId": 57757,
-        "name": "Dubious Concoctions",
+        "name": "Dubious Concoctions - Economy Fix (OpenMW)",
         "status": "published",
         "summary": "Merchants will only purchase home-brews from a skilled, reputable alchemist. And only certain factions will buy your poisons. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57757/57757-1762841594-1966040782.jpg",
@@ -109,7 +123,7 @@
           "name": "Immersion"
         },
         "modId": 57583,
-        "name": "Scribo - Write on Paper",
+        "name": "Scribo - Write on Paper (OpenMW)",
         "status": "published",
         "summary": "Write on different paper and in a blank book. Use colored inks. Copy books, magic scrolls, regular scrolls and notes. +Read Book Indicator. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57583/57583-1761796003-884952759.png",
@@ -125,7 +139,7 @@
           "name": "Gameplay"
         },
         "modId": 57543,
-        "name": "Controlled Jumps",
+        "name": "Controlled Jumps (OpenMW)",
         "status": "published",
         "summary": "For high Acrobatics: short hops to avoid ceiling collision indoors, charged jumps for controlled height/distance, and for immersive acrobatics bonus. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57543/57543-1759482607-1812402822.jpg",
@@ -157,7 +171,7 @@
           "name": "Gameplay"
         },
         "modId": 57411,
-        "name": "Trained Lungs - Hold Your Breath Underwater",
+        "name": "Trained Lungs - Hold Your Breath (OpenMW)",
         "status": "published",
         "summary": "Hold your breath underwater for longer, depending on Endurance, Athletics, and Fatigue. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57411/57411-1757176363-470591675.png",
