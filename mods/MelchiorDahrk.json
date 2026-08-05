@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-02T20:52:12.814Z",
+  "checkedAt": "2026-08-05T23:24:51.750Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 104
+        "100": 96
       }
     },
     "nodes": [
@@ -612,26 +612,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2021-04-30T23:31:44Z",
-        "fileSize": 665,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 49605,
-        "name": "I Lava Good Mesh Replacer",
-        "status": "published",
-        "summary": "This mod replaces all the lava meshes in the vanilla game. Removes alpha blending from lava meshes to eliminate flickering with effects like steam. Synchronizes tiled lava effects to reduce the occurrence of seams found in large lava pools.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49605/49605-1619824390-2077467876.gif",
-        "uid": "429496779205",
-        "updatedAt": "2025-01-31T21:33:20Z",
-        "fileIds": [
-          "1000049974",
-          "1000045547"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2021-04-01T11:01:56Z",
         "fileSize": 27,
         "modCategory": {
@@ -1163,22 +1143,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2018-05-04T15:13:09Z",
-        "fileSize": 887,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45626,
-        "name": "Melchior's Magnificent Manuscripts",
-        "status": "published",
-        "summary": "Model replacer for all of the vanilla books.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45626/45626-1525446219-1291848328.png",
-        "uid": "429496775226",
-        "updatedAt": "2021-12-18T14:53:58Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2018-05-02T01:45:24Z",
         "fileSize": 752,
         "modCategory": {
@@ -1192,22 +1156,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45617/45617-1525223662-2142515270.jpeg",
         "uid": "429496775217",
         "updatedAt": "2022-02-10T16:55:42Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2018-01-15T16:43:41Z",
-        "fileSize": 1003,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 45424,
-        "name": "Better Waterfalls",
-        "status": "published",
-        "summary": "New effects and textures for TES3 Morrowind waterfalls.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45424/45424-1615394449-456943373.gif",
-        "uid": "429496775024",
-        "updatedAt": "2021-03-12T18:11:50Z"
       },
       {
         "adultContent": false,
@@ -1287,9 +1235,9 @@
         "summary": "His methods are atypical, but an Argonian in the Sixth House base of Bensamsi has discovered a way to create soul gems from ash salts. Talk to Heem-La in the Ald-ruhn Guild of Mages about research opportunities if you would like to learn",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45126-5-1502906181.jpg",
         "uid": "429496774726",
-        "updatedAt": "2026-08-02T00:38:13Z",
+        "updatedAt": "2026-08-03T00:43:22Z",
         "fileIds": [
-          "1000067911",
+          "1000067965",
           "1000048523",
           "1000048517",
           "1000016691",
@@ -1338,27 +1286,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44680-2-1483247411.jpg",
         "uid": "429496774280",
         "updatedAt": "2017-01-02T04:25:23Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2016-03-14T23:23:14Z",
-        "fileSize": 5476,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 44173,
-        "name": "Vanilla-friendly West Gash Tree Replacer",
-        "status": "published",
-        "summary": "A West Gash tree replacer for players who desire a look closer to the vanilla game for the region.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44173-2-1457997277.jpg",
-        "uid": "429496773773",
-        "updatedAt": "2025-04-18T00:42:07Z",
-        "fileIds": [
-          "1000051988",
-          "1000039701",
-          "1000031918"
-        ]
       },
       {
         "adultContent": false,
@@ -1543,8 +1470,72 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43528/43528-1555984561-373058432.png",
         "uid": "429496773128",
         "updatedAt": "2022-08-24T15:10:52Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2015-03-15T04:05:21Z",
+        "fileSize": 36,
+        "modCategory": {
+          "categoryId": 2,
+          "name": "Buildings"
+        },
+        "modId": 43527,
+        "name": "Tower of Vos",
+        "status": "published",
+        "summary": "This mod makes the Tower of Vos (Tel Vos) much, much taller than before. Now it dominates the Grazelands, overlooking the region.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43527-1-1426390934.png",
+        "uid": "429496773127",
+        "updatedAt": "2019-01-16T03:11:05Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-09-14T06:07:48Z",
+        "fileSize": 1365,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 43275,
+        "name": "Umbra- Blademaster",
+        "status": "published",
+        "summary": "Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43275-1-1410674259.png",
+        "uid": "429496772875",
+        "updatedAt": "2022-09-10T01:54:37Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-09-09T00:14:52Z",
+        "fileSize": 2078,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 43269,
+        "name": "Quorn Resource Integration",
+        "status": "published",
+        "summary": "This mod seamlessly integrates quorn's lore-friendly armor and creature resources into the game for all players to experience.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43269-1-1410220499.jpg",
+        "uid": "429496772869",
+        "updatedAt": "2018-05-10T01:36:19Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2014-08-22T17:30:26Z",
+        "fileSize": 10876,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 43249,
+        "name": "Antares' Creatures Integration",
+        "status": "published",
+        "summary": "This is a WIP mod which intends to incorporate Anteres' awesome creature mods into the game in a different manner than Anteres himself originally did. He set his creature mods up more as showcases or boss fights whereas this mod aims to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43249-1-1408727573.jpg",
+        "uid": "429496772849",
+        "updatedAt": "2025-02-28T18:38:35Z"
       }
     ],
-    "totalCount": 104
+    "totalCount": 96
   }
 }

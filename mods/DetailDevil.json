@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-02T20:51:00.500Z",
+  "checkedAt": "2026-08-05T23:23:50.041Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -369,11 +369,12 @@
         "modId": 55516,
         "name": "Devilish Guar Riding (OpenMW)",
         "status": "published",
-        "summary": "Travel through Vvardenfell on a guar. You can now buy a guar for your travels from a guar merchant in Ald'Ruhn.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55516/55516-1733075385-1420845825.png",
+        "summary": "Travel through Vvardenfell on a guar. You can now buy a guar for your travels from a guar merchant in Balmora.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55516/55516-1785871035-385822730.png",
         "uid": "429496785116",
-        "updatedAt": "2025-12-27T14:15:14Z",
+        "updatedAt": "2026-08-05T16:13:13Z",
         "fileIds": [
+          "1000068084",
           "1000059538",
           "1000048579"
         ]
@@ -389,11 +390,12 @@
         "modId": 55479,
         "name": "Devilish Horse Riding (OpenMW)",
         "status": "published",
-        "summary": "Travel through Skyrim on a horse. You can now buy a horse for your travels from a horse merchant in Karthwasten.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55479/55479-1732400071-918148949.png",
+        "summary": "Travel through Skyrim and Cyrodiil on a horse. You can now buy a horse for your travels from a horse merchant in Karthwasten or Anvil.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55479/55479-1785962094-1327893153.png",
         "uid": "429496785079",
-        "updatedAt": "2025-05-10T22:10:03Z",
+        "updatedAt": "2026-08-05T20:26:46Z",
         "fileIds": [
+          "1000068088",
           "1000052750",
           "1000048603"
         ]

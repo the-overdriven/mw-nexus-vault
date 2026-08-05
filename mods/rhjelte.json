@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-08-02T20:52:45.188Z",
+  "checkedAt": "2026-08-05T23:25:15.590Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 8
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-05T22:18:35Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59790,
+        "name": "Shivers (Ashfall camera motion feedback)",
+        "status": "published",
+        "summary": "An add-on for Modernized 1st Person Experience that adds a camera motion to being cold (shivers) or hot (head sway) in Ashfall.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59790/59790-1785968245-275549303.png",
+        "uid": "429496789390",
+        "updatedAt": "2026-08-05T22:18:35Z",
+        "fileIds": [
+          "1000068089"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-23T20:21:09Z",
@@ -97,11 +116,12 @@
         "modId": 57178,
         "name": "Modernized 1st Person Experience (MWSE) - Head bobbing and camera animations etc",
         "status": "published",
-        "summary": "(1.7.1) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
+        "summary": "(1.8) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57178/57178-1754004564-620699054.jpg",
         "uid": "429496786778",
-        "updatedAt": "2026-02-24T19:25:24Z",
+        "updatedAt": "2026-08-03T21:29:47Z",
         "fileIds": [
+          "1000068009",
           "1000061040"
         ]
       },
@@ -134,19 +154,20 @@
           "name": "Immersion"
         },
         "modId": 56832,
-        "name": "Talking Matters Remastered (Speechcraft Overhaul)",
+        "name": "Talking Matters Remastered (Speechcraft Overhaul - OpenMW and MWSE)",
         "status": "published",
-        "summary": "(1.1.1) A complete overhaul of Speechcraft for a more immersive, system driven, and roleplay friendly experience when talking to NPCs. Your speechcraft now dictates how much people want to talk with you, you train speechcraft by talking,",
+        "summary": "(1.2) OpenMW and MWSE compatible - A complete overhaul of Speechcraft for a more immersive, system driven, and roleplay friendly experience when talking to NPCs. Your speechcraft now dictates how much people want to talk with you, you train",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56832/56832-1748812689-1195837440.jpeg",
         "uid": "429496786432",
-        "updatedAt": "2025-12-07T12:08:11Z",
+        "updatedAt": "2026-08-03T19:58:03Z",
         "fileIds": [
+          "1000068008",
           "1000059015",
           "1000058910",
           "1000053980"
         ]
       }
     ],
-    "totalCount": 7
+    "totalCount": 8
   }
 }

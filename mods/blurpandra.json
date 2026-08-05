@@ -1,31 +1,12 @@
 {
-  "checkedAt": "2026-08-02T20:50:11.581Z",
+  "checkedAt": "2026-08-05T23:23:01.134Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 25
+        "100": 24
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2026-08-02T14:02:27Z",
-        "fileSize": 1616,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 59756,
-        "name": "Emissive Alcohol",
-        "status": "published",
-        "summary": "Makes alcohol more emissive.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59756/59756-1785679229-1617972976.png",
-        "uid": "429496789356",
-        "updatedAt": "2026-08-02T14:02:27Z",
-        "fileIds": [
-          "1000067935"
-        ]
-      },
       {
         "adultContent": false,
         "createdAt": "2026-07-29T21:32:34Z",
@@ -406,10 +387,11 @@
         "summary": "OpenMW mod that adds a perk framework.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57615/57615-1760306040-1876127394.png",
         "uid": "429496787215",
-        "updatedAt": "2026-07-29T15:12:00Z",
+        "updatedAt": "2026-08-03T17:07:19Z",
         "fileIds": [
           "1000064370",
           "1000062781",
+          "1000067998",
           "1000067738",
           "1000067679",
           "1000067579",
@@ -595,6 +577,6 @@
         ]
       }
     ],
-    "totalCount": 25
+    "totalCount": 24
   }
 }

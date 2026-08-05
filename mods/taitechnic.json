@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-02T20:53:15.297Z",
+  "checkedAt": "2026-08-05T23:26:59.430Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,13 +21,11 @@
         "summary": "Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations. Also provides a few improvements to player movement animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57633/57633-1760646399-2125603799.png",
         "uid": "429496787233",
-        "updatedAt": "2026-07-11T22:10:36Z",
+        "updatedAt": "2026-08-05T22:29:41Z",
         "fileIds": [
+          "1000068090",
           "1000066972",
-          "1000066916",
-          "1000065954",
-          "1000065637",
-          "1000064683"
+          "1000065637"
         ]
       },
       {
@@ -150,14 +148,12 @@
         "summary": "Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC's. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54782/54782-1717364168-367310833.png",
         "uid": "429496784382",
-        "updatedAt": "2026-07-21T20:13:33Z",
+        "updatedAt": "2026-08-05T22:46:23Z",
         "fileIds": [
-          "1000066528",
+          "1000068091",
           "1000054388",
-          "1000067326",
-          "1000066312",
-          "1000065638",
-          "1000065365"
+          "1000068092",
+          "1000066528"
         ]
       },
       {

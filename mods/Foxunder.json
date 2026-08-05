@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-02T20:51:38.437Z",
+  "checkedAt": "2026-08-05T23:24:28.396Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -42,8 +42,9 @@
         "summary": "Now NPCs can unlock locked doors to fight you even if they don't have keys.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59652/59652-1784667513-543879199.png",
         "uid": "429496789252",
-        "updatedAt": "2026-07-22T14:36:21Z",
+        "updatedAt": "2026-08-04T17:13:00Z",
         "fileIds": [
+          "1000068045",
           "1000067361",
           "1000067329"
         ]
@@ -125,8 +126,9 @@
         "summary": "Plays the praying animation during your pilgrimages or prayers to altars and shrines.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59182/59182-1780249463-1505929427.png",
         "uid": "429496788782",
-        "updatedAt": "2026-07-17T21:07:36Z",
+        "updatedAt": "2026-08-04T22:29:22Z",
         "fileIds": [
+          "1000068062",
           "1000067197",
           "1000067070",
           "1000066731",

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-08-02T20:52:47.156Z",
+  "checkedAt": "2026-08-05T23:26:02.910Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 39
+        "100": 40
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-04T08:42:29Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59773,
+        "name": "modthatclosesthegamewhenitopens",
+        "status": "published",
+        "summary": "OpenMW only.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59773/59773-1785832880-1007775372.png",
+        "uid": "429496789373",
+        "updatedAt": "2026-08-04T08:42:29Z",
+        "fileIds": [
+          "1000068023"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-27T14:52:24Z",
@@ -172,9 +191,9 @@
         "summary": "Expansion pack for Character Traits Framework with many new scripted backgrounds.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59130/59130-1780080989-41928011.png",
         "uid": "429496788730",
-        "updatedAt": "2026-06-17T19:32:16Z",
+        "updatedAt": "2026-08-03T13:36:36Z",
         "fileIds": [
-          "1000065858"
+          "1000067990"
         ]
       },
       {
@@ -787,6 +806,6 @@
         ]
       }
     ],
-    "totalCount": 39
+    "totalCount": 40
   }
 }
