@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-05T23:23:50.041Z",
+  "checkedAt": "2026-08-10T22:16:58.224Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -194,8 +194,9 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-07-31T14:18:36Z",
+        "updatedAt": "2026-08-08T06:52:42Z",
         "fileIds": [
+          "1000068189",
           "1000067867",
           "1000063549",
           "1000062914",
@@ -393,9 +394,9 @@
         "summary": "Travel through Skyrim and Cyrodiil on a horse. You can now buy a horse for your travels from a horse merchant in Karthwasten or Anvil.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55479/55479-1785962094-1327893153.png",
         "uid": "429496785079",
-        "updatedAt": "2026-08-05T20:26:46Z",
+        "updatedAt": "2026-08-06T16:00:45Z",
         "fileIds": [
-          "1000068088",
+          "1000068130",
           "1000052750",
           "1000048603"
         ]

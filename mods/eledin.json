@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-05T23:24:27.850Z",
+  "checkedAt": "2026-08-10T22:17:27.100Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 27,
         "181": 1,
         "430": 1,
         "437": 1,
@@ -14,6 +14,27 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-06T20:55:26Z",
+        "fileSize": 48427,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59800,
+        "name": "Daedric Ruins Reimagined",
+        "status": "published",
+        "summary": "My spin on the Daedric Ruins. A 2k pbr retexture.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59800/59800-1786048303-834369082.png",
+        "uid": "429496789400",
+        "updatedAt": "2026-08-07T16:37:14Z",
+        "fileIds": [
+          "1000068141",
+          "1000068165",
+          "1000068163"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-19T10:58:26Z",
@@ -249,8 +270,9 @@
         "summary": "An hd retexture of all of the saint and good daedra shrines",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56400/56400-1745439702-387227896.png",
         "uid": "429496786000",
-        "updatedAt": "2025-06-28T13:57:14Z",
+        "updatedAt": "2026-08-06T16:28:31Z",
         "fileIds": [
+          "1000068131",
           "1000054778",
           "1000052077"
         ]
@@ -593,6 +615,6 @@
         ]
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

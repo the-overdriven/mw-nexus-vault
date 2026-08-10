@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-05T23:25:42.691Z",
+  "checkedAt": "2026-08-10T22:19:56.274Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -566,7 +566,11 @@
         "summary": "adds complete set of Dukes guard armor to the game with new and improved models.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50481/50481-1638070806-837210979.png",
         "uid": "429496780081",
-        "updatedAt": "2021-11-28T08:36:20Z"
+        "updatedAt": "2026-08-08T07:42:23Z",
+        "fileIds": [
+          "1000068191",
+          "1000068190"
+        ]
       },
       {
         "adultContent": false,

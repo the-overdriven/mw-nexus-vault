@@ -1,14 +1,71 @@
 {
-  "checkedAt": "2026-08-05T23:27:18.921Z",
+  "checkedAt": "2026-08-10T22:20:28.680Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 45,
+        "100": 48,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-10T15:14:42Z",
+        "fileSize": 5009,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59810,
+        "name": "Pherim's Fire Fern Variations (Variation Framework Mod)",
+        "status": "published",
+        "summary": "Four regional forms of Pherim's fire fern, chosen per plant from real landscape data — lava, ash seeps, sulphur crust and cracked ground — not from a region name. Pluginless, with optional matching ingredients. Not one fire fern everywhere.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59810/59810-1786165074-1662336300.png",
+        "uid": "429496789410",
+        "updatedAt": "2026-08-10T15:14:42Z",
+        "fileIds": [
+          "1000068185"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-06T15:40:10Z",
+        "fileSize": 1962,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59797,
+        "name": "Pherim's Comberry Variations (Variation Framework Mod)",
+        "status": "published",
+        "summary": "Comberries change with the climate. Three phenotypes follow a north–south cline and shift with the coast, chosen per bush rather than per cell, so a plantation grows more than one at once.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59797/59797-1786030599-1050701149.png",
+        "uid": "429496789397",
+        "updatedAt": "2026-08-08T04:50:22Z",
+        "fileIds": [
+          "1000068184"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-06T15:38:42Z",
+        "fileSize": 31,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 59795,
+        "name": "Variation Framework",
+        "status": "published",
+        "summary": "Per-instance mesh variation, driven by YAML. Pluginless — no ESP, no load order, no patches. Give a mesh a set of alternatives and a rule for where they appear, and every object using that mesh picks its own. Two bushes, two crates, or two",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59795/59795-1786028681-1868922997.png",
+        "uid": "429496789395",
+        "updatedAt": "2026-08-08T04:37:11Z",
+        "fileIds": [
+          "1000068183"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-02T16:18:17Z",
@@ -786,6 +843,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 45
+    "totalCount": 48
   }
 }

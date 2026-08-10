@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-05T23:26:31.148Z",
+  "checkedAt": "2026-08-10T22:20:17.827Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 18
+        "100": 19
       }
     },
     "nodes": [
@@ -48,6 +48,22 @@
           "1000063984",
           "1000063329"
         ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-04-11T11:29:47Z",
+        "fileSize": 48,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 58633,
+        "name": "VAIN - Vastly Augmented Intelligence for NPCs in Combat",
+        "status": "published",
+        "summary": "Morrowind's combat AI is 22 years old. Enemies sprint at you until they die or panic. Summoners keep casting bound greaves on themselves. Archers close into melee the moment they feel threatened. High intelligence magic users loop the same",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58633/58633-1775906214-686651082.png",
+        "uid": "429496788233",
+        "updatedAt": "2026-04-11T15:14:21Z"
       },
       {
         "adultContent": false,
@@ -397,6 +413,6 @@
         ]
       }
     ],
-    "totalCount": 18
+    "totalCount": 19
   }
 }

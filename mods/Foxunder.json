@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-05T23:24:28.396Z",
+  "checkedAt": "2026-08-10T22:17:46.490Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -264,8 +264,9 @@
         "summary": "Now you can send criminals to prison instead of killing them. Requires Gothic Style Knockout 2.2+.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58850/58850-1777733345-1361313305.png",
         "uid": "429496788450",
-        "updatedAt": "2026-07-13T00:46:30Z",
+        "updatedAt": "2026-08-08T18:26:05Z",
         "fileIds": [
+          "1000068205",
           "1000067024",
           "1000063650"
         ]
@@ -361,8 +362,10 @@
         "summary": "Now you can knock out NPCs instead of killing them. And they can do the same to you. Oh, and NPCs drop their weapons when they're knocked out. They also loot you while you're out cold. Only work with melee weapons that deal no magical",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58576/58576-1775237031-1951919046.png",
         "uid": "429496788176",
-        "updatedAt": "2026-08-02T12:17:58Z",
+        "updatedAt": "2026-08-08T03:03:49Z",
         "fileIds": [
+          "1000068178",
+          "1000068102",
           "1000067932",
           "1000065178"
         ]
@@ -381,10 +384,12 @@
         "summary": "Guards tolerate night loitering no more. You will be escorted to the nearest inn or tavern if a guard finds you suspicious (low disposition or you don't carry a light source in your hand).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58553/58553-1774974245-1585727584.png",
         "uid": "429496788153",
-        "updatedAt": "2026-06-20T14:08:31Z",
+        "updatedAt": "2026-08-09T18:44:25Z",
         "fileIds": [
-          "1000065974",
+          "1000068235",
           "1000062561",
+          "1000068098",
+          "1000065974",
           "1000064591"
         ]
       },
@@ -402,8 +407,9 @@
         "summary": "Now pacifists can bribe thugs to stop or avoid combats. Also, surrender to guards mid-battle, but sheathe your weapon first.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58525/58525-1774690106-615390987.png",
         "uid": "429496788125",
-        "updatedAt": "2026-07-04T15:02:00Z",
+        "updatedAt": "2026-08-08T18:54:09Z",
         "fileIds": [
+          "1000068208",
           "1000066612",
           "1000063638"
         ]
@@ -422,8 +428,9 @@
         "summary": "Just a simple HUD without extra information. It's pretty, though.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58505/58505-1774546533-958874957.png",
         "uid": "429496788105",
-        "updatedAt": "2026-06-17T11:00:25Z",
+        "updatedAt": "2026-08-08T03:11:49Z",
         "fileIds": [
+          "1000068179",
           "1000065846",
           "1000064565"
         ]
@@ -552,8 +559,9 @@
         "summary": "Guards in Morrowind's vaults finally mean business. Trespass without the rank, and you'll have seconds to run before they attack you.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58405/58405-1773135011-606723750.png",
         "uid": "429496788005",
-        "updatedAt": "2026-07-26T15:36:03Z",
+        "updatedAt": "2026-08-09T19:50:14Z",
         "fileIds": [
+          "1000068237",
           "1000067592",
           "1000064892"
         ]
@@ -610,8 +618,9 @@
         "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff by drawing your blade, and they might attack you or apologise and return it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58362/58362-1772800912-318348143.png",
         "uid": "429496787962",
-        "updatedAt": "2026-05-04T11:24:24Z",
+        "updatedAt": "2026-08-09T13:29:22Z",
         "fileIds": [
+          "1000068226",
           "1000063587",
           "1000063240"
         ]
@@ -691,8 +700,9 @@
         "summary": "Casting Necromancy spells is now illegal. Applies to the player.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58335/58335-1772557589-1206961088.png",
         "uid": "429496787935",
-        "updatedAt": "2026-05-12T09:39:27Z",
+        "updatedAt": "2026-08-09T17:55:30Z",
         "fileIds": [
+          "1000068232",
           "1000063985",
           "1000062557",
           "1000062030"
@@ -731,8 +741,9 @@
         "summary": "It's a collection of various bugfixes and small mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58227/58227-1771107954-1705217364.png",
         "uid": "429496787827",
-        "updatedAt": "2026-07-15T12:01:33Z",
+        "updatedAt": "2026-08-10T14:04:20Z",
         "fileIds": [
+          "1000068254",
           "1000067096",
           "1000066572",
           "1000065732",
@@ -766,11 +777,10 @@
         "summary": "An omwaddon that prevents sitting Animated Morrowind NPCs from floating or clipping through tables and chairs in BCOM cities. It also fixes the positioning of some incorrectly placed NPCs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58206/58206-1770805320-1005714672.png",
         "uid": "429496787806",
-        "updatedAt": "2026-05-03T09:45:18Z",
+        "updatedAt": "2026-08-08T10:13:57Z",
         "fileIds": [
-          "1000063476",
-          "1000060940",
-          "1000060662"
+          "1000068196",
+          "1000063476"
         ]
       }
     ],
