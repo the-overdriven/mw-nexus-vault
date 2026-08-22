@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-10T22:15:27.062Z",
+  "checkedAt": "2026-08-22T17:19:27.976Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -1094,8 +1094,9 @@
         "summary": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49848/49848-1621855473-1234667770.jpeg",
         "uid": "429496779448",
-        "updatedAt": "2026-08-04T17:53:01Z",
+        "updatedAt": "2026-08-20T19:39:15Z",
         "fileIds": [
+          "1000068669",
           "1000068047",
           "1000067095",
           "1000065441",
@@ -1176,30 +1177,31 @@
         "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and Daedric text translated from enchanted scrolls. You can now read",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48930/48930-1602494758-1296927970.jpeg",
         "uid": "429496778530",
-        "updatedAt": "2025-12-07T10:35:08Z",
+        "updatedAt": "2026-08-20T16:57:53Z",
         "fileIds": [
+          "1000068658",
           "1000059010",
-          "1000021284",
-          "1000021332",
-          "1000021360",
-          "1000046103",
           "1000058931",
           "1000057239",
-          "1000049325",
           "1000050097",
+          "1000049325",
+          "1000046103",
           "1000044514",
-          "1000021462",
-          "1000021515",
-          "1000022729",
-          "1000026955",
-          "1000027920",
-          "1000028247",
-          "1000028320",
-          "1000028622",
-          "1000028698",
-          "1000028738",
+          "1000039064",
           "1000033909",
-          "1000039064"
+          "1000028738",
+          "1000028698",
+          "1000028622",
+          "1000028320",
+          "1000028247",
+          "1000027920",
+          "1000026955",
+          "1000022729",
+          "1000021515",
+          "1000021462",
+          "1000021360",
+          "1000021332",
+          "1000021284"
         ]
       },
       {

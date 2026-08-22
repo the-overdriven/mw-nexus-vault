@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-08-10T22:19:56.274Z",
+  "checkedAt": "2026-08-22T17:26:26.951Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 44,
+        "100": 45,
         "110": 1,
         "2736": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-13T11:44:16Z",
+        "fileSize": 7291,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 59843,
+        "name": "The Hex Weaver",
+        "status": "published",
+        "summary": "Search for a magic tower in the West Gash to the north of Caldera and meet with a strange lady who lives there.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59843/59843-1786615948-127107011.png",
+        "uid": "429496789443",
+        "updatedAt": "2026-08-13T11:44:16Z",
+        "fileIds": [
+          "1000068346"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-31T21:33:12Z",
@@ -807,6 +826,6 @@
         "updatedAt": "2021-09-26T00:45:01Z"
       }
     ],
-    "totalCount": 44
+    "totalCount": 45
   }
 }

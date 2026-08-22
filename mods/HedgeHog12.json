@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-10T22:19:19.723Z",
+  "checkedAt": "2026-08-22T17:24:27.961Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -181,10 +181,11 @@
         "summary": "Small patch for NPC and Player.This patch is reduces the size for BoundBoxes of all NPC.+ male.+ female.+ beast races+ optional tweak for animation+ background for player into menu modeNow they are haven't get the jamming in narrow places.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44523-3-1472970498.jpg",
         "uid": "429496774123",
-        "updatedAt": "2022-11-07T01:03:00Z",
+        "updatedAt": "2026-08-15T14:35:42Z",
         "fileIds": [
           "1000022012",
           "1000033579",
+          "1000068431",
           "1000008890",
           "1000009250",
           "1000008027",

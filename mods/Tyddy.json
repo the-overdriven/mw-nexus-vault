@@ -1,14 +1,54 @@
 {
-  "checkedAt": "2026-08-10T22:20:28.680Z",
+  "checkedAt": "2026-08-22T17:28:57.452Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48,
+        "100": 50,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-20T16:48:50Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59912,
+        "name": "Arukinn's Banners Signs and Signposts - Variation Framework Submod",
+        "status": "published",
+        "summary": "A lightweight, ESP-less Variation Framework adapter for Arukinn’s Better Banners, Signs and Signposts. Preserves every destination-specific sign using deterministic record routing. Requires the original mod for its assets, Variation",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59912/59912-1787243078-1326189290.png",
+        "uid": "429496789512",
+        "updatedAt": "2026-08-22T16:30:19Z",
+        "fileIds": [
+          "1000068768",
+          "1000068655",
+          "1000068654"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-12T04:28:54Z",
+        "fileSize": 5766,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59839,
+        "name": "The Kelp - Vurt's and Vanilla Variations (Variation Framework Mod)",
+        "status": "published",
+        "summary": "VF - The Kelp brings region-dependent variety to Morrowind’s underwater flora with new kelp models, including Southern Kelps based on the work of renowned modder Vurt. An optional plugin makes kelp harvestable, adding four alchemical",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59839/59839-1786508250-172647479.png",
+        "uid": "429496789439",
+        "updatedAt": "2026-08-12T04:28:54Z",
+        "fileIds": [
+          "1000068305"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-10T15:14:42Z",
@@ -56,14 +96,14 @@
           "name": "Modders Resources and Tutorials"
         },
         "modId": 59795,
-        "name": "Variation Framework",
+        "name": "Variation Framework - OpenMW",
         "status": "published",
         "summary": "Per-instance mesh variation, driven by YAML. Pluginless — no ESP, no load order, no patches. Give a mesh a set of alternatives and a rule for where they appear, and every object using that mesh picks its own. Two bushes, two crates, or two",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59795/59795-1786028681-1868922997.png",
         "uid": "429496789395",
-        "updatedAt": "2026-08-08T04:37:11Z",
+        "updatedAt": "2026-08-22T16:10:43Z",
         "fileIds": [
-          "1000068183"
+          "1000068766"
         ]
       },
       {
@@ -843,6 +883,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 48
+    "totalCount": 50
   }
 }

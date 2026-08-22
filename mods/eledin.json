@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-10T22:17:27.100Z",
+  "checkedAt": "2026-08-22T17:22:00.744Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 27,
+        "100": 28,
         "181": 1,
         "430": 1,
         "437": 1,
@@ -14,6 +14,27 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-13T19:28:06Z",
+        "fileSize": 53158,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59857,
+        "name": "Dunmer Strongholds Reimagined",
+        "status": "published",
+        "summary": "A reinterpretation of Dunmer Strongholds. 2K PBR retexture.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59857/59857-1786644198-916584125.png",
+        "uid": "429496789457",
+        "updatedAt": "2026-08-14T18:40:13Z",
+        "fileIds": [
+          "1000068406",
+          "1000068385",
+          "1000068368"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-06T20:55:26Z",
@@ -615,6 +636,6 @@
         ]
       }
     ],
-    "totalCount": 27
+    "totalCount": 28
   }
 }

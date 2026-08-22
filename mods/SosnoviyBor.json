@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2026-08-10T22:20:07.874Z",
+  "checkedAt": "2026-08-22T17:27:14.762Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 40
+        "100": 42
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-19T09:57:59Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59902,
+        "name": "Configurable Gold Weight (OpenMW)",
+        "status": "published",
+        "summary": "To buy a whole Empire now, you'll need to be able to carry at least one city on your shoulders.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59902/59902-1787133403-752925413.jpg",
+        "uid": "429496789502",
+        "updatedAt": "2026-08-19T12:22:40Z",
+        "fileIds": [
+          "1000068615"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-14T11:21:29Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59863,
+        "name": "Better Armor Training (OpenMW)",
+        "status": "published",
+        "summary": "Get accustomed to armor by moving around in it. It's heavy, after all.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59863/59863-1786705194-1930375803.png",
+        "uid": "429496789463",
+        "updatedAt": "2026-08-16T09:18:20Z",
+        "fileIds": [
+          "1000068456"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-04T08:42:29Z",
@@ -40,9 +78,9 @@
         "summary": "Slight improvements to your lights - disabled pulse and flicker, modifiers for duration and weight and more. Compatible with any mods without any patching.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59697/59697-1785162886-1436977472.png",
         "uid": "429496789297",
-        "updatedAt": "2026-07-27T14:52:24Z",
+        "updatedAt": "2026-08-19T12:35:59Z",
         "fileIds": [
-          "1000067638"
+          "1000068617"
         ]
       },
       {
@@ -286,14 +324,14 @@
         "summary": "Select your character's past that will shape their future. Almost 300 traits across 4 types to choose from!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58704/58704-1776598686-424312326.png",
         "uid": "429496788304",
-        "updatedAt": "2026-07-25T17:10:20Z",
+        "updatedAt": "2026-08-21T08:23:08Z",
         "fileIds": [
+          "1000068701",
           "1000067541",
           "1000067072",
           "1000065533",
           "1000064793",
           "1000063997",
-          "1000063992",
           "1000063991",
           "1000063990"
         ]
@@ -331,8 +369,9 @@
         "summary": "Guess now it's my turn to have a patch hub :d",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58744/58744-1777126657-936089804.png",
         "uid": "429496788344",
-        "updatedAt": "2026-05-05T16:47:57Z",
+        "updatedAt": "2026-08-13T16:01:30Z",
         "fileIds": [
+          "1000068352",
           "1000063656",
           "1000063655",
           "1000063529",
@@ -372,9 +411,9 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-07-24T14:42:49Z",
+        "updatedAt": "2026-08-19T12:26:43Z",
         "fileIds": [
-          "1000067481"
+          "1000068616"
         ]
       },
       {
@@ -410,9 +449,9 @@
         "summary": "Shows how many arrows, bolts or throwing weapons you have.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58307/58307-1772293971-1405592073.png",
         "uid": "429496787907",
-        "updatedAt": "2026-05-14T13:47:07Z",
+        "updatedAt": "2026-08-17T09:29:55Z",
         "fileIds": [
-          "1000064085"
+          "1000068526"
         ]
       },
       {
@@ -429,9 +468,9 @@
         "summary": "Makes arrows stick into terrain and objects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58299/58299-1772200789-920824304.png",
         "uid": "429496787899",
-        "updatedAt": "2026-04-12T18:06:03Z",
+        "updatedAt": "2026-08-11T09:02:04Z",
         "fileIds": [
-          "1000062613"
+          "1000068281"
         ]
       },
       {
@@ -621,8 +660,9 @@
         "summary": "Break locks with the power of your muscles!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57841/57841-1764115539-112873440.png",
         "uid": "429496787441",
-        "updatedAt": "2026-08-10T14:30:40Z",
+        "updatedAt": "2026-08-16T09:23:16Z",
         "fileIds": [
+          "1000068457",
           "1000068255",
           "1000067616",
           "1000067517",
@@ -807,6 +847,6 @@
         ]
       }
     ],
-    "totalCount": 40
+    "totalCount": 42
   }
 }

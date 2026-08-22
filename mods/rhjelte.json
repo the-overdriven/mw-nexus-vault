@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-08-10T22:19:47.052Z",
+  "checkedAt": "2026-08-22T17:25:59.549Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 9
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-18T19:23:41Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59895,
+        "name": "Fade to Black",
+        "status": "published",
+        "summary": "Instead of setting a fade effect directly when getting blinded, this mod makes it a smooth transition that fades in and out. Tweakable in MCM.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59895/59895-1787080387-515761499.png",
+        "uid": "429496789495",
+        "updatedAt": "2026-08-19T06:45:32Z",
+        "fileIds": [
+          "1000068601"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-05T22:18:35Z",
@@ -18,11 +37,12 @@
         "modId": 59790,
         "name": "Shivers (Ashfall camera motion feedback)",
         "status": "published",
-        "summary": "An add-on for Modernized 1st Person Experience that adds a camera motion to being cold (shivers) or hot (head sway) in Ashfall.",
+        "summary": "(1.1) An add-on for Modernized 1st Person Experience that adds a camera motion to being cold (shivers) or hot (head sway) in Ashfall.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59790/59790-1785968245-275549303.png",
         "uid": "429496789390",
-        "updatedAt": "2026-08-05T22:18:35Z",
+        "updatedAt": "2026-08-12T18:18:29Z",
         "fileIds": [
+          "1000068321",
           "1000068089"
         ]
       },
@@ -116,11 +136,12 @@
         "modId": 57178,
         "name": "Modernized 1st Person Experience (MWSE) - Head bobbing and camera animations etc",
         "status": "published",
-        "summary": "(1.8.1) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57178/57178-1754004564-620699054.jpg",
+        "summary": "(1.9) Beautiful and immersive head bobbing, view rolling, camera noise and more to your MWSE load out! Video example in description.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57178/57178-1786777166-347639814.png",
         "uid": "429496786778",
-        "updatedAt": "2026-08-07T21:08:49Z",
+        "updatedAt": "2026-08-12T17:50:26Z",
         "fileIds": [
+          "1000068319",
           "1000068170",
           "1000068009",
           "1000061040"
@@ -169,6 +190,6 @@
         ]
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-10T22:20:07.105Z",
+  "checkedAt": "2026-08-22T17:26:55.391Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -78,9 +78,10 @@
         "summary": "This is a small quest addition to the Mages' Guild quest \"A Potion from Skink-in-tree's-shade\" from Edwinna Elbert in Ald'ruhn, potentially restoring some cut content.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52908/52908-1684448905-334435697.png",
         "uid": "429496782508",
-        "updatedAt": "2023-05-18T22:31:28Z",
+        "updatedAt": "2026-08-13T13:55:16Z",
         "fileIds": [
-          "1000037954"
+          "1000037954",
+          "1000068347"
         ]
       },
       {
@@ -97,9 +98,10 @@
         "summary": "This is a small mod that expands upon the quest \"Steal Chimarvamidium\" from Edwinna Elbert in the Ald'Ruhn Guild of Mages.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52905/52905-1684437882-761749849.png",
         "uid": "429496782505",
-        "updatedAt": "2023-05-20T17:58:02Z",
+        "updatedAt": "2026-08-13T23:43:02Z",
         "fileIds": [
-          "1000037989"
+          "1000068371",
+          "1000068372"
         ]
       },
       {

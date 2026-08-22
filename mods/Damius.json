@@ -1,12 +1,33 @@
 {
-  "checkedAt": "2026-08-10T22:16:28.210Z",
+  "checkedAt": "2026-08-22T17:20:37.425Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48
+        "100": 49
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-17T05:26:37Z",
+        "fileSize": 1127,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59879,
+        "name": "Suran Towers and Roofs",
+        "status": "published",
+        "summary": "Adds unique roofs and towers to Suran.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59879/59879-1786944101-1718880021.png",
+        "uid": "429496789479",
+        "updatedAt": "2026-08-19T10:40:38Z",
+        "fileIds": [
+          "1000068507",
+          "1000068610",
+          "1000068508"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-01T19:43:50Z",
@@ -21,8 +42,9 @@
         "summary": "A near total overhaul of Ayleid Remnants, based on KatyaKarrels TOTSP patch.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59199/59199-1780341966-1305477249.png",
         "uid": "429496788799",
-        "updatedAt": "2026-07-25T19:32:44Z",
+        "updatedAt": "2026-08-18T06:07:08Z",
         "fileIds": [
+          "1000068558",
           "1000067546",
           "1000066379",
           "1000065242",
@@ -526,8 +548,12 @@
         "summary": "Adds glow maps to several Glass and Daedric mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53504/53504-1694656986-498508784.png",
         "uid": "429496783104",
-        "updatedAt": "2026-05-20T00:34:01Z",
+        "updatedAt": "2026-08-13T00:02:56Z",
         "fileIds": [
+          "1000068334",
+          "1000068333",
+          "1000068331",
+          "1000068329",
           "1000064339",
           "1000064338",
           "1000064336",
@@ -747,16 +773,21 @@
         "name": "Dagon Fel Redone",
         "status": "published",
         "summary": "Dagon Fel remade with TR Nord assets.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52375/52375-1676797247-118111779.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52375/52375-1786773901-1771230091.png",
         "uid": "429496781975",
-        "updatedAt": "2025-07-06T14:57:36Z",
+        "updatedAt": "2026-08-19T10:22:19Z",
         "fileIds": [
-          "1000036366",
+          "1000068609",
+          "1000068510",
           "1000054997",
           "1000045651",
+          "1000068509",
+          "1000068422",
+          "1000068421",
+          "1000036366",
           "1000036134",
-          "1000035995",
-          "1000036073"
+          "1000036073",
+          "1000035995"
         ]
       },
       {
@@ -988,6 +1019,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 48
+    "totalCount": 49
   }
 }

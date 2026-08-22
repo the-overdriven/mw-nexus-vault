@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-10T22:19:22.503Z",
+  "checkedAt": "2026-08-22T17:24:40.698Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 40,
+        "100": 39,
         "101": 1
       }
     },
@@ -394,22 +394,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2020-01-10T11:22:45Z",
-        "fileSize": 556,
-        "modCategory": {
-          "categoryId": 19,
-          "name": "Creatures"
-        },
-        "modId": 47498,
-        "name": "Concept Art Sixth House",
-        "status": "published",
-        "summary": "I intend to make the sixth house creatures look more like they did in MK's concepts.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/47498/47498-1579140928-1991406752.png",
-        "uid": "429496777098",
-        "updatedAt": "2021-03-12T12:43:57Z"
-      },
-      {
-        "adultContent": false,
         "createdAt": "2019-05-26T16:04:58Z",
         "fileSize": 74,
         "modCategory": {
@@ -649,6 +633,6 @@
         "updatedAt": "2016-01-23T12:27:35Z"
       }
     ],
-    "totalCount": 40
+    "totalCount": 39
   }
 }

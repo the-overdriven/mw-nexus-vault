@@ -1,13 +1,33 @@
 {
-  "checkedAt": "2026-08-10T22:20:57.490Z",
+  "checkedAt": "2026-08-22T17:29:34.594Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 24,
         "3474": 16
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-16T10:56:45Z",
+        "fileSize": 26,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59812,
+        "name": "Spellstrike",
+        "status": "published",
+        "summary": "OpenMW lua mod that allows the player and NPCs to combine weapon and spell attacks together, improving class roleplay and combat experience.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59812/59812-1786875473-1121768303.gif",
+        "uid": "429496789412",
+        "updatedAt": "2026-08-20T16:49:19Z",
+        "fileIds": [
+          "1000068656",
+          "1000068464"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-26T10:23:02Z",
@@ -394,6 +414,6 @@
         "updatedAt": "2020-11-05T06:42:10Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

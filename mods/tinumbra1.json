@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-10T22:20:18.974Z",
+  "checkedAt": "2026-08-22T17:28:47.751Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -70,15 +70,10 @@
         "summary": "Adds consequences or limitations to Necromancy, Levitation, Charm, daedra summoning and to other magic. All is optional. Tamriel Rebuilt included. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57820/57820-1775478445-890398478.jpg",
         "uid": "429496787420",
-        "updatedAt": "2026-08-09T16:40:28Z",
+        "updatedAt": "2026-08-15T06:16:55Z",
         "fileIds": [
-          "1000068230",
-          "1000067395",
-          "1000067466",
-          "1000067393",
-          "1000065398",
-          "1000065076",
-          "1000060097"
+          "1000068424",
+          "1000067395"
         ]
       },
       {
@@ -90,7 +85,7 @@
           "name": "User Interface"
         },
         "modId": 57782,
-        "name": "Of Bead and Feather - Custom Potion Sorter (OpenMW)",
+        "name": "Of Bead and Feather - Potion Sorter (OpenMW)",
         "status": "published",
         "summary": "Organizes custom potions with descriptive icons and names based on the strongest effects. Quality based potion weight. Any language",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57782/57782-1763315717-564798601.png",
@@ -106,7 +101,7 @@
           "name": "Gameplay"
         },
         "modId": 57757,
-        "name": "Dubious Concoctions - Economy Fix (OpenMW)",
+        "name": "Dubious Concoctions (OpenMW)",
         "status": "published",
         "summary": "Merchants will only purchase home-brews from a skilled, reputable alchemist. And only certain factions will buy your poisons. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57757/57757-1762841594-1966040782.jpg",

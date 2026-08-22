@@ -1,12 +1,84 @@
 {
-  "checkedAt": "2026-08-10T22:17:46.490Z",
+  "checkedAt": "2026-08-22T17:22:10.844Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35
+        "100": 38
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-20T13:54:34Z",
+        "fileSize": 255,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59908,
+        "name": "Better Family - Protruding Bone Fix",
+        "status": "published",
+        "summary": "Fixed meshes for Better Bodies 3.2, Robert's Bodies, Better Morrowind Armor, Better Clothes Definitive Edition, Better Robes, Better Beasts by Liztail",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59908/59908-1787233720-1745301198.png",
+        "uid": "429496789508",
+        "updatedAt": "2026-08-21T14:48:21Z",
+        "fileIds": [
+          "1000068712",
+          "1000068711",
+          "1000068710",
+          "1000068674",
+          "1000068673",
+          "1000068645",
+          "1000068644",
+          "1000068643",
+          "1000068675",
+          "1000068646"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-19T12:15:44Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59903,
+        "name": "(OpenMW) Raindrops On Screen",
+        "status": "published",
+        "summary": "A custom shader for OpenMW 0.51 that makes raindrops appear on your screen when it rains or you're in the water (configurable).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59903/59903-1787141554-1127972267.png",
+        "uid": "429496789503",
+        "updatedAt": "2026-08-20T18:28:16Z",
+        "fileIds": [
+          "1000068666",
+          "1000068634",
+          "1000068625",
+          "1000068614"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-17T21:43:49Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59888,
+        "name": "(OpenMW) Immersive Telvanni Bug Musk Lua",
+        "status": "published",
+        "summary": "Re-invention of a well-known mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59888/59888-1787002960-209610540.png",
+        "uid": "429496789488",
+        "updatedAt": "2026-08-21T14:30:35Z",
+        "fileIds": [
+          "1000068709",
+          "1000068683",
+          "1000068687",
+          "1000068548"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-23T20:40:25Z",
@@ -21,8 +93,9 @@
         "summary": "This chest is safe to open. Or is it?",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59667/59667-1784838557-917731311.png",
         "uid": "429496789267",
-        "updatedAt": "2026-07-25T09:44:43Z",
+        "updatedAt": "2026-08-18T13:51:30Z",
         "fileIds": [
+          "1000068564",
           "1000067522",
           "1000067474",
           "1000067431"
@@ -63,8 +136,10 @@
         "summary": "Covers voice lines that are not added by Kezyma's Voices of Vvardenfell.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59648/59648-1784549222-2056167161.png",
         "uid": "429496789248",
-        "updatedAt": "2026-07-30T14:05:45Z",
+        "updatedAt": "2026-08-16T12:51:08Z",
         "fileIds": [
+          "1000068471",
+          "1000068469",
           "1000067795",
           "1000067793",
           "1000067436"
@@ -84,8 +159,10 @@
         "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
         "uid": "429496788950",
-        "updatedAt": "2026-07-23T20:09:35Z",
+        "updatedAt": "2026-08-17T13:02:06Z",
         "fileIds": [
+          "1000068536",
+          "1000068387",
           "1000067427",
           "1000066624",
           "1000066408",
@@ -126,8 +203,11 @@
         "summary": "Plays the praying animation during your pilgrimages or prayers to altars and shrines.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59182/59182-1780249463-1505929427.png",
         "uid": "429496788782",
-        "updatedAt": "2026-08-04T22:29:22Z",
+        "updatedAt": "2026-08-22T16:55:24Z",
         "fileIds": [
+          "1000068769",
+          "1000068755",
+          "1000068715",
           "1000068062",
           "1000067197",
           "1000067070",
@@ -151,8 +231,10 @@
         "summary": "Plays animations when picking up items / activating containers, doors or activators. Also during dialogues.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59117/59117-1779834710-1366291765.jpg",
         "uid": "429496788717",
-        "updatedAt": "2026-07-27T13:05:41Z",
+        "updatedAt": "2026-08-18T20:05:29Z",
         "fileIds": [
+          "1000068576",
+          "1000068466",
           "1000067631",
           "1000067429",
           "1000067220",
@@ -172,18 +254,16 @@
         "modId": 59069,
         "name": "(OpenMW) Consuming Animated",
         "status": "published",
-        "summary": "Plays an animation when you drink or eat something or NPCs drink potions. Special animations for Telvanni Bug Musk, skooma + skooma pipes, hackle-lo/tanna + smoking pipes.",
+        "summary": "Plays an animation when you drink or eat something or NPCs drink potions. Special animations for Telvanni Bug Musk, moon sugar + skooma pipes, hackle-lo/tanna + smoking pipes, and cigars.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59069/59069-1779626750-1728400660.png",
         "uid": "429496788669",
-        "updatedAt": "2026-06-27T20:18:14Z",
+        "updatedAt": "2026-08-21T21:56:26Z",
         "fileIds": [
-          "1000066262",
-          "1000066166",
-          "1000066066",
-          "1000066058",
-          "1000065811",
-          "1000065713",
-          "1000065543"
+          "1000068732",
+          "1000068686",
+          "1000068662",
+          "1000068547",
+          "1000066262"
         ]
       },
       {
@@ -285,10 +365,11 @@
         "summary": "A few changes to the original mod, more mods are supported.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58753/58753-1777203840-230426865.jpg",
         "uid": "429496788353",
-        "updatedAt": "2026-06-08T10:15:29Z",
+        "updatedAt": "2026-08-21T17:46:55Z",
         "fileIds": [
           "1000065451",
           "1000063063",
+          "1000068723",
           "1000065453",
           "1000065452",
           "1000065450",
@@ -296,11 +377,11 @@
           "1000065448",
           "1000065447",
           "1000065439",
-          "1000064196",
           "1000063260",
           "1000063214",
           "1000063109",
-          "1000063103"
+          "1000063103",
+          "1000064196"
         ]
       },
       {
@@ -337,8 +418,9 @@
         "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
         "uid": "429496788235",
-        "updatedAt": "2026-07-27T15:10:15Z",
+        "updatedAt": "2026-08-16T02:15:08Z",
         "fileIds": [
+          "1000068449",
           "1000067642",
           "1000067214",
           "1000067160",
@@ -359,7 +441,7 @@
         "modId": 58576,
         "name": "(OpenMW) Gothic Style Knockout",
         "status": "published",
-        "summary": "Now you can knock out NPCs instead of killing them. And they can do the same to you. Oh, and NPCs drop their weapons when they're knocked out. They also loot you while you're out cold. Only work with melee weapons that deal no magical",
+        "summary": "Now you can knock out NPCs instead of killing them. And they can do the same to you. Oh, and NPCs drop their weapons when they're knocked out. They also loot you while you're out cold. Only works with melee weapons that deal no magical",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58576/58576-1775237031-1951919046.png",
         "uid": "429496788176",
         "updatedAt": "2026-08-08T03:03:49Z",
@@ -449,8 +531,9 @@
         "summary": "Now you need sufficient armor skill and governing attribute to equip powerful armor.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58485/58485-1774014195-1065390651.png",
         "uid": "429496788085",
-        "updatedAt": "2026-07-10T20:12:50Z",
+        "updatedAt": "2026-08-17T21:03:35Z",
         "fileIds": [
+          "1000068546",
           "1000066914",
           "1000066544",
           "1000066049",
@@ -472,8 +555,9 @@
         "summary": "Now you need sufficient weapon skill and governing attribute to wield powerful weapons.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58477/58477-1773916264-314596005.png",
         "uid": "429496788077",
-        "updatedAt": "2026-07-10T20:11:33Z",
+        "updatedAt": "2026-08-17T21:02:42Z",
         "fileIds": [
+          "1000068545",
           "1000066913",
           "1000066543",
           "1000066050",
@@ -518,8 +602,9 @@
         "summary": "NPCs can be lured away by you dropping items or shooting arrows. NPCs can pick up your dropped stuff. NPCs can report your illegal goods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58414/58414-1773253210-69949728.png",
         "uid": "429496788014",
-        "updatedAt": "2026-07-27T11:49:54Z",
+        "updatedAt": "2026-08-10T23:15:46Z",
         "fileIds": [
+          "1000068267",
           "1000067625",
           "1000066833",
           "1000064393",
@@ -697,11 +782,12 @@
         "modId": 58335,
         "name": "(OpenMW) Illegal Necromancy",
         "status": "published",
-        "summary": "Casting Necromancy spells is now illegal. Applies to the player.",
+        "summary": "Casting Necromancy spells is now illegal. Citizens can also report you if they see your undead summons. Applies to the player.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58335/58335-1772557589-1206961088.png",
         "uid": "429496787935",
-        "updatedAt": "2026-08-09T17:55:30Z",
+        "updatedAt": "2026-08-18T18:34:31Z",
         "fileIds": [
+          "1000068572",
           "1000068232",
           "1000063985",
           "1000062557",
@@ -784,6 +870,6 @@
         ]
       }
     ],
-    "totalCount": 35
+    "totalCount": 38
   }
 }

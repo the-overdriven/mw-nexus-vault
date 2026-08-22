@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-08-10T22:16:27.521Z",
+  "checkedAt": "2026-08-22T17:20:36.609Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3,
-        "101": 16,
-        "181": 4
+        "100": 2,
+        "101": 13,
+        "181": 3
       }
     },
     "nodes": [
@@ -47,27 +47,8 @@
         "fileIds": [
           "1000060603"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2026-02-06T03:51:43Z",
-        "fileSize": 143,
-        "modCategory": {
-          "categoryId": 23,
-          "name": "Companions"
-        },
-        "modId": 58171,
-        "name": "Companion Lyriana",
-        "status": "published",
-        "summary": "A simple companion that has a small sidequest, a reward, and an optional, barebones romance...",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58171/58171-1772578667-673594314.png",
-        "uid": "429496787771",
-        "updatedAt": "2026-02-06T03:51:43Z",
-        "fileIds": [
-          "1000060491"
-        ]
       }
     ],
-    "totalCount": 3
+    "totalCount": 2
   }
 }
