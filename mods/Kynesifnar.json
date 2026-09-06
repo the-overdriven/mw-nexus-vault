@@ -1,13 +1,51 @@
 {
-  "checkedAt": "2026-08-22T17:24:39.946Z",
+  "checkedAt": "2026-09-06T08:23:46.393Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 4,
+        "100": 6,
         "1704": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-02T09:19:14Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 60075,
+        "name": "Dynamic Shrine Tooltips",
+        "status": "published",
+        "summary": "Adds tooltips to shrines when hovering over the different blessings that show what effects they bestow. Unlike Virnetch's Shrine Tooltips mod, this one gets the effects from the shrines' scripts and should not require changes/configuration",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60075/60075-1788334174-1772162357.png",
+        "uid": "429496789675",
+        "updatedAt": "2026-09-02T09:19:14Z",
+        "fileIds": [
+          "1000069608"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-02T07:22:39Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60074,
+        "name": "Blessing Absorption Fix",
+        "status": "published",
+        "summary": "Prevents the Absorb Magicka effect from absorbing blessings.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60074/60074-1788332663-2131471883.png",
+        "uid": "429496789674",
+        "updatedAt": "2026-09-02T07:22:39Z",
+        "fileIds": [
+          "1000069604"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-09-08T10:18:40Z",
@@ -22,9 +60,9 @@
         "summary": "Allows bipedal creatures such as dremora to occasionally play their \"moan\" sound like other kinds of creatures do rather than being silent outside of combat.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57419/57419-1757326142-2069407033.png",
         "uid": "429496787019",
-        "updatedAt": "2025-09-09T08:02:09Z",
+        "updatedAt": "2026-08-24T06:02:34Z",
         "fileIds": [
-          "1000056716",
+          "1000068944",
           "1000056694"
         ]
       },
@@ -42,9 +80,9 @@
         "summary": "Adjusts the visibility of Glow in the Dahrk's interior sunrays depending on the position of the sun.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57400/57400-1756967928-1967960219.png",
         "uid": "429496787000",
-        "updatedAt": "2025-09-15T00:45:29Z",
+        "updatedAt": "2026-08-24T07:27:36Z",
         "fileIds": [
-          "1000056853"
+          "1000068947"
         ]
       },
       {
@@ -61,9 +99,9 @@
         "summary": "Disables nearby lights when containers are harvested with Graphic Herbalism and re-enables them once their containers have grown back.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57276/57276-1754901680-191824460.png",
         "uid": "429496786876",
-        "updatedAt": "2025-08-13T10:24:59Z",
+        "updatedAt": "2026-08-24T04:23:10Z",
         "fileIds": [
-          "1000055916"
+          "1000068934"
         ]
       },
       {
@@ -86,6 +124,6 @@
         ]
       }
     ],
-    "totalCount": 4
+    "totalCount": 6
   }
 }

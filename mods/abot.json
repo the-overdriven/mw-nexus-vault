@@ -1,15 +1,34 @@
 {
-  "checkedAt": "2026-08-22T17:19:27.976Z",
+  "checkedAt": "2026-09-06T08:11:24.778Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 85,
+        "100": 86,
         "110": 2,
         "1704": 2,
         "2176": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-03T10:21:49Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60089,
+        "name": "Shrines 0 gold fix - MWSE-Lua",
+        "status": "published",
+        "summary": "Dynamically try and fix shrines asking for 0 gold to high rank players. It should work with any mod using a vanilla-like shrine MessageBox (99% of present and most likely future shrine adding/editing mods)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60089/60089-1788429089-1877236173.jpg",
+        "uid": "429496789689",
+        "updatedAt": "2026-09-03T10:21:49Z",
+        "fileIds": [
+          "1000069662"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-26T13:50:38Z",
@@ -601,8 +620,10 @@
         "summary": "Hide/delete most grass statics references on the fly to be rendered as moving grass by MGE-XE instead.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52764/52764-1682943930-205526499.jpeg",
         "uid": "429496782364",
-        "updatedAt": "2026-04-27T08:45:01Z",
+        "updatedAt": "2026-08-27T19:28:54Z",
         "fileIds": [
+          "1000069242",
+          "1000069071",
           "1000063121",
           "1000055309",
           "1000054619",
@@ -1177,8 +1198,9 @@
         "summary": "Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and Daedric text translated from enchanted scrolls. You can now read",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48930/48930-1602494758-1296927970.jpeg",
         "uid": "429496778530",
-        "updatedAt": "2026-08-20T16:57:53Z",
+        "updatedAt": "2026-08-27T19:12:00Z",
         "fileIds": [
+          "1000069240",
           "1000068658",
           "1000059010",
           "1000058931",
@@ -1750,33 +1772,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42454-1-1363940365.jpg",
         "uid": "429496772054",
         "updatedAt": "2014-05-26T12:03:00Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2013-02-05T11:53:22Z",
-        "fileSize": 19162,
-        "modCategory": {
-          "categoryId": 8,
-          "name": "Miscellaneous"
-        },
-        "modId": 42417,
-        "name": "Water Life",
-        "status": "published",
-        "summary": "Water Life is an attempt to mix the scripting techniques developed in the \"Where are all bird going?\" plugin with the best aquatic creature modding resources to bring more life into Morrowind waters.This plugin mainly adds to Morrowind",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/42417-1-1360065961.jpg",
-        "uid": "429496772017",
-        "updatedAt": "2025-05-09T14:55:02Z",
-        "fileIds": [
-          "1000052703",
-          "1000043725",
-          "1000016700",
-          "1000026538",
-          "1000043724",
-          "1000021615",
-          "1000026036"
-        ]
       }
     ],
-    "totalCount": 85
+    "totalCount": 86
   }
 }

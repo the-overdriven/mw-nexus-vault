@@ -1,30 +1,13 @@
 {
-  "checkedAt": "2026-08-22T17:28:47.538Z",
+  "checkedAt": "2026-09-06T08:31:45.037Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 58,
+        "100": 57,
         "120": 3
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2025-09-21T23:01:00Z",
-        "fileSize": 3369,
-        "modCategory": {
-          "categoryId": 3,
-          "name": "Dungeons and Locations"
-        },
-        "modId": 57489,
-        "name": "Morrowind Modding Community Ancestral Tomb",
-        "status": "published",
-        "summary": "This mod adds an ancestral tomb east of Lake Nabia that holds the ashes of many of the chatters and modders that have left our Discord community!",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57489/57489-1758495449-245859344.png",
-        "uid": "429496787089",
-        "updatedAt": "2025-09-23T00:18:11Z",
-        "fileIds": []
-      },
       {
         "adultContent": false,
         "createdAt": "2024-11-11T08:14:51Z",
@@ -939,6 +922,6 @@
         "updatedAt": "2017-09-20T09:45:52Z"
       }
     ],
-    "totalCount": 58
+    "totalCount": 57
   }
 }

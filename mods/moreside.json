@@ -1,70 +1,8 @@
 {
-  "checkedAt": "2026-08-22T17:25:09.558Z",
+  "checkedAt": "2026-09-06T08:25:13.510Z",
   "mods": {
-    "facetsData": {
-      "gameId": {
-        "100": 3
-      }
-    },
-    "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2026-06-28T01:11:08Z",
-        "fileSize": 21,
-        "modCategory": {
-          "categoryId": 14,
-          "name": "Races, Classes, and Birthsigns"
-        },
-        "modId": 59457,
-        "name": "Hidden Powers (OpenMW)",
-        "status": "published",
-        "summary": "An OpenMW-friendly port of Varlothen's excellent races and birthsigns mods.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59457/59457-1782608865-2128920164.png",
-        "uid": "429496789057",
-        "updatedAt": "2026-06-28T16:28:31Z",
-        "fileIds": [
-          "1000066303"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-09-14T18:10:08Z",
-        "fileSize": 3,
-        "modCategory": {
-          "categoryId": 35,
-          "name": "Skills and Attributes"
-        },
-        "modId": 57455,
-        "name": "Smooth Scaling (OpenMW)",
-        "status": "published",
-        "summary": "A highly configurable skill progression mod.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57455/57455-1782445044-153183782.png",
-        "uid": "429496787055",
-        "updatedAt": "2026-06-29T20:34:55Z",
-        "fileIds": [
-          "1000066371"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-09-13T00:07:19Z",
-        "fileSize": 2,
-        "modCategory": {
-          "categoryId": 35,
-          "name": "Skills and Attributes"
-        },
-        "modId": 57445,
-        "name": "Linear Leveling (OpenMW)",
-        "status": "published",
-        "summary": "A lightweight, vanilla-style leveling overhaul.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57445/57445-1782448092-93572425.png",
-        "uid": "429496787045",
-        "updatedAt": "2026-06-26T04:29:37Z",
-        "fileIds": [
-          "1000066204"
-        ]
-      }
-    ],
-    "totalCount": 3
+    "facetsData": {},
+    "nodes": [],
+    "totalCount": 0
   }
 }

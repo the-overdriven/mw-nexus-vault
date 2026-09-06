@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-22T17:20:36.988Z",
+  "checkedAt": "2026-09-06T08:13:09.171Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 11,
+        "100": 12,
         "101": 1,
         "1704": 3,
         "1950": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-03T01:44:05Z",
+        "fileSize": 6136,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 60084,
+        "name": "BIU - Iron Weapons Bumpmapped",
+        "status": "published",
+        "summary": "Gives Iron weapons shine via bump maps.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60084/60084-1788399531-1796034961.png",
+        "uid": "429496789684",
+        "updatedAt": "2026-09-03T01:44:05Z",
+        "fileIds": [
+          "1000069645"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-11T02:21:18Z",
@@ -241,6 +260,6 @@
         ]
       }
     ],
-    "totalCount": 11
+    "totalCount": 12
   }
 }

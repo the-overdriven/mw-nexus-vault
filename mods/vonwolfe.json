@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T17:29:43.637Z",
+  "checkedAt": "2026-09-06T08:34:18.928Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -109,9 +109,11 @@
         "summary": "Replaces Starwind's creature models with updated assets. Requires Starwind Enhanced and Tamriel Data.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56075/56075-1740832344-846661692.png",
         "uid": "429496785675",
-        "updatedAt": "2026-07-29T14:49:15Z",
+        "updatedAt": "2026-08-31T09:15:32Z",
         "fileIds": [
           "1000067736",
+          "1000069506",
+          "1000069453",
           "1000060878",
           "1000060485",
           "1000056971",
@@ -132,11 +134,12 @@
         "name": "A New Hope - A Starwind Mod",
         "status": "published",
         "summary": "New quests, NPCs, dialogue, bugfixes and assets to take Starwind to the next level.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1767549590-2030649772.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1787828631-237915971.png",
         "uid": "429496785568",
-        "updatedAt": "2026-08-12T14:56:32Z",
+        "updatedAt": "2026-08-30T10:00:45Z",
         "fileIds": [
-          "1000068313",
+          "1000069436",
+          "1000069228",
           "1000068246",
           "1000068243",
           "1000060999",
@@ -144,6 +147,9 @@
           "1000059509",
           "1000058970",
           "1000058945",
+          "1000069326",
+          "1000069203",
+          "1000068313",
           "1000068244",
           "1000068024",
           "1000067853",

@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-08-22T17:26:54.526Z",
+  "checkedAt": "2026-09-06T08:28:58.716Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 8
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-04T16:46:11Z",
+        "fileSize": 917846,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 60102,
+        "name": "Morrowind Fully Voiced",
+        "status": "published",
+        "summary": "Adds voiced dialogue (AI generated) using 120+ different voices from the ES games, radiant conversations and unique greetings",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60102/60102-1788539580-2102815322.jpg",
+        "uid": "429496789702",
+        "updatedAt": "2026-09-04T16:46:11Z",
+        "fileIds": [
+          "1000069746",
+          "1000069745"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-12-24T09:38:37Z",
@@ -158,6 +178,6 @@
         ]
       }
     ],
-    "totalCount": 7
+    "totalCount": 8
   }
 }

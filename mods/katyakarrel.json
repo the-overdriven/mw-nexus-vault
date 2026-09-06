@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-08-22T17:24:39.197Z",
+  "checkedAt": "2026-09-06T08:23:08.989Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 21,
+        "100": 22,
         "1704": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-24T03:47:19Z",
+        "fileSize": 1835,
+        "modCategory": {
+          "categoryId": 27,
+          "name": "Player homes"
+        },
+        "modId": 59934,
+        "name": "Telvanni Rootmaster's Boat",
+        "status": "published",
+        "summary": "Search for a scenic boat located between Wolverine Hall in Sadrith Mora and Tel Fyr.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59934/59934-1787542969-706342604.png",
+        "uid": "429496789534",
+        "updatedAt": "2026-08-24T03:47:19Z",
+        "fileIds": [
+          "1000068929"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-07T15:17:53Z",
@@ -438,6 +457,6 @@
         "updatedAt": "2022-07-09T05:36:40Z"
       }
     ],
-    "totalCount": 21
+    "totalCount": 22
   }
 }

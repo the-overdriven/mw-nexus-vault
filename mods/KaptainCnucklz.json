@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T17:24:38.881Z",
+  "checkedAt": "2026-09-06T08:22:59.670Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -33,7 +33,7 @@
         "modId": 57410,
         "name": "Spell Cast Reduction v3.0 (Reupload)",
         "status": "published",
-        "summary": "Reduces the casting cost of a spell based on your skill level in the corresponding magic school.",
+        "summary": "Returns some of the magicka spent after casting a spell based on skill level, effectively reducing spell cost.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57410/57410-1757137112-144725822.png",
         "uid": "429496787010",
         "updatedAt": "2025-09-06T05:58:50Z",
@@ -136,14 +136,15 @@
         "modId": 53685,
         "name": "DXVK - Vulkan Translation Layer for Morrowind and MGE XE",
         "status": "published",
-        "summary": "An unofficial extract-and-play DXVK package for running Morrowind in Vulkan. May improve performance with some PCs. (Incompatible with OpenMW.)",
+        "summary": "An unofficial extract-and-play DXVK package for running Morrowind in Vulkan. May improve performance with some PCs. (Incompatible with OpenMW and the G7 fork.)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53685/53685-1754525178-1466317738.png",
         "uid": "429496783285",
-        "updatedAt": "2026-07-18T07:31:03Z",
+        "updatedAt": "2026-08-28T19:33:35Z",
         "fileIds": [
-          "1000067205",
+          "1000069337",
           "1000054311",
           "1000040790",
+          "1000067205",
           "1000066700",
           "1000066198",
           "1000056500",

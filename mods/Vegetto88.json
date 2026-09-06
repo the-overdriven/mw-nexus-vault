@@ -1,13 +1,33 @@
 {
-  "checkedAt": "2026-08-22T17:29:25.318Z",
+  "checkedAt": "2026-09-06T08:33:15.680Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 37,
+        "100": 38,
         "4187": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-25T15:50:55Z",
+        "fileSize": 78623,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59986,
+        "name": "Beyond Beyond The Firmament",
+        "status": "published",
+        "summary": "Pimp your Beyond the Firmament mod",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59986/59986-1787672379-1542734857.jpg",
+        "uid": "429496789586",
+        "updatedAt": "2026-08-29T04:55:55Z",
+        "fileIds": [
+          "1000069357",
+          "1000069069"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-02-22T13:24:08Z",
@@ -215,7 +235,15 @@
         "summary": "Improved replacer for Dunmer's Ashpits.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52438/52438-1677804065-972502586.png",
         "uid": "429496782038",
-        "updatedAt": "2024-03-10T16:48:44Z"
+        "updatedAt": "2026-09-05T13:25:24Z",
+        "fileIds": [
+          "1000069785",
+          "1000043369",
+          "1000041972",
+          "1000036309",
+          "1000036283",
+          "1000036249"
+        ]
       },
       {
         "adultContent": false,
@@ -772,6 +800,6 @@
         "updatedAt": "2020-04-12T15:58:58Z"
       }
     ],
-    "totalCount": 37
+    "totalCount": 38
   }
 }

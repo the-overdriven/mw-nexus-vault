@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-08-22T17:24:27.271Z",
+  "checkedAt": "2026-09-06T08:19:50.359Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8
+        "100": 9
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-24T06:34:58Z",
+        "fileSize": 16632,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59957,
+        "name": "MGE XE G7 Fork",
+        "status": "published",
+        "summary": "A performance-focused unofficial fork of MGE XE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59957/59957-1787800684-919747179.png",
+        "uid": "429496789557",
+        "updatedAt": "2026-08-28T07:50:57Z",
+        "fileIds": [
+          "1000069274",
+          "1000068943"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2023-12-04T16:00:50Z",
@@ -136,6 +156,6 @@
         "updatedAt": "2016-11-20T08:37:58Z"
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }

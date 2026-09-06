@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-08-22T17:28:47.751Z",
+  "checkedAt": "2026-09-06T08:31:45.230Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 10
+        "100": 11
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-29T15:37:06Z",
+        "fileSize": 2217,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60011,
+        "name": "Pretty Potions",
+        "status": "published",
+        "summary": "Extracted from my other 3 mods purely for my own sanity, and to clean up both the files section and folder structure.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60011/60011-1787831219-1099457606.jpg",
+        "uid": "429496789611",
+        "updatedAt": "2026-08-29T15:44:58Z",
+        "fileIds": [
+          "1000069384",
+          "1000069373"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-14T17:24:22Z",
@@ -37,23 +57,23 @@
         "modId": 57929,
         "name": "Tiny Mods",
         "status": "published",
-        "summary": "Clothes weigh less, artifacts nerfed, better resting magicka regen, better icons, potion replacer, cure animals, player homes",
+        "summary": "Clothes weigh less, better resting magicka regen, better icons, cure animals, player homes, artifacts nerfed",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1777206657-198564113.png",
         "uid": "429496787529",
-        "updatedAt": "2026-08-02T10:55:44Z",
+        "updatedAt": "2026-09-03T17:28:28Z",
         "fileIds": [
+          "1000069689",
+          "1000069687",
+          "1000069613",
+          "1000069200",
           "1000067929",
           "1000067892",
-          "1000065874",
           "1000063923",
           "1000063070",
           "1000062730",
           "1000062726",
           "1000062492",
-          "1000062247",
-          "1000061868",
-          "1000061169",
-          "1000065769"
+          "1000062247"
         ]
       },
       {
@@ -149,12 +169,21 @@
           "name": "User Interface"
         },
         "modId": 57491,
-        "name": "Descriptive Icon Pack",
+        "name": "Descriptive Icons",
         "status": "published",
-        "summary": "Better descriptive icons for potions, scrolls, and magic effects. All sizes. +RU",
+        "summary": "Descriptive icons for potions, scrolls, and magic effects. All sizes. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57491/57491-1758558073-1661734366.png",
         "uid": "429496787091",
-        "updatedAt": "2026-05-11T12:02:39Z"
+        "updatedAt": "2026-08-29T15:22:08Z",
+        "fileIds": [
+          "1000069188",
+          "1000069187",
+          "1000069186",
+          "1000069185",
+          "1000069383",
+          "1000069380",
+          "1000057292"
+        ]
       },
       {
         "adultContent": false,
@@ -189,6 +218,6 @@
         "updatedAt": "2026-01-20T03:57:25Z"
       }
     ],
-    "totalCount": 10
+    "totalCount": 11
   }
 }

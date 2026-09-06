@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T17:24:40.485Z",
+  "checkedAt": "2026-09-06T08:24:33.084Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -315,7 +315,7 @@
         "modId": 54858,
         "name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
         "status": "published",
-        "summary": "This mod is an improvement of Protective Guards. Now the guards don't systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard",
+        "summary": "This mod is an improvement of P.G. 0.18. Now the guards don't systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard or not.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54858/54858-1718720270-906162306.png",
         "uid": "429496784458",
         "updatedAt": "2026-03-04T12:39:28Z",

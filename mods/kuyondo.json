@@ -1,31 +1,12 @@
 {
-  "checkedAt": "2026-08-22T17:24:39.835Z",
+  "checkedAt": "2026-09-06T08:23:18.507Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16
+        "100": 15
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2024-05-18T09:08:04Z",
-        "fileSize": 8,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 54683,
-        "name": "Practical Repair (OpenMW)",
-        "status": "published",
-        "summary": "Alters the repair system, necessitating the use of specific workstations like anvils or forges. Players must strategically locate and utilize these stations to maintain and restore their equipment, adding some realism and challenge to",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54683/54683-1715952856-434976676.png",
-        "uid": "429496784283",
-        "updatedAt": "2024-05-20T16:29:17Z",
-        "fileIds": [
-          "1000044986"
-        ]
-      },
       {
         "adultContent": false,
         "createdAt": "2022-05-13T19:15:23Z",
@@ -58,12 +39,13 @@
         "name": "Pursuit (OpenMW)",
         "status": "published",
         "summary": "Actors can travel through cells to pursue their target.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50271/50271-1701169728-375865343.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50271/50271-1788289016-1128773280.jpg",
         "uid": "429496779871",
-        "updatedAt": "2026-06-22T14:40:27Z",
+        "updatedAt": "2026-08-29T17:20:12Z",
         "fileIds": [
-          "1000066055",
-          "1000064027"
+          "1000069391",
+          "1000064027",
+          "1000066055"
         ]
       },
       {
@@ -134,8 +116,8 @@
         "createdAt": "2019-07-21T00:51:48Z",
         "fileSize": 5,
         "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
+          "categoryId": 4,
+          "name": "Gameplay"
         },
         "modId": 46992,
         "name": "Protective Guards (OpenMW)",
@@ -143,12 +125,10 @@
         "summary": "Guards protect against hostile NPCs.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46992/46992-1563905467-1888870151.jpeg",
         "uid": "429496776592",
-        "updatedAt": "2023-11-14T13:48:00Z",
+        "updatedAt": "2026-08-31T14:40:47Z",
         "fileIds": [
-          "1000040988",
-          "1000040161",
-          "1000017929",
-          "1000017917"
+          "1000069517",
+          "1000040988"
         ]
       },
       {
@@ -205,11 +185,12 @@
         "summary": "When a crossbow or bow is equipped, any available arrows or bolts in the inventory will be automatically equipped.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/45967/45967-1701168512-1541235188.png",
         "uid": "429496775567",
-        "updatedAt": "2023-11-18T14:28:43Z",
+        "updatedAt": "2026-09-01T18:15:50Z",
         "fileIds": [
-          "1000041023",
+          "1000069584",
           "1000023414",
           "1000017528",
+          "1000041023",
           "1000017467",
           "1000011542",
           "1000011515"
@@ -355,6 +336,6 @@
         ]
       }
     ],
-    "totalCount": 16
+    "totalCount": 15
   }
 }

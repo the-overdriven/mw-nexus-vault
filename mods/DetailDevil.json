@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T17:21:50.682Z",
+  "checkedAt": "2026-09-06T08:14:33.145Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -194,8 +194,9 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-08-08T06:52:42Z",
+        "updatedAt": "2026-09-01T14:30:46Z",
         "fileIds": [
+          "1000069574",
           "1000068189",
           "1000067867",
           "1000063549",
@@ -394,8 +395,9 @@
         "summary": "Travel through Skyrim and Cyrodiil on a horse. You can now buy a horse for your travels from a horse merchant in Karthwasten or Anvil.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55479/55479-1785962094-1327893153.png",
         "uid": "429496785079",
-        "updatedAt": "2026-08-06T16:00:45Z",
+        "updatedAt": "2026-09-03T20:05:02Z",
         "fileIds": [
+          "1000069697",
           "1000068130",
           "1000052750",
           "1000048603"
@@ -441,13 +443,14 @@
         "summary": "Experience the visual and physical effects of alcohol. This is an extended and modified version of Merlord's \"Immersive Alcohol\" for OpenMW that adds shader effects on stages of drunkeness. This mod also adds support for all alcoholic",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55038/55038-1722287291-1735755228.png",
         "uid": "429496784638",
-        "updatedAt": "2026-02-28T22:35:08Z",
+        "updatedAt": "2026-08-30T17:32:30Z",
         "fileIds": [
+          "1000069463",
           "1000061151",
-          "1000049474",
+          "1000061139",
           "1000058207",
-          "1000046522",
-          "1000061139"
+          "1000049474",
+          "1000046522"
         ]
       },
       {

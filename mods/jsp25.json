@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2026-08-22T17:24:38.536Z",
+  "checkedAt": "2026-09-06T08:22:41.741Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 38
+        "100": 40
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-03T10:57:43Z",
+        "fileSize": 48,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 60092,
+        "name": "Sinsibadon Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Sinsibadon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60092/60092-1788432948-1770459947.png",
+        "uid": "429496789692",
+        "updatedAt": "2026-09-03T10:57:43Z",
+        "fileIds": [
+          "1000069666"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-26T01:51:28Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59992,
+        "name": "Zenarbael Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Zenarbael.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59992/59992-1787708826-1325310583.png",
+        "uid": "429496789592",
+        "updatedAt": "2026-08-26T01:51:28Z",
+        "fileIds": [
+          "1000069097"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-29T05:11:55Z",
@@ -19,7 +57,7 @@
         "name": "Ashirbadon Overhaul",
         "status": "published",
         "summary": "An overhaul of Ashirbadon.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59467/59467-1782709748-314036814.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59467/59467-1782709748-302620417.png",
         "uid": "429496789067",
         "updatedAt": "2026-06-29T05:39:32Z",
         "fileIds": [
@@ -769,6 +807,6 @@
         ]
       }
     ],
-    "totalCount": 38
+    "totalCount": 40
   }
 }

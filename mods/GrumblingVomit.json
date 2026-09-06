@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-22T17:24:27.402Z",
+  "checkedAt": "2026-09-06T08:19:59.386Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 69,
+        "100": 74,
         "101": 1,
         "1413": 8,
         "1704": 1,
@@ -11,6 +11,103 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-31T01:16:30Z",
+        "fileSize": 5438,
+        "modCategory": {
+          "categoryId": 16,
+          "name": "Weapons and Armour"
+        },
+        "modId": 60059,
+        "name": "Ymsidril Weapons and Armors AIO",
+        "status": "published",
+        "summary": "VagabondAngel's Ymsidril, Blue Ymsidril, and Emerald Ymsidril Weapons and Armors all together.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60059/60059-1788138833-848398675.jpg",
+        "uid": "429496789659",
+        "updatedAt": "2026-09-03T17:31:18Z",
+        "fileIds": [
+          "1000069485",
+          "1000069690"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-31T00:02:56Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 60056,
+        "name": "Monk Claws (Resource)",
+        "status": "published",
+        "summary": "Panterath's Monk Claws with everything but the weapons removed.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60056/60056-1788134509-1374895650.png",
+        "uid": "429496789656",
+        "updatedAt": "2026-08-31T00:02:56Z",
+        "fileIds": [
+          "1000069482"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-23T19:43:14Z",
+        "fileSize": 38664,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 59952,
+        "name": "New Playable Races Simplified",
+        "status": "published",
+        "summary": "Adds full support for race-reactive dialogue for custom races. Now mods can add specific dialogue acknowledging your Khajiit sub-race directly - while dialogue intended for all Khajiit will still apply to you too.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59952/59952-1787513631-1164939549.jpg",
+        "uid": "429496789552",
+        "updatedAt": "2026-08-24T20:11:51Z",
+        "fileIds": [
+          "1000068856",
+          "1000069006"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-23T19:24:45Z",
+        "fileSize": 2331,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 59950,
+        "name": "Draugr Race",
+        "status": "published",
+        "summary": "Adds a Draugr Race created by Alexander and AnrohaNexus with edits by GrumblingVomit. Supports Bloodmoon, Anthology Solstheim, and Tomb of the Snow Prince.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59950/59950-1787512983-1894458688.jpg",
+        "uid": "429496789550",
+        "updatedAt": "2026-08-28T03:06:39Z",
+        "fileIds": [
+          "1000069256"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-23T19:11:03Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 59949,
+        "name": "Tamriel_Data Bloodmoon Berserkers",
+        "status": "published",
+        "summary": "Modifies Bloodmoon's Berserkers to use Tamriel Data heads, weapons, and armor. Works with Bloodmoon, Anthology Solstheim, and Tomb of the Snow Prince.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59949/59949-1787512192-1319556690.jpg",
+        "uid": "429496789549",
+        "updatedAt": "2026-08-23T19:11:03Z",
+        "fileIds": [
+          "1000068852"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-29T20:45:47Z",
@@ -25,9 +122,9 @@
         "summary": "Edits LegoManIAm94's Morrowind Qaja-kar to use vanilla variables so that other khajiit races can be used. Also corrects some typos and grammer, but maybe not everything has been fixed.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59721/59721-1785357799-1770388555.jpg",
         "uid": "429496789321",
-        "updatedAt": "2026-07-29T20:45:47Z",
+        "updatedAt": "2026-08-23T20:11:02Z",
         "fileIds": [
-          "1000067771"
+          "1000068870"
         ]
       },
       {
@@ -155,14 +252,14 @@
           "name": "Miscellaneous"
         },
         "modId": 58194,
-        "name": "The Mananaut's Message TD Helm",
+        "name": "The Mananaut's Message TD Set",
         "status": "published",
-        "summary": "ESP replacer to make the mananaut from The Mananaut's Message use the mananaut helm in Tamriel Data.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58194/58194-1770664550-1976055301.png",
+        "summary": "ESP replacer to make the mananaut from The Mananaut's Message use the mananaut set in Tamriel Data.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58194/58194-1787518383-350662487.jpg",
         "uid": "429496787794",
-        "updatedAt": "2026-02-09T19:19:16Z",
+        "updatedAt": "2026-08-23T20:52:52Z",
         "fileIds": [
-          "1000060596"
+          "1000068882"
         ]
       },
       {
@@ -297,10 +394,9 @@
         "summary": "Vampires beware! Vampire hunters are here to chase you down.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57367/57367-1756248153-1006509015.jpg",
         "uid": "429496786967",
-        "updatedAt": "2025-12-24T04:09:30Z",
+        "updatedAt": "2026-08-24T02:07:54Z",
         "fileIds": [
-          "1000056414",
-          "1000059461"
+          "1000068922"
         ]
       },
       {
@@ -391,12 +487,12 @@
         "modId": 56869,
         "name": "Cat-Catchers",
         "status": "published",
-        "summary": "Beast-races beware! Dunmer Cat-Catchers will pursue you around Morrowind for bounties of 100 gold or more. Deal with the Camonna Tong to halt their attacks.",
+        "summary": "Beast-races beware! Dunmer Cat-Catchers have a chance to attack you when sleeping in areas with a Camonna Tong presence. Deal with the Camonna Tong to halt their attacks.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56869/56869-1749168446-1503297210.jpeg",
         "uid": "429496786469",
-        "updatedAt": "2025-12-23T22:37:57Z",
+        "updatedAt": "2026-08-30T14:56:20Z",
         "fileIds": [
-          "1000059452"
+          "1000069452"
         ]
       },
       {
@@ -413,10 +509,11 @@
         "summary": "Adds textured land around Tamriel Rebuilt, making the map a filled rectangle. No more staring into the void.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56462/56462-1782412224-1186751097.png",
         "uid": "429496786062",
-        "updatedAt": "2026-07-12T02:49:16Z",
+        "updatedAt": "2026-08-23T21:38:18Z",
         "fileIds": [
-          "1000066981",
+          "1000068899",
           "1000066982",
+          "1000066981",
           "1000066189"
         ]
       },
@@ -473,8 +570,9 @@
         "summary": "Adds the cut female cuirass for the Toadscale armor.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56085/56085-1740448224-283968561.jpeg",
         "uid": "429496785685",
-        "updatedAt": "2025-05-02T15:52:22Z",
+        "updatedAt": "2026-08-23T21:08:11Z",
         "fileIds": [
+          "1000068889",
           "1000052364",
           "1000050724"
         ]
@@ -559,14 +657,12 @@
         "summary": "Distributes select Tamriel Data creatures, undead, and Daedra to lore-appropriate locations around Vvardenfell via both leveled-lists and hand-placement.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55628/55628-1734897849-837952697.jpeg",
         "uid": "429496785228",
-        "updatedAt": "2025-05-01T23:08:00Z",
+        "updatedAt": "2026-08-30T15:37:45Z",
         "fileIds": [
-          "1000052324",
-          "1000052325",
-          "1000052326",
-          "1000048944",
+          "1000069454",
           "1000051281",
-          "1000049486"
+          "1000049486",
+          "1000048944"
         ]
       },
       {
@@ -602,7 +698,14 @@
         "summary": "Adds Snow Elves as a playable race.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54843/54843-1720024912-1612979396.png",
         "uid": "429496784443",
-        "updatedAt": "2024-07-03T16:01:00Z"
+        "updatedAt": "2026-08-23T20:28:21Z",
+        "fileIds": [
+          "1000068874",
+          "1000045728",
+          "1000045679",
+          "1000045669",
+          "1000045665"
+        ]
       },
       {
         "adultContent": false,
@@ -684,14 +787,14 @@
           "name": "Modders Resources and Tutorials"
         },
         "modId": 54580,
-        "name": "Shade of the Revenant Altar",
+        "name": "Shade of the Revenant",
         "status": "published",
-        "summary": "A resource for the altar for creating black soul gems via the process in Oblivion + an optional plugins that distribute shrines and books to the world. Supports OpenMW and MWSE.",
+        "summary": "Create black soul gems via the process in Oblivion. Supports OpenMW and MWSE. Includes resource and distribution esps.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54580/54580-1777416004-549379552.jpg",
         "uid": "429496784180",
-        "updatedAt": "2026-04-29T16:54:29Z",
+        "updatedAt": "2026-08-27T02:41:52Z",
         "fileIds": [
-          "1000063229"
+          "1000069181"
         ]
       },
       {
@@ -724,7 +827,11 @@
         "summary": "Now the Morag Tong will hunt the player if certain conditions are met.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54524/54524-1714531349-40798599.jpeg",
         "uid": "429496784124",
-        "updatedAt": "2024-12-26T21:34:58Z"
+        "updatedAt": "2026-09-05T20:34:47Z",
+        "fileIds": [
+          "1000069804",
+          "1000044222"
+        ]
       },
       {
         "adultContent": false,
@@ -756,7 +863,10 @@
         "summary": "Turns Fenas Madach of Gnisis, Madach Tradehouse into a Reachman.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53670/53670-1698629810-264956598.jpeg",
         "uid": "429496783270",
-        "updatedAt": "2023-10-30T01:38:23Z"
+        "updatedAt": "2026-08-23T20:46:22Z",
+        "fileIds": [
+          "1000068881"
+        ]
       },
       {
         "adultContent": false,
@@ -968,10 +1078,17 @@
         "modId": 52527,
         "name": "Vanheim Moved and Fixed",
         "status": "published",
-        "summary": "Moves Vanheim for compatability with Tomb of the Snow Prince. Also cleans the mod some, undoes some changes to vanilla NPCs for compatability.",
+        "summary": "Moves Vanheim for compatability with Tomb of the Snow Prince/Anthology Solstheim. Also cleans the mod some, undoes some changes to vanilla NPCs for compatability.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52527/52527-1679437776-410322204.jpeg",
         "uid": "429496782127",
-        "updatedAt": "2024-08-25T23:19:39Z"
+        "updatedAt": "2026-08-25T01:52:16Z",
+        "fileIds": [
+          "1000069029",
+          "1000069030",
+          "1000046914",
+          "1000039183",
+          "1000036618"
+        ]
       },
       {
         "adultContent": false,
@@ -1268,23 +1385,25 @@
         "summary": "Fight in the arena and rise up the ranks. Over 140 unique fighters to fight. Can also watch and bet on fights between NPCs. Also adds voiced speeches and crowds to vanilla quest duels.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50954/50954-1705203002-1739922330.jpeg",
         "uid": "429496780554",
-        "updatedAt": "2025-06-10T15:57:39Z",
+        "updatedAt": "2026-09-04T23:10:41Z",
         "fileIds": [
           "1000054110",
-          "1000054130",
-          "1000054301",
+          "1000069762",
+          "1000069076",
           "1000054303",
-          "1000041994",
-          "1000030035",
-          "1000042071",
-          "1000041978",
+          "1000054301",
+          "1000054130",
+          "1000043642",
+          "1000043611",
+          "1000043329",
+          "1000043190",
           "1000042526",
           "1000042335",
-          "1000043642",
           "1000042129",
-          "1000043190",
-          "1000043329",
-          "1000043611"
+          "1000042071",
+          "1000041994",
+          "1000041978",
+          "1000030035"
         ]
       },
       {
@@ -1320,6 +1439,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 69
+    "totalCount": 74
   }
 }

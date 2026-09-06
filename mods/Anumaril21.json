@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-08-22T17:19:57.693Z",
+  "checkedAt": "2026-09-06T08:12:02.628Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19
+        "100": 20
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-23T18:20:01Z",
+        "fileSize": 132,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 59947,
+        "name": "The Waiting Doors",
+        "status": "published",
+        "summary": "Implements forgotten 'Waiting Door' shrines of Dunmeri tradition only ever referenced in books.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59947/59947-1787508228-750456990.png",
+        "uid": "429496789547",
+        "updatedAt": "2026-08-23T18:20:01Z",
+        "fileIds": [
+          "1000068846"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-26T16:26:53Z",
@@ -21,8 +40,9 @@
         "summary": "Curated compilation of 600+ unique, vanilla-friendly designs for unique vanilla objects",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58990/58990-1779754594-883737052.png",
         "uid": "429496788590",
-        "updatedAt": "2026-08-05T03:04:46Z",
+        "updatedAt": "2026-08-25T20:51:57Z",
         "fileIds": [
+          "1000069088",
           "1000068067",
           "1000064668",
           "1000064667"
@@ -347,6 +367,6 @@
         "updatedAt": "2024-08-21T16:48:31Z"
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }

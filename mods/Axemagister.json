@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-22T17:19:58.526Z",
+  "checkedAt": "2026-09-06T08:12:21.490Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 28
+        "100": 29
       }
     },
     "nodes": [
@@ -268,6 +268,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2021-05-08T15:21:03Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 49715,
+        "name": "Armor Rating",
+        "status": "published",
+        "summary": "More realistic and smoother formula for calculating armor rating",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49715/49715-1620487202-475950256.jpeg",
+        "uid": "429496779315",
+        "updatedAt": "2021-05-08T15:21:03Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2021-05-05T11:17:47Z",
         "fileSize": 3,
         "modCategory": {
@@ -479,6 +495,6 @@
         ]
       }
     ],
-    "totalCount": 28
+    "totalCount": 29
   }
 }

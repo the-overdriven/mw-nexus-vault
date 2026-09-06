@@ -1,12 +1,71 @@
 {
-  "checkedAt": "2026-08-22T17:20:37.425Z",
+  "checkedAt": "2026-09-06T08:13:18.684Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 49
+        "100": 52
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-25T02:56:35Z",
+        "fileSize": 42,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59981,
+        "name": "Sheogorath's Signet Ring Redone",
+        "status": "published",
+        "summary": "Replaces Sheogorath's Signet Ring with an actual Signet style ring.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59981/59981-1787626387-1685586551.png",
+        "uid": "429496789581",
+        "updatedAt": "2026-08-25T02:56:35Z",
+        "fileIds": [
+          "1000069035"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-25T02:15:56Z",
+        "fileSize": 4454,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 59978,
+        "name": "Mournhold'ier Indoril",
+        "status": "published",
+        "summary": "A palette swap of TR's Indoril tileset from brown, beige, and blue to a more Mournhold like white, grey, and green.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59978/59978-1787621289-509907279.png",
+        "uid": "429496789578",
+        "updatedAt": "2026-08-25T02:15:56Z",
+        "fileIds": [
+          "1000069031"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-24T01:38:20Z",
+        "fileSize": 15,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59962,
+        "name": "Fortune Tellers",
+        "status": "published",
+        "summary": "Adds three fortune tellers that will offer you their readings along with a small blessing once per day.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59962/59962-1787534735-911346015.png",
+        "uid": "429496789562",
+        "updatedAt": "2026-08-27T00:06:09Z",
+        "fileIds": [
+          "1000069178",
+          "1000069002",
+          "1000068916"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-17T05:26:37Z",
@@ -548,8 +607,13 @@
         "summary": "Adds glow maps to several Glass and Daedric mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53504/53504-1694656986-498508784.png",
         "uid": "429496783104",
-        "updatedAt": "2026-08-13T00:02:56Z",
+        "updatedAt": "2026-09-04T09:01:48Z",
         "fileIds": [
+          "1000069729",
+          "1000069728",
+          "1000069726",
+          "1000069725",
+          "1000069723",
           "1000068334",
           "1000068333",
           "1000068331",
@@ -561,33 +625,31 @@
           "1000062758",
           "1000061342",
           "1000059478",
-          "1000059371",
           "1000058930",
           "1000058892",
           "1000058290",
           "1000058289",
           "1000057671",
-          "1000057599",
           "1000057571",
           "1000057570",
           "1000057426",
           "1000055418",
           "1000055417",
           "1000055416",
-          "1000055415",
-          "1000055414",
-          "1000055412",
           "1000055410",
           "1000040234",
           "1000040169",
           "1000040168",
           "1000040165",
+          "1000059371",
           "1000058898",
           "1000057633",
+          "1000057599",
           "1000057429",
           "1000057428",
           "1000057427",
           "1000055413",
+          "1000055412",
           "1000055411",
           "1000040184",
           "1000040183",
@@ -1019,6 +1081,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 49
+    "totalCount": 52
   }
 }

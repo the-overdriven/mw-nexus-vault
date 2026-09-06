@@ -1,14 +1,97 @@
 {
-  "checkedAt": "2026-08-22T17:28:57.452Z",
+  "checkedAt": "2026-09-06T08:32:30.344Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 50,
+        "100": 54,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-30T09:03:58Z",
+        "fileSize": 39076,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60048,
+        "name": "Unique Tavern Signs for TR - Variation Framework Submod",
+        "status": "published",
+        "summary": "An ESP-less Variation Framework conversion of HouseOfRats’ Unique Tavern Signs for Tamriel Rebuilt. Restores unique signs to supported mainland taverns, updates for current TR, preserves current names and scripts, and works alongside",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60048/60048-1788073552-705085155.png",
+        "uid": "429496789648",
+        "updatedAt": "2026-08-30T09:03:58Z",
+        "fileIds": [
+          "1000069428",
+          "1000069427",
+          "1000069426",
+          "1000069430",
+          "1000069429",
+          "1000069431"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-30T06:11:24Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60047,
+        "name": "RFD's Improved Tribunal shrines - Variation Framework Submod",
+        "status": "published",
+        "summary": "A lightweight, assetless Variation Framework adapter for RedFurryDemon’s Improved Tribunal Shrine Meshes. Preserves shrine identities and scripted behavior through deterministic record routing and compact ESP replacers. Requires the",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60047/60047-1788067774-434965486.png",
+        "uid": "429496789647",
+        "updatedAt": "2026-08-30T06:11:24Z",
+        "fileIds": [
+          "1000069422"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-29T16:59:11Z",
+        "fileSize": 6253,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59933,
+        "name": "Unique Roadmarkers - Tyddy's Edition - Arkitektora of Vvardenfell",
+        "status": "published",
+        "summary": "Recreation of the mod \"Roadmarkers\" by ddfields. Tyddy's Edition. Available as a traditional ESP installer or a pluginless Variation Framework edition for OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59933/59933-1788019559-1201839632.png",
+        "uid": "429496789533",
+        "updatedAt": "2026-08-29T16:59:11Z",
+        "fileIds": [
+          "1000069387",
+          "1000069385"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-22T18:25:56Z",
+        "fileSize": 57315,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59930,
+        "name": "Unique Banners - Tyddy's Edition - Aestetika of Vvardenfell",
+        "status": "published",
+        "summary": "Recreation of the \"Unique Banners and Signs\" from Bart Notelaers. Tyddy's Edition",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59930/59930-1787422362-1345446755.png",
+        "uid": "429496789530",
+        "updatedAt": "2026-08-22T18:25:56Z",
+        "fileIds": [
+          "1000068781",
+          "1000068780"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-20T16:48:50Z",
@@ -101,9 +184,9 @@
         "summary": "Per-instance mesh variation, driven by YAML. Pluginless — no ESP, no load order, no patches. Give a mesh a set of alternatives and a rule for where they appear, and every object using that mesh picks its own. Two bushes, two crates, or two",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59795/59795-1786028681-1868922997.png",
         "uid": "429496789395",
-        "updatedAt": "2026-08-22T16:10:43Z",
+        "updatedAt": "2026-08-30T03:33:53Z",
         "fileIds": [
-          "1000068766"
+          "1000069418"
         ]
       },
       {
@@ -883,6 +966,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 50
+    "totalCount": 54
   }
 }

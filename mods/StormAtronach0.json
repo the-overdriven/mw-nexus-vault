@@ -1,12 +1,55 @@
 {
-  "checkedAt": "2026-08-22T17:28:46.332Z",
+  "checkedAt": "2026-09-06T08:30:59.172Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19
+        "100": 21
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-30T08:01:13Z",
+        "fileSize": 9234,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60049,
+        "name": "Inscribed Enchants",
+        "status": "published",
+        "summary": "Glowing daedric runes (or lines!) for your enchanted bling! <MWSE only>",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60049/60049-1788076826-1166170946.jpg",
+        "uid": "429496789649",
+        "updatedAt": "2026-08-30T08:01:13Z",
+        "fileIds": [
+          "1000069432"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-27T18:02:08Z",
+        "fileSize": 865,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60007,
+        "name": "Storm's Performance Fixes",
+        "status": "published",
+        "summary": "Repository for performance fixes",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60007/60007-1787852589-1981121854.jpg",
+        "uid": "429496789607",
+        "updatedAt": "2026-08-28T06:15:13Z",
+        "fileIds": [
+          "1000069266",
+          "1000069265",
+          "1000069264",
+          "1000069235",
+          "1000069234",
+          "1000069233"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-10T19:08:44Z",
@@ -413,6 +456,6 @@
         ]
       }
     ],
-    "totalCount": 19
+    "totalCount": 21
   }
 }

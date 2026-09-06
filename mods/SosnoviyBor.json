@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-08-22T17:27:14.762Z",
+  "checkedAt": "2026-09-06T08:29:54.697Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 42
+        "100": 43
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-25T09:01:19Z",
+        "fileSize": 19,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 59968,
+        "name": "Inventory Camera (OpenMW)",
+        "status": "published",
+        "summary": "Open your inventory with style!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59968/59968-1787648313-2033872404.png",
+        "uid": "429496789568",
+        "updatedAt": "2026-09-02T10:58:01Z",
+        "fileIds": [
+          "1000069614"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-19T09:57:59Z",
@@ -468,9 +487,9 @@
         "summary": "Makes arrows stick into terrain and objects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58299/58299-1772200789-920824304.png",
         "uid": "429496787899",
-        "updatedAt": "2026-08-11T09:02:04Z",
+        "updatedAt": "2026-08-28T12:27:28Z",
         "fileIds": [
-          "1000068281"
+          "1000069297"
         ]
       },
       {
@@ -487,9 +506,9 @@
         "summary": "Legendary mod made compatible and expandable. Now even with custom animations!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58294/58294-1772144076-1796699989.png",
         "uid": "429496787894",
-        "updatedAt": "2026-05-06T10:16:28Z",
+        "updatedAt": "2026-08-24T07:54:19Z",
         "fileIds": [
-          "1000063691"
+          "1000068949"
         ]
       },
       {
@@ -715,9 +734,9 @@
         "summary": "Book ownership actually matters now. Paid books need to be bought. Strangers won't let you browse their shelves for free.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57441/57441-1763748886-473564824.jpg",
         "uid": "429496787041",
-        "updatedAt": "2026-07-23T15:41:03Z",
+        "updatedAt": "2026-08-28T07:21:12Z",
         "fileIds": [
-          "1000067412"
+          "1000069273"
         ]
       },
       {
@@ -847,6 +866,6 @@
         ]
       }
     ],
-    "totalCount": 42
+    "totalCount": 43
   }
 }

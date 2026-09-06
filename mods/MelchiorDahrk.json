@@ -1,12 +1,39 @@
 {
-  "checkedAt": "2026-08-22T17:24:51.251Z",
+  "checkedAt": "2026-09-06T08:24:45.855Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 104
+        "100": 105
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-24T01:15:46Z",
+        "fileSize": 26,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 59961,
+        "name": "Mortal Ties - Yesamsi Overhaul",
+        "status": "published",
+        "summary": "Alternate version of the vanilla vampire quest: Blood Ties.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59961/59961-1787533951-1117249799.png",
+        "uid": "429496789561",
+        "updatedAt": "2026-08-30T13:45:47Z",
+        "fileIds": [
+          "1000069446",
+          "1000069092",
+          "1000069038",
+          "1000069021",
+          "1000069013",
+          "1000068975",
+          "1000068932",
+          "1000068927",
+          "1000068914"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-03-15T16:54:09Z",
@@ -468,8 +495,9 @@
         "summary": "Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of light.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50538/50538-1639865694-925651726.gif",
         "uid": "429496780138",
-        "updatedAt": "2026-05-31T23:16:25Z",
+        "updatedAt": "2026-08-30T14:06:41Z",
         "fileIds": [
+          "1000069448",
           "1000065051",
           "1000034860",
           "1000031699",
@@ -1344,7 +1372,12 @@
         "summary": "Adds a Better Bodies compatible lich robe with male and female versions which is based on the lich creature's outfit from Tribunal.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/44680-2-1483247411.jpg",
         "uid": "429496774280",
-        "updatedAt": "2017-01-02T04:25:23Z"
+        "updatedAt": "2026-08-27T01:08:49Z",
+        "fileIds": [
+          "1000069180",
+          "1000007108",
+          "1000007103"
+        ]
       },
       {
         "adultContent": false,
@@ -1529,24 +1562,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43634-2-1432530787.jpg",
         "uid": "429496773234",
         "updatedAt": "2015-05-28T00:54:21Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2015-03-15T07:11:29Z",
-        "fileSize": 524,
-        "modCategory": {
-          "categoryId": 8,
-          "name": "Miscellaneous"
-        },
-        "modId": 43528,
-        "name": "Dahrk Mods by Melchior",
-        "status": "published",
-        "summary": "An assortment of small mods, tweaks, fixes, and resources.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43528/43528-1555984561-373058432.png",
-        "uid": "429496773128",
-        "updatedAt": "2022-08-24T15:10:52Z"
       }
     ],
-    "totalCount": 104
+    "totalCount": 105
   }
 }

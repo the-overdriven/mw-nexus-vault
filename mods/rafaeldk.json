@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T17:25:48.905Z",
+  "checkedAt": "2026-09-06T08:28:10.725Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -38,16 +38,20 @@
         "name": "Rafael's Shader Pack",
         "status": "published",
         "summary": "Optimized postprocess shader pack for OpenMW, making it look better than ever before while still being very Vanilla-friendly",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53667/53667-1775221726-953247892.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53667/53667-1787588794-2019004775.png",
         "uid": "429496783267",
-        "updatedAt": "2026-08-21T14:50:37Z",
+        "updatedAt": "2026-08-29T19:03:39Z",
         "fileIds": [
-          "1000068311",
-          "1000068310",
-          "1000062309",
+          "1000069399",
+          "1000068987",
+          "1000069306",
           "1000061820",
           "1000059202",
-          "1000068713",
+          "1000069003",
+          "1000068986",
+          "1000068984",
+          "1000068311",
+          "1000068310",
           "1000063190",
           "1000063188",
           "1000062985",
@@ -55,6 +59,7 @@
           "1000062535",
           "1000062533",
           "1000062530",
+          "1000062309",
           "1000062308",
           "1000062307",
           "1000062306",

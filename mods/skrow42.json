@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T17:27:14.288Z",
+  "checkedAt": "2026-09-06T08:29:27.089Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -103,11 +103,22 @@
         "modId": 58653,
         "name": "Oblivion Style Spellcasting Quickcasting OSSC ( OpenMW )",
         "status": "published",
-        "summary": "Cast spells in weapon stance just like in Oblivion, no more need to switch to spell stance. 1st and 3rd person animations!",
+        "summary": "Cast spells in weapon stance just like in Oblivion, no more need to switch to spell stance. 1st and 3rd person animations! Now also NPCs and Creatures included!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58653/58653-1776021677-86431281.png",
         "uid": "429496788253",
-        "updatedAt": "2026-07-25T22:47:15Z",
+        "updatedAt": "2026-09-01T21:04:18Z",
         "fileIds": [
+          "1000069591",
+          "1000069536",
+          "1000069369",
+          "1000069212",
+          "1000069168",
+          "1000069022",
+          "1000069016",
+          "1000069005",
+          "1000068973",
+          "1000068886",
+          "1000068795",
           "1000067555",
           "1000065851",
           "1000065817",
@@ -145,8 +156,11 @@
         "summary": "OpenMW gap of custom spells has been closed. Generate custom spells as you wish with using this interface. Modders resource. Uses OpenMW Spell Api as a base.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58652/58652-1776549126-1686151643.png",
         "uid": "429496788252",
-        "updatedAt": "2026-07-25T22:43:41Z",
+        "updatedAt": "2026-09-01T21:01:26Z",
         "fileIds": [
+          "1000069590",
+          "1000069004",
+          "1000068791",
           "1000067553",
           "1000065818",
           "1000064746",
@@ -210,8 +224,10 @@
         "summary": "FULL GAMEPAD - KEYBOARD - MOUSE SUPPORT Ultimate Quick Select for OpenMW. Boost your QuickSelect into year 2030",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57590/57590-1759950116-1327829749.png",
         "uid": "429496787190",
-        "updatedAt": "2026-04-01T16:47:23Z",
+        "updatedAt": "2026-08-29T10:03:23Z",
         "fileIds": [
+          "1000069370",
+          "1000068841",
           "1000062246",
           "1000062230",
           "1000062209",

@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-08-22T17:25:21.847Z",
+  "checkedAt": "2026-09-06T08:27:24.613Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 9
+        "100": 10
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-23T20:29:43Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 13,
+          "name": "Quests and Adventures"
+        },
+        "modId": 59951,
+        "name": "Family Ties - A Modjam 2026 Mod",
+        "status": "published",
+        "summary": "In Necrom a shady looking dunmer wants you to travel with him to a nearby cave. Certainly nothing can go wrong.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59951/59951-1787515384-1196447023.png",
+        "uid": "429496789551",
+        "updatedAt": "2026-08-24T22:51:49Z",
+        "fileIds": [
+          "1000069024"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-01T09:08:42Z",
@@ -37,9 +56,9 @@
         "summary": "Compatibility patches for various mods to work with AATL_Data and AATL_Main.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55361/55361-1729415573-746748503.jpeg",
         "uid": "429496784961",
-        "updatedAt": "2026-08-21T23:14:23Z",
+        "updatedAt": "2026-08-25T04:30:13Z",
         "fileIds": [
-          "1000068734"
+          "1000069048"
         ]
       },
       {
@@ -56,9 +75,10 @@
         "summary": "Main page for AATL-Based Mods by the AATL Team.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54147/54147-1729303003-371747853.png",
         "uid": "429496783747",
-        "updatedAt": "2026-08-21T22:51:15Z",
+        "updatedAt": "2026-08-27T03:28:32Z",
         "fileIds": [
-          "1000068733",
+          "1000069045",
+          "1000069191",
           "1000047755"
         ]
       },
@@ -76,9 +96,9 @@
         "summary": "Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51107/51107-1651570661-441698538.png",
         "uid": "429496780707",
-        "updatedAt": "2026-05-21T10:56:06Z",
+        "updatedAt": "2026-08-30T14:09:25Z",
         "fileIds": [
-          "1000064399"
+          "1000069449"
         ]
       },
       {
@@ -95,10 +115,10 @@
         "summary": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind's artifacts list, while adding more quests, items, and artifacts that",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50647/50647-1651369402-417593957.png",
         "uid": "429496780247",
-        "updatedAt": "2026-08-21T23:29:59Z",
+        "updatedAt": "2026-08-25T04:12:40Z",
         "fileIds": [
-          "1000068737",
-          "1000068731",
+          "1000069047",
+          "1000069046",
           "1000068458"
         ]
       },
@@ -196,6 +216,6 @@
         ]
       }
     ],
-    "totalCount": 9
+    "totalCount": 10
   }
 }

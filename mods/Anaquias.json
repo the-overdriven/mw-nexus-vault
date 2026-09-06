@@ -1,12 +1,33 @@
 {
-  "checkedAt": "2026-08-22T17:19:48.395Z",
+  "checkedAt": "2026-09-06T08:11:53.389Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 2
+        "100": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-28T15:49:44Z",
+        "fileSize": 52,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60025,
+        "name": "Full Edit Journal (OpenMW)",
+        "status": "published",
+        "summary": "An editable, searchable journal for OpenMW with custom entries, date markers, topic links, and reversible edits that leave Morrowind’s original journal untouched.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60025/60025-1787932023-355909201.jpg",
+        "uid": "429496789625",
+        "updatedAt": "2026-09-03T15:55:43Z",
+        "fileIds": [
+          "1000069674",
+          "1000069346",
+          "1000069316"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-15T16:18:58Z",
@@ -46,6 +67,6 @@
         ]
       }
     ],
-    "totalCount": 2
+    "totalCount": 3
   }
 }

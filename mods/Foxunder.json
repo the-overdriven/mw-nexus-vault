@@ -1,12 +1,99 @@
 {
-  "checkedAt": "2026-08-22T17:22:10.844Z",
+  "checkedAt": "2026-09-06T08:16:20.155Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 38
+        "100": 42
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-05T13:49:08Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60112,
+        "name": "(OpenMW) House Wars",
+        "status": "published",
+        "summary": "Once you've built the first stage of your stronghold, other Great Houses start issuing Morag Tong writs. There're multiple ways to stop them.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60112/60112-1788615007-487321504.png",
+        "uid": "429496789712",
+        "updatedAt": "2026-09-05T20:32:35Z",
+        "fileIds": [
+          "1000069803",
+          "1000069790",
+          "1000069787"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-02T10:17:14Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60076,
+        "name": "(OpenMW) Dynamic POV Switch",
+        "status": "published",
+        "summary": "Gracefully switches POV from 3rd to 1st during fights",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60076/60076-1788343665-1158010826.png",
+        "uid": "429496789676",
+        "updatedAt": "2026-09-02T10:17:14Z",
+        "fileIds": [
+          "1000069610"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-31T18:35:48Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60065,
+        "name": "(OpenMW) Protective Guards - Factions Addon",
+        "status": "published",
+        "summary": "An addon for PG 2.0+ that follows edits made by lelimule",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60065/60065-1788201279-296705981.png",
+        "uid": "429496789665",
+        "updatedAt": "2026-09-05T18:02:02Z",
+        "fileIds": [
+          "1000069796",
+          "1000069532"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-25T18:39:25Z",
+        "fileSize": 2581,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59990,
+        "name": "(OpenMW) Gothic Style Bystanders",
+        "status": "published",
+        "summary": "Actors now watch your fights, comment on them, and keep their distance (highly configurable)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59990/59990-1787682983-746379143.png",
+        "uid": "429496789590",
+        "updatedAt": "2026-09-01T15:35:28Z",
+        "fileIds": [
+          "1000069579",
+          "1000069534",
+          "1000069479",
+          "1000069332",
+          "1000069290",
+          "1000069229",
+          "1000069217",
+          "1000069118",
+          "1000069077"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-20T13:54:34Z",
@@ -21,18 +108,24 @@
         "summary": "Fixed meshes for Better Bodies 3.2, Robert's Bodies, Better Morrowind Armor, Better Clothes Definitive Edition, Better Robes, Better Beasts by Liztail",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59908/59908-1787233720-1745301198.png",
         "uid": "429496789508",
-        "updatedAt": "2026-08-21T14:48:21Z",
+        "updatedAt": "2026-09-04T00:46:09Z",
         "fileIds": [
+          "1000069713",
+          "1000068807",
+          "1000068806",
+          "1000068805",
+          "1000068804",
+          "1000068803",
+          "1000068673",
+          "1000068645",
+          "1000068643",
           "1000068712",
           "1000068711",
           "1000068710",
-          "1000068674",
-          "1000068673",
-          "1000068645",
-          "1000068644",
-          "1000068643",
           "1000068675",
-          "1000068646"
+          "1000068674",
+          "1000068646",
+          "1000068644"
         ]
       },
       {
@@ -49,8 +142,11 @@
         "summary": "A custom shader for OpenMW 0.51 that makes raindrops appear on your screen when it rains or you're in the water (configurable).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59903/59903-1787141554-1127972267.png",
         "uid": "429496789503",
-        "updatedAt": "2026-08-20T18:28:16Z",
+        "updatedAt": "2026-09-01T17:15:52Z",
         "fileIds": [
+          "1000069582",
+          "1000068825",
+          "1000068796",
           "1000068666",
           "1000068634",
           "1000068625",
@@ -115,8 +211,9 @@
         "summary": "Now NPCs can unlock locked doors to fight you even if they don't have keys.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59652/59652-1784667513-543879199.png",
         "uid": "429496789252",
-        "updatedAt": "2026-08-04T17:13:00Z",
+        "updatedAt": "2026-08-26T22:04:52Z",
         "fileIds": [
+          "1000069171",
           "1000068045",
           "1000067361",
           "1000067329"
@@ -136,8 +233,11 @@
         "summary": "Covers voice lines that are not added by Kezyma's Voices of Vvardenfell.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59648/59648-1784549222-2056167161.png",
         "uid": "429496789248",
-        "updatedAt": "2026-08-16T12:51:08Z",
+        "updatedAt": "2026-09-04T22:46:00Z",
         "fileIds": [
+          "1000069712",
+          "1000069707",
+          "1000069760",
           "1000068471",
           "1000068469",
           "1000067795",
@@ -159,8 +259,9 @@
         "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
         "uid": "429496788950",
-        "updatedAt": "2026-08-17T13:02:06Z",
+        "updatedAt": "2026-08-22T17:47:21Z",
         "fileIds": [
+          "1000068777",
           "1000068536",
           "1000068387",
           "1000067427",
@@ -280,8 +381,10 @@
         "summary": "Now you can tame beasts to serve you and pet them. They even level up along with you!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59054/59054-1779491224-1866703170.png",
         "uid": "429496788654",
-        "updatedAt": "2026-08-02T18:28:35Z",
+        "updatedAt": "2026-08-24T17:38:28Z",
         "fileIds": [
+          "1000068995",
+          "1000068811",
           "1000067952",
           "1000066582",
           "1000066576",
@@ -304,8 +407,9 @@
         "summary": "Stepping on Dunmeri ashpits has consequences.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58985/58985-1778756070-1112304311.png",
         "uid": "429496788585",
-        "updatedAt": "2026-07-01T19:48:28Z",
+        "updatedAt": "2026-08-22T21:27:23Z",
         "fileIds": [
+          "1000068802",
           "1000066471",
           "1000065578"
         ]
@@ -365,22 +469,25 @@
         "summary": "A few changes to the original mod, more mods are supported.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58753/58753-1777203840-230426865.jpg",
         "uid": "429496788353",
-        "updatedAt": "2026-08-21T17:46:55Z",
+        "updatedAt": "2026-08-26T21:01:07Z",
         "fileIds": [
-          "1000065451",
+          "1000069162",
           "1000063063",
+          "1000069164",
+          "1000069163",
           "1000068723",
           "1000065453",
-          "1000065452",
           "1000065450",
           "1000065449",
           "1000065448",
           "1000065447",
-          "1000065439",
           "1000063260",
           "1000063214",
           "1000063109",
           "1000063103",
+          "1000065452",
+          "1000065451",
+          "1000065439",
           "1000064196"
         ]
       },
@@ -398,8 +505,9 @@
         "summary": "Put undead creatures to rest with the utmost efficiency.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58722/58722-1776793597-476684591.png",
         "uid": "429496788322",
-        "updatedAt": "2026-05-07T13:36:31Z",
+        "updatedAt": "2026-08-22T21:53:11Z",
         "fileIds": [
+          "1000068808",
           "1000063755",
           "1000062890"
         ]
@@ -418,8 +526,11 @@
         "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
         "uid": "429496788235",
-        "updatedAt": "2026-08-16T02:15:08Z",
+        "updatedAt": "2026-09-01T13:51:36Z",
         "fileIds": [
+          "1000069571",
+          "1000069467",
+          "1000068810",
           "1000068449",
           "1000067642",
           "1000067214",
@@ -444,8 +555,10 @@
         "summary": "Now you can knock out NPCs instead of killing them. And they can do the same to you. Oh, and NPCs drop their weapons when they're knocked out. They also loot you while you're out cold. Only works with melee weapons that deal no magical",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58576/58576-1775237031-1951919046.png",
         "uid": "429496788176",
-        "updatedAt": "2026-08-08T03:03:49Z",
+        "updatedAt": "2026-08-28T20:28:10Z",
         "fileIds": [
+          "1000069339",
+          "1000068779",
           "1000068178",
           "1000068102",
           "1000067932",
@@ -466,10 +579,11 @@
         "summary": "Guards tolerate night loitering no more. You will be escorted to the nearest inn or tavern if a guard finds you suspicious (low disposition or you don't carry a light source in your hand).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58553/58553-1774974245-1585727584.png",
         "uid": "429496788153",
-        "updatedAt": "2026-08-09T18:44:25Z",
+        "updatedAt": "2026-08-22T18:43:55Z",
         "fileIds": [
-          "1000068235",
+          "1000068785",
           "1000062561",
+          "1000068235",
           "1000068098",
           "1000065974",
           "1000064591"
@@ -580,11 +694,12 @@
         "summary": "Now you can disarm your enemies. The downside? They can do the same to you.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58430/58430-1773489709-18416247.png",
         "uid": "429496788030",
-        "updatedAt": "2026-05-14T15:56:20Z",
+        "updatedAt": "2026-08-22T19:44:18Z",
         "fileIds": [
-          "1000064088",
+          "1000068787",
           "1000061697",
           "1000061614",
+          "1000064088",
           "1000062969"
         ]
       },
@@ -602,8 +717,9 @@
         "summary": "NPCs can be lured away by you dropping items or shooting arrows. NPCs can pick up your dropped stuff. NPCs can report your illegal goods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58414/58414-1773253210-69949728.png",
         "uid": "429496788014",
-        "updatedAt": "2026-08-10T23:15:46Z",
+        "updatedAt": "2026-08-22T18:30:32Z",
         "fileIds": [
+          "1000068783",
           "1000068267",
           "1000067625",
           "1000066833",
@@ -644,8 +760,9 @@
         "summary": "Guards in Morrowind's vaults finally mean business. Trespass without the rank, and you'll have seconds to run before they attack you.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58405/58405-1773135011-606723750.png",
         "uid": "429496788005",
-        "updatedAt": "2026-08-09T19:50:14Z",
+        "updatedAt": "2026-08-22T21:14:38Z",
         "fileIds": [
+          "1000068801",
           "1000068237",
           "1000067592",
           "1000064892"
@@ -703,8 +820,9 @@
         "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff by drawing your blade, and they might attack you or apologise and return it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58362/58362-1772800912-318348143.png",
         "uid": "429496787962",
-        "updatedAt": "2026-08-09T13:29:22Z",
+        "updatedAt": "2026-08-22T22:20:03Z",
         "fileIds": [
+          "1000068809",
           "1000068226",
           "1000063587",
           "1000063240"
@@ -764,8 +882,9 @@
         "summary": "A gameplay mod for OpenMW 0.49+ that makes healing a meaningful decision rather than a free resource.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58337/58337-1772564508-2011377830.png",
         "uid": "429496787937",
-        "updatedAt": "2026-06-11T15:42:56Z",
+        "updatedAt": "2026-08-23T12:41:56Z",
         "fileIds": [
+          "1000068828",
           "1000065585",
           "1000063643",
           "1000061409"
@@ -827,11 +946,13 @@
         "summary": "It's a collection of various bugfixes and small mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58227/58227-1771107954-1705217364.png",
         "uid": "429496787827",
-        "updatedAt": "2026-08-10T14:04:20Z",
+        "updatedAt": "2026-08-29T19:14:40Z",
         "fileIds": [
+          "1000069400",
+          "1000068829",
+          "1000068782",
           "1000068254",
           "1000067096",
-          "1000066572",
           "1000065732",
           "1000065607",
           "1000063135",
@@ -840,13 +961,14 @@
           "1000062390",
           "1000061883",
           "1000061848",
-          "1000061418",
           "1000061318",
           "1000061086",
           "1000060725",
           "1000067035",
           "1000067034",
-          "1000067033"
+          "1000067033",
+          "1000066572",
+          "1000061418"
         ]
       },
       {
@@ -870,6 +992,6 @@
         ]
       }
     ],
-    "totalCount": 38
+    "totalCount": 42
   }
 }

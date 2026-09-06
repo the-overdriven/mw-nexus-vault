@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-08-22T17:26:54.902Z",
+  "checkedAt": "2026-09-06T08:29:08.447Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 33
+        "100": 34
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-26T18:51:04Z",
+        "fileSize": 22,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 59998,
+        "name": "DLL Injector (OpenMW)",
+        "status": "published",
+        "summary": "A sort of script extender that will detect .dll files in a folder and load them without limits to the amount and without compatibility problems.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59998/59998-1787769757-2043770646.png",
+        "uid": "429496789598",
+        "updatedAt": "2026-08-26T18:53:56Z",
+        "fileIds": [
+          "1000069140",
+          "1000069142"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-06-02T00:54:32Z",
@@ -672,6 +692,6 @@
         ]
       }
     ],
-    "totalCount": 33
+    "totalCount": 34
   }
 }

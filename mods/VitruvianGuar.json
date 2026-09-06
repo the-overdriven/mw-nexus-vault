@@ -1,13 +1,52 @@
 {
-  "checkedAt": "2026-08-22T17:29:34.594Z",
+  "checkedAt": "2026-09-06T08:33:33.882Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24,
+        "100": 26,
         "3474": 16
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-01T12:39:14Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60068,
+        "name": "Sneaky Strike (OpenMW)",
+        "status": "published",
+        "summary": "OpenMW-lua mod which modifies critical strike coefficient depending on the weapon you use and exposes critical strike information for modders.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60068/60068-1788264628-464931730.png",
+        "uid": "429496789668",
+        "updatedAt": "2026-09-01T13:39:54Z",
+        "fileIds": [
+          "1000069569",
+          "1000069568"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-08-30T08:09:52Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 59915,
+        "name": "Patient Defense - Active Evasion for OpenMW",
+        "status": "published",
+        "summary": "OpenMW-lua mod adding mechanics of active evasion, based on Agility, Speed and Armor skills. Just move back or to the side when the attack is about to hit you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59915/59915-1788021483-1929268020.png",
+        "uid": "429496789515",
+        "updatedAt": "2026-08-30T08:09:52Z",
+        "fileIds": [
+          "1000069433"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-16T10:56:45Z",
@@ -42,8 +81,10 @@
         "summary": "Adds an underground market, run by Camonna Tong, to Balmora's sewers. With several new quests and a dozen integrations with already existent ones.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53833/53833-1784864486-1637539854.png",
         "uid": "429496783433",
-        "updatedAt": "2026-07-30T16:38:52Z",
+        "updatedAt": "2026-08-28T17:43:19Z",
         "fileIds": [
+          "1000069328",
+          "1000068989",
           "1000067817",
           "1000067570",
           "1000055585"
@@ -127,7 +168,11 @@
         "summary": "Overhaul of Morag Tong assassination quests, making them more interesting via non-linear gameplay, more challanges and opportunities and motivating the usage of relevant skills",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52759/52759-1682928372-1114426008.png",
         "uid": "429496782359",
-        "updatedAt": "2023-05-01T09:56:13Z"
+        "updatedAt": "2026-08-25T03:36:06Z",
+        "fileIds": [
+          "1000069044",
+          "1000037557"
+        ]
       },
       {
         "adultContent": false,
@@ -175,11 +220,14 @@
         "summary": "Emergent Gameplay and Visual Storytelling oriented overhaul of Balmora, improving upon the content from the best Balmora mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51571/51571-1700592749-1769837928.png",
         "uid": "429496781171",
-        "updatedAt": "2026-07-30T12:07:13Z",
+        "updatedAt": "2026-08-30T06:27:41Z",
         "fileIds": [
-          "1000067790",
+          "1000069423",
           "1000041217",
           "1000041194",
+          "1000069327",
+          "1000068982",
+          "1000067790",
           "1000041193",
           "1000041185",
           "1000041123",
@@ -414,6 +462,6 @@
         "updatedAt": "2020-11-05T06:42:10Z"
       }
     ],
-    "totalCount": 24
+    "totalCount": 26
   }
 }

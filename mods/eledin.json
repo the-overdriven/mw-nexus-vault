@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-08-22T17:22:00.744Z",
+  "checkedAt": "2026-09-06T08:15:33.708Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 28,
+        "100": 29,
         "181": 1,
         "430": 1,
         "437": 1,
@@ -14,6 +14,31 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-02T19:38:19Z",
+        "fileSize": 184533,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60079,
+        "name": "Indoril Architecture Reimagined",
+        "status": "published",
+        "summary": "2K PBR texture replacement for Indoril and Old Mournhold Architecture",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60079/60079-1788373642-1028888828.png",
+        "uid": "429496789679",
+        "updatedAt": "2026-09-05T14:15:08Z",
+        "fileIds": [
+          "1000069630",
+          "1000069789",
+          "1000069788",
+          "1000069661",
+          "1000069660",
+          "1000069631",
+          "1000069663"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-13T19:28:06Z",
@@ -338,8 +363,10 @@
         "summary": "A more down-to-hearth Indoril/Mournhold texture replacement",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56300/56300-1743780059-1690984064.png",
         "uid": "429496785900",
-        "updatedAt": "2025-04-06T09:02:48Z",
+        "updatedAt": "2026-08-26T15:57:38Z",
         "fileIds": [
+          "1000069135",
+          "1000069134",
           "1000051752"
         ]
       },
@@ -636,6 +663,6 @@
         ]
       }
     ],
-    "totalCount": 28
+    "totalCount": 29
   }
 }
