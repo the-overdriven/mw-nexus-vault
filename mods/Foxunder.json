@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-09-06T08:16:20.155Z",
+  "checkedAt": "2026-09-07T22:02:16.733Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 42
+        "100": 43
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-07T12:32:04Z",
+        "fileSize": 222,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60141,
+        "name": "(OpenMW) Watch Your Step",
+        "status": "published",
+        "summary": "NPCs flinch and complain when you run into them.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60141/60141-1788784058-863534416.png",
+        "uid": "429496789741",
+        "updatedAt": "2026-09-07T16:57:32Z",
+        "fileIds": [
+          "1000069912",
+          "1000069903"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-05T13:49:08Z",
@@ -259,8 +279,9 @@
         "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
         "uid": "429496788950",
-        "updatedAt": "2026-08-22T17:47:21Z",
+        "updatedAt": "2026-09-06T12:36:15Z",
         "fileIds": [
+          "1000069833",
           "1000068777",
           "1000068536",
           "1000068387",
@@ -358,8 +379,9 @@
         "summary": "Plays an animation when you drink or eat something or NPCs drink potions. Special animations for Telvanni Bug Musk, moon sugar + skooma pipes, hackle-lo/tanna + smoking pipes, and cigars.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59069/59069-1779626750-1728400660.png",
         "uid": "429496788669",
-        "updatedAt": "2026-08-21T21:56:26Z",
+        "updatedAt": "2026-09-07T01:48:57Z",
         "fileIds": [
+          "1000069878",
           "1000068732",
           "1000068686",
           "1000068662",
@@ -820,8 +842,9 @@
         "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff by drawing your blade, and they might attack you or apologise and return it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58362/58362-1772800912-318348143.png",
         "uid": "429496787962",
-        "updatedAt": "2026-08-22T22:20:03Z",
+        "updatedAt": "2026-09-06T09:31:05Z",
         "fileIds": [
+          "1000069825",
           "1000068809",
           "1000068226",
           "1000063587",
@@ -992,6 +1015,6 @@
         ]
       }
     ],
-    "totalCount": 42
+    "totalCount": 43
   }
 }

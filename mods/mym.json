@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-06T08:25:32.303Z",
+  "checkedAt": "2026-09-07T22:03:19.160Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,8 +21,9 @@
         "summary": "This mod attempts to rebalance the magic system in Morrowind. This includes spell effects, stock spells, enchantments and potions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58560/58560-1775037720-1305163994.png",
         "uid": "429496788160",
-        "updatedAt": "2026-08-28T08:52:27Z",
+        "updatedAt": "2026-09-07T11:08:08Z",
         "fileIds": [
+          "1000069898",
           "1000069283",
           "1000067751",
           "1000066396",
@@ -75,8 +76,9 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-09-05T09:39:51Z",
+        "updatedAt": "2026-09-07T08:50:40Z",
         "fileIds": [
+          "1000069894",
           "1000069773",
           "1000069657",
           "1000069618",

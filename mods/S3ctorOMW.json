@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-09-06T08:28:40.279Z",
+  "checkedAt": "2026-09-07T22:03:41.872Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19,
+        "100": 20,
         "101": 1,
         "120": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-06T10:09:25Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60124,
+        "name": "PCallManager",
+        "status": "published",
+        "summary": "Enterprise-Grade Protected Execution Framework for OpenMW Lua",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60124/60124-1788689285-989698058.png",
+        "uid": "429496789724",
+        "updatedAt": "2026-09-06T10:09:25Z",
+        "fileIds": [
+          "1000069826"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-23T21:18:17Z",
@@ -413,6 +432,6 @@
         ]
       }
     ],
-    "totalCount": 19
+    "totalCount": 20
   }
 }
