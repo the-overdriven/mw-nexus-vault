@@ -1,12 +1,52 @@
 {
-  "checkedAt": "2026-09-07T22:02:16.733Z",
+  "checkedAt": "2026-09-09T23:10:13.799Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 43
+        "100": 45
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-09T15:43:22Z",
+        "fileSize": 775,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60161,
+        "name": "(OpenMW) Pious NPCs",
+        "status": "published",
+        "summary": "NPCs inside temples, shrines, and chapels can pray now",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60161/60161-1788968368-1753018599.png",
+        "uid": "429496789761",
+        "updatedAt": "2026-09-09T15:43:22Z",
+        "fileIds": [
+          "1000070023"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-08T11:11:34Z",
+        "fileSize": 798,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60148,
+        "name": "(OpenMW) Blood On Screen",
+        "status": "published",
+        "summary": "A custom shader for OpenMW which makes blood appear on your screen when you take damage. Optional heavy breathing when badly hurt is included",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60148/60148-1788865805-939714589.png",
+        "uid": "429496789748",
+        "updatedAt": "2026-09-09T10:39:32Z",
+        "fileIds": [
+          "1000070001",
+          "1000069964",
+          "1000069972"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-07T12:32:04Z",
@@ -21,8 +61,9 @@
         "summary": "NPCs flinch and complain when you run into them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60141/60141-1788784058-863534416.png",
         "uid": "429496789741",
-        "updatedAt": "2026-09-07T16:57:32Z",
+        "updatedAt": "2026-09-08T09:58:54Z",
         "fileIds": [
+          "1000069944",
           "1000069912",
           "1000069903"
         ]
@@ -101,8 +142,9 @@
         "summary": "Actors now watch your fights, comment on them, and keep their distance (highly configurable)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59990/59990-1787682983-746379143.png",
         "uid": "429496789590",
-        "updatedAt": "2026-09-01T15:35:28Z",
+        "updatedAt": "2026-09-09T15:27:12Z",
         "fileIds": [
+          "1000070022",
           "1000069579",
           "1000069534",
           "1000069479",
@@ -209,8 +251,9 @@
         "summary": "This chest is safe to open. Or is it?",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59667/59667-1784838557-917731311.png",
         "uid": "429496789267",
-        "updatedAt": "2026-08-18T13:51:30Z",
+        "updatedAt": "2026-09-09T10:55:26Z",
         "fileIds": [
+          "1000070003",
           "1000068564",
           "1000067522",
           "1000067474",
@@ -379,8 +422,9 @@
         "summary": "Plays an animation when you drink or eat something or NPCs drink potions. Special animations for Telvanni Bug Musk, moon sugar + skooma pipes, hackle-lo/tanna + smoking pipes, and cigars.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59069/59069-1779626750-1728400660.png",
         "uid": "429496788669",
-        "updatedAt": "2026-09-07T01:48:57Z",
+        "updatedAt": "2026-09-08T10:18:41Z",
         "fileIds": [
+          "1000069947",
           "1000069878",
           "1000068732",
           "1000068686",
@@ -548,8 +592,9 @@
         "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
         "uid": "429496788235",
-        "updatedAt": "2026-09-01T13:51:36Z",
+        "updatedAt": "2026-09-09T14:32:02Z",
         "fileIds": [
+          "1000070018",
           "1000069571",
           "1000069467",
           "1000068810",
@@ -842,8 +887,9 @@
         "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff by drawing your blade, and they might attack you or apologise and return it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58362/58362-1772800912-318348143.png",
         "uid": "429496787962",
-        "updatedAt": "2026-09-06T09:31:05Z",
+        "updatedAt": "2026-09-09T11:03:58Z",
         "fileIds": [
+          "1000070004",
           "1000069825",
           "1000068809",
           "1000068226",
@@ -1015,6 +1061,6 @@
         ]
       }
     ],
-    "totalCount": 43
+    "totalCount": 45
   }
 }

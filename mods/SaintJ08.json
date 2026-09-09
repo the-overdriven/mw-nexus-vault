@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-07T22:04:00.087Z",
+  "checkedAt": "2026-09-09T23:13:42.126Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 34
+        "100": 38
       }
     },
     "nodes": [
@@ -422,6 +422,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2025-04-23T19:58:34Z",
+        "fileSize": 41621,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56402,
+        "name": "OAAB Mushroom Tree Replacer Peterbitt style",
+        "status": "published",
+        "summary": "Makes OAAB mushroom trees look like Peterbitt's.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56402/56402-1745438128-418415666.png",
+        "uid": "429496786002",
+        "updatedAt": "2025-05-22T14:49:18Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-04-22T14:15:27Z",
         "fileSize": 278672,
         "modCategory": {
@@ -473,6 +489,22 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56363/56363-1744971214-523866208.png",
         "uid": "429496785963",
         "updatedAt": "2025-04-18T10:17:07Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-02-22T12:12:07Z",
+        "fileSize": 75293,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 56062,
+        "name": "SaintJ's Dwemer Weapons Retexture - PBR",
+        "status": "published",
+        "summary": "Modification of https://www.nexusmods.com/morrowind/mods/44487 , added PBR, better normal maps, colours to match my armor mod.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56062/56062-1740226185-1107065828.png",
+        "uid": "429496785662",
+        "updatedAt": "2025-05-22T14:47:00Z"
       },
       {
         "adultContent": false,
@@ -609,6 +641,38 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2024-12-26T22:12:30Z",
+        "fileSize": 358514,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55659,
+        "name": "SaintJ's Overhauled Vivec Exterior Textures - PBR - Parallax",
+        "status": "published",
+        "summary": "Completely replaces Vivec exteriors from the ground up, inspired by ESO and with PBR and Parallax textures included.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55659/55659-1735247076-1642856353.png",
+        "uid": "429496785259",
+        "updatedAt": "2025-05-22T14:39:29Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-12-23T19:16:01Z",
+        "fileSize": 237,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55637,
+        "name": "Flame Texture Replacer for OpenMW",
+        "status": "published",
+        "summary": "Replaces the fire texture used in most fireplaces and braziers etc in Morrowind. Could look wrong on old engine or non-pbr shaders but havent tested this myself.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55637/55637-1734981212-878286297.png",
+        "uid": "429496785237",
+        "updatedAt": "2024-12-23T19:16:01Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2024-12-15T00:12:55Z",
         "fileSize": 470247,
         "modCategory": {
@@ -692,6 +756,6 @@
         ]
       }
     ],
-    "totalCount": 34
+    "totalCount": 38
   }
 }

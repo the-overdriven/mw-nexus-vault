@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-07T22:03:19.160Z",
+  "checkedAt": "2026-09-09T23:11:52.753Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -44,13 +44,14 @@
           "name": "Gameplay"
         },
         "modId": 58254,
-        "name": "State-Based Magicka Regen (SBMR)",
+        "name": "State-Based Magicka Regen (SBMR) (OpenMW)",
         "status": "published",
         "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
         "uid": "429496787854",
-        "updatedAt": "2026-09-03T08:26:17Z",
+        "updatedAt": "2026-09-08T08:26:16Z",
         "fileIds": [
+          "1000069939",
           "1000069656",
           "1000067746",
           "1000067274",
@@ -76,8 +77,9 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-09-07T08:50:40Z",
+        "updatedAt": "2026-09-09T13:10:53Z",
         "fileIds": [
+          "1000070009",
           "1000069894",
           "1000069773",
           "1000069657",
@@ -164,13 +166,15 @@
           "name": "Gameplay"
         },
         "modId": 57801,
-        "name": "Natural Character Growth (NCG)",
+        "name": "Natural Character Growth (NCG) (OpenMW)",
         "status": "published",
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-09-03T08:34:41Z",
+        "updatedAt": "2026-09-09T13:25:22Z",
         "fileIds": [
+          "1000070011",
+          "1000069943",
           "1000069658",
           "1000069609",
           "1000069563",
@@ -228,8 +232,9 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1785225172-1276238880.png",
         "uid": "429496785605",
-        "updatedAt": "2026-09-05T09:40:31Z",
+        "updatedAt": "2026-09-09T15:10:54Z",
         "fileIds": [
+          "1000070020",
           "1000069774",
           "1000069653",
           "1000069585",
@@ -311,13 +316,14 @@
           "name": "Gameplay"
         },
         "modId": 55542,
-        "name": "Harder Better Faster Stronger (HBFS)",
+        "name": "Harder Better Faster Stronger (HBFS) (OpenMW)",
         "status": "published",
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-09-04T19:05:59Z",
+        "updatedAt": "2026-09-09T14:48:57Z",
         "fileIds": [
+          "1000070019",
           "1000069753",
           "1000069652",
           "1000069515",
@@ -397,8 +403,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-09-04T19:02:30Z",
+        "updatedAt": "2026-09-08T14:05:29Z",
         "fileIds": [
+          "1000069954",
           "1000069751",
           "1000069655",
           "1000067745",
@@ -484,8 +491,10 @@
         "summary": "Actors with melee attacks will now try to hide themselves if their enemies attack them from a position they cannot reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54976/54976-1721043142-824690318.jpeg",
         "uid": "429496784576",
-        "updatedAt": "2026-07-31T18:02:09Z",
+        "updatedAt": "2026-09-09T13:50:37Z",
         "fileIds": [
+          "1000070013",
+          "1000069942",
           "1000067873",
           "1000067748",
           "1000065538",
@@ -513,13 +522,14 @@
           "name": "Gameplay"
         },
         "modId": 54337,
-        "name": "Better Merchants Skills (BMS)",
+        "name": "Better Merchants Skills (BMS) (OpenMW)",
         "status": "published",
         "summary": "Fight Morrowind's broken economy by dynamically altering the difficulty to barter, haggle, and persuade with merchants.It works with any vanilla or added merchant, and it does not alter NPCs' training skills.Settings offer ways to prevent",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54337/54337-1715173471-1846363173.png",
         "uid": "429496783937",
-        "updatedAt": "2026-09-04T19:03:52Z",
+        "updatedAt": "2026-09-09T10:55:12Z",
         "fileIds": [
+          "1000070002",
           "1000069752",
           "1000069654",
           "1000067759",

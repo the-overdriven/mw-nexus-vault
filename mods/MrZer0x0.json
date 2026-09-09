@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-07T22:03:18.718Z",
+  "checkedAt": "2026-09-09T23:11:52.332Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 9
+        "100": 10
       }
     },
     "nodes": [
@@ -163,6 +163,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2025-09-18T06:51:47Z",
+        "fileSize": 228,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 57471,
+        "name": "Morrowind BSA Pack",
+        "status": "published",
+        "summary": "A simple utility for unpacking and packing BSA archives",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57471/57471-1758178098-584078570.jpg",
+        "uid": "429496787071",
+        "updatedAt": "2025-09-18T06:51:47Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2023-02-19T19:42:49Z",
         "fileSize": 8,
         "modCategory": {
@@ -182,6 +198,6 @@
         ]
       }
     ],
-    "totalCount": 9
+    "totalCount": 10
   }
 }

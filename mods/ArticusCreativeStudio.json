@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-07T22:01:22.854Z",
+  "checkedAt": "2026-09-09T23:09:47.394Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 102
+        "100": 104
       }
     },
     "nodes": [
@@ -1155,6 +1155,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2025-05-31T10:53:51Z",
+        "fileSize": 12702,
+        "modCategory": {
+          "categoryId": 7,
+          "name": "Items, Objects, and Clothes"
+        },
+        "modId": 56811,
+        "name": "Balanced Rings Replacer",
+        "status": "published",
+        "summary": "Replaces artifact rings of: Denstagmer, Phynaster, Mentor, Warlock, Wind, Khajiit, Surrounding, Vampiric - with HQ models and HQ textures (1048 px), adds glowing elements. Changes enchantings to more balanced, logical and lore friendly.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56811/56811-1748688700-163075534.jpeg",
+        "uid": "429496786411",
+        "updatedAt": "2025-05-31T11:08:24Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-05-30T09:23:32Z",
         "fileSize": 2142,
         "modCategory": {
@@ -1457,24 +1473,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56016/56016-1739616404-1351577752.jpeg",
         "uid": "429496785616",
         "updatedAt": "2025-02-22T08:50:24Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-08T03:06:18Z",
-        "fileSize": 103780,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 55941,
-        "name": "Articus Redoran 2K Retexture",
-        "status": "published",
-        "summary": "Replaces Redoran textures of buildings and furniture with HQ resolution (2048). All textures are fully reworked and lore friendly.All you need is to copy conteining files to your Morrowind/Data Files directory.Enjoy the game and don't",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55941/55941-1738983791-1892913787.jpeg",
-        "uid": "429496785541",
-        "updatedAt": "2025-02-08T03:06:18Z"
       }
     ],
-    "totalCount": 102
+    "totalCount": 104
   }
 }

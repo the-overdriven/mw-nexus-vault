@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-09-07T22:04:41.529Z",
+  "checkedAt": "2026-09-09T23:14:46.523Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 26,
+        "100": 27,
         "3474": 16
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-08T14:58:01Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 60147,
+        "name": "OpenMW-lua Equipment Tracker",
+        "status": "published",
+        "summary": "OpenMW-lua modding resource that allows easy detection of equipment change.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60147/60147-1788878715-17748391.png",
+        "uid": "429496789747",
+        "updatedAt": "2026-09-08T14:58:01Z",
+        "fileIds": [
+          "1000069958"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-01T12:39:14Z",
@@ -463,6 +482,6 @@
         "updatedAt": "2020-11-05T06:42:10Z"
       }
     ],
-    "totalCount": 26
+    "totalCount": 27
   }
 }

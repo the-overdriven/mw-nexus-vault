@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-07T22:03:05.875Z",
+  "checkedAt": "2026-09-09T23:11:49.325Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6,
+        "100": 8,
         "1704": 1
       }
     },
@@ -106,6 +106,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2024-11-20T13:34:42Z",
+        "fileSize": 306,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 55470,
+        "name": "Upscaled Imperial Moth Cuirass",
+        "status": "published",
+        "summary": "An upscaled version of Petethegoat's texture for the Imperial Cuirass that has a moth on it rather than horses.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55470/55470-1732109413-1303040119.png",
+        "uid": "429496785070",
+        "updatedAt": "2024-11-20T13:34:42Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2024-10-18T16:35:36Z",
         "fileSize": 92,
         "modCategory": {
@@ -122,8 +138,24 @@
         "fileIds": [
           "1000047737"
         ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2024-10-01T03:30:05Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 55290,
+        "name": "Effective Elemental Shields",
+        "status": "published",
+        "summary": "Fixes the elemental shield magic effects so that they affect the armor rating as claimed in their descriptions, thus giving players a reason to actually use these previously pointless effects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55290/55290-1727752980-583307349.png",
+        "uid": "429496784890",
+        "updatedAt": "2024-10-01T03:30:05Z"
       }
     ],
-    "totalCount": 6
+    "totalCount": 8
   }
 }
