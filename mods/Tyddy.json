@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T23:14:36.352Z",
+  "checkedAt": "2026-09-12T11:07:12.133Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -88,10 +88,10 @@
         "summary": "Recreation of the mod \"Roadmarkers\" by ddfields. Tyddy's Edition. Available as a traditional ESP installer or a pluginless Variation Framework edition for OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59933/59933-1788019559-1201839632.png",
         "uid": "429496789533",
-        "updatedAt": "2026-08-29T16:59:11Z",
+        "updatedAt": "2026-09-12T03:15:37Z",
         "fileIds": [
-          "1000069387",
-          "1000069385"
+          "1000070188",
+          "1000070187"
         ]
       },
       {
@@ -314,7 +314,7 @@
           "name": "Body, Face, and Hair"
         },
         "modId": 59180,
-        "name": "Anthropographia of Tamriel - Saxhleel Argonians and Hist-Dunmer Mutants",
+        "name": "Saxhleel Argonians and Hist-Dunmer Mutants - Anthropographia of Tamriel",
         "status": "published",
         "summary": "First and only race mod from Tyddy inspired by Michael Kirkbride’s post that Argonians are Hist-Dunmer mutants — through change, memory, and the will of the Hist.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59180/59180-1780248408-1089142426.png",

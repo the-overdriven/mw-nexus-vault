@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-09T23:11:37.565Z",
+  "checkedAt": "2026-09-12T11:03:12.935Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 73,
+        "100": 74,
         "101": 1,
         "1413": 8,
         "1704": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-09T23:20:29Z",
+        "fileSize": 25,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60162,
+        "name": "Distant Flame for Concept Art Place (Vivec City) (OpenMW)",
+        "status": "published",
+        "summary": "Mesh and ESP replacer to make the Option 2 flame from Concept Art Place (Vivec City) render from farther away.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60162/60162-1788995708-1196049735.jpg",
+        "uid": "429496789762",
+        "updatedAt": "2026-09-09T23:20:29Z",
+        "fileIds": [
+          "1000070037"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-31T01:16:30Z",
@@ -141,9 +160,10 @@
         "summary": "Small adjustments to Xenn's Shadowscales, fixes invisible vampire heads, they now use Argonian voices. ESP replacer, requires original mod.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59592/59592-1783979160-901973063.jpg",
         "uid": "429496789192",
-        "updatedAt": "2026-07-13T21:48:30Z",
+        "updatedAt": "2026-09-11T20:51:47Z",
         "fileIds": [
-          "1000067052"
+          "1000067052",
+          "1000070174"
         ]
       },
       {
@@ -257,8 +277,9 @@
         "summary": "ESP replacer to make the mananaut from The Mananaut's Message use the mananaut set in Tamriel Data.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58194/58194-1787518383-350662487.jpg",
         "uid": "429496787794",
-        "updatedAt": "2026-08-23T20:52:52Z",
+        "updatedAt": "2026-09-10T18:55:22Z",
         "fileIds": [
+          "1000070098",
           "1000068882"
         ]
       },
@@ -316,11 +337,13 @@
         "summary": "Dreugh Man o' War armor by Alexander",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57869/57869-1764723146-656099486.png",
         "uid": "429496787469",
-        "updatedAt": "2025-12-03T00:55:40Z",
+        "updatedAt": "2026-09-10T21:32:10Z",
         "fileIds": [
           "1000058881",
-          "1000058882",
-          "1000058883"
+          "1000070112",
+          "1000070111",
+          "1000058883",
+          "1000058882"
         ]
       },
       {
@@ -509,10 +532,11 @@
         "summary": "Adds textured land around Tamriel Rebuilt, making the map a filled rectangle. No more staring into the void.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56462/56462-1782412224-1186751097.png",
         "uid": "429496786062",
-        "updatedAt": "2026-08-23T21:38:18Z",
+        "updatedAt": "2026-09-10T22:35:57Z",
         "fileIds": [
-          "1000068899",
+          "1000070116",
           "1000066982",
+          "1000068899",
           "1000066981",
           "1000066189"
         ]
@@ -1358,9 +1382,9 @@
         "summary": "Fight in the arena and rise up the ranks. Over 140 unique fighters to fight. Can also watch and bet on fights between NPCs. Also adds voiced speeches and crowds to vanilla quest duels.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50954/50954-1788730185-1473512648.png",
         "uid": "429496780554",
-        "updatedAt": "2026-09-06T21:31:14Z",
+        "updatedAt": "2026-09-12T00:20:29Z",
         "fileIds": [
-          "1000069869",
+          "1000070178",
           "1000069762",
           "1000043642",
           "1000043611",
@@ -1408,6 +1432,6 @@
         "updatedAt": "2022-05-16T17:51:39Z"
       }
     ],
-    "totalCount": 73
+    "totalCount": 74
   }
 }

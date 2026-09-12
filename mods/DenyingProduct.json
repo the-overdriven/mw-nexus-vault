@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-09-09T23:10:11.994Z",
+  "checkedAt": "2026-09-12T11:02:43.586Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 6
+        "100": 7
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-12T07:20:51Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60200,
+        "name": "No More Endless Paralyze",
+        "status": "published",
+        "summary": "Adds a chance to break out of Paralyze based on your Willpower level.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60200/60200-1789192837-892312767.png",
+        "uid": "429496789800",
+        "updatedAt": "2026-09-12T07:20:51Z",
+        "fileIds": [
+          "1000070193"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-23T05:23:16Z",
@@ -126,6 +145,6 @@
         ]
       }
     ],
-    "totalCount": 6
+    "totalCount": 7
   }
 }

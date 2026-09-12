@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-09-09T23:13:11.403Z",
+  "checkedAt": "2026-09-12T11:05:21.616Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 24,
         "101": 1,
         "120": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-11T05:12:25Z",
+        "fileSize": 7068,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60181,
+        "name": "Visual Soul Gems (OpenMW)",
+        "status": "published",
+        "summary": "Give filled soul gems distinct visuals in OpenMW using four selectable or randomized Crystal Soul Gems styles by SVNR.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60181/60181-1789171605-1276170287.png",
+        "uid": "429496789781",
+        "updatedAt": "2026-09-12T00:26:16Z",
+        "fileIds": [
+          "1000070179"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-06T10:09:25Z",
@@ -234,12 +253,12 @@
         "modId": 57703,
         "name": "T4rg3t5 - OpenMW Targeting System",
         "status": "published",
-        "summary": "Dark Souls Style target locking framework for OpenMW.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57703/57703-1761618343-1717134229.png",
+        "summary": "Lock on. Stay on. Dark Souls 1-inspired targeting for the modern outlander.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57703/57703-1789059794-2088933549.png",
         "uid": "429496787303",
-        "updatedAt": "2026-07-24T02:11:48Z",
+        "updatedAt": "2026-09-11T03:14:46Z",
         "fileIds": [
-          "1000067450"
+          "1000070127"
         ]
       },
       {
@@ -306,12 +325,12 @@
         "modId": 57282,
         "name": "Static Switching System",
         "status": "published",
-        "summary": "OpenMW-Lua framework for creating pluginless mesh replacers without load order or patch hassle.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57282/57282-1754999832-1467134674.png",
+        "summary": "OpenMW-Lua framework for declarative world patching, contextual mesh replacement, and compatibility fixes without plugin or load-order hassle.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57282/57282-1789151864-711432506.png",
         "uid": "429496786882",
-        "updatedAt": "2025-08-16T18:38:17Z",
+        "updatedAt": "2026-09-11T18:53:56Z",
         "fileIds": [
-          "1000056000"
+          "1000070167"
         ]
       },
       {
@@ -480,6 +499,6 @@
         "updatedAt": "2020-08-05T18:57:50Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

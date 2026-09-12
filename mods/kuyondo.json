@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-09T23:11:49.235Z",
+  "checkedAt": "2026-09-12T11:04:18.772Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15
+        "100": 14
       }
     },
     "nodes": [
@@ -46,26 +46,6 @@
           "1000069391",
           "1000064027",
           "1000066055"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2020-05-26T03:17:53Z",
-        "fileSize": 3,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 48142,
-        "name": "Cursed Offerings",
-        "status": "published",
-        "summary": "Picking up a cursed item will summon a Daedra associated with the corresponding Daedric Prince. Many more options to choose from!",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48142/48142-1701176000-2132367692.png",
-        "uid": "429496777742",
-        "updatedAt": "2023-11-18T20:19:26Z",
-        "fileIds": [
-          "1000041027",
-          "1000032748"
         ]
       },
       {
@@ -336,6 +316,6 @@
         ]
       }
     ],
-    "totalCount": 15
+    "totalCount": 14
   }
 }

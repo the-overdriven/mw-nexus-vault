@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2026-09-09T23:14:03.098Z",
+  "checkedAt": "2026-09-12T11:05:58.704Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 43
+        "100": 45
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-11T00:06:03Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60179,
+        "name": "Even Ground - Racial Powers and Birthsigns for NPCs (OpenMW)",
+        "status": "published",
+        "summary": "Allows NPCs to use their racial powers and receive birthsign boons. Compatible with any mod that adds, changes, or removes races and birthsigns.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60179/60179-1789084701-852511647.jpg",
+        "uid": "429496789779",
+        "updatedAt": "2026-09-12T01:01:03Z",
+        "fileIds": [
+          "1000070180"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-10T23:19:42Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 60178,
+        "name": "NPC Powers Framework (OpenMW)",
+        "status": "published",
+        "summary": "A framework for giving NPCs Powers. Kinda.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60178/60178-1789081315-870587271.png",
+        "uid": "429496789778",
+        "updatedAt": "2026-09-11T00:58:08Z",
+        "fileIds": [
+          "1000070123"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-25T09:01:19Z",
@@ -388,8 +426,9 @@
         "summary": "Guess now it's my turn to have a patch hub :d",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58744/58744-1777126657-936089804.png",
         "uid": "429496788344",
-        "updatedAt": "2026-08-13T16:01:30Z",
+        "updatedAt": "2026-09-11T07:19:48Z",
         "fileIds": [
+          "1000070136",
           "1000068352",
           "1000063656",
           "1000063655",
@@ -866,6 +905,6 @@
         ]
       }
     ],
-    "totalCount": 43
+    "totalCount": 45
   }
 }

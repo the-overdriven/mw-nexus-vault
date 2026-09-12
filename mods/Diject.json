@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T23:10:12.278Z",
+  "checkedAt": "2026-09-12T11:02:52.726Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -83,16 +83,18 @@
         "summary": "Adds a new journal menu (H key) for viewing and tracking quest requirements and objects, and introduces quest markers to the game.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57285/57285-1755018136-1399655819.png",
         "uid": "429496786885",
-        "updatedAt": "2026-08-29T12:34:01Z",
+        "updatedAt": "2026-09-10T19:35:15Z",
         "fileIds": [
-          "1000069376",
-          "1000069375",
+          "1000070101",
+          "1000070100",
           "1000068853",
           "1000063837",
           "1000069149",
           "1000067527",
           "1000067526",
           "1000067525",
+          "1000069376",
+          "1000069375",
           "1000068819",
           "1000067996",
           "1000067115",
