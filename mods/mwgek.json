@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-12T11:04:31.630Z",
+  "checkedAt": "2026-09-17T18:37:23.904Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -187,7 +187,12 @@
         "summary": "Changes the non-combustible vanilla logs to combustible ones. The new meshes are using a glowmap and some UV animation to give the illusion to be actually on fire.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55647/55647-1735136834-1940875664.jpeg",
         "uid": "429496785247",
-        "updatedAt": "2024-12-25T14:34:49Z"
+        "updatedAt": "2026-09-14T13:34:00Z",
+        "fileIds": [
+          "1000070358",
+          "1000052607",
+          "1000049034"
+        ]
       },
       {
         "adultContent": false,

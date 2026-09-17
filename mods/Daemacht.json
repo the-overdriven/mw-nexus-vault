@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-12T11:02:42.593Z",
+  "checkedAt": "2026-09-17T18:31:27.236Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 12,
+        "100": 13,
         "101": 1,
         "1704": 3,
         "1950": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-14T16:05:16Z",
+        "fileSize": 11246,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 60238,
+        "name": "Improved Audio for Emma's Children of Morrowind - 64 Kbps",
+        "status": "published",
+        "summary": "Enhanced audio for Emma’s Children of Morrowind mod. 64 Kbps version for vanilla engine/MGE XE.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60238/60238-1789401411-1486252265.png",
+        "uid": "429496789838",
+        "updatedAt": "2026-09-14T16:05:16Z",
+        "fileIds": [
+          "1000070362"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-03T01:44:05Z",
@@ -260,6 +279,6 @@
         ]
       }
     ],
-    "totalCount": 12
+    "totalCount": 13
   }
 }

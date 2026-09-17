@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-12T11:04:31.710Z",
+  "checkedAt": "2026-09-17T18:37:32.873Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,8 +21,10 @@
         "summary": "This mod attempts to rebalance the magic system in Morrowind. This includes spell effects, stock spells, enchantments and potions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58560/58560-1775037720-1305163994.png",
         "uid": "429496788160",
-        "updatedAt": "2026-09-07T11:08:08Z",
+        "updatedAt": "2026-09-15T13:48:40Z",
         "fileIds": [
+          "1000070418",
+          "1000070342",
           "1000069898",
           "1000069283",
           "1000067751",
@@ -77,8 +79,11 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-09-11T15:32:00Z",
+        "updatedAt": "2026-09-17T09:36:09Z",
         "fileIds": [
+          "1000070573",
+          "1000070365",
+          "1000070355",
           "1000070154",
           "1000070110",
           "1000070086",
@@ -174,8 +179,10 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-09-09T13:25:22Z",
+        "updatedAt": "2026-09-16T12:43:55Z",
         "fileIds": [
+          "1000070509",
+          "1000070367",
           "1000070011",
           "1000069943",
           "1000069658",
@@ -406,8 +413,10 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-09-12T10:21:11Z",
+        "updatedAt": "2026-09-15T08:18:49Z",
         "fileIds": [
+          "1000070406",
+          "1000070366",
           "1000070197",
           "1000069954",
           "1000069751",

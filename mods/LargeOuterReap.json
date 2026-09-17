@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-12T11:04:19.161Z",
+  "checkedAt": "2026-09-17T18:35:40.672Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,12 +18,14 @@
         "modId": 54132,
         "name": "Rapport - OpenMW Companions",
         "status": "published",
-        "summary": "Recruit almost anyone as a fully functional companion. OpenMW 0.51+",
+        "summary": "Recruit anyone as a fully functional companion. OpenMW 0.51+",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54132/54132-1725673093-621574248.jpeg",
         "uid": "429496783732",
-        "updatedAt": "2026-07-11T01:13:18Z",
+        "updatedAt": "2026-09-13T09:35:52Z",
         "fileIds": [
-          "1000066919",
+          "1000070260",
+          "1000070256",
+          "1000070255",
           "1000066749",
           "1000066748",
           "1000047053"

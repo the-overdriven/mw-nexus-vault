@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-12T11:04:18.772Z",
+  "checkedAt": "2026-09-17T18:35:21.642Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14
+        "100": 15
       }
     },
     "nodes": [
@@ -50,6 +50,26 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2020-05-26T03:17:53Z",
+        "fileSize": 3,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 48142,
+        "name": "Cursed Offerings",
+        "status": "published",
+        "summary": "Picking up a cursed item will summon a Daedra associated with the corresponding Daedric Prince. Many more options to choose from!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48142/48142-1701176000-2132367692.png",
+        "uid": "429496777742",
+        "updatedAt": "2026-09-13T15:55:28Z",
+        "fileIds": [
+          "1000070284",
+          "1000032748"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2020-05-15T07:43:33Z",
         "fileSize": 3,
         "modCategory": {
@@ -60,7 +80,7 @@
         "name": "Transporter Lights",
         "status": "published",
         "summary": "Transporters equip light at night for more immersion.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48050/48050-1701174238-388562287.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48050/48050-1789231862-669778727.jpg",
         "uid": "429496777650",
         "updatedAt": "2025-04-22T13:47:07Z",
         "fileIds": [
@@ -103,7 +123,7 @@
         "name": "Protective Guards (OpenMW)",
         "status": "published",
         "summary": "Guards protect against hostile NPCs.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46992/46992-1563905467-1888870151.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46992/46992-1789232072-2013756063.jpg",
         "uid": "429496776592",
         "updatedAt": "2026-08-31T14:40:47Z",
         "fileIds": [
@@ -316,6 +336,6 @@
         ]
       }
     ],
-    "totalCount": 14
+    "totalCount": 15
   }
 }

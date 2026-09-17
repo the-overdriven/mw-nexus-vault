@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-12T11:02:42.104Z",
+  "checkedAt": "2026-09-17T18:31:17.753Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -443,7 +443,12 @@
         "summary": "Patches the creatures and NPCs from OAAB and TR Data to expel blood and gore bits on hit.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55325/55325-1728681956-60050222.png",
         "uid": "429496784925",
-        "updatedAt": "2025-02-23T02:05:20Z"
+        "updatedAt": "2026-09-17T14:03:45Z",
+        "fileIds": [
+          "1000070583",
+          "1000050649",
+          "1000047639"
+        ]
       },
       {
         "adultContent": false,

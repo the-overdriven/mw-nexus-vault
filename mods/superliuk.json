@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-12T11:06:34.775Z",
+  "checkedAt": "2026-09-17T18:40:05.934Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 58
+        "100": 51
       }
     },
     "nodes": [
@@ -263,63 +263,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2025-10-15T19:14:24Z",
-        "fileSize": 998,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 57627,
-        "name": "Strident Runner Riding (OpenMW)",
-        "status": "published",
-        "summary": "Explore the lands of Cyrodiil on a Strident Runner.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57627/57627-1760554398-1929212081.png",
-        "uid": "429496787227",
-        "updatedAt": "2025-10-15T19:14:24Z",
-        "fileIds": [
-          "1000057672"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-10-11T15:53:35Z",
-        "fileSize": 9865,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 57552,
-        "name": "Boar Riding (OpenMW)",
-        "status": "published",
-        "summary": "Explore the lands of Solstheim on a Boar.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57552/57552-1760197847-1288650675.png",
-        "uid": "429496787152",
-        "updatedAt": "2025-10-11T15:53:35Z",
-        "fileIds": [
-          "1000057584"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-10-11T15:32:59Z",
-        "fileSize": 833,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 57599,
-        "name": "Magic Broom Riding (OpenMW)",
-        "status": "published",
-        "summary": "Explore the skies of Morrowind with a Magic Broom.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57599/57599-1760196519-1771578634.png",
-        "uid": "429496787199",
-        "updatedAt": "2025-10-11T15:32:59Z",
-        "fileIds": [
-          "1000057582"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2025-10-05T08:30:51Z",
         "fileSize": 266,
         "modCategory": {
@@ -337,40 +280,6 @@
           "1000063515",
           "1000063514"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-07-26T06:48:49Z",
-        "fileSize": 212,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 57187,
-        "name": "Nix-Mount Riding (OpenMW)",
-        "status": "published",
-        "summary": "Explore the lands of Morrowind on a Nix-Mount.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57187/57187-1753512148-32906660.png",
-        "uid": "429496786787",
-        "updatedAt": "2025-09-22T17:41:37Z",
-        "fileIds": []
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-06-24T10:14:22Z",
-        "fileSize": 9865,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 57006,
-        "name": "Windhelm Horse Riding (OpenMW)",
-        "status": "published",
-        "summary": "Explore the lands around Windhelm with a horse.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57006/57006-1750759440-1562403768.png",
-        "uid": "429496786606",
-        "updatedAt": "2025-09-22T17:42:55Z",
-        "fileIds": []
       },
       {
         "adultContent": false,
@@ -517,23 +426,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2025-04-25T16:07:33Z",
-        "fileSize": 9865,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 56409,
-        "name": "Donkey Riding (OpenMW)",
-        "status": "published",
-        "summary": "Explore the lands of Morrowind on a Donkey.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56409/56409-1745596953-711752349.png",
-        "uid": "429496786009",
-        "updatedAt": "2025-09-22T17:40:15Z",
-        "fileIds": []
-      },
-      {
-        "adultContent": false,
         "createdAt": "2025-04-20T14:42:08Z",
         "fileSize": 27,
         "modCategory": {
@@ -547,22 +439,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56377/56377-1745159720-2141423397.png",
         "uid": "429496785977",
         "updatedAt": "2025-04-20T14:42:08Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-22T20:43:20Z",
-        "fileSize": 3,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 56064,
-        "name": "Skylamp Riding",
-        "status": "published",
-        "summary": "Explore the skies of Morrowind with a Skylamp.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56064/56064-1740241941-174475233.png",
-        "uid": "429496785664",
-        "updatedAt": "2025-05-13T14:08:21Z"
       },
       {
         "adultContent": false,
@@ -1078,6 +954,6 @@
         "updatedAt": "2017-07-10T17:59:40Z"
       }
     ],
-    "totalCount": 58
+    "totalCount": 51
   }
 }

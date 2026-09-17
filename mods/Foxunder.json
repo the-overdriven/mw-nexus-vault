@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-12T11:03:03.357Z",
+  "checkedAt": "2026-09-17T18:32:24.796Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -18,11 +18,16 @@
         "modId": 60161,
         "name": "(OpenMW) Daily Chores",
         "status": "published",
-        "summary": "NPCs perform daily chores. For now, supports praying, sweeping, scrubbing, and reading",
+        "summary": "NPCs perform daily chores. For now, supports praying, sweeping, mining, minstrelsy, scrubbing, and reading",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60161/60161-1788968368-1753018599.png",
         "uid": "429496789761",
-        "updatedAt": "2026-09-11T21:22:08Z",
+        "updatedAt": "2026-09-16T10:13:51Z",
         "fileIds": [
+          "1000070502",
+          "1000070359",
+          "1000070321",
+          "1000070295",
+          "1000070272",
           "1000070175",
           "1000070137",
           "1000070053",
@@ -43,10 +48,11 @@
         "summary": "A custom shader for OpenMW which makes blood appear on your screen when you take damage. Optional heavy breathing when badly hurt is included",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60148/60148-1788865805-939714589.png",
         "uid": "429496789748",
-        "updatedAt": "2026-09-09T10:39:32Z",
+        "updatedAt": "2026-09-17T10:17:16Z",
         "fileIds": [
-          "1000070001",
+          "1000070574",
           "1000069964",
+          "1000070001",
           "1000069972"
         ]
       },
@@ -207,8 +213,9 @@
         "summary": "A custom shader for OpenMW 0.51 that makes raindrops appear on your screen when it rains or you're in the water (configurable).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59903/59903-1787141554-1127972267.png",
         "uid": "429496789503",
-        "updatedAt": "2026-09-01T17:15:52Z",
+        "updatedAt": "2026-09-17T15:17:12Z",
         "fileIds": [
+          "1000070588",
           "1000069582",
           "1000068825",
           "1000068796",
@@ -399,8 +406,9 @@
         "summary": "Plays animations when picking up items / activating containers, doors or activators. Also during dialogues.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59117/59117-1779834710-1366291765.jpg",
         "uid": "429496788717",
-        "updatedAt": "2026-08-18T20:05:29Z",
+        "updatedAt": "2026-09-16T09:05:41Z",
         "fileIds": [
+          "1000070497",
           "1000068576",
           "1000068466",
           "1000067631",
@@ -538,14 +546,14 @@
         "summary": "A few changes to the original mod, more mods are supported.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58753/58753-1777203840-230426865.jpg",
         "uid": "429496788353",
-        "updatedAt": "2026-08-26T21:01:07Z",
+        "updatedAt": "2026-09-15T20:06:52Z",
         "fileIds": [
-          "1000069162",
+          "1000070451",
           "1000063063",
+          "1000070453",
           "1000069164",
           "1000069163",
           "1000068723",
-          "1000065453",
           "1000065450",
           "1000065449",
           "1000065448",
@@ -554,6 +562,8 @@
           "1000063214",
           "1000063109",
           "1000063103",
+          "1000069162",
+          "1000065453",
           "1000065452",
           "1000065451",
           "1000065439",

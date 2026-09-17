@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-09-12T11:04:18.861Z",
+  "checkedAt": "2026-09-17T18:35:31.093Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 8,
+        "100": 9,
         "1704": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-13T04:11:11Z",
+        "fileSize": 0,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60220,
+        "name": "Sensible Skeleton Shields",
+        "status": "published",
+        "summary": "Removes shields from skeletons that are using a two-handed weapon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60220/60220-1789269542-380922187.png",
+        "uid": "429496789820",
+        "updatedAt": "2026-09-13T04:11:11Z",
+        "fileIds": [
+          "1000070251"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-02T09:19:14Z",
@@ -156,6 +175,6 @@
         "updatedAt": "2024-10-01T03:30:05Z"
       }
     ],
-    "totalCount": 8
+    "totalCount": 9
   }
 }

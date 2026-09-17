@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-09-12T11:04:18.176Z",
+  "checkedAt": "2026-09-17T18:33:21.919Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 22,
+        "100": 23,
         "1704": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-15T12:12:12Z",
+        "fileSize": 29,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 60251,
+        "name": "Rocky Sundered Scar - Tamriel Rebuilt",
+        "status": "published",
+        "summary": "Adds more rocks to Sundered Scar region.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60251/60251-1789471340-780159446.png",
+        "uid": "429496789851",
+        "updatedAt": "2026-09-15T12:12:12Z",
+        "fileIds": [
+          "1000070412"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-24T03:47:19Z",
@@ -366,10 +385,18 @@
         "modId": 52838,
         "name": "Arnchenzel - Dwemer Underwater House",
         "status": "published",
-        "summary": "This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a cool dwemer helmet too!",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52838/52838-1683544495-1986486538.jpeg",
+        "summary": "This mod adds a unique house to the southwest of Tel Branora. Uncover dwemer secrets and enjoy underwater wonders.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52838/52838-1789292681-1276048245.png",
         "uid": "429496782438",
-        "updatedAt": "2023-09-25T13:55:39Z"
+        "updatedAt": "2026-09-14T00:20:06Z",
+        "fileIds": [
+          "1000070261",
+          "1000070325",
+          "1000070262",
+          "1000040289",
+          "1000037806",
+          "1000037747"
+        ]
       },
       {
         "adultContent": false,
@@ -457,6 +484,6 @@
         "updatedAt": "2022-07-09T05:36:40Z"
       }
     ],
-    "totalCount": 22
+    "totalCount": 23
   }
 }

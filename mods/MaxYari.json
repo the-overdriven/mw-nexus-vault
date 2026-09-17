@@ -1,15 +1,54 @@
 {
-  "checkedAt": "2026-09-12T11:04:20.722Z",
+  "checkedAt": "2026-09-17T18:35:51.272Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15,
+        "100": 17,
         "101": 2,
         "198": 1,
         "1579": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-17T10:55:04Z",
+        "fileSize": 4065,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60272,
+        "name": "They Bleed -- OpenMW",
+        "status": "published",
+        "summary": "The spoils of war taint your surroundings; your violence now leaves bloodied marks on the environment. Low-HP player/NPCs also leave subtle blood trails.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60272/60272-1789642462-572581304.png",
+        "uid": "429496789872",
+        "updatedAt": "2026-09-17T11:01:10Z",
+        "fileIds": [
+          "1000070576",
+          "1000070575"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-15T20:23:49Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60256,
+        "name": "Max Yari's Script Services",
+        "status": "published",
+        "summary": "A shared script library that many of my mods require. Shares the data between different mods reducing the amount of engine requests they do and potentially improving performance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60256/60256-1789504231-1361858631.png",
+        "uid": "429496789856",
+        "updatedAt": "2026-09-15T20:23:49Z",
+        "fileIds": [
+          "1000070457"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-03-15T13:11:58Z",
@@ -48,9 +87,9 @@
         "summary": "An OpenMW mod that makes sneak mechanics playable. Sneak detection is now a visually displayed gradual progress. This mod attempts to strike a balance between gamified mechanics and \"\"\"realism\"\"\".",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58441/58441-1773578450-1185793680.png",
         "uid": "429496788041",
-        "updatedAt": "2026-04-13T10:57:37Z",
+        "updatedAt": "2026-09-17T16:51:15Z",
         "fileIds": [
-          "1000062647",
+          "1000070596",
           "1000062294",
           "1000061801",
           "1000061666",
@@ -90,9 +129,9 @@
         "summary": "Short, pronounced twitches of humanoid NPCs in response to being hit.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56594/56594-1747158041-726790814.png",
         "uid": "429496786194",
-        "updatedAt": "2026-02-22T21:03:00Z",
+        "updatedAt": "2026-09-17T16:22:07Z",
         "fileIds": [
-          "1000060978",
+          "1000070595",
           "1000053114",
           "1000052873"
         ]
@@ -111,12 +150,12 @@
         "summary": "A deranged mod that implements a somewhat simple and naive physics engine in pure lua and exposes a rich interface for developers. Drag and throw items around, get messed for messing with someone's property.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56589/56589-1747143961-337009405.png",
         "uid": "429496786189",
-        "updatedAt": "2026-02-22T21:13:46Z",
+        "updatedAt": "2026-09-17T14:45:39Z",
         "fileIds": [
-          "1000060980",
+          "1000070585",
           "1000053548",
-          "1000052861",
-          "1000053485"
+          "1000053485",
+          "1000052861"
         ]
       },
       {
@@ -133,15 +172,15 @@
         "summary": "Animated customizable reticle with a neat enemy HP widget, hit marker visuals and sounds, occasional slow-mo on kill. Everything is adjustable in mod settings.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1747086913-1245125704.png",
         "uid": "429496786184",
-        "updatedAt": "2026-03-01T19:36:54Z",
+        "updatedAt": "2026-09-17T15:58:58Z",
         "fileIds": [
-          "1000061177",
+          "1000070591",
           "1000060981",
-          "1000052835",
-          "1000052838",
           "1000053611",
+          "1000053486",
           "1000053112",
-          "1000053486"
+          "1000052838",
+          "1000052835"
         ]
       },
       {
@@ -158,20 +197,20 @@
         "summary": "Subtle dynamic camera and first-person viewmodel (hands) inertia. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Experimental strafe",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1773873803-1720735435.png",
         "uid": "429496784927",
-        "updatedAt": "2026-03-18T22:40:52Z",
+        "updatedAt": "2026-09-17T15:38:02Z",
         "fileIds": [
-          "1000061790",
-          "1000060984",
-          "1000054592",
-          "1000052831",
-          "1000053113",
-          "1000054961",
+          "1000070589",
           "1000061178",
-          "1000047650",
-          "1000047671",
-          "1000050237",
+          "1000060984",
+          "1000054961",
+          "1000054592",
+          "1000053113",
+          "1000052831",
           "1000050255",
-          "1000047863"
+          "1000050237",
+          "1000047863",
+          "1000047671",
+          "1000047650"
         ]
       },
       {
@@ -201,24 +240,24 @@
         "modId": 55064,
         "name": "Mercy - Combat AI Overhaul",
         "status": "published",
-        "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49+. With new voice lines and animations.",
+        "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49+. With new voice lines (optional) and animations. Rich on memorable encounters and engaging fights.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
         "uid": "429496784664",
-        "updatedAt": "2026-02-22T21:10:11Z",
+        "updatedAt": "2026-09-17T14:31:24Z",
         "fileIds": [
-          "1000060979",
-          "1000046616",
-          "1000046627",
-          "1000047651",
-          "1000051495",
-          "1000046901",
-          "1000051526",
+          "1000070584",
+          "1000052932",
           "1000051787",
-          "1000046681",
-          "1000047019",
-          "1000047583",
+          "1000051526",
+          "1000051495",
+          "1000047651",
           "1000047598",
-          "1000052932"
+          "1000047583",
+          "1000047019",
+          "1000046901",
+          "1000046681",
+          "1000046627",
+          "1000046616"
         ]
       },
       {
@@ -294,25 +333,26 @@
           "name": "Animations"
         },
         "modId": 52596,
-        "name": "ReAnimation v2 - Rogue - first-person animation pack",
+        "name": "ReAnimation v3 - Complete - first-person animation pack",
         "status": "published",
-        "summary": "An immersive reimagining of (some) of the TES3: Morrowind 1st-person animations. Developed for OpenMW engine.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52596/52596-1722631341-1350205614.png",
+        "summary": "An immersive reimagining of the TES3: Morrowind 1st-person animations. Punch, slash, chop, shoot and thrust your way through vvardenfell with style!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52596/52596-1789509564-1394201928.png",
         "uid": "429496782196",
-        "updatedAt": "2026-02-22T22:04:02Z",
+        "updatedAt": "2026-09-15T23:20:19Z",
         "fileIds": [
-          "1000060986",
+          "1000070471",
           "1000037032",
+          "1000070467",
           "1000048926",
           "1000046259",
-          "1000046611",
-          "1000046628",
-          "1000051494",
-          "1000051789",
-          "1000050262",
           "1000052830",
-          "1000046583",
+          "1000051789",
+          "1000051494",
+          "1000050262",
+          "1000046628",
+          "1000046611",
           "1000046584",
+          "1000046583",
           "1000037031"
         ]
       },
@@ -333,6 +373,6 @@
         "updatedAt": "2022-06-27T09:40:34Z"
       }
     ],
-    "totalCount": 15
+    "totalCount": 17
   }
 }

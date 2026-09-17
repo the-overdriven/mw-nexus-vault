@@ -1,12 +1,50 @@
 {
-  "checkedAt": "2026-09-12T11:05:58.704Z",
+  "checkedAt": "2026-09-17T18:39:00.917Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 45
+        "100": 47
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-13T19:47:17Z",
+        "fileSize": 2,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60233,
+        "name": "OpenSkele - OpenMW Addon for USkele Playable Skeleton Race",
+        "status": "published",
+        "summary": "New scripted features for, I quote, \"Morrowind_Best_Playable_Skeleton_Race_Mod\".",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60233/60233-1789328685-948910341.png",
+        "uid": "429496789833",
+        "updatedAt": "2026-09-13T19:47:17Z",
+        "fileIds": [
+          "1000070307"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-13T02:27:24Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60218,
+        "name": "Unlockable Races of Tamriel (OpenMW)",
+        "status": "published",
+        "summary": "Unlock Tamriel Data races by meeting them in person first. Another reason to finally go to the Mainland.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60218/60218-1789265820-1503348024.png",
+        "uid": "429496789818",
+        "updatedAt": "2026-09-14T04:08:04Z",
+        "fileIds": [
+          "1000070335"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-11T00:06:03Z",
@@ -407,9 +445,9 @@
         "summary": "Create your own chargen traits. Backgrounds, beliefs, lineages - you name it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58703/58703-1776596948-541661158.png",
         "uid": "429496788303",
-        "updatedAt": "2026-06-12T09:54:28Z",
+        "updatedAt": "2026-09-14T03:25:05Z",
         "fileIds": [
-          "1000065616"
+          "1000070333"
         ]
       },
       {
@@ -469,7 +507,7 @@
         "summary": "Marksman combat shouldn't feel like melee with extra reach.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58511/58511-1774536050-47552896.png",
         "uid": "429496788111",
-        "updatedAt": "2026-08-19T12:26:43Z",
+        "updatedAt": "2026-09-08T15:13:09Z",
         "fileIds": [
           "1000068616"
         ]
@@ -507,9 +545,9 @@
         "summary": "Shows how many arrows, bolts or throwing weapons you have.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58307/58307-1772293971-1405592073.png",
         "uid": "429496787907",
-        "updatedAt": "2026-08-17T09:29:55Z",
+        "updatedAt": "2026-09-17T04:29:30Z",
         "fileIds": [
-          "1000068526"
+          "1000070564"
         ]
       },
       {
@@ -752,8 +790,9 @@
         "summary": "Adds in items that NPCs should have, but they don't.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57661/57661-1761060498-837099092.png",
         "uid": "429496787261",
-        "updatedAt": "2025-11-05T17:31:47Z",
+        "updatedAt": "2026-09-14T03:02:15Z",
         "fileIds": [
+          "1000070332",
           "1000058204",
           "1000058192",
           "1000057829"
@@ -905,6 +944,6 @@
         ]
       }
     ],
-    "totalCount": 45
+    "totalCount": 47
   }
 }
