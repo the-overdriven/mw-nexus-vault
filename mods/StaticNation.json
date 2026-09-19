@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-17T18:39:46.953Z",
+  "checkedAt": "2026-09-19T10:25:05.473Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 29,
+        "100": 28,
         "101": 1,
         "736": 3,
         "1151": 1,
@@ -12,45 +12,6 @@
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2026-07-15T16:03:01Z",
-        "fileSize": 14864,
-        "modCategory": {
-          "categoryId": 15,
-          "name": "Utilities"
-        },
-        "modId": 59606,
-        "name": "Wraithguard Toolkit",
-        "status": "published",
-        "summary": "Tool for Sorting and Creating a customizations.toml for use with MOMW Tools (OpenMW), Data File Conflict Viewer, Mesh and Texture Viewer, Cell and Conflict Heat mapper, Landscape Viewer, MLOX Rule Maker, Pathgrid Viewer, Field Diff Viewer,",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59606/59606-1785383974-2036058725.png",
-        "uid": "429496789206",
-        "updatedAt": "2026-08-26T19:18:07Z",
-        "fileIds": [
-          "1000069150",
-          "1000069148",
-          "1000069146",
-          "1000069145",
-          "1000069144",
-          "1000068588",
-          "1000068587",
-          "1000068586",
-          "1000068585",
-          "1000068584",
-          "1000068583",
-          "1000068344",
-          "1000068294",
-          "1000068085",
-          "1000067835",
-          "1000067776",
-          "1000067204",
-          "1000067171",
-          "1000067141",
-          "1000067138",
-          "1000067112"
-        ]
-      },
       {
         "adultContent": false,
         "createdAt": "2024-10-01T21:51:51Z",
@@ -595,6 +556,6 @@
         "updatedAt": "2008-01-07T23:52:27Z"
       }
     ],
-    "totalCount": 29
+    "totalCount": 28
   }
 }

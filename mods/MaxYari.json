@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-17T18:35:51.272Z",
+  "checkedAt": "2026-09-19T10:24:02.697Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -42,7 +42,7 @@
         "name": "Max Yari's Script Services",
         "status": "published",
         "summary": "A shared script library that many of my mods require. Shares the data between different mods reducing the amount of engine requests they do and potentially improving performance.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60256/60256-1789504231-1361858631.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60256/60256-1789732764-228299813.png",
         "uid": "429496789856",
         "updatedAt": "2026-09-15T20:23:49Z",
         "fileIds": [
@@ -87,9 +87,9 @@
         "summary": "An OpenMW mod that makes sneak mechanics playable. Sneak detection is now a visually displayed gradual progress. This mod attempts to strike a balance between gamified mechanics and \"\"\"realism\"\"\".",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58441/58441-1773578450-1185793680.png",
         "uid": "429496788041",
-        "updatedAt": "2026-09-17T16:51:15Z",
+        "updatedAt": "2026-09-18T13:45:55Z",
         "fileIds": [
-          "1000070596",
+          "1000070684",
           "1000062294",
           "1000061801",
           "1000061666",
@@ -243,9 +243,9 @@
         "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49+. With new voice lines (optional) and animations. Rich on memorable encounters and engaging fights.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
         "uid": "429496784664",
-        "updatedAt": "2026-09-17T14:31:24Z",
+        "updatedAt": "2026-09-18T13:54:57Z",
         "fileIds": [
-          "1000070584",
+          "1000070685",
           "1000052932",
           "1000051787",
           "1000051526",

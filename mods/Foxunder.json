@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-09-17T18:32:24.796Z",
+  "checkedAt": "2026-09-19T10:23:20.634Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 45
+        "100": 46
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-17T19:29:26Z",
+        "fileSize": 12,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60280,
+        "name": "(OpenMW) Footprints",
+        "status": "published",
+        "summary": "Footprints. Now in OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60280/60280-1789673308-130307630.png",
+        "uid": "429496789880",
+        "updatedAt": "2026-09-18T15:00:32Z",
+        "fileIds": [
+          "1000070690",
+          "1000070657"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-09T15:43:22Z",
@@ -151,8 +171,9 @@
         "summary": "Actors now watch your fights, comment on them, and keep their distance (highly configurable)",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59990/59990-1787682983-746379143.png",
         "uid": "429496789590",
-        "updatedAt": "2026-09-09T15:27:12Z",
+        "updatedAt": "2026-09-19T08:58:44Z",
         "fileIds": [
+          "1000070762",
           "1000070022",
           "1000069579",
           "1000069534",
@@ -605,8 +626,9 @@
         "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
         "uid": "429496788235",
-        "updatedAt": "2026-09-09T14:32:02Z",
+        "updatedAt": "2026-09-19T08:59:39Z",
         "fileIds": [
+          "1000070763",
           "1000070018",
           "1000069571",
           "1000069467",
@@ -1074,6 +1096,6 @@
         ]
       }
     ],
-    "totalCount": 45
+    "totalCount": 46
   }
 }

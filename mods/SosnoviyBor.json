@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-09-17T18:39:00.917Z",
+  "checkedAt": "2026-09-19T10:24:46.464Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 47
+        "100": 48
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-18T02:54:09Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 60286,
+        "name": "Distinct Elemental Damage (OpenMW)",
+        "status": "published",
+        "summary": "New secondary effects for elemental damage. To spice things up and make the choice of which element to use even more interesting.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60286/60286-1789697897-555010799.jpg",
+        "uid": "429496789886",
+        "updatedAt": "2026-09-18T02:54:09Z",
+        "fileIds": [
+          "1000070656"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-13T19:47:17Z",
@@ -419,10 +438,10 @@
         "summary": "Select your character's past that will shape their future. Almost 300 traits across 4 types to choose from!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58704/58704-1776598686-424312326.png",
         "uid": "429496788304",
-        "updatedAt": "2026-08-21T08:23:08Z",
+        "updatedAt": "2026-09-17T21:53:42Z",
         "fileIds": [
+          "1000070648",
           "1000068701",
-          "1000067541",
           "1000067072",
           "1000065533",
           "1000064793",
@@ -944,6 +963,6 @@
         ]
       }
     ],
-    "totalCount": 47
+    "totalCount": 48
   }
 }

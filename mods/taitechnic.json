@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-17T18:40:06.227Z",
+  "checkedAt": "2026-09-19T10:25:06.191Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,11 +21,12 @@
         "summary": "*Update* Added a bugfix and better performance patch for Third Person Alt Attacks. // Adds a bit of visual variance to NPC's, by customizing their walk style and adding some extra idle animations. Also provides a few improvements to player",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57633/57633-1760646399-2125603799.png",
         "uid": "429496787233",
-        "updatedAt": "2026-09-13T18:50:59Z",
+        "updatedAt": "2026-09-18T20:48:25Z",
         "fileIds": [
-          "1000069478",
+          "1000070715",
           "1000070303",
           "1000069757",
+          "1000069478",
           "1000069246",
           "1000068090",
           "1000066972"

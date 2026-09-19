@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-17T18:37:32.873Z",
+  "checkedAt": "2026-09-19T10:24:31.342Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -413,8 +413,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-09-15T08:18:49Z",
+        "updatedAt": "2026-09-17T20:13:06Z",
         "fileIds": [
+          "1000070619",
           "1000070406",
           "1000070366",
           "1000070197",

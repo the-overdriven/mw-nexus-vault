@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-17T18:40:35.069Z",
+  "checkedAt": "2026-09-19T10:25:15.896Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -60,8 +60,9 @@
         "summary": "Clothes weigh less, better resting magicka regen, better icons, cure animals, player homes, artifacts nerfed",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1777206657-198564113.png",
         "uid": "429496787529",
-        "updatedAt": "2026-09-03T17:28:28Z",
+        "updatedAt": "2026-09-19T06:18:15Z",
         "fileIds": [
+          "1000070749",
           "1000069689",
           "1000069687",
           "1000069613",
@@ -142,9 +143,9 @@
         "summary": "Write on different paper and in a blank book. Use colored inks. Copy books, magic scrolls, regular scrolls and notes. +Read Book Indicator. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57583/57583-1761796003-884952759.png",
         "uid": "429496787183",
-        "updatedAt": "2026-09-17T05:01:43Z",
+        "updatedAt": "2026-09-19T04:34:10Z",
         "fileIds": [
-          "1000070568",
+          "1000070740",
           "1000061887"
         ]
       },
