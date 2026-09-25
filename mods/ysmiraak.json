@@ -1,13 +1,32 @@
 {
-  "checkedAt": "2026-09-19T10:25:36.548Z",
+  "checkedAt": "2026-09-25T00:18:45.101Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 5,
+        "100": 6,
         "1704": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-21T17:09:05Z",
+        "fileSize": 17013,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 60324,
+        "name": "not so loud",
+        "status": "published",
+        "summary": "this mod lowers the volume of some sound effects, by replacing the audio files.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60324/60324-1790009860-22637500.png",
+        "uid": "429496789924",
+        "updatedAt": "2026-09-21T17:09:05Z",
+        "fileIds": [
+          "1000070905"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2025-06-18T23:39:38Z",
@@ -118,6 +137,6 @@
         ]
       }
     ],
-    "totalCount": 5
+    "totalCount": 6
   }
 }

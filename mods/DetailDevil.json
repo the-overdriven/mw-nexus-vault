@@ -1,12 +1,32 @@
 {
-  "checkedAt": "2026-09-19T10:23:19.086Z",
+  "checkedAt": "2026-09-25T00:11:12.323Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 39
+        "100": 40
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-23T20:39:30Z",
+        "fileSize": 9,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60350,
+        "name": "Devilish Eyes On You (OpenMW 0.51)",
+        "status": "published",
+        "summary": "This mod assigns one NPC to keep an eye on the player inside homes and shops. Guards have priority, but if no guard is present, another suitable NPC will take over.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60350/60350-1790191806-1378570701.png",
+        "uid": "429496789950",
+        "updatedAt": "2026-09-24T16:29:44Z",
+        "fileIds": [
+          "1000071119",
+          "1000071068"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-25T18:56:00Z",
@@ -35,13 +55,15 @@
           "name": "Immersion"
         },
         "modId": 59672,
-        "name": "Devilish Knocking (OpenMW)",
+        "name": "Devilish Knocking (OpenMW 0.51)",
         "status": "published",
         "summary": "Animated player knocking on doors with npc responses.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59672/59672-1784895336-1650851827.png",
         "uid": "429496789272",
-        "updatedAt": "2026-07-24T16:31:31Z",
+        "updatedAt": "2026-09-24T19:46:23Z",
         "fileIds": [
+          "1000071136",
+          "1000070920",
           "1000067484",
           "1000067462"
         ]
@@ -60,8 +82,9 @@
         "summary": "Become a skooma addict and descend step by step into madness where reality fractures into hallucinations shaped by moon sugar, Sheogorath and the Wabbajack.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59337/59337-1781397530-1083066705.png",
         "uid": "429496788937",
-        "updatedAt": "2026-09-13T16:54:26Z",
+        "updatedAt": "2026-09-21T18:01:13Z",
         "fileIds": [
+          "1000070908",
           "1000070291",
           "1000067709",
           "1000067375",
@@ -298,12 +321,13 @@
         "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55869/55869-1737917674-22943108.png",
         "uid": "429496785469",
-        "updatedAt": "2026-03-18T21:40:21Z",
+        "updatedAt": "2026-09-24T17:59:21Z",
         "fileIds": [
+          "1000071125",
           "1000061788",
+          "1000061155",
           "1000054103",
           "1000053868",
-          "1000061155",
           "1000049978"
         ]
       },
@@ -903,6 +927,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 39
+    "totalCount": 40
   }
 }

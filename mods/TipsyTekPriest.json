@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-19T10:25:34.492Z",
+  "checkedAt": "2026-09-25T00:17:20.794Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19
+        "100": 21
       }
     },
     "nodes": [
@@ -24,6 +24,44 @@
         "updatedAt": "2026-08-24T09:01:58Z",
         "fileIds": [
           "1000068955"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-30T14:13:00Z",
+        "fileSize": 13,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 56804,
+        "name": "Interesting Outfits - Project Cyrodiil Guards",
+        "status": "published",
+        "summary": "Replaces the generic guards found in Project: Cyrodiil with randomized variants. There are four male variants and two female variants for Anvil and Sutch Guards. Imperial Navy guards are called \"Imperial Marines\" and have even more variety",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56804/56804-1748614206-1352037777.jpeg",
+        "uid": "429496786404",
+        "updatedAt": "2026-09-20T07:32:13Z",
+        "fileIds": [
+          "1000070812"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-05-30T11:50:18Z",
+        "fileSize": 61,
+        "modCategory": {
+          "categoryId": 11,
+          "name": "NPCs"
+        },
+        "modId": 56803,
+        "name": "Interesting Outfits - SHOTN Guards",
+        "status": "published",
+        "summary": "Replaces the generic guards found in SHOTN with new randomised variants. There are 5 guard groupings, each representing the power players in the Reach.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56803/56803-1748605520-443835138.png",
+        "uid": "429496786403",
+        "updatedAt": "2026-09-21T08:32:21Z",
+        "fileIds": [
+          "1000070882"
         ]
       },
       {
@@ -354,9 +392,9 @@
         "summary": "Adds weapons and armour from Tamriel_Data, OAAB_Data and Danke's Armors to Daedric Cultists to make them feel less generic.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51922/51922-1673631978-1979698301.png",
         "uid": "429496781522",
-        "updatedAt": "2026-07-15T01:20:46Z",
+        "updatedAt": "2026-09-24T08:55:12Z",
         "fileIds": [
-          "1000067082",
+          "1000071105",
           "1000067083",
           "1000052315"
         ]
@@ -379,6 +417,6 @@
         "fileIds": []
       }
     ],
-    "totalCount": 19
+    "totalCount": 21
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-19T10:24:00.544Z",
+  "checkedAt": "2026-09-25T00:12:56.069Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -145,22 +145,24 @@
         "name": "Companion Leveler",
         "status": "published",
         "summary": "This MWSE mod allows both NPC and Creature companions to level up with the player based on their Class/Creature Type (Class Mode) or specific player selected build settings (Build Mode). In Class Mode, you also have the choice of changing",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51760/51760-1746636767-1087942086.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51760/51760-1789994199-894130565.png",
         "uid": "429496781360",
-        "updatedAt": "2025-10-19T18:57:37Z",
+        "updatedAt": "2026-09-22T10:25:09Z",
         "fileIds": [
+          "1000070961",
+          "1000070894",
           "1000057785",
-          "1000038401",
-          "1000038967",
-          "1000051001",
+          "1000057217",
           "1000052814",
           "1000052587",
+          "1000051001",
           "1000048759",
-          "1000057217",
-          "1000037506",
+          "1000048374",
           "1000048364",
-          "1000032752",
-          "1000048374"
+          "1000038967",
+          "1000038401",
+          "1000037506",
+          "1000032752"
         ]
       },
       {

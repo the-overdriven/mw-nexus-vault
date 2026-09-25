@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-19T10:25:35.985Z",
+  "checkedAt": "2026-09-25T00:18:26.618Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -42,8 +42,9 @@
         "summary": "Replaces Starwind armor, clothes and weapons with new assets.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56571/56571-1746980101-1646817129.png",
         "uid": "429496786171",
-        "updatedAt": "2026-09-14T19:11:12Z",
+        "updatedAt": "2026-09-20T09:28:31Z",
         "fileIds": [
+          "1000070816",
           "1000070378",
           "1000062172",
           "1000062093",
@@ -139,10 +140,10 @@
         "summary": "New quests, NPCs, dialogue, bugfixes and assets to take Starwind to the next level.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55968/55968-1787828631-237915971.png",
         "uid": "429496785568",
-        "updatedAt": "2026-09-17T12:58:47Z",
+        "updatedAt": "2026-09-23T12:13:31Z",
         "fileIds": [
-          "1000069979",
-          "1000070581",
+          "1000071042",
+          "1000070884",
           "1000069228",
           "1000068246",
           "1000068243",
@@ -151,6 +152,8 @@
           "1000059509",
           "1000058970",
           "1000058945",
+          "1000070581",
+          "1000069979",
           "1000069436",
           "1000069326",
           "1000069203",

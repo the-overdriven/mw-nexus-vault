@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-19T10:24:02.697Z",
+  "checkedAt": "2026-09-25T00:13:16.024Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -19,14 +19,14 @@
           "name": "Immersion"
         },
         "modId": 60272,
-        "name": "They Bleed -- OpenMW",
+        "name": "They Bleed -- immersive blood effects -- OpenMW",
         "status": "published",
         "summary": "The spoils of war taint your surroundings; your violence now leaves bloodied marks on the environment. Low-HP player/NPCs also leave subtle blood trails.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60272/60272-1789642462-572581304.png",
         "uid": "429496789872",
-        "updatedAt": "2026-09-17T11:01:10Z",
+        "updatedAt": "2026-09-24T09:28:21Z",
         "fileIds": [
-          "1000070576",
+          "1000071106",
           "1000070575"
         ]
       },
@@ -243,9 +243,9 @@
         "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49+. With new voice lines (optional) and animations. Rich on memorable encounters and engaging fights.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
         "uid": "429496784664",
-        "updatedAt": "2026-09-18T13:54:57Z",
+        "updatedAt": "2026-09-24T18:00:09Z",
         "fileIds": [
-          "1000070685",
+          "1000071126",
           "1000052932",
           "1000051787",
           "1000051526",
@@ -338,9 +338,9 @@
         "summary": "An immersive reimagining of the TES3: Morrowind 1st-person animations. Punch, slash, chop, shoot and thrust your way through vvardenfell with style!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52596/52596-1789509564-1394201928.png",
         "uid": "429496782196",
-        "updatedAt": "2026-09-15T23:20:19Z",
+        "updatedAt": "2026-09-24T00:54:59Z",
         "fileIds": [
-          "1000070471",
+          "1000071082",
           "1000037032",
           "1000070467",
           "1000048926",

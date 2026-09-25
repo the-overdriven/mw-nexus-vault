@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-09-19T10:23:07.541Z",
+  "checkedAt": "2026-09-25T00:10:05.413Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 24
+        "100": 25
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-22T05:55:09Z",
+        "fileSize": 16,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60332,
+        "name": "Stolen Goods Progression",
+        "status": "published",
+        "summary": "(OpenMW) Evidence Chests scale up the more they are plundered.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60332/60332-1790056400-637390660.png",
+        "uid": "429496789932",
+        "updatedAt": "2026-09-22T05:55:09Z",
+        "fileIds": [
+          "1000070950"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-07-29T21:32:34Z",
@@ -583,6 +602,6 @@
         ]
       }
     ],
-    "totalCount": 24
+    "totalCount": 25
   }
 }

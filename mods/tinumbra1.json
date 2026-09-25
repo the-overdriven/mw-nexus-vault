@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-09-19T10:25:15.896Z",
+  "checkedAt": "2026-09-25T00:16:44.504Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 11
+        "100": 12
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-20T18:43:28Z",
+        "fileSize": 121,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60224,
+        "name": "Illiteracy (OpenMW)",
+        "status": "published",
+        "summary": "You can't read with low Intelligence. Or until you read ABCs and some simpler texts. TR, OAAB, Dr Data included. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60224/60224-1789929515-494660867.jpg",
+        "uid": "429496789824",
+        "updatedAt": "2026-09-23T06:02:00Z",
+        "fileIds": [
+          "1000071028"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-29T15:37:06Z",
@@ -57,15 +76,14 @@
         "modId": 57929,
         "name": "Tiny Mods",
         "status": "published",
-        "summary": "Clothes weigh less, better resting magicka regen, better icons, cure animals, player homes, artifacts nerfed",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1777206657-198564113.png",
+        "summary": "Clothes weigh less, better resting magicka regen, better icons, cure animals, player homes, artifacts nerfed etc.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1790152767-531428970.gif",
         "uid": "429496787529",
-        "updatedAt": "2026-09-19T06:18:15Z",
+        "updatedAt": "2026-09-23T11:19:17Z",
         "fileIds": [
+          "1000071041",
           "1000070749",
-          "1000069689",
           "1000069687",
-          "1000069613",
           "1000069200",
           "1000067929",
           "1000067892",
@@ -74,7 +92,8 @@
           "1000062730",
           "1000062726",
           "1000062492",
-          "1000062247"
+          "1000062247",
+          "1000069613"
         ]
       },
       {
@@ -91,9 +110,9 @@
         "summary": "Adds consequences or limitations to Necromancy, Levitation, Charm, daedra summoning and to other magic. All is optional. Tamriel Rebuilt included. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57820/57820-1775478445-890398478.jpg",
         "uid": "429496787420",
-        "updatedAt": "2026-08-15T06:16:55Z",
+        "updatedAt": "2026-09-23T05:43:57Z",
         "fileIds": [
-          "1000068424",
+          "1000071025",
           "1000067395"
         ]
       },
@@ -111,7 +130,12 @@
         "summary": "Organizes custom potions with descriptive icons and names based on the strongest effects. Quality based potion weight. Any language",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57782/57782-1763315717-564798601.png",
         "uid": "429496787382",
-        "updatedAt": "2026-04-12T07:57:56Z"
+        "updatedAt": "2026-09-22T17:59:21Z",
+        "fileIds": [
+          "1000070994",
+          "1000060402",
+          "1000059267"
+        ]
       },
       {
         "adultContent": false,
@@ -140,7 +164,7 @@
         "modId": 57583,
         "name": "Scribo - Write on Paper (OpenMW)",
         "status": "published",
-        "summary": "Write on different paper and in a blank book. Use colored inks. Copy books, magic scrolls, regular scrolls and notes. +Read Book Indicator. +RU",
+        "summary": "Write on different paper and in a blank book. Use colored inks. Copy books, magic scrolls, regular scrolls and notes. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57583/57583-1761796003-884952759.png",
         "uid": "429496787183",
         "updatedAt": "2026-09-19T04:34:10Z",
@@ -223,6 +247,6 @@
         "updatedAt": "2026-01-20T03:57:25Z"
       }
     ],
-    "totalCount": 11
+    "totalCount": 12
   }
 }

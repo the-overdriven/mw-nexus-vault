@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-19T10:24:44.864Z",
+  "checkedAt": "2026-09-25T00:15:09.941Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -139,8 +139,8 @@
         "modId": 59140,
         "name": "DreamWeave INI Importer",
         "status": "published",
-        "summary": "Modern Morrowind.ini → OpenMW config importer with CLI, GUI, controller support, portable workflows, and a custom optimized software-rendered Linux/PortMaster build. Lightweight where it counts, safer than hand-editing configs, and built",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59140/59140-1780010819-1574966381.png",
+        "summary": "Turn Morrowind.ini into OpenMW config with a GUI, preview, controller support, CLI, and portable builds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59140/59140-1789980328-644390829.png",
         "uid": "429496788740",
         "updatedAt": "2026-05-29T10:29:41Z",
         "fileIds": [
@@ -272,8 +272,8 @@
         "modId": 57512,
         "name": "VfsTool",
         "status": "published",
-        "summary": "Command-line tool for introspecting OpenMW installations.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57512/57512-1758947882-1508162656.png",
+        "summary": "Own the OpenMW VFS: inspect, trace, extract, serialize, and materialize your entire mod setup.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57512/57512-1789977274-1036567853.png",
         "uid": "429496787112",
         "updatedAt": "2025-10-03T03:16:31Z",
         "fileIds": [
@@ -297,14 +297,14 @@
         "name": "S3Lightfixes",
         "status": "published",
         "summary": "The ultimate light-fixing utility for OpenMW installations. Written in Rust, cross-platform, and beyond customizable.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57511/57511-1758947023-1389570336.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57511/57511-1789972162-552178533.png",
         "uid": "429496787111",
-        "updatedAt": "2026-07-21T15:00:42Z",
+        "updatedAt": "2026-09-21T13:18:27Z",
         "fileIds": [
-          "1000067321",
-          "1000067320",
-          "1000067319",
-          "1000067318",
+          "1000070898",
+          "1000070899",
+          "1000070897",
+          "1000070896",
           "1000063272",
           "1000057318",
           "1000057317",

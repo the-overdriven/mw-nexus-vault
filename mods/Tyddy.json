@@ -1,14 +1,33 @@
 {
-  "checkedAt": "2026-09-19T10:25:35.062Z",
+  "checkedAt": "2026-09-25T00:17:49.631Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 55,
+        "100": 56,
         "1704": 1,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-19T18:15:13Z",
+        "fileSize": 5308,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 60307,
+        "name": "Cavern Fish - An Invasive Species from Stros M'kai - Aendemika of Hammerfell",
+        "status": "published",
+        "summary": "Recreates and returns the fish from TESA: Redguard to the next game in the series!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60307/60307-1789841207-1399034424.png",
+        "uid": "429496789907",
+        "updatedAt": "2026-09-19T18:15:13Z",
+        "fileIds": [
+          "1000070794"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-09T16:20:13Z",
@@ -206,9 +225,9 @@
         "summary": "Per-instance mesh variation, driven by YAML. Pluginless — no ESP, no load order, no patches. Give a mesh a set of alternatives and a rule for where they appear, and every object using that mesh picks its own. Two bushes, two crates, or two",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59795/59795-1786028681-1868922997.png",
         "uid": "429496789395",
-        "updatedAt": "2026-08-30T03:33:53Z",
+        "updatedAt": "2026-09-19T17:54:55Z",
         "fileIds": [
-          "1000069418"
+          "1000070791"
         ]
       },
       {
@@ -988,6 +1007,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 55
+    "totalCount": 56
   }
 }

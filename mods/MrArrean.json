@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-09-19T10:24:21.185Z",
+  "checkedAt": "2026-09-25T00:13:43.466Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 3
+        "100": 4
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-22T07:40:30Z",
+        "fileSize": 37,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60333,
+        "name": "Slightly Better Nordic Silver Claymore",
+        "status": "published",
+        "summary": "Minimal improvements to original Bloodmoon Nordic Silver Claymore mesh so that I can play while using it without wanting to claw my eyes out",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60333/60333-1790061061-1591104296.png",
+        "uid": "429496789933",
+        "updatedAt": "2026-09-22T07:40:30Z",
+        "fileIds": [
+          "1000070951"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-05-30T01:10:55Z",
@@ -93,6 +112,6 @@
         ]
       }
     ],
-    "totalCount": 3
+    "totalCount": 4
   }
 }
