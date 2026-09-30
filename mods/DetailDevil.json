@@ -1,12 +1,55 @@
 {
-  "checkedAt": "2026-09-25T00:11:12.323Z",
+  "checkedAt": "2026-09-30T21:42:21.237Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 40
+        "100": 41
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-27T00:26:20Z",
+        "fileSize": 4422,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60380,
+        "name": "Devilish Snow (OpenMW)",
+        "status": "published",
+        "summary": "A snow shader mod that gradually covers the ground and objects with a textured layer of snow. It also adds optional visible breath clouds to the player and NPCs in cold weather (optional).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60380/60380-1790467704-142720474.png",
+        "uid": "429496789980",
+        "updatedAt": "2026-09-28T13:25:58Z",
+        "fileIds": [
+          "1000071418",
+          "1000071371",
+          "1000071342"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-26T02:14:21Z",
+        "fileSize": 26,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 60370,
+        "name": "Devilish Magic Shield  Effects (OpenMW)",
+        "status": "published",
+        "summary": "This mod overhauls the magic \"Shield\", \"Fire Shield\", \"Frost Shield\", \"Lightning Shield\" effects by making the bubble customizable in colors, opacity, distortion, size, impact effects and more using a new shader-lua approach to magic.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60370/60370-1790390679-979690158.png",
+        "uid": "429496789970",
+        "updatedAt": "2026-09-26T17:09:48Z",
+        "fileIds": [
+          "1000071276",
+          "1000071272",
+          "1000071261",
+          "1000071233"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-23T20:39:30Z",
@@ -16,13 +59,15 @@
           "name": "Immersion"
         },
         "modId": 60350,
-        "name": "Devilish Eyes On You (OpenMW 0.51)",
+        "name": "Devilish Eyes On You (OpenMW)",
         "status": "published",
         "summary": "This mod assigns one NPC to keep an eye on the player inside homes and shops. Guards have priority, but if no guard is present, another suitable NPC will take over.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60350/60350-1790191806-1378570701.png",
         "uid": "429496789950",
-        "updatedAt": "2026-09-24T16:29:44Z",
+        "updatedAt": "2026-09-28T16:30:59Z",
         "fileIds": [
+          "1000071428",
+          "1000071190",
           "1000071119",
           "1000071068"
         ]
@@ -55,7 +100,7 @@
           "name": "Immersion"
         },
         "modId": 59672,
-        "name": "Devilish Knocking (OpenMW 0.51)",
+        "name": "Devilish Knocking (OpenMW)",
         "status": "published",
         "summary": "Animated player knocking on doors with npc responses.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59672/59672-1784895336-1650851827.png",
@@ -321,33 +366,14 @@
         "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55869/55869-1737917674-22943108.png",
         "uid": "429496785469",
-        "updatedAt": "2026-09-24T17:59:21Z",
+        "updatedAt": "2026-09-25T13:58:15Z",
         "fileIds": [
-          "1000071125",
+          "1000071187",
           "1000061788",
           "1000061155",
           "1000054103",
           "1000053868",
           "1000049978"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-01-12T04:50:09Z",
-        "fileSize": 239,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 55769,
-        "name": "Devilish Magic Mushrooms (OpenMW 0.49)",
-        "status": "published",
-        "summary": "Eat specific mushrooms (Hypha Facia) and experience a psychedelic trip with shader effects.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55769/55769-1736657092-1697501158.png",
-        "uid": "429496785369",
-        "updatedAt": "2025-01-12T18:09:20Z",
-        "fileIds": [
-          "1000049521"
         ]
       },
       {
@@ -927,6 +953,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 40
+    "totalCount": 41
   }
 }

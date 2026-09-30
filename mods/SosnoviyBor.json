@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-25T00:15:39.527Z",
+  "checkedAt": "2026-09-30T21:47:06.619Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -7,6 +7,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-26T15:06:25Z",
+        "fileSize": 31,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 60374,
+        "name": "Drop-in Utils (OpenMW)",
+        "status": "published",
+        "summary": "My collection of drop-in modules that can be added to any OpenMW Lua projects for either performance or convenience.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60374/60374-1790435772-2052177808.png",
+        "uid": "429496789974",
+        "updatedAt": "2026-09-29T10:56:05Z",
+        "fileIds": [
+          "1000071470"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-18T02:54:09Z",
@@ -195,25 +214,6 @@
         "updatedAt": "2026-08-19T12:35:59Z",
         "fileIds": [
           "1000068617"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2026-07-25T12:17:21Z",
-        "fileSize": 3,
-        "modCategory": {
-          "categoryId": 17,
-          "name": "Modders Resources and Tutorials"
-        },
-        "modId": 59680,
-        "name": "Text Set Settings Renderer (OpenMW)",
-        "status": "published",
-        "summary": "A custom settings renderer for text lists. The mod does nothing on its own - it's a library/utility for other modders and mods to use.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59680/59680-1784980281-389044931.png",
-        "uid": "429496789280",
-        "updatedAt": "2026-07-25T17:41:26Z",
-        "fileIds": [
-          "1000067542"
         ]
       },
       {
@@ -483,12 +483,12 @@
         "summary": "Guess now it's my turn to have a patch hub :d",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58744/58744-1777126657-936089804.png",
         "uid": "429496788344",
-        "updatedAt": "2026-09-11T07:19:48Z",
+        "updatedAt": "2026-09-29T08:12:26Z",
         "fileIds": [
+          "1000071463",
           "1000070136",
           "1000068352",
           "1000063656",
-          "1000063655",
           "1000063529",
           "1000063024"
         ]
@@ -564,9 +564,9 @@
         "summary": "Shows how many arrows, bolts or throwing weapons you have.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58307/58307-1772293971-1405592073.png",
         "uid": "429496787907",
-        "updatedAt": "2026-09-17T04:29:30Z",
+        "updatedAt": "2026-09-25T09:24:07Z",
         "fileIds": [
-          "1000070564"
+          "1000071167"
         ]
       },
       {

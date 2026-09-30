@@ -1,12 +1,69 @@
 {
-  "checkedAt": "2026-09-25T00:09:54.090Z",
+  "checkedAt": "2026-09-30T21:38:57.039Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 106
+        "100": 109
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-27T21:36:37Z",
+        "fileSize": 2094,
+        "modCategory": {
+          "categoryId": 37,
+          "name": "Armour - Shields"
+        },
+        "modId": 60390,
+        "name": "Azura's Servant Replacer",
+        "status": "published",
+        "summary": "Replaces Azura's Servant shield with new HQ models and HQ atlased textures (2048 px). Changes enchanting to more useful. All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60390/60390-1790622310-1362162487.png",
+        "uid": "429496789990",
+        "updatedAt": "2026-09-30T08:44:33Z",
+        "fileIds": [
+          "1000071577"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-25T23:45:51Z",
+        "fileSize": 4170,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 60368,
+        "name": "Chitin Weapons Replacer",
+        "status": "published",
+        "summary": "Replaces all chitin weapons with new HQ models and HQ atlased textures (1024 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60368/60368-1790437039-1852711270.png",
+        "uid": "429496789968",
+        "updatedAt": "2026-09-26T15:31:38Z",
+        "fileIds": [
+          "1000071270"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-25T13:22:13Z",
+        "fileSize": 15627,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 60360,
+        "name": "Silver Weapons Replacer by Articus",
+        "status": "published",
+        "summary": "Replaces all silver weapons with new HQ models and HQ atlased textures (2048 px). All you need is to place conteining files to your Morrowind/Data Files directory. Enjoy the game and don't forget to endorse! :)",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60360/60360-1790342023-431982970.jpg",
+        "uid": "429496789960",
+        "updatedAt": "2026-09-25T14:24:47Z",
+        "fileIds": [
+          "1000071189"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-22T11:27:22Z",
@@ -1431,56 +1488,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56382/56382-1745164694-856086576.jpeg",
         "uid": "429496785982",
         "updatedAt": "2025-04-25T12:26:26Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-04-06T17:36:17Z",
-        "fileSize": 30214,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 56318,
-        "name": "Glass Revamp",
-        "status": "published",
-        "summary": "This mod replaces glass armor, weapons, ore, ingredient and adds a cool Dunmer male face and hairstyle to play with (compatible with Articus BN Faces). Adds glow and transparency.All you need is to place conteining files to your",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56318/56318-1743960788-1291917446.jpeg",
-        "uid": "429496785918",
-        "updatedAt": "2025-10-01T16:26:14Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-28T21:22:11Z",
-        "fileSize": 19232,
-        "modCategory": {
-          "categoryId": 38,
-          "name": "Armour"
-        },
-        "modId": 56108,
-        "name": "Insane Dwemer Armor Replacer",
-        "status": "published",
-        "summary": "Replaces Dwemer Armor with new HQ models and 2K textures. This mod is designed to work with InsanitySorrow's dwemer weapons. Helmet has a climate control. Spellbreaker is reforged too.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56108/56108-1742764597-971555088.jpeg",
-        "uid": "429496785708",
-        "updatedAt": "2025-04-24T21:06:05Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-02-27T13:50:52Z",
-        "fileSize": 207325,
-        "modCategory": {
-          "categoryId": 9,
-          "name": "Models and Textures"
-        },
-        "modId": 56104,
-        "name": "Tribunal Traditions",
-        "status": "published",
-        "summary": "Replaces Vivec and Velothi architecture textures, creature god Vivec, his statues, moon Baar Dau, makes Ghost fence and Vivec water animated, replaces Ordinator armor with HQ models and textures, Velothi paintings, Vivec banners, Velothi",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56104/56104-1740662687-96270897.jpeg",
-        "uid": "429496785704",
-        "updatedAt": "2025-04-16T22:56:37Z"
       }
     ],
-    "totalCount": 106
+    "totalCount": 109
   }
 }

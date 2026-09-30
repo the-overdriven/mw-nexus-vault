@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-25T00:11:01.980Z",
+  "checkedAt": "2026-09-30T21:41:52.715Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 13,
+        "100": 14,
         "101": 1,
         "1704": 3,
         "1950": 1,
@@ -11,6 +11,25 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-30T17:47:51Z",
+        "fileSize": 3981,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60418,
+        "name": "Water in Wells - Mesh Only Animated 3D Wells",
+        "status": "published",
+        "summary": "A very WELL-made solution for animated water in wells with depth. No ESP needed.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60418/60418-1790789260-1488945464.png",
+        "uid": "429496790018",
+        "updatedAt": "2026-09-30T17:47:51Z",
+        "fileIds": [
+          "1000071616"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-14T16:05:16Z",
@@ -221,11 +240,12 @@
         "name": "Daemacht's Various Improved Meshes",
         "status": "published",
         "summary": "Random assortment of improved armor meshes I've made.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57699/57699-1763936305-754131654.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57699/57699-1790700124-21850609.png",
         "uid": "429496787299",
-        "updatedAt": "2025-11-25T05:16:18Z",
+        "updatedAt": "2026-09-29T16:50:54Z",
         "fileIds": [
-          "1000058673",
+          "1000071501",
+          "1000071500",
           "1000058672",
           "1000058665",
           "1000058650",
@@ -235,6 +255,7 @@
           "1000058283",
           "1000058270",
           "1000058014",
+          "1000058673",
           "1000058664",
           "1000058649",
           "1000058286"
@@ -279,6 +300,6 @@
         ]
       }
     ],
-    "totalCount": 13
+    "totalCount": 14
   }
 }

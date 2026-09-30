@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-25T00:11:02.308Z",
+  "checkedAt": "2026-09-30T21:42:11.631Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -38,11 +38,12 @@
         "name": "Mournhold'ier Indoril",
         "status": "published",
         "summary": "A palette swap of TR's Indoril tileset from brown, beige, and blue to a more Mournhold like white, grey, and green.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59978/59978-1787621289-509907279.png",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59978/59978-1790698849-2017020045.png",
         "uid": "429496789578",
-        "updatedAt": "2026-09-21T22:31:12Z",
+        "updatedAt": "2026-09-29T16:16:27Z",
         "fileIds": [
           "1000069031",
+          "1000071496",
           "1000070931"
         ]
       },

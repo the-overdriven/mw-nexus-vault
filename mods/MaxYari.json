@@ -1,15 +1,53 @@
 {
-  "checkedAt": "2026-09-25T00:13:16.024Z",
+  "checkedAt": "2026-09-30T21:44:06.731Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 17,
+        "100": 19,
         "101": 2,
         "198": 1,
         "1579": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-25T15:10:07Z",
+        "fileSize": 826,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60362,
+        "name": "The Combat Juice",
+        "status": "published",
+        "summary": "A layer of subtle \"oomph\" lovingly smeared all over TES III combat. Does not alter any gameplay mechanics - purely a visual and auditory satisfactorium. If you are sure that Morrowind's combat mechanics are trash - try this before looking",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60362/60362-1790348836-87011688.png",
+        "uid": "429496789962",
+        "updatedAt": "2026-09-27T13:20:26Z",
+        "fileIds": [
+          "1000071348"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-25T13:48:52Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 25,
+          "name": "Audio"
+        },
+        "modId": 60361,
+        "name": "Combat Sounds Overhaul Overhauled",
+        "status": "published",
+        "summary": "We put an Overhaul inside your overhaul so you can enjoy an overhauled experience of using an overhaul. Based on and requires the original mod. Weapon and overall combat sounds are now dynamic based on the weapon type and enemy armor,",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60361/60361-1790344102-1200116370.png",
+        "uid": "429496789961",
+        "updatedAt": "2026-09-27T10:30:39Z",
+        "fileIds": [
+          "1000071344"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-17T10:55:04Z",
@@ -44,9 +82,9 @@
         "summary": "A shared script library that many of my mods require. Shares the data between different mods reducing the amount of engine requests they do and potentially improving performance.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60256/60256-1789732764-228299813.png",
         "uid": "429496789856",
-        "updatedAt": "2026-09-15T20:23:49Z",
+        "updatedAt": "2026-09-25T22:06:08Z",
         "fileIds": [
-          "1000070457"
+          "1000071217"
         ]
       },
       {
@@ -124,14 +162,14 @@
           "name": "Animations"
         },
         "modId": 56594,
-        "name": "Hit Reactions Animated -- OpenMW",
+        "name": "Hit Reactions Animated v2 -- OpenMW",
         "status": "published",
-        "summary": "Short, pronounced twitches of humanoid NPCs in response to being hit.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56594/56594-1747158041-726790814.png",
+        "summary": "Short, pronounced twitches of humanoid NPCs in response to being hit as well as many new stagger and death animation of a glorious fake-ragdoll kind.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56594/56594-1790349362-193338442.png",
         "uid": "429496786194",
-        "updatedAt": "2026-09-17T16:22:07Z",
+        "updatedAt": "2026-09-30T21:27:39Z",
         "fileIds": [
-          "1000070595",
+          "1000071623",
           "1000053114",
           "1000052873"
         ]
@@ -167,14 +205,14 @@
           "name": "User Interface"
         },
         "modId": 56584,
-        "name": "Dynamic Reticle - Enemy HP bar. Hitmarkers. HUD effects. Sound effects. Slow-mo. -- OpenMW",
+        "name": "Dynamic Reticle and Oblivion style-ish enemy HP bars -- OpenMW",
         "status": "published",
-        "summary": "Animated customizable reticle with a neat enemy HP widget, hit marker visuals and sounds, occasional slow-mo on kill. Everything is adjustable in mod settings.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1747086913-1245125704.png",
+        "summary": "Animated customizable reticle adapts to sneaking, shooting and fades out when weapon is not drawn. With a neat optional oblivion-style enemy HP widget. Everything is adjustable in mod settings.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1790359268-628273898.png",
         "uid": "429496786184",
-        "updatedAt": "2026-09-17T15:58:58Z",
+        "updatedAt": "2026-09-25T19:10:01Z",
         "fileIds": [
-          "1000070591",
+          "1000071207",
           "1000060981",
           "1000053611",
           "1000053486",
@@ -197,9 +235,9 @@
         "summary": "Subtle dynamic camera and first-person viewmodel (hands) inertia. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Experimental strafe",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1773873803-1720735435.png",
         "uid": "429496784927",
-        "updatedAt": "2026-09-17T15:38:02Z",
+        "updatedAt": "2026-09-28T14:09:16Z",
         "fileIds": [
-          "1000070589",
+          "1000071422",
           "1000061178",
           "1000060984",
           "1000054961",
@@ -243,9 +281,9 @@
         "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49+. With new voice lines (optional) and animations. Rich on memorable encounters and engaging fights.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
         "uid": "429496784664",
-        "updatedAt": "2026-09-24T18:00:09Z",
+        "updatedAt": "2026-09-30T12:21:58Z",
         "fileIds": [
-          "1000071126",
+          "1000071585",
           "1000052932",
           "1000051787",
           "1000051526",
@@ -338,10 +376,11 @@
         "summary": "An immersive reimagining of the TES3: Morrowind 1st-person animations. Punch, slash, chop, shoot and thrust your way through vvardenfell with style!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52596/52596-1789509564-1394201928.png",
         "uid": "429496782196",
-        "updatedAt": "2026-09-24T00:54:59Z",
+        "updatedAt": "2026-09-29T21:13:27Z",
         "fileIds": [
-          "1000071082",
+          "1000071521",
           "1000037032",
+          "1000071254",
           "1000070467",
           "1000048926",
           "1000046259",
@@ -373,6 +412,6 @@
         "updatedAt": "2022-06-27T09:40:34Z"
       }
     ],
-    "totalCount": 17
+    "totalCount": 19
   }
 }

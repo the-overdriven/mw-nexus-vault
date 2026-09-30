@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-09-25T00:13:42.774Z",
+  "checkedAt": "2026-09-30T21:45:19.111Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 105
+        "100": 106
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-25T19:43:13Z",
+        "fileSize": 17,
+        "modCategory": {
+          "categoryId": 14,
+          "name": "Races, Classes, and Birthsigns"
+        },
+        "modId": 60365,
+        "name": "OAAB Mannequin Race",
+        "status": "published",
+        "summary": "Play the game as a mannequin. You have no mouth, and must scream.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60365/60365-1790365153-398766898.png",
+        "uid": "429496789965",
+        "updatedAt": "2026-09-25T19:43:13Z",
+        "fileIds": [
+          "1000071211"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-24T01:15:46Z",
@@ -735,14 +754,16 @@
         "summary": "OAAB_Data is a free-to-use asset repository for the Morrowind Community.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49042/49042-1605537205-589234817.gif",
         "uid": "429496778642",
-        "updatedAt": "2026-05-30T15:45:54Z",
+        "updatedAt": "2026-09-28T02:52:11Z",
         "fileIds": [
+          "1000071398",
+          "1000071201",
+          "1000071399",
           "1000064960",
-          "1000051795",
-          "1000063212",
           "1000063770",
           "1000058961",
           "1000051796",
+          "1000051795",
           "1000051794",
           "1000048077",
           "1000044151",
@@ -1546,24 +1567,8 @@
           "1000004212",
           "1000008145"
         ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2015-05-25T05:22:02Z",
-        "fileSize": 10033,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 43634,
-        "name": "Sheoth Weapons",
-        "status": "published",
-        "summary": "This mod adds jojjo's Morrigan weapon and shield set to Morrowind. They have been cast in a Shivering Isles theme. You must find the Mad God's shrine to get the weapons and shield.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43634-2-1432530787.jpg",
-        "uid": "429496773234",
-        "updatedAt": "2015-05-28T00:54:21Z"
       }
     ],
-    "totalCount": 105
+    "totalCount": 106
   }
 }

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-25T00:14:58.246Z",
+  "checkedAt": "2026-09-30T21:46:26.080Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 16
+        "100": 15
       }
     },
     "nodes": [
@@ -54,22 +54,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46765/46765-1558116993-762806376.jpeg",
         "uid": "429496776365",
         "updatedAt": "2019-05-18T12:56:34Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2019-01-15T10:05:28Z",
-        "fileSize": 1886,
-        "modCategory": {
-          "categoryId": 25,
-          "name": "Audio"
-        },
-        "modId": 46310,
-        "name": "Morrowind Acoustic Overhaul v1.1 update",
-        "status": "published",
-        "summary": "version 1.1 update",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46310/46310-1547546652-1144887227.jpeg",
-        "uid": "429496775910",
-        "updatedAt": "2019-01-15T10:05:28Z"
       },
       {
         "adultContent": false,
@@ -264,6 +248,6 @@
         "updatedAt": "2013-08-29T11:17:00Z"
       }
     ],
-    "totalCount": 16
+    "totalCount": 15
   }
 }

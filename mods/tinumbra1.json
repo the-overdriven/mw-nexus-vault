@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-25T00:16:44.504Z",
+  "checkedAt": "2026-09-30T21:47:44.894Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 12
+        "100": 11
       }
     },
     "nodes": [
@@ -37,8 +37,8 @@
         "modId": 60011,
         "name": "Pretty Potions",
         "status": "published",
-        "summary": "Extracted from my other 3 mods purely for my own sanity, and to clean up both the files section and folder structure.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60011/60011-1787831219-1099457606.jpg",
+        "summary": "Color-coded potion bottles with an esp, and \"hand-made\" replacer with beads and feathers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60011/60011-1787831389-822389380.jpg",
         "uid": "429496789611",
         "updatedAt": "2026-08-29T15:44:58Z",
         "fileIds": [
@@ -60,9 +60,9 @@
         "summary": "Turn light sources off and on. Sneaking away from light gives you chameleon effect.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59344/59344-1781457753-1723963581.jpg",
         "uid": "429496788944",
-        "updatedAt": "2026-07-21T08:59:13Z",
+        "updatedAt": "2026-09-25T12:05:49Z",
         "fileIds": [
-          "1000067306"
+          "1000071175"
         ]
       },
       {
@@ -79,10 +79,11 @@
         "summary": "Clothes weigh less, better resting magicka regen, better icons, cure animals, player homes, artifacts nerfed etc.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1790152767-531428970.gif",
         "uid": "429496787529",
-        "updatedAt": "2026-09-23T11:19:17Z",
+        "updatedAt": "2026-09-27T09:15:30Z",
         "fileIds": [
-          "1000071041",
-          "1000070749",
+          "1000071340",
+          "1000071245",
+          "1000071244",
           "1000069687",
           "1000069200",
           "1000067929",
@@ -110,9 +111,9 @@
         "summary": "Adds consequences or limitations to Necromancy, Levitation, Charm, daedra summoning and to other magic. All is optional. Tamriel Rebuilt included. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57820/57820-1775478445-890398478.jpg",
         "uid": "429496787420",
-        "updatedAt": "2026-09-23T05:43:57Z",
+        "updatedAt": "2026-09-29T16:34:22Z",
         "fileIds": [
-          "1000071025",
+          "1000071499",
           "1000067395"
         ]
       },
@@ -130,10 +131,9 @@
         "summary": "Organizes custom potions with descriptive icons and names based on the strongest effects. Quality based potion weight. Any language",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57782/57782-1763315717-564798601.png",
         "uid": "429496787382",
-        "updatedAt": "2026-09-22T17:59:21Z",
+        "updatedAt": "2026-09-28T10:30:16Z",
         "fileIds": [
-          "1000070994",
-          "1000060402",
+          "1000071413",
           "1000059267"
         ]
       },
@@ -152,26 +152,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57757/57757-1762841594-1966040782.jpg",
         "uid": "429496787357",
         "updatedAt": "2026-03-30T05:03:08Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-10-27T11:50:45Z",
-        "fileSize": 6433,
-        "modCategory": {
-          "categoryId": 36,
-          "name": "Immersion"
-        },
-        "modId": 57583,
-        "name": "Scribo - Write on Paper (OpenMW)",
-        "status": "published",
-        "summary": "Write on different paper and in a blank book. Use colored inks. Copy books, magic scrolls, regular scrolls and notes. +RU",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57583/57583-1761796003-884952759.png",
-        "uid": "429496787183",
-        "updatedAt": "2026-09-19T04:34:10Z",
-        "fileIds": [
-          "1000070740",
-          "1000061887"
-        ]
       },
       {
         "adultContent": false,
@@ -247,6 +227,6 @@
         "updatedAt": "2026-01-20T03:57:25Z"
       }
     ],
-    "totalCount": 12
+    "totalCount": 11
   }
 }

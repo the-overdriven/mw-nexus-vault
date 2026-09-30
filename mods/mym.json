@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-25T00:14:10.737Z",
+  "checkedAt": "2026-09-30T21:45:38.650Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -51,8 +51,9 @@
         "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
         "uid": "429496787854",
-        "updatedAt": "2026-09-23T09:53:39Z",
+        "updatedAt": "2026-09-30T14:34:22Z",
         "fileIds": [
+          "1000071598",
           "1000071038",
           "1000069939",
           "1000069656",
@@ -80,8 +81,9 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-09-24T21:06:30Z",
+        "updatedAt": "2026-09-28T14:06:51Z",
         "fileIds": [
+          "1000071421",
           "1000071150",
           "1000071043",
           "1000070573",
@@ -245,8 +247,11 @@
         "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1785225172-1276238880.png",
         "uid": "429496785605",
-        "updatedAt": "2026-09-09T15:10:54Z",
+        "updatedAt": "2026-09-30T06:39:40Z",
         "fileIds": [
+          "1000071574",
+          "1000071523",
+          "1000071485",
           "1000070020",
           "1000069774",
           "1000069653",
@@ -417,8 +422,9 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-09-17T20:13:06Z",
+        "updatedAt": "2026-09-29T21:28:12Z",
         "fileIds": [
+          "1000071524",
           "1000070619",
           "1000070406",
           "1000070366",
