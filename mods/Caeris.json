@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T21:40:02.989Z",
+  "checkedAt": "2026-10-04T00:37:04.338Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -105,7 +105,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-28T07:34:47Z",
-        "fileSize": 29,
+        "fileSize": 30,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -116,10 +116,10 @@
         "summary": "A straightforward approach to an alternative start mod, as well as a modders resource.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57525/57525-1780995290-819485618.png",
         "uid": "429496787125",
-        "updatedAt": "2026-09-25T09:44:49Z",
+        "updatedAt": "2026-10-03T01:41:21Z",
         "fileIds": [
-          "1000071169",
-          "1000071168",
+          "1000071731",
+          "1000071730",
           "1000060465"
         ]
       },

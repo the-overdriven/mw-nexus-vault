@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T21:42:21.237Z",
+  "checkedAt": "2026-10-04T00:37:15.366Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -10,7 +10,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-09-27T00:26:20Z",
-        "fileSize": 4422,
+        "fileSize": 4434,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -21,8 +21,10 @@
         "summary": "A snow shader mod that gradually covers the ground and objects with a textured layer of snow. It also adds optional visible breath clouds to the player and NPCs in cold weather (optional).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60380/60380-1790467704-142720474.png",
         "uid": "429496789980",
-        "updatedAt": "2026-09-28T13:25:58Z",
+        "updatedAt": "2026-10-03T17:57:26Z",
         "fileIds": [
+          "1000071762",
+          "1000071704",
           "1000071418",
           "1000071371",
           "1000071342"
@@ -207,7 +209,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-05T23:37:46Z",
-        "fileSize": 202,
+        "fileSize": 203,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -218,8 +220,10 @@
         "summary": "Adds birds and cliffracers everywhere you go.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58046/58046-1767657598-1617452014.png",
         "uid": "429496787646",
-        "updatedAt": "2026-09-08T16:31:07Z",
+        "updatedAt": "2026-10-03T11:53:17Z",
         "fileIds": [
+          "1000071746",
+          "1000069967",
           "1000069922",
           "1000066845",
           "1000066687",

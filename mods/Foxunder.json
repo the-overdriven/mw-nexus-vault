@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T21:43:07.925Z",
+  "checkedAt": "2026-10-04T00:38:09.974Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -30,7 +30,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-09-09T15:43:22Z",
-        "fileSize": 775,
+        "fileSize": 17559,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -41,8 +41,9 @@
         "summary": "NPCs perform daily chores. For now, supports praying, sweeping, mining, minstrelsy, scrubbing, and reading",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60161/60161-1788968368-1753018599.png",
         "uid": "429496789761",
-        "updatedAt": "2026-09-16T10:13:51Z",
+        "updatedAt": "2026-10-02T21:28:33Z",
         "fileIds": [
+          "1000071720",
           "1000070502",
           "1000070359",
           "1000070321",
@@ -420,7 +421,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-26T22:32:18Z",
-        "fileSize": 105,
+        "fileSize": 1328,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -431,8 +432,9 @@
         "summary": "Plays animations when picking up items / activating containers, doors or activators. Also during dialogues.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59117/59117-1779834710-1366291765.jpg",
         "uid": "429496788717",
-        "updatedAt": "2026-09-16T09:05:41Z",
+        "updatedAt": "2026-10-02T22:00:00Z",
         "fileIds": [
+          "1000071721",
           "1000070497",
           "1000068576",
           "1000068466",
@@ -674,7 +676,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-31T16:30:54Z",
-        "fileSize": 11,
+        "fileSize": 1263,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -685,10 +687,11 @@
         "summary": "Guards tolerate night loitering no more. You will be escorted to the nearest inn or tavern if a guard finds you suspicious (low disposition or you don't carry a light source in your hand).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58553/58553-1774974245-1585727584.png",
         "uid": "429496788153",
-        "updatedAt": "2026-08-22T18:43:55Z",
+        "updatedAt": "2026-10-03T20:15:46Z",
         "fileIds": [
-          "1000068785",
+          "1000071776",
           "1000062561",
+          "1000068785",
           "1000068235",
           "1000068098",
           "1000065974",
@@ -1045,7 +1048,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-02-14T22:29:26Z",
-        "fileSize": 2,
+        "fileSize": 3,
         "modCategory": {
           "categoryId": 18,
           "name": "Bug Fixes"
@@ -1056,29 +1059,26 @@
         "summary": "It's a collection of various bugfixes and small mods.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58227/58227-1771107954-1705217364.png",
         "uid": "429496787827",
-        "updatedAt": "2026-08-29T19:14:40Z",
+        "updatedAt": "2026-10-03T08:49:40Z",
         "fileIds": [
+          "1000071739",
           "1000069400",
           "1000068829",
           "1000068782",
-          "1000068254",
           "1000067096",
-          "1000065732",
-          "1000065607",
           "1000063135",
           "1000063134",
           "1000063011",
           "1000062390",
           "1000061883",
-          "1000061848",
           "1000061318",
           "1000061086",
-          "1000060725",
           "1000067035",
           "1000067034",
           "1000067033",
-          "1000066572",
-          "1000061418"
+          "1000065732",
+          "1000061848",
+          "1000060725"
         ]
       },
       {

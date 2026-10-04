@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T21:45:38.650Z",
+  "checkedAt": "2026-10-04T00:40:12.319Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,8 +21,9 @@
         "summary": "This mod attempts to rebalance the magic system in Morrowind. This includes spell effects, stock spells, enchantments and potions.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58560/58560-1775037720-1305163994.png",
         "uid": "429496788160",
-        "updatedAt": "2026-09-15T13:48:40Z",
+        "updatedAt": "2026-10-01T09:13:14Z",
         "fileIds": [
+          "1000071643",
           "1000070418",
           "1000070342",
           "1000069898",
@@ -40,7 +41,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-02-19T19:38:59Z",
-        "fileSize": 18,
+        "fileSize": 22,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -51,8 +52,9 @@
         "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
         "uid": "429496787854",
-        "updatedAt": "2026-09-30T14:34:22Z",
+        "updatedAt": "2026-10-03T20:32:51Z",
         "fileIds": [
+          "1000071778",
           "1000071598",
           "1000071038",
           "1000069939",

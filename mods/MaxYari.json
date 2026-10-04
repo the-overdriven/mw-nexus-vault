@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T21:44:06.731Z",
+  "checkedAt": "2026-10-04T00:38:59.742Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -24,9 +24,9 @@
         "summary": "A layer of subtle \"oomph\" lovingly smeared all over TES III combat. Does not alter any gameplay mechanics - purely a visual and auditory satisfactorium. If you are sure that Morrowind's combat mechanics are trash - try this before looking",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60362/60362-1790348836-87011688.png",
         "uid": "429496789962",
-        "updatedAt": "2026-09-27T13:20:26Z",
+        "updatedAt": "2026-10-01T17:35:04Z",
         "fileIds": [
-          "1000071348"
+          "1000071662"
         ]
       },
       {
@@ -114,20 +114,20 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-15T12:46:30Z",
-        "fileSize": 2784,
+        "fileSize": 3030,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
         },
         "modId": 58441,
-        "name": "Sneak is Good Now. -- OpenMW",
+        "name": "Sneak is Good Now. -- Better Stealth -- OpenMW",
         "status": "published",
-        "summary": "An OpenMW mod that makes sneak mechanics playable. Sneak detection is now a visually displayed gradual progress. This mod attempts to strike a balance between gamified mechanics and \"\"\"realism\"\"\".",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58441/58441-1773578450-1185793680.png",
+        "summary": "An OpenMW mod that makes sneak mechanics playable and fun. Sneak detection is now a visually displayed gradual progress. It loosely follows original sneak detection formulas and respects original systems.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58441/58441-1791044588-1562530222.png",
         "uid": "429496788041",
-        "updatedAt": "2026-09-18T13:45:55Z",
+        "updatedAt": "2026-10-03T16:00:57Z",
         "fileIds": [
-          "1000070684",
+          "1000071758",
           "1000062294",
           "1000061801",
           "1000061666",
@@ -188,9 +188,9 @@
         "summary": "A deranged mod that implements a somewhat simple and naive physics engine in pure lua and exposes a rich interface for developers. Drag and throw items around, get messed for messing with someone's property.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56589/56589-1747143961-337009405.png",
         "uid": "429496786189",
-        "updatedAt": "2026-09-17T14:45:39Z",
+        "updatedAt": "2026-09-30T22:46:53Z",
         "fileIds": [
-          "1000070585",
+          "1000071631",
           "1000053548",
           "1000053485",
           "1000052861"
@@ -199,20 +199,20 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-12T21:57:11Z",
-        "fileSize": 1155,
+        "fileSize": 371,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
         },
         "modId": 56584,
-        "name": "Dynamic Reticle and Oblivion style-ish enemy HP bars -- OpenMW",
+        "name": "Dynamic Reticle and Oblivion style enemy HP and stamina bars -- OpenMW",
         "status": "published",
         "summary": "Animated customizable reticle adapts to sneaking, shooting and fades out when weapon is not drawn. With a neat optional oblivion-style enemy HP widget. Everything is adjustable in mod settings.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1790359268-628273898.png",
         "uid": "429496786184",
-        "updatedAt": "2026-09-25T19:10:01Z",
+        "updatedAt": "2026-10-03T16:14:52Z",
         "fileIds": [
-          "1000071207",
+          "1000071759",
           "1000060981",
           "1000053611",
           "1000053486",
@@ -235,9 +235,9 @@
         "summary": "Subtle dynamic camera and first-person viewmodel (hands) inertia. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Experimental strafe",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1773873803-1720735435.png",
         "uid": "429496784927",
-        "updatedAt": "2026-09-28T14:09:16Z",
+        "updatedAt": "2026-10-03T21:14:18Z",
         "fileIds": [
-          "1000071422",
+          "1000071784",
           "1000061178",
           "1000060984",
           "1000054961",
@@ -281,9 +281,9 @@
         "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49+. With new voice lines (optional) and animations. Rich on memorable encounters and engaging fights.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
         "uid": "429496784664",
-        "updatedAt": "2026-09-30T12:21:58Z",
+        "updatedAt": "2026-10-03T21:41:50Z",
         "fileIds": [
-          "1000071585",
+          "1000071785",
           "1000052932",
           "1000051787",
           "1000051526",
@@ -376,9 +376,9 @@
         "summary": "An immersive reimagining of the TES3: Morrowind 1st-person animations. Punch, slash, chop, shoot and thrust your way through vvardenfell with style!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52596/52596-1789509564-1394201928.png",
         "uid": "429496782196",
-        "updatedAt": "2026-09-29T21:13:27Z",
+        "updatedAt": "2026-10-01T17:36:47Z",
         "fileIds": [
-          "1000071521",
+          "1000071663",
           "1000037032",
           "1000071254",
           "1000070467",

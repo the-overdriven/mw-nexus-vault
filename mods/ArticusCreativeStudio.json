@@ -1,12 +1,31 @@
 {
-  "checkedAt": "2026-09-30T21:38:57.039Z",
+  "checkedAt": "2026-10-04T00:36:17.222Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 109
+        "100": 110
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-03T10:21:23Z",
+        "fileSize": 929,
+        "modCategory": {
+          "categoryId": 38,
+          "name": "Armour"
+        },
+        "modId": 60442,
+        "name": "Daedric pauldrons of Lord Methats Replacer",
+        "status": "published",
+        "summary": "Replaces Daedric Daedric pauldrons of Lord Methats with HQ models and HQ textures (2048 px) and adds glowing elements. Removes upper arm section and changes enchanting to quite better. All you need is to place conteining files to your",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60442/60442-1791023143-242515130.png",
+        "uid": "429496790042",
+        "updatedAt": "2026-10-03T10:21:23Z",
+        "fileIds": [
+          "1000071743"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-27T21:36:37Z",
@@ -1472,24 +1491,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56431/56431-1745874061-665972326.jpeg",
         "uid": "429496786031",
         "updatedAt": "2025-04-28T22:34:41Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-04-20T16:14:03Z",
-        "fileSize": 55512,
-        "modCategory": {
-          "categoryId": 16,
-          "name": "Weapons and Armour"
-        },
-        "modId": 56382,
-        "name": "Daedric Repolish",
-        "status": "published",
-        "summary": "Replaces Daedric armor, weapons, dremora creature and adds a cool playable head and hair for male Dunmer in Daedric thematic.Daedric set glows in the dark.All textures and models are fully reworked and Lore friendly.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56382/56382-1745164694-856086576.jpeg",
-        "uid": "429496785982",
-        "updatedAt": "2025-04-25T12:26:26Z"
       }
     ],
-    "totalCount": 109
+    "totalCount": 110
   }
 }

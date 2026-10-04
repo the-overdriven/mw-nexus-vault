@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T21:47:44.894Z",
+  "checkedAt": "2026-10-04T00:41:02.938Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -38,7 +38,7 @@
         "name": "Pretty Potions",
         "status": "published",
         "summary": "Color-coded potion bottles with an esp, and \"hand-made\" replacer with beads and feathers.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60011/60011-1787831389-822389380.jpg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60011/60011-1790793867-2107702676.jpg",
         "uid": "429496789611",
         "updatedAt": "2026-08-29T15:44:58Z",
         "fileIds": [
@@ -100,7 +100,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-12T16:09:16Z",
-        "fileSize": 32,
+        "fileSize": 1560,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -111,10 +111,10 @@
         "summary": "Adds consequences or limitations to Necromancy, Levitation, Charm, daedra summoning and to other magic. All is optional. Tamriel Rebuilt included. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57820/57820-1775478445-890398478.jpg",
         "uid": "429496787420",
-        "updatedAt": "2026-09-29T16:34:22Z",
+        "updatedAt": "2026-10-01T16:10:56Z",
         "fileIds": [
           "1000071499",
-          "1000067395"
+          "1000071656"
         ]
       },
       {

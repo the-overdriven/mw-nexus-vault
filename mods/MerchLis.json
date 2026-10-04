@@ -1,12 +1,28 @@
 {
-  "checkedAt": "2026-09-30T21:45:37.240Z",
+  "checkedAt": "2026-10-04T00:40:11.224Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 2
+        "100": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-21T20:17:11Z",
+        "fileSize": 39370,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60326,
+        "name": "OpenMGE XE lighting",
+        "status": "published",
+        "summary": "Port of MGE XE fog and atmospheric scattering + MGG post-processing shaders + Wonders of Water to OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60326/60326-1790019539-1007817193.png",
+        "uid": "429496789926",
+        "updatedAt": "2026-09-21T20:51:47Z"
+      },
       {
         "adultContent": false,
         "createdAt": "2022-06-14T14:05:14Z",
@@ -60,6 +76,6 @@
         ]
       }
     ],
-    "totalCount": 2
+    "totalCount": 3
   }
 }
