@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:41:02.938Z",
+  "checkedAt": "2026-11-09T10:08:55.345Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -9,14 +9,33 @@
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-10-15T11:36:25Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60608,
+        "name": "Auto Unequip - Hide Gear",
+        "status": "published",
+        "summary": "Automatically unequips gear from the selected slots when you are not in combat stance, and re-equips it when you enter combat stance.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60608/60608-1792047576-1183769665.jpg",
+        "uid": "429496790208",
+        "updatedAt": "2026-10-18T14:58:07Z",
+        "fileIds": [
+          "1000072679"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2026-09-20T18:43:28Z",
         "fileSize": 121,
         "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
+          "categoryId": 36,
+          "name": "Immersion"
         },
         "modId": 60224,
-        "name": "Illiteracy (OpenMW)",
+        "name": "Illiteracy",
         "status": "published",
         "summary": "You can't read with low Intelligence. Or until you read ABCs and some simpler texts. TR, OAAB, Dr Data included. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60224/60224-1789929515-494660867.jpg",
@@ -35,55 +54,56 @@
           "name": "Models and Textures"
         },
         "modId": 60011,
-        "name": "Pretty Potions",
+        "name": "Travel Potions - Tin and Clay",
         "status": "published",
-        "summary": "Color-coded potion bottles with an esp, and \"hand-made\" replacer with beads and feathers.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60011/60011-1790793867-2107702676.jpg",
+        "summary": "Color-coded potion bottles with an esp, and a replacer with beads and feathers.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60011/60011-1793625625-1136127724.jpg",
         "uid": "429496789611",
-        "updatedAt": "2026-08-29T15:44:58Z",
+        "updatedAt": "2026-10-11T12:03:15Z",
         "fileIds": [
-          "1000069384",
-          "1000069373"
+          "1000072218",
+          "1000072209"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2026-06-14T17:24:22Z",
-        "fileSize": 1486,
+        "fileSize": 2755,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
         },
         "modId": 59344,
-        "name": "Hide in Darkness - Turn Lights Off (OpenMW)",
+        "name": "Hide in Darkness",
         "status": "published",
-        "summary": "Turn light sources off and on. Sneaking away from light gives you chameleon effect.",
+        "summary": "Turn light sources off and on. Sneaking away from light gives you chameleon effect. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59344/59344-1781457753-1723963581.jpg",
         "uid": "429496788944",
-        "updatedAt": "2026-09-25T12:05:49Z",
+        "updatedAt": "2026-11-06T11:48:58Z",
         "fileIds": [
-          "1000071175"
+          "1000073706",
+          "1000072864"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2026-01-31T13:57:16Z",
-        "fileSize": 1,
+        "fileSize": 557,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
         },
         "modId": 57929,
-        "name": "Tiny Mods",
+        "name": "Tiny Mods and Fixes",
         "status": "published",
         "summary": "Clothes weigh less, better resting magicka regen, better icons, cure animals, player homes, artifacts nerfed etc.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57929/57929-1790152767-531428970.gif",
         "uid": "429496787529",
-        "updatedAt": "2026-09-27T09:15:30Z",
+        "updatedAt": "2026-10-11T04:58:49Z",
         "fileIds": [
-          "1000071340",
-          "1000071245",
-          "1000071244",
+          "1000072202",
+          "1000072200",
+          "1000071873",
           "1000069687",
           "1000069200",
           "1000067929",
@@ -94,27 +114,8 @@
           "1000062726",
           "1000062492",
           "1000062247",
+          "1000071340",
           "1000069613"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-12-12T16:09:16Z",
-        "fileSize": 1560,
-        "modCategory": {
-          "categoryId": 4,
-          "name": "Gameplay"
-        },
-        "modId": 57820,
-        "name": "Sane Magic Overhaul (OpenMW)",
-        "status": "published",
-        "summary": "Adds consequences or limitations to Necromancy, Levitation, Charm, daedra summoning and to other magic. All is optional. Tamriel Rebuilt included. +RU",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57820/57820-1775478445-890398478.jpg",
-        "uid": "429496787420",
-        "updatedAt": "2026-10-01T16:10:56Z",
-        "fileIds": [
-          "1000071499",
-          "1000071656"
         ]
       },
       {
@@ -126,7 +127,7 @@
           "name": "User Interface"
         },
         "modId": 57782,
-        "name": "Of Bead and Feather - Potion Sorter (OpenMW)",
+        "name": "Of Bead and Feather",
         "status": "published",
         "summary": "Organizes custom potions with descriptive icons and names based on the strongest effects. Quality based potion weight. Any language",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57782/57782-1763315717-564798601.png",
@@ -146,12 +147,31 @@
           "name": "Gameplay"
         },
         "modId": 57757,
-        "name": "Dubious Concoctions (OpenMW)",
+        "name": "Dubious Concoctions",
         "status": "published",
         "summary": "Merchants will only purchase home-brews from a skilled, reputable alchemist. And only certain factions will buy your poisons. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57757/57757-1762841594-1966040782.jpg",
         "uid": "429496787357",
         "updatedAt": "2026-03-30T05:03:08Z"
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2025-10-27T11:50:45Z",
+        "fileSize": 6057,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 57583,
+        "name": "Scribo",
+        "status": "published",
+        "summary": "Write on different paper and in a blank book. Copy books, magic scrolls and notes. +RU",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57583/57583-1761796003-884952759.png",
+        "uid": "429496787183",
+        "updatedAt": "2026-10-31T17:59:56Z",
+        "fileIds": [
+          "1000073429"
+        ]
       },
       {
         "adultContent": false,
@@ -162,7 +182,7 @@
           "name": "Gameplay"
         },
         "modId": 57543,
-        "name": "Controlled Jumps (OpenMW)",
+        "name": "Controlled Jumps",
         "status": "published",
         "summary": "For high Acrobatics: short hops to avoid ceiling collision indoors, charged jumps for controlled height/distance, and for immersive acrobatics bonus. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57543/57543-1759482607-1812402822.jpg",
@@ -172,7 +192,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-09-22T16:56:01Z",
-        "fileSize": 2021,
+        "fileSize": 20667,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -183,9 +203,9 @@
         "summary": "Descriptive icons for potions, scrolls, and magic effects. All sizes. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57491/57491-1758558073-1661734366.png",
         "uid": "429496787091",
-        "updatedAt": "2026-08-29T15:22:08Z",
+        "updatedAt": "2026-11-05T08:17:09Z",
         "fileIds": [
-          "1000069188",
+          "1000073647",
           "1000069187",
           "1000069186",
           "1000069185",
@@ -203,28 +223,12 @@
           "name": "Gameplay"
         },
         "modId": 57411,
-        "name": "Trained Lungs - Hold Your Breath (OpenMW)",
+        "name": "Trained Lungs",
         "status": "published",
         "summary": "Hold your breath underwater for longer, depending on Endurance, Athletics, and Fatigue. +RU",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57411/57411-1757176363-470591675.png",
         "uid": "429496787011",
         "updatedAt": "2026-01-21T00:22:42Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2025-08-25T04:38:49Z",
-        "fileSize": 9,
-        "modCategory": {
-          "categoryId": 24,
-          "name": "User Interface"
-        },
-        "modId": 57358,
-        "name": "Standard Spells Renamed",
-        "status": "published",
-        "summary": "Spells renamed for better sorting in player's spell list.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57358/57358-1766835520-1676949832.png",
-        "uid": "429496786958",
-        "updatedAt": "2026-01-20T03:57:25Z"
       }
     ],
     "totalCount": 11

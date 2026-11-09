@@ -1,33 +1,12 @@
 {
-  "checkedAt": "2026-10-04T00:38:59.440Z",
+  "checkedAt": "2026-11-09T09:57:44.350Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 7
+        "100": 6
       }
     },
     "nodes": [
-      {
-        "adultContent": false,
-        "createdAt": "2026-03-17T15:42:19Z",
-        "fileSize": 223754,
-        "modCategory": {
-          "categoryId": 29,
-          "name": "Overhauls"
-        },
-        "modId": 58456,
-        "name": "Star Wound - Vvardenfell",
-        "status": "published",
-        "summary": "New attempt to remake Vvardenfell, this time in vanilla scale.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58456/58456-1787985675-1992760523.jpg",
-        "uid": "429496788056",
-        "updatedAt": "2026-08-16T06:58:04Z",
-        "fileIds": [
-          "1000068451",
-          "1000063873",
-          "1000061753"
-        ]
-      },
       {
         "adultContent": false,
         "createdAt": "2025-12-07T11:50:54Z",
@@ -154,6 +133,6 @@
         "updatedAt": "2024-04-20T13:44:29Z"
       }
     ],
-    "totalCount": 7
+    "totalCount": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:40:53.138Z",
+  "checkedAt": "2026-11-09T10:07:34.071Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -7,6 +7,34 @@
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-11T09:10:50Z",
+        "fileSize": 5,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60547,
+        "name": "Halloween Nightmare",
+        "status": "published",
+        "summary": "It's that spooky time of year again. Some imperial cities have been decorated with pumpkins, tombs, and ravens.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60547/60547-1791709835-88511187.jpg",
+        "uid": "429496790147",
+        "updatedAt": "2026-10-15T18:00:36Z",
+        "fileIds": [
+          "1000072482",
+          "1000072481",
+          "1000072480",
+          "1000072479",
+          "1000072478",
+          "1000072208",
+          "1000072207",
+          "1000072206",
+          "1000072205",
+          "1000072204"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-02T06:23:36Z",
@@ -21,9 +49,10 @@
         "summary": "Collection of patches that don't deserve their own page.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59750/59750-1785651337-1725142916.png",
         "uid": "429496789350",
-        "updatedAt": "2026-08-02T06:23:36Z",
+        "updatedAt": "2026-10-25T16:05:54Z",
         "fileIds": [
-          "1000067919"
+          "1000073029",
+          "1000073028"
         ]
       },
       {
@@ -225,25 +254,6 @@
       },
       {
         "adultContent": false,
-        "createdAt": "2025-10-31T08:38:36Z",
-        "fileSize": 67,
-        "modCategory": {
-          "categoryId": 8,
-          "name": "Miscellaneous"
-        },
-        "modId": 57716,
-        "name": "Tales and Tallows - Pelagiad's Night (Halloween Mod)",
-        "status": "published",
-        "summary": "\"Sequel\" to MelchiorDahr's Mod. This time the pumpkin plants grew in Pelagiad and the inhabitants immediately took advantage of it to decorate the city for the scariest holiday in Morrowind.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57716/57716-1761899735-802633907.png",
-        "uid": "429496787316",
-        "updatedAt": "2025-10-31T08:38:36Z",
-        "fileIds": [
-          "1000058069"
-        ]
-      },
-      {
-        "adultContent": false,
         "createdAt": "2025-10-18T16:42:03Z",
         "fileSize": 1839,
         "modCategory": {
@@ -378,6 +388,22 @@
       },
       {
         "adultContent": false,
+        "createdAt": "2025-05-03T07:19:43Z",
+        "fileSize": 405,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 56476,
+        "name": "Skyrim style HUD (OpenMW)",
+        "status": "published",
+        "summary": "HUD with Skyrim style, based on OpenHUD",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56476/56476-1746256580-1679075050.png",
+        "uid": "429496786076",
+        "updatedAt": "2025-05-03T07:19:43Z"
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-05-01T13:39:39Z",
         "fileSize": 79458,
         "modCategory": {
@@ -458,32 +484,6 @@
         "fileIds": [
           "1000058836",
           "1000048678"
-        ]
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2024-10-31T08:01:28Z",
-        "fileSize": 4,
-        "modCategory": {
-          "categoryId": 8,
-          "name": "Miscellaneous"
-        },
-        "modId": 55340,
-        "name": "Tales and Tallows - Caldera's Night (Halloween Mod)",
-        "status": "published",
-        "summary": "\"Sequel\" to MelchiorDahr's Mod. This time the pumpkin plants grew in Caldera and the inhabitants immediately took advantage of it to decorate the city for the scariest holiday in Morrowind.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55340/55340-1728887413-327498877.png",
-        "uid": "429496784940",
-        "updatedAt": "2025-10-31T08:22:30Z",
-        "fileIds": [
-          "1000047822",
-          "1000058067",
-          "1000058068",
-          "1000058066",
-          "1000058065",
-          "1000057152",
-          "1000057153",
-          "1000057151"
         ]
       },
       {
@@ -644,7 +644,11 @@
         "summary": "During Tales and Tallows's nights a Headless Horseman return for his vengeance.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53656/53656-1698300357-394601627.png",
         "uid": "429496783256",
-        "updatedAt": "2023-10-26T06:12:59Z"
+        "updatedAt": "2026-10-15T18:08:08Z",
+        "fileIds": [
+          "1000072483",
+          "1000040657"
+        ]
       },
       {
         "adultContent": false,
@@ -716,7 +720,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-05-27T06:50:52Z",
-        "fileSize": 95,
+        "fileSize": 101,
         "modCategory": {
           "categoryId": 3,
           "name": "Dungeons and Locations"
@@ -727,7 +731,12 @@
         "summary": "An unnamed isle with an ancient barrow await you!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52957/52957-1722964462-403551210.png",
         "uid": "429496782557",
-        "updatedAt": "2025-04-07T17:06:06Z"
+        "updatedAt": "2026-11-07T10:38:43Z",
+        "fileIds": [
+          "1000073751",
+          "1000051793",
+          "1000047680"
+        ]
       },
       {
         "adultContent": false,

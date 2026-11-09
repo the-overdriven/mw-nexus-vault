@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:40:12.319Z",
+  "checkedAt": "2026-11-09T10:02:35.536Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -41,7 +41,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-02-19T19:38:59Z",
-        "fileSize": 22,
+        "fileSize": 24,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -52,8 +52,9 @@
         "summary": "SBMR dynamically makes all actors (player, creatures, NPCs) slowly regenerate their magicka based on their state: Willpower, intelligence, magicka, fatigue, encumbrance, movement, and specific magic effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58254/58254-1771863286-1705235183.png",
         "uid": "429496787854",
-        "updatedAt": "2026-10-03T20:32:51Z",
+        "updatedAt": "2026-10-08T10:32:11Z",
         "fileIds": [
+          "1000072013",
           "1000071778",
           "1000071598",
           "1000071038",
@@ -72,7 +73,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:45Z",
-        "fileSize": 78,
+        "fileSize": 94,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -83,8 +84,12 @@
         "summary": "This mod overhauls skill progression by dynamically scaling growth speed based on skill level and usage.It also introduces features like skill uncapping, automatic decay, training caps and dynamic durations, and much more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57802/57802-1763980992-1326980083.png",
         "uid": "429496787402",
-        "updatedAt": "2026-09-28T14:06:51Z",
+        "updatedAt": "2026-11-03T09:25:24Z",
         "fileIds": [
+          "1000073569",
+          "1000073534",
+          "1000072738",
+          "1000071896",
           "1000071421",
           "1000071150",
           "1000071043",
@@ -175,7 +180,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-11-19T16:06:42Z",
-        "fileSize": 188,
+        "fileSize": 269,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -186,8 +191,12 @@
         "summary": "A leveling mod where your attributes grow automatically as your skills increase.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57801/57801-1763569834-1201781332.png",
         "uid": "429496787401",
-        "updatedAt": "2026-09-16T12:43:55Z",
+        "updatedAt": "2026-11-04T10:56:24Z",
         "fileIds": [
+          "1000073608",
+          "1000072835",
+          "1000072797",
+          "1000072598",
           "1000070509",
           "1000070367",
           "1000070011",
@@ -238,7 +247,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-02-14T10:18:39Z",
-        "fileSize": 1123,
+        "fileSize": 601,
         "modCategory": {
           "categoryId": 16,
           "name": "Weapons and Armour"
@@ -246,11 +255,18 @@
         "modId": 56005,
         "name": "Fresh Loot (OpenMW)",
         "status": "published",
-        "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments.Loots get more exciting and enemies more challenging.",
+        "summary": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments, and fills random empty soul gems with creature souls. Loots get more exciting and enemies more challenging.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56005/56005-1785225172-1276238880.png",
         "uid": "429496785605",
-        "updatedAt": "2026-09-30T06:39:40Z",
+        "updatedAt": "2026-11-09T08:18:56Z",
         "fileIds": [
+          "1000073862",
+          "1000072836",
+          "1000072741",
+          "1000072065",
+          "1000072012",
+          "1000071918",
+          "1000071878",
           "1000071574",
           "1000071523",
           "1000071485",
@@ -330,7 +346,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-12-07T07:47:50Z",
-        "fileSize": 41,
+        "fileSize": 46,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -341,8 +357,9 @@
         "summary": "HBFS is a mod that allows you to change Morrowind's difficulty by various simple means.It is done dynamically for all vanilla or added actors (NPCs or creatures).Settings are provided to adjust the mod to your taste, including player level",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55542/55542-1733555946-1067346782.png",
         "uid": "429496785142",
-        "updatedAt": "2026-09-23T09:40:03Z",
+        "updatedAt": "2026-11-06T12:00:13Z",
         "fileIds": [
+          "1000073709",
           "1000071037",
           "1000070019",
           "1000069753",
@@ -413,7 +430,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-10-01T16:03:47Z",
-        "fileSize": 48,
+        "fileSize": 67,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -424,8 +441,11 @@
         "summary": "NPCs and creatures now have means to heal themselves and their partners.This is done dynamically for any vanilla or added actor, if they meet specific criteria.Works with combat teams and with followers.Fair Care increases most fights",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55293/55293-1727798293-1265411053.png",
         "uid": "429496784893",
-        "updatedAt": "2026-09-29T21:28:12Z",
+        "updatedAt": "2026-11-02T14:40:03Z",
         "fileIds": [
+          "1000073531",
+          "1000072740",
+          "1000071962",
           "1000071524",
           "1000070619",
           "1000070406",

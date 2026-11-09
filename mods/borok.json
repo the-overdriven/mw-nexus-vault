@@ -1,17 +1,83 @@
 {
-  "checkedAt": "2026-10-04T00:36:36.560Z",
+  "checkedAt": "2026-11-09T00:36:28.419Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14,
+        "100": 17,
         "101": 2
       }
     },
     "nodes": [
       {
         "adultContent": false,
-        "createdAt": "2026-09-24T07:02:58Z",
+        "createdAt": "2026-10-26T08:07:23Z",
+        "fileSize": 11,
+        "modCategory": {
+          "categoryId": 19,
+          "name": "Creatures"
+        },
+        "modId": 60758,
+        "name": "Ecology OpenMW Lua",
+        "status": "published",
+        "summary": "Mod that adds animal cubs and predator-prey events in the wilderness.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60758/60758-1793001829-2038814897.png",
+        "uid": "429496790358",
+        "updatedAt": "2026-11-03T18:34:59Z",
+        "fileIds": [
+          "1000073585",
+          "1000073568",
+          "1000073545",
+          "1000073456",
+          "1000073425",
+          "1000073164",
+          "1000073147",
+          "1000073080"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-06T05:28:13Z",
         "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60465,
+        "name": "Oblivion Training Limit OpenMW Lua",
+        "status": "published",
+        "summary": "Mod that adds Oblivion-style training limit.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60465/60465-1791264420-969649644.png",
+        "uid": "429496790065",
+        "updatedAt": "2026-11-06T14:03:13Z",
+        "fileIds": [
+          "1000073714",
+          "1000072154",
+          "1000071905"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-05T20:02:28Z",
+        "fileSize": 1,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60459,
+        "name": "Smooth Skill Progression OpenMW Lua",
+        "status": "published",
+        "summary": "Mod that smoothly adjusts skill XP gain based on current skill level.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60459/60459-1791230348-859650765.png",
+        "uid": "429496790059",
+        "updatedAt": "2026-10-05T20:02:28Z",
+        "fileIds": [
+          "1000071892"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-09-24T07:02:58Z",
+        "fileSize": 2,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -22,8 +88,9 @@
         "summary": "OpenMW Lua script that sets GMSTs via yaml configs",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60353/60353-1790233101-120212255.png",
         "uid": "429496789953",
-        "updatedAt": "2026-10-01T13:29:33Z",
+        "updatedAt": "2026-10-06T06:24:28Z",
         "fileIds": [
+          "1000071907",
           "1000071650",
           "1000071622",
           "1000071433",
@@ -58,7 +125,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-08-04T11:54:51Z",
-        "fileSize": 131,
+        "fileSize": 133,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -69,10 +136,12 @@
         "summary": "Diverse creatures blood via OpenMW Lua script",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59776/59776-1785844157-1899871635.png",
         "uid": "429496789376",
-        "updatedAt": "2026-09-28T14:31:01Z",
+        "updatedAt": "2026-11-01T10:08:27Z",
         "fileIds": [
-          "1000071426",
+          "1000073458",
+          "1000073473",
           "1000068562",
+          "1000071426",
           "1000071108",
           "1000071107",
           "1000069288",
@@ -123,12 +192,13 @@
         "summary": "Uncompressed Morrowind, Tamriel Data and OAAB vanilla resolution textures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57355/57355-1756055914-602731062.png",
         "uid": "429496786955",
-        "updatedAt": "2026-09-26T15:02:13Z",
+        "updatedAt": "2026-10-29T18:20:30Z",
         "fileIds": [
           "1000071250",
           "1000070796",
           "1000070529",
           "1000070528",
+          "1000073290",
           "1000061706",
           "1000071269",
           "1000071251",
@@ -213,35 +283,38 @@
         "summary": "Small mods and patches.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56176/56176-1741856026-320714415.png",
         "uid": "429496785776",
-        "updatedAt": "2026-10-03T20:00:43Z",
+        "updatedAt": "2026-11-05T19:50:30Z",
         "fileIds": [
-          "1000071775",
-          "1000071761",
+          "1000073665",
+          "1000073646",
+          "1000073479",
+          "1000073294",
+          "1000073214",
+          "1000072685",
+          "1000072614",
+          "1000072160",
+          "1000071936",
+          "1000071934",
           "1000071744",
           "1000071740",
           "1000071020",
-          "1000070402",
           "1000070266",
           "1000070202",
           "1000070169",
-          "1000070168",
           "1000070067",
           "1000070006",
           "1000069991",
           "1000069938",
           "1000069910",
           "1000069617",
-          "1000069612",
           "1000069611",
           "1000069126",
           "1000069125",
           "1000068956",
-          "1000068824",
           "1000068767",
           "1000068765",
           "1000068390",
           "1000068282",
-          "1000067978",
           "1000067254",
           "1000065484",
           "1000062855",
@@ -251,7 +324,6 @@
           "1000061688",
           "1000061440",
           "1000061421",
-          "1000061377",
           "1000061356",
           "1000061243",
           "1000061087",
@@ -274,9 +346,21 @@
           "1000051286",
           "1000051151",
           "1000051126",
+          "1000073285",
           "1000071023",
           "1000067623",
           "1000061322",
+          "1000073289",
+          "1000073284",
+          "1000073211",
+          "1000073209",
+          "1000072925",
+          "1000072880",
+          "1000072615",
+          "1000071935",
+          "1000071805",
+          "1000071775",
+          "1000071761",
           "1000071745",
           "1000071691",
           "1000071618",
@@ -289,8 +373,10 @@
           "1000071417",
           "1000071022",
           "1000070405",
+          "1000070402",
           "1000070341",
           "1000070265",
+          "1000070168",
           "1000070062",
           "1000070061",
           "1000070032",
@@ -298,6 +384,7 @@
           "1000069953",
           "1000069952",
           "1000069917",
+          "1000069612",
           "1000069514",
           "1000069502",
           "1000069496",
@@ -312,6 +399,7 @@
           "1000068842",
           "1000068840",
           "1000068830",
+          "1000068824",
           "1000068764",
           "1000068763",
           "1000068721",
@@ -335,6 +423,7 @@
           "1000068004",
           "1000067993",
           "1000067986",
+          "1000067978",
           "1000067871",
           "1000067839",
           "1000067637",
@@ -365,6 +454,7 @@
           "1000061436",
           "1000061417",
           "1000061389",
+          "1000061377",
           "1000061376",
           "1000061355",
           "1000061320",
@@ -436,12 +526,16 @@
           "name": "Models and Textures"
         },
         "modId": 54261,
-        "name": "Remiros Groundcover Textures Improvement",
+        "name": "Remiros Groundcover Improvements",
         "status": "published",
         "summary": "Fix of jagged Remiros grass textures without increasing textures size.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54261/54261-1710149800-410670252.png",
         "uid": "429496783861",
-        "updatedAt": "2024-03-11T09:43:34Z"
+        "updatedAt": "2026-11-07T06:54:01Z",
+        "fileIds": [
+          "1000073743",
+          "1000043394"
+        ]
       },
       {
         "adultContent": false,
@@ -537,9 +631,10 @@
         "summary": "Small mods, tweaks and fixes.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/43795-4-1439835554.jpg",
         "uid": "429496773395",
-        "updatedAt": "2026-10-03T20:51:05Z",
+        "updatedAt": "2026-10-31T18:37:37Z",
         "fileIds": [
-          "1000071782",
+          "1000073431",
+          "1000071799",
           "1000069999",
           "1000069065",
           "1000067995",
@@ -595,6 +690,7 @@
           "1000056742",
           "1000051674",
           "1000051515",
+          "1000071782",
           "1000069066",
           "1000067762",
           "1000067756",
@@ -664,6 +760,6 @@
         "updatedAt": "2016-08-20T09:44:04Z"
       }
     ],
-    "totalCount": 14
+    "totalCount": 17
   }
 }

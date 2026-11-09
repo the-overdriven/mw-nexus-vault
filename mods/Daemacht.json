@@ -1,16 +1,143 @@
 {
-  "checkedAt": "2026-10-04T00:37:14.240Z",
+  "checkedAt": "2026-11-09T00:38:06.601Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 14,
-        "101": 1,
+        "100": 20,
+        "101": 2,
         "1704": 3,
         "1950": 1,
         "6144": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-04T23:02:50Z",
+        "fileSize": 192,
+        "modCategory": {
+          "categoryId": 28,
+          "name": "Patches"
+        },
+        "modId": 60863,
+        "name": "Apel's Azura Coast and Sheogorad Region Retexture Fixes",
+        "status": "published",
+        "summary": "Patches Apel's ACSRR with fixed rock placements and shapes to remove clipping and blocked objects.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60863/60863-1793832908-528311387.png",
+        "uid": "429496790463",
+        "updatedAt": "2026-11-04T23:02:50Z",
+        "fileIds": [
+          "1000073635"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-20T03:32:27Z",
+        "fileSize": 55,
+        "modCategory": {
+          "categoryId": 18,
+          "name": "Bug Fixes"
+        },
+        "modId": 60683,
+        "name": "Dwemer Corridor VFX Restoration",
+        "status": "published",
+        "summary": "Restores particle effects on the dwemer corridor tileset.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60683/60683-1792516233-1424150502.png",
+        "uid": "429496790283",
+        "updatedAt": "2026-10-20T17:17:22Z",
+        "fileIds": [
+          "1000072801",
+          "1000072765"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-16T00:16:09Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60615,
+        "name": "Heat Waves (MGE XE)",
+        "status": "published",
+        "summary": "Adds a heat shimmer shader over flame sources via MGE XE and MWSE-lua.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60615/60615-1792106392-898964321.png",
+        "uid": "429496790215",
+        "updatedAt": "2026-10-26T04:25:57Z",
+        "fileIds": [
+          "1000073079",
+          "1000072507",
+          "1000072498"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-13T01:38:13Z",
+        "fileSize": 4306,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60577,
+        "name": "Improved Lights for All Shaders Patch Hub",
+        "status": "published",
+        "summary": "Incorporates ILFAS changes into various mods.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60577/60577-1791854776-1321110602.png",
+        "uid": "429496790177",
+        "updatedAt": "2026-11-06T18:54:21Z",
+        "fileIds": [
+          "1000073717",
+          "1000073672",
+          "1000072629",
+          "1000072446",
+          "1000072317",
+          "1000072503",
+          "1000072316",
+          "1000072314"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-08T04:25:41Z",
+        "fileSize": 667,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60493,
+        "name": "Gaze of the Undead",
+        "status": "published",
+        "summary": "Adds glowing particle eyes to the undead, that fade away on death.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60493/60493-1791432900-2090884031.png",
+        "uid": "429496790093",
+        "updatedAt": "2026-10-08T04:43:47Z",
+        "fileIds": [
+          "1000072000"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-07T20:54:06Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 60490,
+        "name": "Water Dropper",
+        "status": "published",
+        "summary": "MWSE Lua utility for dynamically attaching meshes to objects in the game.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60490/60490-1791406083-1859949954.png",
+        "uid": "429496790090",
+        "updatedAt": "2026-10-26T04:16:58Z",
+        "fileIds": [
+          "1000073078",
+          "1000073077",
+          "1000071987",
+          "1000071986"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-30T17:47:51Z",
@@ -300,6 +427,6 @@
         ]
       }
     ],
-    "totalCount": 14
+    "totalCount": 20
   }
 }

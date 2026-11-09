@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:38:48.698Z",
+  "checkedAt": "2026-11-09T09:56:49.078Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -76,7 +76,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-02-05T14:04:38Z",
-        "fileSize": 3184950,
+        "fileSize": 2782,
         "modCategory": {
           "categoryId": 25,
           "name": "Audio"
@@ -87,12 +87,13 @@
         "summary": "A project to fully voice Morrowind for MWSE and OpenMW. Comes with an optional 'greetings-only' mode and is easily extensible to add compatibility with other mods with no knowledge of scripting or the CS and no additional esp.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52279/52279-1675597677-521490875.png",
         "uid": "429496781879",
-        "updatedAt": "2026-06-23T20:40:31Z",
+        "updatedAt": "2026-10-05T09:54:05Z",
         "fileIds": [
+          "1000071875",
           "1000066102",
-          "1000066086",
           "1000035809",
           "1000035781",
+          "1000066086",
           "1000046725",
           "1000043282",
           "1000040500"

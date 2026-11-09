@@ -1,15 +1,113 @@
 {
-  "checkedAt": "2026-10-04T00:38:59.742Z",
+  "checkedAt": "2026-11-09T09:57:44.818Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 19,
+        "100": 24,
         "101": 2,
         "198": 1,
         "1579": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-13T22:01:42Z",
+        "fileSize": 24,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60591,
+        "name": "TURBOGRASS - a beautiful grass sway shader -- OpenMW",
+        "status": "published",
+        "summary": "A grass sway shader that will tickle you in the ways you never knew you wanted. OpenMW. Works with any groundcover mod. The sway strength and behaviour changes with weather, supports both Wareya and Rafael PBR.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60591/60591-1791928617-695369879.png",
+        "uid": "429496790191",
+        "updatedAt": "2026-10-17T14:17:00Z",
+        "fileIds": [
+          "1000072602",
+          "1000072472",
+          "1000072471",
+          "1000072470"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-13T15:53:04Z",
+        "fileSize": 5208,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 60584,
+        "name": "ReAnimation v3 scraps - 3rd person animation pack -- OpenMW",
+        "status": "published",
+        "summary": "A semi-slop-automated port of some of the ReAnimation 1st person weapon animation to 3rd person that turned out quite good.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60584/60584-1791906602-1794543078.png",
+        "uid": "429496790184",
+        "updatedAt": "2026-10-18T15:14:27Z",
+        "fileIds": [
+          "1000072681"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-11T18:55:26Z",
+        "fileSize": 12703,
+        "modCategory": {
+          "categoryId": 31,
+          "name": "Weapons"
+        },
+        "modId": 60553,
+        "name": "Katars and Knuckles - a complete class of hand to hand weapons -- OpenMW",
+        "status": "published",
+        "summary": "16 Hand-made weapon meshes, a novel monk/rogue styled weapon class fully integrated with the game mechanics (works off of a hand-to-hand skill) as well as with the world, loot and merchants. The screenshot gallery shows only few weapons to",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60553/60553-1791744254-622767006.png",
+        "uid": "429496790153",
+        "updatedAt": "2026-10-18T15:18:17Z",
+        "fileIds": [
+          "1000072683"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-04T11:58:34Z",
+        "fileSize": 140,
+        "modCategory": {
+          "categoryId": 24,
+          "name": "User Interface"
+        },
+        "modId": 60449,
+        "name": "Handy Stylish Quick Access Wheels",
+        "status": "published",
+        "summary": "No more hotkey confusion! Hold the weapon stance button to access the weapon wheel and the spell stance button to access the spell wheel. Animated and looks damn stylish. A more convenient and less confusing alternative to numbered hotkeys",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60449/60449-1791116187-1176087035.png",
+        "uid": "429496790049",
+        "updatedAt": "2026-10-29T15:41:48Z",
+        "fileIds": [
+          "1000073288"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-04T10:31:33Z",
+        "fileSize": 17,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60448,
+        "name": "Fairer Weapon and Magic Experience Gains for Sane People",
+        "status": "published",
+        "summary": "Fairifies experience gains without overhauling them. Casting magica-expensive spells or using slow weapons brings more XP, failing a cast or missing a swing still grants a little as you learn from your mistakes. Using conjured gear grants a",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60448/60448-1791109808-1116362571.png",
+        "uid": "429496790048",
+        "updatedAt": "2026-10-15T12:57:30Z",
+        "fileIds": [
+          "1000072459"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-25T15:10:07Z",
@@ -24,9 +122,9 @@
         "summary": "A layer of subtle \"oomph\" lovingly smeared all over TES III combat. Does not alter any gameplay mechanics - purely a visual and auditory satisfactorium. If you are sure that Morrowind's combat mechanics are trash - try this before looking",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60362/60362-1790348836-87011688.png",
         "uid": "429496789962",
-        "updatedAt": "2026-10-01T17:35:04Z",
+        "updatedAt": "2026-10-10T19:34:59Z",
         "fileIds": [
-          "1000071662"
+          "1000072166"
         ]
       },
       {
@@ -40,12 +138,12 @@
         "modId": 60361,
         "name": "Combat Sounds Overhaul Overhauled",
         "status": "published",
-        "summary": "We put an Overhaul inside your overhaul so you can enjoy an overhauled experience of using an overhaul. Based on and requires the original mod. Weapon and overall combat sounds are now dynamic based on the weapon type and enemy armor,",
+        "summary": "We put an Overhaul inside your overhaul so you can enjoy an overhauled experience of using an overhaul. A kind of -ish port of a Combat part of Character Sound Overhaul. Weapon and overall combat sounds are now dynamic based on the weapon",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60361/60361-1790344102-1200116370.png",
         "uid": "429496789961",
-        "updatedAt": "2026-09-27T10:30:39Z",
+        "updatedAt": "2026-10-11T10:28:01Z",
         "fileIds": [
-          "1000071344"
+          "1000072212"
         ]
       },
       {
@@ -125,9 +223,9 @@
         "summary": "An OpenMW mod that makes sneak mechanics playable and fun. Sneak detection is now a visually displayed gradual progress. It loosely follows original sneak detection formulas and respects original systems.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58441/58441-1791044588-1562530222.png",
         "uid": "429496788041",
-        "updatedAt": "2026-10-03T16:00:57Z",
+        "updatedAt": "2026-10-18T15:50:10Z",
         "fileIds": [
-          "1000071758",
+          "1000072684",
           "1000062294",
           "1000061801",
           "1000061666",
@@ -143,9 +241,9 @@
           "name": "Modders Resources and Tutorials"
         },
         "modId": 56634,
-        "name": "Bizarre Morrowind rig (armature) and animation utilities -- Blender 4.3",
+        "name": "Bizarre Morrowind animation utilities and a humanoid Rig -- Blender 5.1",
         "status": "published",
-        "summary": "Utilities for easy 1st/3rd person animation export and beast animations retargeting (Blender addon).And a rig with advanced autoposing features and IK controllers.",
+        "summary": "Utilities for easy 1st/3rd person animation export and beast animations retargeting (Blender addon). And a AutoRig Pro-based rig with everything you need to start anymating - IK/FK limbs, 1st person camera, 2h weapon grip constraints e.t.c.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56634/56634-1747488004-986395592.png",
         "uid": "429496786234",
         "updatedAt": "2025-05-17T13:31:47Z",
@@ -156,7 +254,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-05-13T17:43:00Z",
-        "fileSize": 88,
+        "fileSize": 8682,
         "modCategory": {
           "categoryId": 21,
           "name": "Animations"
@@ -167,9 +265,9 @@
         "summary": "Short, pronounced twitches of humanoid NPCs in response to being hit as well as many new stagger and death animation of a glorious fake-ragdoll kind.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56594/56594-1790349362-193338442.png",
         "uid": "429496786194",
-        "updatedAt": "2026-09-30T21:27:39Z",
+        "updatedAt": "2026-10-18T15:14:41Z",
         "fileIds": [
-          "1000071623",
+          "1000072682",
           "1000053114",
           "1000052873"
         ]
@@ -210,9 +308,9 @@
         "summary": "Animated customizable reticle adapts to sneaking, shooting and fades out when weapon is not drawn. With a neat optional oblivion-style enemy HP widget. Everything is adjustable in mod settings.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56584/56584-1790359268-628273898.png",
         "uid": "429496786184",
-        "updatedAt": "2026-10-03T16:14:52Z",
+        "updatedAt": "2026-10-15T14:13:09Z",
         "fileIds": [
-          "1000071759",
+          "1000072461",
           "1000060981",
           "1000053611",
           "1000053486",
@@ -235,9 +333,9 @@
         "summary": "Subtle dynamic camera and first-person viewmodel (hands) inertia. More natural movement and jumping.Target lock with shader effects (bokeh) and a sneak shader (vignette). Immersive cell transition effects (bokeh). Experimental strafe",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55327/55327-1773873803-1720735435.png",
         "uid": "429496784927",
-        "updatedAt": "2026-10-03T21:14:18Z",
+        "updatedAt": "2026-10-15T14:13:16Z",
         "fileIds": [
-          "1000071784",
+          "1000072464",
           "1000061178",
           "1000060984",
           "1000054961",
@@ -278,24 +376,12 @@
         "modId": 55064,
         "name": "Mercy - Combat AI Overhaul",
         "status": "published",
-        "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.49+. With new voice lines (optional) and animations. Rich on memorable encounters and engaging fights.",
+        "summary": "An immersive overhaul of in-combat NPC behavior for OpenMW 0.51+. With new voice lines (optional) and animations. Rich on memorable encounters and engaging fights.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55064/55064-1722803471-1472340656.png",
         "uid": "429496784664",
-        "updatedAt": "2026-10-03T21:41:50Z",
+        "updatedAt": "2026-10-17T13:46:57Z",
         "fileIds": [
-          "1000071785",
-          "1000052932",
-          "1000051787",
-          "1000051526",
-          "1000051495",
-          "1000047651",
-          "1000047598",
-          "1000047583",
-          "1000047019",
-          "1000046901",
-          "1000046681",
-          "1000046627",
-          "1000046616"
+          "1000072601"
         ]
       },
       {
@@ -323,7 +409,7 @@
           "name": "Animations"
         },
         "modId": 55059,
-        "name": "One-handed animations and idle fixes",
+        "name": "RETIRED -- One-handed animations and idle fixes",
         "status": "published",
         "summary": "Rework of 1h weapon movement and idles aiming to look more natural. Also tweaks 1h attacks and unbugs vanilla idles without making the feet slide. Only affects 3rd-person animations.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55059/55059-1722700065-640020498.png",
@@ -376,12 +462,10 @@
         "summary": "An immersive reimagining of the TES3: Morrowind 1st-person animations. Punch, slash, chop, shoot and thrust your way through vvardenfell with style!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52596/52596-1789509564-1394201928.png",
         "uid": "429496782196",
-        "updatedAt": "2026-10-01T17:36:47Z",
+        "updatedAt": "2026-10-15T14:13:20Z",
         "fileIds": [
-          "1000071663",
+          "1000072465",
           "1000037032",
-          "1000071254",
-          "1000070467",
           "1000048926",
           "1000046259",
           "1000052830",
@@ -412,6 +496,6 @@
         "updatedAt": "2022-06-27T09:40:34Z"
       }
     ],
-    "totalCount": 19
+    "totalCount": 24
   }
 }

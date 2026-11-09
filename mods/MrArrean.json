@@ -1,12 +1,52 @@
 {
-  "checkedAt": "2026-10-04T00:40:11.816Z",
+  "checkedAt": "2026-11-09T10:02:08.185Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 4
+        "100": 6
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-24T15:45:36Z",
+        "fileSize": 20,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60740,
+        "name": "Light Hotkey (OpenMW)",
+        "status": "published",
+        "summary": "Equip your light with a hotkey and automatically re-equip your shield when the light is unequipped. Now on Nexus",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60740/60740-1792851576-1326373975.png",
+        "uid": "429496790340",
+        "updatedAt": "2026-11-07T00:01:42Z",
+        "fileIds": [
+          "1000073733",
+          "1000073420",
+          "1000073071"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-14T22:21:02Z",
+        "fileSize": 23,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60588,
+        "name": "Aegis - OnHit Shield Enchantments (OpenMW)",
+        "status": "published",
+        "summary": "Converts non-constant effect enchantments on shields into \"on-strike\" or \"on-block\". Self effects will be applied to the shield bearer, target and touch effects to the target or the attacker (if on block) Requires N'Garde 1.5.5 or later",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60588/60588-1792015689-1507123210.png",
+        "uid": "429496790188",
+        "updatedAt": "2026-10-15T16:28:10Z",
+        "fileIds": [
+          "1000072473"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-22T07:40:30Z",
@@ -37,7 +77,7 @@
         "modId": 59155,
         "name": "Can't Touch This - Combat Miss Feedback (OpenMW)",
         "status": "published",
-        "summary": "Part of the May Modathon Month 2026. Adds \"dodge\" animations to NPCs that you've attacked but missed. Creating a layer of visual feedback in additional to aural \"whoosh\" that vanilla Morrowind offers. Currently only Humanoid NPCs are",
+        "summary": "Adds \"dodge\" animations to NPCs that you've attacked but missed. Creating a layer of visual feedback in additional to aural \"whoosh\" that vanilla Morrowind offers. Currently only Humanoid NPCs are covered.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59155/59155-1780193121-1705455658.png",
         "uid": "429496788755",
         "updatedAt": "2026-06-06T13:13:42Z",
@@ -49,7 +89,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-19T13:17:44Z",
-        "fileSize": 1485,
+        "fileSize": 1553,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -57,14 +97,21 @@
         "modId": 58658,
         "name": "N'Garde - Active Block and Parry (OpenMW)",
         "status": "published",
-        "summary": "KCD/Tainted Grail/TES4/TES5 etc inspired, modern-ish active block and weapon parry system.",
+        "summary": "KCD/Tainted Grail/TES4/TES5 etc inspired, modern-ish active block and weapon parry system. And a light combat overhaul",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58658/58658-1776048576-1377273464.png",
         "uid": "429496788258",
-        "updatedAt": "2026-09-18T21:04:02Z",
+        "updatedAt": "2026-10-23T13:38:30Z",
         "fileIds": [
-          "1000070718",
-          "1000069830",
+          "1000072932",
           "1000064015",
+          "1000072642",
+          "1000072585",
+          "1000072492",
+          "1000072376",
+          "1000072366",
+          "1000072224",
+          "1000072090",
+          "1000071989",
           "1000070710",
           "1000070603",
           "1000069832",
@@ -112,6 +159,6 @@
         ]
       }
     ],
-    "totalCount": 4
+    "totalCount": 6
   }
 }

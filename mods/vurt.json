@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-10-04T00:41:22.302Z",
+  "checkedAt": "2026-11-09T10:12:53.469Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 35,
+        "100": 38,
         "110": 3,
-        "120": 1,
-        "130": 6,
+        "120": 2,
+        "130": 7,
         "162": 1,
         "198": 2,
         "234": 2,
         "262": 1,
         "342": 1,
         "952": 4,
-        "1151": 1,
+        "1151": 2,
         "1428": 1,
         "1579": 1,
         "1704": 3,
@@ -28,8 +28,67 @@
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-10-13T11:11:32Z",
+        "fileSize": 18125,
+        "modCategory": {
+          "categoryId": 15,
+          "name": "Utilities"
+        },
+        "modId": 60580,
+        "name": "Vurt's Breezify",
+        "status": "published",
+        "summary": "Animate wind for any tree or plant with leaves, just drop it on the .bat file. Supports vanilla trees or mods which has trees with no animations, or redo the tree wind animations if they have them. It will also give you a performance",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60580/60580-1791890576-193167864.png",
+        "uid": "429496790180",
+        "updatedAt": "2026-10-20T05:50:12Z",
+        "fileIds": [
+          "1000072774"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-09T04:49:23Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60503,
+        "name": "Quicksave Launcher (OpenMW)",
+        "status": "published",
+        "summary": "Launch straight into your newest quicksave. No launcher window, main-menu clicks or extra plugin required. No need for blank video files to skip intro movies.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60503/60503-1791521351-1076562030.png",
+        "uid": "429496790103",
+        "updatedAt": "2026-10-09T04:49:23Z",
+        "fileIds": [
+          "1000072043"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-06T22:46:46Z",
+        "fileSize": 28,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60483,
+        "name": "Vvardenfell Director",
+        "status": "published",
+        "summary": "A camera and atmosphere playground with OpenMW. Record smooth dolly shots, capture dramatic flybys, sweeping orbits, crane reveals or explore Vvardenfell through an isometric tilt-shift camera. Add lens-style depth of field, image",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60483/60483-1791326737-109180462.png",
+        "uid": "429496790083",
+        "updatedAt": "2026-10-07T19:38:31Z",
+        "fileIds": [
+          "1000071984",
+          "1000071956",
+          "1000071949"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2025-08-27T05:36:42Z",
-        "fileSize": 20163,
+        "fileSize": 19903,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -38,12 +97,11 @@
         "name": "Vurt's Animated Grazeland Trees",
         "status": "published",
         "summary": "Animated trees for the Grazelands region, including additional palm trees and a bigger tree in optional .esp",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57369/57369-1756272898-1711818201.jpg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57369/57369-1791862452-746387751.jpg",
         "uid": "429496786969",
-        "updatedAt": "2026-07-29T17:14:51Z",
+        "updatedAt": "2026-10-09T21:28:11Z",
         "fileIds": [
-          "1000067752",
-          "1000056420"
+          "1000072096"
         ]
       },
       {
@@ -68,7 +126,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-30T20:03:13Z",
-        "fileSize": 9530,
+        "fileSize": 10497,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -77,12 +135,13 @@
         "name": "Vurt's Animated Solstheim Trees",
         "status": "published",
         "summary": "Animated tree replacer for the Solstheim region, snowy and green trees. (some snowy trees won't move because too heavily snow covered). Esp-less.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56442/56442-1746047111-1606667298.jpeg",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56442/56442-1791565877-1548994646.png",
         "uid": "429496786042",
-        "updatedAt": "2025-05-01T05:34:40Z",
+        "updatedAt": "2026-10-09T13:59:58Z",
         "fileIds": [
-          "1000052242",
-          "1000052263"
+          "1000072068",
+          "1000052263",
+          "1000052242"
         ]
       },
       {
@@ -107,7 +166,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-10T05:00:32Z",
-        "fileSize": 4044,
+        "fileSize": 5232,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -118,9 +177,9 @@
         "summary": "Animated Trees for the AI region, esp-less tree replacer",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56334/56334-1744261540-619642170.jpeg",
         "uid": "429496785934",
-        "updatedAt": "2025-08-20T06:16:00Z",
+        "updatedAt": "2026-10-09T08:19:01Z",
         "fileIds": [
-          "1000053230",
+          "1000072052",
           "1000056154",
           "1000052221"
         ]
@@ -128,7 +187,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-04-09T16:35:44Z",
-        "fileSize": 19521,
+        "fileSize": 19505,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -139,9 +198,9 @@
         "summary": "Animated Trees for Bitter Coast, .esp-less.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56332/56332-1744285034-1856523994.jpeg",
         "uid": "429496785932",
-        "updatedAt": "2025-05-08T13:06:13Z",
+        "updatedAt": "2026-10-09T07:30:36Z",
         "fileIds": [
-          "1000052635"
+          "1000072050"
         ]
       },
       {
@@ -547,7 +606,7 @@
       {
         "adultContent": false,
         "createdAt": "2010-04-10T20:57:47Z",
-        "fileSize": 32254,
+        "fileSize": 27022,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -558,14 +617,15 @@
         "summary": "Hi-res Vegetation mod. Attaches grasses, plants and bushes and even small trees along many land textures",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/31051/31051-1739890872-726823163.jpeg",
         "uid": "429496760651",
-        "updatedAt": "2025-04-30T23:01:39Z",
+        "updatedAt": "2026-10-06T10:53:54Z",
         "fileIds": [
+          "1000071917",
+          "1000071912",
           "1000036924",
-          "1000052255",
           "1000050491",
           "1000050118",
-          "1000049952",
           "1000050500",
+          "1000049952",
           "90350",
           "86773"
         ]
@@ -688,6 +748,6 @@
         "updatedAt": "2009-12-09T12:01:09Z"
       }
     ],
-    "totalCount": 35
+    "totalCount": 38
   }
 }

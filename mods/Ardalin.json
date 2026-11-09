@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-04T00:36:16.944Z",
+  "checkedAt": "2026-11-09T00:35:17.926Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 21,
         "101": 2,
         "110": 18,
         "1704": 3
@@ -345,40 +345,8 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49308/49308-1613380615-500774817.jpeg",
         "uid": "429496778908",
         "updatedAt": "2021-02-19T06:08:23Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2021-02-14T19:26:17Z",
-        "fileSize": 1425,
-        "modCategory": {
-          "categoryId": 27,
-          "name": "Player homes"
-        },
-        "modId": 49303,
-        "name": "Coda Flower Hut",
-        "status": "published",
-        "summary": "Coda Flower it's a cozy and hidden from prying eyes hut located on the Bitter Coast, near Seyda Nin.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49303/49303-1613330250-228662225.jpeg",
-        "uid": "429496778903",
-        "updatedAt": "2021-02-14T19:26:17Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2021-02-14T14:20:04Z",
-        "fileSize": 408,
-        "modCategory": {
-          "categoryId": 17,
-          "name": "Modders Resources and Tutorials"
-        },
-        "modId": 49302,
-        "name": "Morrowind Mashup Part I",
-        "status": "published",
-        "summary": "Several mashups for Morrowind by Mika",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/49302/49302-1613311925-1181067164.jpeg",
-        "uid": "429496778902",
-        "updatedAt": "2021-02-14T14:20:04Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 21
   }
 }

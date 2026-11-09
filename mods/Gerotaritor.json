@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:38:46.279Z",
+  "checkedAt": "2026-11-09T09:54:52.392Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -56,13 +56,15 @@
           "name": "User Interface"
         },
         "modId": 53947,
-        "name": "Loot Detector - MWSE",
+        "name": "Loot Detector - MWSE - OpenMW",
         "status": "published",
         "summary": "QOL for those who like to explore/search/looting.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53947/53947-1704580115-1701019327.png",
         "uid": "429496783547",
-        "updatedAt": "2025-11-21T11:34:31Z",
+        "updatedAt": "2026-10-07T10:14:42Z",
         "fileIds": [
+          "1000071958",
+          "1000071960",
           "1000058570",
           "1000055999"
         ]

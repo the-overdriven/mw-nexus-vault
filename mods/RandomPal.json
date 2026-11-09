@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:40:32.302Z",
+  "checkedAt": "2026-11-09T10:03:41.387Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -730,7 +730,7 @@
       {
         "adultContent": false,
         "createdAt": "2021-08-26T20:29:10Z",
-        "fileSize": 67,
+        "fileSize": 9607,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -741,12 +741,13 @@
         "summary": "Overhaul of the Library of Vivec to make it the interesting place it was meant to be.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/50181/50181-1630005841-1404225063.jpeg",
         "uid": "429496779781",
-        "updatedAt": "2026-08-29T14:57:59Z",
+        "updatedAt": "2026-10-12T16:54:23Z",
         "fileIds": [
-          "1000039513",
+          "1000072295",
           "1000061811",
           "1000040954",
           "1000069381",
+          "1000039513",
           "1000033903",
           "1000031994",
           "1000031885",

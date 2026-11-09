@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-04T00:40:32.848Z",
+  "checkedAt": "2026-11-09T10:03:50.778Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 15,
+        "100": 14,
         "110": 12,
         "1704": 15
       }
@@ -24,22 +24,6 @@
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52818/52818-1683242764-1344764370.png",
         "uid": "429496782418",
         "updatedAt": "2023-05-04T23:35:51Z"
-      },
-      {
-        "adultContent": false,
-        "createdAt": "2023-05-01T22:37:33Z",
-        "fileSize": 2802,
-        "modCategory": {
-          "categoryId": 6,
-          "name": "Body, Face, and Hair"
-        },
-        "modId": 52773,
-        "name": "Just Tattoo Of Us - A Dynamic Tattoo Mod",
-        "status": "published",
-        "summary": "Adds a tattooist shop to Vivec that allows you to add tattoos to your own body.",
-        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52773/52773-1682978318-1877333028.png",
-        "uid": "429496782373",
-        "updatedAt": "2023-05-05T21:26:34Z"
       },
       {
         "adultContent": false,
@@ -253,6 +237,6 @@
         "updatedAt": "2020-05-06T12:28:34Z"
       }
     ],
-    "totalCount": 15
+    "totalCount": 14
   }
 }

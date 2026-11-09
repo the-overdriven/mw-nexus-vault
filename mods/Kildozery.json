@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:38:48.790Z",
+  "checkedAt": "2026-11-09T09:56:58.443Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -72,7 +72,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-14T23:01:10Z",
-        "fileSize": 64,
+        "fileSize": 66,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -83,8 +83,9 @@
         "summary": "Toxicology! adds a dedicated custom Toxicology (poisoning) skill for OpenMW, giving poison-focused characters of all kinds their own progression path and UI-supported skill identity.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58976/58976-1778847205-2001976636.png",
         "uid": "429496788576",
-        "updatedAt": "2026-09-16T16:42:50Z",
+        "updatedAt": "2026-10-29T19:16:57Z",
         "fileIds": [
+          "1000073293",
           "1000070527",
           "1000070441",
           "1000066727",
@@ -138,10 +139,9 @@
         "summary": "Staves! adds a dedicated staff skill for OpenMW, splitting staves out from Blunt Weapon and giving them their own mage-focused combat identity.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58592/58592-1777925235-1753801942.png",
         "uid": "429496788192",
-        "updatedAt": "2026-09-15T18:25:39Z",
+        "updatedAt": "2026-10-13T14:57:30Z",
         "fileIds": [
           "1000070442",
-          "1000065191",
           "1000064586",
           "1000064554",
           "1000064319",

@@ -1,16 +1,73 @@
 {
-  "checkedAt": "2026-10-04T00:40:43.720Z",
+  "checkedAt": "2026-11-09T10:04:45.746Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 48
+        "100": 51
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-10-23T07:30:47Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60724,
+        "name": "Profitable Enchanting (OpenMW)",
+        "status": "published",
+        "summary": "As if Enchanting wasn't busted enough. Increases hand-enchanted items in price based on item, spell and soul used.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60724/60724-1792739540-1874878990.png",
+        "uid": "429496790324",
+        "updatedAt": "2026-11-07T10:19:05Z",
+        "fileIds": [
+          "1000073750"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-20T19:01:28Z",
+        "fileSize": 8189,
+        "modCategory": {
+          "categoryId": 33,
+          "name": "Magic"
+        },
+        "modId": 60689,
+        "name": "Enhanced Invisilibity (OpenMW)",
+        "status": "published",
+        "summary": "Using invisibility now changes the way you view the world. Not only you become transparent, but you also start seeing through an ethereal lens that warps and twists the environment around you.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60689/60689-1792521958-1038622293.png",
+        "uid": "429496790289",
+        "updatedAt": "2026-10-27T13:08:50Z",
+        "fileIds": [
+          "1000073152"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-16T11:02:50Z",
+        "fileSize": 14,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60622,
+        "name": "Sounds of Souls (OpenMW)",
+        "status": "published",
+        "summary": "Ever think that it's a bit creepy that there are souls trapped just there, on your desk? Would it be even creepier if the souls spoke from beyond the grave? This mod makes them do just that!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60622/60622-1792148136-815306303.jpg",
+        "uid": "429496790222",
+        "updatedAt": "2026-10-16T11:02:50Z",
+        "fileIds": [
+          "1000072516"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2026-09-26T15:06:25Z",
-        "fileSize": 31,
+        "fileSize": 1973,
         "modCategory": {
           "categoryId": 17,
           "name": "Modders Resources and Tutorials"
@@ -21,15 +78,15 @@
         "summary": "My collection of drop-in modules that can be added to any OpenMW Lua projects for either performance or convenience.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60374/60374-1790435772-2052177808.png",
         "uid": "429496789974",
-        "updatedAt": "2026-09-29T10:56:05Z",
+        "updatedAt": "2026-11-03T12:44:18Z",
         "fileIds": [
-          "1000071470"
+          "1000073579"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2026-09-18T02:54:09Z",
-        "fileSize": 6,
+        "fileSize": 19,
         "modCategory": {
           "categoryId": 33,
           "name": "Magic"
@@ -40,9 +97,9 @@
         "summary": "New secondary effects for elemental damage. To spice things up and make the choice of which element to use even more interesting.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60286/60286-1789697897-555010799.jpg",
         "uid": "429496789886",
-        "updatedAt": "2026-09-23T03:34:35Z",
+        "updatedAt": "2026-10-20T12:21:44Z",
         "fileIds": [
-          "1000071018"
+          "1000072794"
         ]
       },
       {
@@ -86,7 +143,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-09-11T00:06:03Z",
-        "fileSize": 12,
+        "fileSize": 13,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -97,9 +154,9 @@
         "summary": "Allows NPCs to use their racial powers and receive birthsign boons. Compatible with any mod that adds, changes, or removes races and birthsigns.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60179/60179-1789084701-852511647.jpg",
         "uid": "429496789779",
-        "updatedAt": "2026-09-12T01:01:03Z",
+        "updatedAt": "2026-10-14T08:22:59Z",
         "fileIds": [
-          "1000070180"
+          "1000072393"
         ]
       },
       {
@@ -124,7 +181,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-08-25T09:01:19Z",
-        "fileSize": 19,
+        "fileSize": 55,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -132,12 +189,12 @@
         "modId": 59968,
         "name": "Inventory Camera (OpenMW)",
         "status": "published",
-        "summary": "Open your inventory with style!",
+        "summary": "Open your inventory with style! It's like paper doll, but cooler.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59968/59968-1787648313-2033872404.png",
         "uid": "429496789568",
-        "updatedAt": "2026-09-08T04:34:14Z",
+        "updatedAt": "2026-10-19T07:09:27Z",
         "fileIds": [
-          "1000069932"
+          "1000072727"
         ]
       },
       {
@@ -173,9 +230,9 @@
         "summary": "Get accustomed to armor by moving around in it. It's heavy, after all.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59863/59863-1786705194-1930375803.png",
         "uid": "429496789463",
-        "updatedAt": "2026-08-16T09:18:20Z",
+        "updatedAt": "2026-10-22T09:38:57Z",
         "fileIds": [
-          "1000068456"
+          "1000072869"
         ]
       },
       {
@@ -332,7 +389,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-06-01T04:00:33Z",
-        "fileSize": 35,
+        "fileSize": 52,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -343,9 +400,9 @@
         "summary": "Expansion pack for Character Traits Framework with many new scripted backgrounds.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59130/59130-1780080989-41928011.png",
         "uid": "429496788730",
-        "updatedAt": "2026-09-23T23:09:47Z",
+        "updatedAt": "2026-11-07T10:15:52Z",
         "fileIds": [
-          "1000071069"
+          "1000073748"
         ]
       },
       {
@@ -408,7 +465,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-01T14:03:55Z",
-        "fileSize": 348,
+        "fileSize": 289,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -419,15 +476,15 @@
         "summary": "Adds a hotkey to give followers commands based on what you're looking at.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58818/58818-1777591966-1859850688.png",
         "uid": "429496788418",
-        "updatedAt": "2026-07-27T08:28:05Z",
+        "updatedAt": "2026-10-26T10:14:50Z",
         "fileIds": [
-          "1000067620"
+          "1000073086"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2026-04-30T23:56:30Z",
-        "fileSize": 21,
+        "fileSize": 2242,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -438,16 +495,16 @@
         "summary": "Select your character's past that will shape their future. Almost 300 traits across 4 types to choose from!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58704/58704-1776598686-424312326.png",
         "uid": "429496788304",
-        "updatedAt": "2026-09-24T00:05:40Z",
+        "updatedAt": "2026-11-07T10:17:36Z",
         "fileIds": [
+          "1000073749",
+          "1000072782",
+          "1000072781",
+          "1000072780",
           "1000071080",
           "1000071079",
-          "1000071078",
-          "1000071077",
           "1000071076",
-          "1000071075",
-          "1000071074",
-          "1000071073"
+          "1000071075"
         ]
       },
       {
@@ -483,14 +540,15 @@
         "summary": "Guess now it's my turn to have a patch hub :d",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58744/58744-1777126657-936089804.png",
         "uid": "429496788344",
-        "updatedAt": "2026-09-29T08:12:26Z",
+        "updatedAt": "2026-10-04T16:41:52Z",
         "fileIds": [
+          "1000071834",
           "1000071463",
-          "1000070136",
           "1000068352",
-          "1000063656",
           "1000063529",
-          "1000063024"
+          "1000063024",
+          "1000070136",
+          "1000063656"
         ]
       },
       {
@@ -649,7 +707,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-10T13:06:13Z",
-        "fileSize": 4,
+        "fileSize": 13698,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -660,9 +718,9 @@
         "summary": "Because letting followers tank everything is too easy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58076/58076-1768049618-176248420.png",
         "uid": "429496787676",
-        "updatedAt": "2026-07-13T18:49:45Z",
+        "updatedAt": "2026-10-26T10:25:03Z",
         "fileIds": [
-          "1000067046"
+          "1000073087"
         ]
       },
       {
@@ -706,7 +764,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-07T20:41:16Z",
-        "fileSize": 8,
+        "fileSize": 9,
         "modCategory": {
           "categoryId": 15,
           "name": "Utilities"
@@ -717,9 +775,9 @@
         "summary": "Library for centralized and convenient follower tracking.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58053/58053-1767793455-1762329405.png",
         "uid": "429496787653",
-        "updatedAt": "2026-07-19T16:03:39Z",
+        "updatedAt": "2026-10-26T10:09:20Z",
         "fileIds": [
-          "1000067256",
+          "1000073085",
           "1000065930"
         ]
       },
@@ -737,15 +795,15 @@
         "summary": "Rebelling followers begone!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57975/57975-1766605107-1861789311.jpg",
         "uid": "429496787575",
-        "updatedAt": "2026-07-25T09:43:37Z",
+        "updatedAt": "2026-10-26T15:21:44Z",
         "fileIds": [
-          "1000067521"
+          "1000073105"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2025-12-20T00:55:12Z",
-        "fileSize": 13,
+        "fileSize": 19,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -756,9 +814,9 @@
         "summary": "Dynamic skill and attribute rewards for completing faction quests.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57952/57952-1766191077-1721142479.png",
         "uid": "429496787552",
-        "updatedAt": "2026-03-10T11:31:30Z",
+        "updatedAt": "2026-10-28T11:33:14Z",
         "fileIds": [
-          "1000061473"
+          "1000073224"
         ]
       },
       {
@@ -775,8 +833,9 @@
         "summary": "Break locks with the power of your muscles!",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57841/57841-1764115539-112873440.png",
         "uid": "429496787441",
-        "updatedAt": "2026-10-03T14:29:56Z",
+        "updatedAt": "2026-10-26T08:47:59Z",
         "fileIds": [
+          "1000073082",
           "1000071753",
           "1000068457",
           "1000068255",
@@ -964,6 +1023,6 @@
         ]
       }
     ],
-    "totalCount": 48
+    "totalCount": 51
   }
 }

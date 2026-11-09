@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:37:33.032Z",
+  "checkedAt": "2026-11-09T09:51:21.514Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,8 +21,9 @@
         "summary": "An addon for the Advanced World Map mod that displays objects from 'detect' spells.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58324/58324-1772558538-1588145405.png",
         "uid": "429496787924",
-        "updatedAt": "2026-07-26T19:21:30Z",
+        "updatedAt": "2026-10-04T14:00:26Z",
         "fileIds": [
+          "1000071822",
           "1000067596",
           "1000061259"
         ]
@@ -30,7 +31,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-06T11:29:36Z",
-        "fileSize": 41455,
+        "fileSize": 41458,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -41,9 +42,9 @@
         "summary": "In-game interactive world and local map with search, notes, fast travel, and more.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57881/57881-1781715663-216418370.png",
         "uid": "429496787481",
-        "updatedAt": "2026-10-01T17:26:37Z",
+        "updatedAt": "2026-10-20T17:46:40Z",
         "fileIds": [
-          "1000071658",
+          "1000072804",
           "1000070279",
           "1000070277",
           "1000063013",
@@ -53,6 +54,9 @@
           "1000071659",
           "1000068759",
           "1000068758",
+          "1000072241",
+          "1000071823",
+          "1000071658",
           "1000071404",
           "1000071339",
           "1000070828",
@@ -83,7 +87,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-08-22T13:34:53Z",
-        "fileSize": 217,
+        "fileSize": 1006,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -91,32 +95,26 @@
         "modId": 57285,
         "name": "Quest Guider Lite (OpenMW)",
         "status": "published",
-        "summary": "Adds a new journal menu (H key) with detailed quest information (entries, dialogues, actions), plus optional quest markers that work with any quest mod.",
+        "summary": "Adds a new journal menu with detailed quest information (entries, dialogues, actions), plus optional quest markers that work with any quest mod.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57285/57285-1755018136-1399655819.png",
         "uid": "429496786885",
-        "updatedAt": "2026-09-14T16:37:16Z",
+        "updatedAt": "2026-10-20T19:18:04Z",
         "fileIds": [
+          "1000072809",
+          "1000072805",
+          "1000071820",
+          "1000063837",
+          "1000071818",
+          "1000071817",
+          "1000071816",
+          "1000069149",
+          "1000071819",
+          "1000071815",
           "1000070364",
           "1000070363",
           "1000070267",
-          "1000063837",
-          "1000069149",
-          "1000067527",
-          "1000067526",
-          "1000067525",
-          "1000070278",
-          "1000070101",
-          "1000070100",
-          "1000069376",
-          "1000069375",
           "1000068853",
-          "1000068819",
-          "1000067996",
           "1000067115",
-          "1000065630",
-          "1000065629",
-          "1000065628",
-          "1000063836",
           "1000063833",
           "1000061294",
           "1000060457",

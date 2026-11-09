@@ -1,10 +1,11 @@
 {
-  "checkedAt": "2026-10-04T00:37:42.713Z",
+  "checkedAt": "2026-11-09T09:51:48.404Z",
   "mods": {
     "facetsData": {
       "gameId": {
         "100": 28,
         "181": 1,
+        "262": 1,
         "430": 1,
         "437": 1,
         "852": 1,
@@ -303,13 +304,13 @@
         "modId": 56398,
         "name": "Dwemer Architecture Reimagined",
         "status": "published",
-        "summary": "A 2k Dwemer texture replacement",
+        "summary": "A 2k Dwemer texture replacement, now with PBR.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56398/56398-1745415786-784614609.png",
         "uid": "429496785998",
-        "updatedAt": "2025-11-20T17:21:35Z",
+        "updatedAt": "2026-10-11T16:12:42Z",
         "fileIds": [
           "1000058551",
-          "1000058559",
+          "1000072228",
           "1000058554",
           "1000058553",
           "1000052126",

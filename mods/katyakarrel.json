@@ -1,13 +1,33 @@
 {
-  "checkedAt": "2026-10-04T00:38:48.614Z",
+  "checkedAt": "2026-11-09T09:56:31.642Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 23,
+        "100": 24,
         "1704": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-01T04:13:23Z",
+        "fileSize": 485,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 60815,
+        "name": "Urshilaku Outskirts - Glass and Shalk",
+        "status": "published",
+        "summary": "Enhances an empty area behind Urshilaku camp by adding a smaller camp with two traders selling new cool sets of Shalk armour and Ashlander glass weapons from OAAB_Data.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60815/60815-1793504742-493535427.png",
+        "uid": "429496790415",
+        "updatedAt": "2026-11-01T04:13:23Z",
+        "fileIds": [
+          "1000073452",
+          "1000073453"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-15T12:12:12Z",
@@ -124,8 +144,10 @@
         "summary": "Here are some patches I made for my modlist, maybe it'll be useful to someone.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/56060/56060-1740203761-1164241993.png",
         "uid": "429496785660",
-        "updatedAt": "2026-04-20T15:28:16Z",
+        "updatedAt": "2026-10-17T08:23:20Z",
         "fileIds": [
+          "1000072582",
+          "1000072581",
           "1000062847",
           "1000061959",
           "1000060513",
@@ -135,10 +157,10 @@
           "1000051637",
           "1000051636",
           "1000051486",
-          "1000051322",
           "1000051320",
           "1000051021",
           "1000062846",
+          "1000051322",
           "1000051321",
           "1000051196",
           "1000051024",
@@ -491,6 +513,6 @@
         "updatedAt": "2022-07-09T05:36:40Z"
       }
     ],
-    "totalCount": 23
+    "totalCount": 24
   }
 }

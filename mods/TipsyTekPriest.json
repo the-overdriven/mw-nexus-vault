@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:41:11.858Z",
+  "checkedAt": "2026-11-09T10:09:47.488Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -181,7 +181,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-01-14T13:44:45Z",
-        "fileSize": 3440,
+        "fileSize": 11079,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -192,10 +192,9 @@
         "summary": "Replaces generic Imperial Guards with levelled variants in the same vein as IO - Imperials and IO - Solstheim.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55776/55776-1736861564-981444249.jpeg",
         "uid": "429496785376",
-        "updatedAt": "2026-09-10T15:55:32Z",
+        "updatedAt": "2026-10-07T10:16:36Z",
         "fileIds": [
-          "1000070079",
-          "1000052307"
+          "1000071961"
         ]
       },
       {
@@ -220,7 +219,7 @@
       {
         "adultContent": false,
         "createdAt": "2024-02-04T15:21:33Z",
-        "fileSize": 56,
+        "fileSize": 1353,
         "modCategory": {
           "categoryId": 11,
           "name": "NPCs"
@@ -231,11 +230,9 @@
         "summary": "Overhauls the appearances of Ashlander npcs, incorporating faces and assets from Tamriel_Data and OAAB_Data.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/54099/54099-1756897831-1975854472.png",
         "uid": "429496783699",
-        "updatedAt": "2025-09-06T09:40:30Z",
+        "updatedAt": "2026-10-07T10:14:20Z",
         "fileIds": [
-          "1000056639",
-          "1000042519",
-          "1000051414"
+          "1000071959"
         ]
       },
       {

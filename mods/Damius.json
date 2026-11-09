@@ -1,12 +1,51 @@
 {
-  "checkedAt": "2026-10-04T00:37:14.660Z",
+  "checkedAt": "2026-11-09T00:38:59.571Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 52
+        "100": 53
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-09T16:35:43Z",
+        "fileSize": 320,
+        "modCategory": {
+          "categoryId": 34,
+          "name": "Towns and Villages"
+        },
+        "modId": 60510,
+        "name": "More Indoril Indoril Settlements",
+        "status": "published",
+        "summary": "Updates Akamora, Ammar, Nan Iban, and Enamor Dayn to the newer Indoril tileset.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60510/60510-1791562256-1015085457.png",
+        "uid": "429496790110",
+        "updatedAt": "2026-11-07T20:31:31Z",
+        "fileIds": [
+          "1000073788",
+          "1000073786",
+          "1000073785",
+          "1000073740",
+          "1000073747",
+          "1000073746",
+          "1000073745",
+          "1000073742",
+          "1000073741",
+          "1000073739",
+          "1000073694",
+          "1000073693",
+          "1000073692",
+          "1000073627",
+          "1000073626",
+          "1000073625",
+          "1000072257",
+          "1000072255",
+          "1000072231",
+          "1000072175",
+          "1000072075"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-25T02:56:35Z",
@@ -82,11 +121,13 @@
         "summary": "Adds unique roofs and towers to Suran.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59879/59879-1786944101-1718880021.png",
         "uid": "429496789479",
-        "updatedAt": "2026-08-19T10:40:38Z",
+        "updatedAt": "2026-11-01T22:32:13Z",
         "fileIds": [
-          "1000068507",
+          "1000073501",
+          "1000073503",
           "1000068610",
-          "1000068508"
+          "1000068508",
+          "1000068507"
         ]
       },
       {
@@ -1083,6 +1124,6 @@
         "updatedAt": "2021-08-11T06:31:02Z"
       }
     ],
-    "totalCount": 52
+    "totalCount": 53
   }
 }

@@ -1,14 +1,226 @@
 {
-  "checkedAt": "2026-10-04T00:41:12.262Z",
+  "checkedAt": "2026-11-09T10:10:14.813Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 56,
-        "1704": 1,
+        "100": 66,
+        "1704": 3,
         "2298": 3
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-08T06:46:03Z",
+        "fileSize": 47775,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60886,
+        "name": "Reptiles Redux - Guar Alit Kagouti Cliffracer - Aendemika of Vvardenfell",
+        "status": "published",
+        "summary": "The redux version of the famous AoVv series. The original work of Tyddy redone by Tyddy himself 13 years later!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60886/60886-1794113761-908907238.jpg",
+        "uid": "429496790486",
+        "updatedAt": "2026-11-08T06:46:03Z",
+        "fileIds": [
+          "1000073804",
+          "1000073806"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-07T11:15:31Z",
+        "fileSize": 12571,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60878,
+        "name": "Atlas Additions - Creatures",
+        "status": "published",
+        "summary": "This mod optimizes and atlases the creatures! For now, only the reptiles - models of the guars (all 3), alit, kagouti and cliffracer. Fight the drawcalls! Not an official Project Atlas Addon.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60878/60878-1794049114-1459928766.gif",
+        "uid": "429496790478",
+        "updatedAt": "2026-11-07T11:15:31Z",
+        "fileIds": [
+          "1000073753",
+          "1000073754"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-04T14:12:22Z",
+        "fileSize": 10589,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60860,
+        "name": "Gold Drake Septim - Tyd's Mint Coins - Aestetika of Vvardenfell",
+        "status": "published",
+        "summary": "A long awaited retexture of the Imperial Septim (gold or drake) - and the dwarven coin as a bonus!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60860/60860-1793800042-101710920.jpg",
+        "uid": "429496790460",
+        "updatedAt": "2026-11-06T10:43:05Z",
+        "fileIds": [
+          "1000073613",
+          "1000073704"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-31T15:01:02Z",
+        "fileSize": 23705,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60817,
+        "name": "Witchfest Moons - The Hollowjack Celestial Invasion - Aestetika of Aetherius",
+        "status": "published",
+        "summary": "Turn Masser into a cratered pumpkin and Secunda into a weathered skull. Choose native moon phases, regular VAIO panoramas, or experimental rotating models for OpenMW. Happy Halloween!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60817/60817-1793456493-1541306370.png",
+        "uid": "429496790417",
+        "updatedAt": "2026-10-31T15:01:02Z",
+        "fileIds": [
+          "1000073418",
+          "1000073408",
+          "1000073403",
+          "1000073414"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-31T01:02:35Z",
+        "fileSize": 8593,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60816,
+        "name": "Fix and Loading in Vvardenfell - Malbogatra Overhauls Meshes Fixes",
+        "status": "published",
+        "summary": "This mod provides the fixed meshes for all 3 Malbogatra's Landscape Overhauls (Red Mountain, West Gash and Sheogorad's Spines of Madness).",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60816/60816-1793362966-768977937.png",
+        "uid": "429496790416",
+        "updatedAt": "2026-11-02T15:06:46Z",
+        "fileIds": [
+          "1000073532",
+          "1000073533"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-29T11:16:00Z",
+        "fileSize": 45597,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60799,
+        "name": "Correct Diverse Ore Variants - Variation Framework Mod - Tyddy's Edition",
+        "status": "published",
+        "summary": "A recreation of Diverse Ore Veins and Correct UV Ores: every ore vein rebuilt with new rock bodies, ore crystals that can be mined, and rock that matches the cave. Vanilla, Tamriel Data (Mainland TR, Cyrodiil, Skyrim), OAAB Data, Lyithdonea",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60799/60799-1793269847-403497228.png",
+        "uid": "429496790399",
+        "updatedAt": "2026-10-29T12:44:11Z",
+        "fileIds": [
+          "1000073275",
+          "1000073281",
+          "1000073277"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-25T16:09:36Z",
+        "fileSize": 56451,
+        "modCategory": {
+          "categoryId": 29,
+          "name": "Overhauls"
+        },
+        "modId": 60214,
+        "name": "Baar Dau - The Truth (Ministry Overhaul) - Aestetika of Vvardenfell",
+        "status": "published",
+        "summary": "Recreates and combines the best mods and lore suggestions about the infamous Ministry of Truth! One Baar Dau mod to rule them all!",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60214/60214-1792944377-645626773.png",
+        "uid": "429496789814",
+        "updatedAt": "2026-10-27T11:51:46Z",
+        "fileIds": [
+          "1000073149",
+          "1000073026",
+          "1000073097",
+          "1000073025"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-17T08:08:12Z",
+        "fileSize": 33385,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60640,
+        "name": "Baar Dau Retexture - Aestetika of Aetherius",
+        "status": "published",
+        "summary": "The retexture of the iconic floating moon above the city of Vivec - Baar Dau, the infamous Ministry of Truth.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60640/60640-1792217573-895609153.png",
+        "uid": "429496790240",
+        "updatedAt": "2026-10-17T08:08:12Z",
+        "fileIds": [
+          "1000072574",
+          "1000072573",
+          "1000072572",
+          "1000072571",
+          "1000072577",
+          "1000072576",
+          "1000072575"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-08T10:55:19Z",
+        "fileSize": 2503,
+        "modCategory": {
+          "categoryId": 17,
+          "name": "Modders Resources and Tutorials"
+        },
+        "modId": 60432,
+        "name": "Ashcrete Architecture Set - Dunmer Ruins Expansion - Modresource",
+        "status": "published",
+        "summary": "The long-waited expansion of the vanilla ex_ruin set made by the conversion of the Sandcrete Architecture from TrickyVein.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60432/60432-1791395535-836653711.jpg",
+        "uid": "429496790032",
+        "updatedAt": "2026-10-08T10:55:19Z",
+        "fileIds": [
+          "1000072010"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-08T10:55:09Z",
+        "fileSize": 19530,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60468,
+        "name": "Stucco Dunmer Ruins - Arkitektora of Vvardenfell",
+        "status": "published",
+        "summary": "New and detailed. Six textures for Morrowind’s mysterious Dunmer ruins, with optional OpenMW normal maps. A preview for AoVv - Strongholds.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60468/60468-1791456342-131424541.png",
+        "uid": "429496790068",
+        "updatedAt": "2026-10-08T10:55:09Z",
+        "fileIds": [
+          "1000072009",
+          "1000072008",
+          "1000072007",
+          "1000072006",
+          "1000072005"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-19T18:15:13Z",
@@ -615,7 +827,7 @@
           "name": "Models and Textures"
         },
         "modId": 46266,
-        "name": "Vivec and Velothi - Arkitektora Vol.2",
+        "name": "Vivec and Velothi  - Arkitektora of Vvardenfell - Vol.2",
         "status": "published",
         "summary": "New. Better. Detailed. Richer. Closer to vanilla.Textures of Vivec City and Velothi Architecture.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46266/46266-1546284344-1133379965.png",
@@ -631,7 +843,7 @@
           "name": "Models and Textures"
         },
         "modId": 46246,
-        "name": "Hlaalu - Arkitektora Vol.2",
+        "name": "Hlaalu - Arkitektora of Vvardenfell - Vol.2",
         "status": "published",
         "summary": "New. Better. Detailed. Richer. Closer to vanilla.Textures of Great House Hlaalu.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46246/46246-1545761981-1772118561.png",
@@ -647,7 +859,7 @@
           "name": "Models and Textures"
         },
         "modId": 46235,
-        "name": "Redoran - Arkitektora Vol.2",
+        "name": "Redoran - Arkitektora of Vvardenfell - Vol.2",
         "status": "published",
         "summary": "New. Better. Detailed. Richer. Closer to vanilla.Textures of Great House Redoran and Ald Skar.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/46235/46235-1545521453-962377096.png",
@@ -1007,6 +1219,6 @@
         "updatedAt": "2012-05-26T13:57:13Z"
       }
     ],
-    "totalCount": 56
+    "totalCount": 66
   }
 }

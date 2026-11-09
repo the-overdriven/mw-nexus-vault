@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:36:16.859Z",
+  "checkedAt": "2026-11-09T00:35:00.589Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -29,7 +29,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-05-26T16:26:53Z",
-        "fileSize": 39041,
+        "fileSize": 68873,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -40,8 +40,9 @@
         "summary": "Curated compilation of 600+ unique, vanilla-friendly designs for unique vanilla objects",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58990/58990-1779754594-883737052.png",
         "uid": "429496788590",
-        "updatedAt": "2026-08-25T20:51:57Z",
+        "updatedAt": "2026-10-04T18:30:00Z",
         "fileIds": [
+          "1000071836",
           "1000069088",
           "1000068067",
           "1000064668",
@@ -228,7 +229,11 @@
         "summary": "Visually Trapped Objects applies the enchanted effect to any doors or containers with traps",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/48936/48936-1602596747-672164238.jpeg",
         "uid": "429496778536",
-        "updatedAt": "2024-11-29T18:27:35Z"
+        "updatedAt": "2026-11-01T17:25:11Z",
+        "fileIds": [
+          "1000073488",
+          "1000048510"
+        ]
       },
       {
         "adultContent": false,

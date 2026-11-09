@@ -1,12 +1,79 @@
 {
-  "checkedAt": "2026-10-04T00:38:09.974Z",
+  "checkedAt": "2026-11-09T09:52:06.559Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 46
+        "100": 49
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-16T15:54:57Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60629,
+        "name": "(OpenMW) Crystal Lore",
+        "status": "published",
+        "summary": "A simple mod that rewards you for discovering magic crystals",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60629/60629-1792165989-1259052927.png",
+        "uid": "429496790229",
+        "updatedAt": "2026-10-17T11:01:18Z",
+        "fileIds": [
+          "1000072590",
+          "1000072537",
+          "1000072534"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-12T16:11:11Z",
+        "fileSize": 8600,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60569,
+        "name": "Better Bodies Improved and Westlified",
+        "status": "published",
+        "summary": "Less seams, more colours",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60569/60569-1791821052-1187384356.png",
+        "uid": "429496790169",
+        "updatedAt": "2026-11-08T14:32:38Z",
+        "fileIds": [
+          "1000073825",
+          "1000073826",
+          "1000073616",
+          "1000073614",
+          "1000073555",
+          "1000073291",
+          "1000072293"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-04T20:07:37Z",
+        "fileSize": 4,
+        "modCategory": {
+          "categoryId": 4,
+          "name": "Gameplay"
+        },
+        "modId": 60450,
+        "name": "(OpenMW) Yet Another Quickcast",
+        "status": "published",
+        "summary": "Just a simple mod to allow quickcasting for players",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60450/60450-1791143850-2085587590.png",
+        "uid": "429496790050",
+        "updatedAt": "2026-10-05T18:48:45Z",
+        "fileIds": [
+          "1000071889",
+          "1000071849",
+          "1000071839"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-17T19:29:26Z",
@@ -30,7 +97,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-09-09T15:43:22Z",
-        "fileSize": 17559,
+        "fileSize": 29159,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -38,27 +105,38 @@
         "modId": 60161,
         "name": "(OpenMW) Daily Chores",
         "status": "published",
-        "summary": "NPCs perform daily chores. For now, supports praying, sweeping, mining, minstrelsy, scrubbing, and reading",
+        "summary": "NPCs perform daily chores, like praying in temples, mining in mines, etc. Imagine Animated Morrowind but dynamic",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60161/60161-1788968368-1753018599.png",
         "uid": "429496789761",
-        "updatedAt": "2026-10-02T21:28:33Z",
+        "updatedAt": "2026-11-07T11:36:59Z",
         "fileIds": [
+          "1000073755",
+          "1000073727",
+          "1000073541",
+          "1000073489",
+          "1000073380",
+          "1000072964",
+          "1000072902",
+          "1000072733",
+          "1000072677",
+          "1000072671",
+          "1000072606",
+          "1000072476",
+          "1000072469",
+          "1000072214",
+          "1000072153",
+          "1000072100",
+          "1000071821",
           "1000071720",
           "1000070502",
           "1000070359",
-          "1000070321",
-          "1000070295",
-          "1000070272",
-          "1000070175",
-          "1000070137",
-          "1000070053",
-          "1000070023"
+          "1000070321"
         ]
       },
       {
         "adultContent": false,
         "createdAt": "2026-09-08T11:11:34Z",
-        "fileSize": 798,
+        "fileSize": 800,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -69,10 +147,11 @@
         "summary": "A custom shader for OpenMW which makes blood appear on your screen when you take damage. Optional heavy breathing when badly hurt is included",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60148/60148-1788865805-939714589.png",
         "uid": "429496789748",
-        "updatedAt": "2026-09-25T12:32:48Z",
+        "updatedAt": "2026-10-29T15:26:45Z",
         "fileIds": [
-          "1000071176",
+          "1000073286",
           "1000069964",
+          "1000071176",
           "1000070574",
           "1000070001",
           "1000069972"
@@ -81,7 +160,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-09-07T12:32:04Z",
-        "fileSize": 222,
+        "fileSize": 867,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -92,8 +171,9 @@
         "summary": "NPCs flinch and complain when you run into them.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60141/60141-1788784058-863534416.png",
         "uid": "429496789741",
-        "updatedAt": "2026-09-29T11:39:28Z",
+        "updatedAt": "2026-11-07T22:45:03Z",
         "fileIds": [
+          "1000073789",
           "1000071471",
           "1000069944",
           "1000069912",
@@ -204,10 +284,10 @@
         "summary": "Fixed meshes for Better Bodies 3.2, Robert's Bodies, Better Morrowind Armor, Better Clothes Definitive Edition, Better Robes, Better Beasts by Liztail",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59908/59908-1787233720-1745301198.png",
         "uid": "429496789508",
-        "updatedAt": "2026-09-04T00:46:09Z",
+        "updatedAt": "2026-11-06T00:23:05Z",
         "fileIds": [
+          "1000073690",
           "1000069713",
-          "1000068807",
           "1000068806",
           "1000068805",
           "1000068804",
@@ -215,6 +295,7 @@
           "1000068673",
           "1000068645",
           "1000068643",
+          "1000068807",
           "1000068712",
           "1000068711",
           "1000068710",
@@ -227,7 +308,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-08-19T12:15:44Z",
-        "fileSize": 3,
+        "fileSize": 28,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -238,8 +319,9 @@
         "summary": "A custom shader for OpenMW 0.51 that makes raindrops appear on your screen when it rains or you're in the water (configurable).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59903/59903-1787141554-1127972267.png",
         "uid": "429496789503",
-        "updatedAt": "2026-09-17T15:17:12Z",
+        "updatedAt": "2026-10-29T15:28:07Z",
         "fileIds": [
+          "1000073287",
           "1000070588",
           "1000069582",
           "1000068825",
@@ -264,11 +346,12 @@
         "summary": "Re-invention of a well-known mod.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59888/59888-1787002960-209610540.png",
         "uid": "429496789488",
-        "updatedAt": "2026-08-21T14:30:35Z",
+        "updatedAt": "2026-11-04T13:18:17Z",
         "fileIds": [
           "1000068709",
-          "1000068683",
+          "1000073610",
           "1000068687",
+          "1000068683",
           "1000068548"
         ]
       },
@@ -347,7 +430,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-06-15T13:26:24Z",
-        "fileSize": 73,
+        "fileSize": 1066,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -358,8 +441,9 @@
         "summary": "NPC hungry and sad. NPC eat food and drink drinks. NPC happy.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59350/59350-1781530106-835642902.png",
         "uid": "429496788950",
-        "updatedAt": "2026-09-06T12:36:15Z",
+        "updatedAt": "2026-10-18T14:33:33Z",
         "fileIds": [
+          "1000072676",
           "1000069833",
           "1000068777",
           "1000068536",
@@ -432,8 +516,9 @@
         "summary": "Plays animations when picking up items / activating containers, doors or activators. Also during dialogues.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59117/59117-1779834710-1366291765.jpg",
         "uid": "429496788717",
-        "updatedAt": "2026-10-02T22:00:00Z",
+        "updatedAt": "2026-11-06T20:18:51Z",
         "fileIds": [
+          "1000073721",
           "1000071721",
           "1000070497",
           "1000068576",
@@ -621,7 +706,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-04-11T13:31:24Z",
-        "fileSize": 28,
+        "fileSize": 45,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -632,21 +717,14 @@
         "summary": "Gives NPCs a schedule. They either go home or to the nearest safe place at night or during bad weather. During daytime, they can go shopping or visit temples.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58635/58635-1775913943-1382407226.png",
         "uid": "429496788235",
-        "updatedAt": "2026-09-19T08:59:39Z",
+        "updatedAt": "2026-11-07T11:37:47Z",
         "fileIds": [
+          "1000073756",
+          "1000073728",
           "1000070763",
           "1000070018",
           "1000069571",
-          "1000069467",
-          "1000068810",
-          "1000068449",
-          "1000067642",
-          "1000067214",
-          "1000067160",
-          "1000066813",
-          "1000066142",
-          "1000065875",
-          "1000063694"
+          "1000069467"
         ]
       },
       {
@@ -687,10 +765,11 @@
         "summary": "Guards tolerate night loitering no more. You will be escorted to the nearest inn or tavern if a guard finds you suspicious (low disposition or you don't carry a light source in your hand).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58553/58553-1774974245-1585727584.png",
         "uid": "429496788153",
-        "updatedAt": "2026-10-03T20:15:46Z",
+        "updatedAt": "2026-11-07T20:31:30Z",
         "fileIds": [
-          "1000071776",
+          "1000073787",
           "1000062561",
+          "1000071776",
           "1000068785",
           "1000068235",
           "1000068098",
@@ -722,7 +801,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-25T22:43:47Z",
-        "fileSize": 56,
+        "fileSize": 59,
         "modCategory": {
           "categoryId": 24,
           "name": "User Interface"
@@ -733,8 +812,10 @@
         "summary": "Just a simple HUD without extra information. It's pretty, though.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58505/58505-1774546533-958874957.png",
         "uid": "429496788105",
-        "updatedAt": "2026-08-08T03:11:49Z",
+        "updatedAt": "2026-10-05T17:23:28Z",
         "fileIds": [
+          "1000071884",
+          "1000071882",
           "1000068179",
           "1000065846",
           "1000064565"
@@ -743,7 +824,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-20T13:48:08Z",
-        "fileSize": 10,
+        "fileSize": 16,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -754,8 +835,9 @@
         "summary": "Now you need sufficient armor skill and governing attribute to equip powerful armor.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58485/58485-1774014195-1065390651.png",
         "uid": "429496788085",
-        "updatedAt": "2026-08-17T21:03:35Z",
+        "updatedAt": "2026-11-01T18:32:03Z",
         "fileIds": [
+          "1000073492",
           "1000068546",
           "1000066914",
           "1000066544",
@@ -767,7 +849,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-19T10:37:12Z",
-        "fileSize": 8,
+        "fileSize": 16,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -778,8 +860,9 @@
         "summary": "Now you need sufficient weapon skill and governing attribute to wield powerful weapons.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58477/58477-1773916264-314596005.png",
         "uid": "429496788077",
-        "updatedAt": "2026-08-17T21:02:42Z",
+        "updatedAt": "2026-11-01T18:31:14Z",
         "fileIds": [
+          "1000073490",
           "1000068545",
           "1000066913",
           "1000066543",
@@ -792,7 +875,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-14T11:51:27Z",
-        "fileSize": 104,
+        "fileSize": 88,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -803,11 +886,10 @@
         "summary": "Now you can disarm your enemies. The downside? They can do the same to you.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58430/58430-1773489709-18416247.png",
         "uid": "429496788030",
-        "updatedAt": "2026-08-22T19:44:18Z",
+        "updatedAt": "2026-10-25T22:20:44Z",
         "fileIds": [
+          "1000073064",
           "1000068787",
-          "1000061697",
-          "1000061614",
           "1000064088",
           "1000062969"
         ]
@@ -918,7 +1000,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-03-06T12:44:29Z",
-        "fileSize": 125,
+        "fileSize": 2845,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -929,14 +1011,11 @@
         "summary": "If you get too close to a thief, there's a chance they'll steal gold, gemstones or valuable jewelry from you. Confront them about your stolen stuff by drawing your blade, and they might attack you or apologise and return it.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58362/58362-1772800912-318348143.png",
         "uid": "429496787962",
-        "updatedAt": "2026-09-09T11:03:58Z",
+        "updatedAt": "2026-11-01T23:45:03Z",
         "fileIds": [
+          "1000073506",
           "1000070004",
-          "1000069825",
-          "1000068809",
-          "1000068226",
-          "1000063587",
-          "1000063240"
+          "1000069825"
         ]
       },
       {
@@ -974,8 +1053,9 @@
         "summary": "Standing too close to an open fire will burn you.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58345/58345-1772635604-1703980544.png",
         "uid": "429496787945",
-        "updatedAt": "2026-09-24T18:28:20Z",
+        "updatedAt": "2026-10-22T15:40:46Z",
         "fileIds": [
+          "1000072881",
           "1000071128",
           "1000065618",
           "1000064057"
@@ -1102,6 +1182,6 @@
         ]
       }
     ],
-    "totalCount": 46
+    "totalCount": 49
   }
 }

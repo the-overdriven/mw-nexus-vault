@@ -1,13 +1,33 @@
 {
-  "checkedAt": "2026-10-04T00:38:46.974Z",
+  "checkedAt": "2026-11-09T09:56:03.115Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 25,
+        "100": 26,
         "7757": 1
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-08T05:04:25Z",
+        "fileSize": 2254,
+        "modCategory": {
+          "categoryId": 21,
+          "name": "Animations"
+        },
+        "modId": 60887,
+        "name": "Animated levitation - MWSE",
+        "status": "published",
+        "summary": "Адаптация мода с OpenMW.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60887/60887-1794114072-2068699132.png",
+        "uid": "429496790487",
+        "updatedAt": "2026-11-08T06:57:33Z",
+        "fileIds": [
+          "1000073810",
+          "1000073809"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2023-10-07T15:31:24Z",
@@ -409,6 +429,6 @@
         "updatedAt": "2020-04-08T21:14:29Z"
       }
     ],
-    "totalCount": 25
+    "totalCount": 26
   }
 }

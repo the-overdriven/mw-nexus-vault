@@ -1,12 +1,51 @@
 {
-  "checkedAt": "2026-10-04T00:38:47.931Z",
+  "checkedAt": "2026-11-09T09:56:13.305Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 40
+        "100": 42
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-02T06:55:54Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 60849,
+        "name": "Sharapli Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Sharapli.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60849/60849-1793602493-1704727748.png",
+        "uid": "429496790449",
+        "updatedAt": "2026-11-03T11:30:36Z",
+        "fileIds": [
+          "1000073576",
+          "1000073519"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-11T00:20:48Z",
+        "fileSize": 41,
+        "modCategory": {
+          "categoryId": 3,
+          "name": "Dungeons and Locations"
+        },
+        "modId": 60544,
+        "name": "Shushan Overhaul",
+        "status": "published",
+        "summary": "An overhaul of Shushan.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60544/60544-1791677897-84015907.png",
+        "uid": "429496790144",
+        "updatedAt": "2026-10-11T00:20:48Z",
+        "fileIds": [
+          "1000072188"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-09-03T10:57:43Z",
@@ -807,6 +846,6 @@
         ]
       }
     ],
-    "totalCount": 40
+    "totalCount": 42
   }
 }

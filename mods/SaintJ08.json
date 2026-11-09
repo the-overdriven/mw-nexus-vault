@@ -1,12 +1,71 @@
 {
-  "checkedAt": "2026-10-04T00:40:42.698Z",
+  "checkedAt": "2026-11-09T10:03:51.844Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 38
+        "100": 41
       }
     },
     "nodes": [
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-16T22:46:27Z",
+        "fileSize": 8,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60634,
+        "name": "Animated Misc Bounce (OpenMW)",
+        "status": "published",
+        "summary": "Adds a little configurable bounce animation to activating corpses and ingredients, and hitting containers, corpses and doors.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60634/60634-1792190569-1589681773.gif",
+        "uid": "429496790234",
+        "updatedAt": "2026-10-18T13:21:00Z",
+        "fileIds": [
+          "1000072673",
+          "1000072561"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-15T22:56:56Z",
+        "fileSize": 237,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60617,
+        "name": "Door Easing Animated (OpenMW)",
+        "status": "published",
+        "summary": "Makes teleport doors have an opening preview before transitioning cells, also an optional DLL that makes door opening animations have easing rather than just being linear movement.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60617/60617-1792104777-827119467.gif",
+        "uid": "429496790217",
+        "updatedAt": "2026-10-18T13:19:54Z",
+        "fileIds": [
+          "1000072672"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-15T20:27:35Z",
+        "fileSize": 76781,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60612,
+        "name": "Distant Land Billboard Meshes for Vanilla and PTR (OpenMW)",
+        "status": "published",
+        "summary": "Dramatically improves Distant Land performance by baking thousands of rock, vegetation and architecture meshes into double sided plane billboards.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60612/60612-1792093292-383119171.png",
+        "uid": "429496790212",
+        "updatedAt": "2026-10-15T20:27:35Z",
+        "fileIds": [
+          "1000072487",
+          "1000072489"
+        ]
+      },
       {
         "adultContent": false,
         "createdAt": "2026-08-26T18:51:04Z",
@@ -738,7 +797,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-12-31T10:39:09Z",
-        "fileSize": 19306,
+        "fileSize": 38403,
         "modCategory": {
           "categoryId": 9,
           "name": "Models and Textures"
@@ -749,13 +808,13 @@
         "summary": "This mod utilises Zesterer's and wareya's PBR (physically based rendering) to make the textures in the game look much nicer by adding gloss to most things. its supposed to be aesthetic, not realistic but it'll be more realistic looking than",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/52114/52114-1672482558-892362875.png",
         "uid": "429496781714",
-        "updatedAt": "2025-05-22T14:35:04Z",
+        "updatedAt": "2026-10-14T21:06:30Z",
         "fileIds": [
-          "1000053369",
+          "1000072429",
           "1000037057"
         ]
       }
     ],
-    "totalCount": 38
+    "totalCount": 41
   }
 }

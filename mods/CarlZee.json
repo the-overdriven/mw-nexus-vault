@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:37:13.788Z",
+  "checkedAt": "2026-11-09T00:37:57.526Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -31,7 +31,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-06-02T04:34:33Z",
-        "fileSize": 37867,
+        "fileSize": 38059,
         "modCategory": {
           "categoryId": 23,
           "name": "Companions"
@@ -42,8 +42,9 @@
         "summary": "Travel with a Redguard companion in search of a missing relative, slowly unravelling a struggle between redemption and revenge.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59207/59207-1780374603-922833412.png",
         "uid": "429496788807",
-        "updatedAt": "2026-09-21T16:34:11Z",
+        "updatedAt": "2026-11-06T22:52:46Z",
         "fileIds": [
+          "1000073730",
           "1000070904",
           "1000068150",
           "1000065129"

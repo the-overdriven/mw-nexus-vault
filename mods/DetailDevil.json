@@ -1,16 +1,94 @@
 {
-  "checkedAt": "2026-10-04T00:37:15.366Z",
+  "checkedAt": "2026-11-09T00:39:35.692Z",
   "mods": {
     "facetsData": {
       "gameId": {
-        "100": 41
+        "100": 45
       }
     },
     "nodes": [
       {
         "adultContent": false,
+        "createdAt": "2026-11-08T21:49:42Z",
+        "fileSize": 4717,
+        "modCategory": {
+          "categoryId": 9,
+          "name": "Models and Textures"
+        },
+        "modId": 60902,
+        "name": "Devilish Tundra Grazelands",
+        "status": "published",
+        "summary": "A re-interpretation of the Grazelands region into a tundra region using landscape textures and groundcover.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60902/60902-1794173529-710843240.png",
+        "uid": "429496790502",
+        "updatedAt": "2026-11-08T21:49:42Z",
+        "fileIds": [
+          "1000073841"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-11-03T18:26:18Z",
+        "fileSize": 6,
+        "modCategory": {
+          "categoryId": 8,
+          "name": "Miscellaneous"
+        },
+        "modId": 60856,
+        "name": "Devilish Regional Weather (OpenMW)",
+        "status": "published",
+        "summary": "Configure all regional weather by hand or coordinates.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60856/60856-1793730805-721617870.png",
+        "uid": "429496790456",
+        "updatedAt": "2026-11-03T18:26:18Z",
+        "fileIds": [
+          "1000073583"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-15T22:03:51Z",
+        "fileSize": 315,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60614,
+        "name": "Devilish Vivec Palace Flames (OpenMW)",
+        "status": "published",
+        "summary": "Adds shader based configurable flames to the Vivec Palace as envisioned by Kirkbride's concept art.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60614/60614-1792257108-18157543.png",
+        "uid": "429496790214",
+        "updatedAt": "2026-10-16T14:57:41Z",
+        "fileIds": [
+          "1000072529",
+          "1000072493"
+        ]
+      },
+      {
+        "adultContent": false,
+        "createdAt": "2026-10-04T01:52:49Z",
+        "fileSize": 5522,
+        "modCategory": {
+          "categoryId": 36,
+          "name": "Immersion"
+        },
+        "modId": 60447,
+        "name": "Devilish Ash (OpenMW)",
+        "status": "published",
+        "summary": "An ash shader mod that gradually covers the ground and objects with a textured layer of ash during ash storms. It also includes npcs and the player leaving behind footprints.",
+        "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60447/60447-1791076575-1602966174.png",
+        "uid": "429496790047",
+        "updatedAt": "2026-10-12T17:33:49Z",
+        "fileIds": [
+          "1000072297",
+          "1000071792"
+        ]
+      },
+      {
+        "adultContent": false,
         "createdAt": "2026-09-27T00:26:20Z",
-        "fileSize": 4434,
+        "fileSize": 4438,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -21,8 +99,9 @@
         "summary": "A snow shader mod that gradually covers the ground and objects with a textured layer of snow. It also adds optional visible breath clouds to the player and NPCs in cold weather (optional).",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60380/60380-1790467704-142720474.png",
         "uid": "429496789980",
-        "updatedAt": "2026-10-03T17:57:26Z",
+        "updatedAt": "2026-10-15T20:29:11Z",
         "fileIds": [
+          "1000072490",
           "1000071762",
           "1000071704",
           "1000071418",
@@ -55,7 +134,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-09-23T20:39:30Z",
-        "fileSize": 9,
+        "fileSize": 15,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -66,8 +145,10 @@
         "summary": "This mod assigns one NPC to keep an eye on the player inside homes and shops. Guards have priority, but if no guard is present, another suitable NPC will take over.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60350/60350-1790191806-1378570701.png",
         "uid": "429496789950",
-        "updatedAt": "2026-09-28T16:30:59Z",
+        "updatedAt": "2026-10-20T13:37:34Z",
         "fileIds": [
+          "1000072798",
+          "1000072418",
           "1000071428",
           "1000071190",
           "1000071119",
@@ -118,7 +199,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-06-13T23:30:58Z",
-        "fileSize": 54744,
+        "fileSize": 45947,
         "modCategory": {
           "categoryId": 13,
           "name": "Quests and Adventures"
@@ -129,8 +210,10 @@
         "summary": "Become a skooma addict and descend step by step into madness where reality fractures into hallucinations shaped by moon sugar, Sheogorath and the Wabbajack.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/59337/59337-1781397530-1083066705.png",
         "uid": "429496788937",
-        "updatedAt": "2026-09-21T18:01:13Z",
+        "updatedAt": "2026-10-30T23:37:45Z",
         "fileIds": [
+          "1000073381",
+          "1000072994",
           "1000070908",
           "1000070291",
           "1000067709",
@@ -186,7 +269,7 @@
       {
         "adultContent": false,
         "createdAt": "2026-01-12T20:38:12Z",
-        "fileSize": 5,
+        "fileSize": 14,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -197,8 +280,9 @@
         "summary": "Makes most smaller animals non-hostile such as crabs, rats, bats and makes the remaining hostile enemies warn you before they attack. This mods supports Morrowind, Bloodmoon, Tribunal, Tamriel Rebuilt, Project Tamriel creatures.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58083/58083-1768249499-1887393527.png",
         "uid": "429496787683",
-        "updatedAt": "2026-07-25T23:44:36Z",
+        "updatedAt": "2026-10-25T17:53:20Z",
         "fileIds": [
+          "1000073032",
           "1000067556",
           "1000064503",
           "1000061943",
@@ -220,8 +304,9 @@
         "summary": "Adds birds and cliffracers everywhere you go.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/58046/58046-1767657598-1617452014.png",
         "uid": "429496787646",
-        "updatedAt": "2026-10-03T11:53:17Z",
+        "updatedAt": "2026-10-21T22:41:12Z",
         "fileIds": [
+          "1000072852",
           "1000071746",
           "1000069967",
           "1000069922",
@@ -256,7 +341,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-12-07T00:21:45Z",
-        "fileSize": 671,
+        "fileSize": 672,
         "modCategory": {
           "categoryId": 36,
           "name": "Immersion"
@@ -267,8 +352,9 @@
         "summary": "Npcs will now comment on you walking up to them with a drawn weapon and draw their own.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/57892/57892-1765066305-1728587530.png",
         "uid": "429496787492",
-        "updatedAt": "2026-09-01T14:30:46Z",
+        "updatedAt": "2026-10-18T21:26:44Z",
         "fileIds": [
+          "1000072703",
           "1000069574",
           "1000068189",
           "1000067867",
@@ -359,7 +445,7 @@
       {
         "adultContent": false,
         "createdAt": "2025-01-26T19:10:00Z",
-        "fileSize": 329,
+        "fileSize": 336,
         "modCategory": {
           "categoryId": 4,
           "name": "Gameplay"
@@ -370,8 +456,9 @@
         "summary": "Drink and smoke skooma and experience fun hallucinatic trips with shader effects.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55869/55869-1737917674-22943108.png",
         "uid": "429496785469",
-        "updatedAt": "2026-09-25T13:58:15Z",
+        "updatedAt": "2026-10-30T23:44:10Z",
         "fileIds": [
+          "1000073382",
           "1000071187",
           "1000061788",
           "1000061155",
@@ -408,12 +495,16 @@
           "name": "Gameplay"
         },
         "modId": 55660,
-        "name": "The Sitting Mod OpenMW lua hotkeys",
+        "name": "Devilish Sit Down Hotkeys (OpenMW)",
         "status": "published",
-        "summary": "Allows the player to trigger the animations using the keys y, x, c, v, and b without the amulet.",
+        "summary": "Allows the player to trigger sitting, praying and laying animations with hotkeys they can configure in the setting. It also lowers the camera in first person.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/55660/55660-1735255731-190089970.png",
         "uid": "429496785260",
-        "updatedAt": "2024-12-27T00:05:14Z"
+        "updatedAt": "2026-11-02T19:07:03Z",
+        "fileIds": [
+          "1000073546",
+          "1000049063"
+        ]
       },
       {
         "adultContent": false,
@@ -662,7 +753,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-09-06T02:35:50Z",
-        "fileSize": 405693,
+        "fileSize": 213068,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -673,8 +764,10 @@
         "summary": "Malbogatra's \"Rocky Red Mountain\" made compatible with important mods such as BCOM, Memento Mori, Red Mountain Reborn ...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53473/53473-1693964381-1684138319.png",
         "uid": "429496783073",
-        "updatedAt": "2026-06-03T15:39:43Z",
+        "updatedAt": "2026-11-08T15:07:00Z",
         "fileIds": [
+          "1000073827",
+          "1000073828",
           "1000065228",
           "1000065227",
           "1000059880",
@@ -709,7 +802,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-08-28T16:59:19Z",
-        "fileSize": 82391,
+        "fileSize": 82424,
         "modCategory": {
           "categoryId": 28,
           "name": "Patches"
@@ -720,8 +813,10 @@
         "summary": "Malbogatra's Spines Of Madness edited to be compatible with important mods of the Sheogorad region such as BCOM, Rise of House Telvanni, Dagon Fel Lighthouse, Ald Redaynia mods, Ancient Foes, Of Justice and Innocence ...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53423/53423-1693241037-671550442.png",
         "uid": "429496783023",
-        "updatedAt": "2026-06-03T15:45:06Z",
+        "updatedAt": "2026-11-08T15:27:34Z",
         "fileIds": [
+          "1000073824",
+          "1000073830",
           "1000065229",
           "1000050497",
           "1000044785",
@@ -733,7 +828,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-08-27T02:04:18Z",
-        "fileSize": 37417,
+        "fileSize": 3305,
         "modCategory": {
           "categoryId": 29,
           "name": "Overhauls"
@@ -744,35 +839,37 @@
         "summary": "Malbogatra's Rocky West Gash compatible with BCOM, Caldera Priory, Caldera Mine Expanded, Justice for Khartag ...",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53420/53420-1693101459-146938389.png",
         "uid": "429496783020",
-        "updatedAt": "2026-03-12T20:58:28Z",
+        "updatedAt": "2026-11-08T13:50:09Z",
         "fileIds": [
-          "1000061581",
+          "1000073821",
+          "1000073823",
           "1000061582",
-          "1000045066",
-          "1000045598",
-          "1000050471",
-          "1000051591",
-          "1000045509",
+          "1000061581",
           "1000059598",
-          "1000044761",
-          "1000045276",
-          "1000045277",
-          "1000045280",
-          "1000040211",
-          "1000040273",
-          "1000045067",
-          "1000045597",
-          "1000050470",
-          "1000051590",
-          "1000045510",
           "1000059597",
-          "1000045274",
-          "1000045275",
-          "1000044764",
-          "1000044765",
-          "1000045278",
+          "1000051591",
+          "1000051590",
+          "1000050471",
+          "1000050470",
+          "1000045598",
+          "1000045597",
+          "1000045510",
+          "1000045509",
+          "1000045280",
           "1000045279",
-          "1000044762"
+          "1000045278",
+          "1000045277",
+          "1000045276",
+          "1000045275",
+          "1000045274",
+          "1000045067",
+          "1000045066",
+          "1000044765",
+          "1000044764",
+          "1000044762",
+          "1000044761",
+          "1000040273",
+          "1000040211"
         ]
       },
       {
@@ -957,6 +1054,6 @@
         "updatedAt": "2023-06-25T15:50:17Z"
       }
     ],
-    "totalCount": 41
+    "totalCount": 45
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:40:11.224Z",
+  "checkedAt": "2026-11-09T10:01:32.463Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -21,7 +21,15 @@
         "summary": "Port of MGE XE fog and atmospheric scattering + MGG post-processing shaders + Wonders of Water to OpenMW.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/60326/60326-1790019539-1007817193.png",
         "uid": "429496789926",
-        "updatedAt": "2026-09-21T20:51:47Z"
+        "updatedAt": "2026-10-07T13:44:50Z",
+        "fileIds": [
+          "1000071977",
+          "1000071976",
+          "1000071975",
+          "1000070925",
+          "1000070924",
+          "1000070923"
+        ]
       },
       {
         "adultContent": false,
@@ -42,7 +50,7 @@
       {
         "adultContent": false,
         "createdAt": "2022-05-11T16:25:38Z",
-        "fileSize": 166482,
+        "fileSize": 166418,
         "modCategory": {
           "categoryId": 6,
           "name": "Body, Face, and Hair"
@@ -53,17 +61,20 @@
         "summary": "An HD head and hair replacer aiming for a vanilla-like feeling.",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/51214/51214-1781136881-1390654596.png",
         "uid": "429496780814",
-        "updatedAt": "2026-06-11T20:18:55Z",
+        "updatedAt": "2026-10-07T13:40:32Z",
         "fileIds": [
-          "1000065594",
-          "1000065593",
+          "1000071972",
+          "1000071974",
+          "1000071973",
           "1000065592",
-          "1000065560",
           "1000065558",
           "1000065562",
+          "1000065594",
+          "1000065593",
           "1000065565",
           "1000065564",
           "1000065563",
+          "1000065560",
           "1000065559",
           "1000065557",
           "1000065556",

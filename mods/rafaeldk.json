@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T00:40:32.168Z",
+  "checkedAt": "2026-11-09T10:03:31.989Z",
   "mods": {
     "facetsData": {
       "gameId": {
@@ -29,7 +29,7 @@
       {
         "adultContent": false,
         "createdAt": "2023-10-28T17:51:39Z",
-        "fileSize": 22898,
+        "fileSize": 23471,
         "modCategory": {
           "categoryId": 8,
           "name": "Miscellaneous"
@@ -40,13 +40,16 @@
         "summary": "Optimized postprocess shader pack for OpenMW, making it look better than ever before while still being very Vanilla-friendly",
         "thumbnailUrl": "https://staticdelivery.nexusmods.com/mods/100/images/thumbnails/53667/53667-1787588794-2019004775.png",
         "uid": "429496783267",
-        "updatedAt": "2026-09-20T14:32:39Z",
+        "updatedAt": "2026-10-08T20:04:52Z",
         "fileIds": [
+          "1000072031",
+          "1000072030",
+          "1000071967",
+          "1000061820",
+          "1000059202",
           "1000070832",
           "1000070831",
           "1000070830",
-          "1000061820",
-          "1000059202",
           "1000069399",
           "1000069306",
           "1000069003",
